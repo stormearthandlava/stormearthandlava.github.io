@@ -7,3 +7,28 @@
 
 
 // add more custom styles here
+
+// Top menu fixes
+.page-link:hover { // Fix top menu hover
+  border-bottom: 1px solid $grey-color-light;
+}
+a.page-link { // Fixes to ensure top menu is in one line
+  display: inline;
+}
+div.dropdown { // Fixes to ensure top menu is in one line
+  display: inline;
+}
+.svg-icon { // Fix svg icon display in footer
+  padding-right: 0px;
+  margin-right: 5px;
+}
+
+// change footer distribution to 40%, 60%
+.footer-col-1 {
+  width: -webkit-calc(40% - (30px / 2));
+  width: calc(40% - (30px / 2));
+}
+.footer-col-2 {
+  width: -webkit-calc(60% - (30px / 2));
+  width: calc(60% - (30px / 2));
+}

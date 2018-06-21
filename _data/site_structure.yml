@@ -1,0 +1,43 @@
+categories:
+
+- title: General
+  subcategories:
+    - title: Introduction
+      url: guide/general/introduction.html
+    - title: Priority List
+      url: guide/general/priority_list.html
+    - title: Stats
+      url: guide/general/stats.html
+    - title: Azerite Traits
+      url: guide/general/azerite_traits.html
+    - title: Trinkets
+      url: guide/general/trinkets.html
+    - title: Food/Flask/Pot/Races
+      url: guide/general/who_cares.html
+    - title: WeakAuras
+      url: guide/general/weak_auras.html
+    - title: F.A.Q.
+      url: guide/general/faq.html
+
+- title: Dungeons
+  subcategories:
+    - title: Introduction
+      url: guide/dungeons/introduction.html
+    - title: Dungeon1
+      url: guide/dungeons/dungeon1.html
+    - title: Dungeon2
+      url: guide/dungeons/dungeon2.html
+    - title: Dungeon3
+      url: guide/dungeons/dungeon2.html
+
+- title: Raids
+  subcategories:
+    - title: Uldir
+      url: guide/raids/uldir/quick_reference.html
+      subcategories:
+        - title: Boss1
+          url: guide/raids/uldir/boss1.html
+        - title: Boss2
+          url: guide/raids/uldir/boss2.html
+        - title: Boss3
+          url: guide/raids/uldir/boss3.html
