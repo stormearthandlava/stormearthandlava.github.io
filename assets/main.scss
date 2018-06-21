@@ -23,6 +23,22 @@ div.dropdown { // Fixes to ensure top menu is in one line
   margin-right: 5px;
 }
 
+// Top menu color fixes
+.dropdown-menu {
+  color: $text-color;
+  background: $background-color;
+  border: 1px solid $grey-color;
+}
+.dropdown-item {
+  color: $text-color;
+  line-height: $spacing-unit;
+}
+.dropdown-item:hover {
+  color: $grey-color;
+  background-color: $background-color;
+}
+
+
 // change footer distribution to 40%, 60%
 .footer-col-1 {
   width: -webkit-calc(40% - (30px / 2));
