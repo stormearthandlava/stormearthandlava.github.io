@@ -1,5 +1,5 @@
 ---
 layout: category
 title: General Guide
-category: guide
+category: general
 ---

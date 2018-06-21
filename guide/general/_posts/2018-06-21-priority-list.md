@@ -1,6 +1,5 @@
 ---
 layout: post
-category: guide
 title: "Priority list"
 ---
 1. Lava Burst
