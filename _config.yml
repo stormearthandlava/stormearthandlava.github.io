@@ -28,6 +28,7 @@ markdown: kramdown
 # https://github.com/jekyll/minima
 theme: minima
 show_download: false
+show_excerpts: true # show excerpt of posts
 
 plugins:
   #- jekyll-feed
