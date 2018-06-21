@@ -14,7 +14,7 @@ $text-color:       #fdfdfd !default; // old: // #111 !default;
 $background-color: #111 !default; // old: // #fdfdfd !default;
 $brand-color:      #2a7ae2 !default;
 
-$grey-color:       #b2b2b2 !default; // old: // #828282 !default;
+$grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
