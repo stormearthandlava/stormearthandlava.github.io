@@ -5,6 +5,22 @@
   {%- seo -%}
   <!-- inlcude bootstrap style before all others to allow easy overrides -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+  <!-- Add wowhead tooltip to all pages -->
+  <script>
+    var whTooltips = {
+      colorLinks: true,
+      iconizeLinks: true,
+      iconsize: "small", // default: tiny
+      renameLinks: true,
+      hide: {
+        sellprice: true,
+        ilvl: true,
+        dropchance: true
+      }
+    };
+  </script>
+  <script src="//wow.zamimg.com/widgets/power.js"></script>
+
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
