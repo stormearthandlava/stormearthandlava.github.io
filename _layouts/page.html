@@ -4,7 +4,23 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h1 name="post-title">{{ page.title | escape }}</h1>
+    {%- if page.last_update or page.game_version -%}
+      <p class="post-meta">
+        {%- if page.last_update -%}
+          <time class="dt-updated" datetime="{{ page.last_update | date_to_xmlschema }}" itemprop="dateUpdated">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            last update {{ page.last_update | date: date_format }}
+          </time>
+        {%- endif -%}
+        {%- if page.last_update and page.game_version -%}
+          <span name="devider">•&nbsp;</span>
+        {%- endif -%}
+        {%- if page.game_version -%}
+          for <span itemprop="game_version">{{ page.game_version }}</span>
+        {%- endif -%}
+      </p>
+    {%- endif -%}
   </header>
 
   <div class="post-content">
