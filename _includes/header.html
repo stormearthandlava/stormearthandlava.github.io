@@ -16,14 +16,11 @@
           </span>
         </label>
 
-        <!-- <div class="trigger">
-          {%- for category in site.data.site_structure.categories -%}
-            <a class="page-link" href="{{category.url}}">{{category.title}}</a>
-          {%- endfor -%}
-        </div> -->
-
         <div class="trigger">
           {%- for category in site.data.site_structure.categories -%}
+            {%- if category.url -%}
+              <a class="page-link" href="{{ category.url }}">{{ category.title }}</a>
+            {%- else -%}
             <div class="dropdown">
               <a class="page-link dropdown-toggle" role="button" href="#" id="{{ category.title }}"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ category.title }}</a>
 
@@ -33,6 +30,7 @@
                 {%- endfor -%}
               </div>
             </div>
+            {%- endif -%}
           {%- endfor -%}
         </div>
 
