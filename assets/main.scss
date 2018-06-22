@@ -33,7 +33,10 @@ div.dropdown { // Fixes to ensure top menu is in one line
   color: $text-color;
   line-height: $spacing-unit;
 }
-.dropdown-item:hover {
+a.dropdown-item:visited {
+  color: $text-color;
+}
+.dropdown-item:hover, a.dropdown-item:hover {
   color: $grey-color;
   background-color: $background-color;
 }
