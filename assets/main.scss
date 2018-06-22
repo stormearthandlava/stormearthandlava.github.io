@@ -37,6 +37,9 @@ div.dropdown { // Fixes to ensure top menu is in one line
   color: $grey-color;
   background-color: $background-color;
 }
+.dropdown-toggle::after { // adjust drop down arrow to be slightly lower
+  vertical-align: 0.18em;
+}
 
 
 // change footer distribution to 40%, 60%
