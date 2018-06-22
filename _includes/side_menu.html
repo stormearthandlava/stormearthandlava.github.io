@@ -1,0 +1,20 @@
+{%- for main_category in site.data.site_structure.categories -%}
+  {%- for sub_category in main_category.subcategories -%}
+
+    {%- if sub_category.url == page.url -%}
+
+      <div class="side-menu">
+        <h3>{{- main_category.title -}}</h3>
+        <ul type="square">
+
+          {%- for sibling in main_category.subcategories -%}
+            <li><a href="{{- sibling.url -}}">{{- sibling.title -}}</a></li>
+          {%- endfor -%}
+
+        </ul>
+
+      </div>
+    {%- endif -%}
+
+  {%- endfor -%}
+{%- endfor -%}
