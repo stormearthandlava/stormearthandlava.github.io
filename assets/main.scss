@@ -73,3 +73,23 @@ a.dropdown-item:visited {
     display: none;
   }
 }
+@media only screen and (min-width: 1300px) {
+  .side-menu { // adjust position to be closer to content
+    right: 10%;
+  }
+}
+@media only screen and (min-width: 1500px) {
+  .side-menu { // adjust position to be closer to content
+    right: 15%;
+  }
+}
+@media only screen and (min-width: 1700px) {
+  .side-menu { // adjust position to be closer to content
+    right: 20%;
+  }
+}
+@media only screen and (min-width: 1950px) { // +50px to ensure no overlap
+  .side-menu { // adjust position to be closer to content
+    right: 25%;
+  }
+}
