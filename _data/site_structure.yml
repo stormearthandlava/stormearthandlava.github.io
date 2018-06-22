@@ -1,10 +1,12 @@
+# Note: If a catagory has an url, its children won't be shown in the top menu
+
 categories:
 
 - title: General
   subcategories:
 
-    - title: Introduction
-      url: /guide/general/introduction.html
+    - title: Talents
+      url: /guide/general/talents.html
     - title: Priority List
       url: /guide/general/priority_list.html
     - title: Stats
@@ -13,18 +15,20 @@ categories:
       url: /guide/general/azerite_traits.html
     - title: Trinkets
       url: /guide/general/trinkets.html
-    - title: Food/Flask/Pot/Races
+    - title: Food/Flask/Pot
       url: /guide/general/consumables.html
     - title: WeakAuras
       url: /guide/general/weak_auras.html
     - title: F.A.Q.
       url: /guide/general/faq.html
 
-- title: Dungeons
+- title: Mythic+
+  # activate this v line if you don't want child elements in the top menu
+  #url: /guide/dungeons/general.html
   subcategories:
 
-    - title: Introduction
-      url: /guide/dungeons/introduction.html
+    - title: General Guide
+      url: /guide/dungeons/general.html
     - title: Dungeon1
       url: /guide/dungeons/dungeon1.html
     - title: Dungeon2
@@ -36,7 +40,7 @@ categories:
   subcategories:
 
     - title: Uldir
-      url: /guide/raids/uldir/quick_reference.html
+      url: /guide/raids/uldir/general.html
       subcategories:
 
         - title: Boss1
