@@ -2,6 +2,7 @@ categories:
 
 - title: General
   subcategories:
+
     - title: Introduction
       url: /guide/general/introduction.html
     - title: Priority List
@@ -21,6 +22,7 @@ categories:
 
 - title: Dungeons
   subcategories:
+
     - title: Introduction
       url: /guide/dungeons/introduction.html
     - title: Dungeon1
@@ -32,9 +34,11 @@ categories:
 
 - title: Raids
   subcategories:
+
     - title: Uldir
       url: /guide/raids/uldir/quick_reference.html
       subcategories:
+
         - title: Boss1
           url: /guide/raids/uldir/boss1.html
         - title: Boss2
