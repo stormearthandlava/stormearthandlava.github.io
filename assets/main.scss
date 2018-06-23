@@ -93,3 +93,7 @@ a.dropdown-item:visited {
     right: 25%;
   }
 }
+
+pre code, code { // readd this to override bootstraps once again
+  color: $text-color;
+}
