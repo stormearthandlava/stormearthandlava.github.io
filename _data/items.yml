@@ -2,11 +2,12 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
-# <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
 #
+# Replace SHORTCUT    with the name you want
 # Replace TYPE        with "spell" or "item"
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
