@@ -14,6 +14,7 @@ layout: default
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
 
     <ul class="post-list">
+      <!-- adjusting the number of posts per page happens in _config.yml 'paginate: ' -->
       {%- for post in paginator.posts -%}
         {%- unless post.categories contains "guide" or post.categories contains "raids" or post.categories contains "dungeons" -%}
         <li>
