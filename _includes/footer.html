@@ -27,6 +27,7 @@
 
       <div class="footer-col footer-col-2">
         <p style="text-align: right; margin-right: -12px;">{{- site.description | escape -}}</p>
+        {%- if site.patreon_name -%}<p style="text-align: right; margin-right: -12px;"><a href="https://www.patreon.com/{{ site.patreon_name }}" target="blank"><img src="{{ '/assets/img/logos/become_a_patron_button.png' | relative_url }}" alt="Patreon button logo" height="36" style="vertical-align: text-top;"/></a></p>{%- endif -%}
       </div>
     </div>
 
