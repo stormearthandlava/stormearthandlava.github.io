@@ -10,7 +10,7 @@ layout: default
         {%- if page.last_update -%}
           <time class="dt-updated" datetime="{{ page.last_update | date_to_xmlschema }}" itemprop="dateUpdated">
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            last update {{ page.last_update | date: date_format }}
+            last update on {{ page.last_update | date: date_format }}
           </time>
         {%- endif -%}
         {%- if page.last_update and page.game_version -%}
