@@ -47,6 +47,7 @@ a.dropdown-item:visited {
   vertical-align: 0.18em;
 }
 
+// footer
 .svg-icon { // Fix svg icon display in footer
   padding-right: 0px;
   margin-right: 5px;
@@ -62,7 +63,7 @@ a.dropdown-item:visited {
 }
 
 
-// Side menu for all posts within a category. Lists all sibling categories
+// Side menu for all pages within a category. Lists all siblings
 .side-menu {
   //background-color: $grey-color-dark;
   margin-left: $spacing-unit;
