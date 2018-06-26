@@ -9,20 +9,23 @@
 // add more custom styles here
 
 // Top menu fixes
-.page-link:hover { // Fix top menu hover
+nav.navbar {
+  padding: 0rem 0rem;
+}
+.nav-link { // Fix top menu hover
+  margin-right: 20px;
+  color: $text-color;
+  border-bottom: 1px solid $background-color;
+}
+.nav-link:hover { // Fix top menu hover
   border-bottom: 1px solid $grey-color-light;
 }
-a.page-link { // Fixes to ensure top menu is in one line
-  display: inline;
+button.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.1)
 }
-div.dropdown { // Fixes to ensure top menu is in one line
-  display: inline;
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
 }
-.svg-icon { // Fix svg icon display in footer
-  padding-right: 0px;
-  margin-right: 5px;
-}
-
 // Top menu color fixes
 .dropdown-menu {
   color: $text-color;
@@ -44,7 +47,10 @@ a.dropdown-item:visited {
   vertical-align: 0.18em;
 }
 
-
+.svg-icon { // Fix svg icon display in footer
+  padding-right: 0px;
+  margin-right: 5px;
+}
 // change footer distribution to 40%, 60%
 .footer-col-1 {
   width: -webkit-calc(40% - (30px / 2));
