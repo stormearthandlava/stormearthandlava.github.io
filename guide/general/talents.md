@@ -14,6 +14,7 @@ Type | Talent combination
 Questing / Solo&nbsp;Content | {{ site.data.talent.eote }}, {{ site.data.talent.mote }}, {{ site.data.talent.earth_shield }}, {{ site.data.talent.hv }}, {{ site.data.talent.natures_guardian }}, {{ site.data.talent.er }}, {{ site.data.talent.up }}
 Dungeon / mythic+ / AoE | {{ site.data.talent.ee }}, {{ site.data.talent.tm }}, {{ site.data.talent.spirit_wolf }}, {{ site.data.talent.hv }}, {{ site.data.talent.natures_guardian }}, {{ site.data.talent.pe }}, {{ site.data.talent.up }}
 Raid / Single&nbsp;Target | {{ site.data.talent.eote }}, {{ site.data.talent.tm }}, {{ site.data.talent.earth_shield }}, {{ site.data.talent.hv }}, {{ site.data.talent.natures_guardian }}, {{ site.data.talent.er }}, {{ site.data.talent.up }}
+Heavy Movement | {{ site.data.talent.eote }}, {{ site.data.talent.tm }}, {{ site.data.talent.earth_shield }}, {{ site.data.talent.hv }}, {{ site.data.talent.natures_guardian }}, {{ site.data.talent.er }}, {{ site.data.talent.up }}
 
 ## Level 15
 - {{ site.data.talent.ee }}
