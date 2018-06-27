@@ -1,5 +1,5 @@
 ---
-title: "Stats"
+title: Stats & Enchants
 layout: page
 last_update: 2018-06-23 9:00:00
 game_version: 7.3.5.26899
@@ -7,13 +7,30 @@ game_version: 7.3.5.26899
 
 Due to the advent of the Titanforging system, BiS lists are a defunct practice. We suggest you simulate each piece of gear you obtain against your other gear to find the most effective gear set. Aside from that, following a general stat priority and ratio is the most practical way to move forward with gearing. Additionally, we are focused on single target output for raid environments, as it is vastly more important than building for AoE or cleave specifically, but don’t be afraid to experiment to tailor yourself to a raid encounter.
 
-### Stat priorities and ratios
+## Stat ratios
 
 Below are our advised stat gearing strategies for talent combinations. We won’t release numbers for every single talent combination, but the general ratio and priority serve as a good all-round distribution.
 
 Purpose | Critical Strike | Haste | Mastery | Versatility
 --- | --- | --- | --- | ---
-General | 1.0 | 0.75 | 1.0 | 0.1
+Dungeon / mythic+ / AoE | ? | ? | ? | ?
+Raid / Single&nbsp;Target | 1.0 | 0.75 | 1.0 | 0.1
+Questing / Solo&nbsp;Content | ? | ? | ? | ?
+Movement | ? | ? | ? | ?
+
+
+<div class="accordion" id="accordion">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#statRatiosCollapse" aria-expanded="false" aria-controls="statRatiosCollapse">
+          Read more information about stat ratios here
+        </button>
+      </h5>
+    </div>
+
+    <div id="statRatiosCollapse" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body" markdown="1">
 
 ### What are stat ratios?
 
@@ -37,4 +54,24 @@ We make heavy use of [bloodytools](https://github.com/Bloodmallet/bloodytools), 
 ### Stat ratios and comparisons
 The figure below shows the current stat ratios of three separate purposes: Gambling, AoE and General. This serves as a graphical example of how stat ratios are a distribution of a given amount of secondary stats and not the relative ‘DPS value’ of the stats.
 
+  </div>
+  </div>
+  </div>
+</div>
+<br/>
 
+## Enchants
+
+Slot | Enchant
+--- | ---
+?? | ??
+?? | ??
+?? | ??
+?? | ??
+?? | ??
+?? | ??
+?? | ??
+
+## Gems
+
+Gem whatever stat you need most.

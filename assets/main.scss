@@ -114,3 +114,14 @@ ul {
 .highlighter-rouge .highlight { // fix block code
   background: #223;
 }
+
+.card {
+  background-color: #222;
+  border: 1px solid $grey-color-dark;
+}
+.card-header {
+  border-bottom: 1px solid $grey-color-dark;
+}
+.accordion .card:first-of-type, .card:last-of-type {
+  border-bottom: 1px solid $grey-color-dark;
+}
