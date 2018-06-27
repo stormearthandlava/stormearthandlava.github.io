@@ -109,3 +109,8 @@ pre code, code { // readd this to override bootstraps once again
 ul {
   list-style-type: square;
 }
+
+
+.highlighter-rouge .highlight { // fix block code
+  background: #223;
+}
