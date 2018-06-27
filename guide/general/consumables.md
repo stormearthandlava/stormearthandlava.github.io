@@ -1,8 +1,22 @@
 ---
 layout: page
-title: Food/Flask/Pot
+title: Consumables
 last_update: 2018-06-22 09:00:00
 game_version: 8.0.1
 ---
 
-Welcome to Storm, Earth, and Lava. We're excited to present Elemental Shaman information.
+## Flask
+> Flask name here
+
+## Food
+> Ranking here
+
+1. Hello World
+1. Hello World
+1. Hello World
+
+## Potion
+> Potion name here
+
+## Rune
+> Rune name here
