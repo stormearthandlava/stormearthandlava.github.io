@@ -5,7 +5,7 @@
 
       <div class="side-menu">
         <h3>{{- main_category.title -}}</h3>
-        <ul type="square">
+        <ul>
 
           {%- for sibling in main_category.subcategories -%}
             <li><a href="{{- sibling.url -}}">{{- sibling.title -}}</a></li>
