@@ -21,7 +21,7 @@ Movement | ? | ? | ? | ?
 
 <div class="accordion" id="accordion">
   <div class="card">
-    <div class="card-header" id="headingOne">
+    <div class="card-header" id="statRatiosHeader">
       <h5 class="mb-0">
         <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#statRatiosCollapse" aria-expanded="false" aria-controls="statRatiosCollapse">
           Read more information about stat ratios here
@@ -29,7 +29,7 @@ Movement | ? | ? | ? | ?
       </h5>
     </div>
 
-    <div id="statRatiosCollapse" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+    <div id="statRatiosCollapse" class="collapse" aria-labelledby="statRatiosHeader" data-parent="#accordion">
       <div class="card-body" markdown="1">
 
 ### What are stat ratios?
