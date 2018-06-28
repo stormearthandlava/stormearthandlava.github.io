@@ -57,14 +57,13 @@ a.dropdown-item:visited {
   margin-right: 5px;
 }
 // change footer distribution to 40%, 60%
-// 30px = $spacing-unit
 .footer-col-1 {
-  width: -webkit-calc(40% - ( 30px / 2));
-  width: calc(40% - ( 30px / 2));
+  width: -webkit-calc(40% - ( #{$spacing-unit} / 2));
+  width: calc(40% - ( #{$spacing-unit} / 2));
 }
 .footer-col-2 {
-  width: -webkit-calc(60% - ( 30px / 2));
-  width: calc(60% - ( 30px / 2));
+  width: -webkit-calc(60% - ( #{$spacing-unit} / 2));
+  width: calc(60% - ( #{$spacing-unit} / 2));
 }
 
 
