@@ -19,6 +19,10 @@ nav.navbar {
 }
 .nav-link:hover { // Fix top menu hover
   border-bottom: 1px solid $grey-color-light;
+  color: $text-color;
+}
+.nav-link:visited {
+  color: $text-color;
 }
 button.navbar-toggler {
   border-color: rgba(255, 255, 255, 0.1)
@@ -53,13 +57,14 @@ a.dropdown-item:visited {
   margin-right: 5px;
 }
 // change footer distribution to 40%, 60%
+// 30px = $spacing-unit
 .footer-col-1 {
-  width: -webkit-calc(40% - ($spacing-unit / 2));
-  width: calc(40% - ($spacing-unit / 2));
+  width: -webkit-calc(40% - ( 30px / 2));
+  width: calc(40% - ( 30px / 2));
 }
 .footer-col-2 {
-  width: -webkit-calc(60% - ($spacing-unit / 2));
-  width: calc(60% - ($spacing-unit / 2));
+  width: -webkit-calc(60% - ( 30px / 2));
+  width: calc(60% - ( 30px / 2));
 }
 
 
