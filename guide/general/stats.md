@@ -12,10 +12,10 @@ Below are our advised stat gearing strategies for talent combinations. We won’
 
 Purpose | Critical Strike | Haste | Mastery | Versatility
 --- | --- | --- | --- | ---
-Dungeon / mythic+ / AoE | ? | ? | ? | ?
-Raid / Single&nbsp;Target | 1.0 | 0.75 | 1.0 | 0.1
 Questing / Solo&nbsp;Content | ? | ? | ? | ?
-Movement | ? | ? | ? | ?
+Dungeon / mythic+ / AoE | ? | ? | ? | ?
+Raid / Single&nbsp;Target | ? | ? | ? | ?
+Heavy Movement | ? | ? | ? | ?
 
 
 <div class="accordion" id="accordion">
