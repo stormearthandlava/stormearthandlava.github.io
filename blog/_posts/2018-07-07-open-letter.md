@@ -83,6 +83,7 @@ This letter was created by
 - Bloodmallet(EU)
 - Gistwiki
 - Slanderman
+
 Many more helped, but aren't listed here. We sincerely hope it can help to improve the future or Elemental Shamans.
 
 Parallel posts of this open letter can be found in the official forums ([US]()/[EU]()), [StormEarthandLava](), and [Binkenstein's blog]().
