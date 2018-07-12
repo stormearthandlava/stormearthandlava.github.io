@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,78 +12,78 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-astral_recall: <a href="https://www.wowhead.com/spell=556" target="blank">Astral Recall</a>
+astral_recall: <a href="https://bfa.wowhead.com/spell=556" target="blank">Astral Recall</a>
 
-astral_shift: <a href="https://www.wowhead.com/spell=108271" target="blank">Astral Shift</a>
+astral_shift: <a href="https://bfa.wowhead.com/spell=108271" target="blank">Astral Shift</a>
 
-bloodlust: <a href="https://www.wowhead.com/spell=2825" target="blank">Bloodlust/Heroism</a>
-heroism: <a href="https://www.wowhead.com/spell=2825" target="blank">Bloodlust/Heroism</a>
+bloodlust: <a href="https://bfa.wowhead.com/spell=2825" target="blank">Bloodlust/Heroism</a>
+heroism: <a href="https://bfa.wowhead.com/spell=2825" target="blank">Bloodlust/Heroism</a>
 
-capacitor_totem: <a href="https://www.wowhead.com/spell=192058" target="blank">Capacitor Totem</a>
+capacitor_totem: <a href="https://bfa.wowhead.com/spell=192058" target="blank">Capacitor Totem</a>
 
-chain_lightning: <a href="https://www.wowhead.com/spell=188443" target="blank">Chain Lightning</a>
-cl: <a href="https://www.wowhead.com/spell=188443" target="blank">Chain Lightning</a>
+chain_lightning: <a href="https://bfa.wowhead.com/spell=188443" target="blank">Chain Lightning</a>
+cl: <a href="https://bfa.wowhead.com/spell=188443" target="blank">Chain Lightning</a>
 
-chain_lightning_rank_2: <a href="https://www.wowhead.com/spell=231722" target="blank">Chain Lightning Rank 2</a>
-cl_2: <a href="https://www.wowhead.com/spell=231722" target="blank">Chain Lightning Rank 2</a>
+chain_lightning_rank_2: <a href="https://bfa.wowhead.com/spell=231722" target="blank">Chain Lightning Rank 2</a>
+cl_2: <a href="https://bfa.wowhead.com/spell=231722" target="blank">Chain Lightning Rank 2</a>
 
-cleanse_spirit: <a href="https://www.wowhead.com/spell=51886" target="blank">Cleanse Spirit</a>
+cleanse_spirit: <a href="https://bfa.wowhead.com/spell=51886" target="blank">Cleanse Spirit</a>
 
-earth_elemental: <a href="https://www.wowhead.com/spell=198103" target="blank">Earth Elemental</a>
-ee: <a href="https://www.wowhead.com/spell=198103" target="blank">Earth Elemental</a>
+earth_elemental: <a href="https://bfa.wowhead.com/spell=198103" target="blank">Earth Elemental</a>
+ee: <a href="https://bfa.wowhead.com/spell=198103" target="blank">Earth Elemental</a>
 
-earth_shock: <a href="https://www.wowhead.com/spell=8042" target="blank">Earth Shock</a>
-es: <a href="https://www.wowhead.com/spell=8042" target="blank">Earth Shock</a>
+earth_shock: <a href="https://bfa.wowhead.com/spell=8042" target="blank">Earth Shock</a>
+es: <a href="https://bfa.wowhead.com/spell=8042" target="blank">Earth Shock</a>
 
-earthbind_totem: <a href="https://www.wowhead.com/spell=2484" target="blank">Earthbind Totem</a>
+earthbind_totem: <a href="https://bfa.wowhead.com/spell=2484" target="blank">Earthbind Totem</a>
 
-earthquake: <a href="https://www.wowhead.com/spell=61882" target="blank">Earthquake</a>
-eq: <a href="https://www.wowhead.com/spell=61882" target="blank">Earthquake</a>
+earthquake: <a href="https://bfa.wowhead.com/spell=61882" target="blank">Earthquake</a>
+eq: <a href="https://bfa.wowhead.com/spell=61882" target="blank">Earthquake</a>
 
-elemental_fury: <a href="https://www.wowhead.com/spell=60188" target="blank">Elemental Fury</a>
-ef: <a href="https://www.wowhead.com/spell=60188" target="blank">Elemental Fury</a>
+elemental_fury: <a href="https://bfa.wowhead.com/spell=60188" target="blank">Elemental Fury</a>
+ef: <a href="https://bfa.wowhead.com/spell=60188" target="blank">Elemental Fury</a>
 
-elemental_overload: '<a href="https://www.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-mastery_elemental_overload: '<a href="https://www.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-overload: '<a href="https://www.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
-mastery: '<a href="https://www.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
+elemental_overload: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
+mastery_elemental_overload: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
+overload: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
+mastery: '<a href="https://bfa.wowhead.com/spell=168534" target="blank">Mastery: Elemental Overload</a>'
 
-fire_elemental: <a href="https://www.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
-fe: <a href="https://www.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
+fire_elemental: <a href="https://bfa.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
+fe: <a href="https://bfa.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
 
-flame_shock: <a href="https://www.wowhead.com/spell=188389" target="blank">Flame Shock</a>
-fs: <a href="https://www.wowhead.com/spell=188389" target="blank">Flame Shock</a>
+flame_shock: <a href="https://bfa.wowhead.com/spell=188389" target="blank">Flame Shock</a>
+fs: <a href="https://bfa.wowhead.com/spell=188389" target="blank">Flame Shock</a>
 
-frost_shock: <a href="https://www.wowhead.com/spell=196840" target="blank">Frost Shock</a>
-frs: <a href="https://www.wowhead.com/spell=196840" target="blank">Frost Shock</a>
+frost_shock: <a href="https://bfa.wowhead.com/spell=196840" target="blank">Frost Shock</a>
+frs: <a href="https://bfa.wowhead.com/spell=196840" target="blank">Frost Shock</a>
 
-healing_surge: <a href="https://www.wowhead.com/spell=8004" target="blank">Healing Surge</a>
+healing_surge: <a href="https://bfa.wowhead.com/spell=8004" target="blank">Healing Surge</a>
 
-hex: <a href="https://www.wowhead.com/spell=51514" target="blank">Hex</a>
+hex: <a href="https://bfa.wowhead.com/spell=51514" target="blank">Hex</a>
 
-ghost_wolf: <a href="https://www.wowhead.com/spell=2645" target="blank">Ghost Wolf</a>
+ghost_wolf: <a href="https://bfa.wowhead.com/spell=2645" target="blank">Ghost Wolf</a>
 
-lava_beam: <a href="https://www.wowhead.com/spell=114074" target="blank">Lava Beam</a>
-lvbm: <a href="https://www.wowhead.com/spell=114074" target="blank">Lava Beam</a>
+lava_beam: <a href="https://bfa.wowhead.com/spell=114074" target="blank">Lava Beam</a>
+lvbm: <a href="https://bfa.wowhead.com/spell=114074" target="blank">Lava Beam</a>
 
-lava_burst: <a href="https://www.wowhead.com/spell=51505" target="blank">Lava Burst</a>
-lvb: <a href="https://www.wowhead.com/spell=51505" target="blank">Lava Burst</a>
+lava_burst: <a href="https://bfa.wowhead.com/spell=51505" target="blank">Lava Burst</a>
+lvb: <a href="https://bfa.wowhead.com/spell=51505" target="blank">Lava Burst</a>
 
-lava_surge: <a href="https://www.wowhead.com/spell=77756" target="blank">Lava Surge</a>
-ls: <a href="https://www.wowhead.com/spell=77756" target="blank">Lava Surge</a>
+lava_surge: <a href="https://bfa.wowhead.com/spell=77756" target="blank">Lava Surge</a>
+ls: <a href="https://bfa.wowhead.com/spell=77756" target="blank">Lava Surge</a>
 
-lightning_bolt: <a href="https://www.wowhead.com/spell=188196" target="blank">Lightning Bolt</a>
-lb: <a href="https://www.wowhead.com/spell=188196" target="blank">Lightning Bolt</a>
+lightning_bolt: <a href="https://bfa.wowhead.com/spell=188196" target="blank">Lightning Bolt</a>
+lb: <a href="https://bfa.wowhead.com/spell=188196" target="blank">Lightning Bolt</a>
 
-purge: <a href="https://www.wowhead.com/spell=370" target="blank">Purge</a>
+purge: <a href="https://bfa.wowhead.com/spell=370" target="blank">Purge</a>
 
-reincarnation: <a href="https://www.wowhead.com/spell=20608" target="blank">Reincarnation</a>
-ankh: <a href="https://www.wowhead.com/spell=20608" target="blank">Reincarnation</a>
+reincarnation: <a href="https://bfa.wowhead.com/spell=20608" target="blank">Reincarnation</a>
+ankh: <a href="https://bfa.wowhead.com/spell=20608" target="blank">Reincarnation</a>
 
-thunderstorm: <a href="https://www.wowhead.com/spell=51490" target="blank">Thunderstorm</a>
+thunderstorm: <a href="https://bfa.wowhead.com/spell=51490" target="blank">Thunderstorm</a>
 
-tremor_totem: <a href="https://www.wowhead.com/spell=8143" target="blank">Tremor Totem</a>
+tremor_totem: <a href="https://bfa.wowhead.com/spell=8143" target="blank">Tremor Totem</a>
 
-water_walking: <a href="https://www.wowhead.com/spell=546" target="blank">Water Walking</a>
+water_walking: <a href="https://bfa.wowhead.com/spell=546" target="blank">Water Walking</a>
 
-wind_shear: <a href="https://www.wowhead.com/spell=57994" target="blank">Wind Shear</a>
+wind_shear: <a href="https://bfa.wowhead.com/spell=57994" target="blank">Wind Shear</a>

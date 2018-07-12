@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,77 +12,77 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+example: <a href="https://bfa.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
-flask_of_the_vast_horizon: <a href="https://www.wowhead.com/item=152640" target="blank">Flask of the Vast Horizon</a>
+flask_of_the_vast_horizon: <a href="https://bfa.wowhead.com/item=152640" target="blank">Flask of the Vast Horizon</a>
 
-flask_of_the_endless_fathoms: <a href="https://www.wowhead.com/item=152639" target="blank">Flask of the Endless Fathoms</a>
+flask_of_the_endless_fathoms: <a href="https://bfa.wowhead.com/item=152639" target="blank">Flask of the Endless Fathoms</a>
 
-mystical_cauldron: <a href="https://www.wowhead.com/item=162519" target="blank">Mystical Cauldron</a>
+mystical_cauldron: <a href="https://bfa.wowhead.com/item=162519" target="blank">Mystical Cauldron</a>
 
-coastal_healing_potion: <a href="https://www.wowhead.com/item=152494" target="blank">Coastal Healing Potion</a>
+coastal_healing_potion: <a href="https://bfa.wowhead.com/item=152494" target="blank">Coastal Healing Potion</a>
 
-potion_of_concealment: <a href="https://www.wowhead.com/item=152503" target="blank">Potion of Concealment</a>
+potion_of_concealment: <a href="https://bfa.wowhead.com/item=152503" target="blank">Potion of Concealment</a>
 
-sea_mist_potion: <a href="https://www.wowhead.com/item=152550" target="blank">Sea Mist Potion</a>
+sea_mist_potion: <a href="https://bfa.wowhead.com/item=152550" target="blank">Sea Mist Potion</a>
 
-dimitris_draught_of_deception: <a href="https://www.wowhead.com/item=152496" target="blank">Dimitri's Draught of Deception</a>
-invis_pot: <a href="https://www.wowhead.com/item=152496" target="blank">Dimitri's Draught of Deception</a>
+dimitris_draught_of_deception: <a href="https://bfa.wowhead.com/item=152496" target="blank">Dimitri's Draught of Deception</a>
+invis_pot: <a href="https://bfa.wowhead.com/item=152496" target="blank">Dimitri's Draught of Deception</a>
 
-lightfoot_potion: <a href="https://www.wowhead.com/item=152497" target="blank">Lightfoot Potion</a>
+lightfoot_potion: <a href="https://bfa.wowhead.com/item=152497" target="blank">Lightfoot Potion</a>
 
-battle_potion_of_intellect: <a href="https://www.wowhead.com/item=163222" target="blank">Battle Potion of Intellect</a>
-int_pot: <a href="https://www.wowhead.com/item=163222" target="blank">Battle Potion of Intellect</a>
+battle_potion_of_intellect: <a href="https://bfa.wowhead.com/item=163222" target="blank">Battle Potion of Intellect</a>
+int_pot: <a href="https://bfa.wowhead.com/item=163222" target="blank">Battle Potion of Intellect</a>
 
-battle_potion_of_stamina: <a href="https://www.wowhead.com/item=163225" target="blank">Battle Potion of Stamina</a>
+battle_potion_of_stamina: <a href="https://bfa.wowhead.com/item=163225" target="blank">Battle Potion of Stamina</a>
 
-galley_banquet: <a href="https://www.wowhead.com/item=156525" target="blank">Galley Banquet</a>
+galley_banquet: <a href="https://bfa.wowhead.com/item=156525" target="blank">Galley Banquet</a>
 
-bountiful_captains_feast: <a href="https://www.wowhead.com/item=156526" target="blank">Bountiful Captain's Feast</a>
-feast: <a href="https://www.wowhead.com/item=156526" target="blank">Bountiful Captain's Feast</a>
+bountiful_captains_feast: <a href="https://bfa.wowhead.com/item=156526" target="blank">Bountiful Captain's Feast</a>
+feast: <a href="https://bfa.wowhead.com/item=156526" target="blank">Bountiful Captain's Feast</a>
 
-sailors_pie: <a href="https://www.wowhead.com/item=154888" target="blank">Sailor's Pie</a>
-mastery_food: <a href="https://www.wowhead.com/item=154888" target="blank">Sailor's Pie</a>
+sailors_pie: <a href="https://bfa.wowhead.com/item=154888" target="blank">Sailor's Pie</a>
+mastery_food: <a href="https://bfa.wowhead.com/item=154888" target="blank">Sailor's Pie</a>
 
-spiced_snapper: <a href="https://www.wowhead.com/item=154886" target="blank">Spiced Snapper</a>
-vers_food: <a href="https://www.wowhead.com/item=154886" target="blank">Spiced Snapper</a>
+spiced_snapper: <a href="https://bfa.wowhead.com/item=154886" target="blank">Spiced Snapper</a>
+vers_food: <a href="https://bfa.wowhead.com/item=154886" target="blank">Spiced Snapper</a>
 
-swamp_fishn_chips: <a href="https://www.wowhead.com/item=154884" target="blank">Swamp Fish'n Chips</a>
-haste_food: <a href="https://www.wowhead.com/item=154884" target="blank">Swamp Fish'n Chips</a>
+swamp_fishn_chips: <a href="https://bfa.wowhead.com/item=154884" target="blank">Swamp Fish'n Chips</a>
+haste_food: <a href="https://bfa.wowhead.com/item=154884" target="blank">Swamp Fish'n Chips</a>
 
-honey_glazed_haunches: <a href="https://www.wowhead.com/item=154882" target="blank">Honey-Glazed Haunches</a>
-crit_food: <a href="https://www.wowhead.com/item=154882" target="blank">Honey-Glazed Haunches</a>
+honey_glazed_haunches: <a href="https://bfa.wowhead.com/item=154882" target="blank">Honey-Glazed Haunches</a>
+crit_food: <a href="https://bfa.wowhead.com/item=154882" target="blank">Honey-Glazed Haunches</a>
 
-heartsbane_hexwurst: <a href="https://www.wowhead.com/item=163781" target="blank">Heartsbane Hexwurst</a>
+heartsbane_hexwurst: <a href="https://bfa.wowhead.com/item=163781" target="blank">Heartsbane Hexwurst</a>
 
-gale_force_striking: <a href="https://www.wowhead.com/item=153480" target="blank">Enchant Weapon - Gale-Force Striking</a>
+gale_force_striking: <a href="https://bfa.wowhead.com/item=153480" target="blank">Enchant Weapon - Gale-Force Striking</a>
 
-torrent_of_elements: <a href="https://www.wowhead.com/item=153479" target="blank">Enchant Weapon - Torrent of Elements</a>
+torrent_of_elements: <a href="https://bfa.wowhead.com/item=153479" target="blank">Enchant Weapon - Torrent of Elements</a>
 
-siphoning: <a href="https://www.wowhead.com/item=153478" target="blank">Enchant Weapon - Siphoning</a>
+siphoning: <a href="https://bfa.wowhead.com/item=153478" target="blank">Enchant Weapon - Siphoning</a>
 
-deadly_navigation: <a href="https://www.wowhead.com/item=159785" target="blank">Enchant Weapon - Deadly Navigation</a>
+deadly_navigation: <a href="https://bfa.wowhead.com/item=159785" target="blank">Enchant Weapon - Deadly Navigation</a>
 
-quick_navigation: <a href="https://www.wowhead.com/item=159786" target="blank">Enchant Weapon - Quick Navigation</a>
+quick_navigation: <a href="https://bfa.wowhead.com/item=159786" target="blank">Enchant Weapon - Quick Navigation</a>
 
-masterful_navigation: <a href="https://www.wowhead.com/item=159787" target="blank">Enchant Weapon - Masterful Navigation</a>
+masterful_navigation: <a href="https://bfa.wowhead.com/item=159787" target="blank">Enchant Weapon - Masterful Navigation</a>
 
-versatile_navigation: <a href="https://www.wowhead.com/item=159788" target="blank">Enchant Weapon - Versatile Navigation</a>
+versatile_navigation: <a href="https://bfa.wowhead.com/item=159788" target="blank">Enchant Weapon - Versatile Navigation</a>
 
-krakens_eye_of_intellect: <a href="https://www.wowhead.com/item=153709" target="blank">Kraken's Eye of Intellect</a>
-int_gem: <a href="https://www.wowhead.com/item=153709" target="blank">Kraken's Eye of Intellect</a>
+krakens_eye_of_intellect: <a href="https://bfa.wowhead.com/item=153709" target="blank">Kraken's Eye of Intellect</a>
+int_gem: <a href="https://bfa.wowhead.com/item=153709" target="blank">Kraken's Eye of Intellect</a>
 
-insightful_rubellite: <a href="https://www.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
-exp_gem: <a href="https://www.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
+insightful_rubellite: <a href="https://bfa.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
+exp_gem: <a href="https://bfa.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
 
-quick_owlseye: <a href="https://www.wowhead.com/item=154127" target="blank">Quick Owlseye</a>
-haste_gem: <a href="https://www.wowhead.com/item=154127" target="blank">Quick Owlseye</a>
+quick_owlseye: <a href="https://bfa.wowhead.com/item=154127" target="blank">Quick Owlseye</a>
+haste_gem: <a href="https://bfa.wowhead.com/item=154127" target="blank">Quick Owlseye</a>
 
-masterful_tidal_amethyst: <a href="https://www.wowhead.com/item=154129" target="blank">Masterful Tidal Amethys</a>
-mastery_gem: <a href="https://www.wowhead.com/item=154129" target="blank">Masterful Tidal Amethys</a>
+masterful_tidal_amethyst: <a href="https://bfa.wowhead.com/item=154129" target="blank">Masterful Tidal Amethys</a>
+mastery_gem: <a href="https://bfa.wowhead.com/item=154129" target="blank">Masterful Tidal Amethys</a>
 
-deadly_amberblaze: <a href="https://www.wowhead.com/item=154126" target="blank">Deadly Amberblaze</a>
-crit_gem: <a href="https://www.wowhead.com/item=154126" target="blank">Deadly Amberblaze</a>
+deadly_amberblaze: <a href="https://bfa.wowhead.com/item=154126" target="blank">Deadly Amberblaze</a>
+crit_gem: <a href="https://bfa.wowhead.com/item=154126" target="blank">Deadly Amberblaze</a>
 
-versatile_royal_quartz: <a href="https://www.wowhead.com/item=154128" target="blank">Versatile Royal Quarz</a>
-vers_gem: <a href="https://www.wowhead.com/item=154128" target="blank">Versatile Royal Quarz</a>
+versatile_royal_quartz: <a href="https://bfa.wowhead.com/item=154128" target="blank">Versatile Royal Quarz</a>
+vers_gem: <a href="https://bfa.wowhead.com/item=154128" target="blank">Versatile Royal Quarz</a>
