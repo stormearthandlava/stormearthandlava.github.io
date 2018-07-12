@@ -135,7 +135,7 @@ ul {
 .card-header {
   border-bottom: 1px solid $grey-color-dark;
 }
-.card-header h5 button::after { // drop down symbol
+.card-header h5 button::after, .card-header h4 button::after, .card-header h3 button::after { // drop down symbol
   display: inline-block;
     width: 0;
     height: 0;
