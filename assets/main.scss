@@ -177,3 +177,99 @@ div.post-content a {
     color: $brand-color;
   }
 }
+
+// Opener styles
+// Idea from http://ffxivrotations.com/ 
+
+div.opener {
+  border: 1px solid #151515;
+  background-color: #111;
+  min-height: 70px;
+  margin: 0;
+  padding: 12px;
+  padding-top: 25px;
+  border-radius: 4px;
+}
+
+div.opener .arrow {
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid #eee;
+  margin: 15px 5px 15px 5px;
+}
+
+div.opener .arrow.pull {
+  border-left: 10px solid red;
+}
+
+div.opener .skill {
+  padding: 0;
+  margin-top: 15px;
+  width: 40px;
+  height: 40px;
+  vertical-align: bottom;
+  margin-bottom: 15px;
+  box-shadow: 1px 1px 1px #8A8A8A;
+  border-radius: 4px;
+  background-position: center center;
+  position: relative;
+  box-sizing: content-box;
+  background-size: 40px 40px;
+}
+
+div.opener div.skill span {
+  margin-top: -22px;
+  position: absolute;
+  display:inline-block;
+  font-weight: bold;
+}
+
+div.opener .arrow, div.opener .skill {
+  display: inline-block;
+}
+
+div.skill.asc {
+  background-image: url('/assets/img/spellicon/asc.jpg');
+}
+
+div.skill.fe {
+  background-image: url('/assets/img/spellicon/fe.jpg');
+}
+
+div.skill.ee {
+  background-image: url('/assets/img/spellicon/ee.jpg');
+}
+
+div.skill.fs {
+  background-image: url('/assets/img/spellicon/fs.jpg');
+}
+
+div.skill.lvb {
+  background-image: url('/assets/img/spellicon/lvb.jpg');
+}
+
+div.skill.eb {
+  background-image: url('/assets/img/spellicon/eb.jpg');
+}
+
+div.skill.frs {
+  background-image: url('/assets/img/spellicon/frs.jpg');
+}
+
+div.skill.es {
+  background-image: url('/assets/img/spellicon/es.jpg');
+}
+
+div.skill.if {
+  background-image: url('/assets/img/spellicon/if.jpg');
+}
+
+div.skill.tm {
+  background-image: url('/assets/img/spellicon/tm.jpg');
+}
+
+div.skill.lb {
+  background-image: url('/assets/img/spellicon/lb.jpg');
+}

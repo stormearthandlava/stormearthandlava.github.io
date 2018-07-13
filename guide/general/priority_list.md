@@ -55,6 +55,70 @@ The elemental priority is fairly straightforward — the choice of which spell t
 1. Cast {{ site.data.spell.cl }}.
 </div>
 
+
+## Opener
+
+Follow the cast sequences below for your chosen opener. A red arrow indicates the time the boss is pulled.
+
+Standard raid opener:
+<div class="opener">
+    <div class="skill tm"><span>TM</span></div>
+    <div class="arrow"></div>
+    <div class="skill fe"><span>FE</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow"></div>
+</div>
+
+Ascendance opener without Primal Elementalist:
+<div class="opener">
+    <div class="skill tm"><span>TM</span></div>
+    <div class="arrow"></div>
+    <div class="skill fe"><span>FE</span></div>
+    <div class="arrow"></div>
+    <div class="skill ee"><span>EE</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill asc"><span>Asc</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+</div>
+
+Ascendance opener with Primal Elementalist:
+<div class="opener">
+    <div class="skill tm"><span>TM</span></div>
+    <div class="arrow"></div>
+    <div class="skill fe"><span>FE</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill asc"><span>Asc</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+</div>
+
+
 ## Warning about Primal Elementalist
 
 <p id="pe">A problem that has existed for a while now is {{site.data.talent.pe}} causing {{site.data.spell.fe}} and {{site.data.spell.ee}} to be exclusive with each other (intended) but summoning one while the other is active will simply put the new elemental on cooldown and not de-summon the existing elemental.</p>
