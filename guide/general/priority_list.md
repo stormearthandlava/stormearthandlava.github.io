@@ -23,18 +23,19 @@ The elemental priority is fairly straightforward — the choice of which spell t
     3. The debuff's duration is at or below 6 seconds remaining.
 1. Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).
 1. Cast {{ site.data.talent.asc }} on cooldown.
-1. Cast {{site.data.spell.es}} if:
-    1. You have more than 60 Maelstrom.
+1. Cast {{site.data.spell.es}} if **all** of the following are true:
+    1. Your Maelstrom is higher than 60.
     2. {{site.data.talent.mote}}'s buff is active.
     3. {{site.data.talent.ee}}'s debuff is not active on the target.
 1. Cast {{ site.data.talent.eb }} on cooldown.
 1. Cast {{ site.data.talent.sk }} on cooldown.
 1. Cast {{ site.data.talent.lmt }} on cooldown.
-1. Cast {{ site.data.spell.es }}.
+1. Cast {{ site.data.spell.es }} if your Maelstrom is higher than 92.
 1. Cast {{ site.data.spell.lvb }}.
+1. Cast {{site.data.spell.es }}.
 1. Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.
 1. Cast {{ site.data.talent.if }} on cooldown.
-1. Cast {{site.data.spell.cl}} / {{ site.data.spell.lvbm }} if it will hit more than one target.
+1. Cast {{site.data.spell.cl}} if it will hit more than one target.
 1. Cast {{ site.data.spell.lb }} as a filler.
 1. Cast {{site.data.spell.frs}} in place of {{site.data.spell.lb}} while moving, even if you do not have {{site.data.talent.if}}.
 </div>
