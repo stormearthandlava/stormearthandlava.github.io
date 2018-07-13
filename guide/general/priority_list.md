@@ -56,7 +56,7 @@ The elemental priority is fairly straightforward — the choice of which spell t
 </div>
 
 
-## Opener
+## Openers
 
 Follow the cast sequences below for your chosen opener. A red arrow indicates the time the boss is pulled.
 
