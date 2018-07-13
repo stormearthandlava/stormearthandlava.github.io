@@ -159,3 +159,21 @@ ul {
 hr {
   border-top: 1px solid $grey-color;
 }
+
+// APL list spacing
+div.apl > ol > li {
+  margin: 0 0 4px 0;
+}
+div.apl > ol > li > ol > li {
+  margin: 0 0 2px 0;
+}
+
+// Fix wowhead tooltip visited colour via `a` elements.
+div.post-content a {
+  color: $brand-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $brand-color;
+  }
+}
