@@ -1,21 +1,20 @@
 ---
 layout: page
 title: Talents
-last_update: 2018-07-12 09:00:00
-game_version: 8.0.1
+last_update: 2018-07-13 09:00:00
+game_version: 8.0.1 Pre-patch
 ---
 
 
 ## TL;DR Recommendations
 
-**These suggestions are placeholder!**
+**These suggestions are for the Legion 8.0 Pre-patch!**
 
 Type | Talent combination
 --- | ---
-Questing / Solo&nbsp;Content | {{ site.data.talent.eote }}, {{ site.data.talent.mote }}, {{ site.data.talent.earth_shield }}, {{ site.data.talent.hv }}, {{ site.data.talent.natures_guardian }}, {{ site.data.talent.er }}, {{ site.data.talent.up }}
-Dungeon / mythic+ / AoE | {{ site.data.talent.ee }}, {{ site.data.talent.tm }}, {{ site.data.talent.spirit_wolf }}, {{ site.data.talent.hv }}, {{ site.data.talent.natures_guardian }}, {{ site.data.talent.pe }}, {{ site.data.talent.up }}
-Raid / Single&nbsp;Target | {{ site.data.talent.eote }}, {{ site.data.talent.tm }}, {{ site.data.talent.earth_shield }}, {{ site.data.talent.hv }}, {{ site.data.talent.natures_guardian }}, {{ site.data.talent.er }}, {{ site.data.talent.up }}
-Heavy Movement | {{ site.data.talent.eote }}, {{ site.data.talent.tm }}, {{ site.data.talent.earth_shield }}, {{ site.data.talent.hv }}, {{ site.data.talent.natures_guardian }}, {{ site.data.talent.er }}, {{ site.data.talent.up }}
+Questing / Solo&nbsp;Content | 15: {{ site.data.talent.eote }}<br> 30: {{ site.data.talent.mote }}<br> 45: {{ site.data.talent.earth_shield }}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.er }}<br> 100: {{ site.data.talent.up }}
+Mythic+ | 15: {{ site.data.talent.ee }} **OR** {{site.data.talent.eb}}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{site.data.talent.static_charge}}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }} **OR** {{site.data.talent.ancestral_guidance}}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.up }} **OR** {{site.data.talent.sk}}
+Raid / Single&nbsp;Target | 15: {{ site.data.talent.ee }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.up }}
 
 ## In depth discussion
 
