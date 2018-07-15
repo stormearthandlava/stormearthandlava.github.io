@@ -146,7 +146,7 @@ Click the talent row text to expand.
                 <ul>
                     <li>{{site.data.spell.fe}} - gains {{site.data.spell.immolate}} and {{site.data.spell.meteor}}; a DoT and AOE attack with short cooldowns.</li>
                     <li>{{site.data.spell.ee}} - gains {{site.data.spell.harden_skin}}, a damage reduction cooldown that grants *both the Shaman and the {{site.data.spell.ee}} a 40% damage reduction buff for 10 seconds. Despite this being on a one minute cooldown, it is effectively a 5 minute cooldown as the {{site.data.spell.ee}} can only cast it once in its lifetime. Also gains {{site.data.spell.pulverize}}, a decent single target stun on a long CD -- usable twice in the {{ site.data.spell.ee }}'s lifetime. Lastly, gains {{site.data.spell.angered_earth}}, a toggleable AOE taunt. We recommend turning this off auto-cast unless you are looking to use {{site.data.spell.ee}} for its aggro purposes.</li>
-                    <li>{{site.data.talent.se}} - gains Eye of the Storm, a long CD AoE burst cooldown.</li>
+                    <li>{{site.data.talent.se}} - gains {{site.data.spell.eye_of_the_storm_damage}} a long CD AoE burst cooldown, a short range movement speed buff with the same name ({{site.data.spell.eye_of_the_storm_movement}}). Lastly, gains {{site.data.spell.call_lightning}} to buff its own damage.</li>
                 </ul>
                 <hr><br>
                 <h4>{{site.data.talent.if}} (IF)</h4> <br>
@@ -194,4 +194,9 @@ Due to the nature of {{site.data.talent.up}}'s buff stacking on {{site.data.spel
 
 #### Exposed Elements and Aftershock
 
-The last talent synergy we'll look at is that of {{site.data.talent.ee}} and {{site.data.talent.afs}}. A combination of factors enable an interaction between these talents. Firstly, the 60 Maelstrom cost of {{site.data.spell.es}} creates an important buffer between when the spell is castable and capped (100) Maelstrom, which aids in casting multiple {{site.data.spell.es}}s close together without risk of Maelstrom overflow. This part is particularly important for {{site.data.talent.ee}}, as you will want to maintain a cast chain of {{site.data.spell.es}} -> {{site.data.spell.lb}} -> Filler Spell -> {{site.data.spell.es}} -> {{site.data.spell.lb}} so as to not overwrite the {{site.data.talent.ee}} debuff on the target.
+The last talent synergy we'll look at is that of {{site.data.talent.ee}} and {{site.data.talent.afs}}. A combination of factors enable an interaction between these talents. Firstly, the 60 Maelstrom cost of {{site.data.spell.es}} creates an important buffer between when the spell is castable and capped (100) Maelstrom, which aids in casting multiple {{site.data.spell.es}}s close together without risk of Maelstrom overflow. This part is particularly important for {{site.data.talent.ee}}, as you will want to maintain a cast chain of {{site.data.spell.es}} -> {{site.data.spell.lb}} -> {{site.data.spell.es}} -> {{site.data.spell.lb}} so as to not overwrite the {{site.data.talent.ee}} debuff on the target.
+
+
+#### Storm Elemental and Primal Elementalist
+
+These two talents have a direct 'synergy' in that taking them together gets you access to additional abilities for {{site.data.talent.se}}. As per the talent rows above: {{site.data.talent.se}} gains {{site.data.spell.eye_of_the_storm_damage}} a long CD AoE burst cooldown, a short range movement speed buff with the same name ({{site.data.spell.eye_of_the_storm_movement}}). Lastly, gains {{site.data.spell.call_lightning}} to buff its own damage.
