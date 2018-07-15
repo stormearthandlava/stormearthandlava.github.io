@@ -14,9 +14,8 @@ The elemental priority is fairly straightforward — the choice of which spell t
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="1">
 1. Cast {{ site.data.talent.tm }}  when any of the following are true:
-    1. It is not active.
+    1. It is not active or you are out of range of the existing totems.
     2. You are about to enter {{site.data.talent.asc}}, and the buff would expire before {{site.data.talent.asc}} is over.
-    3. The buff's duration is at or below 9 seconds remaining.
 1. Cast {{ site.data.spell.fs }} when any of the following are true:
     1. It is not active on the target.
     2. You are about to enter {{site.data.talent.asc}}.
@@ -32,9 +31,10 @@ The elemental priority is fairly straightforward — the choice of which spell t
 1. Cast {{ site.data.talent.lmt }} on cooldown.
 1. Cast {{ site.data.spell.es }} if your Maelstrom is higher than 92.
 1. Cast {{ site.data.spell.lvb }}.
-1. Cast {{site.data.spell.es }}.
-1. Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.
 1. Cast {{ site.data.talent.if }} on cooldown.
+1. Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.
+1. Cast {{site.data.spell.es }}.
+1. Refresh {{ site.data.talent.tm }} if its duration is at or below 9 seconds remaining.
 1. Cast {{site.data.spell.cl}} if it will hit more than one target.
 1. Cast {{ site.data.spell.lb }} as a filler.
 1. Cast {{site.data.spell.frs}} in place of {{site.data.spell.lb}} while moving, even if you do not have {{site.data.talent.if}}.
@@ -117,6 +117,12 @@ Ascendance opener with Primal Elementalist:
     <div class="skill lvb"><span>LvB</span></div>
     <div class="arrow"></div>
 </div>
+<br>
+## Common misconceptions and mistakes
+
+> "I should try and play around {{site.data.talent.mote}}!"
+
+The only time you should adjust your gameplay for {{site.data.talent.mote}} is when you have the liberty to cast a spell *later* with a MotE buff versus *now* -- this means for a spell like {{site.data.spell.es}}, you can make the decision to wait until you have the {{site.data.talent.mote}} buff active before casting it (this is reflected in the priority above). This is thanks to the low urgency of {{site.data.spell.es}} casts, as you are not constrained by a cooldown or Maelstrom cast, since you can cast it at any point between 60 and 100 Maelstrom.
 
 
 ## Warning about Primal Elementalist
