@@ -42,7 +42,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.eb}} (EB)</h4> <br>
                 <p markdown="1"> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.ee}} should be taken whenever you're able to make use of the debuff on every {{site.data.spell.es}} cast. {{site.data.talent.eote}} is a decent alternative, </p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.ee}} should be taken whenever you're able to make use of the debuff on every {{site.data.spell.es}} cast. {{site.data.talent.eote}} is a decent alternative and synergises better with {{site.data.talent.mote}}.</p>
             </div>
         </div>
     </div>
@@ -63,7 +63,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.tm}} (TM)</h4> <br>
                 <p markdown="1"> A set of stationary buffing totems which provide small but effective bonuses while within their 40 yard range. Ideally you want to use this every 2 minutes, or whenever you're forced to move out of the buff radius.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** Talent X for content/goal Y Placeholder</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.tm}} for most content. {{site.data.talent.afs}} is a bit less powerful in the pre-patch, but can be used as an alternative. Currently, {{site.data.talent.mote}} is underwhelming.</p>
             </div>
         </div>
     </div>
@@ -105,7 +105,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.lmt}} (LMT)</h4> <br>
                 <p markdown="1"> Offers some nice burst AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** Placeholder</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.hv}} in almost every situation, except where you might need the burst AOE that {{site.data.talent.lmt}} offers.</p>
             </div>
         </div>
     </div>
@@ -152,7 +152,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.if}} (IF)</h4> <br>
                 <p markdown="1">Since the removal of the Maelstrom cost from {{ site.data.spell.frs }} in Patch 8.0, {{ site.data.talent.if }} has become much less complex to manage. This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. The Maelstrom cost removal from {{ site.data.spell.frs }} gives you a bit more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** Placeholder.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.pe}} in all cases.</p>
             </div>
         </div>
     </div>
@@ -173,7 +173,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.asc}} (Asc)</h4> <br>
                 <p markdown="1">A potent cooldown with a few requirements for its use. First, you must ensure you refresh {{ site.data.spell.fs }} before casting {{ site.data.talent.asc }} as the reduced duration of {{site.data.spell.fs}} in BFA would likely require you to refresh it during {{site.data.talent.asc}}. Second, you want to get high value out of {{site.data.talent.asc}} with high (optimally 100%) uptime of casts during the buff. You should adjust your casts during {{site.data.talent.asc}} as per the <a href="priority_list.html">priority list</a> page.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** Placeholder.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.up}} for single target and sustained AOE; {{site.data.talent.sk}} if you require burst AOE.</p>
             </div>
         </div>
     </div>
