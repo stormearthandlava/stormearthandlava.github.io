@@ -4,15 +4,12 @@ categories:
 
 - title: General
   subcategories:
-
     - title: Talents
       url: /guide/general/talents.html
     - title: Priority List
       url: /guide/general/priority_list.html
     - title: Stats & Enchants
       url: /guide/general/stats.html
-    - title: Azerite Traits
-      url: /guide/general/azerite_traits.html
     - title: Trinkets
       url: /guide/general/trinkets.html
     - title: Consumables
@@ -22,30 +19,35 @@ categories:
     - title: F.A.Q.
       url: /guide/general/faq.html
 
-- title: Mythic+
-  # activate this v line if you don't want child elements in the top menu
-  #url: /guide/dungeons/general.html
-  subcategories:
-
-    - title: General Guide
-      url: /guide/dungeons/general.html
-    - title: Dungeon1
-      url: /guide/dungeons/dungeon1.html
-    - title: Dungeon2
-      url: /guide/dungeons/dungeon2.html
-    - title: Dungeon3
-      url: /guide/dungeons/dungeon2.html
-
 - title: Raids
   subcategories:
+    - title: Antorus
+      url: /guide/raids/antorus/general.html
+    #- title: Uldir
+    #  url: /guide/raids/uldir/general.html
+    #  subcategories:
+    #
+    #    - title: Boss1
+    #      url: /guide/raids/uldir/boss1.html
+    #    - title: Boss2
+    #      url: /guide/raids/uldir/boss2.html
+    #    - title: Boss3
+    #      url: /guide/raids/uldir/boss3.html
 
-    - title: Uldir
-      url: /guide/raids/uldir/general.html
-      subcategories:
 
-        - title: Boss1
-          url: /guide/raids/uldir/boss1.html
-        - title: Boss2
-          url: /guide/raids/uldir/boss2.html
-        - title: Boss3
-          url: /guide/raids/uldir/boss3.html
+#- title: Azerite Traits
+#  url: /guide/general/azerite_traits.html
+
+#- title: Mythic+
+# activate this v line if you don't want child elements in the top menu
+#url: /guide/dungeons/general.html
+subcategories:
+
+#    - title: General Guide
+#      url: /guide/dungeons/general.html
+#    - title: Dungeon1
+#      url: /guide/dungeons/dungeon1.html
+#    - title: Dungeon2
+#      url: /guide/dungeons/dungeon2.html
+#    - title: Dungeon3
+#      url: /guide/dungeons/dungeon2.html
