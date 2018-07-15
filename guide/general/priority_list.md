@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Priority List
-last_update: 2018-07-13 09:00:00
+last_update: 2018-07-15 09:00:00
 game_version: 8.0.1 Pre-patch
 ---
 
