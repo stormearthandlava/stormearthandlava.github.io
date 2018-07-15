@@ -42,7 +42,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.eb}} (EB)</h4> <br>
                 <p markdown="1"> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** Talent X for content/goal Y Placeholder</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.ee}} should be taken whenever you're able to make use of the debuff on every {{site.data.spell.es}} cast. {{site.data.talent.eote}} is a decent alternative, </p>
             </div>
         </div>
     </div>
@@ -144,8 +144,8 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.pe}} (PE)</h4>
                 <p markdown="1"> This changes your {{site.data.spell.fe}}, {{site.data.spell.ee}}, and {{site.data.talent.se}} into pets you can control instead of simple fire-and-forget guardians. The effects of {{site.data.talent.pe}} are listed for each elemental below:</p>
                 <ul>
-                    <li>{{site.data.spell.fe}} - gains Immolate and Fire Nova; a DoT and AOE attack with short cooldowns.</li>
-                    <li>{{site.data.spell.ee}} - gains Harden Skin, a damage reduction cooldown that grants *both the Shaman and the {{site.data.spell.ee}} a 40% damage reduction buff for 10 seconds. Despite this being on a one minute cooldown, it is effectively a 5 minute cooldown as the {{site.data.spell.ee}} can only cast it once in its lifetime. Also gains Pulverize, a decent single target stun on a long CD -- usable twice in the {{ site.data.spell.ee }}'s lifetime.</li>
+                    <li>{{site.data.spell.fe}} - gains {{site.data.spell.immolate}} and {{site.data.spell.meteor}}; a DoT and AOE attack with short cooldowns.</li>
+                    <li>{{site.data.spell.ee}} - gains {{site.data.spell.harden_skin}}, a damage reduction cooldown that grants *both the Shaman and the {{site.data.spell.ee}} a 40% damage reduction buff for 10 seconds. Despite this being on a one minute cooldown, it is effectively a 5 minute cooldown as the {{site.data.spell.ee}} can only cast it once in its lifetime. Also gains {{site.data.spell.pulverize}}, a decent single target stun on a long CD -- usable twice in the {{ site.data.spell.ee }}'s lifetime. Lastly, gains {{site.data.spell.angered_earth}}, a toggleable AOE taunt. We recommend turning this off auto-cast unless you are looking to use {{site.data.spell.ee}} for its aggro purposes.</li>
                     <li>{{site.data.talent.se}} - gains Eye of the Storm, a long CD AoE burst cooldown.</li>
                 </ul>
                 <hr><br>
