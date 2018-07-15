@@ -10,13 +10,12 @@ Due to the advent of the Titanforging system, BiS lists are a defunct practice. 
 
 Below are our advised stat gearing strategies for talent combinations. We won’t release numbers for every single talent combination, but the general ratio and priority serve as a good all-round distribution.
 
-Purpose | Critical Strike | Haste | Mastery | Versatility
+Purpose | Crit | Haste | Mastery | Vers
 --- | --- | --- | --- | ---
-Questing / Solo&nbsp;Content | ? | ? | ? | ?
-Dungeon / mythic+ / AoE | ? | ? | ? | ?
+Dungeon / Mythic+ / AoE | ? | ? | ? | ?
 Raid / Single&nbsp;Target | ? | ? | ? | ?
-Heavy Movement | ? | ? | ? | ?
 
+Expand the section below if you want more information on what these ratios are and/or how to use them:
 
 <div class="accordion" id="accordion">
   <div class="card">
@@ -61,16 +60,14 @@ The figure below shows the current stat ratios of three separate purposes: Gambl
 
 ## Enchants
 
-Slot | Enchant
+Gear slot | Enchant
 --- | ---
-?? | ??
-?? | ??
-?? | ??
-?? | ??
-?? | ??
-?? | ??
-?? | ??
+Weapon | TBA - coming in BFA.
+Neck | Mark of the XXXXXXXX.
+Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above.
+Bracers | Irrelevant, open world utility enchants. Safe Hearthing is probably a *safe* bet.
+Gloves | Irrelevant, open world utility enchants. No recommendation to be made here.
 
 ## Gems
 
-Gem whatever stat you need most.
+Gems are as simple as ring enchants: whichever stat a) sims the highest and b) takes you closer to the stat ratios above.
