@@ -25,6 +25,9 @@ discord_invite: http://discord.me/stormearthandlava
 twitter_username: StormEarthLava
 github_username:  stormearthandlava
 
+# Hide posts that are scheduled for the future. Do not set to true unless you are VERY sure you know what you're doing:
+future: false
+
 # Build settings
 markdown: kramdown
 # standard
