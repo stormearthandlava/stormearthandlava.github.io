@@ -14,7 +14,7 @@ Type | Talent combination
 --- | ---
 Questing / Solo&nbsp;Content | 15: {{ site.data.talent.eote }}<br> 30: {{ site.data.talent.mote }}<br> 45: {{ site.data.talent.earth_shield }}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.er }}<br> 100: {{ site.data.talent.up }}
 Mythic+ | 15: {{ site.data.talent.ee }} **OR** {{site.data.talent.eb}}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{site.data.talent.static_charge}}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }} **OR** {{site.data.talent.ancestral_guidance}}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.up }} **OR** {{site.data.talent.sk}}
-Raid / Single&nbsp;Target | 15: {{ site.data.talent.ee }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.up }}
+Raid / Single&nbsp;Target | 15: {{ site.data.talent.ee }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.up }} **OR** {{ site.data.talent.asc }}
 
 ## In depth discussion
 
