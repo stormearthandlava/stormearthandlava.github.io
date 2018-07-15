@@ -124,7 +124,30 @@ Ascendance opener with Primal Elementalist:
 
 The only time you should adjust your gameplay for {{site.data.talent.mote}} is when you have the liberty to cast a spell *later* with a MotE buff versus *now* -- this means for a spell like {{site.data.spell.es}}, you can make the decision to wait until you have the {{site.data.talent.mote}} buff active before casting it (this is reflected in the priority above). This is thanks to the low urgency of {{site.data.spell.es}} casts, as you are not constrained by a cooldown or Maelstrom cast, since you can cast it at any point between 60 and 100 Maelstrom.
 
+> "I should cast {{ site.data.spell.lb }} during {{ site.data.talent.asc }} if I have some powerful buffs for it active!"
+
+During {{ site.data.talent.asc }} you only want to spend your time casting {{ site.data.spell.lvb }} and {{ site.data.spell.es }}. Yes you'll waste {{ site.data.talent.ee }} and {{ site.data.talent.mote }} but that's fine.
+
+> "I should cast {{ site.data.talent.eb }} during {{ site.data.talent.asc }}!"
+
+{{ site.data.talent.eb }} doesn't deal enough damage by quite a margin.
+
+
+> "I should cast {{ site.data.talent.if }} with {{ site.data.talent.mote }} during {{ site.data.talent.asc }}!"
+
+Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if }} is on cooldown and won't get ready while you're casting {{ site.data.spell.lvb }}.
+
+> "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
+
+During single target you'll stick to the usual priority list. During AoE {{ site.data.spell.cl }} becomes quickly more worth and {{ site.data.spell.lvb }}. Nonetheless you should use {{ site.data.spell.eq }}
+
+> "I should delay {{ site.data.talent.se }} / {{ site.data.talent.asc }} after each other to benefit from them more!"
+
+Delaying either CD can easily result in an overall loss of a usage, which weights heavier during single target than not using the passive of {{ site.data.talent.se }}. During AoE you indeed want to spread out the usage, because {{ site.data.spell.lava_beam }} doesn't benefit from {{ site.data.talent.se }} passive.
+
 
 ## Warning about Primal Elementalist
 
 <p id="pe">A problem that has existed for a while now is {{site.data.talent.pe}} causing {{site.data.spell.fe}} and {{site.data.spell.ee}} to be exclusive with each other (intended) but summoning one while the other is active will simply put the new elemental on cooldown and not de-summon the existing elemental.</p>
+
+Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffed itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an increadible AoE CD and very useful for single target as well.
