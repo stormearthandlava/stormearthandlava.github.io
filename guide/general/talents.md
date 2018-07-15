@@ -82,7 +82,7 @@ Click the talent row text to expand.
                 <p markdown="1"> An underwhelming talent that offers little value and requires additional GCDs throughout the fight. We do not recommend using this talent, but if you do decide to, ensure you do not refresh the stacks early. It is not important to stay at high stacks, and is a waste of a GCD to refresh.</p>
                 <hr><br>
                 <h4>{{site.data.talent.static_charge}} (SC)</h4> <br>
-                <p markdown="1"> Very easy to understand and use. Simply put, if you stun 4+ targets with a use of {{ site.data.spell.lightning_surge_totem }}, its cooldown will instead be 40 seconds. </p>
+                <p markdown="1"> Very easy to understand and use. Simply put, if you stun 4+ targets with a use of {{ site.data.spell.capacitor_totem }}, its cooldown will instead be 40 seconds. </p>
                 <hr><br>
                 <p markdown="1">**Recommendation:** {{ site.data.talent.spirit_wolf }} should be your go-to for almost every raid encounter. {{ site.data.talent.static_charge }} is quite nice in Mythic+, and {{ site.data.talent.earth_shield }} is unlikely to be useful.</p>
             </div>
