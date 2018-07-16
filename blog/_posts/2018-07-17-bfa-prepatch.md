@@ -8,7 +8,7 @@ author: Bloodmallet(EU)
 
 Rise and shine Elemental Shamans! It's Prepatch time.
 
-This post presents as an overview. If you're curios about how to play
+This post presents an overview. If you're curios about how to play
 elemental now, please head to the appropriate guide pages in the top
 menu. The following list doesn't follow any particular order.
 
