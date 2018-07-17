@@ -27,3 +27,17 @@ See the pre-patch gear page under the General section of the guide.
 > Q: "What talents should I use in Antorus?"
 
 See the Antorus guide under the Raids section of the guide.
+
+> Q: "What Pots/Food/Flasks should I use?"
+
+See the Consumables section of the guide.
+
+> Q: "How many targets should I cast {{ site.data.spell.fs }} on?
+
+Because of the new cooldown, it is best to only {{ site.data.spell.fs }} a maximum of two targets. 
+
+> Q: "Does {{ site.data.spell.eq }} stack?
+
+Yes, {{ site.data.spell.eq }} stacks and has no stack limit.
+
+
