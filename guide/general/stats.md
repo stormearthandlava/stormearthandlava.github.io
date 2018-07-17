@@ -34,11 +34,9 @@ Expand the section below if you want more information on what these ratios are a
 
 In Patch 7.1.5 we introduced the concept of stat ratios, a distribution of secondary stats in a ratio that will provide, fairly generally, the highest DPS. This metric differs from stat weights as it does not directly let you assess the value of an item, but instead serves as a tool for long term gearing strategy.
 
-**Image here**
+![chart example image]({{ "assets/img/guide/chart_example.PNG" | absolute_url}})
 
 The above figure shows a rough example of a stat ratio — it’s a relationship between the four secondary stats, but not the inherent value of these stats. This doesn’t simply say Critical Strike is the best stat since there’s more of it, but that this particular distribution of secondaries is best, so you should do your best at balancing stats accordingly. When we release stat ratios, we give them as a simple ‘algebraic equation’ but it’s much more digestible with a visualization like the ones above and below.
-
-**Image here?**
 
 #### How do I 'use' these stat ratios?
 
@@ -50,7 +48,9 @@ Do note that using these ratios should be a long term strategy, as they aren’t
 We make heavy use of [bloodytools](https://github.com/Bloodmallet/bloodytools), a SimulationCraft wrapper for batch simulations with a spread of different secondary stat distributions. This is used for almost every talent combination you can think of to find both a general trend in the highest DPS stat distributions and for talent comparisons. In essence, the program aids our research immensely by allowing rapid prototyping. We use a few constraints to make sure the distributions are realistically achievable. Bloodystats then generates a series of the top few best distributions for each talent/legendary setup we’ve asked for. We present either raw stat ratios (like in Gambling) or aggregate means for a best fit across a large number of talent/legendary setups (like the AoE and General stat ratios).
 
 #### Stat ratios and comparisons
-The figure below shows the current stat ratios of three separate purposes: Gambling, AoE and General. This serves as a graphical example of how stat ratios are a distribution of a given amount of secondary stats and not the relative ‘DPS value’ of the stats.
+The figure below shows the old legion stat ratios of three separate purposes: Gambling, AoE and General. This serves as a graphical example of how stat ratios are a distribution of a given amount of secondary stats and not the relative ‘DPS value’ of the stats.
+
+![chart example image]({{ "assets/img/guide/chart_example2.PNG" | absolute_url}})
 
   </div>
   </div>
