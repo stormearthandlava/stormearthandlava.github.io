@@ -13,8 +13,8 @@ game_version: 8.0.1 Pre-patch
 Type | Talent combination
 --- | ---
 Questing / Solo&nbsp;Content | 15: {{ site.data.talent.eote }}<br> 30: {{ site.data.talent.mote }}<br> 45: {{ site.data.talent.earth_shield }}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.er }}<br> 100: {{ site.data.talent.up }}
-Mythic+ | 15: {{ site.data.talent.ee }} **OR** {{site.data.talent.eb}}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{site.data.talent.static_charge}}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }} **OR** {{site.data.talent.ancestral_guidance}}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.up }} **OR** {{site.data.talent.sk}}
-Raid / Single&nbsp;Target | 15: {{ site.data.talent.ee }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.up }}
+Mythic+ | 15: {{ site.data.talent.ee }}<br> 30: {{ site.data.talent.afs }} **OR** {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{site.data.talent.static_charge}}<br> 60: {{ site.data.talent.lmt }}<br> 75: {{ site.data.talent.natures_guardian }} **OR** {{site.data.talent.ancestral_guidance}}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.up }} **OR** {{site.data.talent.sk}}
+Raid / Single&nbsp;Target | 15: {{ site.data.talent.ee }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.up }} **OR** {{ site.data.talent.asc }}
 
 ## In depth discussion
 
@@ -42,7 +42,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.eb}} (EB)</h4> <br>
                 <p markdown="1"> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.ee}} should be taken whenever you're able to make use of the debuff on every {{site.data.spell.es}} cast. {{site.data.talent.eote}} is a decent alternative and synergises better with {{site.data.talent.mote}}.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.ee}} should be taken whenever you're able to make use of the debuff on every {{site.data.spell.es}} cast. {{site.data.talent.eote}} is a decent alternative and synergises better with {{site.data.talent.mote}}. During AoE fights all perform equally. Therefore it's a valid strategy to take what is strongest for all fewer target moments.</p>
             </div>
         </div>
     </div>
@@ -63,7 +63,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.tm}} (TM)</h4> <br>
                 <p markdown="1"> A set of stationary buffing totems which provide small but effective bonuses while within their 40 yard range. Ideally you want to use this every 2 minutes, or whenever you're forced to move out of the buff radius.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.tm}} for most content. {{site.data.talent.afs}} is a bit less powerful in the pre-patch, but can be used as an alternative. Currently, {{site.data.talent.mote}} is underwhelming.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.tm}} for most content. {{site.data.talent.afs}} is a bit less powerful in the pre-patch, but can be used as an alternative especially for AoE. Currently, {{site.data.talent.mote}} is underwhelming.</p>
             </div>
         </div>
     </div>
@@ -173,7 +173,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.asc}} (Asc)</h4> <br>
                 <p markdown="1">A potent cooldown with a few requirements for its use. First, you must ensure you refresh {{ site.data.spell.fs }} before casting {{ site.data.talent.asc }} as the reduced duration of {{site.data.spell.fs}} in BFA would likely require you to refresh it during {{site.data.talent.asc}}. Second, you want to get high value out of {{site.data.talent.asc}} with high (optimally 100%) uptime of casts during the buff. You should adjust your casts during {{site.data.talent.asc}} as per the <a href="priority_list.html">priority list</a> page.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.up}} for single target and sustained AOE; {{site.data.talent.sk}} if you require burst AOE.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.up}} for single target and sustained AOE; {{site.data.talent.sk}} if you require burst AOE; {{site.data.talent.asc}} if you require single target burst.</p>
             </div>
         </div>
     </div>

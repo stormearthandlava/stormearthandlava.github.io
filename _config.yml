@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 patreon_name: stormearthlava
-discord_servername: Storm Earth & Lava
+discord_servername: Storm, Earth, and Lava
 discord_invite: http://discord.me/stormearthandlava
 twitter_username: StormEarthLava
 github_username:  stormearthandlava
@@ -41,7 +41,7 @@ plugins:
   - jekyll-paginate
 
 
-# paginate value, how many posts shall be shown per page?
+# paginate value, how many posts shall be shown per page? (especially on the front page)
 paginate: 6
 
 # Exclude from processing.

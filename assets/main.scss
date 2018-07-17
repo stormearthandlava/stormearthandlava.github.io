@@ -104,16 +104,6 @@ a.dropdown-item:visited {
     right: 25%;
   }
 }
-.side-menu-link {
-  color: $text-color;
-}
-.side-menu-link:visited {
-  color: $text-color;
-}
-.side-menu-link:hover {
-  color: $grey-color;
-  text-decoration: none;
-}
 
 pre code, code { // readd this to override bootstraps once again
   color: $text-color;
@@ -169,17 +159,21 @@ div.apl > ol > li > ol > li {
 }
 
 // Fix wowhead tooltip visited colour via `a` elements.
-div.post-content a {
+.post-content a {
   color: $brand-color;
   text-decoration: none;
 
   &:visited {
     color: $brand-color;
   }
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 // Opener styles
-// Idea from http://ffxivrotations.com/ 
+// Idea from http://ffxivrotations.com/
 
 div.opener {
   border: 1px solid #151515;
