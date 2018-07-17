@@ -6,7 +6,7 @@ game_version: 8.0.1 Pre-patch
 ---
 
 ## Flask
-> <a href="http://bfa.wowhead.com/g00/item=127847/flask-of-the-whispered-pact">Flask of the Whispered Pact</a>
+> <a href="http://bfa.wowhead.com/item=127847/flask-of-the-whispered-pact">Flask of the Whispered Pact</a>
 
 ## Food
 1. <a href="http://bfa.wowhead.com/item=133579/lavish-suramar-feast">Lavish Suramar Feast</a>
