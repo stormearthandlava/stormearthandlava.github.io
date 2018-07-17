@@ -126,3 +126,5 @@ Legendaries: Boots + Shoulders
 **Heroic and Mythic**
 
 Talents: {{site.data.talent.ee}} {{site.data.talent.tm}} {{site.data.talent.sw}} {{site.data.talent.hv}} {{site.data.talent.natures_guardian}} {{site.data.talent.pe}} {{site.data.talent.up}}
+
+Legendaries: Boots + Shoulders
