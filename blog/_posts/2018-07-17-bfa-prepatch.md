@@ -38,7 +38,6 @@ menu. The following list doesn't follow any particular order.
 ## Gone
 - Elemental Focus
 - Path of Flame
-- Lightning Rod
 - Gust of Wind
 - Earthgrab Totem
 - Voodoo Totem
