@@ -209,8 +209,8 @@ var baseline_chart = {
 };
 
 var charts = {
-  "patchwerk": Highcharts.chart('chart_patchwerk', baseline_chart),
-  "hecticaddcleave": Highcharts.chart('chart_hecticaddcleave', baseline_chart)
+  "patchwerk": false,
+  "hecticaddcleave": false
 };
 
 var loaded_data = {};
@@ -311,6 +311,8 @@ function update_chart(fight_type) {
     console.log(fight_type);
     console.log(loaded_data[fight_type]);
   }
+
+  charts[fight_type] = Highcharts.chart('chart_' + fight_type, baseline_chart);
 
   let standard_chart = charts[fight_type];
 
