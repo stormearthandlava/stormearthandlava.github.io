@@ -2,11 +2,11 @@
  * Script to load data and manage azerite_traits and trinket charts.
  */
 
-var dev_mode = true;
+var dev_mode = false;
 
-var path_to_data = "https://bloodmallet.com/alpha/json/";
+var path_to_data = "https://bloodmallet.com/json/";
 
-var fight_style = "patchwerk"; // not necessary
+// variables, derived from the file name, trinkets.md tries to look for trinkets etc.
 var data_type;
 
 var light_color = "#eee";
@@ -210,21 +210,22 @@ var baseline_chart = {
 
 var charts = {
   "patchwerk": Highcharts.chart('chart_patchwerk', baseline_chart),
-  "beastlord": Highcharts.chart('chart_beastlord', baseline_chart)
+  "hecticaddcleave": Highcharts.chart('chart_hecticaddcleave', baseline_chart)
 };
 
 var loaded_data = {};
 
+// leave senseless ilevel values here to use highcharts own colours
 var ilevel_color_table = {
-  "300": "#1f78b4",
-  "310": "#a6cee3",
-  "320": "#33a02c",
-  "330": "#b2df8a",
-  "340": "#e31a1c",
-  "350": "#fb9a99",
-  "360": "#ff7f00",
-  "370": "#cab2d6",
-  "380": "#fdbf6f"
+  "1": "#1f78b4",
+  "2": "#a6cee3",
+  "3": "#33a02c",
+  "4": "#b2df8a",
+  "5": "#e31a1c",
+  "6": "#fb9a99",
+  "7": "#ff7f00",
+  "8": "#cab2d6",
+  "9": "#fdbf6f"
 };
 
 var class_color = "#0070DE";
@@ -267,9 +268,9 @@ function load_data() {
     }
     return;
   }
-  if (load_data["beastlord"]) {
+  if (load_data["hecticaddcleave"]) {
     if (dev_mode) {
-      console.log("beastlord data is already present. Aborting load_data()");
+      console.log("hecticaddcleave data is already present. Aborting load_data()");
     }
     return;
   }
@@ -283,13 +284,13 @@ function load_data() {
       }
       response.json().then(function(json) {
         loaded_data["patchwerk"] = json;
-        update_chart("patchwerk");
+        setTimeout(update_chart("patchwerk"), 15);
       });
     }).catch(function(err) {
       console.log('Fetch Error :-S', err);
     });
 
-  fetch(path_to_data + data_type + "/shaman_elemental_beastlord.json")
+  fetch(path_to_data + data_type + "/shaman_elemental_hecticaddcleave.json")
     .then(function(response){
       if (response.status !== 200) {
         console.log('Looks like there was a problem. Status Code: ' +
@@ -297,8 +298,8 @@ function load_data() {
         return;
       }
       response.json().then(function(json) {
-        loaded_data["beastlord"] = json;
-        update_chart("beastlord");
+        loaded_data["hecticaddcleave"] = json;
+        setTimeout(update_chart("hecticaddcleave"), 15);
       });
     }).catch(function(err) {
       console.log('Fetch Error :-S', err);
@@ -308,34 +309,34 @@ function load_data() {
 function update_chart(fight_type) {
   if (dev_mode) {
     console.log(fight_type);
+    console.log(loaded_data[fight_type]);
   }
-  console.log(loaded_data[fight_type]);
 
   let standard_chart = charts[fight_type];
 
   // set title and subtitle
   standard_chart.setTitle({
-      //text: loaded_data[fight_style]["title"]
+    //  text: loaded_data[fight_type]["title"]
     }, {
-      text: loaded_data[fight_style]["subtitle"]
+      text: loaded_data[fight_type]["subtitle"]
     },
     false
   );
 
 
   // check for sorted list in provided data
-  if ("sorted_data_keys" in loaded_data[fight_style]) {
-    var dps_ordered_data = loaded_data[fight_style]["sorted_data_keys"];
+  if ("sorted_data_keys" in loaded_data[fight_type]) {
+    var dps_ordered_data = loaded_data[fight_type]["sorted_data_keys"];
   } else {
     // fallback, create sorted list on our own
     // https://stackoverflow.com/questions/25500316/sort-a-dictionary-by-value-in-javascript
     // create a list of the data with their highest dps value
-    var dps_ordered_data = Object.keys(loaded_data[fight_style]["data"])
+    var dps_ordered_data = Object.keys(loaded_data[fight_type]["data"])
       .map(function (key) {
         return [
           key,
           Math.max(...Object.values(
-            loaded_data[fight_style]["data"][key]
+            loaded_data[fight_type]["data"][key]
           ))
         ]
       });
@@ -345,12 +346,41 @@ function update_chart(fight_type) {
     dps_ordered_data = dps_ordered_data.map(x => x[0]);
   }
 
-  // rewrite the trinket names
-  standard_chart.update({
-    xAxis: {
-      categories: dps_ordered_data
+  // change item/spell names to wowhead links
+  ordered_trinket_list = [];
+  if (data_type == "trinkets" || data_type == "azerite_traits") {
+    if (dev_mode)
+      console.log(dps_ordered_data);
+    for (let i in dps_ordered_data) {
+      if (dev_mode) {
+        console.log(i);
+        console.log(loaded_data[fight_type]["item_ids"][dps_ordered_data[i]]);
+      }
+      if (data_type == "trinkets") {
+        ordered_trinket_list.push(
+          "<a href=\"https://www.wowhead.com/item=" +
+          loaded_data[fight_type]["item_ids"][dps_ordered_data[i]] +
+          "\" target=\"blank\">" +
+          dps_ordered_data[i] +
+          "</a>"
+        );
+      } else if (data_type == "azerite_traits") {
+          ordered_trinket_list.push(
+            "<a href=\"https://www.wowhead.com/spell=" +
+            loaded_data[fight_type]["spell_ids"][dps_ordered_data[i]] +
+            "\" target=\"blank\">" +
+            dps_ordered_data[i] +
+            "</a>"
+          );
+      }
     }
-  }, false);
+    // rewrite the trinket names
+    standard_chart.update({
+      xAxis: {
+        categories: ordered_trinket_list
+      }
+    }, false);
+  }
 
   // delete all old series data
   while (standard_chart.series[0]) {
@@ -360,23 +390,23 @@ function update_chart(fight_type) {
   // TODO: Start fixing here, once some new data is generated and uploaded to bloodmallet.com
 
   // basically: if something was simmed with multiple steps
-  if ("simulated_steps" in loaded_data[fight_style]) {
+  if ("simulated_steps" in loaded_data[fight_type]) {
 
-    for (itemlevel_position in loaded_data[fight_style]["simulated_steps"]) {
+    for (itemlevel_position in loaded_data[fight_type]["simulated_steps"]) {
 
-      let itemlevel = loaded_data[fight_style]["simulated_steps"][itemlevel_position];
+      let itemlevel = loaded_data[fight_type]["simulated_steps"][itemlevel_position];
       var itemlevel_dps_values = [];
 
       for (data of dps_ordered_data) {
 
         // check for zero dps values and don't change them
-        if (Number(loaded_data[fight_style]["data"][data][itemlevel]) > 0) {
+        if (Number(loaded_data[fight_type]["data"][data][itemlevel]) > 0) {
 
           // if lowest itemlevel is looked at, substract baseline
-          if (itemlevel_position == loaded_data[fight_style]["simulated_steps"].length - 1) {
+          if (itemlevel_position == loaded_data[fight_type]["simulated_steps"].length - 1) {
 
-            if (itemlevel in loaded_data[fight_style]["data"][data]) {
-              itemlevel_dps_values.push(loaded_data[fight_style]["data"][data][itemlevel] - loaded_data[fight_style]["data"]["baseline"][Math.min(...loaded_data[fight_style]["simulated_steps"])]);
+            if (itemlevel in loaded_data[fight_type]["data"][data]) {
+              itemlevel_dps_values.push(loaded_data[fight_type]["data"][data][itemlevel] - loaded_data[fight_type]["data"]["baseline"][Math.min(...loaded_data[fight_type]["simulated_steps"])]);
             } else {
               itemlevel_dps_values.push(0);
             }
@@ -385,20 +415,20 @@ function update_chart(fight_type) {
           } else { // else substract lower itemlevel value of same item
 
             // if lower itemlevel is zero we have to assume that this item needs to be compared now to the baseline
-            if (loaded_data[fight_style]["data"][data][loaded_data[fight_style]["simulated_steps"][String(Number(itemlevel_position) + 1)]] == 0 || !(loaded_data[fight_style]["simulated_steps"][String(Number(itemlevel_position) + 1)] in loaded_data[fight_style]["data"][data])) {
+            if (loaded_data[fight_type]["data"][data][loaded_data[fight_type]["simulated_steps"][String(Number(itemlevel_position) + 1)]] == 0 || !(loaded_data[fight_type]["simulated_steps"][String(Number(itemlevel_position) + 1)] in loaded_data[fight_type]["data"][data])) {
 
-              itemlevel_dps_values.push(loaded_data[fight_style]["data"][data][itemlevel] - loaded_data[fight_style]["data"]["baseline"][Math.min(...loaded_data[fight_style]["simulated_steps"])]);
+              itemlevel_dps_values.push(loaded_data[fight_type]["data"][data][itemlevel] - loaded_data[fight_type]["data"]["baseline"][Math.min(...loaded_data[fight_type]["simulated_steps"])]);
 
             } else { // standard case, next itemlevel is not zero and can be used to substract from the current value
 
-              itemlevel_dps_values.push(loaded_data[fight_style]["data"][data][itemlevel] - loaded_data[fight_style]["data"][data][loaded_data[fight_style]["simulated_steps"][String(Number(itemlevel_position) + 1)]]);
+              itemlevel_dps_values.push(loaded_data[fight_type]["data"][data][itemlevel] - loaded_data[fight_type]["data"][data][loaded_data[fight_type]["simulated_steps"][String(Number(itemlevel_position) + 1)]]);
             }
 
           }
 
         } else {
-          if (itemlevel in loaded_data[fight_style]["data"][data]) {
-            itemlevel_dps_values.push(loaded_data[fight_style]["data"][data][itemlevel]);
+          if (itemlevel in loaded_data[fight_type]["data"][data]) {
+            itemlevel_dps_values.push(loaded_data[fight_type]["data"][data][itemlevel]);
           } else {
             itemlevel_dps_values.push(0);
           }
@@ -417,18 +447,18 @@ function update_chart(fight_type) {
 
     var dps_values = [];
     for (category of dps_ordered_data) {
-      dps_values.push(loaded_data[fight_style]["data"][category]);
+      dps_values.push(loaded_data[fight_type]["data"][category]);
     }
 
     standard_chart.addSeries({
       color: class_colors[chosen_class],
       data: dps_values,
-      name: data_view,
+      name: data_type,
       showInLegend: true
     }, false);
   }
-  document.getElementById("chart").style.height = 200 + dps_ordered_data.length * 30 + "px";
-  standard_chart.setSize(document.getElementById("chart").style.width, document.getElementById("chart").style.height);
+  document.getElementById("chart_" + fight_type).style.height = 200 + dps_ordered_data.length * 30 + "px";
+  standard_chart.setSize(document.getElementById("chart_" + fight_type).style.width, document.getElementById("chart_" + fight_type).style.height);
   standard_chart.redraw();
 
 
