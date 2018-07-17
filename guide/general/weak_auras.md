@@ -10,7 +10,7 @@ This page is our curated list of WeakAura suites for Elemental in 8.0.
 
 ## Notes' WA Suite
 
-*Coming soon*
+*Due to recent Maelstrom generation changes, the Maelstrom++ bar and Notes' auras will be available at a later date.*
 
 ## Cayna's WA Suite
 
