@@ -24,7 +24,7 @@ Legendaries: Boots + Shoulders
 
 **Heroic and Mythic**
 
-Talents: {{site.data.talent.ee}} {{site.data.talent.tm}} {{site.data.talent.sw}} {{site.data.talent.hv}} {{site.data.talent.natures_guardian}} {{site.data.talent.pe}} {{site.data.talent.sk}}
+Talents: {{site.data.talent.ee}} {{site.data.talent.tm}} {{site.data.talent.sw}} {{site.data.talent.hv}} {{site.data.talent.natures_guardian}} {{site.data.talent.pe}} {{site.data.talent.up}}
 
 Legendaries: Boots + Shoulders
 
@@ -35,7 +35,7 @@ Legendaries: Boots + Shoulders
 
 **Heroic and Mythic**
 
-Talents: {{site.data.talent.ee}} {{site.data.talent.tm}} {{site.data.talent.sw}} {{site.data.talent.hv}} {{site.data.talent.natures_guardian}} {{site.data.talent.pe}} {{site.data.talent.up}}
+Talents: {{site.data.talent.ee}} {{site.data.talent.tm}} {{site.data.talent.sw}} {{site.data.talent.hv}} {{site.data.talent.natures_guardian}} {{site.data.talent.pe}} {{site.data.talent.sk}}
 
 Legendaries: Sephuz + Bracers (Use {{site.data.spell.wind_shear}} to interrupt the Caster add for Sephuz proc).
 
@@ -68,7 +68,7 @@ Legendaries: Sephuz + Bracers (Use {{site.data.spell.wind_shear}} and {{site.dat
 
 **Heroic and Mythic**
 
-Talents: {{site.data.talent.ee}} {{site.data.talent.tm}} {{site.data.talent.sw}} {{site.data.talent.hv}} {{site.data.talent.natures_guardian}} {{site.data.talent.pe}} {{site.data.talent.astatic_charge}}
+Talents: {{site.data.talent.ee}} {{site.data.talent.tm}} {{site.data.talent.sw}} {{site.data.talent.hv}} {{site.data.talent.natures_guardian}} {{site.data.talent.pe}} {{site.data.talent.asc}}
 
 Legendaries: Boots + Shoulders
 
