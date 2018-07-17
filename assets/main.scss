@@ -8,6 +8,10 @@
 
 // add more custom styles here
 
+.site-header {
+  border-top: 5px solid $background-color;
+}
+
 // Top menu fixes
 nav.navbar {
   padding: 0rem 0rem;
