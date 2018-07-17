@@ -18,9 +18,12 @@ menu. The following list doesn't follow any particular order.
 - {{ site.data.spell.fs }} lasts 18 seconds
 - {{ site.data.spell.fe }} is down to 2.5 minute CD and 30 sec duration
 - {{ site.data.spell.fe }} provides a passive effect while it's active
-(generates 3 Maeöstrom on each {{ site.data.spell.fs }} tick)
+(generates 3 Maelstrom on each {{ site.data.spell.fs }} tick)
+- {{ site.data.spell.fe }} model got an update
+![fire elemental new model]({{ "assets/img/blog/fire_elemental_model.PNG" | absolute_url }})
 - {{ site.data.talent.se }} provides a passive effect while it's active
 (stacking cast time reduction for {{ site.data.spell.lb }}/{{ site.data.spell.cl }})
+- {{ site.data.talent.se }} model was replaced by Lightning Elemental
 - {{ site.data.spell.capacitor_totem }} is baseline on a one minute CD
 - {{ site.data.spell.lvb }} Maelstrom generation was reduced
 - {{ site.data.spell.overload }} deals 85% damage and generates 50% Maelstrom baseline now
