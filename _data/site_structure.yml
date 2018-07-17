@@ -26,7 +26,7 @@ categories:
 - title: Raids
   subcategories:
     - title: Antorus
-      url: /guide/raids/antorus/general.html
+      url: /guide/raids/antorus.html
     #- title: Uldir
     #  url: /guide/raids/uldir/general.html
     #  subcategories:
