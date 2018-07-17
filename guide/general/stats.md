@@ -47,10 +47,6 @@ Do note that using these ratios should be a long term strategy, as they aren’t
 #### How are stat ratios calculated?
 We make heavy use of [bloodytools](https://github.com/Bloodmallet/bloodytools), a SimulationCraft wrapper for batch simulations with a spread of different secondary stat distributions. This is used for almost every talent combination you can think of to find both a general trend in the highest DPS stat distributions and for talent comparisons. In essence, the program aids our research immensely by allowing rapid prototyping. We use a few constraints to make sure the distributions are realistically achievable. Bloodytools then generates a series of the top few best distributions for each talent/legendary setup we’ve asked for. We present either raw stat ratios (like in Gambling) or aggregate means for a best fit across a large number of talent/legendary setups (like the AoE and General stat ratios).
 
-#### Stat ratios and comparisons
-The figure below shows the old legion stat ratios of three separate purposes: Gambling, AoE and General. This serves as a graphical example of how stat ratios are a distribution of a given amount of secondary stats and not the relative ‘DPS value’ of the stats.
-
-![chart example image]({{ "assets/img/guide/chart_example2.PNG" | absolute_url}})
 
   </div>
   </div>
