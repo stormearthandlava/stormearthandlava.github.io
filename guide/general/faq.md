@@ -45,7 +45,7 @@ Yes, {{ site.data.spell.eq }} stacks and has no stack limit.
 
 > Q: "When should I stop using {{ site.data.spell.es }} and use {{ site.data.spell.eq }}?
 
-Switch over to using {{ site.data.spell.eq }} on two targets or more if not talented into {{ site.data.talent.exposed_elements }}.  If talented into {{ site.data.talent.exposed_elements }}, use an {{ site.data.spell.es }} > {{ site.data.spell.lb }} combo on two targets.  If there are more than two tarets and talented into {{ site.data.talent.exposed_elements }}, cast {{ site.data.spell.eq }}.
+Switch over to using {{ site.data.spell.eq }} on two targets or more if not talented into {{ site.data.talent.exposed_elements }}.  If talented into {{ site.data.talent.exposed_elements }}, use an {{ site.data.spell.es }} > {{ site.data.spell.lb }} combo on two targets.  If there are more than two targets and talented into {{ site.data.talent.exposed_elements }}, cast {{ site.data.spell.eq }}.
 
 > Q: "When is the best time to use Primal Fire Elemental's {{ site.data.spell.meteor }}?
 
