@@ -37,7 +37,7 @@ See the Consumables section of the guide.
 
 > Q: "How many targets should I cast {{ site.data.spell.fs }} on?
 
-Because of the new cooldown, it is best to only {{ site.data.spell.fs }} a maximum of two targets. 
+Because of the new cooldown, it is best to only {{ site.data.spell.fs }} a maximum of three targets. 
 
 > Q: "Does {{ site.data.spell.eq }} stack?
 
