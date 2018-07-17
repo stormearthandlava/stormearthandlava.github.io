@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prepatch and you
-date: 2018-07-17 09:00:00
+date: 2018-07-16 09:00:00
 excerpt: Rise and shine Elemental Shamans! It's Prepatch time.
 author: Bloodmallet(EU)
 ---
