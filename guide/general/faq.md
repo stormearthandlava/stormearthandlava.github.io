@@ -57,13 +57,17 @@ Since the cooldown of {{ site.data.spell.meteor }} is the same as the duration o
 
  This Macro allows you to place an {{ site.data.spell.eq }} at your cursor:
 
- ```#showtooltip Earthquake
- /cast [@cursor] Earthquake```
+ ```
+ #showtooltip Earthquake
+ /cast [@cursor] Earthquake
+ ```
 
  This macro will deselect the boss before casting Fire Elemental, allowing you to pre-cast it without pulling the boss:
 
- ```#showtooltip Fire Elemental
+ ```
+ #showtooltip Fire Elemental
  /target [@player, nocombat]
  /cast Fire Elemental
- /targetlasttarget [nocombat]```
+ /targetlasttarget [nocombat]
+ ```
 
