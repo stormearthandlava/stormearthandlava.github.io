@@ -39,7 +39,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.eote}} (EotE / Echo)</h4>
                 <p markdown="1"> Quite a simple talent to understand, EotE just adds a charge to {{ site.data.spell.lvb }}. At face value this may not seem impactful, but once you consider that effects which reset the cooldown on {{ site.data.spell.lvb }} will now instead grant a charge, the benefits are clear. Echo adds value by allowing extra time for you to cast {{ site.data.spells.lvb }} instead of needing to cast it immediately when it comes off cooldown. This is because you'll lose no DPS by choosing to cast another spell while {{ site.data.spell.lvb }} has less than 2 charges, as the second charge "cooling down" does not translate to wasted DPS.</p>
                 <hr><br>
-                <h4>{{site.data.talent.eb}} (EB)</h4> <br>
+                <h4>{{site.data.talent.eb}} (EB)</h4>
                 <p markdown="1"> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br>
                 <p markdown="1">**Recommendation:** {{site.data.talent.ee}} should be taken whenever you're able to make use of the debuff on every {{site.data.spell.es}} cast. {{site.data.talent.eote}} is a decent alternative and synergises better with {{site.data.talent.mote}}. During AoE fights all perform equally. Therefore it's a valid strategy to take what is strongest for all fewer target moments.</p>
@@ -60,7 +60,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.mote}} (MotE)</h4>
                 <p markdown="1"> Adds an interaction between {{ site.data.spell.lvb }} and {{ site.data.spell.es }} / {{ site.data.spell.frs }} / {{ site.data.spell.lb }} / {{ site.data.spell.cl }}. Note that {{ site.data.talent.mote }}'s buff is applied *immedately* on a successful cast, not when the {{ site.data.spell.lvb }} projectile hits the target. This is distinct from every other interaction with {{ site.data.spell.lvb }} in the past (and present). The benefit here is that, on bosses with very large hitboxes, you won't need to cast a filler spell between {{ site.data.spell.lvb }} and the spell you wish to empower with {{ site.data.talent.mote }}.</p>
                 <hr><br>
-                <h4>{{site.data.talent.tm}} (TM)</h4> <br>
+                <h4>{{site.data.talent.tm}} (TM)</h4>
                 <p markdown="1"> A set of stationary buffing totems which provide small but effective bonuses while within their 40 yard range. Ideally you want to use this every 2 minutes, or whenever you're forced to move out of the buff radius.</p>
                 <hr><br>
                 <p markdown="1">**Recommendation:** {{site.data.talent.tm}} for most content. {{site.data.talent.afs}} is a bit less powerful in the pre-patch, but can be used as an alternative especially for AoE. Currently, {{site.data.talent.mote}} is underwhelming.</p>
@@ -81,7 +81,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.earth_shield}} (ESh)</h4>
                 <p markdown="1"> An underwhelming talent that offers little value and requires additional GCDs throughout the fight. We do not recommend using this talent, but if you do decide to, ensure you do not refresh the stacks early. It is not important to stay at high stacks, and is a waste of a GCD to refresh.</p>
                 <hr><br>
-                <h4>{{site.data.talent.static_charge}} (SC)</h4> <br>
+                <h4>{{site.data.talent.static_charge}} (SC)</h4>
                 <p markdown="1"> Very easy to understand and use. Simply put, if you stun 4+ targets with a use of {{ site.data.spell.capacitor_totem }}, its cooldown will instead be 40 seconds. </p>
                 <hr><br>
                 <p markdown="1">**Recommendation:** {{ site.data.talent.spirit_wolf }} should be your go-to for almost every raid encounter. {{ site.data.talent.static_charge }} is quite nice in Mythic+, and {{ site.data.talent.earth_shield }} is unlikely to be useful.</p>
@@ -102,7 +102,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.se}} (SE)</h4>
                 <p markdown="1"> Subsequent casts of {{ site.data.spell.lb }} and {{ site.data.spell.cl }} reduce *both the cast time and the GCD incurred* by 3% (up to 60%). </p>
                 <hr><br>
-                <h4>{{site.data.talent.lmt}} (LMT)</h4> <br>
+                <h4>{{site.data.talent.lmt}} (LMT)</h4>
                 <p markdown="1"> Offers some nice burst AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown.</p>
                 <hr><br>
                 <p markdown="1">**Recommendation:** {{site.data.talent.hv}} in almost every situation, except where you might need the burst AOE that {{site.data.talent.lmt}} offers.</p>
@@ -123,7 +123,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.ancestral_guidance}} (AG)</h4>
                 <p markdown="1"> A decent emergency heal when used in AoE, but quite underwhelming for ST. This should only be considered for use when *dealing damage*, **not when casting {{ site.data.spell.healing_surge }}**.</p>
                 <hr><br>
-                <h4>{{site.data.talent.wind_rush_totem}} (WRT)</h4> <br>
+                <h4>{{site.data.talent.wind_rush_totem}} (WRT)</h4>
                 <p markdown="1">Raid utility that requires a bit of experience to place properly. The movement speed buff radius is unclear, but with some practise and proper raid positioning it should not be an issue.</p>
                 <hr><br>
                 <p markdown="1">**Recommendation:** {{ site.data.talent.natures_guardian }} as a default, but consider {{ site.data.talent.ancestral_guidance }} for Mythic+ dungeons where you might need an AOE healing cooldown, and {{ site.data.talent.wind_rush_totem }} for raid encounters as necessary.</p>
@@ -149,7 +149,7 @@ Click the talent row text to expand.
                     <li>{{site.data.talent.se}} - gains {{site.data.spell.eye_of_the_storm_damage}} a long CD AoE burst cooldown, a short range movement speed buff with the same name ({{site.data.spell.eye_of_the_storm_movement}}). Lastly, gains {{site.data.spell.call_lightning}} to buff its own damage.</li>
                 </ul>
                 <hr><br>
-                <h4>{{site.data.talent.if}} (IF)</h4> <br>
+                <h4>{{site.data.talent.if}} (IF)</h4>
                 <p markdown="1">Since the removal of the Maelstrom cost from {{ site.data.spell.frs }} in Patch 8.0, {{ site.data.talent.if }} has become much less complex to manage. This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. The Maelstrom cost removal from {{ site.data.spell.frs }} gives you a bit more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
                 <hr><br>
                 <p markdown="1">**Recommendation:** {{site.data.talent.pe}} in all cases.</p>
@@ -170,7 +170,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.sk}} (SK)</h4>
                 <p markdown="1">A copy of the artifact ability from Legion with a few major changes. The first is that it no longer increases the damage done by the {{ site.data.spell.lb }} and {{site.data.spell.cl}} casts it empowers. The second difference is the reduction from three stacks of the {{site.data.talent.sk}} buff to two. This is primarily useful for burst AOE, such as in Mythic+ dungeons, but is a far cry from its original state in Legion.</p>
                 <hr><br>
-                <h4>{{site.data.talent.asc}} (Asc)</h4> <br>
+                <h4>{{site.data.talent.asc}} (Asc)</h4>
                 <p markdown="1">A potent cooldown with a few requirements for its use. First, you must ensure you refresh {{ site.data.spell.fs }} before casting {{ site.data.talent.asc }} as the reduced duration of {{site.data.spell.fs}} in BFA would likely require you to refresh it during {{site.data.talent.asc}}. Second, you want to get high value out of {{site.data.talent.asc}} with high (optimally 100%) uptime of casts during the buff. You should adjust your casts during {{site.data.talent.asc}} as per the <a href="priority_list.html">priority list</a> page.</p>
                 <hr><br>
                 <p markdown="1">**Recommendation:** {{site.data.talent.up}} for single target and sustained AOE; {{site.data.talent.sk}} if you require burst AOE; {{site.data.talent.asc}} if you require single target burst.</p>
