@@ -130,8 +130,7 @@ During {{ site.data.talent.asc }} you only want to spend your time casting {{ si
 
 > "I should cast {{ site.data.talent.eb }} during {{ site.data.talent.asc }}!"
 
-{{ site.data.talent.eb }} doesn't deal enough damage by quite a margin.
-
+{{ site.data.talent.eb }} doesn't deal enough damage by quite a significant margin.
 
 > "I should cast {{ site.data.talent.if }} with {{ site.data.talent.mote }} during {{ site.data.talent.asc }}!"
 
@@ -139,7 +138,7 @@ Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if }} i
 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
-During single target you'll stick to the usual priority list. During AoE {{ site.data.spell.cl }} becomes quickly more worth and {{ site.data.spell.lvb }}. Nonetheless you should use {{ site.data.spell.eq }}
+During single target you'll stick to the usual priority list. During AoE {{ site.data.spell.cl }} becomes quickly more worth than {{ site.data.spell.lvb }}. Nonetheless you should use {{ site.data.spell.eq }}
 
 > "I should delay {{ site.data.talent.se }} / {{ site.data.talent.asc }} after each other to benefit from them more!"
 
@@ -150,4 +149,4 @@ Delaying either CD can easily result in an overall loss of a usage, which weight
 
 <p id="pe">A problem that has existed for a while now is {{site.data.talent.pe}} causing {{site.data.spell.fe}} and {{site.data.spell.ee}} to be exclusive with each other (intended) but summoning one while the other is active will simply put the new elemental on cooldown and not de-summon the existing elemental.</p>
 
-Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffed itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an increadible AoE CD and very useful for single target as well.
+Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an increadible AoE CD and very useful for single target as well.
