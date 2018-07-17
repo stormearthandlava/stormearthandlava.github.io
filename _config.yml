@@ -26,7 +26,7 @@ twitter_username: StormEarthLava
 github_username:  stormearthandlava
 
 # Hide posts that are scheduled for the future. Do not set to true unless you are VERY sure you know what you're doing:
-future: false
+future: true
 
 # Build settings
 markdown: kramdown
