@@ -15,7 +15,7 @@ For raid encounters:
 
 For Mythic+ or AOE:
 
-<a href="http://bfa.wowhead.com/item=132452/sephuzs-secret">Sephuz's Secret</a> remains a powerful legendary and we can still reliably proc it with {{site.data.spell.eq}} knockdowns, interrupts, and {{site.data.spell.capacitor_totem}} stuns. <a href="http://bfa.wowhead.com/item=137102/alakirs-acrimony">Al'Akir's Acrimony</a> is also quite strong thanks to talents like {{site.data.talent.hv}} snd {{site.data.talent.sk}} synergising well with it.
+<a href="http://bfa.wowhead.com/item=132452/sephuzs-secret">Sephuz's Secret</a> remains a powerful legendary and we can still reliably proc it with {{site.data.spell.eq}} knockdowns, interrupts, and {{site.data.spell.capacitor_totem}} stuns. <a href="http://bfa.wowhead.com/item=137102/alakirs-acrimony">Al'Akir's Acrimony</a> is also quite strong thanks to talents like {{site.data.talent.hv}} and {{site.data.talent.sk}} synergizing well with it.
 
 ## Gear sets
 
