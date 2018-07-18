@@ -69,3 +69,6 @@ with {{ site.data.talent.pe }}
 These lists should bring you up to speed. Let us know, if something is missing.
 Reminder: Read the actual guide pages in the top menu to get the latest information on how
 to play.
+
+You can also check out Naesams latest video to get a quick overview.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BH1wu6fI7EI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
