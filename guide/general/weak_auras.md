@@ -29,7 +29,7 @@ Utility/CD pack | <script src="https://wago.io/r1u2TFVRf/embed.js?style=light"><
 
 <a href="https://worldofwarcraft.com/en-us/character/thrall/swanzy">Swanzy</a> from Propaganda (US - Thrall) has also given us permission to link his WeakAura set here.
 
-![Swanzy's WeakAura Suite](/assets/img/guide/swanzy.png){: .center-image}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hU9jesyOISw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 --- | ---
 Base Elemental pack | <script src="https://wago.io/H1mgxEyzX/embed.js?style=light"></script>
