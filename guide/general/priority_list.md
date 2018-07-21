@@ -51,7 +51,8 @@ The elemental priority is fairly straightforward — the choice of which spell t
 1. Cast {{ site.data.talent.sk }} on cooldown.
 1. Cast {{ site.data.talent.lmt }} on cooldown.
 1. Maintain 3 {{ site.data.spell.fs }}s **only if there are exactly 3 targets**.
-1. Cast {{ site.data.spell.eq }} when available.
+1. Cast {{ site.data.spell.es }} **only if you're using the legendary shoulders AND have <= 6 targets**.
+1. Cast {{ site.data.spell.eq }} when available. (In case of the shoulders this means to cast {{ site.data.spell.eq }} only with their proc.)
 1. Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs.
 1. Cast {{ site.data.talent.eb }} **only if there are exactly 3 targets**.
 1. Cast {{ site.data.spell.cl }}.
