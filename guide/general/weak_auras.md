@@ -10,8 +10,15 @@ This page is our curated list of WeakAura suites for Elemental in 8.0.
 
 ## Notes' WA Suite
 
-*Due to recent Maelstrom generation changes, the Maelstrom++ bar and Notes' auras will be available at a later date.*
+Notes' beloved aura package is now available. As always you can find the updated version at wago.io. To see it in action here is a video from the author himself.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1mN5TAOn7w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+--- | ---
+Weakaura Set | [https://wago.io/SkDoHHfEX](https://wago.io/SkDoHHfEX)
+PvP Set | [https://wago.io/SkDoHHfEX](https://wago.io/rkKlLrzEQ)
+
+**The PvP one is mostly for leveling and so forth and will only load if you're PvP flagged.**
 
 ## Cayna's WA Suite
 
@@ -20,9 +27,9 @@ Cayna from Method (EU - Tarren Mill) made a set of WeakAuras for Elemental in BF
 ![Cayna's WeakAura Suite](/assets/img/guide/cayna.png){: .center-image}
 
 --- | ---
-Base Elemental pack | <script src="https://wago.io/Hy6NVuD0z/embed.js?style=light"></script>
-Maelstrom bar | <script src="https://wago.io/r142wMgGX/embed.js?style=light"></script>
-Utility/CD pack | <script src="https://wago.io/r1u2TFVRf/embed.js?style=light"></script>
+Base Elemental pack | [https://wago.io/Hy6NVuD0z](https://wago.io/Hy6NVuD0z)
+Maelstrom bar | [https://wago.io/r142wMgGX](https://wago.io/r142wMgGX)
+Utility/CD pack | [https://wago.io/r1u2TFVRf](https://wago.io/r1u2TFVRf)
 
 
 ## Swanzy's WA Suite
@@ -32,8 +39,7 @@ Utility/CD pack | <script src="https://wago.io/r1u2TFVRf/embed.js?style=light"><
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hU9jesyOISw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 --- | ---
-Base Elemental pack | <script src="https://wago.io/H1mgxEyzX/embed.js?style=light"></script>
-Maelstrom bar | <script src="https://wago.io/Hyxca7yzm/embed.js?style=light"></script>
-Utility/CD pack | <script src="https://wago.io/rJsMZ4Jf7/embed.js?style=light"></script>
-Multi-dot/totem pack | <script src="https://wago.io/HySXIEJzX/embed.js?style=light"></script>
-
+Base Elemental pack | [https://wago.io/H1mgxEyzX](https://wago.io/H1mgxEyzX)
+Maelstrom bar | [https://wago.io/Hyxca7yzm](https://wago.io/Hyxca7yzm)
+Utility/CD pack | [https://wago.io/rJsMZ4Jf7](https://wago.io/rJsMZ4Jf7)
+Multi-dot/totem pack | [https://wago.io/HySXIEJzX](https://wago.io/HySXIEJzX)
