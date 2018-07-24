@@ -35,23 +35,29 @@ See the Antorus guide under the Raids section of the guide.
 
 See the Consumables section of the guide.
 
-> Q: "How many targets should I cast {{ site.data.spell.fs }} on?
+> Q: "How many targets should I cast {{ site.data.spell.fs }} on?"
 
 Because of the new cooldown, it is best to only {{ site.data.spell.fs }} a maximum of three targets.
 
-> Q: "Does {{ site.data.spell.eq }} stack?
+> Q: "Does {{ site.data.spell.eq }} stack?"
 
 Yes, {{ site.data.spell.eq }} stacks and has no stack limit.
 
-> Q: "When should I stop using {{ site.data.spell.es }} and use {{ site.data.spell.eq }}?
+> Q: "When should I stop using {{ site.data.spell.es }} and use {{ site.data.spell.eq }}?"
 
 Switch over to using {{ site.data.spell.eq }} on two targets or more if not talented into {{ site.data.talent.exposed_elements }}.  If talented into {{ site.data.talent.exposed_elements }}, use an {{ site.data.spell.es }} > {{ site.data.spell.lb }} combo on two targets.  If there are more than two targets and talented into {{ site.data.talent.exposed_elements }}, cast {{ site.data.spell.eq }}.
 
-> Q: "When is the best time to use Primal Fire Elemental's {{ site.data.spell.meteor }}?
+> Q: "When is the best time to use Primal Fire Elemental's {{ site.data.spell.meteor }}?"
 
 *Note: This only applies when talented into* {{ site.data.talent.pe }}.
 
 Since the cooldown of {{ site.data.spell.meteor }} is the same as the duration of Primal Fire Elemental, save it for a period of AOE within the Elemental's lifetime.  If there is no upcoming AOE, cast it immediately.  Make sure to bind it to a key.
+
+> Q: "Is there a way to enable/disable {{ site.data.spell.ee }} taunt without screwing up my autocast settings of the DPS Elemental?"
+
+*Note: This only applies when talented into* {{ site.data.talent.pe }}.
+
+Not that we're aware of. The Elementals' autocast settings are shared between the Elemental pets. If you deactivate or activate it on one button, the matching button of the other Elementals will share that setting. We hope, that this will be changed.
 
 > Q: "What are some useful Macros?"
 
