@@ -2,7 +2,7 @@
 
 categories:
 
-- title: General
+- title: Guides
   subcategories:
     - title: Talents
       url: /guide/general/talents.html
@@ -40,7 +40,7 @@ categories:
 
 
 
-#- title: Mythic+
+#- title: Dungeons
 # activate this v line if you don't want child elements in the top menu
 #url: /guide/dungeons/general.html
 # subcategories:
