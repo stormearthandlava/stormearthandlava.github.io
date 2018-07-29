@@ -83,9 +83,9 @@ Ascendance opener without Primal Elementalist:
 <div class="opener">
     <div class="skill tm"><span>TM</span></div>
     <div class="arrow"></div>
-    <div class="skill fe"><span>FE</span></div>
-    <div class="arrow"></div>
     <div class="skill ee"><span>EE</span></div>
+    <div class="arrow"></div>
+    <div class="skill fe"><span>FE</span></div>
     <div class="arrow"></div>
     <div class="skill lb"><span>LB</span></div>
     <div class="arrow pull"></div>
