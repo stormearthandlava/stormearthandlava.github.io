@@ -10,4 +10,14 @@ $dropdown-link-color: #5A8DAB;
 $dropdown-link-hover-color: #B5D3DB;
 $dropdown-link-hover-bg: #43617D;
 
+
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  padding-top: 60px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
