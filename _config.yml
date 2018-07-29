@@ -56,3 +56,17 @@ paginate: 6
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Page defaults
+defaults:
+  -
+    scope:
+      type: "pages"
+    values:
+      toc: true
+  -
+    scope:
+      type: "posts"
+    values:
+      toc: false
