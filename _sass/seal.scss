@@ -3,12 +3,20 @@
 $body-bg: #212529;
 $body-color: #e9ecef;
 
-$headings-color: #B5D3DB;
+$headings-color: #35befc;
 
 $dropdown-bg: #495057;
 $dropdown-link-color: #5A8DAB;
 $dropdown-link-hover-color: #B5D3DB;
 $dropdown-link-hover-bg: #43617D;
+
+$code-color: #adb5bd;
+$pre-color: #adb5bd;
+
+$theme-colors: (
+  "primary": #9adefd,
+  "danger": #ff4136
+);
 
 
 @import "../node_modules/bootstrap/scss/bootstrap";
