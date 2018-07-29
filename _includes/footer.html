@@ -3,7 +3,6 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper row">
       <!-- <div class="footer-col footer-col-1">
@@ -22,12 +21,14 @@
       </div> -->
 
       <div class="footer-col footer-col-1">
+         <h2 class="footer-heading">{{ site.title | escape }}</h2>
         {%- include social.html -%}
       </div>
 
       <div class="footer-col footer-col-2">
         <p style="text-align: right; margin-right: -12px;">{{- site.description | escape -}}</p>
         {%- if site.patreon_name -%}<p style="text-align: right; margin-right: -12px;"><a href="https://www.patreon.com/{{ site.patreon_name }}" target="blank"><img src="{{ '/assets/img/logos/become_a_patron_button.png' | relative_url }}" alt="Patreon button logo" height="36" style="vertical-align: text-top;"/></a></p>{%- endif -%}
+        <p style="text-align:right; margin-right: -12px; margin-left: 50px; padding-left:30px;">Special thanks to <a href="/patreon/thanks.html">our Patrons</a>.</p>
       </div>
     </div>
 
