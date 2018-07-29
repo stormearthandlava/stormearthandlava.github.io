@@ -3,6 +3,7 @@ layout: page
 title: Priority List
 last_update: 2018-07-15 09:00:00
 game_version: 8.0.1 Pre-patch
+toc: true
 ---
 
 The elemental priority is fairly straightforward — the choice of which spell to cast next is often easy to make. We have done our best to condense the SimulationCraft Action Priority List (APL) into a human-readable, easy to understand form. If you want to investigate any minor details, please refer to the APL or contact us on Discord.

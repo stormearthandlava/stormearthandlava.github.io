@@ -3,6 +3,7 @@ layout: highcharts_page
 title: Trinkets
 last_update: 2018-07-17 09:00:00
 game_version: 8.0.1
+toc: true
 ---
 
 The following charts present all known trinkets in Patchwerk (single

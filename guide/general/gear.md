@@ -3,6 +3,7 @@ layout: page
 title: Pre-patch gear guide
 last_update: 2018-07-17 09:00:00
 game_version: 8.0.1 Prepatch
+toc: true
 ---
 
 We will keep this page brief for the pre-patch.

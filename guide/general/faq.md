@@ -3,6 +3,7 @@ layout: page
 title: F.A.Q.
 last_update: 2018-07-17 09:00:00
 game_version: 8.0.1 Pre-patch
+toc: true
 ---
 
 This page has the answers to some frequently asked questions for Elemental in Patch 8.0.1.

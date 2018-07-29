@@ -25,10 +25,12 @@ layout: default
 
   <div class="post-content">
     {%- include side_menu.html -%}
-    <h3>Table of Contents</h3>
-    {%- include toc.html html=content class="toc" h_max=3 -%}
-    <hr>
-    <br>
+    {%- if page.toc == true -%}
+      <h3>Table of Contents</h3>
+      {%- include toc.html html=content class="toc" h_max=3 -%}
+      <hr>
+      <br>
+    {%- endif -%}
     {{ content }}
   </div>
 

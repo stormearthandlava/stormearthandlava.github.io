@@ -3,6 +3,7 @@ layout: page
 title: WeakAuras
 last_update: 2018-07-16 09:00:00
 game_version: 8.0.1 Pre-patch
+toc: true
 ---
 
 This page is our curated list of WeakAura suites for Elemental in 8.0.
