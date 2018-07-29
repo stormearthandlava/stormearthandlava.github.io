@@ -1,8 +1,13 @@
 // Storm, Earth, and Lava Bootstrap Theme
 
-$body-bg: #283143;
-$body-color: #DAD2C7;
+$body-bg: #212529;
+$body-color: #e9ecef;
 
 $headings-color: #B5D3DB;
+
+$dropdown-bg: #343a40;
+$dropdown-link-color: #5A8DAB;
+$dropdown-link-hover-color: #B5D3DB;
+$dropdown-link-hover-bg: #43617D;
 
 @import "../node_modules/bootstrap/scss/bootstrap";
