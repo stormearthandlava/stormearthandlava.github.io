@@ -2,7 +2,7 @@
 
 categories:
 
-- title: General
+- title: Guide
   subcategories:
     - title: Talents
       url: /guide/general/talents.html
@@ -12,7 +12,7 @@ categories:
       url: /guide/general/stats.html
 #   - title: Azerite Traits
 #     url: /guide/general/azerite_traits.html
-    - title: Gear & Legendaries
+    - title: Gear
       url: /guide/general/gear.html
     - title: Trinkets
       url: /guide/general/trinkets.html
