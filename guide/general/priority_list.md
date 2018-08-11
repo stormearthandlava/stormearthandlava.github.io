@@ -1,30 +1,29 @@
 ---
 layout: page
 title: Priority List
-last_update: 2018-07-15 09:00:00
-game_version: 8.0.1 Pre-patch
+last_update: 2018-08-11 09:00:00
+game_version: 8.0.1 Launch
 toc: true
 ---
 
-The elemental priority is fairly straightforward — the choice of which spell to cast next is often easy to make. We have done our best to condense the SimulationCraft Action Priority List (APL) into a human-readable, easy to understand form. If you want to investigate any minor details, please refer to the APL or contact us on Discord.
+The elemental priority is fairly straightforward — the choice of which spell to cast next is often easy to make. We have done our best to condense the SimulationCraft Action Priority List (APL) into a human-readable, easy to understand form. If you want to investigate any minor details, please refer to the APL in SimulationCraft or contact us on Discord.
 
 
-**This priority list is a work in progress and may change in the future. If you have suggestions with sim evidence to back them up, please let us know on Discord.**
+**If you have suggestions with sim evidence to back them up, please let us know on Discord.**
 
 ## Single target / two targets
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="1">
 1. Cast {{ site.data.talent.tm }}  when any of the following are true:
     1. It is not active or you are out of range of the existing totems.
-    2. You are about to enter {{site.data.talent.asc}}, and the buff would expire before {{site.data.talent.asc}} is over.
+    2. You are about to enter {{site.data.talent.asc}}, and the buff would expire during {{site.data.talent.asc}}.
 1. Cast {{ site.data.spell.fs }} when any of the following are true:
     1. It is not active on the target.
     2. You are about to enter {{site.data.talent.asc}}.
     3. The debuff's duration is at or below 6 seconds remaining.
 1. Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).
 1. Cast {{ site.data.talent.asc }} on cooldown.
-1. Cast {{ site.data.spell.eq }} if the legendary shoulders Echoes of the Great Sundering procced.
-1. Cast {{site.data.spell.lb}} if the {{site.data.talent.ee}} debuff is active on the target and you have more than 60 Maelstrom.
+1. Cast {{site.data.spell.lb}} if the {{site.data.talent.ee}} debuff is active on the target **and** you have more than 60 Maelstrom.
 1. Cast {{site.data.spell.es}} if **all** of the following are true:
     1. Your Maelstrom is higher than 60.
     2. {{site.data.talent.mote}}'s buff is active.
@@ -52,8 +51,7 @@ The elemental priority is fairly straightforward — the choice of which spell t
 1. Cast {{ site.data.talent.sk }} on cooldown.
 1. Cast {{ site.data.talent.lmt }} on cooldown.
 1. Maintain 3 {{ site.data.spell.fs }}s **only if there are exactly 3 targets**.
-1. Cast {{ site.data.spell.es }} **only if you're using the legendary shoulders AND have <= 6 targets**. Warning: You'll be gambling again. Ignore this line if you need consistency.
-1. Cast {{ site.data.spell.eq }} when available. (In case of the shoulders this means to cast {{ site.data.spell.eq }} only with their proc.)
+1. Cast {{ site.data.spell.eq }} when available.
 1. Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs.
 1. Cast {{ site.data.talent.eb }} **only if there are exactly 3 targets**.
 1. Cast {{ site.data.spell.cl }}.
@@ -134,23 +132,32 @@ During {{ site.data.talent.asc }} you only want to spend your time casting {{ si
 
 > "I should cast {{ site.data.talent.eb }} during {{ site.data.talent.asc }}!"
 
-{{ site.data.talent.eb }} doesn't deal enough damage by quite a significant margin.
+No. {{ site.data.talent.eb }} doesn't deal enough damage by quite a significant margin.
 
 > "I should cast {{ site.data.talent.if }} with {{ site.data.talent.mote }} during {{ site.data.talent.asc }}!"
 
-Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if }} is on cooldown and won't get ready while you're casting {{ site.data.spell.lvb }}.
+No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if }} is on cooldown and won't get ready while you're casting {{ site.data.spell.lvb }}.
 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
-During single target you'll stick to the usual priority list. During AoE {{ site.data.spell.cl }} becomes quickly more worth than {{ site.data.spell.lvb }}. Nonetheless you should use {{ site.data.spell.eq }}
+During single target you'll stick to the usual priority list. During AoE {{ site.data.spell.cl }} becomes quickly more worth than {{ site.data.spell.lvb }}. Nonetheless you should use {{ site.data.spell.eq }}.
 
 > "I should delay {{ site.data.talent.se }} / {{ site.data.talent.asc }} after each other to benefit from them more!"
 
 Delaying either CD can easily result in an overall loss of a usage, which weights heavier during single target than not using the passive of {{ site.data.talent.se }}. During AoE you indeed want to spread out the usage, because {{ site.data.spell.lava_beam }} doesn't benefit from {{ site.data.talent.se }} passive.
 
+> "I should cast {{ site.data.spell.fs }} at 5.4 seconds remaining or lower!"
+
+That's correct but which human is able to accurately judge the difference between 5.4 seconds and 6 seconds. So we decided to present the easier to digest number in the priority list.
+
+> "I should cast {{ site.data.talent.tm }} at less than 9 seconds remaining!"
+
+Yes, the shorter the remaining duration, the less likely it is for you to need an additional cast of it over the whole fight. But because that is quite unlikely already, 9 is a good rule of thumbs. The overall dps won't budge with that change.
 
 ## Warning about Primal Elementalist
 
 <p id="pe">A problem that has existed for a while now is {{site.data.talent.pe}} causing {{site.data.spell.fe}} and {{site.data.spell.ee}} to be exclusive with each other (intended) but summoning one while the other is active will simply put the new elemental on cooldown and not de-summon the existing elemental.</p>
+
+In addition all Elementals have autocasts. If you disable one on one Elemental all other Elementals will have that ability deactivated too. This is very annoying and we hope for a fix.
 
 Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an incredible AoE CD and very useful for single target as well.
