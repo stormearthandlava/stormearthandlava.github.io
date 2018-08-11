@@ -10,8 +10,8 @@ categories:
       url: /guide/general/priority_list.html
     - title: Stats & Enchants
       url: /guide/general/stats.html
-#   - title: Azerite Traits
-#     url: /guide/general/azerite_traits.html
+    - title: Azerite Traits
+      url: /guide/general/azerite_traits.html
     - title: Gear
       url: /guide/general/gear.html
     - title: Trinkets
