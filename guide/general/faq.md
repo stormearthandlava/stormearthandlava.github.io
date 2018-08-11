@@ -1,7 +1,7 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 2018-07-17 09:00:00
+last_update: 2018-08-11 09:00:00
 game_version: 8.0.1 Pre-patch
 toc: true
 ---
@@ -16,25 +16,10 @@ Firstly, no spec in the game is unviable. Certain specs may be favoured for cert
 
 Technically the developers admitted to Elemental being a somewhat unfinished spec.  This does not mean that Elemental is unplayable, in fact it is far from it.  All this means is that Elemental might see more significant changes in 8.1 than tuning. We are not privy to any sort of design insight and we have no idea what changes are coming or if any changes are coming at all.
 
-> Q: "Will Elemental be strong in the pre-patch?"
-
-Yes.
-
-> Q: "Do the Maelstrom changes in pre-patch help?"
-
-Yes, and there's a blog coming on this on Friday the 20th of July.
-
-> Q: "What legendaries should I use?"
-
-See the pre-patch gear page under the General section of the guide.
-
-> Q: "What talents should I use in Antorus?"
-
-See the Antorus guide under the Raids section of the guide.
 
 > Q: "What Pots/Food/Flasks should I use?"
 
-See the Consumables section of the guide.
+See the [Consumables]({{ site.baseurl }}{% link guide/general/consumables.md %}) section of the guide.
 
 > Q: "How many targets should I cast {{ site.data.spell.fs }} on?"
 
