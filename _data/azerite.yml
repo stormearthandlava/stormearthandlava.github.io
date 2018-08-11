@@ -1,0 +1,27 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+ancestral_resonance: <a href="https://bfa.wowhead.com/spell=277942" target="blank">Ancestral Resonance</a>
+
+echo_of_the_elementals: <a href="https://bfa.wowhead.com/spell=275381" target="blank">Echo of the Elementals</a>
+
+igneous_potential: <a href="https://bfa.wowhead.com/spell=279829" target="blank">Igneous Potential</a>
+
+lava_shock: <a href="https://bfa.wowhead.com/spell=273448" target="blank">Lava Shock</a>
+
+natural_harmony: <a href="https://bfa.wowhead.com/spell=278697" target="blank">Natural Harmony</a>
+
+rumbling_tremors: <a href="https://bfa.wowhead.com/spell=278709" target="blank">Rumbling Tremors</a>
+
+synapse_shock: <a href="https://bfa.wowhead.com/spell=277671" target="blank">Synapse Shock</a>
