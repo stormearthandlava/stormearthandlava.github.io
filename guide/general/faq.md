@@ -2,7 +2,7 @@
 layout: page
 title: F.A.Q.
 last_update: 2018-08-11 09:00:00
-game_version: 8.0.1 Pre-patch
+game_version: 8.0.1 Battle for Azeroth
 toc: true
 ---
 
