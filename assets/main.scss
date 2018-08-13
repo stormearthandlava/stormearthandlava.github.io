@@ -278,3 +278,13 @@ div.skill.lb {
     margin: 0 auto;
     display: block;
 }
+
+input[type="radio"]+label {
+  vertical-align: middle;
+  padding-left: 4px;
+}
+
+// Radio stuff for APL talent selector
+input[type="radio"]:checked+label {
+  color: $brand-color;
+}

@@ -13,48 +13,76 @@ The elemental priority is fairly straightforward — the choice of which spell t
 
 ## Single target / two targets
 
-<div class="apl" style="max-width: 100%; text-align:justify;" markdown="1">
-1. Cast {{ site.data.talent.tm }}  when any of the following are true:
-    1. It is not active or you are out of range of the existing totems.
-    2. You are about to enter {{site.data.talent.asc}}, and the buff would expire during {{site.data.talent.asc}}.
-1. Cast {{ site.data.spell.fs }} when any of the following are true:
-    1. It is not active on the target.
-    2. You are about to enter {{site.data.talent.asc}}.
-    3. The debuff's duration is at or below 6 seconds remaining.
-1. Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).
-1. Cast {{ site.data.talent.asc }} on cooldown.
-1. Cast {{site.data.spell.lb}} if the {{site.data.talent.ee}} debuff is active on the target **and** you have more than 60 Maelstrom.
-1. Cast {{site.data.spell.es}} if **all** of the following are true:
-    1. Your Maelstrom is higher than 60.
-    2. {{site.data.talent.mote}}'s buff is active.
-    3. {{site.data.talent.ee}}'s debuff is not active on the target.
-1. Cast {{ site.data.talent.eb }} on cooldown.
-1. Cast {{ site.data.talent.sk }} on cooldown.
-1. Cast {{ site.data.talent.lmt }} on cooldown.
-1. Cast {{ site.data.spell.es }} if your Maelstrom is higher than 92.
-1. Cast {{ site.data.spell.lvb }}.
-1. Cast {{ site.data.talent.if }} on cooldown.
-1. Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.
-1. Cast {{site.data.spell.es }}.
-1. Refresh {{ site.data.talent.tm }} if its duration is at or below 9 seconds remaining.
-1. Cast {{site.data.spell.cl}} if it will hit more than one target.
-1. Cast {{ site.data.spell.lb }} as a filler.
-1. Cast {{site.data.spell.frs}} in place of {{site.data.spell.lb}} while moving, even if you do not have {{site.data.talent.if}}.
+
+#### Talent selector: 
+
+
+15 | <input type="radio" id="ee-radio" name="15" value="1" /><label for="ee-radio"> Exposed Elements</label> | <input type="radio" id="eote-radio" name="15" value="2" checked /><label for="eote-radio"> Echo of the Elements</label> | <input type="radio" id="eb-radio" name="15" value="3" /><label for="eb-radio"> Elemental Blast</label> 
+30 | <input type="radio" id="afs-radio" name="30" value="1" /><label for="afs-radio"> Aftershock</label> | <input type="radio" id="mote-radio" name="30" value="2" /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="tm-radio" name="30" value="3" checked /><label for="ee-radio"> Totem Mastery</label>
+60 | <input type="radio" id="hv-radio" name="60" value="1" /><label for="hv-radio"> High Voltage</label> | <input type="radio" id="se-radio" name="60" value="2" /><label for="se-radio"> Storm Elemental</label> | <input type="radio" id="lmt-radio" name="60" value="3" checked /><label for="lmt-radio"> Liquid Magma Totem</label>
+90 | <input type="radio" id="er-radio" name="90" value="1" /><label for="er-radio"> Earthen Rage</label> | <input type="radio" id="pe-radio" name="90" value="2" checked /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="90" value="3" /><label for="if-radio"> Icefury</label>
+100 | <input type="radio" id="up-radio" name="100" value="1" /><label for="up-radio"> Unlimited Power</label> | <input type="radio" id="sk-radio" name="100" value="2" /><label for="sk-radio"> Stormkeeper</label> | <input type="radio" id="asc-radio" name="100" value="3" checked /><label for="asc-radio"> Ascendance</label>
+
+
+<div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
+    <ol>
+        <li class="tm-apl" style="display: list-item;">Cast {{ site.data.talent.tm }}  when any of the following are true:
+            <ol>
+                <li>It is not active or you are out of range of the existing totems.</li>
+                <li>You are about to enter {{site.data.talent.asc}}, and the buff would expire during {{site.data.talent.asc}}.</li>
+            </ol>
+        </li>
+        <li> Cast {{ site.data.spell.fs }} when any of the following are true:
+            <ol>
+                <li>It is not active on the target.</li>
+                <li>You are about to enter {{site.data.talent.asc}}.</li>
+                <li>The debuff's duration is at or below 6 seconds remaining.</li>
+            </ol>
+        </li>
+        <li> Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).</li>
+        <li class="asc-apl" style="display:list-item;">Cast {{ site.data.talent.asc }} on cooldown.</li>
+        <li class="ee-apl" style="display:none;">Cast {{site.data.spell.lb}} if the {{site.data.talent.ee}} debuff is active on the target and you have more than 60 Maelstrom.</li>
+        <li> Cast {{site.data.spell.es}} if the following are true:
+            <ol>
+                <li>Your Maelstrom is higher than 60.</li>
+                <li>{{site.data.talent.mote}}'s buff is active.</li>
+                <li>{{site.data.talent.ee}}'s debuff is not active on the target.</li>
+            </ol>
+        </li>
+        <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} on cooldown.</li>
+        <li class="sk-apl" style="display:none;"> Cast {{ site.data.talent.sk }} on cooldown.</li>
+        <li class="lmt-apl" style="display:list-item;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
+        <li>Cast {{ site.data.spell.es }} if your Maelstrom is higher than 92.</li>
+        <li>Cast {{ site.data.spell.lvb }}.</li>
+        <li class="if-apl" style="display:none;">Cast {{ site.data.talent.if }} on cooldown.</li>
+        <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.</li>
+        <li>Cast {{site.data.spell.es }}.</li>
+        <li class="tm-apl">Refresh {{ site.data.talent.tm }} if its duration is at or below 9 seconds remaining.</li>
+        <li>Cast {{site.data.spell.cl}} if it will hit more than one target.</li>
+        <li>Cast {{ site.data.spell.lb }} as a filler.</li>
+        <li>Cast {{site.data.spell.frs}} in place of {{site.data.spell.lb}} while moving, even if you do not have {{site.data.talent.if}}.</li>
+    </ol>
 </div>
 
+
 ## AoE (3 or more targets)
-<div class="apl" style="max-width: 100%; text-align:justify;" markdown="1">
-1. Cast {{ site.data.talent.tm }}  when any of the following are true:
-    1. It is not active.
-    2. The buff's duration is at or below 9 seconds remaining.
-1. Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).
-1. Cast {{ site.data.talent.sk }} on cooldown.
-1. Cast {{ site.data.talent.lmt }} on cooldown.
-1. Maintain 3 {{ site.data.spell.fs }}s **only if there are exactly 3 targets**.
-1. Cast {{ site.data.spell.eq }} when available.
-1. Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs.
-1. Cast {{ site.data.talent.eb }} **only if there are exactly 3 targets**.
-1. Cast {{ site.data.spell.cl }}.
+<div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
+    <ol>
+        <li>Cast {{ site.data.talent.tm }}  when any of the following are true:
+            <ol>
+                <li>It is not active.</li>
+                <li>The buff's duration is at or below 9 seconds remaining.</li>
+            </ol>
+        </li>
+        <li>Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).</li>
+        <li class="sk-apl" style="display:none;">Cast {{ site.data.talent.sk }} on cooldown.</li>
+        <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
+        <li>Maintain 3 {{ site.data.spell.fs }}s if there are 3 targets.</li>
+        <li>Cast {{ site.data.spell.eq }} when available.</li>
+        <li>Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs.</li>
+        <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} if there are 3 targets.</li>
+        <li>Cast {{ site.data.spell.cl }}.</li>
+    </ol>
 </div>
 
 
@@ -161,3 +189,31 @@ Yes, the shorter the remaining duration, the less likely it is for you to need a
 In addition all Elementals have autocasts. If you disable one on one Elemental all other Elementals will have that ability deactivated too. This is very annoying and we hope for a fix.
 
 Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an incredible AoE CD and very useful for single target as well.
+
+
+<script>
+function listeners() {
+    let inputs = document.getElementsByTagName("input")
+    for (i in inputs) {
+        if (inputs[i].type == "radio") change_listener(inputs[i]);
+    }
+}
+
+function change_listener(element) {
+    element.addEventListener("change", function(e) {
+        let siblings = document.getElementsByName(e.target.name);
+        for (radio of siblings) {
+            let apl_elems = document.getElementsByClassName(radio.id.split('-')[0] + "-apl");
+            for (item of apl_elems) {
+                if (radio.checked == true) {
+                    item.style.display = "list-item";
+                } else {
+                    item.style.display = "none";
+                }
+            }
+        }
+    });
+}
+
+listeners()
+</script>
