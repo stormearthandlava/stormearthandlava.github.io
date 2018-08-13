@@ -45,8 +45,8 @@ The elemental priority is fairly straightforward — the choice of which spell t
         <li> Cast {{site.data.spell.es}} if the following is/are true:
             <ol>
                 <li>Your Maelstrom is higher than 60.</li>
-                <li class="mote-apl">{{site.data.talent.mote}}'s buff is active.</li>
-                <li class="ee-apl">{{site.data.talent.ee}}'s debuff is not active on the target.</li>
+                <li class="mote-apl" style="display:none;">{{site.data.talent.mote}}'s buff is active.</li>
+                <li class="ee-apl" style="display:none;">{{site.data.talent.ee}}'s debuff is not active on the target.</li>
             </ol>
         </li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} on cooldown.</li>
