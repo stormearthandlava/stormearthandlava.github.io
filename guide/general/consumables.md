@@ -20,6 +20,15 @@ toc: true
 ## Rune
 > {{ site.data.item.rune }}
 
+## Enchants
+
+Gear slot | Enchant
+--- | ---
+Weapon | <a href="https://bfa.wowhead.com/item=159786/enchant-weapon-quick-navigation">Enchant Weapon - Quick Navigation</a>.
+Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above.
+Bracers | Irrelevant, open world utility enchants. Safe Hearthing is probably a *safe* bet.
+Gloves | Irrelevant, open world utility enchants. No recommendation to be made here.
+
 ## Gems
 
 > The {{ site.data.item.int_gem }} and {{ site.data.item.haste_gem }} gems are of equal value. If the intellect gem is cheap, socket one, but odds are you will simply use the crit gem due to its availability.
