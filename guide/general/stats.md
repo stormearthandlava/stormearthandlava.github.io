@@ -54,17 +54,3 @@ We make heavy use of [bloodytools](https://github.com/Bloodmallet/bloodytools), 
   </div>
 </div>
 <br/>
-
-## Enchants
-
-Gear slot | Enchant
---- | ---
-Weapon | TBA - coming in BFA.
-Neck | Mark of the Hidden Satyr
-Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above.
-Bracers | Irrelevant, open world utility enchants. Safe Hearthing is probably a *safe* bet.
-Gloves | Irrelevant, open world utility enchants. No recommendation to be made here.
-
-## Gems
-
-Gems are as simple as ring enchants: whichever stat a) sims the highest and b) takes you closer to the stat ratios above.
