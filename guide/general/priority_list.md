@@ -42,17 +42,11 @@ The elemental priority is fairly straightforward — the choice of which spell t
         <li> Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).</li>
         <li class="asc-apl" style="display:list-item;">Cast {{ site.data.talent.asc }} on cooldown.</li>
         <li class="ee-apl" style="display:none;">Cast {{site.data.spell.lb}} if the {{site.data.talent.ee}} debuff is active on the target and you have more than 60 Maelstrom.</li>
-        <li> Cast {{site.data.spell.es}} if the following is/are true:
-            <ol>
-                <li>Your Maelstrom is higher than 60.</li>
-                <li class="mote-apl" style="display:none;">{{site.data.talent.mote}}'s buff is active.</li>
-                <li class="ee-apl" style="display:none;">{{site.data.talent.ee}}'s debuff is not active on the target.</li>
-            </ol>
-        </li>
+        <li class="mote-apl" style="display:none;"> Cast {{site.data.spell.es}} if the {{site.data.talent.mote}} buff is active and you have 60 or more Maelstrom.</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} on cooldown.</li>
         <li class="sk-apl" style="display:none;"> Cast {{ site.data.talent.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:list-item;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
-        <li>Cast {{ site.data.spell.es }} if your Maelstrom is higher than 92.</li>
+        <li>Cast {{ site.data.spell.es }} if your Maelstrom is higher than 92, to avoid over-capping Maelstrom</li>
         <li>Cast {{ site.data.spell.lvb }}.</li>
         <li class="if-apl" style="display:none;">Cast {{ site.data.talent.if }} on cooldown.</li>
         <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.</li>
