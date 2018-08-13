@@ -18,7 +18,7 @@ The elemental priority is fairly straightforward — the choice of which spell t
 
 
 15 | <input type="radio" id="ee-radio" name="15" value="1" /><label for="ee-radio"> Exposed Elements</label> | <input type="radio" id="eote-radio" name="15" value="2" checked /><label for="eote-radio"> Echo of the Elements</label> | <input type="radio" id="eb-radio" name="15" value="3" /><label for="eb-radio"> Elemental Blast</label> 
-30 | <input type="radio" id="afs-radio" name="30" value="1" /><label for="afs-radio"> Aftershock</label> | <input type="radio" id="mote-radio" name="30" value="2" /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="tm-radio" name="30" value="3" checked /><label for="ee-radio"> Totem Mastery</label>
+30 | <input type="radio" id="afs-radio" name="30" value="1" /><label for="afs-radio"> Aftershock</label> | <input type="radio" id="mote-radio" name="30" value="2" /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="tm-radio" name="30" value="3" checked /><label for="tm-radio"> Totem Mastery</label>
 60 | <input type="radio" id="hv-radio" name="60" value="1" /><label for="hv-radio"> High Voltage</label> | <input type="radio" id="se-radio" name="60" value="2" /><label for="se-radio"> Storm Elemental</label> | <input type="radio" id="lmt-radio" name="60" value="3" checked /><label for="lmt-radio"> Liquid Magma Totem</label>
 90 | <input type="radio" id="er-radio" name="90" value="1" /><label for="er-radio"> Earthen Rage</label> | <input type="radio" id="pe-radio" name="90" value="2" checked /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="90" value="3" /><label for="if-radio"> Icefury</label>
 100 | <input type="radio" id="up-radio" name="100" value="1" /><label for="up-radio"> Unlimited Power</label> | <input type="radio" id="sk-radio" name="100" value="2" /><label for="sk-radio"> Stormkeeper</label> | <input type="radio" id="asc-radio" name="100" value="3" checked /><label for="asc-radio"> Ascendance</label>
@@ -35,18 +35,18 @@ The elemental priority is fairly straightforward — the choice of which spell t
         <li> Cast {{ site.data.spell.fs }} when any of the following are true:
             <ol>
                 <li>It is not active on the target.</li>
-                <li>You are about to enter {{site.data.talent.asc}}.</li>
+                <li class="asc-apl">You are about to enter {{site.data.talent.asc}}.</li>
                 <li>The debuff's duration is at or below 6 seconds remaining.</li>
             </ol>
         </li>
         <li> Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).</li>
         <li class="asc-apl" style="display:list-item;">Cast {{ site.data.talent.asc }} on cooldown.</li>
         <li class="ee-apl" style="display:none;">Cast {{site.data.spell.lb}} if the {{site.data.talent.ee}} debuff is active on the target and you have more than 60 Maelstrom.</li>
-        <li> Cast {{site.data.spell.es}} if the following are true:
+        <li> Cast {{site.data.spell.es}} if the following is/are true:
             <ol>
                 <li>Your Maelstrom is higher than 60.</li>
-                <li>{{site.data.talent.mote}}'s buff is active.</li>
-                <li>{{site.data.talent.ee}}'s debuff is not active on the target.</li>
+                <li class="mote-apl">{{site.data.talent.mote}}'s buff is active.</li>
+                <li class="ee-apl">{{site.data.talent.ee}}'s debuff is not active on the target.</li>
             </ol>
         </li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} on cooldown.</li>
