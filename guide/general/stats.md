@@ -1,5 +1,5 @@
 ---
-title: Stats & Enchants
+title: Stats
 layout: page
 last_update: 2018-08-13 9:00:00
 game_version: 8.0.1 Battle for Azeroth
