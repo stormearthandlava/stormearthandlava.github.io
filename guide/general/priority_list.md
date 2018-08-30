@@ -82,7 +82,7 @@ The elemental priority is fairly straightforward — the choice of which spell t
 
 ## Openers
 
-Follow the cast sequences below for your chosen opener. A red arrow indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+Follow the cast sequences below for your chosen opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
 
 Standard raid opener:
 <div class="opener">
