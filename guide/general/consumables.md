@@ -31,4 +31,4 @@ Gloves | Irrelevant, open world utility enchants. No recommendation to be made h
 
 ## Gems
 
-> The {{ site.data.item.int_gem }} and {{ site.data.item.haste_gem }} gems are of equal value. If the intellect gem is cheap, socket one, but odds are you will simply use the crit gem due to its availability.
+> Socket one {{ site.data.item.int_gem }}, and put {{ site.data.item.haste_gem }} into your remaining sockets.
