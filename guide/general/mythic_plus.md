@@ -102,7 +102,7 @@ This page should serve as a reference for how to handle each Mythic+ dungeon. Th
                 <p markdown="1"><span class="blue">Trash mobs</span> - below are some notes on how to handle the rest of the dungeon:</p>
                 <ul>
                     <li>On the Demolishers before <span class="blue">Hadal Darkfathom</span>, you can use {{site.data.spell.tremor_totem}} to dispel every other fear, assuming they last long enough. You can also line-of-sight this fear.</li>
-                    <li>All of the trash before <span class="blue">Hadal Darkfathom</span> deal immense tank damage, making this an excellent section of the dungeon to use {{site.data.earth_elemental}}.</li>
+                    <li>All of the trash before <span class="blue">Hadal Darkfathom</span> deal immense tank damage, making this an excellent section of the dungeon to use {{site.data.spell.earth_elemental}}.</li>
                 </ul>
             </div>
         </div>
