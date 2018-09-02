@@ -22,6 +22,8 @@ categories:
       url: /guide/general/weak_auras.html
     - title: F.A.Q.
       url: /guide/general/faq.html
+    - title: Mythic+
+      url: /guide/general/mythic_plus.html
     - title: Leveling
       url: /guide/general/leveling.html
 
@@ -44,7 +46,7 @@ categories:
 
 #- title: Mythic+
 # activate this v line if you don't want child elements in the top menu
-#url: /guide/dungeons/general.html
+#url: /guide/dungeons.html
 # subcategories:
 
 #    - title: General Guide

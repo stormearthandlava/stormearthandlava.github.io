@@ -292,3 +292,71 @@ input[type="radio"]+label {
 input[type="radio"]:checked+label {
   color: $brand-color;
 }
+
+span.blue {
+  color: $brand-color;
+}
+
+div.dungeon-header {
+  width: 100%;
+  min-height: 100px;
+  max-height: 150px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+  padding-bottom: 10px;
+  border: 1px solid #828282;
+  cursor: pointer;
+}
+
+div.dungeon-header h2 {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  -webkit-text-stroke: 1px black;
+  cursor: pointer;
+}
+
+div.dungeon-header.ataldazar {
+  background-image: url('/assets/img/guide/dungeons/ataldazar.png')
+}
+
+div.dungeon-header.freehold {
+  background-image: url('/assets/img/guide/dungeons/freehold.png')
+}
+
+div.dungeon-header.kingsrest {
+  background-image: url('/assets/img/guide/dungeons/kingsrest.png')
+}
+
+div.dungeon-header.boralus {
+  background-image: url('/assets/img/guide/dungeons/boralus.png')
+}
+
+div.dungeon-header.motherlode {
+  background-image: url('/assets/img/guide/dungeons/motherlode.png')
+}
+
+div.dungeon-header.shrine {
+  background-image: url('/assets/img/guide/dungeons/shrine.png')
+}
+
+div.dungeon-header.temple {
+  background-image: url('/assets/img/guide/dungeons/temple.png')
+}
+
+div.dungeon-header.toldagor {
+  background-image: url('/assets/img/guide/dungeons/toldagor.png')
+}
+
+div.dungeon-header.underrot {
+  background-image: url('/assets/img/guide/dungeons/underrot.png')
+}
+
+div.dungeon-header.waycrest {
+  background-image: url('/assets/img/guide/dungeons/waycrest.png')
+}
+
+div.dungeon-accordion div.card-header {
+  padding: 0px;
+}
