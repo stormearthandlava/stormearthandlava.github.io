@@ -26,7 +26,7 @@ This page should serve as a reference for how to handle each Mythic+ dungeon. Th
                 <p markdown="1"><span class="blue">Trash mobs</span> - below are some notes on how to handle the rest of the dungeon:</p>
                 <ul>
                     <li>For Feasting Skyscreamer packs, dump Maelstrom into {{site.data.spell.es}} on the screamers and use {{site.data.spell.cl}} on the small birds. If you have no interrupts available, you can use {{site.data.spell.tremor_totem}} to dispel the fear. Try and stun with {{site.data.spell.capacitor_totem}} immediately before the birds jump.</li>
-                    <li>If you're going the top route to <span class="blue">Vol'kaal</span> first, amke sure you have CDs up for the trash pack before the boss. </li>
+                    <li>If you're going the top route to <span class="blue">Vol'kaal</span> first, make sure you have CDs up for the trash pack before the boss. </li>
                     <li>The two Zanchuli Witch-Doctors are especially dangerous. This doesn't impact your damage on <span class="blue">Vol'kaal</span> too much, because the start of the fight is simply attacking the totems.</li>
                     <li>If you're going along the top route to <span class="blue">Priestess Alun'za</span>, purge the Dazar'al Colossus and focus your Maelstrom into it with {{site.data.spell.es}} casts.</li>
                 </ul>
