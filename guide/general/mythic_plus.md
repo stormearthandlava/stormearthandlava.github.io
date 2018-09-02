@@ -183,7 +183,7 @@ This page should serve as a reference for how to handle each Mythic+ dungeon. Th
         <div class="card-header" id="waycrest">
             <div data-toggle="collapse" data-target="#waycrest-collapse" aria-expanded="true" aria-controls="waycrest-collapse" class="dungeon-header waycrest"><h2>Waycrest Manor</h2></div>
         </div>
-        <div id="toldagor-collapse" class="collapse" aria-labelledby="waycrest" data-parent="#accordion">
+        <div id="waycrest-collapse" class="collapse" aria-labelledby="waycrest" data-parent="#accordion">
             <div class="card-body">                
                 <p markdown="1"><span class="blue">Heartsbane Triad</span> - you can dispel Runic Mark, so communicate with your healer if you want to dispel it or not as it deals damage upon expiration or removal. Make sure to purge buffs from your friends if they are mind controlled, especially if it's a big cooldown like Bloodlust or Icy Veins, as they will finally admit that you play the better class.</p>
                 <p markdown="1"><span class="blue">Soulbound Goliath</span> - Pool Maelstrom to kill Soul Thorns.</p>
