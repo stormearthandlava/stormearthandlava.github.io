@@ -31,9 +31,8 @@ categories:
   subcategories:
     - title: Antorus
       url: /guide/raids/antorus.html
-    #- title: Uldir
-    #  url: /guide/raids/uldir/general.html
-    #  subcategories:
+    - title: Uldir
+      url: /guide/raids/uldir.html
     #
     #    - title: Boss1
     #      url: /guide/raids/uldir/boss1.html
