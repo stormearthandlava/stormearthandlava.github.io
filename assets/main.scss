@@ -364,3 +364,31 @@ div.dungeon-header.uldir {
 div.dungeon-accordion div.card-header {
   padding: 0px;
 }
+
+div.blizzard-post {
+  color: #00c0ff;
+  border: 1px #222 solid;
+  text-align: justify;
+  background-color: #221912;
+  padding: 10px 20px 10px 20px;
+  border-radius: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+div.blizzard-post:nth-child(2) {
+  margin-top: 25px;
+}
+
+div.blizzard-post::before {
+  content: "Post by Blizzard on the Official Forums";
+  text-decoration: underline;
+  color: white;
+  font-weight: bold;
+  padding-bottom: 10px;
+  position: relative;
+}
+
+div.blizzard-post a.icontinyl {
+  color: #bef !important;
+}
