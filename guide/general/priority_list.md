@@ -14,10 +14,10 @@ The elemental priority is fairly straightforward — the choice of which spell t
 ## Single target / two targets
 
 
-#### Talent selector: 
+#### Talent selector:
 
 
-15 | <input type="radio" id="ee-radio" name="15" value="1" /><label for="ee-radio"> Exposed Elements</label> | <input type="radio" id="eote-radio" name="15" value="2" checked /><label for="eote-radio"> Echo of the Elements</label> | <input type="radio" id="eb-radio" name="15" value="3" /><label for="eb-radio"> Elemental Blast</label> 
+15 | <input type="radio" id="ee-radio" name="15" value="1" /><label for="ee-radio"> Exposed Elements</label> | <input type="radio" id="eote-radio" name="15" value="2" checked /><label for="eote-radio"> Echo of the Elements</label> | <input type="radio" id="eb-radio" name="15" value="3" /><label for="eb-radio"> Elemental Blast</label>
 30 | <input type="radio" id="afs-radio" name="30" value="1" /><label for="afs-radio"> Aftershock</label> | <input type="radio" id="mote-radio" name="30" value="2" /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="tm-radio" name="30" value="3" checked /><label for="tm-radio"> Totem Mastery</label>
 60 | <input type="radio" id="hv-radio" name="60" value="1" /><label for="hv-radio"> High Voltage</label> | <input type="radio" id="se-radio" name="60" value="2" /><label for="se-radio"> Storm Elemental</label> | <input type="radio" id="lmt-radio" name="60" value="3" checked /><label for="lmt-radio"> Liquid Magma Totem</label>
 90 | <input type="radio" id="er-radio" name="90" value="1" /><label for="er-radio"> Earthen Rage</label> | <input type="radio" id="pe-radio" name="90" value="2" checked /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="90" value="3" /><label for="if-radio"> Icefury</label>
@@ -185,6 +185,10 @@ That's correct but which human is able to accurately judge the difference betwee
 > "I should cast {{ site.data.talent.tm }} at less than 9 seconds remaining!"
 
 Yes, the shorter the remaining duration, the less likely it is for you to need an additional cast of it over the whole fight. But because that is quite unlikely already, 9 is a good rule of thumbs. The overall dps won't budge with that change.
+
+> "I should try to keep {{ site.data.azerite.natural_harmony }} active with {{ site.data.spell.frs }}!"
+
+Yes/No. If you have that trait at least twice you can keep the frost buff up with {{ site.data.spell.frs }} to be dps neutral. This offers additional movement globals, which are very helpful.
 
 ## Warning about Primal Elementalist
 
