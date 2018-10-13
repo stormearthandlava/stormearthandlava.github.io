@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Priority List
-last_update: 2018-08-13 09:00:00
+last_update: 2018-10-13 09:00:00
 game_version: 8.0.1 Battle for Azeroth
 toc: true
 ---
@@ -46,10 +46,12 @@ The elemental priority is fairly straightforward — the choice of which spell t
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} on cooldown.</li>
         <li class="sk-apl" style="display:none;"> Cast {{ site.data.talent.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:list-item;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
+        <li>Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies and if your Maelstrom is higher than 92, to avoid over-capping Maelstrom.</li>
         <li>Cast {{ site.data.spell.es }} if your Maelstrom is higher than 92, to avoid over-capping Maelstrom</li>
         <li>Cast {{ site.data.spell.lvb }}.</li>
         <li class="if-apl" style="display:none;">Cast {{ site.data.talent.if }} on cooldown.</li>
         <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.</li>
+        <li>Cast {{ site.data.spell.eq }} when fighting 2 or more enemies.</li>
         <li>Cast {{site.data.spell.es }}.</li>
         <li class="tm-apl">Refresh {{ site.data.talent.tm }} if its duration is at or below 9 seconds remaining.</li>
         <li>Cast {{site.data.spell.cl}} if it will hit more than one target.</li>
