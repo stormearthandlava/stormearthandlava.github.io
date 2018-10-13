@@ -1,20 +1,22 @@
 ---
 layout: page
 title: Talents
-last_update: 2018-09-01 09:00:00
+last_update: 2018-10-13 09:00:00
 game_version: 8.0.1 Battle for Azeroth
 toc: true
 ---
 
 ## TL;DR Recommendations
 
-**These suggestions are for Battle for Azeroth at level 120!**
+**These suggestions are for Battle for Azeroth at level 120!** Many more talent combinations may work. We're listing the most robust ones (for example less affected by movement).
 
 Type | Talent combination
 --- | ---
 Questing / Solo&nbsp;Content | 15: {{ site.data.talent.eote }}<br> 30: {{ site.data.talent.mote }}<br> 45: {{ site.data.talent.earth_shield }}<br> 60: {{ site.data.talent.hv }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.er }}<br> 100: {{ site.data.talent.up }}
 Mythic+ | 15: {{ site.data.talent.eote }}<br> 30: {{ site.data.talent.afs }} **OR** {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{site.data.talent.static_charge}}<br> 60: {{ site.data.talent.lmt }}<br> 75: {{ site.data.talent.natures_guardian }} **OR** {{site.data.talent.ancestral_guidance}}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.up }} **OR** {{site.data.talent.sk}}
 Raid / Single&nbsp;Target | 15: {{ site.data.talent.eote }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.lmt }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.asc }}
+
+While a combination of {{site.data.talent.ee}}, {{site.data.talent.tm}}, {{site.data.talent.hv}} / {{site.data.talent.se}}, {{site.data.talent.pe}}, {{site.data.talent.up}} simulates fine and can work out well in fights too, this talent combination struggles a lot with movement.
 
 ## In depth discussion
 
@@ -37,12 +39,12 @@ Click the talent row text to expand.
                 <p markdown="1">Adds an interaction between {{ site.data.spell.es }} and {{ site.data.spell.lb }} for added burst. Note that this talent applies a *debuff* to the target you cast {{ site.data.spell.es }} on, so you'll want to ensure the target will survive long enough for {{ site.data.spell.lb }} and its {{ site.data.spell.mastery }} proc to deal their damage.</p>
                 <hr><br>
                 <h4>{{site.data.talent.eote}} (EotE / Echo)</h4>
-                <p markdown="1"> Quite a simple talent to understand, EotE just adds a charge to {{ site.data.spell.lvb }}. At face value this may not seem impactful, but once you consider that effects which reset the cooldown on {{ site.data.spell.lvb }} will now instead grant a charge, the benefits are clear. Echo adds value by allowing extra time for you to cast {{ site.data.spells.lvb }} instead of needing to cast it immediately when it comes off cooldown. This is because you'll lose no DPS by choosing to cast another spell while {{ site.data.spell.lvb }} has less than 2 charges, as the second charge "cooling down" does not translate to wasted DPS.</p>
+                <p markdown="1"> Quite a simple talent to understand, EotE just adds a charge to {{ site.data.spell.lvb }}. At face value this may not seem impactful, but once you consider that effects which reset the cooldown on {{ site.data.spell.lvb }} will now instead grant a charge, the benefits are clear. Echo adds value by allowing extra time for you to cast {{ site.data.spells.lvb }} instead of needing to cast it immediately when it comes off cooldown. This is because you'll lose no DPS by choosing to cast another spell while {{ site.data.spell.lvb }} has less than 2 charges, as the second charge "cooling down" does not translate to wasted DPS. This makes this talent helpful for any kind of movement compared to the other two.</p>
                 <hr><br>
                 <h4>{{site.data.talent.eb}} (EB)</h4>
                 <p markdown="1"> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.eote}} should be taken for most situations and synergises better with {{site.data.talent.mote}} (if taken). {{site.data.talent.ee}} should only be considered if you are able to benefit from the debuff on every cast. {{site.data.talent.eb}} can be taken for AOE if you don't want to worry about the {{site.data.spell.lvb}} charges or the {{site.data.talent.ee}} debuff.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.eote}} should be taken for most situations and synergises better with {{site.data.talent.mote}} (if taken). {{site.data.talent.ee}} should only be considered if you are able to benefit from the debuff on every cast. The recent {{ site.data.spell.lb }} buff made this talent better than {{site.data.talent.eote}} in simulations. But don't forget that {{site.data.talent.ee}} is quite weak versus movement. {{site.data.talent.eb}} can be taken for AOE if you don't want to worry about the {{site.data.spell.lvb}} charges or the {{site.data.talent.ee}} debuff.</p>
             </div>
         </div>
     </div>
@@ -58,7 +60,7 @@ Click the talent row text to expand.
                 <p markdown="1">This functions like Legion's legendary boots, The Deceiver's Blood Pact. When you cast {{ site.data.spell.eq }} or {{ site.data.spell.es }}, you have a chance to immediately refund all the Maelstrom spent. This allows for increased burst AoE/ST but with the caveat that at a 25% chance, it is quite random and can't be reliably used for burst damage.</p>
                 <hr><br>
                 <h4>{{site.data.talent.mote}} (MotE)</h4>
-                <p markdown="1"> Adds an interaction between {{ site.data.spell.lvb }} and {{ site.data.spell.es }} / {{ site.data.spell.frs }} / {{ site.data.spell.lb }} / {{ site.data.spell.cl }}. Note that {{ site.data.talent.mote }}'s buff is applied *immedately* on a successful cast, not when the {{ site.data.spell.lvb }} projectile hits the target. This is distinct from every other interaction with {{ site.data.spell.lvb }} in the past (and present). The benefit here is that, on bosses with very large hitboxes, you won't need to cast a filler spell between {{ site.data.spell.lvb }} and the spell you wish to empower with {{ site.data.talent.mote }}.</p>
+                <p markdown="1"> Adds an interaction between {{ site.data.spell.lvb }} and {{ site.data.spell.es }} / {{ site.data.spell.frs }} / {{ site.data.spell.lb }} / {{ site.data.spell.cl }}. Note that {{ site.data.talent.mote }}'s buff is applied *immedately* on a successful cast, not when the {{ site.data.spell.lvb }} projectile hits the target. This is distinct from every other interaction with {{ site.data.spell.lvb }} in the past (and present). The benefit here is that, on bosses with very large hitboxes, you won't need to cast a filler spell between {{ site.data.spell.lvb }} and the spell you wish to empower with {{ site.data.talent.mote }}. It's not worth to add {{ site.data.spell.lvb }} to your AoE priority list. This talent is a trap for AoE.</p>
                 <hr><br>
                 <h4>{{site.data.talent.tm}} (TM)</h4>
                 <p markdown="1"> A set of stationary buffing totems which provide small but effective bonuses while within their 40 yard range. Ideally you want to use this every 2 minutes, or whenever you're forced to move out of the buff radius.</p>
@@ -105,7 +107,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.lmt}} (LMT)</h4>
                 <p markdown="1"> Offers some nice burst AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.lmt}} for single target and burst AOE; {{site.data.talent.hv}} for sustained AOE.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.lmt}} for single target and burst AOE; {{site.data.talent.hv}} for sustained AOE. {{site.data.talent.hv}} was indirectly buffed by the {{ site.data.spell.lb }} buff to surpass {{site.data.talent.lmt}} for some players. However {{site.data.talent.hv}} is affected stronger by any kind of personal movement than {{site.data.talent.lmt}}, which reduces its worth quite significantly.</p>
             </div>
         </div>
     </div>
@@ -124,7 +126,7 @@ Click the talent row text to expand.
                 <p markdown="1"> A decent emergency heal when used in AoE, but quite underwhelming for ST. This should only be considered for use when *dealing damage*, **not when casting {{ site.data.spell.healing_surge }}**.</p>
                 <hr><br>
                 <h4>{{site.data.talent.wind_rush_totem}} (WRT)</h4>
-                <p markdown="1">Raid utility that requires a bit of experience to place properly. The movement speed buff radius is unclear, but with some practise and proper raid positioning it should not be an issue.</p>
+                <p markdown="1">Raid utility that requires a bit of experience to place properly. The movement speed buff radius is unclear, but with some practise and proper raid positioning it should not be an issue. (Rejoice! {{site.data.talent.wind_rush_totem}} got an effect radius animation on 8.1 PTR. Soon...!)</p>
                 <hr><br>
                 <p markdown="1">**Recommendation:** {{ site.data.talent.natures_guardian }} as a default, but consider {{ site.data.talent.ancestral_guidance }} for Mythic+ dungeons where you might need an AOE healing cooldown, and {{ site.data.talent.wind_rush_totem }} for raid encounters as necessary.</p>
             </div>
@@ -173,7 +175,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.asc}} (Asc)</h4>
                 <p markdown="1">A potent cooldown with a few requirements for its use. First, you must ensure you refresh {{ site.data.spell.fs }} before casting {{ site.data.talent.asc }} as the reduced duration of {{site.data.spell.fs}} in BFA would likely require you to refresh it during {{site.data.talent.asc}}. Second, you want to get high value out of {{site.data.talent.asc}} with high (optimally 100%) uptime of casts during the buff. You should adjust your casts during {{site.data.talent.asc}} as per the <a href="priority_list.html">priority list</a> page.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:**{{site.data.talent.asc}} for single target raid encounters, otherwise {{site.data.talent.up}} for sustained single target and AOE; {{site.data.talent.sk}} if you require burst AOE.</p>
+                <p markdown="1">**Recommendation:**{{site.data.talent.asc}} for single target raid encounters, otherwise {{site.data.talent.up}} for sustained single target and AOE; {{site.data.talent.sk}} if you require burst AOE. {{site.data.talent.up}} got some boost out of the  {{site.data.spell.lb}} buff. It's still weaker to movement than {{site.data.talent.asc}}.</p>
             </div>
         </div>
     </div>
