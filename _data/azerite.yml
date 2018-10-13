@@ -12,6 +12,7 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
+# spec specific traits
 ancestral_resonance: <a href="https://bfa.wowhead.com/spell=277942" target="blank">Ancestral Resonance</a>
 
 echo_of_the_elementals: <a href="https://bfa.wowhead.com/spell=275381" target="blank">Echo of the Elementals</a>
@@ -25,3 +26,8 @@ natural_harmony: <a href="https://bfa.wowhead.com/spell=278697" target="blank">N
 rumbling_tremors: <a href="https://bfa.wowhead.com/spell=278709" target="blank">Rumbling Tremors</a>
 
 synapse_shock: <a href="https://bfa.wowhead.com/spell=277671" target="blank">Synapse Shock</a>
+
+# Uldir specific traits
+laser_matrix: <a href="https://bfa.wowhead.com/spell=280702" target="blank">Laser Matrix</a>
+
+archive_of_the_titans: <a href="https://bfa.wowhead.com/spell=280555" target="blank">Archive of the Titans</a>
