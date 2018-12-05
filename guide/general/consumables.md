@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Consumables
-last_update: 2018-08-31 09:00:00
-game_version: 8.0.1 Battle for Azeroth
+last_update: 2018-12-07 09:00:00
+game_version: 8.1.0 Battle for Azeroth
 toc: true
 ---
 
@@ -11,8 +11,8 @@ toc: true
 
 ## Food
 1. {{ site.data.item.feast }}
-1. {{ site.data.item.haste_food }}
 1. {{ site.data.item.crit_food }}
+1. {{ site.data.item.haste_food }}
 
 ## Potion
 > {{ site.data.item.int_pot }}
@@ -31,4 +31,4 @@ Gloves | Irrelevant, open world utility enchants. No recommendation to be made h
 
 ## Gems
 
-> Socket one {{ site.data.item.int_gem }}, and put {{ site.data.item.haste_gem }} into your remaining sockets.
+> Socket one {{ site.data.item.int_gem }}, and put {{ site.data.item.crit_gem }} into your remaining sockets.
