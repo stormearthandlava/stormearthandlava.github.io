@@ -13,7 +13,7 @@ Many more talent combinations may work. We're listing the most robust ones (for 
 Type | Talent combination
 --- | ---
 Questing / Solo&nbsp;Content | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.earth_shield }}<br> 60: {{ site.data.talent.se }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.sop }}<br> 100: {{ site.data.talent.sk }}
-Mythic+ | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 60: {{ site.data.talent.se }}<br> 75: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{site.data.talent.sk}}
+Mythic+ | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 60: {{ site.data.talent.se }} **OR** {{ site.data.talent.lmt }} <br> 75: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 90: {{ site.data.talent.sop }}<br> 100: {{site.data.talent.sk}}
 Raid / Single&nbsp;Target | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.se }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.sk }}
 
 There are other talent combinations that peform close to these or sometimes even better. So please make sure to sim your character if you suspect that something else is a better general choice.
@@ -108,7 +108,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.lmt}} (LMT)</h4>
                 <p markdown="1"> Offers some nice burst AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.se }} for single target and burst AOE; {{ site.data.talent.lmt }} for sustained AOE. {{ site.data.talent.mote }} is weaker than {{ site.data.talent.se }} on single target and you're required to game the buff to preferred {{ site.data.spell.es }}. Therefore we suggest to not use {{ site.data.talent.mote }} for now.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.se }} for single target and burst AOE; {{ site.data.talent.lmt }} for sustained AOE or when you need heavy AoE roughly on a one minute timer. {{ site.data.talent.mote }} is weaker than {{ site.data.talent.se }} on single target and you're required to game the buff to preferred {{ site.data.spell.es }}. Therefore we suggest to not use {{ site.data.talent.mote }} for now.</p>
             </div>
         </div>
     </div>
