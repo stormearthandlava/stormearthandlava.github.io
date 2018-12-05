@@ -1,8 +1,8 @@
 ---
 layout: highcharts_page
 title: Azerite Traits
-last_update: 2018-06-22 09:00:00
-game_version: 8.0.1 Battle for Azeroth
+last_update: 2018-12-07 09:00:00
+game_version: 8.1.0 Battle for Azeroth
 toc: true
 ---
 
@@ -30,32 +30,27 @@ Note that these charts show the value of traits at 385 item level, the base for 
 ## Special mentions
 
 ### Ancestral Resonance
-> This requires you to personally cast {{ site.data.spell.bloodlust }} to
-> activate the trait. Note that the trait still triggers even if you have the Sated debuff active.
-> This simply means you can benefit from this trait once every 5 minutes at most.
-> One word of warning; it's very easy to over-cap your {{ site.data.spell.mastery }} with multiple points
-> into this trait, so try to avoid more than one where possible.
+This no longer requires you to personally cast {{ site.data.spell.bloodlust }} to
+activate the trait. The duration of these effects is increased by 50% regardless.
 
 ### Igneous Potential
-> Stacking this trait increases the damage component, but you only gain the increased
-> {{site.data.spell.lava_surge}} chance on the first point.
-> This does not nullify the trait's value after the first point, but it does come at a
-> slight cost thanks to the {{site.data.spell.lava_surge}}'s non-scaling.
-> A great option for Maelstrom generation and movement.
+Stacking this trait increases the damage component, but you only gain the increased
+{{site.data.spell.lava_surge}} chance on the first point.
+This does not nullify the trait's value after the first point, but it does come at a
+slight cost thanks to the {{site.data.spell.lava_surge}}'s non-scaling.
+A great option for Maelstrom generation and movement.
 
 ### Lava Shock
-> With increased value in two-target cleave, this trait could see extensive use
-> if a fight calls for sustained two-target cleave.
-
-### Rumbling Tremors
-> This buffs {{ site.data.spell.ee }} into a more meaningful damage cooldown.
-> However, as we already use {{site.data.spell.ee}} on cooldown (with some caveats when using {{site.data.talent.pe}}),
-> this has no effect on how you decide to use the {{site.data.spell.ee}}.
+With increased value in two-target cleave, this trait could see some use
+if a fight calls for sustained two-target cleave or spread target damage.
 
 ### Natural Harmony
-> This trait is not utilized to the fullest by our standard spells, because we usually don't use {{ site.data.spell.frs }}.
-> If you somehow end up with this trait twice, you can actually use {{ site.data.spell.frs }} to keep that buff up and be dps neutral to not using the buff.
-> This has the advantage of additional movement globals / stutter stepping.
+This trait is not utilized to the fullest by our standard spells, because we usually don't use {{ site.data.spell.frs }}.
+If you somehow end up with this trait twice, you can actually use {{ site.data.spell.frs }} to keep that buff up and be dps neutral to not using the buff.
+This has the advantage of additional movement globals / stutter stepping. Having the trait 2-3 times pushes {{ site.data.talent.eb }} a lot, but probably not enough to overtake the best talent combination. But sim to make sure for your character.
+
+### Tectonic Thunder
+Pure AoE trait, that enables occasional {{ site.data.spell.cl }} instant casts. Be aware that using {{ site.data.talent.sk }} munches these procs. Additionally stacking this trait can push {{ site.data.spell.eq }} damage to the level of {{ site.data.spell.es }} on single target. While this is not a wise choice to do so (because other traits are actual gains on single target and thus preferrable), it could reincarnate the {{ site.data.spell.eq }} on single target meme from Tomb of Sargeras.
 
 ## Azerite Items
 Read the [gear]({{ site.baseurl }}{% link guide/general/gear.md %}) page in this guide.
