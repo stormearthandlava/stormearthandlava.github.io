@@ -1,60 +1,59 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 2018-08-11 09:00:00
-game_version: 8.0.1 Battle for Azeroth
+last_update: 2018-12-07 09:00:00
+game_version: 8.1.0 Battle for Azeroth
 toc: true
 ---
 
-This page has the answers to some frequently asked questions for Elemental in Patch 8.0.1.
+This page has the answers to some frequently asked questions for Elemental in Patch 8.1
 
-> Q: "Will Elemental be viable in Battle for Azeroth?"
+### Q: "Will Elemental be viable in Battle for Azeroth 8.1?"
 
-Firstly, no spec in the game is unviable. Certain specs may be favoured for certain bosses in a raid, but this is only relevant to the very highest end of raiding (ie, competing for world first). Secondly, we can't say how balancing will pan out in the remaining few weeks before BFA's release. Elemental (and every other spec) will remain competitive for 99.9% of the playerbase.
+Firstly, no spec in the game is unviable. Certain specs may be favoured for certain bosses in a raid, but this is only relevant to the very highest end of raiding (ie, competing for world first). Elemental (and every other spec) will remain competitive for 99.9% of the playerbase.
 
-> Q: "What's the deal with 8.1, are we unfinished?"
-
-Technically the developers admitted to Elemental being a somewhat unfinished spec.  This does not mean that Elemental is unplayable, in fact it is far from it.  All this means is that Elemental might see more significant changes in 8.1 than tuning. We are not privy to any sort of design insight and we have no idea what changes are coming or if any changes are coming at all.
-
-
-> Q: "What Pots/Food/Flasks should I use?"
+### Q: "What Pots/Food/Flasks should I use?"
 
 See the [Consumables]({{ site.baseurl }}{% link guide/general/consumables.md %}) section of the guide.
 
-> Q: "How many targets should I cast {{ site.data.spell.fs }} on?"
+### Q: "How many targets should I cast Flame Shock on?"
 
 Because of the new cooldown, it is best to only {{ site.data.spell.fs }} a maximum of three targets.
 
-> Q: "Does {{ site.data.spell.eq }} stack?"
+### Q: "Does Earthquake stack?"
 
 Yes, {{ site.data.spell.eq }} stacks and has no stack limit.
 
-> Q: "When should I stop using {{ site.data.spell.es }} and use {{ site.data.spell.eq }}?"
+### Q: "When should I stop using Earth Shock and use Earthquake?"
 
-Switch over to using {{ site.data.spell.eq }} on two targets or more if not talented into {{ site.data.talent.exposed_elements }}.  If talented into {{ site.data.talent.exposed_elements }}, use an {{ site.data.spell.es }} > {{ site.data.spell.lb }} combo on two targets.  If there are more than two targets and talented into {{ site.data.talent.exposed_elements }}, cast {{ site.data.spell.eq }}.
+Switch over to using {{ site.data.spell.eq }} on two targets or more if not talented into {{ site.data.talent.sop }} and could spread {{ site.data.spell.fs}}.
 
-> Q: "When is the best time to use Primal Fire Elemental's {{ site.data.spell.meteor }}?"
+### Q: "When is the best time to use Primal Fire Elemental's Meteor?"
 
 *Note: This only applies when talented into* {{ site.data.talent.pe }}.
 
-Since the cooldown of {{ site.data.spell.meteor }} is the same as the duration of Primal Fire Elemental, save it for a period of AOE within the Elemental's lifetime.  If there is no upcoming AOE, cast it immediately.  Make sure to bind it to a key.
+Since the cooldown of {{ site.data.spell.meteor }} is the same as the duration of Primal Fire Elemental, save it for a period of AOE within the Elemental's lifetime.  If there is no upcoming AOE, cast it immediately.  Make sure to bind it to a key. Check out the macro section of this page, if you need help with that.
 
-> Q: "Is there a way to enable/disable {{ site.data.spell.ee }} taunt without screwing up my autocast settings of the DPS Elemental?"
+### Q: "Is there a way to enable/disable Earth Elemental taunt without screwing up my autocast settings of the DPS Elemental?"
 
 *Note: This only applies when talented into* {{ site.data.talent.pe }}.
 
 Not that we're aware of. The Elementals' autocast settings are shared between the Elemental pets. If you deactivate or activate it on one button, the matching button of the other Elementals will share that setting. We hope, that this will be changed.
 
-> Q: "What are some useful Macros?"
+### Q: "Do I use Lava Burst during Storm Elemental?"
 
- This Macro allows you to place an {{ site.data.spell.eq }} at your cursor:
+No. During {{ site.data.talent.se }} uptime you want to only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }}. Not even {{ site.data.spell.fs }}. But make sure to refresh {{ site.data.spell.fs }} before summoning your {{ site.data.talent.se }}, though.
+
+### Q: "What are some useful Macros?"
+
+This Macro allows you to place an {{ site.data.spell.eq }} at your cursor:
 
  ```
 #showtooltip Earthquake
 /cast [@cursor] Earthquake
  ```
 
- This macro will deselect the boss before casting Fire Elemental, allowing you to pre-cast it without pulling the boss:
+This macro will deselect the boss before casting {{ site.data.spell.fe }}, allowing you to pre-cast it without pulling the boss:
 
  ```
 #showtooltip Fire Elemental
@@ -63,3 +62,29 @@ Not that we're aware of. The Elementals' autocast settings are shared between th
 /targetlasttarget [nocombat]
  ```
 
+This macro allows you to cast the Elementals Ability or Icefury, depending on your talents. The correct item is shown once you've loaded the ability at least once after logging in.
+```
+#showtooltip
+/cast [talent:6/3]Icefury;[talent:4/2,talent:6/2]Eye of the Storm;[notalent:4/2,talent:6/2]Meteor
+```
+
+This macro is a handy mouseover macro for {{ site.data.spell.fs }}.
+```
+#showtooltip Flame Shock
+/cast [@mouseover,harm,nodead][] Flame Shock
+```
+
+This macro allows you to summon your {{ site.data.spell.ee }} and active its defensive CD via double click. If your {{ site.data.spell.fe }} is active {{ site.data.spell.ee }} will simply go on CD and nothing else will happen, so don't try this with your DPS Elemental being active.
+
+```
+#showtooltip
+/cast Earth Elemental
+/cast [talent:6/2] Harden Skin
+```
+
+This macro is just annoying.
+```
+#showtooltip Stormkeeper
+/run SendChatMessage("Storm, Earth, and Fire! Heed my ".. GetSpellLink("Stormkeeper").. "!", "yell")
+/cast Stormkeeper
+```
