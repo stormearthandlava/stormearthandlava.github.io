@@ -16,7 +16,7 @@ Questing / Solo&nbsp;Content | 15: {{ site.data.talent.er }}<br> 30: {{ site.dat
 Mythic+ | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 60: {{ site.data.talent.se }} **OR** {{ site.data.talent.lmt }} <br> 75: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{site.data.talent.sk}}
 Raid / Single&nbsp;Target | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.se }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.sk }}
 
-**Special Mention** {{ site.data.talent.sop }} can depending on fight length surpass {{ site.data.talent.pe }} by a lot. Especially when combined with {{ site.data.azerite.echo_of_the_elementals }} and {{ site.data.talent.se }}. The downside is: you need to figure out on the fly which effect of {{ site.data.talent.sop }} you actually need. Check out logs!
+**Special Mention** {{ site.data.talent.sop }} can depending on fight length surpass {{ site.data.talent.pe }} by a lot. Especially when combined with the Azerite Trait {{ site.data.azerite.echo_of_the_elementals }} and {{ site.data.talent.se }}. The downside is: you need to figure out on the fly which effect of {{ site.data.talent.sop }} you actually need. Check out logs!
 
 There are other talent combinations that peform close to these or sometimes even better. So please make sure to sim your character if you suspect that something else is a better general choice.
 
@@ -68,7 +68,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.tm}} (TM)</h4>
                 <p markdown="1"> A set of stationary buffing totems which provide small but effective bonuses while within their 40 yard range. Ideally you want to use this every 2 minutes, or whenever you're forced to move out of the buff radius.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.tm}} for most content. {{site.data.talent.afs}} is a good alternative to {{site.data.talent.tm}}, but is preferentially used in AOE. Currently, {{site.data.talent.ctt}} is underwhelming.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.tm}} for most content. {{site.data.talent.afs}} is competitive with {{site.data.talent.tm}} for 2+ targets , but is only strictly superior in AoE situations once you have 5 or more targets. {{site.data.talent.ctt}} is currently under-tuned & is effectively a substantially weaker form of {{site.data.talent.afs}}. It is not recommended in any situation.</p>
             </div>
         </div>
     </div>
@@ -102,7 +102,7 @@ Click the talent row text to expand.
         <div id="L60-collapse" class="collapse" aria-labelledby="L60" data-parent="#accordion">
             <div class="card-body">
                 <h4>{{site.data.talent.mote}} (MotE)</h4>
-                <p markdown="1"> Adds an interaction between {{ site.data.spell.lvb }} and {{ site.data.spell.es }} / {{ site.data.spell.eq }} / {{ site.data.spell.frs }} / {{ site.data.spell.lb }} / {{ site.data.spell.cl }}. Note that {{ site.data.talent.mote }}'s buff is applied *immedately* on a successful {{ site.data.spell.lvb }} cast, not when the {{ site.data.spell.lvb }} projectile hits the target. This is distinct from every other interaction with {{ site.data.spell.lvb }} in the past (and present). The benefit here is that, on bosses with very large hitboxes, you won't need to cast a filler spell between {{ site.data.spell.lvb }} and the spell you wish to empower with {{ site.data.talent.mote }}. It's not worth to add {{ site.data.spell.lvb }} to your AoE priority list. This talent is a trap for AoE.</p>
+                <p markdown="1"> Adds an interaction between {{ site.data.spell.lvb }} and {{ site.data.spell.es }} / {{ site.data.spell.eq }} / {{ site.data.spell.frs }} / {{ site.data.spell.lb }} / {{ site.data.spell.cl }}. Note that {{ site.data.talent.mote }}'s buff is applied *immedately* on a successful {{ site.data.spell.lvb }} cast, not when the {{ site.data.spell.lvb }} projectile hits the target. This is distinct from every other interaction with {{ site.data.spell.lvb }} in the past (and present). The benefit here is that, on bosses with very large hitboxes, you won't need to cast a filler spell between {{ site.data.spell.lvb }} and the spell you wish to empower with {{ site.data.talent.mote }}. For  more than 3 targets you still should ideally not cast {{ site.data.spell.lvb }}. This target is a trap when 4 or more targets are present.</p>
                 <hr><br>
                 <h4>{{site.data.talent.se}} (SE)</h4>
                 <p markdown="1"> Subsequent casts of {{ site.data.spell.lb }} and {{ site.data.spell.cl }} reduce *both the cast time and the GCD incurred* by 3% (up to 60%) during the Elementals uptime. Therefore if you have to move instead of casting your usual spells you lose some value of this CD.</p>
@@ -110,7 +110,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.lmt}} (LMT)</h4>
                 <p markdown="1"> Offers some nice burst AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.se }} for single target and burst AOE; {{ site.data.talent.lmt }} for sustained AOE or when you need heavy AoE roughly on a one minute timer. {{ site.data.talent.mote }} is weaker than {{ site.data.talent.se }} on single target and you're required to game the buff to preferred {{ site.data.spell.es }}. Therefore we suggest to not use {{ site.data.talent.mote }} for now.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.se }} is the default choice, this talent is extremely strong and versatile. It offers the highest single-target throughput when used in combination with either {{ site.data.talent.pe }} or {{ site.data.talent.sop }} as well as extremely potent AoE burst damage especially when used in conjunction with {{ site.data.talent.pe }}. The other talents on this row are more situational; {{ site.data.talent.mote }} when used in combination with {{ site.data.talent.if }} offers a viable alternative to the {{ site.data.talent.se }} based talent combinations. This may be useful on raid bosses where there are frequent high priority targets swaps or for bosses where it may not be possible to consistently utilize {{ site.data.talent.se }} due to a large amount of movement being required. {{ site.data.talent.lmt }} is a multi-target talent that may occasionally pull ahead of {{ site.data.talent.se }}. It is generally strong when either the fight or instance timings are unfavorable for {{ site.data.talent.se }} but optimal for {{ site.data.talent.lmt }} and additionally {{ site.data.talent.lmt }} tends to pull ahead for 2/3 target sustained cleave.</p>
             </div>
         </div>
     </div>
@@ -163,7 +163,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.if}} (IF)</h4>
                 <p markdown="1">Since the removal of the Maelstrom cost from {{ site.data.spell.frs }} in Patch 8.0, {{ site.data.talent.if }} has become much less complex to manage. This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. The Maelstrom cost removal from {{ site.data.spell.frs }} gives you a bit more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.pe }} in all cases. {{ site.data.talent.sop }} is very powerful in for single target and two target cleave, but is more complex to utilize than {{ site.data.talent.pe }}. {{ site.data.talent.if }} offers great mobility compared to our other tools, but is weaker than the other two if no movement is involved.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.pe }} is the default choice. {{ site.data.talent.sop }} is very powerful on *single target* encounters but is significantly more complex to utilize than {{ site.data.talent.pe }} and is only a gain under specific circumstances. {{ site.data.talent.if }} offers much improved mobility, but is very slightly weaker than the other two options if no movement is involved. {{ site.data.talent.if }} may perform better than the other alternatives on 1 or 2 target encounters when used with {{ site.data.talent.mote }}(single target) or {{ site.data.talent.lmt }} (2 target cleave).</p>
             </div>
         </div>
     </div>
@@ -184,7 +184,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.asc}} (Asc)</h4>
                 <p markdown="1">An additional cooldown with a few requirements for its use. First, you must ensure you'll have {{ site.data.spell.fs }} active for {{site.data.talent.asc}}' full duration. Second, you want to get high value out of {{site.data.talent.asc}} with high (optimally 100%) uptime of casts during the buff. You should adjust your casts during {{site.data.talent.asc}} as per the <a href="priority_list.html">priority list</a> page.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:**{{ site.data.talent.sk }} for all situations. {{ site.data.talent.asc }} took a big hit from the damage reshuffle between {{ site.data.spell.lb }} and {{ site.data.spell.es }} and is no longer an option. {{ site.data.talent.up }} is a weak but sustained damage alternative to {{ site.data.talent.sk }}. It's still weak to movement.</p>
+                <p markdown="1">**Recommendation:**{{ site.data.talent.sk }} for all situations. {{ site.data.talent.asc }} took a big hit from the damage reshuffle between {{ site.data.spell.lb }} and {{ site.data.spell.es }} and is no longer an option under any circumstances. {{ site.data.talent.up }} is just weak and even if it were possible to sim identically to {{ site.data.talent.sk }} it requires constant casting and no movement to provide its dps. Because this isn't possible this talent can be considered non-existant too.</p>
             </div>
         </div>
     </div>
@@ -194,9 +194,9 @@ Click the talent row text to expand.
 
 Please note that this list will only include talent synergies with easy to explain, intuitive reasoning behind them. There may exist some mild synergies not in this list, but we have chosen to not write about them here. Many factors affect which talents benefit others, so we have narrowed it down to synergies with direct impacts on gameplay.
 
-#### Master and Echo [of the Elements]
+#### Master of the Elements and Icefury
 
-The first talent synergy we'll discuss is that of {{ site.data.talent.mote }} and {{ site.data.talent.eote }}. The connection here is easy to understand; an increased frequency of {{ site.data.spell.lvb }} from {{ site.data.talent.eote }}'s second charge would naturally lead to an increased number of {{site.data.talent.mote}} buffs. The added benefit here is from the nature of the charge system's design. While one charge is cooling down, you are free to cast {{site.data.spell.lvb}} when you wish. This enables better handling of the {{site.data.talent.mote}} buff without losing DPS to holding {{site.data.spell.lvb}}. Casting {{site.data.spell.lvb}} into {{site.data.spell.es}} or an {{site.data.talent.if}}-empowered {{site.data.spell.frs}} is much more fluid and easily achieved with this talent combination.
+The first talent synergy we'll discuss is that of {{ site.data.talent.mote }} and {{ site.data.talent.if }}. The connection here is easy to understand; an increased frequency of heavy hitters like the {{ site.data.talent.if }} empowered {{ site.data.spell.frs }}s allows more worth from {{site.data.talent.mote}} buffs.
 
 
 #### Storm Elemental and Primal Elementalist
