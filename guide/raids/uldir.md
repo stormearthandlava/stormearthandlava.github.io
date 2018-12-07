@@ -20,7 +20,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="taloc-collapse" class="collapse show" aria-labelledby="taloc" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/c8CM">1333122</a>. You can swap {{site.data.talent.static_charge}} for {{site.data.talent.spirit_wolf}} if you're concerned about damage intake when dropping blood.</p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyCM">1313122</a>.</p>
                 <h4>Playstyle</h4>
                 <p>This boss is mostly single target with frequent but unimportant add spawns, the off tank will likely soak all of these adds for you so you have no need to touch them. During phase 2 when the boss goes to the center you will be attempting to kill 1-2 large bloods while avoiding the small bloods, you can still hit the boss and small bloods with {{site.data.spell.cl}}.</p>
                 <h4>Summary</h4>
@@ -72,7 +72,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="zekvoz-collapse" class="collapse" aria-labelledby="zekvoz" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyCM">1312122</a> - because {{site.data.talent.sop}} and {{site.data.talent.pe}} are roughly equal {{site.data.talent.storm_elemental}} can be excellent, if it can be used on one Silithid spawn.</p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyCM">1312122</a> - because {{site.data.talent.sop}} and {{site.data.talent.pe}} are roughly equal on single target {{site.data.talent.storm_elemental}} with {{site.data.talent.pe}} can be excellent, if it can be used on at least one Silithid spawn.</p>
                 <h4>Playstyle</h4>
                 <p>This boss has frequent add waves of different types:</p>
                 <ul><li>Silithid - Fixates players, very large spawn that are mostly stacked, absolutely save CDs for this.</li>
@@ -120,7 +120,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="mythrax-collapse" class="collapse" aria-labelledby="mythrax" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyAM">1313112</a> - If you need more movement dps consider {{site.data.talent.if}}. If you need group healing, consider {{site.data.talent.ancestral_guidance}} for the intermission.</p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyCM">1312122</a> or <a href="https://www.wowhead.com/talent-calc/shaman/elemental/cy3M">1313132</a> - Depending on your groups timings either talent combination has its advantages. If you need more movement dps consider {{site.data.talent.if}} more strongly. If you need group healing, consider {{site.data.talent.ancestral_guidance}} for the intermission.</p>
                 <h4>Playstyle</h4>
                 <p>This boss is light movement, full single target aside from 2 intermissions. Orbs spawn that will mind control players within its range, and damage pushes the players away from the source of the damage. It takes about 3 hits to fully push someone out of the orb -- {{site.data.spell.thunderstorm}} also works to knock them completely out. Elemental is good and bad at this since you can spam {{site.data.spell.frost_shock}} or apply {{site.data.spell.flame_shock}} to quickly knock players out, but they do maintain the {{site.data.spell.flame_shock}} or {{site.data.spell.frost_shock}} debuffs when no longer mind controlled. During intermission there will be 2 priority targets that are far away from each other, and 5-10 low priority adds right on top of the priority target (it spawns on players so you need to stack to get this effect). Unless you are having problems surviving the casts from the small adds you should focus on funneling damage into the big add. {{site.data.talent.ancestral_guidance}} could see some use during the intermission phase, a lot of raid damage is happening here and you are able to AoE to get full benefit from {{site.data.talent.ancestral_guidance}}. {{site.data.talent.spirit_wolf}} is excellent for running debuffs out.
 </p>
@@ -136,7 +136,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="ghuun-collapse" class="collapse" aria-labelledby="ghuun" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://ptr.wowhead.com/talent-calc/shaman/elemental">???</a> - an update to this line will come later</p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cy1M">1311132</a></p>
                 <h4>Playstyle</h4>
                 <p>This fight has a lot of different movement types, damage profiles, and mechanics to it.</p>
                 <p>Phase 1: Tons of tentacles that need to be interrupted; ensure you use {{site.data.spell.wind_shear}} on cooldown. Don’t hit the dark young if possible as you want to keep it for the damage buff. If you can’t hit at least 3 high health tentacles with {{site.data.spell.eq}} just {{site.data.spell.es}} the primary tentacle while continuing to interrupt the small ones. This phase is moderately high movement.</p>
