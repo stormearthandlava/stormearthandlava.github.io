@@ -98,6 +98,9 @@ After reading the APL, please pay attention to the special mentions below, becau
     - {{ site.data.spell.es }}
     - {{ site.data.spell.lb }}
 
+#### {{ site.data.talent.sop }} + 2 targets
+- Change: as long as both targets don't have {{ site.data.spell.fs }} or are in refreshable duration and spread range, use {{ site.data.spell.es }} once to spread {{ site.data.spell.fs }} to both with {{ site.data.talent.sop }}.
+
 
 ## AoE (3 or more targets)
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
@@ -118,6 +121,8 @@ After reading the APL, please pay attention to the special mentions below, becau
         <li>Cast {{ site.data.spell.cl }}.</li>
     </ol>
 </div>
+
+**Special mention** {{ site.data.spell.fs }} can be maintained at 4 targets and should be, if you can ensure that they all live at least 80% of the duration. Because this is usually not the case, we opted to write 3 as the maximum number of spreads. Tread carefully, as this could otherwise backfire.
 
 
 ## Openers
