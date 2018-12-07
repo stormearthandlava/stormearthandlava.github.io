@@ -18,7 +18,11 @@ See the [Consumables]({{ site.baseurl }}{% link guide/general/consumables.md %})
 
 ### Q: "How many targets should I cast Flame Shock on?"
 
-Because of the new cooldown, it is best to only {{ site.data.spell.fs }} a maximum of three targets.
+You should cast {{ site.data.spell.fs }}  in situations where you can hit up to four targets with Earthquake. Try to only use {{ site.data.spell.fs }} on targets which will stay alive for most of the DoT duration.
+
+### Q: "When do I cast Chain Lightning?"
+
+With 8.1 you start casting {{ site.data.spell.cl }} against 3 or more targets.
 
 ### Q: "Does Earthquake stack?"
 
@@ -26,7 +30,7 @@ Yes, {{ site.data.spell.eq }} stacks and has no stack limit.
 
 ### Q: "When should I stop using Earth Shock and use Earthquake?"
 
-Switch over to using {{ site.data.spell.eq }} on two targets or more if not talented into {{ site.data.talent.sop }} and could spread {{ site.data.spell.fs}}.
+In general, stop using {{ site.data.spell.es }} against two targets or more. But check out the [priority list]({{ site.baseurl }}{% link guide/general/priority_list.md %}) page for more information.
 
 ### Q: "When is the best time to use Primal Fire Elemental's Meteor?"
 
