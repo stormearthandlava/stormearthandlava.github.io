@@ -112,11 +112,11 @@ After reading the APL, please pay attention to the special mentions below, becau
             </ol>
         </li>
         <li>Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).</li>
-        <li class="sk-apl" style="display:none;">Cast {{ site.data.talent.sk }} on cooldown.</li>
+        <li class="sk-apl">Cast {{ site.data.talent.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
         <li>Maintain 3 {{ site.data.spell.fs }}s if there are 3 targets.</li>
-        <li>Cast {{ site.data.spell.eq }} when available.</li>
-        <li>Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs.</li>
+        <li>Cast {{ site.data.spell.eq }} when available. (Try gaming {{ site.data.talent.mote }} if fighting 3 stacked targets.)</li>
+        <li>Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs and {{ site.data.talent.se }} is not active.</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} if there are 3 targets.</li>
         <li>Cast {{ site.data.spell.cl }}.</li>
     </ol>
