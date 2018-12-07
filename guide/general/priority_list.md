@@ -64,7 +64,6 @@ After reading the APL, please pay attention to the special mentions below, becau
         <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.</li>
         <li class="if-apl" style="display:none;">Cast {{ site.data.talent.if }} on cooldown.</li>
         <li class="tm-apl" style="display: list-item;">Refresh {{ site.data.talent.tm }} if its duration is at or below 9 seconds remaining.</li>
-        <li>Cast {{site.data.spell.cl}} if it will hit more than one target.</li>
         <li>Cast {{ site.data.spell.lb }} as a filler.</li>
         <li>Cast {{site.data.spell.frs}} in place of {{site.data.spell.lb}} while moving, even if you do not have {{site.data.talent.if}}.</li>
     </ol>
@@ -75,6 +74,7 @@ After reading the APL, please pay attention to the special mentions below, becau
 #### {{ site.data.talent.mote }}
 - Change: Delay {{ site.data.spell.es }} it to cast it with {{ site.data.talent.mote }} instead.
 - Priority of casts you want to empower with {{ site.data.talent.mote }} from best to worst:
+    1. {{ site.data.spell.eq }} if two or more targets are in its effect
     1. {{ site.data.spell.lb }} with {{ site.data.talent.sk }}
     1. {{ site.data.spell.es }}
     1. {{ site.data.spell.frs }} with {{ site.data.talent.if }}
@@ -133,9 +133,11 @@ Standard raid opener:
 <div class="opener">
     <div class="skill tm"><span>TM</span></div>
     <div class="arrow"></div>
+    <div class="skill sk"><span>SK</span></div>
+    <div class="arrow"></div>
     <div class="skill fe"><span>FE</span></div>
     <div class="arrow"></div>
-    <div class="skill lb"><span>LB</span></div>
+    <div class="skill lvb"><span>LvB</span></div>
     <div class="arrow pull"></div>
     <div class="skill fs"><span>FS</span></div>
     <div class="arrow"></div>
@@ -147,55 +149,6 @@ Standard raid opener:
     <div class="arrow"></div>
 </div>
 
-Ascendance opener without Primal Elementalist:
-<div class="opener">
-    <div class="skill tm"><span>TM</span></div>
-    <div class="arrow"></div>
-    <div class="skill ee"><span>EE</span></div>
-    <div class="arrow"></div>
-    <div class="skill fe"><span>FE</span></div>
-    <div class="arrow"></div>
-    <div class="skill lb"><span>LB</span></div>
-    <div class="arrow pull"></div>
-    <div class="skill fs"><span>FS</span></div>
-    <div class="arrow"></div>
-    <div class="skill lmt"><span>LMT</span></div>
-    <div class="arrow"></div>
-    <div class="skill lvb"><span>LvB</span></div>
-    <div class="arrow"></div>
-    <div class="skill lvb"><span>LvB</span></div>
-    <div class="arrow"></div>
-    <div class="skill fs"><span>FS</span></div>
-    <div class="arrow"></div>
-    <div class="skill asc"><span>Asc</span></div>
-    <div class="arrow"></div>
-    <div class="skill lvb"><span>LvB</span></div>
-    <div class="arrow"></div>
-</div>
-
-Ascendance opener with Primal Elementalist:
-<div class="opener">
-    <div class="skill tm"><span>TM</span></div>
-    <div class="arrow"></div>
-    <div class="skill fe"><span>FE</span></div>
-    <div class="arrow"></div>
-    <div class="skill lb"><span>LB</span></div>
-    <div class="arrow pull"></div>
-    <div class="skill fs"><span>FS</span></div>
-    <div class="arrow"></div>
-    <div class="skill lmt"><span>LMT</span></div>
-    <div class="arrow"></div>
-    <div class="skill lvb"><span>LvB</span></div>
-    <div class="arrow"></div>
-    <div class="skill lvb"><span>LvB</span></div>
-    <div class="arrow"></div>
-    <div class="skill fs"><span>FS</span></div>
-    <div class="arrow"></div>
-    <div class="skill asc"><span>Asc</span></div>
-    <div class="arrow"></div>
-    <div class="skill lvb"><span>LvB</span></div>
-    <div class="arrow"></div>
-</div>
 <br>
 ## Common misconceptions and mistakes
 
