@@ -13,8 +13,10 @@ Many more talent combinations may work. We're listing the most robust ones (for 
 Type | Talent combination
 --- | ---
 Questing / Solo&nbsp;Content | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.earth_shield }}<br> 60: {{ site.data.talent.se }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.sop }}<br> 100: {{ site.data.talent.sk }}
-Mythic+ | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 60: {{ site.data.talent.se }} **OR** {{ site.data.talent.lmt }} <br> 75: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 90: {{ site.data.talent.sop }}<br> 100: {{site.data.talent.sk}}
+Mythic+ | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 60: {{ site.data.talent.se }} **OR** {{ site.data.talent.lmt }} <br> 75: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{site.data.talent.sk}}
 Raid / Single&nbsp;Target | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.se }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.sk }}
+
+**Special Mention** {{ site.data.talent.sop }} can depending on fight length surpass {{ site.data.talent.pe }} by a lot. Especially when combined with {{ site.data.azerite.echo_of_the_elementals }} and {{ site.data.talent.se }}. The downside is: you need to figure out on the fly which effect of {{ site.data.talent.sop }} you actually need. Check out logs!
 
 There are other talent combinations that peform close to these or sometimes even better. So please make sure to sim your character if you suspect that something else is a better general choice.
 
