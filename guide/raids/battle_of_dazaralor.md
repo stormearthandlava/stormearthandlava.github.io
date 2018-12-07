@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Uldir Guide"
-last_update: 2018-12-07 09:00:00
-game_version: 8.1.0 Battle for Azeroth
+title: "Battle of Dazar'alor Guide"
+last_update: 2018-12-15 09:00:00
+game_version: 8.0.1 Battle for Azeroth
 author: Naesam
 ---
 
-This page should serve as a reference for how to approach raid boss fights in Uldir. The information on this page assumes you've read the rest of this guide, so we recommend starting at the Talents and Priority pages before coming here.
+This page should serve as a reference for how to approach raid boss fights in Battle of Dazar'alor. The information on this page assumes you've read the rest of this guide, so we recommend starting at the Talents and Priority pages before coming here.
 
 <p style="color:red">Click/tap on a boss' name to expand its section.</p>
 
@@ -20,7 +20,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="taloc-collapse" class="collapse show" aria-labelledby="taloc" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyCM">1313122</a>.</p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/c9Dc">2333123</a>. You can swap {{site.data.talent.static_charge}} for {{site.data.talent.spirit_wolf}} if you're concerned about damage intake when dropping blood.</p>
                 <h4>Playstyle</h4>
                 <p>This boss is mostly single target with frequent but unimportant add spawns, the off tank will likely soak all of these adds for you so you have no need to touch them. During phase 2 when the boss goes to the center you will be attempting to kill 1-2 large bloods while avoiding the small bloods, you can still hit the boss and small bloods with {{site.data.spell.cl}}.</p>
                 <h4>Summary</h4>
@@ -39,7 +39,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="MOTHER-collapse" class="collapse" aria-labelledby="MOTHER" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyCM">1312122</a> if you're in the boss group. <a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyDM">1313122</a> if you're in the add group. {{site.data.talent.wind_rush_totem}} is also an option (for either group).</p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cxDc">2313123</a> if you're in the boss group. <a href="https://www.wowhead.com/talent-calc/shaman/elemental/cxDM">2333122</a> if you're in the add group. {{site.data.talent.wind_rush_totem}} is also an option (for either group).</p>
                 <h4>Playstyle</h4>
                 <p>This boss appears complicated at a glance, but once broken down is quite simple. There are 3 rooms in the fight, you will start in room 1, your goal is to reach room 3 as soon as possible. When a member of the raid crosses to the next room they will spawn an add that begins casting almost immediately. If this cast gets off it is very bad so you need to control these adds. Crossing also does raid damage so only a few can cross at a time.</p>
                 <p>Members who cross will be unable to attack the boss until the boss crosses as well, so their sole purpose is to control and kill adds as they appear. As an Elemental Shaman you will most likely be designated to cross very early due to your burst AOE, stun, and low CD interrupt. If you are crossing early you will want to spec accordingly, {{site.data.talent.sk}} is very good for the burst AoE and {{site.data.talent.tm}} shines with its ability to top your maelstrom during the downtime. You will also want to take advantage of the time you have before the adds spawn by dropping {{site.data.talent.lmt}} and an {{site.data.spell.eq}} as you see them reach the middle of the room, additionally you will want to precast {{site.data.talent.sk}}.</p>
@@ -57,7 +57,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="fetid-collapse" class="collapse" aria-labelledby="fetid" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyCM">1312122</a> - {{site.data.talent.wind_rush_totem}} could also see use. If your groups dps is low, you might be able to get another use out of {{site.data.talent.se}} with the help of {{site.data.talent.sop}}.</p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cxDc">2313123</a> - {{site.data.talent.wind_rush_totem}} could also see use</p>
                 <h4>Playstyle</h4>
                 <p>This boss is mostly patchwerk with a large knockback every once in a while, the only way for a shaman to stop the knockback is to use a portal or be against a wall. We recommend {{site.data.talent.spirit_wolf}} if you are not confident you can stop the knockback, as it is VERY far. There are also adds that spawn that need to be killed, they do not move and have a decent amount of health, 3 at a time. They are far from each other so you will never be able to cleave on them aside from add to boss. At 50% health the boss begins to take and deal more damage, this is when you lust and ideally have CDs.</p>
                 <h4>Summary</h4>
@@ -72,14 +72,14 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="zekvoz-collapse" class="collapse" aria-labelledby="zekvoz" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyCM">1312122</a> - because {{site.data.talent.sop}} and {{site.data.talent.pe}} are roughly equal on single target {{site.data.talent.storm_elemental}} with {{site.data.talent.pe}} can be excellent, if it can be used on at least one Silithid spawn.</p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cxDM">2313122</a> - {{site.data.talent.storm_elemental}} can be excellent, but only if it can be used on both Silithid spawns. This is unlikely to be the case for Heroic.</p>
                 <h4>Playstyle</h4>
                 <p>This boss has frequent add waves of different types:</p>
                 <ul><li>Silithid - Fixates players, very large spawn that are mostly stacked, absolutely save CDs for this.</li>
                 <li>Nerubian - 3 spawn in different locations and all begin to cast on random targets, the cast really hurts but can be interrupted. Outside of Normal you cannot move these adds at all.</li></ul>
                 <p>This fight cycles between periods of no movement and periods of heavy movement. In the last phase there is a purple orb that players can catch for a 100% damage and healing buff, after 20 seconds the buff expires and the player becomes mind controlled. On mythic in order to break the mind control you must kill the target, so if you have ankh available you are a good candidate to go first. If you know when you are going, try to have CDs for it.</p>
                 <h4>Summary</h4>
-                <p>This fight has a lot of adds and a good amount of intermittent movement, save CDs for adds, in particular save {{site.data.talent.stormkeeper}} and {{site.data.talent.lmt}} (as alternative to {{site.data.talent.storm_elemental}}) for Silithids when applicable, and interrupt nerubians as much as possible. Also try to have CDs for the pre-mind-control buff that increases your damage by 100%</p>
+                <p>This fight has a lot of adds and a good amount of intermittent movement, save CDs for adds, in particular save {{site.data.talent.stormkeeper}} and {{site.data.talent.lmt}} for Silithids when applicable, and interrupt nerubians as much as possible. Also try to have CDs for the pre-mind-control buff that increases your damage by 100%</p>
             </div>
         </div>
     </div>
@@ -90,7 +90,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="vectis-collapse" class="collapse" aria-labelledby="vectis" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyCM">1312122</a></p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cxDc">2313123</a></p>
                 <h4>Playstyle</h4>
                 <p>This boss is basically patchwerk when he’s up as far as movement goes. There will be 1 add spawning occasionally that needs to die asap, try to pool maelstrom for this. Stay in {{site.data.spell.ghost_wolf}} to take advantage of {{site.data.talent.spirit_wolf}} for the intermission unless you need to cast a heal.</p>
                 <h4>Summary</h4>
@@ -105,7 +105,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="zul-collapse" class="collapse" aria-labelledby="zul" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyNM">1312112</a> - {{site.data.talent.static_charge}} is also an option for more frequent stuns, and {{site.data.talent.pe}} depending on your fight timings (and if you're allowed to AoE...).</p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cxDM">2313122</a> - {{site.data.talent.static_charge}} is also an option for more frequent stuns, and {{site.data.talent.storm_elemental}} if you want higher burst damage for a particular part of the fight.</p>
                 <h4>Playstyle</h4>
                 <p>This boss has a lot of adds that are often stacked; you can {{site.data.spell.cl}} on the Crawgs while using {{site.data.spell.es}} to kill the Crusher or Bloodhexer. If the tank is having issues surviving the Crawgs you should consider swapping to using {{site.data.spell.eq}} instead. If a Minion of Zul reaches it’s fixated player it will fear the player; {{site.data.spell.tremor_totem}} does remove this fear, but only one stack at a time (if multiple adds hit the player gets multiple stacks). In phase 2 there is an additional fear called Deathwish, and {{site.data.spell.tremor_totem}} does NOT remove this fear. All throughout this fight there is a very high amount of movement, especially in phase 2.</p>
                 <h4>Summary</h4>
@@ -120,7 +120,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="mythrax-collapse" class="collapse" aria-labelledby="mythrax" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cyCM">1312122</a> or <a href="https://www.wowhead.com/talent-calc/shaman/elemental/cy3M">1313132</a> - Depending on your groups timings either talent combination has its advantages. If you need more movement dps consider {{site.data.talent.if}} more strongly. If you need group healing, consider {{site.data.talent.ancestral_guidance}} for the intermission.</p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cxDc">2313123</a> - If you need more add damage, {{site.data.talent.stormkeeper}} is an option, but you lose out on a lot of boss damage. If you need group healing, consider {{site.data.talent.ancestral_guidance}} for the intermission.</p>
                 <h4>Playstyle</h4>
                 <p>This boss is light movement, full single target aside from 2 intermissions. Orbs spawn that will mind control players within its range, and damage pushes the players away from the source of the damage. It takes about 3 hits to fully push someone out of the orb -- {{site.data.spell.thunderstorm}} also works to knock them completely out. Elemental is good and bad at this since you can spam {{site.data.spell.frost_shock}} or apply {{site.data.spell.flame_shock}} to quickly knock players out, but they do maintain the {{site.data.spell.flame_shock}} or {{site.data.spell.frost_shock}} debuffs when no longer mind controlled. During intermission there will be 2 priority targets that are far away from each other, and 5-10 low priority adds right on top of the priority target (it spawns on players so you need to stack to get this effect). Unless you are having problems surviving the casts from the small adds you should focus on funneling damage into the big add. {{site.data.talent.ancestral_guidance}} could see some use during the intermission phase, a lot of raid damage is happening here and you are able to AoE to get full benefit from {{site.data.talent.ancestral_guidance}}. {{site.data.talent.spirit_wolf}} is excellent for running debuffs out.
 </p>
@@ -136,7 +136,7 @@ This page should serve as a reference for how to approach raid boss fights in Ul
         <div id="ghuun-collapse" class="collapse" aria-labelledby="ghuun" data-parent="#accordion">
             <div class="card-body">
                 <h4>Talent recommendations</h4>
-                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cy1M">1311132</a></p>
+                <p><a href="https://www.wowhead.com/talent-calc/shaman/elemental/cxDM">2313122</a> - there is a lot of potential for {{site.data.talent.static_charge}} and {{site.data.talent.wind_rush_totem}} to shine, too.</p>
                 <h4>Playstyle</h4>
                 <p>This fight has a lot of different movement types, damage profiles, and mechanics to it.</p>
                 <p>Phase 1: Tons of tentacles that need to be interrupted; ensure you use {{site.data.spell.wind_shear}} on cooldown. Don’t hit the dark young if possible as you want to keep it for the damage buff. If you can’t hit at least 3 high health tentacles with {{site.data.spell.eq}} just {{site.data.spell.es}} the primary tentacle while continuing to interrupt the small ones. This phase is moderately high movement.</p>

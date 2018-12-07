@@ -1,8 +1,8 @@
 ---
 title: Stats
 layout: page
-last_update: 2018-08-13 9:00:00
-game_version: 8.0.1 Battle for Azeroth
+last_update: 2018-12-07 9:00:00
+game_version: 8.1.0 Battle for Azeroth
 toc: true
 ---
 Due to the advent of the Titanforging system, BiS lists are a defunct practice. We suggest you simulate each piece of gear you obtain against your other gear to find the most effective gear set. Aside from that, following a general stat priority and ratio is the most practical way to move forward with gearing. Additionally, we are focused on single target output for raid environments, as it is vastly more important than building for AoE or cleave specifically, but don’t be afraid to experiment to tailor yourself to a raid encounter.
@@ -13,8 +13,8 @@ Below are our advised stat gearing strategies for talent combinations. We won’
 
 Purpose | Crit | Haste | Mastery | Vers
 --- | --- | --- | --- | ---
-Dungeon / Mythic+ / AoE | 1.0 | 0.3 | 0.2 | 0.2
-Raid / Single&nbsp;Target | 0.4 | 1.0 | 0.2 | 0.4
+Dungeon / Mythic+ / AoE | ? | ? | ? | ?
+Raid / Single&nbsp;Target | 0.5 | 0.3 | 0.1 | 0.1
 
 Expand the section below if you want more information on what these ratios are and/or how to use them:
 
