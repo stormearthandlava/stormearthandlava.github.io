@@ -135,7 +135,7 @@ Standard raid opener:
     <div class="arrow"></div>
     <div class="skill sk"><span>SK</span></div>
     <div class="arrow"></div>
-    <div class="skill fe"><span>FE</span></div>
+    <div class="skill se"><span>SE</span></div>
     <div class="arrow"></div>
     <div class="skill lvb"><span>LvB</span></div>
     <div class="arrow pull"></div>
