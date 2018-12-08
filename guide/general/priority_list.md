@@ -72,7 +72,7 @@ After reading the APL, please pay attention to the special mentions below, becau
 ### Special cases
 
 #### {{ site.data.talent.mote }}
-- Change: Delay {{ site.data.spell.es }} it to cast it with {{ site.data.talent.mote }} instead.
+- Change: Delay {{ site.data.spell.es }} to cast it with {{ site.data.talent.mote }} instead.
 - Priority of casts you want to empower with {{ site.data.talent.mote }} from best to worst:
     1. {{ site.data.spell.eq }} if two or more targets are in its effect
     1. {{ site.data.spell.lb }} with {{ site.data.talent.sk }}
@@ -171,10 +171,6 @@ No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
 During single target you'll want to only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }}. During AoE {{ site.data.spell.cl }} becomes quickly more worth than {{ site.data.spell.lvb }}. Nonetheless you should use {{ site.data.spell.eq }}.
-
-> "I should delay {{ site.data.talent.se }} / {{ site.data.talent.asc }} after each other to benefit from them more!"
-
-Delaying either CD can easily result in an overall loss of a usage, which means you have to weight this on your own. Generally you don't want to have both CDs active at the same time. During AoE you indeed want to spread out the usage, because {{ site.data.spell.lava_beam }} doesn't benefit from {{ site.data.talent.se }} passive.
 
 > "I should cast {{ site.data.spell.fs }} at 7.2 seconds remaining or lower!"
 
