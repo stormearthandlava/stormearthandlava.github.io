@@ -78,8 +78,8 @@ After reading the APL, please pay attention to the special mentions below, becau
     1. {{ site.data.spell.lb }} with {{ site.data.talent.sk }}
     1. {{ site.data.spell.es }}
     1. {{ site.data.spell.frs }} with {{ site.data.talent.if }}
-    1. {{ site.data.talent.if }}
     1. {{ site.data.spell.lb }}
+    1. {{ site.data.talent.if }}
     1. {{ site.data.spell.frs }}
 
 #### {{ site.data.talent.se }} + {{ site.data.talent.eb }}
