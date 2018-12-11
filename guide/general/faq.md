@@ -85,10 +85,3 @@ This macro allows you to summon your {{ site.data.spell.ee }} and active its def
 /cast Earth Elemental
 /cast [talent:6/2] Harden Skin
 ```
-
-This macro is just annoying.
-```
-#showtooltip Stormkeeper
-/run SendChatMessage("Storm, Earth, and Fire! Heed my ".. GetSpellLink("Stormkeeper").. "!", "yell")
-/cast Stormkeeper
-```
