@@ -31,7 +31,7 @@ Note that these charts show the value of traits at 385 item level, the base for 
 
 ### Ancestral Resonance
 This no longer requires you to personally cast {{ site.data.spell.bloodlust }} to
-activate the trait. The duration of these effects is increased by 50% regardless.
+activate the trait. The duration of these effects is increased by 25% regardless.
 
 ### Igneous Potential
 Stacking this trait increases the damage component, but you only gain the increased
