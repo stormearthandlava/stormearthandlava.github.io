@@ -192,10 +192,11 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
 
 
 <script>
+HTMLCollection.prototype[Symbol.iterator] = Array.prototype[Symbol.iterator];
 function listeners() {
     let inputs = document.getElementsByTagName("input")
-    for (i in inputs) {
-        if (inputs[i].type == "radio") change_listener(inputs[i]);
+    for (i of inputs) {
+        if (i.type == "radio") change_listener(i);
     }
 }
 
