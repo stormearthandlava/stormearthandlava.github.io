@@ -59,7 +59,7 @@ This still spawns the question for this topic.
 ```python
 # Lava Burst base damage
 lava_burst = lvb_spellpower_coefficient * crit_dmg_multiplier / lvb_casttime
-lava_burst = 53.125% * 2.5 * 1.0 / 2
+lava_burst = 53.125% * 2.5 / 2
 lava_burst = 66.40625%
 ```
 
@@ -119,8 +119,8 @@ lb * crit_multi * crit_chance >= lvb_base + lvb_ms_dpet * crit_multi * crit_chan
 45.68% * 2.5 * crit_chance >= 66.40625% + 13.1% * 2.5 * crit_chance     | - 13.1% * 2.5 * crit_chance
 45.68% * 2.5 * crit_chance  - 13.1% * 2.5 * crit_chance >= 66.40625%
 ( 45.68% - 13.1% ) * 2.5 * crit_chance >= 66.40625%
-32.58% * 2.5 * crit_chance >= 66.40625%     | / 2.5
-32.58% * crit_chance >= 26.5625%     | / 32.58%
+32.58% * 2.5 * crit_chance >= 66.40625%                                 | / 2.5
+32.58% * crit_chance >= 26.5625%                                        | / 32.58%
 crit_chance >= 0.8153
 ```
 
