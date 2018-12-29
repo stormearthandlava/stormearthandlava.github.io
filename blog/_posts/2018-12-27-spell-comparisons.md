@@ -16,7 +16,8 @@ Additionaly, those who frequent earthshrine (discord) might've seen the formulas
 To tackle these questions, I'll at first always collect all related necessary spell data.
 After listing that data, I'll calculate the DPET of each part and combine them to formulas that shall answer the question.
 What's DPET? Damage per execution time.
-This allows to compare spells to each other in more circumstances.
+This allows to compare spells to each other regardless of their different casttimes.
+You can use it to compare the worth of different speels.
 Check out [this](https://www.altered-time.com/forum/viewtopic.php?t=246) additional information.
 
 
@@ -115,16 +116,17 @@ lightning_bolt = 45.68%
 ### Solving for crit chance
 
 ```python
-lb * crit_multi * crit_chance >= lvb_base + lvb_ms_dpet * crit_multi * crit_chance
-45.68% * 2.5 * crit_chance >= 66.40625% + 13.1% * 2.5 * crit_chance     | - 13.1% * 2.5 * crit_chance
-45.68% * 2.5 * crit_chance  - 13.1% * 2.5 * crit_chance >= 66.40625%
-( 45.68% - 13.1% ) * 2.5 * crit_chance >= 66.40625%
-32.58% * 2.5 * crit_chance >= 66.40625%                                 | / 2.5
-32.58% * crit_chance >= 26.5625%                                        | / 32.58%
-crit_chance >= 0.8153
+lb * (base_multi + crit_multi * crit_chance) >= lvb_base + lvb_ms_dpet * (base_multi + crit_multi * crit_chance)
+45.68% * (1.0 + 1.5 * crit_chance) >= 66.40625% + 13.1% * (1.0 + 1.5 * crit_chance)     | - 13.1% * 2.5 * crit_chance
+45.68% * (1.0 + 1.5 * crit_chance)  - 13.1% * (1.0 + 1.5 * crit_chance) >= 66.40625%
+( 45.68% - 13.1% ) * (1.0 + 1.5 * crit_chance) >= 66.40625%
+32.58% * (1.0 + 1.5 * crit_chance) >= 66.40625%                                          | / 32.58%
+1.0 + 1.5 * crit_chance >= 2.03825                                                       | - 1.0
+1.5 * crit_chance >= 1.03825                                                             | / 1.5
+crit_chance >= 0.6922
 ```
 
-So when your crit chance reaches ~ 81.5% baseline {{ site.data.spell.lvb }} becomes worth less than {{ site.data.spell.lb }}.
+So when your crit chance reaches ~ 69.2% baseline {{ site.data.spell.lvb }} becomes worth less than {{ site.data.spell.lb }}.
 Well this calculation is not accurate yet.
 No mastery is applied anywhere in this calculation yet.
 But it's easy enough to add.
