@@ -69,24 +69,32 @@ But we're still missing {{ site.data.spell.mastery }} and Maelstrom generation.
 
 ```python
 # Adding Maelstrom
-lava_burst += lvb_ms / es_cost * ( es_dmg - lb_dmg * es_casttime / lb_castttime )  / lvb_casttime
+lava_burst += lvb_ms / ( es_cost + lvb_ms * es_casttime / lb_casttime ) * ( es_dmg - lvb_dmg / lvb_casttime * es_casttime ) / lvb_casttime
 ```
 
-Wait a second! What's this `( es_dmg - lb_dmg * es_casttime / lb_castttime )` there?
-Well, we have to somehow add the actual additional worth of an {{ site.data.spell.es }}.
-Our most basic cast we can constantly spam in a stand still situation is {{ site.data.spell.lb }}.
-This means that we have to compare the dmg of an {{ site.data.spell.es }} to the damage a {{ site.data.spell.lb }} would deal in the same amount of time.
+Wait a second! What're `( es_cost + lvb_ms * es_casttime / lb_casttime )` and `( es_dmg - lvb_dmg / lvb_casttime * es_casttime )` there?
+The first parenthesis add the fractional Maelstrom generation loss of casting an {{ site.data.spell.es }} instead of {{ site.data.spell.lvb }}.
+The second one calculates only the {{ site.data.spell.es }} gain compared to casting {{ site.data.spell.lvb }}.
 
 ```python
-lava_burst += 10 / 60 * ( 210% - 70.4% * 1.5 / 2 ) / 2
-lava_burst += 13.1%
+lava_burst += 10 / ( 60 + 10 * 1.5 / 2 ) * ( 210% - 53.125% * 2.5 / 2 * 1.5 ) / 2
+lava_burst += 8.1771%
 
 # Combined damage
-lava_burst = 66.40625% + 13.1%
-lava_burst = 79.50625%
+lava_burst = 66.40625% + 8.1771%
+lava_burst = 74.5833%
 ```
 
-{{ site.data.spell.lvb }} has a combined DPET of ~ 79.5%.
+{{ site.data.spell.lvb }} has a combined DPET of ~ 74.6%.
+
+You can get the same result much easier by adding up enough {{ site.data.spell.LvB }} to cast one {{ site.data.spell.es }} and then deviding the resulting spellpower by the time it took to reach that.
+
+```python
+( 6 * lvb_dmg + es_dmg ) / ( 6 * lvb_casttime + es_casttime )
+( 6 * 53.125% * 2.5 + 210% ) / ( 6 * 2 + 1.5 )
+1006.875 / 13.5
+74.583%
+```
 
 
 ### DPET Lightning Bolt
@@ -102,8 +110,8 @@ Once again we got the DPET first. And are now adding the Maelstrom portion.
 
 ```python
 # Adding Maelstrom
-lightning_bolt += lb_ms / es_cost * ( es_dmg - lb_dmg * es_casttime / lb_castttime ) / lb_casttime
-lightning_bolt += 8 / 60 * ( 210% - 70.4% * 1.5 / 2 ) / 2
+lightning_bolt += lb_ms / ( es_cost + lb_ms * es_casttime / lb_casttime ) * ( es_dmg / es_casttime - lb_dmg / lb_casttime ) * es_casttime / lb_casttime
+lightning_bolt += 8 / ( 60 + 10 * 1.5 / 2 ) * ( 210% / 1.5 - 70.4% / 2 ) * 1.5 / 2
 lightning_bolt = 10.48%
 
 # Combined damage
