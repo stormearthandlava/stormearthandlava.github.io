@@ -92,9 +92,11 @@ You can get the same result much easier by adding up enough {{ site.data.spell.L
 ```python
 ( 6 * lvb_dmg + es_dmg ) / ( 6 * lvb_casttime + es_casttime )
 ( 6 * 53.125% * 2.5 + 210% ) / ( 6 * 2 + 1.5 )
-1006.875 / 13.5
+1006.875% / 13.5
 74.583%
 ```
+
+So choose your ~~fights~~calculation approach carefully.
 
 
 ### DPET Lightning Bolt
@@ -110,37 +112,67 @@ Once again we got the DPET first. And are now adding the Maelstrom portion.
 
 ```python
 # Adding Maelstrom
-lightning_bolt += lb_ms / ( es_cost + lb_ms * es_casttime / lb_casttime ) * ( es_dmg / es_casttime - lb_dmg / lb_casttime ) * es_casttime / lb_casttime
-lightning_bolt += 8 / ( 60 + 10 * 1.5 / 2 ) * ( 210% / 1.5 - 70.4% / 2 ) * 1.5 / 2
-lightning_bolt = 10.48%
+lightning_bolt += lb_ms / ( es_cost + lb_ms * es_casttime / lb_casttime ) * ( es_dmg - lb_dmg / lb_casttime * es_casttime ) / lb_casttime
+lightning_bolt += 8 / ( 60 + 8 * 1.5 / 2 ) * ( 210% - 70.4% / 2 * 1.5 ) / 2
+lightning_bolt = 9.527%
 
 # Combined damage
-lightning_bolt = 35.2% + 10.48%
-lightning_bolt = 45.68%
+lightning_bolt = 35.2% + 9.527%
+lightning_bolt = 44.727%
 ```
-{{ site.data.spell.lb }} has a combined DPET of 45.68%.
+{{ site.data.spell.lb }} has a combined DPET of 44.727%.
+
+Like the {{ site.data.spell.lvb }} section showed, this calculation can be done differently, too.
+
+```python
+( 7.5 * lb_dmg + es_dmg ) / ( 7.5 * lb_casttime + es_casttime )
+( 7.5 * 70.4% + 210% ) / ( 7.5 * 2 + 1.5 )
+738% / 16.5
+44.727%
+```
 
 
 ### Solving for crit chance
 
 ```python
 lb * (base_multi + crit_multi * crit_chance) >= lvb_base + lvb_ms_dpet * (base_multi + crit_multi * crit_chance)
-45.68% * (1.0 + 1.5 * crit_chance) >= 66.40625% + 13.1% * (1.0 + 1.5 * crit_chance)     | - 13.1% * 2.5 * crit_chance
-45.68% * (1.0 + 1.5 * crit_chance)  - 13.1% * (1.0 + 1.5 * crit_chance) >= 66.40625%
-( 45.68% - 13.1% ) * (1.0 + 1.5 * crit_chance) >= 66.40625%
-32.58% * (1.0 + 1.5 * crit_chance) >= 66.40625%                                          | / 32.58%
-1.0 + 1.5 * crit_chance >= 2.03825                                                       | - 1.0
-1.5 * crit_chance >= 1.03825                                                             | / 1.5
-crit_chance >= 0.6922
+lb * (base_multi + crit_multi * crit_chance) - lvb_ms_dpet * (base_multi + crit_multi * crit_chance) >= lvb_base
+(lb - lvb_ms_dpet) * (base_multi + crit_multi * crit_chance) >= lvb_base
+base_multi + crit_multi * crit_chance >= lvb_base / (lb - lvb_ms_dpet)
+crit_multi * crit_chance >= lvb_base / (lb - lvb_ms_dpet) - base_multi
+crit_chance >= (lvb_base / (lb - lvb_ms_dpet) - base_multi) / crit_multi
+
+crit_chance >= (66.40625% / (44.727% - 8.1771%) - 1.0) / 1.5
+crit_chance >= 0.5446
 ```
 
-So when your crit chance reaches ~ 69.2% baseline {{ site.data.spell.lvb }} becomes worth less than {{ site.data.spell.lb }}.
-Well this calculation is not accurate yet.
-No mastery is applied anywhere in this calculation yet.
+So when your crit chance reaches ~ 54.46% {{ site.data.spell.lvb }} becomes worth less than {{ site.data.spell.lb }}.
+But to be exact, this calculation is not accurate yet.
+No mastery is applied anywhere in this calculation. And we have talents like {{ site.data.talent.ctt }} and {{ site.data.talent.tm }} that fiddle with these numbers as well.
 But it's easy enough to add.
 Just look through the calculations and replace  *_spellpower_coefficient and *_ms with values that have the mastery included.
 
-### TODO: Add mastery
 
+### Mastery
+
+```python
+mastery_chance = 30% = 0.3
+# Lava Burst
+lava_burst = lvb_spellpower_coefficient * (1.0 + 0.85 * mastery_chance) * crit_dmg_multiplier / lvb_casttime + (lvb_ms + lvb_o * mastery_chance) / ( es_cost + (lvb_ms + lvb_o * mastery_chance) * es_casttime / lb_casttime ) * ( es_dmg - lvb_spellpower_coefficient * (1.0 + 0.85 * mastery_chance) * crit_dmg_multiplier / lvb_casttime * es_casttime ) / lvb_casttime
+
+# Lightning Bolt
+lightning_bolt = lb_spellpower_coefficient * (1.0 + 0.85 * mastery_chance) / lb_casttime + (lb_ms + lb_o * mastery_chance) / ( es_cost + (lb_ms + lb_o * mastery_chance) * es_casttime / lb_casttime ) * ( es_dmg - lb_dmg * (1.0 + 0.85 * mastery_chance) / lb_casttime * es_casttime ) / lb_casttime
+
+# solving for crit chance
+crit_chance >= (lvb_spellpower_coefficient * (1.0 + 0.85 * mastery_chance) * crit_dmg_multiplier / lvb_casttime / (lightning_bolt - (lvb_ms + lvb_o * mastery_chance) / ( es_cost + (lvb_ms + lvb_o * mastery_chance) * es_casttime / lb_casttime ) * ( es_dmg - lvb_spellpower_coefficient * (1.0 + 0.85 * mastery_chance) * crit_dmg_multiplier / lvb_casttime * es_casttime ) / lvb_casttime) - base_multi) / crit_multi
+crit_chance = 0.5202
+```
+
+With mastery included we need ~ 52% crit.
 
 ## Lightning Bolt during Storm Elemental vs baseline haste
+
+
+
+
+[Spreadsheet with all of the above](https://docs.google.com/spreadsheets/d/1NcGxqrBb_vGMYm0TgDsWoaIIKkEtiLR-hXJFmzXvmJQ/edit#gid=0)
