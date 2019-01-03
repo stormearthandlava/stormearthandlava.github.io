@@ -170,9 +170,49 @@ crit_chance = 0.5202
 
 With mastery included we need ~ 52% crit.
 
+
 ## Lightning Bolt during Storm Elemental vs baseline haste
 
+To tackle this question we first need to know how {{ site.data.talent.se }} stacks work differently than haste.
+Haste reduces the casttime of a spell by division. `new_casttime = base_casttime / ( 1.0 + haste )`
+{{ site.data.talent.se }} stacks on the other hand reduce the casttime directly.
 
+Type | Value
+--- | ---
+Haste | 30%
+SE stacks | 10 (30% casttime reduction)
+Base casttime | 2 seconds
+Hasted casttime | 1.538 seconds
+SEed casttime | 1.4 seconds
 
+Additionally we need to know, that the GCD during {{ site.data.talent.se }} uptime is locked at 0.5 seconds for {{ site.data.spell.lb }} and {{ site.data.spell.cl }}. So once we have a shorter cast time than 0.5 seconds we found this haste break point.
+
+After getting this out of the way, let's head into this fairly easy calculation. First we calculate the new casttime with {{ site.data.talent.se }} 20 stacks.
+
+```python
+LB = base_casttime * ( 1.0 - se_stacks * 0.03 )
+LB = 2 * ( 1.0 - 20 * 0.03 )
+LB = 0.8 seconds
+```
+Now the last step is to calculate how much haste we need to get {{ site.data.spell.lb }} casttime to 0.5 seconds.
+
+```python
+goal_casttime >= casttime / ( 1.0 + haste )        | * ( 1.0 + haste )
+goal_casttime * ( 1.0 + haste ) >= casttime
+goal_casttime + goal_casttime * haste >= casttime  | - goal_casttime
+goal_casttime * haste >= casttime - goal_casttime  | / goal_casttime
+haste >= ( casttime - goal_casttime ) / goal_casttime
+
+haste >= ( 0.8 - 0.5 ) / 0.5
+haste >= 0.6
+```
+
+This means: once we have more than 60% haste (looking at you Bloodlust!), {{ site.data.spell.lb }} will be cast faster than our GCD. Breakpoint found.
 
 [Spreadsheet with all of the above](https://docs.google.com/spreadsheets/d/1NcGxqrBb_vGMYm0TgDsWoaIIKkEtiLR-hXJFmzXvmJQ/edit#gid=0)
+
+
+**Reminder:** The breakpoints of this post aren't meant to be reached for. This post is purely a nice-to-know!
+
+Yours sincerely,
+Bloodmallet(EU)
