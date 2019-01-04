@@ -73,8 +73,8 @@ lava_burst += lvb_ms / ( es_cost + lvb_ms * es_casttime / lb_casttime ) * ( es_d
 ```
 
 Wait a second! What're `( es_cost + lvb_ms * es_casttime / lb_casttime )` and `( es_dmg - lvb_dmg / lvb_casttime * es_casttime )` there?
-The first parenthesis add the fractional Maelstrom generation loss of casting an {{ site.data.spell.es }} instead of {{ site.data.spell.lvb }}.
-The second one calculates only the {{ site.data.spell.es }} gain compared to casting {{ site.data.spell.lvb }}.
+The first parenthesis adds the fractional Maelstrom generation loss of casting an {{ site.data.spell.es }} instead of {{ site.data.spell.lvb }}.
+The second one calculates the {{ site.data.spell.es }} gain compared to casting {{ site.data.spell.lvb }}.
 
 ```python
 lava_burst += 10 / ( 60 + 10 * 1.5 / 2 ) * ( 210% - 53.125% * 2.5 / 2 * 1.5 ) / 2
@@ -214,5 +214,5 @@ This means: once we have more than 60% haste (looking at you Bloodlust!), {{ sit
 
 **Reminder:** The breakpoints of this post aren't meant to be reached for. This post is purely a nice-to-know!
 
-Yours sincerely,
+Yours sincerely,<br/>
 Bloodmallet(EU)
