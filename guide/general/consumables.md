@@ -11,6 +11,7 @@ toc: true
 
 ## Food
 1. {{ site.data.item.feast }}
+1. {{ site.data.item.boralus_blood_sausage }}
 1. {{ site.data.item.crit_food }}
 1. {{ site.data.item.haste_food }}
 
