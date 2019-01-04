@@ -116,7 +116,7 @@ After reading the APL, please pay attention to the special mentions below, becau
         <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
         <li>Maintain 3 {{ site.data.spell.fs }}s if there are 3 targets.</li>
         <li>Cast {{ site.data.spell.eq }} when available. (Try gaming {{ site.data.talent.mote }} if fighting 3 stacked targets.)</li>
-        <li>Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs and {{ site.data.talent.se }} is not active.</li>
+        <li>Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs when {{ site.data.talent.se }} is not active and you're fighting only 3 targets.</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} if there are 3 targets.</li>
         <li>Cast {{ site.data.spell.cl }}.</li>
     </ol>
