@@ -134,6 +134,8 @@ Like the {{ site.data.spell.lvb }} section showed, this calculation can be done 
 
 ### Solving for crit chance
 
+Compare {{ site.data.spell.lb }} to {{ site.data.spell.lvb }} and find the necessary crit_chance to make {{ site.data.spell.lb }} at least equal if not greater than {{ site.data.spell.lvb }}.
+
 ```python
 lb * (base_multi + crit_multi * crit_chance) >= lvb_base + lvb_ms_dpet * (base_multi + crit_multi * crit_chance)
 lb * (base_multi + crit_multi * crit_chance) - lvb_ms_dpet * (base_multi + crit_multi * crit_chance) >= lvb_base
@@ -146,29 +148,16 @@ crit_chance >= (66.40625% / (44.727% - 8.1771%) - 1.0) / 1.5
 crit_chance >= 0.5446
 ```
 
-So when your crit chance reaches ~ 54.46% {{ site.data.spell.lvb }} becomes worth less than {{ site.data.spell.lb }}.
-But to be exact, this calculation is not accurate yet.
-No mastery is applied anywhere in this calculation. And we have talents like {{ site.data.talent.ctt }} and {{ site.data.talent.tm }} that fiddle with these numbers as well.
-But it's easy enough to add.
-Just look through the calculations and replace  *_spellpower_coefficient and *_ms with values that have the mastery included.
+The cool thing about doing these kind of calculations in spreadsheets is: it allows us to verify our results with simple try and error.
+This means we can just enter the calculated 54.46% crit into the crit character field at the top of [this spreadsheet](https://docs.google.com/spreadsheets/d/1NcGxqrBb_vGMYm0TgDsWoaIIKkEtiLR-hXJFmzXvmJQ/edit#gid=0) (after creating a copy of it) and see...that the calculation for crit must've been wrong.
+I already spent some time trying to figure out what went wrong, and now offer this riddle to the community.
+What went astray?
 
+Let me know in Discord: Bloodmallet(EU)#8246 The first one who solves this problem will be mentioned with the presented fix here:
 
-### Mastery
+...
 
-```python
-mastery_chance = 30% = 0.3
-# Lava Burst
-lava_burst = lvb_spellpower_coefficient * (1.0 + 0.85 * mastery_chance) * crit_dmg_multiplier / lvb_casttime + (lvb_ms + lvb_o * mastery_chance) / ( es_cost + (lvb_ms + lvb_o * mastery_chance) * es_casttime / lb_casttime ) * ( es_dmg - lvb_spellpower_coefficient * (1.0 + 0.85 * mastery_chance) * crit_dmg_multiplier / lvb_casttime * es_casttime ) / lvb_casttime
-
-# Lightning Bolt
-lightning_bolt = lb_spellpower_coefficient * (1.0 + 0.85 * mastery_chance) / lb_casttime + (lb_ms + lb_o * mastery_chance) / ( es_cost + (lb_ms + lb_o * mastery_chance) * es_casttime / lb_casttime ) * ( es_dmg - lb_dmg * (1.0 + 0.85 * mastery_chance) / lb_casttime * es_casttime ) / lb_casttime
-
-# solving for crit chance
-crit_chance >= (lvb_spellpower_coefficient * (1.0 + 0.85 * mastery_chance) * crit_dmg_multiplier / lvb_casttime / (lightning_bolt - (lvb_ms + lvb_o * mastery_chance) / ( es_cost + (lvb_ms + lvb_o * mastery_chance) * es_casttime / lb_casttime ) * ( es_dmg - lvb_spellpower_coefficient * (1.0 + 0.85 * mastery_chance) * crit_dmg_multiplier / lvb_casttime * es_casttime ) / lvb_casttime) - base_multi) / crit_multi
-crit_chance = 0.5202
-```
-
-With mastery included we need ~ 52% crit.
+Btw the correct crit result for this question is 68.23%.
 
 
 ## Lightning Bolt during Storm Elemental vs baseline haste
@@ -207,10 +196,12 @@ haste >= ( 0.8 - 0.5 ) / 0.5
 haste >= 0.6
 ```
 
-This means: once we have more than 60% haste (looking at you Bloodlust!), {{ site.data.spell.lb }} will be cast faster than our GCD. Breakpoint found.
+This means: once we have more than 60% haste (looking at you Bloodlust!), {{ site.data.spell.lb }} will be cast faster than our GCD with 20 stacks.
+Breakpoint found.
 
-[Spreadsheet with all of the above](https://docs.google.com/spreadsheets/d/1NcGxqrBb_vGMYm0TgDsWoaIIKkEtiLR-hXJFmzXvmJQ/edit#gid=0)
+[My spreadsheet with all of the above](https://docs.google.com/spreadsheets/d/1NcGxqrBb_vGMYm0TgDsWoaIIKkEtiLR-hXJFmzXvmJQ/edit#gid=0)
 
+[Sadozai much better spreadsheet](https://docs.google.com/spreadsheets/d/1cyYenNF4qBuWGaYkXg17h6oBb1ReeTAIPdJI8PmFzGI) (talent checkboxes, better formatting, better structure. It's the Epic to my Uncommon spreadsheet)
 
 **Reminder:** The breakpoints of this post aren't meant to be reached for. This post is purely a nice-to-know!
 
