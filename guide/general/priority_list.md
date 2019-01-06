@@ -28,7 +28,8 @@ After reading the APL, please pay attention to the special mentions below, becau
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
-        <li class="tm-apl" style="display: list-item;">Cast {{ site.data.talent.tm }}  when any of the following are true:
+        <li> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.eye_of_the_storm }} if no multi-target will happen soon. Make sure {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.eye_of_the_storm }}.</li>
+        <li class="tm-apl" style="display: list-item;">Cast {{ site.data.talent.tm }} when any of the following are true:
             <ul>
                 <li>It is not active or you are out of range of the existing totems.</li>
                 <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}, and the buff would expire during {{site.data.talent.asc}}.</li>
@@ -105,7 +106,8 @@ After reading the APL, please pay attention to the special mentions below, becau
 ## AoE (3 or more targets)
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
-        <li>Cast {{ site.data.talent.tm }}  when any of the following are true:
+        <li> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.eye_of_the_storm }} against as many targets as possible. Make sure {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.eye_of_the_storm }}.</li>
+        <li>Cast {{ site.data.talent.tm }} when any of the following are true:
             <ol>
                 <li>It is not active.</li>
                 <li>The buff's duration is at or below 9 seconds remaining.</li>
@@ -116,7 +118,7 @@ After reading the APL, please pay attention to the special mentions below, becau
         <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
         <li>Maintain 3 {{ site.data.spell.fs }}s if there are 3 targets.</li>
         <li>Cast {{ site.data.spell.eq }} when available. (Try gaming {{ site.data.talent.mote }} if fighting 3 stacked targets.)</li>
-        <li>Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs and {{ site.data.talent.se }} is not active.</li>
+        <li>Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs when {{ site.data.talent.se }} is not active and you're fighting only 3 targets.</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} if there are 3 targets.</li>
         <li>Cast {{ site.data.spell.cl }}.</li>
     </ol>
