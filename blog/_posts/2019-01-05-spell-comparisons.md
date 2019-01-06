@@ -69,10 +69,10 @@ But we're still missing {{ site.data.spell.mastery }} and Maelstrom generation.
 
 ```python
 # Adding Maelstrom
-lava_burst += lvb_ms / ( es_cost + lvb_ms * es_casttime / lb_casttime ) * ( es_dmg - lvb_dmg / lvb_casttime * es_casttime ) / lvb_casttime
+lava_burst += lvb_ms / ( es_cost + lvb_ms * es_casttime / lvb_casttime ) * ( es_dmg - lvb_dmg / lvb_casttime * es_casttime ) / lvb_casttime
 ```
 
-Wait a second! What're `( es_cost + lvb_ms * es_casttime / lb_casttime )` and `( es_dmg - lvb_dmg / lvb_casttime * es_casttime )` there?
+Wait a second! What're `( es_cost + lvb_ms * es_casttime / lvb_casttime )` and `( es_dmg - lvb_dmg / lvb_casttime * es_casttime )` there?
 The first parenthesis adds the fractional Maelstrom generation loss of casting an {{ site.data.spell.es }} instead of {{ site.data.spell.lvb }}.
 The second one calculates the {{ site.data.spell.es }} gain compared to casting {{ site.data.spell.lvb }}.
 
