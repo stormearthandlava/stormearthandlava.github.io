@@ -69,10 +69,10 @@ But we're still missing {{ site.data.spell.mastery }} and Maelstrom generation.
 
 ```python
 # Adding Maelstrom
-lava_burst += lvb_ms / ( es_cost + lvb_ms * es_casttime / lvb_casttime ) * ( es_dmg - lvb_dmg / lvb_casttime * es_casttime ) / lvb_casttime
+lava_burst += lvb_ms / ( es_cost + lvb_ms * es_casttime / lvb_casttime ) * ( es_dmg - lvb_base / lvb_casttime * es_casttime ) / lvb_casttime
 ```
 
-Wait a second! What're `( es_cost + lvb_ms * es_casttime / lvb_casttime )` and `( es_dmg - lvb_dmg / lvb_casttime * es_casttime )` there?
+Wait a second! What're `( es_cost + lvb_ms * es_casttime / lvb_casttime )` and `( es_dmg - lvb_base / lvb_casttime * es_casttime )` there?
 The first parenthesis adds the fractional Maelstrom generation loss of casting an {{ site.data.spell.es }} instead of {{ site.data.spell.lvb }}.
 The second one calculates the {{ site.data.spell.es }} gain compared to casting {{ site.data.spell.lvb }}.
 
@@ -90,7 +90,7 @@ lava_burst = 74.5833%
 You can get the same result much easier by adding up enough {{ site.data.spell.LvB }} to cast one {{ site.data.spell.es }} and then deviding the resulting spellpower by the time it took to reach that.
 
 ```python
-( 6 * lvb_dmg + es_dmg ) / ( 6 * lvb_casttime + es_casttime )
+( 6 * lvb_base + es_dmg ) / ( 6 * lvb_casttime + es_casttime )
 ( 6 * 53.125% * 2.5 + 210% ) / ( 6 * 2 + 1.5 )
 1006.875% / 13.5
 74.583%
@@ -134,30 +134,28 @@ Like the {{ site.data.spell.lvb }} section showed, this calculation can be done 
 
 ### Solving for crit chance
 
-Compare {{ site.data.spell.lb }} to {{ site.data.spell.lvb }} and find the necessary crit_chance to make {{ site.data.spell.lb }} at least equal if not greater than {{ site.data.spell.lvb }}.
+Compare {{ site.data.spell.lb }} to {{ site.data.spell.lvb }} and find the necessary crit_chance to make {{ site.data.spell.lb }} at least equal if not greater than {{ site.data.spell.lvb }}. To do so we're going to use the simplyfied calculations. We need to use the full calculations, though, because we need to apply the crit_chance at all the correct places.
 
 ```python
-lb * (base_multi + crit_multi * crit_chance) >= lvb_base + lvb_ms_dpet * (base_multi + crit_multi * crit_chance)
-lb * (base_multi + crit_multi * crit_chance) - lvb_ms_dpet * (base_multi + crit_multi * crit_chance) >= lvb_base
-(lb - lvb_ms_dpet) * (base_multi + crit_multi * crit_chance) >= lvb_base
-base_multi + crit_multi * crit_chance >= lvb_base / (lb - lvb_ms_dpet)
-crit_multi * crit_chance >= lvb_base / (lb - lvb_ms_dpet) - base_multi
-crit_chance >= (lvb_base / (lb - lvb_ms_dpet) - base_multi) / crit_multi
+(es_ms / lb_ms * lb_dmg + es_dmg) * (base_multi + crit_multi * crit_chance) / (es_ms / lb_ms * lb_casttime + es_casttime) >= (es_ms / lvb_ms * lvb_spellpower_coefficient * (base_multi + crit_multi) + es_dmg * (base_multi + crit_multi * crit_chance)) / (es_ms / lvb_ms * lvb_casttime + es_casttime)
+(es_ms / lb_ms * lb_dmg + es_dmg) * (base_multi + crit_multi * crit_chance) / (es_ms / lb_ms * lb_casttime + es_casttime) >= es_ms / lvb_ms * lvb_spellpower_coefficient * (base_multi + crit_multi) / (es_ms / lvb_ms * lvb_casttime + es_casttime) + es_dmg * (base_multi + crit_multi * crit_chance) / (es_ms / lvb_ms * lvb_casttime + es_casttime)
+(es_ms / lb_ms * lb_dmg + es_dmg) * (base_multi + crit_multi * crit_chance) / (es_ms / lb_ms * lb_casttime + es_casttime) - es_dmg * (base_multi + crit_multi * crit_chance) / (es_ms / lvb_ms * lvb_casttime + es_casttime) >= es_ms / lvb_ms * lvb_spellpower_coefficient * (base_multi + crit_multi) / (es_ms / lvb_ms * lvb_casttime + es_casttime)
+(es_ms / lb_ms * lb_dmg + es_dmg) / (es_ms / lb_ms * lb_casttime + es_casttime) * (base_multi + crit_multi * crit_chance) - es_dmg / (es_ms / lvb_ms * lvb_casttime + es_casttime) * (base_multi + crit_multi * crit_chance) >= es_ms / lvb_ms * lvb_spellpower_coefficient * (base_multi + crit_multi) / (es_ms / lvb_ms * lvb_casttime + es_casttime)
+((es_ms / lb_ms * lb_dmg + es_dmg) / (es_ms / lb_ms * lb_casttime + es_casttime) - es_dmg / (es_ms / lvb_ms * lvb_casttime + es_casttime)) * (base_multi + crit_multi * crit_chance) >= es_ms / lvb_ms * lvb_spellpower_coefficient * (base_multi + crit_multi) / (es_ms / lvb_ms * lvb_casttime + es_casttime)
+base_multi + crit_multi * crit_chance >= es_ms / lvb_ms * lvb_spellpower_coefficient * (base_multi + crit_multi) / (es_ms / lvb_ms * lvb_casttime + es_casttime) / ((es_ms / lb_ms * lb_dmg + es_dmg) / (es_ms / lb_ms * lb_casttime + es_casttime) - es_dmg / (es_ms / lvb_ms * lvb_casttime + es_casttime))
+crit_multi * crit_chance >= es_ms / lvb_ms * lvb_spellpower_coefficient * (base_multi + crit_multi) / (es_ms / lvb_ms * lvb_casttime + es_casttime) / ((es_ms / lb_ms * lb_dmg + es_dmg) / (es_ms / lb_ms * lb_casttime + es_casttime) - es_dmg / (es_ms / lvb_ms * lvb_casttime + es_casttime)) - base_multi
+crit_chance >= (es_ms / lvb_ms * lvb_spellpower_coefficient * (base_multi + crit_multi) / (es_ms / lvb_ms * lvb_casttime + es_casttime) / ((es_ms / lb_ms * lb_dmg + es_dmg) / (es_ms / lb_ms * lb_casttime + es_casttime) - es_dmg / (es_ms / lvb_ms * lvb_casttime + es_casttime)) - base_multi) / crit_multi
 
-crit_chance >= (66.40625% / (44.727% - 8.1771%) - 1.0) / 1.5
-crit_chance >= 0.5446
+crit_chance >= (60 / 10 * 53.125% * (1.0 + 1.5) / (60 / 10 * 2s + 1.5s) / ((60 / 8 * 70.4% + 210%) / (60 / 8 * 2s + 1.5s) - 210% / (60 / 10 * 2s + 1.5s)) - 1.0) / 1.5
+crit_chance >= 0.6823
 ```
 
 The cool thing about doing these kind of calculations in spreadsheets is: it allows us to verify our results with simple try and error.
-This means we can just enter the calculated 54.46% crit into the crit character field at the top of [this spreadsheet](https://docs.google.com/spreadsheets/d/1NcGxqrBb_vGMYm0TgDsWoaIIKkEtiLR-hXJFmzXvmJQ/edit#gid=0) (after creating a copy of it) and see...that the calculation for crit must've been wrong.
-I already spent some time trying to figure out what went wrong, and now offer this riddle to the community.
-What went astray?
+This means we can just enter the calculated 68.23% crit into the crit character field at the top of [this spreadsheet](https://docs.google.com/spreadsheets/d/1NcGxqrBb_vGMYm0TgDsWoaIIKkEtiLR-hXJFmzXvmJQ/edit#gid=0) (after creating a copy of it) and see...it matches.
 
-Let me know in Discord: Bloodmallet(EU)#8246 The first one who solves this problem will be mentioned with the presented fix here:
+The first one who solved this previously wrong calculation was **HawkCorrigan#1811**. The issue was, that previously the comparison calculation applied crit to the ms dpet of {{ site.data.spell.lvb }}, which already had some {{ site.data.spell.lvb }} spellpower calculation. This double dipping on crit was wrong. You can now see the corrected formula above.
 
-...
-
-Btw the correct crit result for this question is 68.23%.
+The linked spreadsheet has the old, new, and a calculation with added mastery into it. Enjoy!
 
 
 ## Lightning Bolt during Storm Elemental vs baseline haste
