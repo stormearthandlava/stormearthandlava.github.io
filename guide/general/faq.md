@@ -1,14 +1,14 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 2018-12-07 09:00:00
-game_version: 8.1.0 Battle for Azeroth
+last_update: 2019-01-30 09:00:00
+game_version: 8.1.5 Battle for Azeroth
 toc: true
 ---
 
-This page has the answers to some frequently asked questions for Elemental in Patch 8.1
+This page has the answers to some frequently asked questions for Elemental Shamans.
 
-### Q: "Will Elemental be viable in Battle for Azeroth 8.1?"
+### Q: "Will Elemental be viable in <Exapansion name> <game version>?"
 
 Firstly, no spec in the game is unviable. Certain specs may be favoured for certain bosses in a raid, but this is only relevant to the very highest end of raiding (ie, competing for world first). Elemental (and every other spec) will remain competitive for 99.9% of the playerbase.
 
@@ -18,11 +18,11 @@ See the [Consumables]({{ site.baseurl }}{% link guide/general/consumables.md %})
 
 ### Q: "How many targets should I cast Flame Shock on?"
 
-You should cast {{ site.data.spell.fs }}  in situations where you can hit up to four targets with Earthquake. Try to only use {{ site.data.spell.fs }} on targets which will stay alive for most of the DoT duration.
+See the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) section of the guide.
 
 ### Q: "When do I cast Chain Lightning?"
 
-With 8.1 you start casting {{ site.data.spell.cl }} against 3 or more targets.
+See the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) section of the guide.
 
 ### Q: "Does Earthquake stack?"
 
@@ -30,7 +30,7 @@ Yes, {{ site.data.spell.eq }} stacks and has no stack limit.
 
 ### Q: "When should I stop using Earth Shock and use Earthquake?"
 
-In general, stop using {{ site.data.spell.es }} against two targets or more. But check out the [priority list]({{ site.baseurl }}{% link guide/general/priority_list.md %}) page for more information.
+In general, stop using {{ site.data.spell.es }} against two targets or more. But check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) page for more information.
 
 ### Q: "When is the best time to use Primal Fire Elemental's Meteor?"
 
@@ -51,14 +51,12 @@ No. During {{ site.data.talent.se }} uptime you want to only cast {{ site.data.s
 ### Q: "What are some useful Macros?"
 
 This Macro allows you to place an {{ site.data.spell.eq }} at your cursor:
-
  ```
 #showtooltip Earthquake
 /cast [@cursor] Earthquake
  ```
 
 This macro will deselect the boss before casting {{ site.data.spell.fe }}, allowing you to pre-cast it without pulling the boss:
-
  ```
 #showtooltip Fire Elemental
 /target [@player, nocombat]
@@ -66,7 +64,7 @@ This macro will deselect the boss before casting {{ site.data.spell.fe }}, allow
 /targetlasttarget [nocombat]
  ```
 
-This macro allows you to cast the Elementals Ability or Icefury, depending on your talents. The correct item is shown once you've loaded the ability at least once after logging in.
+This macro allows you to cast the Elementals Ability or Icefury, depending on your talents. The correct icon is shown once you've loaded the ability at least once after logging in.
 ```
 #showtooltip
 /cast [talent:6/3]Icefury;[talent:4/2,talent:6/2]Eye of the Storm;[notalent:4/2,talent:6/2]Meteor
@@ -79,7 +77,6 @@ This macro is a handy mouseover macro for {{ site.data.spell.fs }}.
 ```
 
 This macro allows you to summon your {{ site.data.spell.ee }} and active its defensive CD via double click. If your {{ site.data.spell.fe }} is active {{ site.data.spell.ee }} will simply go on CD and nothing else will happen, so don't try this with your DPS Elemental being active.
-
 ```
 #showtooltip
 /cast Earth Elemental

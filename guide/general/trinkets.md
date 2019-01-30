@@ -1,8 +1,8 @@
 ---
 layout: highcharts_page
 title: Trinkets
-last_update: 2018-08-13 09:00:00
-game_version: 8.0.1 Battle for Azeroth
+last_update: 2019-01-30 09:00:00
+game_version: 8.1.5 Battle for Azeroth
 toc: true
 ---
 

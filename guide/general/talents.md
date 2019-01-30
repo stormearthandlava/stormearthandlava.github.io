@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Talents
-last_update: 2018-12-07 09:00:00
-game_version: 8.1.0 Battle for Azeroth
+last_update: 2019-01-30 09:00:00
+game_version: 8.1.5 Battle for Azeroth
 toc: true
 ---
 
@@ -13,10 +13,12 @@ Many more talent combinations may work. We're listing the most robust ones (for 
 Type | Talent combination
 --- | ---
 Questing / Solo&nbsp;Content | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.earth_shield }}<br> 60: {{ site.data.talent.se }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.sop }}<br> 100: {{ site.data.talent.sk }}
-Mythic+ | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 60: {{ site.data.talent.se }} **OR** {{ site.data.talent.lmt }} <br> 75: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 90: {{ site.data.talent.pe }} **OR** {{ site.data.talent.if }}<br> 100: {{site.data.talent.sk}}
-Raid / Single&nbsp;Target | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.se }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.sk }}
+Mythic+ | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.afs }}<br> 45: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 60: {{ site.data.talent.se }} **OR** {{ site.data.talent.lmt }} <br> 75: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 90: {{ site.data.talent.pe }} **OR** {{ site.data.talent.if }}<br> 100: {{site.data.talent.sk}}
+Raid / Single&nbsp;Target | 15: {{ site.data.talent.echo }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.mote }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.if }}<br> 100: {{ site.data.talent.sk }}
 
-**Special Mention** {{ site.data.talent.sop }} can depending on fight length surpass {{ site.data.talent.pe }} by a lot. Especially when combined with the Azerite Trait {{ site.data.azerite.echo_of_the_elementals }} and {{ site.data.talent.se }}. The downside is: you need to figure out on the fly which effect of {{ site.data.talent.sop }} you actually need. Check out logs!
+**Special Mention** {{ site.data.talent.sop }} can depending on fight length surpass {{ site.data.talent.pe }}. The downside is: you need to figure out on the fly which effect of {{ site.data.talent.sop }} you actually need. Check out logs!
+
+**Special Mention** The "Raid / Single Target" talent combination assumes you have access to two or more {{ site.data.azerite.igneous_potential }}. Which should be fairly easy in Battle for Dazar'Alor.
 
 There are other talent combinations that peform close to these or sometimes even better. So please make sure to sim your character if you suspect that something else is a better general choice.
 
@@ -42,12 +44,12 @@ Click the talent row text to expand.
                 <p markdown="1">A passive talent which requires no thought or change in gameplay.</p>
                 <hr><br>
                 <h4>{{site.data.talent.eote}} (EotE / Echo)</h4>
-                <p markdown="1"> Quite a simple talent to understand, EotE just adds a charge to {{ site.data.spell.lvb }}. At face value this may not seem impactful, but once you consider that effects which reset the cooldown on {{ site.data.spell.lvb }} will now instead grant a charge, the benefits are clear. Echo adds value by allowing extra time for you to cast {{ site.data.spells.lvb }} instead of needing to cast it immediately when it comes off cooldown. This is because you'll lose no DPS by choosing to cast another spell while {{ site.data.spell.lvb }} has less than 2 charges, as the second charge "cooling down" does not translate to wasted DPS. This makes this talent helpful for any kind of movement compared to {{ site.data.talent.eb }}.</p>
+                <p markdown="1"> Quite a simple talent to understand, EotE / Echo just adds a charge to {{ site.data.spell.lvb }}. At face value this may not seem impactful, but once you consider that effects which reset the cooldown on {{ site.data.spell.lvb }} will now instead grant a charge, the benefits are clear. Echo adds value by allowing extra time for you to cast {{ site.data.spells.lvb }} instead of needing to cast it immediately when it comes off cooldown. This is because you'll lose no DPS by choosing to cast another spell while {{ site.data.spell.lvb }} has less than 2 charges, as the second charge "cooling down" does not translate to wasted DPS. This makes this talent helpful for any kind of movement compared to {{ site.data.talent.eb }}.</p>
                 <hr><br>
                 <h4>{{site.data.talent.eb}} (EB)</h4>
                 <p markdown="1"> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.er}} should be taken for virtually all situations. {{ site.data.talent.eote }} synergises well with {{site.data.talent.mote}} (if taken) but due to the buff to {{ site.data.spell.lb }} this talent lost a lot of its value. {{site.data.talent.eb}} is too weak in all regards unless you stack {{ site.data.azerite.natural_harmony }} at least twice.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.er}} should be taken for virtually all situations unless you have {{ site.data.azerite.igneous_potential }} twice in which was you should use {{ site.data.talent.eote }} for anything up to and including 2 targets. {{ site.data.talent.eote }} synergises well with {{site.data.talent.mote}} (if taken) but due to the buff to {{ site.data.spell.lb }} this talent lost a lot of its value. {{site.data.talent.eb}} is too weak in all regards unless you stack {{ site.data.azerite.natural_harmony }} three times. But even then it would fall behind the other choices.</p>
             </div>
         </div>
     </div>
@@ -102,7 +104,7 @@ Click the talent row text to expand.
         <div id="L60-collapse" class="collapse" aria-labelledby="L60" data-parent="#accordion">
             <div class="card-body">
                 <h4>{{site.data.talent.mote}} (MotE)</h4>
-                <p markdown="1"> Adds an interaction between {{ site.data.spell.lvb }} and {{ site.data.spell.es }} / {{ site.data.spell.eq }} / {{ site.data.spell.frs }} / {{ site.data.spell.lb }} / {{ site.data.spell.cl }}. Note that {{ site.data.talent.mote }}'s buff is applied *immedately* on a successful {{ site.data.spell.lvb }} cast, not when the {{ site.data.spell.lvb }} projectile hits the target. This is distinct from every other interaction with {{ site.data.spell.lvb }} in the past (and present). The benefit here is that, on bosses with very large hitboxes, you won't need to cast a filler spell between {{ site.data.spell.lvb }} and the spell you wish to empower with {{ site.data.talent.mote }}. For  more than 3 targets you still should ideally not cast {{ site.data.spell.lvb }}. This talent is a trap when 4 or more targets are present.</p>
+                <p markdown="1"> Adds an interaction between {{ site.data.spell.lvb }} and {{ site.data.spell.es }} / {{ site.data.spell.eq }} / {{ site.data.spell.frs }} / {{ site.data.spell.lb }} / {{ site.data.spell.cl }}. Note that {{ site.data.talent.mote }}'s buff is applied *immedately* on a successful {{ site.data.spell.lvb }} cast, not when the {{ site.data.spell.lvb }} projectile hits the target. This is distinct from every other interaction with {{ site.data.spell.lvb }} in the past. For more than 3 targets you still should ideally not cast {{ site.data.spell.lvb }}. This talent is a trap when 4 or more targets are present.</p>
                 <hr><br>
                 <h4>{{site.data.talent.se}} (SE)</h4>
                 <p markdown="1"> Subsequent casts of {{ site.data.spell.lb }} and {{ site.data.spell.cl }} reduce *both the cast time and the GCD incurred* by 3% (up to 60%) during the Elementals uptime. Therefore if you have to move instead of casting your usual spells you lose some value of this CD.</p>
@@ -110,7 +112,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.lmt}} (LMT)</h4>
                 <p markdown="1"> Offers some nice burst AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.se }} is the default choice, this talent is extremely strong and versatile. It offers the highest single-target throughput when used in combination with either {{ site.data.talent.pe }} or {{ site.data.talent.sop }} as well as extremely potent AoE burst damage especially when used in conjunction with {{ site.data.talent.pe }}. The other talents on this row are more situational; {{ site.data.talent.mote }} when used in combination with {{ site.data.talent.if }} offers a viable alternative to the {{ site.data.talent.se }} based talent combinations. This may be useful on raid bosses where there are frequent high priority targets swaps or for bosses where it may not be possible to consistently utilize {{ site.data.talent.se }} due to a large amount of movement being required. {{ site.data.talent.lmt }} is a multi-target talent that may occasionally pull ahead of {{ site.data.talent.se }}. It is generally strong when either the fight or instance timings are unfavorable for {{ site.data.talent.se }} but optimal for {{ site.data.talent.lmt }} and additionally {{ site.data.talent.lmt }} tends to pull ahead for 2/3 target sustained cleave.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is now the default choice if you have {{ site.data.azerite.igneous_potential }} twice and use {{ site.data.talent.echo }}. Outside of that case {{ site.data.talent.se }} is the default choice, this talent is extremely strong and versatile. It offers the highest single-target throughput when used in combination with either {{ site.data.talent.pe }} or {{ site.data.talent.sop }} as well as extremely potent AoE burst damage especially when used in conjunction with {{ site.data.talent.pe }}. The other talents on this row are more situational; {{ site.data.talent.mote }} when used in combination with {{ site.data.talent.if }} offers a viable alternative to the {{ site.data.talent.se }} based talent combinations. This may be useful on raid bosses where there are frequent high priority targets swaps or for bosses where it may not be possible to consistently utilize {{ site.data.talent.se }} due to a large amount of movement being required. {{ site.data.talent.lmt }} is a multi-target talent that may occasionally pull ahead of {{ site.data.talent.se }}. It is generally strong when either the fight or instance timings are unfavorable for {{ site.data.talent.se }} but optimal for {{ site.data.talent.lmt }} and additionally {{ site.data.talent.lmt }} tends to pull ahead for 2/3 target sustained cleave.</p>
             </div>
         </div>
     </div>
@@ -163,7 +165,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.if}} (IF)</h4>
                 <p markdown="1">Since the removal of the Maelstrom cost from {{ site.data.spell.frs }} in Patch 8.0, {{ site.data.talent.if }} has become much less complex to manage. This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. {{ site.data.talent.if }} empowered {{ site.data.spell.frs }} generate Maelstrom now. This gives you more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.pe }} is the default choice. {{ site.data.talent.sop }} is very powerful on *single target* encounters but is significantly more complex to utilize than {{ site.data.talent.pe }} and is only a gain under specific circumstances. {{ site.data.talent.if }} offers much improved mobility, but is very slightly weaker than the other two options if no movement is involved. {{ site.data.talent.if }} may perform better than the other alternatives on 1 or 2 target encounters when used with {{ site.data.talent.mote }}(single target) or {{ site.data.talent.lmt }} (2 target cleave).</p>
+                <p markdown="1">**Recommendation:** If you have {{ site.data.azerite.igneous_potential }} twice {{ site.data.talent.if }} in combinations with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one and two targets. Outside of that {{ site.data.talent.pe }} becomes the default choice. {{ site.data.talent.sop }} is very powerful on *single target* encounters but is significantly more complex to utilize than {{ site.data.talent.pe }} or {{ site.data.talent.if }} and is only a gain under specific circumstances. {{ site.data.talent.if }} offers much improved mobility, but is very slightly weaker than the other two options if no movement is involved. {{ site.data.talent.if }} may perform better than the other alternatives on 1 or 2 target encounters when used with {{ site.data.talent.mote }}(single target) or {{ site.data.talent.lmt }} (2 target cleave).</p>
             </div>
         </div>
     </div>
@@ -193,6 +195,12 @@ Click the talent row text to expand.
 ### Notable talent synergies
 
 Please note that this list will only include talent synergies with easy to explain, intuitive reasoning behind them. There may exist some mild synergies not in this list, but we have chosen to not write about them here. Many factors affect which talents benefit others, so we have narrowed it down to synergies with direct impacts on gameplay.
+
+
+#### Echo of the Elements and Master of the Elements
+
+While {{ site.data.talent.echo }} essentially increases the frequency of {{ site.data.spell.lvb }} {{ site.data.talent.mote }} profits from that by allowing us to buff more casts.
+
 
 #### Master of the Elements and Icefury
 

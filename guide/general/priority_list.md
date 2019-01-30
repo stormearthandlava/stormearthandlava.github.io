@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Priority List
-last_update: 2018-12-07 09:00:00
-game_version: 8.1.0 Battle for Azeroth
+last_update: 2019-01-30 09:00:00
+game_version: 8.1.5 Battle for Azeroth
 toc: true
 ---
 
@@ -19,10 +19,10 @@ After reading the APL, please pay attention to the special mentions below, becau
 #### Talent selector:
 
 
-15 | <input type="radio" id="er-radio" name="15" value="1" checked/><label for="er-radio" > Earthen Rage</label> | <input type="radio" id="eote-radio" name="15" value="2"  /><label for="eote-radio"> Echo of the Elements</label> | <input type="radio" id="eb-radio" name="15" value="3" /><label for="eb-radio"> Elemental Blast</label>
+15 | <input type="radio" id="er-radio" name="15" value="1"/><label for="er-radio" > Earthen Rage</label> | <input type="radio" id="eote-radio" name="15" value="2"  checked/><label for="eote-radio"> Echo of the Elements</label> | <input type="radio" id="eb-radio" name="15" value="3" /><label for="eb-radio"> Elemental Blast</label>
 30 | <input type="radio" id="afs-radio" name="30" value="1" /><label for="afs-radio"> Aftershock</label> | <input type="radio" id="ctt-radio" name="30" value="2" /><label for="ctt-radio"> Call the Thunder</label> | <input type="radio" id="tm-radio" name="30" value="3" checked /><label for="tm-radio"> Totem Mastery</label>
-60 | <input type="radio" id="mote-radio" name="60" value="1" /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="se-radio" name="60" value="2" checked /><label for="se-radio"> Storm Elemental</label> | <input type="radio" id="lmt-radio" name="60" value="3" /><label for="lmt-radio"> Liquid Magma Totem</label>
-90 | <input type="radio" id="sop-radio" name="90" value="1" /><label for="sop-radio"> Surge of Power</label> | <input type="radio" id="pe-radio" name="90" value="2" checked /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="90" value="3" /><label for="if-radio"> Icefury</label>
+60 | <input type="radio" id="mote-radio" name="60" value="1" checked /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="se-radio" name="60" value="2"/><label for="se-radio"> Storm Elemental</label> | <input type="radio" id="lmt-radio" name="60" value="3" /><label for="lmt-radio"> Liquid Magma Totem</label>
+90 | <input type="radio" id="sop-radio" name="90" value="1" /><label for="sop-radio"> Surge of Power</label> | <input type="radio" id="pe-radio" name="90" value="2" /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="90" value="3" checked /><label for="if-radio"> Icefury</label>
 100 | <input type="radio" id="up-radio" name="100" value="1" /><label for="up-radio"> Unlimited Power</label> | <input type="radio" id="sk-radio" name="100" value="2" checked/><label for="sk-radio"> Stormkeeper</label> | <input type="radio" id="asc-radio" name="100" value="3"/><label for="asc-radio"> Ascendance</label>
 
 
@@ -133,17 +133,19 @@ Follow the cast sequences below for your chosen opener. A <span style="color:red
 
 Standard raid opener:
 <div class="opener">
-    <div class="skill tm"><span>TM</span></div>
-    <div class="arrow"></div>
     <div class="skill sk"><span>SK</span></div>
     <div class="arrow"></div>
-    <div class="skill se"><span>SE</span></div>
+    <div class="skill tm"><span>TM</span></div>
     <div class="arrow"></div>
     <div class="skill lvb"><span>LvB</span></div>
     <div class="arrow pull"></div>
     <div class="skill fs"><span>FS</span></div>
     <div class="arrow"></div>
+    <div class="skill se"><span>SE</span></div>
+    <div class="arrow"></div>
     <div class="skill lmt"><span>LMT</span></div>
+    <div class="arrow"></div>
+    <div class="skill if"><span>IF</span></div>
     <div class="arrow"></div>
     <div class="skill lb"><span>LB</span></div>
     <div class="arrow"></div>
@@ -182,7 +184,7 @@ Yes, the shorter the remaining duration, the less likely it is for you to need a
 
 > "I should try to keep {{ site.data.azerite.natural_harmony }} active with {{ site.data.spell.frs }}!"
 
-Yes/No. If you have that trait at least twice you can keep the frost buff up with {{ site.data.spell.frs }} to be dps neutral. This offers additional movement globals, which are very helpful.
+No.
 
 ## Warning about Primal Elementalist
 
