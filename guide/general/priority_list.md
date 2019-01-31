@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Priority List
-last_update: 2019-01-30 09:00:00
+last_update: 2019-01-31 09:00:00
 game_version: 8.1.5 Battle for Azeroth
 toc: true
 ---
@@ -41,29 +41,29 @@ After reading the APL, please pay attention to the special mentions below, becau
                 <li>It is not active on the target.</li>
                 <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}.</li>
                 <li>The debuff's duration is at or below 7 seconds remaining.</li>
-                <li class="se-apl" style="display: list-item;"><strong>Special warning:</strong> Don't refresh {{ site.data.spell.fs }} if you have 14 stacks or more of {{ site.data.spell.wind_gust }} during {{ site.data.talent.se }}. </li>
+                <li class="se-apl" style="display: none;"><strong>Special warning:</strong> Don't refresh {{ site.data.spell.fs }} if you have 14 stacks or more of {{ site.data.spell.wind_gust }} during {{ site.data.talent.se }}. </li>
             </ul>
         </li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.talent.asc }} on cooldown, if neither {{ site.data.talent.se }} is active, nor {{ site.data.spell.lvb }} is available, nor {{ site.data.talent.if }} is active.</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} on cooldown, if neither {{ site.data.talent.se }} is active nor you could cast a {{ site.data.talent.mote }} empowered {{ site.data.spell.es }} instead.</li>
-        <li class="sk-apl" style="display:none;"> Cast {{ site.data.talent.sk }} on cooldown and ideally game it with {{ site.data.talent.sop }} if you selected this talent. See special cases below for more information.</li>
+        <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.talent.sk }} on cooldown and ideally game it with {{ site.data.talent.sop }} if you selected this talent. See special cases below for more information.</li>
         <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
         <li>Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies.</li>
         <li class="sk-apl" style="display: list-item;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.sk }} is active and when any of the following are true (if you don't see any following conditions, ignore this line):
             <ul>
-                <li class="mote-apl" style="display: none;">{{ site.data.talent.mote }} is active and {{ site.data.talent.sop }} is NOT selected.</li>
+                <li class="mote-apl" style="display: list-item;">{{ site.data.talent.mote }} is active and {{ site.data.talent.sop }} is NOT selected.</li>
                 <li class="sop-apl" style="display: none;">{{ site.data.talent.sop }} is active.</li>
             </ul>
         </li>
         <li>Cast {{ site.data.spell.es }}. But read the special cases about delaying {{ site.data.spell.es }} casts.</li>
-        <li class="se-apl" style="display: list-item;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.se }} is active.</li>
-        <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff and {{ site.data.talent.mote }} buff active.</li>
+        <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.se }} is active.</li>
+        <li class="if-apl" style="display: list-item;">Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff and {{ site.data.talent.mote }} buff active.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.talent.asc }} is active.</li>
-        <li class="se-apl" style="display: list-item;">Cast {{ site.data.spell.lvb }} with {{ site.data.talent.sop }} if you could get another use out of {{ site.data.talent.se }} or lengthen its last possible duration within the fight.</li>
+        <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lvb }} with {{ site.data.talent.sop }} if you could get another use out of {{ site.data.talent.se }} or lengthen its last possible duration within the fight.</li>
         <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lb }} with {{ site.data.talent.sop }} buff active.</li>
         <li>Cast {{site.data.spell.lvb }}.</li>
-        <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.</li>
-        <li class="if-apl" style="display:none;">Cast {{ site.data.talent.if }} on cooldown.</li>
+        <li class="if-apl" style="display: list-item;">Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.</li>
+        <li class="if-apl" style="display: list-item;">Cast {{ site.data.talent.if }} on cooldown.</li>
         <li class="tm-apl" style="display: list-item;">Refresh {{ site.data.talent.tm }} if its duration is at or below 9 seconds remaining.</li>
         <li>Cast {{ site.data.spell.lb }} as a filler.</li>
         <li>Cast {{site.data.spell.frs}} in place of {{site.data.spell.lb}} while moving, even if you do not have {{site.data.talent.if}}.</li>
@@ -140,10 +140,6 @@ Standard raid opener:
     <div class="skill lvb"><span>LvB</span></div>
     <div class="arrow pull"></div>
     <div class="skill fs"><span>FS</span></div>
-    <div class="arrow"></div>
-    <div class="skill se"><span>SE</span></div>
-    <div class="arrow"></div>
-    <div class="skill lmt"><span>LMT</span></div>
     <div class="arrow"></div>
     <div class="skill if"><span>IF</span></div>
     <div class="arrow"></div>
