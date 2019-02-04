@@ -2,7 +2,7 @@
 title: Stats
 layout: page
 last_update: 2019-01-30 9:00:00
-game_version: 8.1.5 Battle for Azeroth
+game_version: 8.1.0 Battle for Azeroth
 toc: true
 ---
 Due to the advent of the Titanforging system, BiS lists are a defunct practice. We suggest you simulate each piece of gear you obtain against your other gear to find the most effective gear set. Aside from that, following a general stat priority and ratio is the most practical way to move forward with gearing. Additionally, we are focused on single target output for raid environments, as it is vastly more important than building for AoE or cleave specifically, but don’t be afraid to experiment to tailor yourself to a raid encounter.

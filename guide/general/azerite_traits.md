@@ -2,7 +2,7 @@
 layout: highcharts_page
 title: Azerite Traits
 last_update: 2019-01-30 09:00:00
-game_version: 8.1.5 Battle for Azeroth
+game_version: 8.1.0 Battle for Azeroth
 toc: true
 ---
 
