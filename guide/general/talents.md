@@ -49,7 +49,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.eb}} (EB)</h4>
                 <p markdown="1"> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.er}} should be taken for virtually all situations unless you have {{ site.data.azerite.igneous_potential }} twice in which was you should use {{ site.data.talent.eote }} for anything up to and including 2 targets. {{ site.data.talent.eote }} synergises well with {{site.data.talent.mote}} (if taken) but due to the buff to {{ site.data.spell.lb }} this talent lost a lot of its value. {{site.data.talent.eb}} is too weak in all regards unless you stack {{ site.data.azerite.natural_harmony }} three times. But even then it would fall behind the other choices.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.er}} should be taken for virtually all situations unless you have {{ site.data.azerite.igneous_potential }} twice in which case you should use {{ site.data.talent.eote }} for anything up to and including 2 targets. {{ site.data.talent.eote }} synergises well with {{site.data.talent.mote}} (if taken) but due to the buff to {{ site.data.spell.lb }} this talent lost a lot of its value. {{site.data.talent.eb}} is too weak in all regards unless you stack {{ site.data.azerite.natural_harmony }} three times. But even then it would fall behind the other choices.</p>
             </div>
         </div>
     </div>
