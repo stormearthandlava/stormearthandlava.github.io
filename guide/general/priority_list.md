@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Priority List
-last_update: 2019-01-31 09:00:00
+last_update: 2019-02-09 09:00:00
 game_version: 8.1.0 Battle for Azeroth
 toc: true
 ---
