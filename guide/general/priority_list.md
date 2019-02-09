@@ -141,9 +141,11 @@ Standard raid opener:
     <div class="arrow pull"></div>
     <div class="skill fs"><span>FS</span></div>
     <div class="arrow"></div>
-    <div class="skill if"><span>IF</span></div>
+    <div class="skill fe"><span>FE</span></div>
     <div class="arrow"></div>
     <div class="skill lb"><span>LB</span></div>
+    <div class="arrow"></div>
+    <div class="skill if"><span>IF</span></div>
     <div class="arrow"></div>
 </div>
 
