@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 patreon_name: stormearthlava
 discord_servername: Storm, Earth & Lava
-discord_invite: http://discord.me/stormearthandlava
+discord_invite: https://discord.gg/VA7wXVx
 twitter_username: StormEarthLava
 github_username:  stormearthandlava
 timezone: Australia/Sydney
