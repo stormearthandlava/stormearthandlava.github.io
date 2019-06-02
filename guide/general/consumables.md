@@ -30,6 +30,8 @@ Rings | Whichever stat a) sims the highest and b) takes you closer to the stat r
 Bracers | Irrelevant, open world utility enchants. Safe Hearthing is probably a *safe* bet.
 Gloves | Irrelevant, open world utility enchants. No recommendation to be made here.
 
+**Special Mention** {{ site.data.item.torrent_of_elements }} Is very good for pure single target. However, it does not affect {{ site.data.spell.eq }}, making it lackluster overall.
+
 ## Gems
 
 Socket one {{ site.data.item.int_gem }}, and put {{ site.data.item.crit_gem }} into your remaining sockets.
