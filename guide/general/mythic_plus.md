@@ -1,12 +1,57 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 2018-09-01 09:00:00
+last_update: 2019-06-02 09:00:00
 game_version: 8.0.1 Battle for Azeroth
 author: Naesam
 ---
 
-This page should serve as a reference for how to handle each Mythic+ dungeon. The information on this page assumes you've read the rest of this guide, so we recommend starting at the Talents and Priority pages before coming here. 
+This page will serve as a comprehensive look into talents, traits, and general dungeon advice for Elemental Shamans. Information on this page is written with the assumption that the rest of the guide has been read in full. If you haven't, we highly recommend reading the priority list, talents, and traits section of the guide before continuing here.
+
+### Talents
+We touched on talents for Mythic+ previously in the talents section of the guide. In this section we will be going more in depth to explain each talent selection.
+
+Row 15 | Information
+--- | ---
+{{site.data.talent.er}} | {{site.data.talent.er}} is the recommended talent on this row if you **DO NOT** have TWO or more {{site.data.azerite.igneous_potential}} equipped. This talent requires no attention, it will simply deal damage passively.
+{{site.data.talent.echo}} | {{site.data.talent.echo}} is the recommended talent on this row if you **DO** have TWO or more {{site.data.azerite.igneous_potential}} equipped. This talent will greatly improve your single target and cleave damage, given the proper traits are being used. This talent also synergizes very well with {{site.data.talent.mote}}.
+{{site.data.talent.eb}} | {{site.data.talent.eb}} is currently very undertuned, we don't recommend using this talent under any circumstances.
+Row 30 | Information
+{{ site.data.talent.afs }} | {{site.data.talent.afs}} is the recommended go to talent for dungeons currently. This is a relatively slight loss in single target damage in comparison to {{site.data.talent.tm}}, becomes approximately equal to {{site.data.talent.tm}} on cleave, and becomes superior as more targets become present. This makes {{site.data.talent.afs}} the clear winner in almost every case in dungeon content.
+{{site.data.talent.ctt}} | {{site.data.talent.ctt}} is currently undertuned, and as a result will be strictly worse than {{site.data.talent.afs}} in all situations. Because of this, we recommend avoiding it entirely.
+{{site.data.talent.tm }} | {{site.data.talent.tm}} is generally inferior to {{site.data.talent.afs}} in dungeons. However, if you need every bit of single target DPS you can get, this is an option. For example, you may consider using this talent in a high level Tyrannical King's Rest key to push out as much boss DPS as possible.
+Row 45 | Information
+{{site.data.talent.spirit_wolf}} |  {{site.data.talent.spirit_wolf}} is our recommended default talent. You are able to survive some sticky situations with the free 20% damage reduction, and can even kite enemies quite easily with the additional movement speed on top.
+{{site.data.talent.earth_shield}} | {{site.data.talent.earth_shield}} is currently quite weak. The heal provided by the shield is minimal and requires frequent GCDs to maintain. We recommend you never use this talent.
+{{site.data.talent.static_charge}} | {{site.data.talent.static_charge}} can be situationally useful depending on the dungeon and the composition you are playing with. If you are playing with specs that lack an AoE stun this talent can help pick up the slack. We don't recommend using this talent over {{site.data.talent.spirit_wolf}} often, but it is an okay choice if you feel like you will need it.
+Row 60 | Information
+{{site.data.talent.mote}} | {{site.data.talent.mote}} is recommended if you **DO** have TWO or more {{site.data.azerite.igneous_potential}} equipped and you are also using {{site.data.talent.echo}}. This talent is by far the best for single target damage, given the proper trait set up and the use of {{site.data.talent.echo}}, this also provides a noticeable increase in AoE damage when used properly to empower {{site.data.spell.eq}}.
+{{site.data.talent.se}} | {{site.data.talent.se}} is a very situational talent, if utilized well enough it can provied incredible AoE burst. However, it is very hard to utilize properly, as it requires group coordination and extensive knowledge of the dungeons and the pulls. We recommend inexperienced shamans avoid this talent in dungeons.
+{{site.data.talent.lmt}} | {{ site.data.talent.lmt }} is a nice, fairly easy to use AoE damage option. if you are lacking {{ site.data.azerite.igneous_potential }} traits, we recommend using this talent instead of {{site.data.talent.mote}}
+Row 75 | Information
+{{site.data.talent.natures_guardian}} | {{site.data.talent.natures_guardian}} is a convenient and powerful defensive talent that can help you immensely with staying alive. However, {{site.data.talent.ancestral_guidance}} is also very powerful and can help the group stay alive. We generally recommend {{ site.data.talent.natures_guardian }} as the default if you are not comfortable enough with each dungeon to know the optimal times to heal the group. Additionally, we recommend always using {{site.data.talent.natures_guardian}} in Tyrannical King's Rest keys, as nearly every boss has a very dangerous ability that often targets DPS players.
+{{site.data.talent.ancestral_guidance}} | {{site.data.talent.ancestral_guidance}} has potential to be incredibly powerful during large AoE pulls when the group is taking high amounts of damage, we recommend taking this talent as soon as you are comfortable enough to survive without {{site.data.talent.natures_guardian}}, and have a feel for the times the group may need additional healing. Something to keep in mind about {{site.data.talent.ancestral_guidance}} is it also heals off of your healing done, not just your damage. This allows you to do a decent amount of healing during single target encounters as well by using {{site.data.spell.healing_surge}}. A little known fact about {{site.data.talent.ancestral_guidance}} is it also does additional healing off of Healthstones and healing potions. If you are low health and use {{site.data.talent.ancestral_guidance}} along with Healthstone, healing potion, and a few healing surges, you can easily do upwards of 400-500k healing.
+{{site.data.talent.wind_rush_totem}} | Unless necessary for an elaborate skip, I don't see any situation in which you would need/want {{site.data.talent.wind_rush_totem}} in a dungeon.
+Row 90 | Information
+{{site.data.talent.sop}} | {{site.data.talent.sop}} is simply not fitting for dungeons, as it requires high uptime and frequent use of {{site.data.spell.es}} to be useful. We recommend you never use this in a dungeon.
+{{site.data.talent.pe}} | {{site.data.talent.pe}} is our recommended default choice. This not only empowers your {{site.data.spell.fe}} or {{site.data.spell.se}}, allowing you to do additional damage on AoE. This also empowers your {{site.data.spell.ee}} which can be incredibly powerful in dungeons. We highly recommend communicating with the tank and making liberal use of your empowered {{site.data.spell.ee}}. It is especially powerful on Reaping, as it does not currently take stacks of Reap Soul, allowing it to tank the Reaping enemies even better than a real player tank could. This is often used in order to pull a Reaping in to another pack of mobs.
+{{site.data.talent.if}} | {{site.data.talent.if}} will generally be worse than {{site.data.talent.pe}} in dungeons. Not only is {{site.data.talent.if}} primarily useful for single target, whereas {{site.data.talent.pe}} benefits AoE as well. {{site.data.talent.if}} also lacks the controllable {{site.data.spell.ee}}, which can make a huge difference. There could be an argument for {{site.data.talent.if}} in a high Tyrannical Kings Rest, as most of the danger in the instance are single target bosses. However, even here you will severely miss your powerful {{site.data.spell.ee}} on Berserkers (it can soak the bleed), and {{site.data.spell.harden_skin}} for the dangerous bosses.
+Row 100 | Information
+{{site.data.talent.up}} | {{site.data.talent.up}} suffers heavily from the hidden modifier on {{site.data.spell.cl}}, reducing the overload chance to merely 1/3rd of your mastery. This leaves this talent essentially dead in the water. We recommend avoiding it entirely.
+{{site.data.talent.sk}} | {{site.data.talent.sk}} is a very powerful AoE and single target cooldown. We recommend you always use this talent in dungeons, as it is significantly stronger than the alternatives.
+{{site.data.talent.asc}} | {{site.data.talent.asc}} is a mediocre single target cooldown and an even weaker AoE cooldown, we recommend avoiding it entirely.
+
+### Traits
+
+Dungeon traits are very similar to raid traits for Elemental Shamans. The sheer power of {{site.data.azerite.igneous_potential}} leaves us wanting three, even in dungeons. The only situations we might consider using less than three {{site.data.azerite.igneous_potential}} in is a Fortified Motherlode key, or a Fortified Teeming Freehold key, simply due to the abundance and importance of AoE.
+
+Along side your {{site.data.azerite.igneous_potential}} traits, any combination of the following traits will do very well in general:
+- {{site.data.azerite.natural_harmony}}
+- {{site.data.azerite.blightborne_infusion}}
+- {{site.data.azerite.treacherous_covenant}}
+- {{site.data.azerite.swirling_sands}}
+
+Additionally, {{site.data.azerite.tectonic_thunder}} is a controversial trait. It can be quite powerful for frequent heavy AoE, but it provides nothing for single target. For Fortified this trait will do quite well. However, the main issue with this trait is there are very few pieces of gear with both {{site.data.azerite.igneous_potential}} and {{site.data.azerite.tectonic_thunder}} available at the same time, and there aren't many situations in which you would want to drop an {{site.data.azerite.igneous_potential}} in favor of a {{site.data.azerite.tectonic_thunder}}. The only situation that comes to mind would be a Fortified Motherlode.
 
 <p style="color:red">Click/tap on a dungeon's header image to expand it.</p>
 
