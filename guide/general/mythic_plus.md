@@ -2,7 +2,7 @@
 layout: page
 title: "Mythic+ Guide"
 last_update: 2019-06-02 09:00:00
-game_version: 8.0.1 Battle for Azeroth
+game_version: 8.1.5 Battle for Azeroth
 author: Naesam
 ---
 
@@ -27,7 +27,7 @@ Row 45 | Information
 Row 60 | Information
 {{site.data.talent.mote}} | {{site.data.talent.mote}} is recommended if you **DO** have TWO or more {{site.data.azerite.igneous_potential}} equipped and you are also using {{site.data.talent.echo}}. This talent is by far the best for single target damage, given the proper trait set up and the use of {{site.data.talent.echo}}, this also provides a noticeable increase in AoE damage when used properly to empower {{site.data.spell.eq}}.
 {{site.data.talent.se}} | {{site.data.talent.se}} is a very situational talent, if utilized well enough it can provied incredible AoE burst. However, it is very hard to utilize properly, as it requires group coordination and extensive knowledge of the dungeons and the pulls. We recommend inexperienced shamans avoid this talent in dungeons.
-{{site.data.talent.lmt}} | {{ site.data.talent.lmt }} is a nice, fairly easy to use AoE damage option. if you are lacking {{ site.data.azerite.igneous_potential }} traits, we recommend using this talent instead of {{site.data.talent.mote}}
+{{site.data.talent.lmt}} | {{ site.data.talent.lmt }} is a nice, fairly easy to use AoE damage option. If you are lacking {{site.data.azerite.igneous_potential}} traits, we recommend using this talent instead of {{site.data.talent.mote}}
 Row 75 | Information
 {{site.data.talent.natures_guardian}} | {{site.data.talent.natures_guardian}} is a convenient and powerful defensive talent that can help you immensely with staying alive. However, {{site.data.talent.ancestral_guidance}} is also very powerful and can help the group stay alive. We generally recommend {{ site.data.talent.natures_guardian }} as the default if you are not comfortable enough with each dungeon to know the optimal times to heal the group. Additionally, we recommend always using {{site.data.talent.natures_guardian}} in Tyrannical King's Rest keys, as nearly every boss has a very dangerous ability that often targets DPS players.
 {{site.data.talent.ancestral_guidance}} | {{site.data.talent.ancestral_guidance}} has potential to be incredibly powerful during large AoE pulls when the group is taking high amounts of damage, we recommend taking this talent as soon as you are comfortable enough to survive without {{site.data.talent.natures_guardian}}, and have a feel for the times the group may need additional healing. Something to keep in mind about {{site.data.talent.ancestral_guidance}} is it also heals off of your healing done, not just your damage. This allows you to do a decent amount of healing during single target encounters as well by using {{site.data.spell.healing_surge}}. A little known fact about {{site.data.talent.ancestral_guidance}} is it also does additional healing off of Healthstones and healing potions. If you are low health and use {{site.data.talent.ancestral_guidance}} along with Healthstone, healing potion, and a few healing surges, you can easily do upwards of 400-500k healing.
