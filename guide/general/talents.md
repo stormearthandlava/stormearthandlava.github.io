@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Talents
-last_update: 2019-01-30 09:00:00
-game_version: 8.1.0 Battle for Azeroth
+last_update: 2019-06-02 09:00:00
+game_version: 8.1.5 Battle for Azeroth
 toc: true
 ---
 
@@ -13,12 +13,12 @@ Many more talent combinations may work. We're listing the most robust ones (for 
 Type | Talent combination
 --- | ---
 Questing / Solo&nbsp;Content | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.earth_shield }}<br> 60: {{ site.data.talent.se }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.sop }}<br> 100: {{ site.data.talent.sk }}
-Mythic+ | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.afs }}<br> 45: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 60: {{ site.data.talent.se }} **OR** {{ site.data.talent.lmt }} <br> 75: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 90: {{ site.data.talent.pe }} **OR** {{ site.data.talent.if }}<br> 100: {{site.data.talent.sk}}
-Raid / Single&nbsp;Target | 15: {{ site.data.talent.echo }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.mote }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.if }}<br> 100: {{ site.data.talent.sk }}
+Mythic+ | 15: {{ site.data.talent.echo }} **OR** {{ site.data.talent.er }}<br> 30: {{ site.data.talent.afs }}<br> 45: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 60: {{ site.data.talent.mote }} **OR** {{ site.data.talent.se }} <br> 75: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{site.data.talent.sk}}
+Raid / Single&nbsp;Target | 15: {{ site.data.talent.echo }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.mote }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.if }} **OR** {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.sk }}
 
-**Special Mention** {{ site.data.talent.sop }} can depending on fight length surpass {{ site.data.talent.pe }}. The downside is: you need to figure out on the fly which effect of {{ site.data.talent.sop }} you actually need. Check out logs!
+**Special Mention** {{ site.data.talent.sop }} can depending on fight length surpass {{ site.data.talent.pe }} and {{ site.data.talent.if }}. The downside is: you need to figure out on the fly which effect of {{ site.data.talent.sop }} you actually need. Check out logs! Additionally, {{ site.data.talent.pe }} Is fairly close to {{ site.data.talent.if }} on single target, and is generally more powerful when multiple targets are present. We recommend inexperienced shamans use {{ site.data.talent.pe }} regardless, as {{ site.data.talent.if }} is significantly more complex.
 
-**Special Mention** The "Raid / Single Target" talent combination assumes you have access to two or more {{ site.data.azerite.igneous_potential }}. Which should be fairly easy in Battle for Dazar'Alor.
+**Special Mention** The "Raid / Single Target" talent combination assumes you have access to two or more {{ site.data.azerite.igneous_potential }}. Which should be fairly easy in Battle for Dazar'Alor. Additionally, the Mythic+ section represents combinations with and without {{ site.data.azerite.igneous_potential }}. The talents listed first for each row favor the trait, the talents listed on the right are recommended if you do not have {{ site.data.azerite.igneous_potential }}. Please view the mythic+ section of the website for more information regarding these selections!
 
 There are other talent combinations that peform close to these or sometimes even better. So please make sure to sim your character if you suspect that something else is a better general choice.
 
@@ -158,8 +158,8 @@ Click the talent row text to expand.
                 <p markdown="1"> This changes your {{site.data.spell.fe}}, {{site.data.spell.ee}}, and {{site.data.talent.se}} into pets you can control instead of simple fire-and-forget guardians. The effects of {{site.data.talent.pe}} are listed for each elemental below:</p>
                 <ul>
                     <li>{{site.data.spell.fe}} - gains {{site.data.spell.immolate}} and {{site.data.spell.meteor}}; a DoT and AOE attack with short cooldowns.</li>
-                    <li>{{site.data.spell.ee}} - gains {{site.data.spell.harden_skin}}, a damage reduction cooldown that grants *both the Shaman and the {{site.data.spell.ee}} a 40% damage reduction buff for 10 seconds. Despite this being on a one minute cooldown, it is effectively a 5 minute cooldown as the {{site.data.spell.ee}} can only cast it once in its lifetime. Also gains {{site.data.spell.pulverize}}, a decent single target stun on a long CD -- usable twice in the {{ site.data.spell.ee }}'s lifetime. Lastly, gains {{site.data.spell.angered_earth}}, a toggleable AOE taunt. We recommend turning this off auto-cast unless you are looking to use {{site.data.spell.ee}} for its aggro purposes.</li>
-                    <li>{{site.data.talent.se}} - gains {{site.data.spell.eye_of_the_storm_damage}} a long CD AoE burst cooldown and {{site.data.spell.call_lightning}} to buff its own damage.</li>
+                    <li>{{site.data.spell.ee}} - gains {{site.data.spell.harden_skin}}, a damage reduction cooldown that grants both the Shaman and the {{site.data.spell.ee}} a 40% damage reduction buff for 10 seconds. Despite this being on a one minute cooldown, it is effectively a 5 minute cooldown as the {{site.data.spell.ee}} can only cast it once in its lifetime. Also gains {{site.data.spell.pulverize}}, a decent single target stun on a long CD -- usable twice in the {{ site.data.spell.ee }}'s lifetime. Lastly, gains {{site.data.spell.angered_earth}}, a toggleable AOE taunt. This will not cause the elemental to get aggro on bosses, but it will generally work on trash or enemies summoned by bosses. While this can be incredibly useful at times, beware of accidentally misplacing enemies during an encounter.</li>
+                    <li>{{site.data.talent.se}} - gains {{site.data.spell.eye_of_the_storm_damage}} a long CD AoE burst cooldown and will retain {{site.data.spell.call_lightning}} from its non primal form. {{site.data.spell.call_lightning}} does empower {{site.data.spell.eye_of_the_storm_damage}}, dealing significant damage.</li>
                 </ul>
                 <hr><br>
                 <h4>{{site.data.talent.if}} (IF)</h4>
@@ -209,5 +209,5 @@ The first talent synergy we'll discuss is that of {{ site.data.talent.mote }} an
 
 #### Storm Elemental and Primal Elementalist
 
-These two talents have a direct 'synergy' in that taking them together gets you access to additional abilities for {{site.data.talent.se}}. As per the talent rows above: {{site.data.talent.se}} gains {{site.data.spell.eye_of_the_storm_damage}} a long CD AoE burst cooldown and {{site.data.spell.call_lightning}} to buff its own damage.
+These two talents have a direct 'synergy' in that taking them together gets you access to an additional ability for {{site.data.talent.se}} that synergizes very well with it's default abilities. As per the talent rows above: {{site.data.talent.se}} gains {{site.data.spell.eye_of_the_storm_damage}} a long CD AoE burst cooldown. When used with the buff from {{site.data.spell.call_lightning}} this will deal significant damage.
 
