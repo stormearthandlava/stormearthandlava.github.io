@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Consumables
-last_update: 2018-12-07 09:00:00
-game_version: 8.1.0 Battle for Azeroth
+last_update: 2019-06-04 09:00:00
+game_version: 8.1.5 Battle for Azeroth
 toc: true
 ---
 
