@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Consumables
-last_update: 2018-12-07 09:00:00
-game_version: 8.1.0 Battle for Azeroth
+last_update: 2019-06-04 09:00:00
+game_version: 8.1.5 Battle for Azeroth
 toc: true
 ---
 
@@ -29,6 +29,8 @@ Weapon | {{ site.data.item.deadly_navigation }} **OR** {{ site.data.item.quick_n
 Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above.
 Bracers | Irrelevant, open world utility enchants. Safe Hearthing is probably a *safe* bet.
 Gloves | Irrelevant, open world utility enchants. No recommendation to be made here.
+
+**Special Mention** {{ site.data.item.torrent_of_elements }} Is very good for pure single target. However, it does not affect {{ site.data.spell.eq }}, making it lackluster overall.
 
 ## Gems
 
