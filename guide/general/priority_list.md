@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Priority List
-last_update: 2019-02-09 09:00:00
-game_version: 8.1.0 Battle for Azeroth
+last_update: 2019-06-02 09:00:00
+game_version: 8.1.5 Battle for Azeroth
 toc: true
 ---
 
@@ -126,6 +126,7 @@ After reading the APL, please pay attention to the special mentions below, becau
 
 **Special mention** {{ site.data.spell.fs }} can be maintained at 4 targets and should be, if you can ensure that they all live at least 80% of the duration. Because this is usually not the case, we opted to write 3 as the maximum number of spreads. Tread carefully, as this could otherwise backfire.
 
+**Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. *IF* you have two or more {{ site.data.azerite.igneous_potential }} equipped, it is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply flame shock to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier.
 
 ## Openers
 
