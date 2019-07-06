@@ -1,8 +1,8 @@
 ---
 layout: page
 title: WeakAuras
-last_update: 2018-07-16 09:00:00
-game_version: 8.0.1 Battle for Azeroth
+last_update: 2019-07-06 09:00:00
+game_version: 8.2.0 Battle for Azeroth
 toc: true
 ---
 

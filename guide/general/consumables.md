@@ -1,22 +1,22 @@
 ---
 layout: page
 title: Consumables
-last_update: 2019-06-04 09:00:00
-game_version: 8.1.5 Battle for Azeroth
+last_update: 2019-07-06 09:00:00
+game_version: 8.2.0 Battle for Azeroth
 toc: true
 ---
 
 ## Flask
-{{ site.data.item.mystical_cauldron }} and {{ site.data.item.int_flask }} are equal.
+{{ site.data.item.greater_mystical_cauldron }} and {{ site.data.item.big_int_flask }} are equal.
 
 ## Food
-1. {{ site.data.item.feast }}
-1. {{ site.data.item.boralus_blood_sausage }}
-1. {{ site.data.item.crit_food }}
-1. {{ site.data.item.haste_food }}
+1. {{ site.data.item.big_feast }}
+1. {{ site.data.item.big_crit_food }}
+1. {{ site.data.item.big_haste_food }}
 
 ## Potion
-- {{ site.data.item.int_pot }}
+1. {{ site.data.item.potion_of_unbridled_fury }}
+1. {{ site.data.item.big_int_pot }}
 
 ## Rune
 - {{ site.data.item.rune }}
@@ -25,7 +25,7 @@ toc: true
 
 Gear slot | Enchant
 --- | ---
-Weapon | {{ site.data.item.deadly_navigation }} **OR** {{ site.data.item.quick_navigation }}.
+Weapon | {{ site.data.item.machinists_brilliance }} **OR** {{ site.data.item.deadly_navigation }} **OR** {{ site.data.item.quick_navigation }}.
 Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above.
 Bracers | Irrelevant, open world utility enchants. Safe Hearthing is probably a *safe* bet.
 Gloves | Irrelevant, open world utility enchants. No recommendation to be made here.
@@ -34,4 +34,4 @@ Gloves | Irrelevant, open world utility enchants. No recommendation to be made h
 
 ## Gems
 
-Socket one {{ site.data.item.int_gem }}, and put {{ site.data.item.crit_gem }} into your remaining sockets.
+Socket one {{ site.data.item.big_int_gem }}, and put {{ site.data.item.big_crit_gem }} into your remaining sockets.

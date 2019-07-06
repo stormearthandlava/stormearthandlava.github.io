@@ -1,8 +1,8 @@
 ---
 layout: highcharts_page
 title: Gear guide
-last_update: 2019-01-30 09:00:00
-game_version: 8.1.0 Battle for Azeroth
+last_update: 2019-07-06 09:00:00
+game_version: 8.2.0 Battle for Azeroth
 toc: true
 ---
 

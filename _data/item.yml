@@ -22,6 +22,8 @@ int_flask: <a href="https://bfa.wowhead.com/item=152639" target="blank">Flask of
 
 mystical_cauldron: <a href="https://bfa.wowhead.com/item=162519" target="blank">Mystical Cauldron</a>
 
+greater_mystical_cauldron: <a href="https://bfa.wowhead.com/item=168656" target="blank">Greater Mystical Cauldron</a>
+
 coastal_healing_potion: <a href="https://bfa.wowhead.com/item=152494" target="blank">Coastal Healing Potion</a>
 
 potion_of_concealment: <a href="https://bfa.wowhead.com/item=152503" target="blank">Potion of Concealment</a>
@@ -93,3 +95,50 @@ vers_gem: <a href="https://bfa.wowhead.com/item=154128" target="blank">Versatile
 
 battlescarred_augent_rune: <a href="https://bfa.wowhead.com/item=160053" target="blank">Battle-Scarred Augment Rune</a>
 rune: <a href="https://bfa.wowhead.com/item=160053" target="blank">Battle-Scarred Augment Rune</a>
+
+potion_of_empowered_proximity: <a href="https://bfa.wowhead.com/item=168529" target="blank">Potion of EMpowered Proximity</a>
+
+potion_of_focused_resolve: <a href="https://bfa.wowhead.com/item=168506" target="blank">Potion of Focused Resolve</a>
+
+potion_of_unbridled_fury: <a href="https://bfa.wowhead.com/item=169299" target="blank">Potion of Unbridled Fury</a>
+
+superior_battle_potion_of_intellect: <a href="https://bfa.wowhead.com/item=168498" target="blank">Superior Battle Potion of Intellect</a>
+big_int_pot: <a href="https://bfa.wowhead.com/item=168498" target="blank">Superior Battle Potion of Intellect</a>
+
+greater_flask_of_endless_fathoms: <a href="https://bfa.wowhead.com/item=168652" target="blank">Greater Flask of Endless Fathoms</a>
+big_int_flask: <a href="https://bfa.wowhead.com/item=168652" target="blank">Greater Flask of Endless Fathoms</a>
+
+abyssalfried_rissole: <a href="https://bfa.wowhead.com/item=168311" target="blank">Abyssal-Fried Risolle</a>
+big_mastery_food: <a href="https://bfa.wowhead.com/item=168311" target="blank">Abyssal-Fried Risolle</a>
+
+baked_port_tato: <a href="https://bfa.wowhead.com/item=168313" target="blank">Baked Port Tato</a>
+big_haste_food: <a href="https://bfa.wowhead.com/item=168313" target="blank">Baked Port Tato</a>
+
+biltong: <a href="https://bfa.wowhead.com/item=168314" target="blank">Bil'Tong</a>
+big_vers_food: <a href="https://bfa.wowhead.com/item=168314" target="blank">Bil'Tong</a>
+
+fragrant_kakavia: <a href="https://bfa.wowhead.com/item=168312" target="blank">Fragrant Kakvia</a>
+big_stam_food: <a href="https://bfa.wowhead.com/item=168312" target="blank">Fragrant Kakvia</a>
+
+mechdowels_big_mech: <a href="https://bfa.wowhead.com/item=168310" target="blank">Mech-Dowel's "Big Mech"</a>
+big_crit_food: <a href="https://bfa.wowhead.com/item=168310" target="blank">Mech-Dowel's "Big Mech"</a>
+
+famine_evaluator_and_snack_table: <a href="https://bfa.wowhead.com/item=168315" target="blank">Famine Evaluator And Snack Table</a>
+big_feast: <a href="https://bfa.wowhead.com/item=168315" target="blank">Famine Evaluator And Snack Table</a>
+
+machinists_brilliance: <a href="https://bfa.wowhead.com/item=168593" target="blank">Enchant Weapon - Machinist's Brilliance</a>
+
+deadly_lava_lazuli: <a href="https://bfa.wowhead.com/item=168639" target="blank">Deadly Lava Lazuli</a>
+big_crit_gem: <a href="https://bfa.wowhead.com/item=168639" target="blank">Deadly Lava Lazuli</a>
+
+masterful_sea_currant: <a href="https://bfa.wowhead.com/item=168640" target="blank">Masterful Sea Currant</a>
+big_mastery_gem: <a href="https://bfa.wowhead.com/item=168640" target="blank">Masterful Sea Currant</a>
+
+quick_sand_spinel: <a href="https://bfa.wowhead.com/item=168641" target="blank">Quick Sand Spinel</a>
+big_haste_gem: <a href="https://bfa.wowhead.com/item=168641" target="blank">Quick Sand Spinel</a>
+
+versatile_dark_opal: <a href="https://bfa.wowhead.com/item=168642" target="blank">Versatile Dark Opal</a>
+big_vers_gem: <a href="https://bfa.wowhead.com/item=168642" target="blank">Versatile Dark Opal</a>
+
+leviathans_eye_of_intellect: <a href="https://bfa.wowhead.com/item=168638" target="blank">Leciathan's Eye of Intellect</a>
+big_int_gem: <a href="https://bfa.wowhead.com/item=168638" target="blank">Leciathan's Eye of Intellect</a>

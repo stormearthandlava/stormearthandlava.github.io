@@ -1,8 +1,8 @@
 ---
 layout: highcharts_page
 title: Azerite Traits
-last_update: 2019-01-30 09:00:00
-game_version: 8.1.0 Battle for Azeroth
+last_update: 2019-07-06 09:00:00
+game_version: 8.2.0 Battle for Azeroth
 toc: true
 ---
 
@@ -59,6 +59,9 @@ This has the advantage of additional movement globals / stutter stepping. Having
 ### Tectonic Thunder
 Pure AoE trait, that enables occasional {{ site.data.spell.cl }} instant casts. Additionally stacking this trait can push {{ site.data.spell.eq }} damage to the level of or slightly higher than {{ site.data.spell.es }} on single target. While this is not a wise choice to do so (because other traits are actual gains on single target and thus preferrable), it could reincarnate the {{ site.data.spell.eq }} on single target meme from Tomb of Sargeras.
 
+
+## Azerite Essences
+Read the [essences]({{ site.baseurl }}{% link guide/general/azerite_essences.md %}) page in this guide.
 
 ## Azerite Items
 Read the [gear]({{ site.baseurl }}{% link guide/general/gear.md %}) page in this guide.
