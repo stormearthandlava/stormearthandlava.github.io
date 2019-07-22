@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Finding breakpoints
+excerpt: A guides search for breakpoints, what they are, and how to calculate them
 date: 2019-01-05 09:00:00
 author: Bloodmallet(EU)
 ---
