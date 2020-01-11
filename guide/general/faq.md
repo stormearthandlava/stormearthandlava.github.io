@@ -1,8 +1,8 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 2019-07-06 09:00:00
-game_version: 8.2.0 Battle for Azeroth
+last_update: 2020-01-11 09:00:00
+game_version: 8.3.0 Battle for Azeroth
 toc: true
 ---
 
@@ -36,17 +36,19 @@ In general, stop using {{ site.data.spell.es }} against two targets or more. But
 
 *Note: This only applies when talented into* {{ site.data.talent.pe }}.
 
-Since the cooldown of {{ site.data.spell.meteor }} is the same as the duration of Primal Fire Elemental, save it for a period of AOE within the Elemental's lifetime.  If there is no upcoming AOE, cast it immediately.  Make sure to bind it to a key. Check out the macro section of this page, if you need help with that.
+Since the cooldown of {{ site.data.spell.meteor }} is the same as the duration of Primal Fire Elemental, save it for a period of AOE within the Elemental's lifetime. If there is no upcoming AOE, cast it immediately.  Make sure to bind it to a key. Check out the macro section of this page, if you need help with that.
 
 ### Q: "Is there a way to enable/disable Earth Elemental taunt without screwing up my autocast settings of the DPS Elemental?"
 
 *Note: This only applies when talented into* {{ site.data.talent.pe }}.
 
-Not that we're aware of. The Elementals' autocast settings are shared between the Elemental pets. If you deactivate or activate it on one button, the matching button of the other Elementals will share that setting. We hope, that this will be changed.
+~~Not that we're aware of. The Elementals' autocast settings are shared between the Elemental pets. If you deactivate or activate it on one button, the matching button of the other Elementals will share that setting.~~ We hope, that this will be changed.
+
+It was changed! 8.3 introduces separate toggle states for all three Elementals and their casts. This now should no longer pose an issue.
 
 ### Q: "Do I use Lava Burst during Storm Elemental?"
 
-No. During {{ site.data.talent.se }} uptime you want to only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }}. Not even {{ site.data.spell.fs }}. But make sure to refresh {{ site.data.spell.fs }} before summoning your {{ site.data.talent.se }}, though.
+Yes. No. It depends on the number of {{ site.data.azerite.igneous_potential }} you have active on your equip. Check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) and special notes on that website for in depth information.
 
 ### Q: "What are some useful Macros?"
 

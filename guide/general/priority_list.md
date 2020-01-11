@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Priority List
-last_update: 2019-07-06 09:00:00
-game_version: 8.2.0 Battle for Azeroth
+last_update: 2020-01-11 09:00:00
+game_version: 8.3.0 Battle for Azeroth
 toc: true
 ---
 
@@ -35,20 +35,20 @@ After reading the APL, please pay attention to the special mentions below, becau
                 <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}, and the buff would expire during {{site.data.talent.asc}}.</li>
             </ul>
         </li>
-        <li> Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).</li>
+        <li> Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown. But don't screw your group with {{ site.data.spell.ee }}.</li>
         <li> Cast {{ site.data.spell.fs }} when any of the following are true:
             <ul>
                 <li>It is not active on the target.</li>
                 <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}.</li>
                 <li>The debuff's duration is at or below 7 seconds remaining.</li>
-                <li class="se-apl" style="display: none;"><strong>Special warning:</strong> Don't refresh {{ site.data.spell.fs }} if you have 14 stacks or more of {{ site.data.spell.wind_gust }} during {{ site.data.talent.se }}. </li>
+                <li class="se-apl" style="display: none;"><strong>Special warning:</strong> Don't refresh {{ site.data.spell.fs }} if you have 14 stacks or more of {{ site.data.spell.wind_gust }} during {{ site.data.talent.se }}. Unless you have {{ site.data.azerite.igneous_potential }} at least twice. </li>
             </ul>
         </li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.talent.asc }} on cooldown, if neither {{ site.data.talent.se }} is active, nor {{ site.data.spell.lvb }} is available, nor {{ site.data.talent.if }} is active.</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} on cooldown, if neither {{ site.data.talent.se }} is active nor you could cast a {{ site.data.talent.mote }} empowered {{ site.data.spell.es }} instead.</li>
         <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.talent.sk }} on cooldown and ideally game it with {{ site.data.talent.sop }} if you selected this talent. See special cases below for more information.</li>
-        <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
-        <li>Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies.</li>
+        <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown. Ideally paired with {{ site.data.azerite.worldvein }}, if that's your major essence.</li>
+        <li>Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies and it can do at least 8 ticks. If you use {{ site.data.azerite.lava_shock }} this changes to using {{ site.data.spell.eq }} at three or more targets.</li>
         <li class="sk-apl" style="display: list-item;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.sk }} is active and when any of the following are true (if you don't see any following conditions, ignore this line):
             <ul>
                 <li class="mote-apl" style="display: list-item;">{{ site.data.talent.mote }} is active and {{ site.data.talent.sop }} is NOT selected.</li>
@@ -57,16 +57,16 @@ After reading the APL, please pay attention to the special mentions below, becau
         </li>
         <li>Cast {{ site.data.spell.es }}. But read the special cases about delaying {{ site.data.spell.es }} casts.</li>
         <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.se }} is active.</li>
-        <li class="if-apl" style="display: list-item;">Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff and {{ site.data.talent.mote }} buff active.</li>
+        <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff and {{ site.data.talent.mote }} buff active.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.talent.asc }} is active.</li>
-        <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lvb }} with {{ site.data.talent.sop }} if you could get another use out of {{ site.data.talent.se }} or lengthen its last possible duration within the fight.</li>
+        <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lvb }} with {{ site.data.talent.sop }} if you could get another use out of {{ site.data.talent.se }}/{{ site.data.spell.fe }} or lengthen its last possible duration within the fight.</li>
         <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lb }} with {{ site.data.talent.sop }} buff active.</li>
         <li>Cast {{site.data.spell.lvb }}.</li>
-        <li class="if-apl" style="display: list-item;">Cast {{site.data.spell.frs}} with the {{site.data.talent.if}} buff active.</li>
+        <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.talent.if }} on cooldown.</li>
         <li class="tm-apl" style="display: list-item;">Refresh {{ site.data.talent.tm }} if its duration is at or below 9 seconds remaining.</li>
         <li>Cast {{ site.data.spell.lb }} as a filler.</li>
-        <li>Cast {{site.data.spell.frs}} in place of {{site.data.spell.lb}} while moving, even if you do not have {{site.data.talent.if}}.</li>
+        <li>Cast {{ site.data.spell.frs }} in place of {{ site.data.spell.lb }} while moving, even if you do not have {{ site.data.talent.if }}.</li>
     </ol>
 </div>
 
@@ -75,7 +75,7 @@ After reading the APL, please pay attention to the special mentions below, becau
 #### {{ site.data.talent.mote }}
 - Change: Delay {{ site.data.spell.es }} to cast it with {{ site.data.talent.mote }} instead.
 - Priority of casts you want to empower with {{ site.data.talent.mote }} from best to worst:
-    1. {{ site.data.spell.eq }} if two or more targets are in its effect
+    1. {{ site.data.spell.eq }} if two or more targets are in its effect (unless {{ site.data.azerite.lava_shock }} is present at low target count )
     1. {{ site.data.spell.lb }} with {{ site.data.talent.sk }}
     1. {{ site.data.spell.es }}
     1. {{ site.data.spell.frs }} with {{ site.data.talent.if }}
@@ -99,6 +99,10 @@ After reading the APL, please pay attention to the special mentions below, becau
     - {{ site.data.spell.es }}
     - {{ site.data.spell.lb }}
 
+#### {{ site.data.talent.se }} + {{ site.data.talent.pe }}
+Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an incredible AoE CD and very useful for single target as well. Check out our FAQ for macros if you need help with that.
+
+
 #### {{ site.data.talent.sop }} + 2 targets
 - Change: as long as both targets don't have {{ site.data.spell.fs }} or are in refreshable duration and spread range, use {{ site.data.spell.es }} once to spread {{ site.data.spell.fs }} to both with {{ site.data.talent.sop }}.
 
@@ -117,8 +121,8 @@ After reading the APL, please pay attention to the special mentions below, becau
         <li class="sk-apl">Cast {{ site.data.talent.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
         <li>Maintain 3 {{ site.data.spell.fs }}s if there are 3 targets.</li>
-        <li>Cast {{ site.data.spell.eq }} when available. (Try gaming {{ site.data.talent.mote }} if fighting 3 stacked targets.)</li>
-        <li>Cast {{ site.data.spell.lvb }} to consume {{site.data.spell.lava_surge}} procs when {{ site.data.talent.se }} is not active and you're fighting only 3 targets.</li>
+        <li>Cast {{ site.data.spell.eq }} when available. (Try gaming {{ site.data.talent.mote }}.)</li>
+        <li>Cast {{ site.data.spell.lvb }} to consume {{ site.data.spell.lava_surge }} procs when {{ site.data.talent.se }} is not active and you're fighting only 3 targets.</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} if there are 3 targets.</li>
         <li>Cast {{ site.data.spell.cl }}.</li>
     </ol>
@@ -171,7 +175,9 @@ No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if 
 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
-During single target you'll want to only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }}. During AoE {{ site.data.spell.cl }} becomes quickly more worth than {{ site.data.spell.lvb }}. Nonetheless you should use {{ site.data.spell.eq }}.
+With 2 or more {{ site.data.azerite.igneous_potential }}: Keep using {{ site.data.spell.lvb }} on single target.
+
+Else: During single target you'll want to only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }}. During AoE {{ site.data.spell.cl }} becomes quickly more worth than {{ site.data.spell.lvb }}. Nonetheless you should use {{ site.data.spell.eq }}.
 
 > "I should cast {{ site.data.spell.fs }} at 7.2 seconds remaining or lower!"
 
@@ -184,14 +190,6 @@ Yes, the shorter the remaining duration, the less likely it is for you to need a
 > "I should try to keep {{ site.data.azerite.natural_harmony }} active with {{ site.data.spell.frs }}!"
 
 No.
-
-## Warning about Primal Elementalist
-
-<p id="pe">A problem that has existed for a while now is {{site.data.talent.pe}} causing {{site.data.spell.fe}} and {{site.data.spell.ee}} to be exclusive with each other (intended) but the dps Elemental has the higher Priority. Summoning the dps Elemental first will put {{site.data.spell.ee}} on CD when used without spawning it. Summoning {{site.data.spell.ee}} first will despawn it when summoning the DPS Elemental second.</p>
-
-In addition all Elementals have autocasts. If you disable one on one Elemental all other Elementals will have that ability deactivated too. This is very annoying and we hope for a fix.
-
-Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an incredible AoE CD and very useful for single target as well. Check out our FAQ for macros if you need help with that.
 
 
 <script>

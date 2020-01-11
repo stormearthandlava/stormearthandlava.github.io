@@ -24,17 +24,13 @@ categories:
       url: /guide/general/weak_auras.html
     - title: F.A.Q.
       url: /guide/general/faq.html
-    - title: Mythic+
-      url: /guide/general/mythic_plus.html
-    - title: Leveling
-      url: /guide/general/leveling.html
+- title: Mythic+
+  url: /guide/general/mythic_plus.html
 
-- title: Raids
-  subcategories:
-    - title: Antorus
-      url: /guide/raids/antorus.html
-    - title: Uldir
-      url: /guide/raids/uldir.html
+# - title: Raids
+#   subcategories:
+#     - title: Uldir
+#       url: /guide/raids/uldir.html
     #
     #    - title: Boss1
     #      url: /guide/raids/uldir/boss1.html

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Talents
-last_update: 2019-07-06 09:00:00
-game_version: 8.2.0 Battle for Azeroth
+last_update: 2020-01-11 09:00:00
+game_version: 8.3.0 Battle for Azeroth
 toc: true
 ---
 
@@ -18,7 +18,7 @@ Raid / Single&nbsp;Target | 15: {{ site.data.talent.echo }}<br> 30: {{ site.data
 
 **Special Mention** {{ site.data.talent.sop }} can depending on fight length surpass {{ site.data.talent.pe }} and {{ site.data.talent.if }}. The downside is: you need to figure out on the fly which effect of {{ site.data.talent.sop }} you actually need. Check out logs! Additionally, {{ site.data.talent.pe }} Is fairly close to {{ site.data.talent.if }} on single target, and is generally more powerful when multiple targets are present. We recommend inexperienced shamans use {{ site.data.talent.pe }} regardless, as {{ site.data.talent.if }} is significantly more complex.
 
-**Special Mention** The "Raid / Single Target" talent combination assumes you have access to two or more {{ site.data.azerite.igneous_potential }}. Which should be fairly easy in Battle for Dazar'Alor. Additionally, the Mythic+ section represents combinations with and without {{ site.data.azerite.igneous_potential }}. The talents listed first for each row favor the trait, the talents listed on the right are recommended if you do not have {{ site.data.azerite.igneous_potential }}. Please view the mythic+ section of the website for more information regarding these selections!
+**Special Mention** The "Raid / Single Target" talent combination assumes you have access to two or more {{ site.data.azerite.igneous_potential }}. Which should be fairly easy in Ny'alotha. Additionally, the Mythic+ section represents combinations with and without {{ site.data.azerite.igneous_potential }}. The talents listed first for each row favor the trait, the talents listed on the right are recommended if you do not have {{ site.data.azerite.igneous_potential }}. Please view the mythic+ section of the website for more information regarding these selections!
 
 There are other talent combinations that peform close to these or sometimes even better. So please make sure to sim your character if you suspect that something else is a better general choice.
 
@@ -49,7 +49,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.eb}} (EB)</h4>
                 <p markdown="1"> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.er}} should be taken for virtually all situations unless you have {{ site.data.azerite.igneous_potential }} twice in which case you should use {{ site.data.talent.eote }} for anything up to and including 2 targets. {{ site.data.talent.eote }} synergises well with {{site.data.talent.mote}} (if taken) but due to the buff to {{ site.data.spell.lb }} this talent lost a lot of its value. {{site.data.talent.eb}} is too weak in all regards unless you stack {{ site.data.azerite.natural_harmony }} three times. But even then it would fall behind the other choices.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.er}} should be taken for virtually all situations unless you have {{ site.data.azerite.igneous_potential }} at least twice in which case you should use {{ site.data.talent.eote }} for anything up to and including 2 targets. {{ site.data.talent.eote }} synergises well with {{site.data.talent.mote}}. {{site.data.talent.eb}} is too restrictive in its movement requirements. It can sim well under certain circumstances, but we advise to not use it.</p>
             </div>
         </div>
     </div>
@@ -65,12 +65,12 @@ Click the talent row text to expand.
                 <p markdown="1">This functions like Legion's legendary boots, The Deceiver's Blood Pact. When you cast {{ site.data.spell.eq }} or {{ site.data.spell.es }}, you have a chance to immediately refund all the Maelstrom spent. This allows for increased burst AoE/ST but with the caveat that at a 25% chance, it is quite random and can't be reliably used for burst damage.</p>
                 <hr><br>
                 <h4>{{site.data.talent.ctt}} (CtT)</h4>
-                <p markdown="1"> Reduces the required Maelstrom for {{ site.data.spell.es }} and {{ site.data.spell.eq }}. This talent smoothes out our playstyle via increasing the frequency at which our spenders are available. Additionaly the increase maximum Maelstrom prevents {{ site.data.talent.sk }} from overcaping versus 5 targets.</p>
+                <p markdown="1"> Reduces the required Maelstrom for {{ site.data.spell.es }} and {{ site.data.spell.eq }}. This talent smoothes out our playstyle via increasing the frequency at which our spenders are available. Additionaly the increased maximum Maelstrom prevents {{ site.data.talent.sk }} from overcaping versus 5 targets.</p>
                 <hr><br>
                 <h4>{{site.data.talent.tm}} (TM)</h4>
                 <p markdown="1"> A set of stationary buffing totems which provide small but effective bonuses while within their 40 yard range. Ideally you want to use this every 2 minutes, or whenever you're forced to move out of the buff radius.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.tm}} for most content. {{site.data.talent.afs}} is competitive with {{site.data.talent.tm}} for 2+ targets , but is only strictly superior in AoE situations once you have 5 or more targets. {{site.data.talent.ctt}} is currently under-tuned & is effectively a substantially weaker form of {{site.data.talent.afs}}. It is not recommended in any situation.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.tm}} for most content. {{site.data.talent.afs}} is competitive with {{site.data.talent.tm}} for 2+ targets, but is only strictly superior in AoE situations once you have 5 or more targets. {{site.data.talent.ctt}} is currently under-tuned & is effectively a substantially weaker form of {{site.data.talent.afs}}. It is not recommended in any situation.</p>
             </div>
         </div>
     </div>
@@ -112,7 +112,8 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.lmt}} (LMT)</h4>
                 <p markdown="1"> Offers some nice burst AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is now the default choice if you have {{ site.data.azerite.igneous_potential }} twice and use {{ site.data.talent.echo }}. Outside of that case {{ site.data.talent.se }} is the default choice, this talent is extremely strong and versatile. It offers the highest single-target throughput when used in combination with either {{ site.data.talent.pe }} or {{ site.data.talent.sop }} as well as extremely potent AoE burst damage especially when used in conjunction with {{ site.data.talent.pe }}. The other talents on this row are more situational; {{ site.data.talent.mote }} when used in combination with {{ site.data.talent.if }} offers a viable alternative to the {{ site.data.talent.se }} based talent combinations. This may be useful on raid bosses where there are frequent high priority targets swaps or for bosses where it may not be possible to consistently utilize {{ site.data.talent.se }} due to a large amount of movement being required. {{ site.data.talent.lmt }} is a multi-target talent that may occasionally pull ahead of {{ site.data.talent.se }}. It is generally strong when either the fight or instance timings are unfavorable for {{ site.data.talent.se }} but optimal for {{ site.data.talent.lmt }} and additionally {{ site.data.talent.lmt }} tends to pull ahead for 2/3 target sustained cleave.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is now the default choice if you have {{ site.data.azerite.igneous_potential }} at least twice and use {{ site.data.talent.echo }}. Outside of that case {{ site.data.talent.se }} is the default choice, this talent is extremely strong and versatile. It offers the highest single-target throughput when used in combination with either {{ site.data.talent.pe }} or {{ site.data.talent.sop }} as well as extremely potent AoE burst damage especially when used in conjunction with {{ site.data.talent.pe }}. {{ site.data.talent.lmt }} is a multi-target talent that may occasionally pull ahead of {{ site.data.talent.se }}. It is generally strong when either the fight or instance timings are unfavorable for {{ site.data.talent.se }} but optimal for {{ site.data.talent.lmt }} and additionally {{ site.data.talent.lmt }} tends to pull ahead for 2/3 target sustained cleave.<br/>{{ site.data.talent.lmt }} combined with {{ site.data.azerite.worldvein }} provides a strong regular burst, which can be better than the other talents. Sim yourself to know what fits your character.
+                </p>
             </div>
         </div>
     </div>
@@ -146,26 +147,26 @@ Click the talent row text to expand.
         <div id="L90-collapse" class="collapse" aria-labelledby="L90" data-parent="#accordion">
             <div class="card-body">
                 <h4>{{ site.data.talent.sop }} (SoP)</h4>
-                <p markdown="1">A highly complex talent, that adds spell interactions to {{ site.data.spell.es }}. You determine which effect to trigger by which specc you cast next after {{ site.data.spell.es }}.</p>
+                <p markdown="1">A highly complex talent, that adds spell interactions to {{ site.data.spell.es }}. You determine which effect to trigger by which spell you cast next after {{ site.data.spell.es }}.</p>
                 <ul>
-                    <li>{{ site.data.spell.fs }} - spreads {{ site.data.spell.fs }} to a target within 8yards.</li>
+                    <li>{{ site.data.spell.fs }} - spreads {{ site.data.spell.fs }} to an additional target within 8yards.</li>
                     <li>{{ site.data.spell.lb }} - overloads an additional 1-3 times. The chances are: 80% to get 1, 18% to get 2, and 2% to get 3 additional Overloads. These Overloads happen in addition to the baseline Overload chance, allowing this {{ site.data.spell.lb }} to overload up to 4 times if you're very lucky.</li>
                     <li>{{ site.data.spell.lvb }} - reduces the remaining cooldown of {{ site.data.spell.fe }} / {{ site.data.talent.se }} by 6 seconds.</li>
-                    <li>{{ site.data.spell.frs }} - freeze the target in place for 6 seconds. Damage doesn't break the freeze</li>
+                    <li>{{ site.data.spell.frs }} - freeze the target in place for 6 seconds. Damage doesn't break the freeze.</li>
                 </ul>
                 <hr><br>
-                <h4>{{site.data.talent.pe}} (PE)</h4>
-                <p markdown="1"> This changes your {{site.data.spell.fe}}, {{site.data.spell.ee}}, and {{site.data.talent.se}} into pets you can control instead of simple fire-and-forget guardians. The effects of {{site.data.talent.pe}} are listed for each elemental below:</p>
+                <h4>{{ site.data.talent.pe }} (PE)</h4>
+                <p markdown="1"> This changes your {{ site.data.spell.fe }}, {{ site.data.spell.ee }}, and {{ site.data.talent.se }} into pets you can control instead of simple fire-and-forget guardians. The effects of {{ site.data.talent.pe }} are listed for each elemental below:</p>
                 <ul>
-                    <li>{{site.data.spell.fe}} - gains {{site.data.spell.immolate}} and {{site.data.spell.meteor}}; a DoT and AOE attack with short cooldowns.</li>
-                    <li>{{site.data.spell.ee}} - gains {{site.data.spell.harden_skin}}, a damage reduction cooldown that grants both the Shaman and the {{site.data.spell.ee}} a 40% damage reduction buff for 10 seconds. Despite this being on a one minute cooldown, it is effectively a 5 minute cooldown as the {{site.data.spell.ee}} can only cast it once in its lifetime. Also gains {{site.data.spell.pulverize}}, a decent single target stun on a long CD -- usable twice in the {{ site.data.spell.ee }}'s lifetime. Lastly, gains {{site.data.spell.angered_earth}}, a toggleable AOE taunt. This will not cause the elemental to get aggro on bosses, but it will generally work on trash or enemies summoned by bosses. While this can be incredibly useful at times, beware of accidentally misplacing enemies during an encounter.</li>
-                    <li>{{site.data.talent.se}} - gains {{site.data.spell.eye_of_the_storm_damage}} a long CD AoE burst cooldown and will retain {{site.data.spell.call_lightning}} from its non primal form. {{site.data.spell.call_lightning}} does empower {{site.data.spell.eye_of_the_storm_damage}}, dealing significant damage.</li>
+                    <li>{{ site.data.spell.fe }} - gains {{ site.data.spell.immolate }} and {{ site.data.spell.meteor }}; a DoT and AOE attack with short cooldowns.</li>
+                    <li>{{ site.data.spell.ee }} - gains {{ site.data.spell.harden_skin }}, a damage reduction cooldown that grants both the Shaman and the {{ site.data.spell.ee }} a 40% damage reduction buff for 10 seconds. Despite this being on a one minute cooldown, it is effectively a 5 minute cooldown as the {{ site.data.spell.ee }} can only cast it once in its lifetime. Also gains {{ site.data.spell.pulverize }}, a decent single target stun on a long CD -- usable twice in the {{ site.data.spell.ee }}'s lifetime. Lastly, gains {{ site.data.spell.angered_earth }}, a toggleable AOE taunt. This will not cause the elemental to get aggro on bosses, but it will generally work on trash or enemies summoned by bosses. While this can be incredibly useful at times, beware of accidentally misplacing enemies during an encounter.</li>
+                    <li>{{ site.data.talent.se }} - gains {{ site.data.spell.eye_of_the_storm_damage }} a long CD AoE burst cooldown and will retain {{ site.data.spell.call_lightning }} from its non primal form. {{ site.data.spell.call_lightning }} does empower {{ site.data.spell.eye_of_the_storm_damage }}, dealing significant damage.</li>
                 </ul>
                 <hr><br>
                 <h4>{{site.data.talent.if}} (IF)</h4>
-                <p markdown="1">Since the removal of the Maelstrom cost from {{ site.data.spell.frs }} in Patch 8.0, {{ site.data.talent.if }} has become much less complex to manage. This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. {{ site.data.talent.if }} empowered {{ site.data.spell.frs }} generate Maelstrom now. This gives you more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
+                <p markdown="1">Since the removal of the Maelstrom cost from {{ site.data.spell.frs }} in Patch 8.0, {{ site.data.talent.if }} has become much less complex to manage. This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. {{ site.data.talent.if }} empowered {{ site.data.spell.frs }} generate Maelstrom. This gives you more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** If you have {{ site.data.azerite.igneous_potential }} twice {{ site.data.talent.if }} in combinations with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one and two targets. Outside of that {{ site.data.talent.pe }} becomes the default choice. {{ site.data.talent.sop }} is very powerful on *single target* encounters but is significantly more complex to utilize than {{ site.data.talent.pe }} or {{ site.data.talent.if }} and is only a gain under specific circumstances. {{ site.data.talent.if }} offers much improved mobility, but is very slightly weaker than the other two options if no movement is involved. {{ site.data.talent.if }} may perform better than the other alternatives on 1 or 2 target encounters when used with {{ site.data.talent.mote }}(single target) or {{ site.data.talent.lmt }} (2 target cleave).</p>
+                <p markdown="1">**Recommendation:** If you have {{ site.data.azerite.igneous_potential }} twice {{ site.data.talent.if }} in combinations with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one and two targets. Outside of that {{ site.data.talent.pe }} becomes the default choice. {{ site.data.talent.sop }} is very powerful on *single target* encounters but is significantly more complex to utilize than {{ site.data.talent.pe }} or {{ site.data.talent.if }} and is only a gain under specific circumstances. {{ site.data.talent.if }} offers much improved mobility, but is very slightly weaker than the other two options if no movement is involved. {{ site.data.talent.if }} may perform better than the other alternatives on 1 or 2 target encounters when used with {{ site.data.talent.mote }}(single target) or {{ site.data.talent.lmt }} (2 target cleave). Despite all that {{ site.data.talent.pe }} is almost as powerful as the mentioned talent combination with {{ site.data.talent.if }}.</p>
             </div>
         </div>
     </div>
@@ -177,16 +178,16 @@ Click the talent row text to expand.
         </div>
         <div id="L100-collapse" class="collapse" aria-labelledby="L100" data-parent="#accordion">
             <div class="card-body">
-                <h4>{{site.data.talent.up}} (UP)</h4>
-                <p markdown="1">An interesting buff that creates some *swing* in the spec, a tangible speeding up and slowing down of casts provided you're lucky with {{site.data.spell.mastery}} procs. This is especially noticeable in AOE, where you can regularly get in excess of 10 stacks for a total of 20%+ haste for a few seconds.</p>
+                <h4>{{ site.data.talent.up }} (UP)</h4>
+                <p markdown="1">An interesting buff that creates some *swing* in the spec, a tangible speeding up and slowing down of casts provided you're lucky with {{ site.data.spell.mastery }} procs. This is especially noticeable in AOE, where you can regularly get in excess of 10 stacks for a total of 20%+ haste for a few seconds. Regardless of its obvious dependency on our {{ site.data.spell.mastery }}, this talent works better with a lot of Haste.</p>
                 <hr><br>
-                <h4>{{site.data.talent.sk}} (SK)</h4>
+                <h4>{{ site.data.talent.sk }} (SK)</h4>
                 <p markdown="1">A different version of the artifact ability from Legion. This ability buffs your next two {{ site.data.spell.lb }} and {{ site.data.spell.cl }}. If you decide to use {{ site.data.spell.lb }}, its dmg is buffed. In case of both possible usages all possible baseline Overloads are enforced. This means, that {{ site.data.spell.lb }} will be forced to overload once and {{ site.data.spell.cl }} overloads on each target hit. This is primarily useful for burst single target damage and AOE, such as in Mythic+ dungeons.</p>
                 <hr><br>
-                <h4>{{site.data.talent.asc}} (Asc)</h4>
+                <h4>{{ site.data.talent.asc }} (Asc)</h4>
                 <p markdown="1">An additional cooldown with a few requirements for its use. First, you must ensure you'll have {{ site.data.spell.fs }} active for {{site.data.talent.asc}}' full duration. Second, you want to get high value out of {{site.data.talent.asc}} with high (optimally 100%) uptime of casts during the buff. You should adjust your casts during {{site.data.talent.asc}} as per the <a href="priority_list.html">priority list</a> page.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:**{{ site.data.talent.sk }} for all situations. {{ site.data.talent.asc }} took a big hit from the damage reshuffle between {{ site.data.spell.lb }} and {{ site.data.spell.es }} and is no longer an option under any circumstances. {{ site.data.talent.up }} is just weak and even if it were possible to sim identically to {{ site.data.talent.sk }} it requires constant casting and no movement to provide its dps. Because this isn't possible this talent can be considered non-existant too.</p>
+                <p markdown="1">**Recommendation:**{{ site.data.talent.sk }} for all situations. {{ site.data.talent.asc }} took a big hit from the damage reshuffle between {{ site.data.spell.lb }} and {{ site.data.spell.es }}. {{ site.data.talent.up }} is just weak and even if it were possible to sim identically to {{ site.data.talent.sk }} it requires constant casting and no movement to provide its dps. Because this isn't possible this talent can be considered non-existant.</p>
             </div>
         </div>
     </div>
@@ -196,16 +197,13 @@ Click the talent row text to expand.
 
 Please note that this list will only include talent synergies with easy to explain, intuitive reasoning behind them. There may exist some mild synergies not in this list, but we have chosen to not write about them here. Many factors affect which talents benefit others, so we have narrowed it down to synergies with direct impacts on gameplay.
 
-
-#### Echo of the Elements and Master of the Elements
-
-While {{ site.data.talent.echo }} essentially increases the frequency of {{ site.data.spell.lvb }} {{ site.data.talent.mote }} profits from that by allowing us to buff more casts.
-
-
 #### Master of the Elements and Icefury
 
 The first talent synergy we'll discuss is that of {{ site.data.talent.mote }} and {{ site.data.talent.if }}. The connection here is easy to understand; an increased frequency of heavy hitters like the {{ site.data.talent.if }} empowered {{ site.data.spell.frs }}s allows more worth from {{site.data.talent.mote}} buffs.
 
+#### Echo of the Elements and Master of the Elements
+
+While {{ site.data.talent.echo }} essentially increases the frequency of {{ site.data.spell.lvb }} {{ site.data.talent.mote }} profits from that by allowing us to buff more casts.
 
 #### Storm Elemental and Primal Elementalist
 
