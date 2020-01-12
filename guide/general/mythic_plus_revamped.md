@@ -6,11 +6,9 @@ game_version: 8.3.0 Battle for Azeroth
 author: Naesam
 ---
 
-This page will serve as a comprehensive look into talents, traits, and general dungeon advice for Elemental Shamans. Information on this page is written with the assumption that the rest of the guide has been read in full. If you haven't, we highly recommend reading the priority list, talents, and traits section of the guide before continuing here.
+Information on this page is written with the assumption that the rest of the guide has been read in full. If you haven't, we highly recommend reading the priority list, talents, and traits section of the guide before continuing here.
 
 ### Talents
-
-We touched on talents for Mythic+ previously in the talents section of the guide. In this section we will be going more in depth to explain each talent selection.
 
 There are a few viable builds for Mythic+ that you might consider, taking into account that your group composition, the dungeon, and the week's affixes will all play a role in determining the build that you'll want.
 
