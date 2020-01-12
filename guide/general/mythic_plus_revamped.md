@@ -47,7 +47,7 @@ This build offers extremely strong burst AOE every 2 minutes, while still being 
 
 **Major Essences**: {{ site.data.azerite.blood_of_the_enemy }}
 
-**Minor Essences**: {{ site.data.azerite.vision_of_perfection}} / {{ site.data.essences.conflict_and_strife }} / {{ site.data.azerite.essence_of_the_focusing_iris }} / {{ site.data.azerite.purification_protocol }} / {{ site.data.azerite.breath_of_the_dying }}
+**Minor Essences**: {{ site.data.azerite.vision_of_perfection}} / {{ site.data.azerite.conflict_and_strife }} / {{ site.data.azerite.essence_of_the_focusing_iris }} / {{ site.data.azerite.purification_protocol }} / {{ site.data.azerite.breath_of_the_dying }}
 
 ### Azerite
 
