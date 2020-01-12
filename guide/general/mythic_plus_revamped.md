@@ -32,7 +32,7 @@ The standard build offers a good balance between strong single target damage and
 
 <strong>Major Essences</strong>: {{ site.data.azerite.worldvein_resonance }} / {{ site.data.azerite.essence_of_the_focusing_iris }}
 
-<strong>Minor Essences</strong>: {{ site.data.essences.conflict_and_strife }} / {{ site.data.azerite.essence_of_the_focusing_iris }} / {{ site.data.azerite.purification_protocol }} / {{ site.data.azerite.breath_of_the_dying }}
+<strong>Minor Essences</strong>: {{ site.data.azerite.conflict_and_strife }} / {{ site.data.azerite.essence_of_the_focusing_iris }} / {{ site.data.azerite.purification_protocol }} / {{ site.data.azerite.breath_of_the_dying }}
 
 #### Storm Elemental / BotE / VoP
 
