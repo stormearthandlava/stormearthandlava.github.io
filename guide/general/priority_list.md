@@ -56,6 +56,13 @@ After reading the APL, please pay attention to the special mentions below, becau
             </ul>
         </li>
         <li>Cast {{ site.data.spell.es }}. But read the special cases about delaying {{ site.data.spell.es }} casts.</li>
+        <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lvb }} while {{ site.data.talent.se }} is active if all of the following conditions are met:
+            <ul>
+                <li class="se-apl" style="display: none;">You have 2 or more {{ azerite.igneous_potential }} traits.</li>
+                <li class="se-apl" style="display: none;">You have a {{ site.data.spell.lava_surge }} proc.</li>
+                <li class="se-apl" style="display: none;">You have fewer than 14 {{ site.data.spell.wind_gust }} stacks.</li>
+            </ul>
+        </li>
         <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.se }} is active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff and {{ site.data.talent.mote }} buff active.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.talent.asc }} is active.</li>
