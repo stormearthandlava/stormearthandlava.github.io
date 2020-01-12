@@ -21,13 +21,13 @@ The standard build offers a good balance between strong single target damage and
 <strong>Talents</strong>:
 
 <ul>
-    <li><strong>15</strong>: {{ site.data.talent.echo_of_the_elements }}
-    <li><strong>30</strong>: {{ site.data.talent.aftershock }}
-    <li><strong>45</strong>: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.static_charge }}
-    <li><strong>60</strong>: {{ site.data.talent.master_of_the_elements }} OR {{ site.data.talent.liquid_magma_totem }}
-    <li><strong>75</strong>: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.ancestral_guidance }}
-    <li><strong>90</strong>: {{ site.data.talent.primal_elementalist }}
-    <li><strong>100</strong>: {{ site.data.talent.stormkeeper }}
+    <li><strong>15</strong>: {{ site.data.talent.echo_of_the_elements }}</li>
+    <li><strong>30</strong>: {{ site.data.talent.aftershock }}</li>
+    <li><strong>45</strong>: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.static_charge }}</li>
+    <li><strong>60</strong>: {{ site.data.talent.master_of_the_elements }} OR {{ site.data.talent.liquid_magma_totem }}</li>
+    <li><strong>75</strong>: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.ancestral_guidance }}</li>
+    <li><strong>90</strong>: {{ site.data.talent.primal_elementalist }}</li>
+    <li><strong>100</strong>: {{ site.data.talent.stormkeeper }}</li>
 </ul>
 
 <strong>Major Essences</strong>: {{ site.data.azerite.worldvein_resonance }} / {{ site.data.azerite.essence_of_the_focusing_iris }}
@@ -39,13 +39,13 @@ The standard build offers a good balance between strong single target damage and
 This build offers extremely strong burst AOE every 2 minutes, while still being fairly solid single target. This build optimizes around lining up {{ site.data.talent.storm_elemental }}'s {{ site.data.spell.eye_of_the_storm }} with {{ site.data.azerite.blood_of_the_enemy }} and {{ site.data.talent.stormkeeper }}. Your damage profile will be a bit more reliant on cooldowns overall, but this build shines when your group can pull large packs of mobs planned around your cooldowns.
 
 <ul>
-    <li><strong>15</strong>: {{ site.data.talent.echo_of_the_elements }}
-    <li><strong>30</strong>: {{ site.data.talent.aftershock }}
-    <li><strong>45</strong>: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.static_charge }}
-    <li><strong>60</strong>: {{ site.data.talent.storm_elemental }}
-    <li><strong>75</strong>: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.ancestral_guidance }}
-    <li><strong>90</strong>: {{ site.data.talent.primal_elementalist }}
-    <li><strong>100</strong>: {{ site.data.talent.stormkeeper }}
+    <li><strong>15</strong>: {{ site.data.talent.echo_of_the_elements }}</li>
+    <li><strong>30</strong>: {{ site.data.talent.aftershock }}</li>
+    <li><strong>45</strong>: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.static_charge }}</li>
+    <li><strong>60</strong>: {{ site.data.talent.storm_elemental }}</li>
+    <li><strong>75</strong>: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.ancestral_guidance }}</li>
+    <li><strong>90</strong>: {{ site.data.talent.primal_elementalist }}</li>
+    <li><strong>100</strong>: {{ site.data.talent.stormkeeper }}</li>
 </ul>
 
 <strong>Major Essences</strong>: {{ site.data.azerite.blood_of_the_enemy }}
