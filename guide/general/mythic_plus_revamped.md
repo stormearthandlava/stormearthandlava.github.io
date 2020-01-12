@@ -18,39 +18,36 @@ There are a few viable builds for Mythic+ that you might consider, taking into a
 
 The standard build offers a good balance between strong single target damage and good AOE, with minimal reliance on cooldowns to do damage outside of {{ site.data.talent.stormkeeper }} and/or {{ site.data.azerite.essence_of_the_focusing_iris }}. The recent buffs to {{ site.data.azerite.worldvein_resonance }} make it a potential contender for the major slot, with its ability to buff both {{ site.data.talent.stormkeeper }} and {{ site.data.talent.liquid_magma_totem }} each use.
 
-<strong>Talents</strong>:
+**Talents**:
 
-<ul>
-    <li><strong>15</strong>: {{ site.data.talent.echo_of_the_elements }}</li>
-    <li><strong>30</strong>: {{ site.data.talent.aftershock }}</li>
-    <li><strong>45</strong>: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.static_charge }}</li>
-    <li><strong>60</strong>: {{ site.data.talent.master_of_the_elements }} OR {{ site.data.talent.liquid_magma_totem }}</li>
-    <li><strong>75</strong>: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.ancestral_guidance }}</li>
-    <li><strong>90</strong>: {{ site.data.talent.primal_elementalist }}</li>
-    <li><strong>100</strong>: {{ site.data.talent.stormkeeper }}</li>
-</ul>
+* **15**: {{ site.data.talent.echo_of_the_elements }}
+* **30**: {{ site.data.talent.aftershock }}
+* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.static_charge }}
+* **60**: {{ site.data.talent.master_of_the_elements }} OR {{ site.data.talent.liquid_magma_totem }}
+* **75**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.ancestral_guidance }}
+* **90**: {{ site.data.talent.primal_elementalist }}
+* **100**: {{ site.data.talent.stormkeeper }}
 
-<strong>Major Essences</strong>: {{ site.data.azerite.worldvein_resonance }} / {{ site.data.azerite.essence_of_the_focusing_iris }}
+**Major Essences**: {{ site.data.azerite.worldvein_resonance }} / {{ site.data.azerite.essence_of_the_focusing_iris }}
 
-<strong>Minor Essences</strong>: {{ site.data.azerite.conflict_and_strife }} / {{ site.data.azerite.essence_of_the_focusing_iris }} / {{ site.data.azerite.purification_protocol }} / {{ site.data.azerite.breath_of_the_dying }}
+**Minor Essences**: {{ site.data.azerite.conflict_and_strife }} / {{ site.data.azerite.essence_of_the_focusing_iris }} / {{ site.data.azerite.purification_protocol }} / {{ site.data.azerite.breath_of_the_dying }}
 
 #### Storm Elemental / BotE / VoP
 
 This build offers extremely strong burst AOE every 2 minutes, while still being fairly solid single target. This build optimizes around lining up {{ site.data.talent.storm_elemental }}'s {{ site.data.spell.eye_of_the_storm }} with {{ site.data.azerite.blood_of_the_enemy }} and {{ site.data.talent.stormkeeper }}. Your damage profile will be a bit more reliant on cooldowns overall, but this build shines when your group can pull large packs of mobs planned around your cooldowns.
 
-<ul>
-    <li><strong>15</strong>: {{ site.data.talent.echo_of_the_elements }}</li>
-    <li><strong>30</strong>: {{ site.data.talent.aftershock }}</li>
-    <li><strong>45</strong>: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.static_charge }}</li>
-    <li><strong>60</strong>: {{ site.data.talent.storm_elemental }}</li>
-    <li><strong>75</strong>: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.ancestral_guidance }}</li>
-    <li><strong>90</strong>: {{ site.data.talent.primal_elementalist }}</li>
-    <li><strong>100</strong>: {{ site.data.talent.stormkeeper }}</li>
-</ul>
 
-<strong>Major Essences</strong>: {{ site.data.azerite.blood_of_the_enemy }}
+* **15**: {{ site.data.talent.echo_of_the_elements }}
+* **30**: {{ site.data.talent.aftershock }}
+* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.static_charge }}
+* **60**: {{ site.data.talent.storm_elemental }}
+* **75**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.ancestral_guidance }}
+* **90**: {{ site.data.talent.primal_elementalist }}
+* **100**: {{ site.data.talent.stormkeeper }}
 
-<strong>Minor Essences</strong>: {{ site.data.azerite.vision_of_perfection}} / {{ site.data.essences.conflict_and_strife }} / {{ site.data.azerite.essence_of_the_focusing_iris }} / {{ site.data.azerite.purification_protocol }} / {{ site.data.azerite.breath_of_the_dying }}
+**Major Essences**: {{ site.data.azerite.blood_of_the_enemy }}
+
+**Minor Essences**: {{ site.data.azerite.vision_of_perfection}} / {{ site.data.essences.conflict_and_strife }} / {{ site.data.azerite.essence_of_the_focusing_iris }} / {{ site.data.azerite.purification_protocol }} / {{ site.data.azerite.breath_of_the_dying }}
 
 ### Azerite
 
