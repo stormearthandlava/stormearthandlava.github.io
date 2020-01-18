@@ -133,7 +133,7 @@ Additionally, {{site.data.azerite.tectonic_thunder}} is a controversial trait. I
             <div class="card-body">
                 <p markdown="1"><span class="blue">King Gobbamak</span> - Use {{site.data.talent.stormkeeper}} + {{site.data.spell.cl}} on the adds that spawn for extra Maelstrom.</p>
                 <p markdown="1"><span class="blue">Trixie & Naeno</span> - Use {{ site.data.spell.wind_shear }} to interrupt Trixie's "Taze" spell.</p>
-                <p markdown="1"><span class="blue">Gunker</span> - Try and stay inside one of the safe zones provided by the bots during this fight. Use bursty spells like {{ site.data.spell.earth_shock }} or {{ site.data.spell.stormkeeper }} buffed {{ site.data.spell.lightning_bolt }}s to break out any bots that get gunked up quickly.</p>
+                <p markdown="1"><span class="blue">Gunker</span> - Try and stay inside one of the safe zones provided by the bots during this fight. Use bursty spells like {{ site.data.spell.earth_shock }} or {{ site.data.talent.stormkeeper }}-buffed {{ site.data.spell.lightning_bolt }}s to break out any bots that get gunked up quickly.</p>
                 <p markdown="1"><span class="blue">HK-8 Aerial Oppression Unit</span> - Save cooldowns for the burn phase of the boss. Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.capacitor_totem }} to help crowd-control the bots that spawn. Use {{ site.data.spell.ghost_wolf }} to run the maze during the intermission (remember: you can jump over the beams if timed correctly, but not the grates or the detector bots). </p>
                 <p markdown="1"><span class="blue">Trash mobs</span> - below are some notes on how to handle the rest of the dungeon:</p>
                 <ul>
