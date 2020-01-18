@@ -2,54 +2,63 @@
 layout: page
 title: "Mythic+ Guide"
 last_update: 2019-07-06 09:00:00
-game_version: 8.2.0 Battle for Azeroth
+game_version: 8.3.0 Battle for Azeroth
 author: Naesam
 ---
 
-This page will serve as a comprehensive look into talents, traits, and general dungeon advice for Elemental Shamans. Information on this page is written with the assumption that the rest of the guide has been read in full. If you haven't, we highly recommend reading the priority list, talents, and traits section of the guide before continuing here.
+Information on this page is written with the assumption that the rest of the guide has been read in full. If you haven't, we highly recommend reading the priority list, talents, and traits section of the guide before continuing here.
 
 ### Talents
-We touched on talents for Mythic+ previously in the talents section of the guide. In this section we will be going more in depth to explain each talent selection.
 
-Row 15 | Information
---- | ---
-{{site.data.talent.er}} | {{site.data.talent.er}} is the recommended talent on this row if you **DO NOT** have TWO or more {{site.data.azerite.igneous_potential}} equipped. This talent requires no attention, it will simply deal damage passively.
-{{site.data.talent.echo}} | {{site.data.talent.echo}} is the recommended talent on this row if you **DO** have TWO or more {{site.data.azerite.igneous_potential}} equipped. This talent will greatly improve your single target and cleave damage, given the proper traits are being used. This talent also synergizes very well with {{site.data.talent.mote}}.
-{{site.data.talent.eb}} | {{site.data.talent.eb}} is currently very undertuned, we don't recommend using this talent under any circumstances.
-Row 30 | Information
-{{ site.data.talent.afs }} | {{site.data.talent.afs}} is the recommended go to talent for dungeons currently. This is a relatively slight loss in single target damage in comparison to {{site.data.talent.tm}}, becomes approximately equal to {{site.data.talent.tm}} on cleave, and becomes superior as more targets become present. This makes {{site.data.talent.afs}} the clear winner in almost every case in dungeon content.
-{{site.data.talent.ctt}} | {{site.data.talent.ctt}} is currently undertuned, and as a result will be strictly worse than {{site.data.talent.afs}} in all situations. Because of this, we recommend avoiding it entirely.
-{{site.data.talent.tm }} | {{site.data.talent.tm}} is generally inferior to {{site.data.talent.afs}} in dungeons. However, if you need every bit of single target DPS you can get, this is an option. For example, you may consider using this talent in a high level Tyrannical King's Rest key to push out as much boss DPS as possible.
-Row 45 | Information
-{{site.data.talent.spirit_wolf}} |  {{site.data.talent.spirit_wolf}} is our recommended default talent. You are able to survive some sticky situations with the free 20% damage reduction, and can even kite enemies quite easily with the additional movement speed on top.
-{{site.data.talent.earth_shield}} | {{site.data.talent.earth_shield}} is currently quite weak. The heal provided by the shield is minimal and requires frequent GCDs to maintain. We recommend you never use this talent.
-{{site.data.talent.static_charge}} | {{site.data.talent.static_charge}} can be situationally useful depending on the dungeon and the composition you are playing with. If you are playing with specs that lack an AoE stun this talent can help pick up the slack. We don't recommend using this talent over {{site.data.talent.spirit_wolf}} often, but it is an okay choice if you feel like you will need it.
-Row 60 | Information
-{{site.data.talent.mote}} | {{site.data.talent.mote}} is recommended if you **DO** have TWO or more {{site.data.azerite.igneous_potential}} equipped and you are also using {{site.data.talent.echo}}. This talent is by far the best for single target damage, given the proper trait set up and the use of {{site.data.talent.echo}}, this also provides a noticeable increase in AoE damage when used properly to empower {{site.data.spell.eq}}.
-{{site.data.talent.se}} | {{site.data.talent.se}} is a very situational talent, if utilized well enough it can provied incredible AoE burst. However, it is very hard to utilize properly, as it requires group coordination and extensive knowledge of the dungeons and the pulls. We recommend inexperienced shamans avoid this talent in dungeons.
-{{site.data.talent.lmt}} | {{ site.data.talent.lmt }} is a nice, fairly easy to use AoE damage option. If you are lacking {{site.data.azerite.igneous_potential}} traits, we recommend using this talent instead of {{site.data.talent.mote}}
-Row 75 | Information
-{{site.data.talent.natures_guardian}} | {{site.data.talent.natures_guardian}} is a convenient and powerful defensive talent that can help you immensely with staying alive. However, {{site.data.talent.ancestral_guidance}} is also very powerful and can help the group stay alive. We generally recommend {{ site.data.talent.natures_guardian }} as the default if you are not comfortable enough with each dungeon to know the optimal times to heal the group. Additionally, we recommend always using {{site.data.talent.natures_guardian}} in Tyrannical King's Rest keys, as nearly every boss has a very dangerous ability that often targets DPS players.
-{{site.data.talent.ancestral_guidance}} | {{site.data.talent.ancestral_guidance}} has potential to be incredibly powerful during large AoE pulls when the group is taking high amounts of damage, we recommend taking this talent as soon as you are comfortable enough to survive without {{site.data.talent.natures_guardian}}, and have a feel for the times the group may need additional healing. Something to keep in mind about {{site.data.talent.ancestral_guidance}} is it also heals off of your healing done, not just your damage. This allows you to do a decent amount of healing during single target encounters as well by using {{site.data.spell.healing_surge}}. A little known fact about {{site.data.talent.ancestral_guidance}} is it also does additional healing off of Healthstones and healing potions. If you are low health and use {{site.data.talent.ancestral_guidance}} along with Healthstone, healing potion, and a few healing surges, you can easily do upwards of 400-500k healing.
-{{site.data.talent.wind_rush_totem}} | Unless necessary for an elaborate skip, I don't see any situation in which you would need/want {{site.data.talent.wind_rush_totem}} in a dungeon.
-Row 90 | Information
-{{site.data.talent.sop}} | {{site.data.talent.sop}} is simply not fitting for dungeons, as it requires high uptime and frequent use of {{site.data.spell.es}} to be useful. We recommend you never use this in a dungeon.
-{{site.data.talent.pe}} | {{site.data.talent.pe}} is our recommended default choice. This not only empowers your {{site.data.spell.fe}} or {{site.data.spell.se}}, allowing you to do additional damage on AoE. This also empowers your {{site.data.spell.ee}} which can be incredibly powerful in dungeons. We highly recommend communicating with the tank and making liberal use of your empowered {{site.data.spell.ee}}. It is especially powerful on Reaping, as it does not currently take stacks of Reap Soul, allowing it to tank the Reaping enemies even better than a real player tank could. This is often used in order to pull a Reaping in to another pack of mobs.
-{{site.data.talent.if}} | {{site.data.talent.if}} will generally be worse than {{site.data.talent.pe}} in dungeons. Not only is {{site.data.talent.if}} primarily useful for single target, whereas {{site.data.talent.pe}} benefits AoE as well. {{site.data.talent.if}} also lacks the controllable {{site.data.spell.ee}}, which can make a huge difference. There could be an argument for {{site.data.talent.if}} in a high Tyrannical Kings Rest, as most of the danger in the instance are single target bosses. However, even here you will severely miss your powerful {{site.data.spell.ee}} on Berserkers (it can soak the bleed), and {{site.data.spell.harden_skin}} for the dangerous bosses.
-Row 100 | Information
-{{site.data.talent.up}} | {{site.data.talent.up}} suffers heavily from the hidden modifier on {{site.data.spell.cl}}, reducing the overload chance to merely 1/3rd of your mastery. This leaves this talent essentially dead in the water. We recommend avoiding it entirely.
-{{site.data.talent.sk}} | {{site.data.talent.sk}} is a very powerful AoE and single target cooldown. We recommend you always use this talent in dungeons, as it is significantly stronger than the alternatives.
-{{site.data.talent.asc}} | {{site.data.talent.asc}} is a mediocre single target cooldown and an even weaker AoE cooldown, we recommend avoiding it entirely.
+There are a few viable builds for Mythic+ that you might consider, taking into account that your group composition, the dungeon, and the week's affixes will all play a role in determining the build that you'll want.
 
-### Traits
+#### "Standard" Build
 
-Dungeon traits are very similar to raid traits for Elemental Shamans. The sheer power of {{site.data.azerite.igneous_potential}} leaves us wanting three, even in dungeons. The only situations we might consider using less than three {{site.data.azerite.igneous_potential}} in is a Fortified Motherlode key, or a Fortified Teeming Freehold key, simply due to the abundance and importance of AoE.
+The standard build offers a good balance between strong single target damage and good AOE, with minimal reliance on cooldowns to do damage outside of {{ site.data.talent.stormkeeper }} and/or {{ site.data.azerite.essence_of_the_focusing_iris }}. The recent buffs to {{ site.data.azerite.worldvein_resonance }} make it a potential contender for the major slot, with its ability to buff both {{ site.data.talent.stormkeeper }} and {{ site.data.talent.liquid_magma_totem }} each use.
 
-Along side your {{site.data.azerite.igneous_potential}} traits, any combination of the following traits will do very well in general:
-- {{site.data.azerite.natural_harmony}}
-- {{site.data.azerite.blightborne_infusion}}
-- {{site.data.azerite.treacherous_covenant}}
-- {{site.data.azerite.swirling_sands}}
+**Talents**:
+
+* **15**: {{ site.data.talent.echo_of_the_elements }}
+* **30**: {{ site.data.talent.aftershock }}
+* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.static_charge }}
+* **60**: {{ site.data.talent.master_of_the_elements }} OR {{ site.data.talent.liquid_magma_totem }}
+* **75**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.ancestral_guidance }}
+* **90**: {{ site.data.talent.primal_elementalist }}
+* **100**: {{ site.data.talent.stormkeeper }}
+
+**Major Essences**: {{ site.data.azerite.worldvein_resonance }} / {{ site.data.azerite.essence_of_the_focusing_iris }}
+
+**Minor Essences**: {{ site.data.azerite.conflict_and_strife }} / {{ site.data.azerite.essence_of_the_focusing_iris }} / {{ site.data.azerite.purification_protocol }} / {{ site.data.azerite.breath_of_the_dying }}
+
+#### Storm Elemental / BotE / VoP
+
+This build offers extremely strong burst AOE every 2 minutes, while still being fairly solid single target. This build optimizes around lining up {{ site.data.talent.storm_elemental }}'s {{ site.data.spell.eye_of_the_storm }} with {{ site.data.azerite.blood_of_the_enemy }} and {{ site.data.talent.stormkeeper }}. Your damage profile will be a bit more reliant on cooldowns overall, but this build shines when your group can pull large packs of mobs planned around your cooldowns.
+
+
+* **15**: {{ site.data.talent.echo_of_the_elements }}
+* **30**: {{ site.data.talent.aftershock }}
+* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.static_charge }}
+* **60**: {{ site.data.talent.storm_elemental }}
+* **75**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.ancestral_guidance }}
+* **90**: {{ site.data.talent.primal_elementalist }}
+* **100**: {{ site.data.talent.stormkeeper }}
+
+**Major Essences**: {{ site.data.azerite.blood_of_the_enemy }}
+
+**Minor Essences**: {{ site.data.azerite.vision_of_perfection}} / {{ site.data.azerite.conflict_and_strife }} / {{ site.data.azerite.essence_of_the_focusing_iris }} / {{ site.data.azerite.purification_protocol }} / {{ site.data.azerite.breath_of_the_dying }}
+
+### Azerite
+
+Always take 3x {{ site.data.azerite.igneous_potential }}. It's our best trait for 1-4 targets.
+
+Any combination of the following traits will do very well in general:
+
+- {{ site.data.azerite.natural_harmony }}
+- {{ site.data.azerite.heart_of_darkness }}
+- {{ site.data.azerite.blightborne_infusion }}
+- {{ site.data.azerite.swirling_sands }}
+
+It can be beneficial to run a single copy of {{ site.data.azerite.ancestral_resonance }} for the increased duration of {{ site.data.spell.bloodlust }}, especially for Tyrannical weeks on the more challenging bosses. You should avoid stacking this trait.
 
 Additionally, {{site.data.azerite.tectonic_thunder}} is a controversial trait. It can be quite powerful for frequent heavy AoE, but it provides nothing for single target. For Fortified this trait will do quite well. However, the main issue with this trait is there are very few pieces of gear with both {{site.data.azerite.igneous_potential}} and {{site.data.azerite.tectonic_thunder}} available at the same time, and there aren't many situations in which you would want to drop an {{site.data.azerite.igneous_potential}} in favor of a {{site.data.azerite.tectonic_thunder}}. The only situation that comes to mind would be a Fortified Motherlode.
 
@@ -112,6 +121,41 @@ Additionally, {{site.data.azerite.tectonic_thunder}} is a controversial trait. I
                     <li>In <span class="blue">The Golden Serpent</span>'s room, you can have one person interrupt a single mob's Shadow Bolt Volley casts assuming they have a low (~15 sec) cooldown interrupt.</li>
                     <li>On the trash before <span class="blue">Mchimba</span>, use {{site.data.talent.stormkeeper}} as the tank starts to gather slimes. Do not get hit by the swirls, no matter what. With a large pull, getting hit by a single swirl will almost certainly mean your death.</li>
                     <li>In the hallway between <span class="blue">Mchimba</span> and <span class="blue">Council</span>, make sure you use {{site.data.spell.earth_elemental}} to help the tank with damage intake.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="operation-mechagon-junkyard">
+            <div data-toggle="collapse" data-target="#operation-mechagon-junkyard-collapse" aria-expanded="true" aria-controls="operation-mechagon-junkyard-collapse" class="dungeon-header operation-mechagon-junkyard"><h2>Operation: Mechagon - Junkyard</h2></div>
+        </div>
+        <div id="operation-mechagon-junkyard-collapse" class="collapse" aria-labelledby="operation-mechagon-junkyard" data-parent="#accordion">
+            <div class="card-body">
+                <p markdown="1"><span class="blue">King Gobbamak</span> - Use {{site.data.talent.stormkeeper}} + {{site.data.spell.cl}} on the adds that spawn for extra Maelstrom.</p>
+                <p markdown="1"><span class="blue">Trixie & Naeno</span> - Use {{ site.data.spell.wind_shear }} to interrupt Trixie's "Taze" spell.</p>
+                <p markdown="1"><span class="blue">Gunker</span> - Try and stay inside one of the safe zones provided by the bots during this fight. Use bursty spells like {{ site.data.spell.earth_shock }} or {{ site.data.spell.stormkeeper}}-buffed {{ site.data.spell.lightning_bolt }}s to break out any bots that get gunked up quickly.</p>
+                <p markdown="1"><span class="blue">HK-8 Aerial Oppression Unit</span> - Save cooldowns for the burn phase of the boss. Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.capacitor_totem }} to help crowd-control the bots that spawn. Use {{ site.data.spell.ghost_wolf }} to run the maze during the intermission (remember: you can jump over the beams if timed correctly, but not the grates or the detector bots). </p>
+                <p markdown="1"><span class="blue">Trash mobs</span> - below are some notes on how to handle the rest of the dungeon:</p>
+                <ul>
+                    <li>Towards <span class="blue">Gunker</span> and <span class="blue">HK-8 Aerial Oppression Unit</span>'s rooms, there are mobs that can shrink your allies, allowing them to be trampled by friendlies (like the Mekkatorque encounter from Battle of Dazar'alor). Be careful not to trample your friends.</li>
+                    <li>Throughout the instance, there are clickable bots that can be found and used by one person, providing a buff that should last the rest of the instance (until death). The "shock bots" are the most powerful here, contributing a significant amount of free damage if you have the buff. The "grease bots" are also beneficial, providing additional haste. Keep an eye out for where these spawn.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+        <div class="card">
+        <div class="card-header" id="operation-mechagon-workshop">
+            <div data-toggle="collapse" data-target="#operation-mechagon-workshop-collapse" aria-expanded="true" aria-controls="operation-mechagon-workshop-collapse" class="dungeon-header operation-mechagon-workshop"><h2>Operation: Mechagon - Workshop</h2></div>
+        </div>
+        <div id="operation-mechagon-workshop-collapse" class="collapse" aria-labelledby="operation-mechagon-workshop" data-parent="#accordion">
+            <div class="card-body">
+                <p markdown="1"><span class="blue">Tussle Tonks</span> - It is important to try and position yourself behind <span class="blue">Gnomercy 4.U.</span> when the Flame Vents ability is cast to reduce the incoming damage on this encounter. If <span class="blue">Gnomercy 4.U.</span> is chasing you during this ability, utilize {{ site.data.spell.astral_shift }}.</p>
+                <p markdown="1"><span class="blue">K.U.-J.0.</span> - Use {{site.data.spell.ghost_wolf}} to quickly move behind or away from containers. If you position carefully near a corner during Venting Flames, you can pop out in between damage ticks to cast instant cast abilities.</p>
+                <p markdown="1"><span class="blue">Machinist's Garden</span> - Dodge mechanics and burst down Inconspicuous Plant when it spawns.</p>
+                <p markdown="1"><span class="blue">King Mechagon</span> - When targeted with Giga-Zap, it is best to remain still and let your other group members move away from you. Speed boosts like {{ site.data.spell.wind_rush_totem }} and {{ site.data.spell.ghost_wolf }} can be handy during the pull-in from Magneto Arm, especially as its damage increases the closer you get to the arm itself.</p>
+                <p markdown="1"><span class="blue">Trash mobs</span> - below are some notes on how to handle the rest of the dungeon:</p>
+                <ul>
+                    <li>You can utilize the energy shield some mobs spawn to negate the damage of several abilities throughout the instance. This will be particularly important on Fortified weeks.</li>
                 </ul>
             </div>
         </div>
