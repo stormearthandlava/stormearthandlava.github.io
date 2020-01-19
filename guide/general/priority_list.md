@@ -56,7 +56,7 @@ After reading the APL, please pay attention to the special mentions below, becau
             </ul>
         </li>
         <li>Cast {{ site.data.spell.es }}. But read the special cases about delaying {{ site.data.spell.es }} casts.</li>
-        <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lvb }} while {{ site.data.talent.se }} is active if all of the following conditions are met:
+        <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lvb }} while {{ site.data.talent.se }} is active if any of the following conditions are met:
             <ul>
                 <li class="se-apl" style="display: none;">You have 2 or more {{ site.data.azerite.igneous_potential }} traits.</li>
                 <li class="se-apl" style="display: none;">You have a {{ site.data.spell.lava_surge }} proc.</li>
