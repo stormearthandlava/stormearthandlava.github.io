@@ -1,163 +1,135 @@
+---
+layout: post
+title: Vision of Perfection and Storm Elemental
+excerpt: The meme explained
+date: 2020-02-08 09:00:00
+author: Drayygo
+---
+
 # Elemental Shaman – Visions of Perfection / Storm Elemental Build aka Meme-Spec
 
-Who am I? I’m Drayygo, a Shaman Main since WotLK and Elemental Main since mid-Legion. I am currently raiding in the german Progress Guild „Die Gummibärenbande“ on EU-Blackmoore.
+Who am I? I'm [Drayygo](https://raider.io/characters/eu/blackmoore/Drayygo), a Shaman main since WotLK and Elemental main since mid-Legion. I am currently raiding in the german progress guild "Die Gummibärenbande" on EU-Blackmoore.
 
 ## Introduction
 
-Since Patch 8.3 launched, many of you might have noticed, that Visions of Perfection (which got a 12% buff for his procc-rate) in combination with Storm Elemental and Primal Elementalist started to out sim Icefury / Master of the Elements. Depending on your stat weights and the available Azerite-Gear / Essences, the difference between our „default“ build and the Meme-Specc could be pretty high. For myself it was around 3k difference, thanks to the fact i already had 3 Azerite pieces with Echo of the Elementals. In this post I want to show you the basics and how that build worked out for me so far.
-Of course I can only provide Heroic Logs for now, but i will update as soon as I have killed a fair amount of Mythic Bosses, to give you an idea, how that Spec can perform in one of the hardest contents in this game. We are clearing mythic decent-ish fast, so it shouldn’t take too long until you can see the Mythic performance
+Since patch 8.3 launched, many of you might have noticed, that {{ site.data.azerite.vop }} (which got a 12% buff for its procc-rate) in combination with {{ site.data.talent.se }} and {{ site.data.talent.pe }} started to out sim {{ site.data.talent.if }} / {{ site.data.talent.mote }}. Depending on your stat distribution and the available Azerite-gear / Essences, the difference between our "default" build and the meme-specc could be pretty high. For myself it was around 3k difference, thanks to the fact i already had 3 Azerite pieces with {{ site.data.azerite.eote }}. In this post I want to show you the basics and how that build worked out for me so far.
+Of course I can only provide heroic logs for now, but I will update as soon as I have killed a fair amount of mythic bosses, to give you an idea, how that spec can perform in one of the hardest contents in this game. We are clearing mythic decent-ish fast, so it shouldn't take too long until you can see the mythic performance.
 
 
-## Talents:
+## Talents
 
-For me, the following Talents sim highest:
+For me, the following talents sim highest:
 
+I don't recommend to copy-paste those talents, but to always [sim yourself](https://simyoself.com). I also change the last row quite often, because on some bosses I value the mobility from {{ site.date.talent.sk }} higher than the higher SimDPS from {{ site.data.talent.up }}. On others, like Maut, where the burst from {{ site.date.talent.sk }} is more likely to kill you, I choose the less bursty option and go {{ site.data.talent.up }}.
 
-
-
-I don’t recommend to copy-paste those talents, but to always sim yourself. I also change the last row quite often, because on some Bosses I value the mobility from Stormkeeper higher than the higher SimDPS from UP. On others, like Maut, where the burst from Stormkeeper is more likely to kill you, I choose the less bursty option and go Unlimited Power.
-
-
-
-
-
-
-1. As I don’t run any IP trait in my current Setup, the first row is self explanatory – ER (Earthen Rage) or EB (Elemental Blast), depending on your Sims. EB just recently pulled ahead and they are still very close for me, so it comes down to personal preference. For Bosses with frequent Addspawns like Hivemind I would choose ER over EB regardless the sims, as you dont use EB if > 3 Targets
-
-2. Second Row, we have Totem Mastery ahead by a huge margin, which makes sense as it gives you passive Maelstrom and increases the overload chance of your #1 damage ability: Lightning Bolt.
-
-3. Third Row is a very situational Utility-Row. All talents have their ups, but I mostly run spirit wolf for the passive damage reduction which can come in handy.
-
-4. In the fourth row I pick Storm Elemental obviously, because without it, the Storm Elemental Build wouldn’t work, right?
-
-5. Fifth row is a tough one, in my opinion. We either have to sacrifice raid utility or a „defensive“ Cooldown. If the bossfight doesn’t need burst movement speed I go with Natures Guardian, in fights like Wrathion I talent into wind rush totem
-
-6. Next row is again pretty obvious, with Primal Elementalist we get access to a stronger version of our storm elemental and its on use effect. Surge of Power looks decent on paper, but we would lose out on Eye of the Storm, which is the greatest Source of damage during our Vision of Perfection procs if we not pick Primal Elementalist. Therefore the go-to choice will be PE
-
-7. Last row on the other hand is at least for now up for personal preference. When you want to have a bit more movement, which this memebuild honestly lacks, I’d go Stormkeeper, if you don’t want burst but more consistent damage on fights like Maut, where burst can kill you, I’d go with UP.
-Without any IP Traits and a strong emphasis on casting Lightning Bolt Ascendance is definitive no viable option.
-But, again, as always: SIM YOURSELF!
+1. As I don't run any {{ site.data.auerite.ip }} in my current setup, the first row is self explanatory – {{ site.data.talent.er }} or {{ site.data.talent.eb }}, depending on your simulations. {{ site.data.talent.eb }} just recently pulled ahead and they are still very close for me, so it comes down to personal preference. For bosses with frequent addspawns like Hivemind I would choose {{ site.data.talent.er }} over {{ site.data.talent.eb}} regardless, as you dont use {{ site.data.talent.eb}} if more than three targets are present.
+2. Second row, we have {{ site.data.talent.tm }} ahead by a huge margin, which makes sense as it gives you passive Maelstrom and increases the {{ site.data.spell.maelstrom }} of your #1 damage ability: {{ site.data.spell.lb }}.
+3. Third row is a very situational utility-row. All talents have their ups, but I mostly run {{ site.data.talent.spirit_wolf}} for the passive damage reduction, which can come in handy.
+4. In the fourth row I pick {{ site.data.talent.se }} obviously, because without it, the {{ site.data.talent.se }} build wouldn't work, right?
+5. Fifth row is a tough one, in my opinion. We either have to sacrifice raid utility or a "defensive" cooldown. If the bossfight doesn't need burst movement speed I go with {{ site.data.talent.natures_guardian }}, in fights like Wrathion I talent into {{ site.data.talent.wind_rush_totem }}.
+6. Next row is again pretty obvious, with {{ site.data.talent.pe }} we get access to a stronger version of our {{ site.data.talent.se }} and its on use effect. {{ site.data.talent.sop }} looks decent on paper, but we would lose out on {{ site.data.spell.eye_of_the_storm }}, which is the greatest source of damage during our {{ site.data.azerite.vop }} procs. Therefore the go-to choice will be {{ site.data.talent.pe }}.
+7. Last row on the other hand is at least for now up for personal preference. When you want to have a bit more movement, which this meme-build honestly lacks, I'd go {{ site.data.talent.sk }}, if you don't want burst but more consistent damage on fights like Maut, where burst can kill you, I'd go with {{ site.data.talent.up }}. Without any {{ site.data.azerite.ip }} Traits and a strong emphasis on casting {{ site.data.spell.lb }} {{ site.data.talent.asc }} is definitive no viable option. But, again, as always: SIM YOURSELF!
 
 
-## Gear:
+## Gear
 
-The VOP/SE Build favors crit and haste the most. Versa isnt far behind either and can even overcome haste. Because it scales so good with secondary stats and EB is a viable option, the Azerite Trait you get the most value of is Natural Harmony. Luckily for us, this is on every piece of Azerite in the new raid, Nnyalotha. Heart of Darkness, the raid-specific Azerite Trait is also pretty good for the same reasons as Natural Harmony. With the talents I chose, IP loses a lot of value because u won’t use Lava Burst as often as in the IF/Mote build.
-In terms of trinkets there is a lot that can work, I was lucky enough to get a 455 Azshara’s Font of Power whose on use Effect lines up pretty well with Stormele-CD and lasts for the entire duration (if you don’t get VOP procs).  The second trinket I use is Psyche Shredder which is basically BIS for (almost) every caster. As always, sim every trinket to figure out which is the best for your exact stats and gear.
+The {{ site.data.azerite.vop }}/{{ site.data.talent.se }} build favors crit and haste the most. Versatility isn't far behind either. Because this build scales so well with secondary stats, {{ site.data.talent.eb }} is a viable option. The most important Azerite Trait you can get is {{ site.data.azerite.natural_harmony }}. Luckily for us, this is on every piece of Azerite in the new raid, Ny'alotha. {{ site.data.azerite.heart_of_darkness }}, the raid-specific Azerite Trait is also pretty good for the same reason as {{ site.data.azerite.natural_harmony }}. With the choosen talents {{ site.data.azerite.ip }} loses a lot of value because you won't use {{ site.data.spell.lvb }} as often as in the {{ site.data.talent.if }}/{{ site.data.talent.mote }} build.
+In terms of trinkets there is a lot that can work, I was lucky enough to get a 455 Azshara's Font of Power, which's on use effect lines up pretty well with {{ site.data.talent.se }}-CD and lasts for the entire duration (if you don't get {{ site.data.azerite.vop }} procs). The second trinket I use is Psyche Shredder which is basically BIS for (almost) every caster. As always, sim every trinket to figure out which is the best for your exact stats and gear.
 
 
+## Essences
 
-## Essences:
-
-The only essence slot that is mandatory is the major, as this specific build requires you to have the Vision of Perfection Major essence. For minors the most common are Worldvein (for fights were you can achieve a high uptime on 4 stacks), Crucible of Flame, Breath of the Dying (especially due to the 10 corruption resistance), Conflict and Strife, Blood of the Enemy and Focusing Iris or even Symbiotic Presence. I use all of them, swapping them out depending on the fight. For more AoE heavy fights like Hivemind I use Blood of the Enemy or Symbiotic Presence, while on more stacked fights like Shadhar or Maut I go with Worldvein. But, again – sim all the essences that are available to you and swap them accordingly.
+The only essence slot that is mandatory is the major, as this specific build requires you to have the {{ site.data.azerite.vop }} Major essence. For minors the most common are {{ site.data.azerite.worldvein }} (for fights were you can achieve a high uptime on 4 stacks), {{ site.data.azerite.crucible_of_flames }}, {{ site.data.azerite.breath_of_the_dying }} (especially due to the 10 corruption resistance), {{ site.data.azerite.conflict_and_strife }}, {{ site.data.azerite.blood_of_the_enemy }} and {{ site.data.azerite.focusing_iris }} or even Symbiotic Presence. I use all of them, swapping them out depending on the fight. For more AoE heavy fights like Hivemind I use {{ site.data.azerite.blood_of_the_enemy }} or Symbiotic Presence, while on more stacked fights like Shadhar or Maut I go with {{ site.data.azerite.worldvein }}. But, again – sim all the essences that are available to you and swap them accordingly.
 
 I went to most fights with the following Essences:
 
-VOP Major / C&S, CoF and BotD Minor
+{{ site.data.azerite.vop }} Major / {{ site.data.azerite.conflict_and_strife }}, CoF and BotD Minor.
 
-For fights were you can stack I switch CoF to Worldvein
-
-
-## Consumables:
-
-There are no real differences to the default build, you still want to use Potion of Unbridled Fury as Combat Potion, Greater Flask of the Endless Fathoms and Big Mech as Bufffood. If you can afford it or have saved up some Augment Runes, I’ll use them on any progress fight.
+For fights where you can stack I switch CoF to {{ site.data.azerite.worldvein }}.
 
 
-## Add-Ons/Macros:
+## Consumables
 
-While there are plenty of Add-Ons that can help or make the default UI more appealing, I don’t consider any of those mandatory except Weakauras and either Big Wigs (which i use) or DBM
-One of the, at least for me, most important WAs specific for that build is the one, that shows a glowing icon when Storm Ele has Call Lightning Buff and you can press EotS safely.
-
-For that you can use the one that @BloodmalletEU made: [click me!] (https://wago.io/lV-p19t9u )
-
-## Boss by Boss Advice:
-
-This isn’t meant to be a boss by boss guide, just some advice you may find useful
-
-1. Wrathion
-
-Nothing special here, just delay your SE for the time the P2 has ended (and all spires are destroyed). Potential SE Procs can destroy stacked spires, but it’s not worth using your cooldown for that.
-On Mythic it’s the same, Assassins die from passive cleave and even though it might yield higher overall DPS, I’d use SE exclusively on Wrathion himself
-
-2. Maut
-
-Depending on your healers capabilities and overall raid – dps as well as execution you should delay your second SE for after the manashield if you NOT lose a total usage. On Mythic, where the damage on the shield can be tight, you definitely want to use Astral Shift on 15+ stacks and call for an external afterwards. If both is not available just stop dpsing for 2-3-4 seconds until you are at full HP again. I’d 100% play UP over SK on this boss, as SK is more likely to kill you when you get a ES crit before/after.
-I’d also play Worldvein at this boss
-
-3. Prophet Skitra
-
-There is nothing special except the fact, that you can build up stacks on the Illusions if you happen to have a SE proc and you haven’t figured out which one is the real Skitra. Wind Rush Totem is mandatory in this fight if you don’t have 10 feral/guardian druids. Even on mythic this dude is a joke. I would not use Worldvein on this boss
+There are no real differences to the default build, you still want to use {{ site.data.item.potion_of_unbridled_fury }} as combat potion, {{ site.data.item.big_int_flask }} and {{ site.data.item.big_crit_food }} as bufffood. If you can afford it or have saved up some Augment Runes, I'll use them on any progress fight.
 
 
+## Add-Ons/Macros
 
-4. Dark Inquisitor Xanesh
+While there are plenty of Add-Ons that can help or make the default UI more appealing, I don't consider any of those mandatory except Weakauras and either Big Wigs (which i use) or DBM. One of the, at least for me, most important WAs specific for that build is the one, that shows a glowing icon when {{ site.data.talent.se }} has {{ site.data.spell.call_lightning }} Buff and you can press {{ site.data.spell.eye_of_the_storm }} safely.
 
-Even though this boss favors IF/Mote more than VOP/SE, you can still make it work. If you utilize stutter-stepping to slowly walk away from the AoE you don’t lose much DPS. On Mythic Adds don’t live long enough to use SE on them, but i would blast SK in them. I would also use a /target XXX /cast Wind Shear /targetlasttarget macro for kicking the add casts without losing your Main Target.
-
-
-5. Hivemind
-
-This is THE boss made for SE. And I don’t mean because of padding. Use SE exclusively on one of the two bosses or ravager if you lacking DPS on it. If you can hold SE without losing a usage, try to hold the last one until both bosses are stacked to get some extra boss DPS for „free“.
+For that you can use the one that @BloodmalletEU made: [click me!](https://wago.io/lV-p19t9u)
 
 
+## Boss by Boss Advice
 
-6. Shadhar the Insatiable
+This isn't meant to be a boss by boss guide, just some advice you may find useful.
 
-Basic Patchwerk fight with low – medium movement. Nothing you can really do to avoid movement. It’s a good fight to use Worldvein, though.
+### Wrathion
+Nothing special here, just delay your {{ site.data.talent.se }} for the time the P2 has ended (and all spires are destroyed). Potential {{ site.data.azerite.vop }} procs can destroy stacked spires, but it's not worth using your cooldown for that. On Mythic it's the same, Assassins die from passive cleave and even though it might yield higher overall DPS, I'd use {{ site.data.talent.se }} exclusively on Wrathion himself.
 
-7.  Drestagath
+### Maut
+Depending on your healers' capabilities and overall raid–dps as well as execution you should delay your second {{ site.data.talent.se }} for after the manashield if you do NOT lose a total usage. On Mythic, where the damage on the shield can be tight, you definitely want to use {{ site.data.spell.astral_shift }} on 15+ stacks and call for an external afterwards. If both is not available just stop dpsing for 2-4 seconds until you are at full HP again. I'd 100% play {{ site.data.talent.up }} over {{ site.data.talent.sk }} on this boss, as {{ site.data.talent.sk }} is more likely to kill you when you get a {{ site.data.spell.es }} crit before/after. I'd also play {{ site.data.azerite.worldvein }} at this boss.
 
-Don’t try to pad damage on the boss without having the buff – damage that is healed is removed in Warcraftlogs. Other than that, this is another fight, especially on mythic, where funneling is most likely stronger than SE/VOP. It can still work, especially if you used trinket/SE shortly before you collect the buff, so you already have all buffs and stacks rolling.
+### Prophet Skitra
+There is nothing special except the fact, that you can build up stacks on the Illusions if you happen to have a {{ site.data.talent.se }} proc and you haven't figured out which one is the real Skitra. {{ site.data.talent.wind_rush_totem }} is mandatory in this fight if you don't have 10 feral/guardian druids. Even on mythic this boss is a joke. I would not use {{ site.data.azerite.worldvein }} on this boss.
 
+### Dark Inquisitor Xanesh
+Even though this boss favors {{ site.data.talent.if }}/{{ site.data.talent.mote }} more than {{ site.data.azerite.vop }}/{{ site.data.talent.se }}, you can still make it work. If you utilize stutter-stepping to slowly walk away from AoE you won't lose much DPS. On Mythic adds don't live long enough to use {{ site.data.talent.se }} on them, but i would blast {{ site.data.talent.sk }} in them. I would also use a /target XXX /cast {{ site.data.spell.wind_shear }} /targetlasttarget macro for kicking the add casts without losing your main target.
 
-8. Ilgynoth
-
-
-DO NOT USE THUNDERSTORM WHILE MC IS ACTIVE! EVER!
-Other than that, you can use SE on Pull and every P1 phase and still have it up for the last push phase. The free cleave from EotS is a super nice to have, as well. Wind Rush is also pretty good at that fight.
-
-
-9. Vexiona
-
-Use SE on Boss exclusively. Adds die from passive cleave and tank mechanic. Tremor is handy in last phase.
+### Hivemind
+This is **THE** boss made for {{ site.data.talent.se }}. And I don't mean because of padding. Use {{ site.data.talent.se }} exclusively on one of the two bosses or ravager if you're lacking DPS on it. If you can hold {{ site.data.talent.se }} without losing a usage, try to hold the last one until both bosses are stacked to get some extra boss DPS for "free".
 
 
-10. Ra-Den
+### Shadhar the Insatiable
+Basic Patchwerk fight with low – medium movement. Nothing you can really do to avoid movement. It's a good fight to use {{ site.data.azerite.worldvein }}, though.
 
-This fight is another one that suits SE/VOP really well. If you aren’t really unlucky then not much movement is happening in first stage, and last stage either. Another great fight for Worldvein Resonance.
+### Drestagath
+Don't try to pad damage on the boss without having the buff – damage that is healed is removed in [WarcraftLogs](https://www.warcraftlogs.com/). Other than that, this is another fight, especially on mythic, where funneling is most likely stronger than {{ site.data.azerite.vop }}/{{ site.data.talent.se }}. It can still work, especially if you used trinket/{{ site.data.talent.se }} shortly before you collect the buff, so you already have all buffs and stacks rolling.
 
-11. Carapace of N’zoth
+### Ilgynoth
+DO NOT USE  {{ site.data.spell.thunderstorm }} WHILE MC IS ACTIVE! EVER!
 
-Depending on your DPS you might want to hold on SE for Addspawns in P1, but normally just use SE on CD. Wind Rush is again very handy in this fight, as well as tremor totem. If your SE comes up, safe it for last phase Addspawn, that way you can utilize the free cleave on the adds the most, without losing Bossdps.
-
-
-12. N’zoth
-
-You can blast N’zoth, as you have SE up basically every burn phase, where N’zoth is vulnerable. Your overall DPS will be lower than most others, as you don’t have much to burst on Psychus, but that shouldn’t be your goal – except if you are struggling to kill him with 5-7 stacks. Last phase is also pretty low movement if you position yourself properly, further enhancing your capabilities.
-P.S.: Don’t even try to start that fight without having Wind Rush Totem talented.
+Other than that, you can use {{ site.data.talent.se }} on pull and every P1 phase and still have it up for the last push phase. The free cleave from EotS is super nice to have, as well. {{ site.data.talent.wind_rush_totem }} is also pretty good at that fight.
 
 
-## FAQ:
+### Vexiona
+Use {{ site.data.talent.se }} on boss exclusively. Adds die from passive cleave and tank mechanic. {{ site.data.spell.tremor_totem }} is handy in last phase.
+
+### Ra-Den
+This fight is one, that suits {{ site.data.azerite.vop }}/{{ site.data.talent.se }} really well. If you aren't really unlucky then not much movement is happening in first stage, and last stage either. Another great fight for {{ site.data.azerite.worldvein }}.
+
+### Carapace of N'zoth
+Depending on your DPS you might want to hold on {{ site.data.talent.se }} for addspawns in P1, but normally just use {{ site.data.talent.se }} on CD. {{ site.data.talent.wind_rush_totem }} is again very handy in this fight, as well as {{ site.data.spell.tremor_totem }}. If your {{ site.data.talent.se }} comes up, safe it for last phase addspawn, that way you can utilize the free cleave on the adds the most, without losing boss-dps.
+
+### N'zoth
+You can blast N'zoth, as you have {{ site.data.talent.se }} up basically every burn phase, where N'zoth is vulnerable. Your overall DPS will be lower than most others, as you don't have much to burst on Psychus, but that shouldn't be your goal – except if you are struggling to kill him with 5-7 stacks. Last phase is also pretty low movement if you position yourself properly, further enhancing your capabilities.
+
+P.S.: Don't even try to start that fight without having {{ site.data.talent.wind_rush_totem }} talented.
 
 
-* Q: What Azerite-Traits do i go for?
-* A: 3x Natural Harmony and either combination of Heart of Darkness and Echo of the Elementals. Ancestral Resonance or Synapse Shock aren’t too bad either.
-Q: What Talents should I choose?
-* A: Check Talent Breakdown above
+## FAQ
 
-* Q: What are my BiS Statweights?
-* A: Sim yourself, but a safe bet is to avoid mastery
 
-* Q: Do I use Elemental Blast while Stormele is active?
-* A: I personally stop using EB at 10-12 Stacks with Heroism and 14-16 without Heroism.
+- Q: What Azerite-Traits do i go for?
+- A: 3x {{ site.data.azerite.natural_harmony }} and either combination of {{ site.data.azerite.heart_of_darkness }} and {{ site.data.azerite.echo_of_the_elementals }}. {{ site.data.azerite.ancestral_resonance }} or {{ site.data.azerite.synapse_shock }} aren't too bad either.
 
-* Q: Do I really only use Lightning Bolt during SE?
-* A: No, you still dump Maelstrom with Earthshock
+- Q: What talents should I choose?
+- A: Check talent breakdown above.
 
-* Q: Do I cast no Lavaburst at all?
-* A: No, outside of Storm Elemental you cast Lavaburst on Cooldown
+- Q: What is my BiS stat distribution?
+- A: Sim yourself, but a safe bet is to avoid {{ site.data.spell.overload }}.
 
-* Q: What would be an example opener?
-* A: SK at 8, Font (if you have it)at 6, Prepot at 2, Elemental Blast (if talented, otherwise Lavaburst)-> Flameshock at Pull, Storm Elemental, Lightning Bolt, Eye of the Storm, Lightning Bolt and then Lightning Bolt until Earthshock .
+- Q: Do I use {{ site.data.talent.eb }} while {{ site.data.talent.se }} is active?
+- A: I personally stop using {{ site.data.talent.eb }} at 10-12 stacks with {{ site.data.spell.bloodlust }} and 14-16 without {{ site.data.spell.bloodlust }}.
 
-* Q: I have a very specific question that isn’t answered here
-* A: Ask in Elemental Discord or DM me (Drayygo#2910)
+- Q: Do I really only use {{ site.data.spell.lb }} during {{ site.data.talent.se }}?
+- A: No, you still dump Maelstrom with {{ site.data.spell.es }}.
+
+- Q: Do I cast no {{ site.data.spell.lvb }} at all?
+- A: No, outside of {{ site.data.talent.se }} you cast {{ site.data.spell.lvb }} on Cooldown.
+
+- Q: What would be an example opener?
+- A: {{ site.data.talent.sk }} at 8, Font (if you have it) at 6, prepot at 2, {{ site.data.talent.eb }} (if talented, otherwise {{ site.data.spell.lvb }})-> {{ site.data.spell.fs }} at Pull, {{ site.data.talent.se }}, {{ site.data.spell.lb }}, {{ site.data.spell.eye_of_the_storm }}, {{ site.data.spell.lb }} and followed by {{ site.data.spell.lb }} until {{ site.data.spell.es }}.
+
+- Q: I have a very specific question that isn't answered here.
+- A: Ask in Earthshrine Elemental Discord or DM me (Drayygo#2910).
