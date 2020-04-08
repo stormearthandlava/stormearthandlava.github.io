@@ -2,7 +2,7 @@
 layout: post
 title: Shadowlands Alpha
 excerpt: It's happening
-date: 2020-02-08 09:00:00
+date: 2020-04-08 09:00:00
 author: Bloodmallet(EU)
 ---
 
@@ -16,5 +16,5 @@ Even though I write "we", I didn't discuss this with the others, so there might 
 
 It's happening.
 
-Yours sincerely,
+Yours sincerely,<br/>
 Bloodmallet(EU)
