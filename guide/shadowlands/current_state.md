@@ -9,8 +9,10 @@ toc: true
 This page is intended to provide you a complete overview about every ability, spell, talent, and effect that affects Elemental Shamans throughout the development process of Shadowlands.
 
 ## Resources
+
 - primary resource is currently unknown
--
+- Fulmination
+- Seismic Thunder
 
 ## Spells
 - Chain Heal
@@ -22,6 +24,7 @@ This page is intended to provide you a complete overview about every ability, sp
 - Flametongue Weapon
 - Frost Shock
 - Lava Burst
+- Lightning Bolt
 - Lightning Shield
 - Searing Totem
 
