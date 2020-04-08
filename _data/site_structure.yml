@@ -2,6 +2,12 @@
 
 categories:
 
+- title: Shadowlands
+  subcategories:
+    - title: General
+      url: /guide/shadowlands/current_state.md
+    - title: Blue Posts
+      url: /guide/shadowlands/blue_posts.md
 - title: Guide
   subcategories:
     - title: Talents
