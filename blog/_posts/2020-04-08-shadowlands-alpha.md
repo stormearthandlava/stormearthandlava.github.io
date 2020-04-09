@@ -6,7 +6,7 @@ date: 2020-04-08 09:00:00
 author: Bloodmallet(EU)
 ---
 
-# Shadowlands Alpha start
+Greetings,
 
 Just now the Shadowlands Alpha Client was pushed in an non-encrypted version. We can therefore expect datamining and hopefully someone will gain access to it, too. In any case, we're looking forward to more information and would like to remind everyone to stay calm, read, wonder, think, and provide constructive feedback. Talk about your feelings, expectations, what and why you enjoy and dislike something. And do it in a calm manner.
 
