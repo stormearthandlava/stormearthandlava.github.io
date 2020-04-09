@@ -1,12 +1,12 @@
 ---
 layout: highcharts_page
-title: Current state
+title: General
 last_update: 2020-04-08 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
 ---
 
-This page is intended to provide you a complete overview about every ability, spell, talent, and effect that affects Elemental Shamans throughout the development process of Shadowlands.
+This page is intended to provide you a complete overview about every ability, spell, talent, and effect that affects Elemental Shamans throughout the development process of Shadowlands. Everything you can read here was confirmed ingame or we're in the process of confirming it. For now we're refraining from posting datamined information to be able to provide correct information to you. Datamining is great and very helpful, but can have some misleading sideeffects, when some things were experimented with, discarded and forgotten in the data, but suddenly datamining picks them up and gets everyone hyped for stuff, that isn't even meant to go live.
 
 ## Resources
 
