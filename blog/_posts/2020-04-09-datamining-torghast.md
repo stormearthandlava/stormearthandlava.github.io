@@ -112,6 +112,20 @@ But now it's time to dive in.
 | 298789 | | Looting Phantasma reduces the remaining cooldown of Astral Shift by ${$s1/1000} sec per Phantasma. |
 
 
+## Talents
+
+> This category was found by VT#0309 in Discord
+
+| Spell ID | Name | Description |
+| --- | --- | --- |
+| 298883 | $?a137040[Gain the Earthen Rage talent.] If you already have this talent, you may select another talent in the same row. |
+| 298884 | $?a137040[Gain the Aftershock talent.] If you already have this talent, you may select another talent in the same row. |
+| 298885 | $?a137040[Gain the Master of the Elements talent.] If you already have this talent, you may select another talent in the same row. |
+| 298886 | $?a137040[Gain the Surge of Power talent.] If you already have this talent, you may select another talent in the same row. |
+| 298887 | $?a137040[Gain the Unlimited Power talent.] If you already have this talent, you may select another talent in the same row. |
+
+
+
 Disclaimer:
 - everything shown here might not make it into the game
 - everything shown here might not be from the maw but something else (PvP?)
