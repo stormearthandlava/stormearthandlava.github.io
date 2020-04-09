@@ -13,7 +13,6 @@ You can see the latest blue post at the top.
 
 07.04.2020 [Source](https://worldofwarcraft.com/en-us/news/23310980/shadowlands-class-updates#item10)
 ```Markdown
-
 ## Shaman
 
 As a class, Shaman have long had some of the most distinctive categories
