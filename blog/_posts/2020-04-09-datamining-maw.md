@@ -24,9 +24,12 @@ But now it's time to dive in.
 | Spell ID | Name | Description |
 | --- | --- | --- |
 | 298803 | | Fire Elemental lasts indefinitely, but you cannot cast Frost spells. This will prevent you from casting Frost Shock, Elemental Blast, Icefury, and Water Walking. |
+| 298952 | | Summoning your $?s192249[Storm Elemental][Fire Elemental] causes you to gain Ascendance for ${$s1/1000} sec. |
 | 299391 | | Increases the damage of your Flame Shock, Lava Burst, Lava Beam, and Fire Elemental by $s1%. |
 | 299392 | | Increases the damage of your Lightning Bolt, Chain Lightning, and Storm Elemental by $s1%. |
 | 299393 | | Increases the damage of your Earth Shock, Earthquake, and Earth Elemental by $s1%. |
+
+
 
 ## Lightning Bolt + Chain Lightning
 
