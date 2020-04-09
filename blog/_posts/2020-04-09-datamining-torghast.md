@@ -118,11 +118,11 @@ But now it's time to dive in.
 
 | Spell ID | Name | Description |
 | --- | --- | --- |
-| 298883 | $?a137040[Gain the Earthen Rage talent.] If you already have this talent, you may select another talent in the same row. |
-| 298884 | $?a137040[Gain the Aftershock talent.] If you already have this talent, you may select another talent in the same row. |
-| 298885 | $?a137040[Gain the Master of the Elements talent.] If you already have this talent, you may select another talent in the same row. |
-| 298886 | $?a137040[Gain the Surge of Power talent.] If you already have this talent, you may select another talent in the same row. |
-| 298887 | $?a137040[Gain the Unlimited Power talent.] If you already have this talent, you may select another talent in the same row. |
+| 298883 | | $?a137040[Gain the Earthen Rage talent.] If you already have this talent, you may select another talent in the same row. |
+| 298884 | | $?a137040[Gain the Aftershock talent.] If you already have this talent, you may select another talent in the same row. |
+| 298885 | | $?a137040[Gain the Master of the Elements talent.] If you already have this talent, you may select another talent in the same row. |
+| 298886 | | $?a137040[Gain the Surge of Power talent.] If you already have this talent, you may select another talent in the same row. |
+| 298887 | | $?a137040[Gain the Unlimited Power talent.] If you already have this talent, you may select another talent in the same row. |
 
 
 
