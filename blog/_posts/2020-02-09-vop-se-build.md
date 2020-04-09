@@ -3,12 +3,13 @@ layout: post
 title: Vision of Perfection and Storm Elemental
 excerpt: The meme explained
 date: 2020-02-08 09:00:00
+updated: 2020-04-10 09:00:00
 author: Drayygo
 ---
 
 # Elemental Shaman – Visions of Perfection / Storm Elemental Build aka Meme-Spec
 
-Who am I? I'm [Drayygo](https://raider.io/characters/eu/blackmoore/Drayygo), a Shaman main since WotLK and Elemental main since mid-Legion. I am currently raiding in the german progress guild "Die Gummibärenbande" on EU-Blackmoore.
+Who am I? I'm [Drayygo](https://raider.io/characters/eu/sylvanas/Drayygo), a Shaman main since WotLK and Elemental main since mid-Legion.
 
 ## Introduction
 
