@@ -158,6 +158,12 @@ AoE:
 - [T] Wind Rush Totem
 
 
+### Useless
+
+- Flametongue Weapon
+- Lightning Shield [alright....it's not useless, but almost]
+- Primal Strike
+
 pvp:
 - elemental attunement  https://cdn.discordapp.com/attachments/698073433287688224/698084694717366292/unknown.png
 - traveling storms https://cdn.discordapp.com/attachments/698073433287688224/698084734961713202/unknown.png
