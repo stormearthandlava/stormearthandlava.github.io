@@ -1,7 +1,7 @@
 ---
 layout: highcharts_page
 title: General
-last_update: 2020-04-08 09:00:00
+last_update: 2020-04-10 17:45:00 +0200
 game_version: 9.0.0 Shadowlands
 toc: true
 ---
