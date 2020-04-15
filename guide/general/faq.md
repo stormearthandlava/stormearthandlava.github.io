@@ -1,7 +1,7 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 2020-01-11 09:00:00
+last_update: 2020-04-15 09:00:00
 game_version: 8.3.0 Battle for Azeroth
 toc: true
 ---
@@ -42,9 +42,9 @@ Since the cooldown of {{ site.data.spell.meteor }} is the same as the duration o
 
 *Note: This only applies when talented into* {{ site.data.talent.pe }}.
 
-~~Not that we're aware of. The Elementals' autocast settings are shared between the Elemental pets. If you deactivate or activate it on one button, the matching button of the other Elementals will share that setting.~~ We hope, that this will be changed.
+Not that we're aware of. The Elementals' autocast settings are shared between the Elemental pets. If you deactivate or activate it on one button, the matching button of the other Elementals will share that setting. We hope, that this will be changed.
 
-It was changed! 8.3 introduces separate toggle states for all three Elementals and their casts. This now should no longer pose an issue.
+~~It was changed! 8.3 introduces separate toggle states for all three Elementals and their casts. This now should no longer pose an issue.~~ The fix was reverted just before 8.3 went live.
 
 ### Q: "Do I use Lava Burst during Storm Elemental?"
 
