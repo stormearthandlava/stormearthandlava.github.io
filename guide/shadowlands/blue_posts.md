@@ -1,7 +1,7 @@
 ---
 layout: highcharts_page
 title: Blue Posts
-last_update: 2020-04-08 09:00:00
+last_update: 2020-06-11 09:00:00
 game_version: 9.0.0 Shadowlands
 toc: true
 ---
@@ -9,6 +9,32 @@ toc: true
 This page is intended to provide you with all Elemental Shaman related blue posts. If we missed one, please let us know.
 
 You can see the latest blue post at the top.
+
+
+10.06.2020 [Source](https://us.forums.blizzard.com/en/wow/t/feedback-shaman-class-changes/490695/101)
+```Markdown
+In an upcoming build of Shadowlands, several changes have been made for both of the DPS Shaman specializations.
+
+One quick note before discussing the specific changes to each spec, Searing Totem is being removed as a baseline button to all Shaman. Searing Totem was brought back in Shadowlands with the intention of Totems being a cool and iconic part of the Shaman class, but without significant redesign to the button to give it mechanical interaction and feeling impactful to press, it wound up feeling like just another cooldown you had to manage that didn’t have any excitement behind it.
+
+# Elemental Shaman:
+
+- Fulmination has been changed to be a guaranteed proc from Lightning Bolt and Lightning Bolt Overload.
+- Chain Lightning has been decoupled from Fulmination entirely, but still grants Seismic Thunder stacks.
+- Earthquake’s base damage has been reduced significantly, but Seismic Thunder now also increases the damage of Earthquake for each stack of Seismic Thunder consumed when cast.
+- Fire Elemental’s previous interaction with bonus Fulmination proc chance has been redesigned. While Fire Elemental is active, the period of Flame Shock is reduced, which increases the DPS of any active Flame Shock debuff and also increases the chance of gaining the Lava Surge effect. Additionally while Fire Elemental is active, any newly cast Flame Shock will have its Duration increased by 100%.
+- Lightning Shield will now grant the Shaman a charge of Fulmination when it deals damage to an enemy.
+- Echo of the Elements no longer grants a second charge of Healing Stream Totem for Elemental Shaman. This is more of a bug fix, but noting here as it is a moderate change to available utility of the Echo of the Elements talent. This talent is unchanged for Restoration.
+The changes above should make Elemental Shaman feel quite a bit more control over what will happen as the result of pressing their abilities.
+
+[... Enhancement Shaman changes]
+```
+
+
+17.04.2020 [Source](https://worldofwarcraft.com/en-us/news/23310980/shadowlands-class-updates#item10)
+```Markdown
+Surge of Power (Elemental) now occurs after consuming at least 6 stacks of Fulmination.
+```
 
 
 07.04.2020 [Source](https://worldofwarcraft.com/en-us/news/23310980/shadowlands-class-updates#item10)
