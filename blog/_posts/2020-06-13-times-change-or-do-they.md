@@ -31,9 +31,10 @@ In parenthesis you find the proc of that spell group.
 As described
 [here](https://worldofwarcraft.com/en-us/news/23310980/shadowlands-class-updates#item10) our
 intended focus should be Flame Shock with Lava Burst.
-```
+
+<code>
 But we want the focus of the rotation to be about managing your Flame Shock debuff on multiple targets to maximize the potential of Lava Burst through Lava Surge procs. Lightning Bolt, and consequently Earth Shock, are meant to be a flavorful but secondary part of the single-target rotation. As such, we are returning to a design that relies on building stacks of Fulmination to determine when to insert Earth Shock into the rotation. Similarly, Chain Lightning and stacks of Seismic Thunder will serve to enable Earthquake.
-```
+</code>
 
 The decoupling of the spell groups created a feeling for me, that regardless of which spell
 group I was focusing, I felt like neglecting the others and thus making a mistake. Let me try to describe this better:
