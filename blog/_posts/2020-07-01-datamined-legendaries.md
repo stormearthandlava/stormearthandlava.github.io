@@ -14,6 +14,12 @@ set in stone, but seeing them bundled up at one place might be nice.
 ### Ancestral Reminder
 Bloodlust or any similar effects last an additional 20.0 sec on you, and you gain an extra 10% Haste from any Bloodlust type effect.
 
+### Chains of Devastation
+Casting Chain Heal makes your next Chain Lightning instant cast. Casting Chain Lightning makes your next Chain Heal instant cast.
+
+### Deeply Rooted Elements
+Casting Lava Burst has a 5% chance to activate Ascendance for 6.0 sec.
+
 ### Deeptremor Stone
 Earth Elemental has a permanent Earthquake attached to it.
 
