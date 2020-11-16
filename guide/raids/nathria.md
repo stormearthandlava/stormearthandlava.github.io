@@ -36,7 +36,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **15**: {{site.data.talent.echo_of_the_elements}}
 * **30**: {{ site.data.talent.echoing_shock }} or {{ site.data.talent.elemental_blast }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{site.data.talent.earth_shield}}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -57,7 +57,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - {{ site.data.talent.spirit_wolf}} can help your survivability during intermission. {{ site.data.talent.earth_shield}} can offer HPS against the constant damage from Reverberating Scream.
 
 **Healing:**
-- Phase 2 is a great opportunity to support your raid with off-healing through Healing Stream Totem, Chain Heal, and Healing Surge as needed.
+- Phase 2 is a great opportunity to support your raid with off-healing through Healing Stream Totem, Chain Heal, and {{ site.data.spell.healing_surge }} as needed.
 
 **Utilities:**
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members with Echolocation, Echoing Shreek, or throughout Phase 2.
@@ -82,7 +82,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Cleave / Spread Cleave
 
 **Talents:**
-* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **15**: {{site.data.talent.echo_of_the_elements}}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -153,9 +153,9 @@ The tips and recommendations listed here are based on educated opinions from bet
 - If talented, {{ site.data.talent.spirit_wolf}} allows you to mitigate damage from Soul Pedestals.
 
 **Healing:**
-- If there is any downtime between add phases, support your raid with off-healing through Healing Stream Totem, Chain Heal, and Healing Surge.
+- If there is any downtime between add phases, support your raid with off-healing through Healing Stream Totem, Chain Heal, and {{ site.data.spell.healing_surge }}.
 - If talented, you can use {{ site.data.talent.earth_shield}} on Kael'thas for additional healing.
-- On Mythic difficulty, support healing through Cloak of Absorption with Healing Surge as needed.
+- On Mythic difficulty, support healing through Cloak of Absorption with {{ site.data.spell.healing_surge }} as needed.
 
 **Utilities:**
 - Interrupt Vulgar Brand and Scornful Blast from Vile Occultists as assigned.
@@ -257,7 +257,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / AoE / Funnel
 
 **Talents:**
-* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **15**: {{site.data.talent.echo_of_the_elements}}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -303,7 +303,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / Funnel
 
 **Talents:**
-* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **15**: {{site.data.talent.echo_of_the_elements}}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -334,7 +334,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **15**: {{site.data.talent.echo_of_the_elements}}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -377,7 +377,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** AoE / Cleave
 
 **Talents:**
-* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **15**: {{site.data.talent.echo_of_the_elements}}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -422,7 +422,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** ST / Cleave / Spread Cleave
 
 **Talents:**
-* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **15**: {{site.data.talent.echo_of_the_elements}}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -435,6 +435,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Echoes of Great Sundering
 
 **Damage:**
+
 Phase 1:
 - Pool Maelstrom for Echo of Sin adds. If talented, hold Stormkeeper for them as well.
 - Use Spiritwalker's Grace or instant casts as needed when targeted by Feeding Time (Night Hunter on Heroic/Mythic).
@@ -448,6 +449,7 @@ Phase 3:
 - Use Spiritwalker's Grace or instant casts as needed when targeted by Fatal Finesse and soaking Smoldering Ire.
 
 **Defensives:**
+
 Phase 1:
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) as needed for Feeding Time (Night Hunter on Heroic/Mythic), Blood Price, or Cleansing Pain.
 
@@ -465,6 +467,7 @@ Intermission:
 - As you will likely make it ahead of your raid during March of the Penitent, it is a good opportunity to briefly off-heal your fellow raid members after your Burden of Sin stacks drop.
 
 **Utilities:**
+
 Phase 1:
 - Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid position out of Ravage.
 
