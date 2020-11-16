@@ -4,6 +4,8 @@ title: "Castle Nathria Guide"
 last_update: 2020-11-17 00:00:00
 game_version: 9.0.1 Shadowlands
 author: Altenna
+toc: false
+
 ---
 # Introduction
 This guide was made possible by:
@@ -25,10 +27,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
-        <div class="card-header" id="ataldazar">
-            <div data-toggle="collapse" data-target="#shriekwing-collapse" aria-expanded="true" aria-controls="shriekwing-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
+        <div class="card-header" id="shriekwing">
+            <div data-toggle="collapse" data-target="#shriekwing-collapse" aria-expanded="true" aria-controls="shriekwing-collapse" class="dungeon-header shriekwing"><h2>Shriekwing</h2></div>
         </div>
-        <div id="shriekwing-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+        <div id="shriekwing-collapse" class="collapse" aria-labelledby="shriekwing" data-parent="#accordion">
           <div class="card-body" markdown="1">   
 
 ## Shriekwing
@@ -37,8 +39,8 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Talents:**
 * **15**: {{site.data.talent.echo_of_the_elements}}
-* **30**: {{ site.data.talent.echoing_shock }} or {{ site.data.talent.elemental_blast }}
-* **45**: {{ site.data.talent.spirit_wolf }} OR {{site.data.talent.earth_shield}}
+* **30**: {{ site.data.talent.echoing_shock }} OR {{ site.data.talent.elemental_blast }}
+* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
 * **75**: {{ site.data.talent.wind_rush_totem }}
 * **90**: {{ site.data.talent.icefury }}
@@ -49,32 +51,32 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Elemental Equilibrium
 
 **Damage:**
-- Utilize Spiritwalker's Grace or instant casts if targeted with Echolocation.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts if targeted with Echolocation.
 - If possible, pool Maelstrom on Shriekwing during Phase 2, but do not be reckless for it.
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} for Bloodcurdling Shriek and Reverberating Scream as needed.
-- {{ site.data.talent.spirit_wolf}} can help your survivability during intermission. {{ site.data.talent.earth_shield}} can offer HPS against the constant damage from Reverberating Scream.
+- {{ site.data.talent.spirit_wolf }} can help your survivability during intermission. {{ site.data.talent.earth_shield }} can offer HPS against the constant damage from Reverberating Scream.
 
 **Healing:**
-- Phase 2 is a great opportunity to support your raid with off-healing through Healing Stream Totem, Chain Heal, and {{ site.data.spell.healing_surge }} as needed.
+- Phase 2 is a great opportunity to support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }} as needed.
 
 **Utilities:**
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members with Echolocation, Echoing Shreek, or throughout Phase 2.
 
 **Notes:**
 - The damage patterns for this fight are either small trickles or very lethal. As such, {{ site.data.talent.natures_guardian }} may not prove useful, and {{ site.data.talent.wind_rush_totem }} will offer better survivability for you and your raid.
-- Because Sonar Shriek is a Horrify and not a Fear, you cannot use {{site.data.spell.tremor_totem}} to dispel players.
+- Because Sonar Shriek is a Horrify and not a Fear, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
         
 </div>
 </div>
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#altimor-collapse" aria-expanded="true" aria-controls="altimor-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
+<div class="card-header" id="altimor">
+<div data-toggle="collapse" data-target="#altimor-collapse" aria-expanded="true" aria-controls="altimor-collapse" class="dungeon-header altimor"><h2>Huntsman Altimor</h2></div>
 </div>
-<div id="altimor-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+<div id="altimor-collapse" class="collapse" aria-labelledby="altimor" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 ## Huntsman Altimor
@@ -98,12 +100,12 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the active pet.
 - Use {{ site.data.spell.earthquake }} when the boss and active pet are stacked together.
-- Utilize Spiritwalker's Grace or instant casts for Vicious Lunge and Petrifying Howl, as well as for Sinseeker and Shatter Shot on Mythic difficulty.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for Vicious Lunge and Petrifying Howl, as well as for Sinseeker and Shatter Shot on Mythic difficulty.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) for Vicious Lunge and Shattering Stone as needed.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if PE talented) for Vicious Lunge and Shattering Stone as needed.
 
-- If talented, {{ site.data.talent.spirit_wolf}} can help your survivability against Sinseeker as needed as well as navigating Petrifying Howl.
+- If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against Sinseeker as needed as well as navigating Petrifying Howl.
 
 **Healing:**
 - On Mythic difficulty, utilize your healing abilities as needed to keep yourself and nearby members healthy for the impending Pierced Soul adds when soaking Sinseeker during Bargast.
@@ -119,10 +121,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#salvation-collapse" aria-expanded="true" aria-controls="salvation-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
+<div class="card-header" id="salvation">
+<div data-toggle="collapse" data-target="#salvation-collapse" aria-expanded="true" aria-controls="salvation-collapse" class="dungeon-header salvation"><h2>Sun King's Salvation</h2></div>
 </div>
-<div id="salvation-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+<div id="salvation-collapse" class="collapse" aria-labelledby="salvation" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 ## Sun King's Salvation
@@ -145,15 +147,15 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
 - Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
-- Utilize Spiritwalker's Grace or instant casts for Ember Blast.
-- If talented, hold Primal Storm Elemental for incoming add waves.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for Ember Blast.
+- If talented, hold {{ site.data.spell.storm_elemtentals}}'s {{ site.data.spell.eye_of_the_storm }} for incoming add waves.
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) for Crimson Flurry (from Bleakwing Assassins) and Ember Blast (from Shade of Kael'thas) as needed.
 - If talented, {{ site.data.talent.spirit_wolf}} allows you to mitigate damage from Soul Pedestals.
 
 **Healing:**
-- If there is any downtime between add phases, support your raid with off-healing through Healing Stream Totem, Chain Heal, and {{ site.data.spell.healing_surge }}.
+- If there is any downtime between add phases, support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }}.
 - If talented, you can use {{ site.data.talent.earth_shield}} on Kael'thas for additional healing.
 - On Mythic difficulty, support healing through Cloak of Absorption with {{ site.data.spell.healing_surge }} as needed.
 
@@ -172,10 +174,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#artificer-collapse" aria-expanded="true" aria-controls="artificer-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
+<div class="card-header" id="artificer">
+<div data-toggle="collapse" data-target="#artificer-collapse" aria-expanded="true" aria-controls="artificer-collapse" class="dungeon-header artificer"><h2>Artificer Xy'mox</h2></div>
 </div>
-<div id="artificer-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+<div id="artificer-collapse" class="collapse" aria-labelledby="artificer" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 ## Artificer Xy'mox
@@ -196,7 +198,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Elemental Equilibrium
 
 **Damage:**
-- This is a very movement heavy fight, so be proactive with your instant casts and use Spiritwalker's Grace liberally.
+- This is a very movement heavy fight, so be proactive with your instant casts and use {{ site.data.spell.spiritwalkers_grace }} liberally.
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for Glyph of Destruction and Seed of Extinction.
@@ -226,7 +228,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Elemental Equilibrium
 
 **Damage:**
-- Utilize Spiritwalker's Grace or instant casts when spreading for Volatile Ejection and running from Consume.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts when spreading for Volatile Ejection and running from Consume.
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for any overlapping mechanics between Gluttonous Miasma, Expunge, and Desolate.
@@ -246,10 +248,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#darkvein-collapse" aria-expanded="true" aria-controls="darkvein-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
+<div class="card-header" id="darkvein">
+<div data-toggle="collapse" data-target="#darkvein-collapse" aria-expanded="true" aria-controls="darkvein-collapse" class="dungeon-header darkvein"><h2>Lady Inerva Darkvein</h2></div>
 </div>
-<div id="darkvein-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+<div id="darkvein-collapse" class="collapse" aria-labelledby="darkvein" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 ## Lady Inerva Darkvein
@@ -257,7 +259,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / AoE / Funnel
 
 **Talents:**
-* **15**: {{site.data.talent.echo_of_the_elements}}
+* **15**: {{ site.data.talent.echo_of_the_elements }}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -273,7 +275,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the Harnessed Specter add.
 - Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Pool Maelstrom for incoming add spawns. If Echoes of Great Sundering is equipped, hold a proc for an incoming add spawn as well.
-- Utilize Spiritwalker's Grace or instant casts as needed when targeted with Shared Suffering.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted with Shared Suffering.
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for Change of Heart and Bottled Anima vials.
@@ -291,10 +293,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#council-collapse" aria-expanded="true" aria-controls="council-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
+<div class="card-header" id="council">
+<div data-toggle="collapse" data-target="#council-collapse" aria-expanded="true" aria-controls="council-collapse" class="dungeon-header council"><h2>Council Of Blood</h2></div>
 </div>
-<div id="council-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+<div id="council-collapse" class="collapse" aria-labelledby="council" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 
@@ -303,7 +305,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / Funnel
 
 **Talents:**
-* **15**: {{site.data.talent.echo_of_the_elements}}
+* **15**: {{ site.data.talent.echo_of_the_elements }}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -318,7 +320,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
 - During the Danse Macabre, the bosses are still targetable even with 99% damage reduction. Continue maintaining {{ site.data.spell.flame_shock }}. If Skybreaker's Fiery Demise is equipped, this will especially be a major boon.
-- Utilize Spiritwalker's Grace or instant casts as needed for Anima Fountain, Waltz of Blood, Dark Recital, and Dancing Fever (on Mythic difficulty).
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for Anima Fountain, Waltz of Blood, Dark Recital, and Dancing Fever (on Mythic difficulty).
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for Dark Recital or as mechanics become overwhelming with increasing damage from Oppressive Atmosphere.
@@ -334,7 +336,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-* **15**: {{site.data.talent.echo_of_the_elements}}
+* **15**: {{ site.data.talent.echo_of_the_elements }}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -348,7 +350,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Destructive Impact occurs nearly every minute. If Stormkeeper is talented, it is a good idea to line up the cast with each Destructive Impact.
-- Utilize Spiritwalker's Grace or instant casts as needed for Destructive Stomp, Falling Rubble, Chain Slam, and Seismic Shift (on Mythic difficulty).
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for Destructive Stomp, Falling Rubble, Chain Slam, and Seismic Shift (on Mythic difficulty).
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} as needed for Colossal Roar and Destructive Impact.
@@ -365,8 +367,8 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#generals-collapse" aria-expanded="true" aria-controls="generals-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
+<div class="card-header" id="generals">
+<div data-toggle="collapse" data-target="#generals-collapse" aria-expanded="true" aria-controls="generals-collapse" class="dungeon-header generals"><h2>Stone Legion Generals</h2></div>
 </div>
 <div id="generals-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
@@ -377,7 +379,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** AoE / Cleave
 
 **Talents:**
-* **15**: {{site.data.talent.echo_of_the_elements}}
+* **15**: {{ site.data.talent.echo_of_the_elements }}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -393,7 +395,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
 - Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - If Echoes of Great Sundering is equipped, prepare a proc for incoming waves of adds.
-- Utilize Spiritwalker's Grace or instant casts as needed when targeted by Wicked Blade, Seismic Upheaval, and Reverberating Eruption.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by Wicked Blade, Seismic Upheaval, and Reverberating Eruption.
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) as needed for Pulverizing Meteor and Heart Hemorrhage.
@@ -410,10 +412,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 </div>
 
 <div class="card">
-<div class="card-header" id="ataldazar">
-<div data-toggle="collapse" data-target="#denathrius-collapse" aria-expanded="true" aria-controls="denathrius-collapse" class="dungeon-header ataldazar"><h2>Atal'Dazar</h2></div>
+<div class="card-header" id="denathrius">
+<div data-toggle="collapse" data-target="#denathrius-collapse" aria-expanded="true" aria-controls="denathrius-collapse" class="dungeon-header denathrius"><h2>Sire Denthrius</h2></div>
 </div>
-<div id="denathrius-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
+<div id="denathrius-collapse" class="collapse" aria-labelledby="denathrius" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 
@@ -422,7 +424,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** ST / Cleave / Spread Cleave
 
 **Talents:**
-* **15**: {{site.data.talent.echo_of_the_elements}}
+* **15**: {{ site.data.talent.echo_of_the_elements }}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -438,7 +440,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 Phase 1:
 - Pool Maelstrom for Echo of Sin adds. If talented, hold Stormkeeper for them as well.
-- Use Spiritwalker's Grace or instant casts as needed when targeted by Feeding Time (Night Hunter on Heroic/Mythic).
+- Use {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by Feeding Time (Night Hunter on Heroic/Mythic).
 
 Phase 2:
 - Maintain {{ site.data.spell.flame_shock }} on Sire Denathrius, Remornia, and any additional adds as you can.
@@ -446,7 +448,7 @@ Phase 2:
 - Depending on timings, you may pool Maelstrom and hold CDs to optimize the Wracking Pain debuff on enemies.
 
 Phase 3:
-- Use Spiritwalker's Grace or instant casts as needed when targeted by Fatal Finesse and soaking Smoldering Ire.
+- Use {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by Fatal Finesse and soaking Smoldering Ire.
 
 **Defensives:**
 
@@ -484,9 +486,9 @@ Phase 3:
 # Miscellaneous Tips
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
-- Time spent in {{ site.data.spell.ghost_wolf }}is time spent not doing damage. Practice proactive movement and utilizing Spiritwalker's Grace and instant casts as much as you can for movement heavy encounters.
+- Time spent in {{ site.data.spell.ghost_wolf }}is time spent not doing damage. Practice proactive movement and utilizing {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
 
-- When talenting Primal Elementalist, always remember you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun (Pulverize) through Earth Elemental.
+- When talenting {{ site.data.talent.pe }}, always remember you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through Earth Elemental.
 
 - Recall that Stampeding Roar is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
 
