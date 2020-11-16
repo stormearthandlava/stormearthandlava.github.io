@@ -102,7 +102,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for Vicious Lunge and Petrifying Howl, as well as for Sinseeker and Shatter Shot on Mythic difficulty.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if {{ site.data.talent.stormkeeper }} talented) for Vicious Lunge and Shattering Stone as needed.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if {{ site.data.talent.pe }} talented) for Vicious Lunge and Shattering Stone as needed.
 
 - If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against Sinseeker as needed as well as navigating Petrifying Howl.
 
@@ -370,7 +370,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - {{ site.data.legendary.eeq }}
 
 **Damage:**
-- Destructive Impact occurs nearly every minute. If {{ site.data.talent.stormkeeper }} is talented, it is a good idea to line up the cast with each Destructive Impact.
+- Destructive Impact occurs nearly every minute. If {{ site.data.talent.primal_elementalist }} is talented, it is a good idea to line up the cast with each Destructive Impact.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for Destructive Stomp, Falling Rubble, Chain Slam, and Seismic Shift (on Mythic difficulty).
 
 **Defensives:**
@@ -477,12 +477,12 @@ Phase 1:
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for Feeding Time (Night Hunter on Heroic/Mythic), Blood Price, or Cleansing Pain.
 
 Phase 2:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.stormkeeper }} talented) as needed for Impale or increasing Crimson Chorus stacks.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for Impale or increasing Crimson Chorus stacks.
 
 Phase 3:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.stormkeeper }} talented) as needed for Fatal Finesse or Smoldering Ire.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for Fatal Finesse or Smoldering Ire.
 
-\---
+<hr />
 - This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf}} can be beneficial in each phase. Burden of Sin, Carnage, Crimson Chorus, and Fatal Finesse are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield}}.
 
 **Healing:**
