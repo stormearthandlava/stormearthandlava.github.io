@@ -140,8 +140,8 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
-- Skybreaker's Fiery Demise
-- Echoes of Great Sundering
+- {{ site.data.legendary.skybreaker }}
+- {{ site.data.legendary.eogs }}
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
@@ -194,7 +194,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
-- Elemental Equilibrium
+- {{ site.data.legendary.eeq }}
 
 **Damage:**
 - This is a very movement heavy fight, so be proactive with your instant casts and use {{ site.data.spell.spiritwalkers_grace }} liberally.
@@ -207,7 +207,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members place Dimensional Tears, move Seeds of Extinction, and avoid Edge of Annihilation.
 
 **Notes:**
-- Because the Possession from Fleeting Spirits is a mind control and not a Charm, you cannot use {{site.data.spell.tremor_totem}} to dispel players.
+- Because the Possession from Fleeting Spirits is a mind control and not a Charm, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
 
 </div>
 </div>
@@ -235,7 +235,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
-- Elemental Equilibrium
+- {{ site.data.legendary.eeq }}
 
 **Damage:**
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts when spreading for Volatile Ejection and running from Consume.
@@ -279,12 +279,12 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
-- Echoes of Great Sundering
+- {{ site.data.legendary.eogs }}
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the Harnessed Specter add.
 - Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
-- Pool Maelstrom for incoming add spawns. If Echoes of Great Sundering is equipped, hold a proc for an incoming add spawn as well.
+- Pool Maelstrom for incoming add spawns. If {{ site.data.legendary.sundering }} is equipped, hold a proc for an incoming add spawn as well.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted with Shared Suffering.
 
 **Defensives:**
@@ -324,12 +324,12 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
-- Skybreaker's Fiery Demise
+- {{ site.data.legendary.skybreaker }}
 - {{ site.data.legendary.windspeaker }}
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
-- During the Danse Macabre, the bosses are still targetable even with 99% damage reduction. Continue maintaining {{ site.data.spell.flame_shock }}. If Skybreaker's Fiery Demise is equipped, this will especially be a major boon.
+- During the Danse Macabre, the bosses are still targetable even with 99% damage reduction. Continue maintaining {{ site.data.spell.flame_shock }}. If {{ site.data.legendary.skybreaker }} is equipped, this will especially be a major boon.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for Anima Fountain, Waltz of Blood, Dark Recital, and Dancing Fever (on Mythic difficulty).
 
 **Defensives:**
@@ -367,7 +367,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
-- Elemental Equilibrium
+- {{ site.data.legendary.eeq }}
 
 **Damage:**
 - Destructive Impact occurs nearly every minute. If {{ site.data.talent.stormkeeper }} is talented, it is a good idea to line up the cast with each Destructive Impact.
@@ -409,13 +409,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
-- Echoes of Great Sundering
-- Skybreaker's Fiery Demise
+- {{ site.data.legendary.eogs }}
+- {{ site.data.legendary.skybreaker }}
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
 - Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
-- If Echoes of Great Sundering is equipped, prepare a proc for incoming waves of adds.
+- If {{ site.data.legendary.eogs }} is equipped, prepare a proc for incoming waves of adds.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by Wicked Blade, Seismic Upheaval, and Reverberating Eruption.
 
 **Defensives:**
@@ -454,8 +454,8 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
-- Skybreaker's Fiery Demise
-- Echoes of Great Sundering
+- {{ site.data.legendary.skybreaker }}
+- {{ site.data.legendary.eogs }}
 
 **Damage:**
 
@@ -509,7 +509,7 @@ Phase 3:
 
 - Time spent in {{ site.data.spell.ghost_wolf }}is time spent not doing damage. Practice proactive movement and utilizing {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
 
-- When talenting {{ site.data.talent.pe }}, always remember you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through Earth Elemental.
+- When talenting {{ site.data.talent.pe }}, always remember you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.spell.earth_elemental }}.
 
 - Recall that Stampeding Roar is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
 
