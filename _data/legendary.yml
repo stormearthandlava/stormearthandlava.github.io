@@ -1,0 +1,35 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# General
+jailer: <a href="https://shadowlands.wowhead.com/spell=339058" target="blank">Third Eye of the Jailer</a>
+sacrifice: <a href="https://shadowlands.wowhead.com/spell=338743" target="blank">Vitality Sacrifice</a>
+eonar: <a href="https://shadowlands.wowhead.com/spell=338477" target="blank">Echo of Eonar</a>
+arbiter: <a href="https://shadowlands.wowhead.com/spell=339344" target="blank">Judgment of the Arbiter</a>
+maw: <a href="https://shadowlands.wowhead.com/spell=340197" target="blank">Maw Rattle</a>
+norgannon: <a href="https://shadowlands.wowhead.com/spell=339340" target="blank">Maw Rattle</a>
+sephuz: <a href="https://shadowlands.wowhead.com/spell=339348" target="blank">Norgannon's Sagacity</a>
+phantasma: <a href="https://shadowlands.wowhead.com/spell=339351" target="blank">Stable Phantasma Lure</a>
+
+# Shaman
+deeptremor: <a href="https://shadowlands.wowhead.com/spell=336739" target="blank">Deeptremor Stone</a>
+reminder: <a href="https://shadowlands.wowhead.com/spell=336741" target="blank">Ancestral Reminder</a>
+chains: <a href="https://shadowlands.wowhead.com/spell=336735" target="blank">Chains of Devastation</a>
+dre: <a href="https://shadowlands.wowhead.com/spell=336738" target="blank">Deeply Rooted Elements</a>
+
+# Elem
+eogs: <a href="https://shadowlands.wowhead.com/spell=336215" target="blank">Echoes of Great Sundering</a>
+eeq: <a href="https://shadowlands.wowhead.com/spell=336730" target="blank">Elemental Equilibrium</a>
+skybreaker: <a href="https://shadowlands.wowhead.com/spell=336734" target="blank">Skybreaker's Fiery Demise</a>
+windspeaker: <a href="https://shadowlands.wowhead.com/spell=336063" target="blank">Windspeaker's Lava Resurgence</a>

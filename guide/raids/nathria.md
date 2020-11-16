@@ -46,8 +46,8 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
-- Windspeaker's Lava Resurgence
-- Elemental Equilibrium
+- {{ site.data.legendary.windspeaker }}
+- {{ site.data.legendary.eeq }}
 
 **Damage:**
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts if targeted with Echolocation.
@@ -92,9 +92,9 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
-- Skybreaker's Fiery Demise
-- Echoes of Great Sundering
-- Elemental Equilibrium
+- {{ site.data.legendary.skybreaker }}
+- {{ site.data.legendary.eogs }}
+- {{ site.data.legendary.eeq }}
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the active pet.
@@ -102,7 +102,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for Vicious Lunge and Petrifying Howl, as well as for Sinseeker and Shatter Shot on Mythic difficulty.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if PE talented) for Vicious Lunge and Shattering Stone as needed.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if {{ site.data.talent.stormkeeper }} talented) for Vicious Lunge and Shattering Stone as needed.
 
 - If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against Sinseeker as needed as well as navigating Petrifying Howl.
 
@@ -193,7 +193,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
-- Windspeaker's Lava Resurgence
+- {{ site.data.legendary.windspeaker }}
 - Elemental Equilibrium
 
 **Damage:**
@@ -209,6 +209,17 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Notes:**
 - Because the Possession from Fleeting Spirits is a mind control and not a Charm, you cannot use {{site.data.spell.tremor_totem}} to dispel players.
 
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="destroyer">
+<div data-toggle="collapse" data-target="#destroyer-collapse" aria-expanded="true" aria-controls="destroyer-collapse" class="dungeon-header destroyer"><h2>Huntering Destroyer</h2></div>
+</div>
+<div id="destroyer-collapse" class="collapse" aria-labelledby="destroyer" data-parent="#accordion">
+<div class="card-body" markdown="1"> 
+
 ## Hungering Destroyer
 
 **Boss Fight Profile:** Single-Target
@@ -223,7 +234,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
-- Windspeaker's Lava Resurgence
+- {{ site.data.legendary.windspeaker }}
 - Elemental Equilibrium
 
 **Damage:**
@@ -267,7 +278,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
-- Windspeaker's Lava Resurgence
+- {{ site.data.legendary.windspeaker }}
 - Echoes of Great Sundering
 
 **Damage:**
@@ -314,7 +325,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Potential Legendaries:**
 - Skybreaker's Fiery Demise
-- Windspeaker's Lava Resurgence
+- {{ site.data.legendary.windspeaker }}
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
@@ -330,6 +341,17 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position for Danse Macabre, Anima Fountain, Waltz of Blood.
 
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="sludgefist">
+<div data-toggle="collapse" data-target="#sludgefist-collapse" aria-expanded="true" aria-controls="sludgefist-collapse" class="dungeon-header sludgefist"><h2>Sludgefist</h2></div>
+</div>
+<div id="sludgefist-collapse" class="collapse" aria-labelledby="sludgefist" data-parent="#accordion">
+<div class="card-body" markdown="1"> 
+
 ## Sludgefist
 
 **Boss Fight Profile:** Single-Target
@@ -344,11 +366,11 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
-- Windspeaker's Lava Resurgence
+- {{ site.data.legendary.windspeaker }}
 - Elemental Equilibrium
 
 **Damage:**
-- Destructive Impact occurs nearly every minute. If Stormkeeper is talented, it is a good idea to line up the cast with each Destructive Impact.
+- Destructive Impact occurs nearly every minute. If {{ site.data.talent.stormkeeper }} is talented, it is a good idea to line up the cast with each Destructive Impact.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for Destructive Stomp, Falling Rubble, Chain Slam, and Seismic Shift (on Mythic difficulty).
 
 **Defensives:**
@@ -438,7 +460,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Damage:**
 
 Phase 1:
-- Pool Maelstrom for Echo of Sin adds. If talented, hold Stormkeeper for them as well.
+- Pool Maelstrom for Echo of Sin adds. If talented, hold {{ site.data.talent.stormkeeper }} for them as well.
 - Use {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by Feeding Time (Night Hunter on Heroic/Mythic).
 
 Phase 2:
@@ -452,13 +474,13 @@ Phase 3:
 **Defensives:**
 
 Phase 1:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) as needed for Feeding Time (Night Hunter on Heroic/Mythic), Blood Price, or Cleansing Pain.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for Feeding Time (Night Hunter on Heroic/Mythic), Blood Price, or Cleansing Pain.
 
 Phase 2:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) as needed for Impale or increasing Crimson Chorus stacks.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.stormkeeper }} talented) as needed for Impale or increasing Crimson Chorus stacks.
 
 Phase 3:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) as needed for Fatal Finesse or Smoldering Ire.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.stormkeeper }} talented) as needed for Fatal Finesse or Smoldering Ire.
 
 \---
 - This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf}} can be beneficial in each phase. Burden of Sin, Carnage, Crimson Chorus, and Fatal Finesse are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield}}.
