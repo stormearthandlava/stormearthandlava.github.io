@@ -34,17 +34,10 @@ categories:
   url: /guide/general/mythic_plus.html
 
 
-# - title: Raids
-#   subcategories:
-#     - title: Uldir
-#       url: /guide/raids/uldir.html
-    #
-    #    - title: Boss1
-    #      url: /guide/raids/uldir/boss1.html
-    #    - title: Boss2
-    #      url: /guide/raids/uldir/boss2.html
-    #    - title: Boss3
-    #      url: /guide/raids/uldir/boss3.html
+- title: Raids
+  subcategories:
+    - title: Nathria
+      url: /guide/raids/nathria.html
 
 
 
