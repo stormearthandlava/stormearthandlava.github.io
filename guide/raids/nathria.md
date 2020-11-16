@@ -82,7 +82,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Cleave / Spread Cleave
 
 **Talents:**
-* **15**: {{site.data.talent.echo_of_the_elements}}
+* **15**: {{ site.data.talent.echo_of_the_elements }}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -130,7 +130,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** AoE / Cleave
 
 **Talents:**
-* **15**: {{site.data.talent.echo_of_the_elements}}
+* **15**: {{ site.data.talent.echo_of_the_elements }}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }}
 * **60**: {{ site.data.talent.master_of_the_elements }} OR {{ site.data.talent.storm_elemental }}
@@ -183,7 +183,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / Spread Cleave
 
 **Talents:**
-* **15**: {{site.data.talent.echo_of_the_elements}}
+* **15**: {{ site.data.talent.echo_of_the_elements }}
 * **30**: {{ site.data.talent.echoing_shock }}
 * **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
@@ -213,8 +213,8 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-* **15**: {{site.data.talent.echo_of_the_elements}}
-* **30**: {{ site.data.talent.echoing_shock }} OR EB
+* **15**: {{ site.data.talent.echo_of_the_elements }}
+* **30**: {{ site.data.talent.echoing_shock }} OR {{ site.data.talent.elemental_blast }}
 * **45**: {{ site.data.talent.spirit_wolf }}
 * **60**: {{ site.data.talent.master_of_the_elements }}
 * **75**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.wind_rush_totem }}
