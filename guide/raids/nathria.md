@@ -36,13 +36,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-- 2 - EotE
-- 2/3 - EcS or EB
-- 1/2 - SW or ES
-- 1 - MotE
-- 3 - WRT
-- 3 - IF
-- 2 - SK
+* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **30**: {{ site.data.talent.echoing_shock }} or {{ site.data.talent.elemental_blast }}
+* **45**: {{ site.data.talent.spirit_wolf }} OR {{site.data.talent.earth_shield}}
+* **60**: {{ site.data.talent.master_of_the_elements }}
+* **75**: {{ site.data.talent.wind_rush_totem }}
+* **90**: {{ site.data.talent.icefury }}
+* **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - Windspeaker's Lava Resurgence
@@ -82,13 +82,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Cleave / Spread Cleave
 
 **Talents:**
-- 2 - EotE
-- 2 - EcS
-- 1 - SW
-- 1 - MotE
-- 1 - NG
-- 2 - PE
-- 2 - SK
+* **15**: {{site.datat.talent.echo_of_the_elements}}
+* **30**: {{ site.data.talent.echoing_shock }}
+* **45**: {{ site.data.talent.spirit_wolf }}
+* **60**: {{ site.data.talent.master_of_the_elements }}
+* **75**: {{ site.data.talent.natures_guardian }}
+* **90**: {{ site.data.talent.primal_elementalist }}
+* **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - Skybreaker's Fiery Demise
@@ -97,7 +97,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the active pet.
-- Use Earthquake when the boss and active pet are stacked together.
+- Use {{ site.data.spell.earthquake} when the boss and active pet are stacked together.
 - Utilize Spiritwalker's Grace or instant casts for Vicious Lunge and Petrifying Howl, as well as for Sinseeker and Shatter Shot on Mythic difficulty.
 
 **Defensives:**
@@ -109,7 +109,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - On Mythic difficulty, utilize your healing abilities as needed to keep yourself and nearby members healthy for the impending Pierced Soul adds when soaking Sinseeker during Bargast.
 
 **Utilities:**
-- Use {{ site.data.spell.arth_shield}} on Shades of Bargast as assigned.
+- Use {{ site.data.spell.hex} on Shades of Bargast as assigned.
 
 **Notes:**
 - From beta testing, Shades of Bargast gained additional Destabilize stacks for each unique crowd control effect on them. If intended, then use {{ site.data.spell.capacitor_totem}} on them as well.
@@ -130,13 +130,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** AoE / Cleave
 
 **Talents:**
-- 2 - EotE
-- 2 - EcS
-- 1 - SW
+* **15**: {{site.data.talent.echo_of_the_elements}}
+* **30**: {{ site.data.talent.echoing_shock }}
+* **45**: {{ site.data.talent.spirit_wolf }}
 - 1/2 - MotE/SE
 - 1/3 - NG/WRT
-- 2 - PE
-- 2 - SK
+* **90**: {{ site.data.talent.primal_elementalist }}
+* **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - Skybreaker's Fiery Demise
@@ -144,7 +144,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
-- Use Earthquake when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Utilize Spiritwalker's Grace or instant casts for Ember Blast.
 - If talented, hold Primal Storm Elemental for incoming add waves.
 
@@ -183,9 +183,9 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / Spread Cleave
 
 **Talents:**
-* 2 - EotE
-* 2 - EcS
-* 1/2 - SW/ES
+* **15**: {{site.data.talent.echo_of_the_elements}}
+* **30**: {{ site.data.talent.echoing_shock }}
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
 * 1 - MotE
 * 3 - WRT
 * 3 - IF
@@ -213,11 +213,11 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-* 2 - EotE
-* 2/3 - EcS/EB
-* 1 - SW
+* **15**: {{site.data.talent.echo_of_the_elements}}
+* **30**: {{ site.data.talent.echoing_shock }} OR EB
+* **45**: {{ site.data.talent.spirit_wolf }}
 * 1 - MotE
-* 1/3 - NG/WRT
+* **75**: {{ site.data.talent.natures_guardian }}/WRT
 * 3 - IF
 * 2 - SK
 
@@ -257,13 +257,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / AoE / Funnel
 
 **Talents:**
-* 2 - EotE
+* **15**: {{site.datat.talent.echo_of_the_elements}}
 * 2 - EcS
-* 1/2 - SW/ES
-* 1 - MotE
-* 1 - NG
-* 2 - PE
-* 2 - SK
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
+* **60**: {{ site.data.talent.master_of_the_elements }}
+* **75**: {{ site.data.talent.natures_guardian }}
+* **90**: {{ site.data.talent.primal_elementalist }}
+* **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - Windspeaker's Lava Resurgence
@@ -271,7 +271,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the Harnessed Specter add.
-- Use Earthquake when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Pool Maelstrom for incoming add spawns. If Echoes of Great Sundering is equipped, hold a proc for an incoming add spawn as well.
 - Utilize Spiritwalker's Grace or instant casts as needed when targeted with Shared Suffering.
 
@@ -303,13 +303,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target / Funnel
 
 **Talents:**
-* 2 - EotE
+* **15**: {{site.datat.talent.echo_of_the_elements}}
 * 2 - EcS
-* 1/2 - SW/ES
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
 * 1 - MotE
 * 1/3 - NG/WRT
-* 2 - PE
-* 2 - SK
+* **90**: {{ site.data.talent.primal_elementalist }}
+* **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - Skybreaker's Fiery Demise
@@ -334,13 +334,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-* 2 - EotE
+* **15**: {{site.datat.talent.echo_of_the_elements}}
 * 2 - EcS
-* 1/2 - SW/ES
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
 * 1 - MotE
 * 1/3 - NG/WRT
 * 3 - IF
-* 2 - SK
+* **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - Windspeaker's Lava Resurgence
@@ -358,7 +358,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position out of Destructive Stomp or Falling Rubble.
 
 **Notes:**
-- Because of the Chain Link mechanic, be careful about your time spent in Ghost Wolf, especially if you are paired with a player less mobile.
+- Because of the Chain Link mechanic, be careful about your time spent in {{ site.data.spell.ghost_wolf}, especially if you are paired with a player less mobile.
 
 </div>
 </div>
@@ -377,13 +377,13 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** AoE / Cleave
 
 **Talents:**
-* 2 - EotE
+* **15**: {{site.datat.talent.echo_of_the_elements}}
 * 2 - EcS
-* 1/2 - SW/ES
-* 1 - MotE
-* 1/3 - NG/WRT
-* 2 - PE
-* 2 - SK
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
+* **60**: {{ site.data.talent.master_of_the_elements }}
+* **75**: {{ site.data.talent.natures_guardian }}/WRT
+* **90**: {{ site.data.talent.primal_elementalist }}
+* **100**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - Echoes of Great Sundering
@@ -391,7 +391,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
-- Use Earthquake when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - If Echoes of Great Sundering is equipped, prepare a proc for incoming waves of adds.
 - Utilize Spiritwalker's Grace or instant casts as needed when targeted by Wicked Blade, Seismic Upheaval, and Reverberating Eruption.
 
@@ -422,12 +422,12 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** ST / Cleave / Spread Cleave
 
 **Talents:**
-* 2 - EotE
+* **15**: {{site.datat.talent.echo_of_the_elements}}
 * 2 - EcS
-* 1/2 - SW/ES
-* 1 - MotE
+* **45**: {{ site.data.talent.spirit_wolf }}/ES
+* **60**: {{ site.data.talent.master_of_the_elements }}
 * 3 - WRT
-* 1/2 - IF/PE
+* 1/2 - IF OR {{ site.data.talent.primal_elementalist }}
 * 2 - SK
 
 **Potential Legendaries:**
@@ -441,7 +441,7 @@ Phase 1:
 
 Phase 2:
 - Maintain {{ site.data.spell.flame_shock }} on Sire Denathrius, Remornia, and any additional adds as you can.
-- Use Earthquake when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Depending on timings, you may pool Maelstrom and hold CDs to optimize the Wracking Pain debuff on enemies.
 
 Phase 3:
@@ -475,13 +475,13 @@ Phase 3:
 - Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid members navigate Shattering Pain, Hand of Destruction, Ravage, and Massacre.
 
 **Notes:**
-- Because of Ghost Wolf, you will not be slowed during March of the Penitent in Phase 1, but you must be in Ghost Wolf form before the phase begins. Consider not clearing any Burden of Sin stacks during this phase.
+- Because of {{ site.data.spell.ghost_wolf}, you will not be slowed during March of the Penitent in Phase 1, but you must be in {{ site.data.spell.ghost_wolf} form before the phase begins. Consider not clearing any Burden of Sin stacks during this phase.
 - If using Primal Earth Elemental for {{ site.data.spell.harden_skin}}, make sure it is not picking up adds and interfering with your tanks.
 
 # Miscellaneous Tips
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
-- Time spent in Ghost Wolf is time spent not doing damage. Practice proactive movement and utilizing Spiritwalker's Grace and instant casts as much as you can for movement heavy encounters.
+- Time spent in {{ site.data.spell.ghost_wolf} is time spent not doing damage. Practice proactive movement and utilizing Spiritwalker's Grace and instant casts as much as you can for movement heavy encounters.
 
 - When talenting Primal Elementalist, always remember you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun (Pulverize) through Earth Elemental.
 
@@ -489,8 +489,8 @@ Phase 3:
 
 - As kill times become faster on farm, Ancestral Reminder may be a competitive legendary to use for some bosses.
 
-          </div>
-        </div>
-    </div>
+</div>
+</div>
+</div>
 </div>
 </div>
