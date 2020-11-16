@@ -2,7 +2,7 @@
 layout: page
 title: "Castle Nathria Guide"
 last_update: 2020-11-17 00:00:00
-game_version: 9.0.1 Shadowlands
+game_version: 9.0.2 Shadowlands
 author: Altenna
 toc: false
 ---
@@ -215,7 +215,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="destroyer">
-<div data-toggle="collapse" data-target="#destroyer-collapse" aria-expanded="true" aria-controls="destroyer-collapse" class="dungeon-header destroyer"><h2>Huntering Destroyer</h2></div>
+<div data-toggle="collapse" data-target="#destroyer-collapse" aria-expanded="true" aria-controls="destroyer-collapse" class="dungeon-header destroyer"><h2>Hungering Destroyer</h2></div>
 </div>
 <div id="destroyer-collapse" class="collapse" aria-labelledby="destroyer" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
