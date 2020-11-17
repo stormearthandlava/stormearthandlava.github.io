@@ -116,10 +116,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 - On Mythic difficulty, utilize your healing abilities as needed to keep yourself and nearby members healthy for the impending {{ site.data.nathria.pierce_soul }} adds when soaking {{ site.data.nathria.sinseeker }} during {{ site.data.nathria.bargast }}.
 
 **Utilities:**
-- Use {{ site.data.spell.hex}} on {{ site.data.nathria.shade_of_bargast }} as assigned.
+- Use {{ site.data.spell.hex}} on {{ site.data.nathria.shades_of_bargast }} as assigned.
 
 **Notes:**
-- From beta testing, {{ site.data.nathria.shade_of_bargast }} gained additional {{ site.data.nathria.destabilize }} stacks for each unique crowd control effect on them. If intended, then use {{ site.data.spell.capacitor_totem}} on them as well.
+- From beta testing, {{ site.data.nathria.shades_of_bargast }} gained additional {{ site.data.nathria.destabilize }} stacks for each unique crowd control effect on them. If intended, then use {{ site.data.spell.capacitor_totem}} on them as well.
 
 </div>
 </div>
@@ -366,7 +366,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Pool Maelstrom shortly before {{ site.data.nathria.destructive_impact }}.
-- {{ site.data.nathria.destructive_impact }} occurs nearly every minute. If {{ site.data.stormkeeper }} is talented, it is a good idea to line up the cast with each {{ site.data.nathria.destructive_impact }}.
+- {{ site.data.nathria.destructive_impact }} occurs nearly every minute. If {{ site.data.talent.stormkeeper }} is talented, it is a good idea to line up the cast with each {{ site.data.nathria.destructive_impact }}.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.destructive_stomp }}, {{ site.data.nathria.falling_rubble }}, {{ site.data.nathria.chain_slam }}, and {{ site.data.nathria.seismic_shift }} (on Mythic difficulty).
 
 **Defensives:**
