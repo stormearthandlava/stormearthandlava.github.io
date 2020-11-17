@@ -394,10 +394,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **25**: {{ site.data.talent.echoing_shock }} OR {{site.data.talent.aftershock}}
-* **30**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
+* **25**: {{ site.data.talent.echoing_shock }} or {{site.data.talent.aftershock}}
+* **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
-* **40**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.wind_rush_totem }}
+* **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
 
