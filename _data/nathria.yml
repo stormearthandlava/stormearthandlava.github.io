@@ -1,0 +1,106 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+echolocation: <a href="http://shadowlands.wowhead.com/spell=342074" target="blank">Echolocation</a>
+earsplitting_shriek: <a href="http://shadowlands.wowhead.com/spell=330711" target="blank">Earsplitting Shriek</a>
+echoing_screech: <a href="http://shadowlands.wowhead.com/spell=342863" target="blank">Echoing Screech</a>
+shriekwing: <a href="http://shadowlands.wowhead.com/npc=172145" target="blank">Shriekwing</a>
+vicious_lunge: <a href="http://shadowlands.wowhead.com/spell=334939" target="blank">Vicious Lunge</a>
+petrifying_howl: <a href="http://shadowlands.wowhead.com/spell=334852" target="blank">Petrifying Howl</a>
+sinseeker: <a href="http://shadowlands.wowhead.com/spell=335114" target="blank">Sinseeker</a>
+shatter_shot: <a href="http://shadowlands.wowhead.com/spell=338593" target="blank">Shatter Shot</a>
+shattering_stone: <a href="http://shadowlands.wowhead.com/spell=334932" target="blank">Shattering Stone</a>
+pierce_soul: <a href="http://shadowlands.wowhead.com/spell=338609" target="blank">Pierce Soul</a>
+shades_of_bargast: <a href="http://shadowlands.wowhead.com/spell=334757" target="blank">Shades Of Bargast</a>
+destabilize: <a href="http://shadowlands.wowhead.com/spell=334695" target="blank">Destabilize</a>
+bargast: <a href="http://shadowlands.wowhead.com/npc=169457" target="blank">Bargast</a>
+margore: <a href="http://shadowlands.wowhead.com/npc=165067" target="blank">Margore</a>
+hecutis: <a href="http://shadowlands.wowhead.com/npc=169458" target="blank">Hecutis</a>
+ember_blast: <a href="http://shadowlands.wowhead.com/spell=325877" target="blank">Ember Blast</a>
+crimson_flurry: <a href="http://shadowlands.wowhead.com/spell=326583" target="blank">Crimson Flurry</a>
+vulgar_brand: <a href="http://shadowlands.wowhead.com/spell=333002" target="blank">Vulgar Brand</a>
+scornful_blast: <a href="http://shadowlands.wowhead.com/spell=325590" target="blank">Scornful Blast</a>
+soul_pedestal: <a href="http://shadowlands.wowhead.com/npc=173382" target="blank">Soul Pedestal</a>
+kaelthas_sunstrider: <a href="http://shadowlands.wowhead.com/npc=165759" target="blank">Kaelthas Sunstrider</a>
+vile_occultist: <a href="http://shadowlands.wowhead.com/npc=165763" target="blank">Vile Occultist</a>
+soul_infuser: <a href="http://shadowlands.wowhead.com/npc=165762" target="blank">Soul Infuser</a>
+reborn_phoenix: <a href="http://shadowlands.wowhead.com/npc=168962" target="blank">Reborn Phoenix</a>
+glyph_of_destruction: <a href="http://shadowlands.wowhead.com/spell=325361" target="blank">Glyph Of Destruction</a>
+seed_of_extinction: <a href="http://shadowlands.wowhead.com/spell=329090" target="blank">Seed Of Extinction</a>
+hyperlight_spark: <a href="http://shadowlands.wowhead.com/spell=325399" target="blank">Hyperlight Spark</a>
+aura_of_dread: <a href="http://shadowlands.wowhead.com/spell=340870" target="blank">Aura Of Dread</a>
+dimensional_tear: <a href="http://shadowlands.wowhead.com/spell=328437" target="blank">Dimensional Tear</a>
+edge_of_annihilation: <a href="http://shadowlands.wowhead.com/spell=328880" target="blank">Edge Of Annihilation</a>
+possession: <a href="http://shadowlands.wowhead.com/spell=327414" target="blank">Possession</a>
+fleeting_spirit: <a href="http://shadowlands.wowhead.com/npc=168317" target="blank">Fleeting Spirit</a>
+volatile_ejection: <a href="http://shadowlands.wowhead.com/spell=334266" target="blank">Volatile Ejection</a>
+consume: <a href="http://shadowlands.wowhead.com/spell=334522" target="blank">Consume</a>
+gluttonous_miasma: <a href="http://shadowlands.wowhead.com/spell=329298" target="blank">Gluttonous Miasma</a>
+expunge: <a href="http://shadowlands.wowhead.com/spell=329742" target="blank">Expunge</a>
+desolate: <a href="http://shadowlands.wowhead.com/spell=329455" target="blank">Desolate</a>
+shared_suffering: <a href="http://shadowlands.wowhead.com/spell=324983" target="blank">Shared Suffering</a>
+change_of_heart: <a href="http://shadowlands.wowhead.com/spell=325384" target="blank">Change Of Heart</a>
+bottled_anima: <a href="http://shadowlands.wowhead.com/spell=325769" target="blank">Bottled Anima</a>
+loose_anima: <a href="http://shadowlands.wowhead.com/spell=325184" target="blank">Loose Anima</a>
+condemn: <a href="http://shadowlands.wowhead.com/spell=334017" target="blank">Condemn</a>
+harnessed_specter: <a href="http://shadowlands.wowhead.com/npc=170199" target="blank">Harnessed Specter</a>
+conjured_manifestation: <a href="http://shadowlands.wowhead.com/npc=173484" target="blank">Conjured Manifestation</a>
+danse_macabre: <a href="http://shadowlands.wowhead.com/spell=328497" target="blank">Danse Macabre</a>
+anima_fountain: <a href="http://shadowlands.wowhead.com/spell=327475" target="blank">Anima Fountain</a>
+waltz_of_blood: <a href="http://shadowlands.wowhead.com/spell=327619" target="blank">Waltz Of Blood</a>
+dark_recital: <a href="http://shadowlands.wowhead.com/spell=331634" target="blank">Dark Recital</a>
+dancing_fever: <a href="http://shadowlands.wowhead.com/spell=347350" target="blank">Dancing Fever</a>
+oppressive_atmosphere: <a href="http://shadowlands.wowhead.com/spell=334909" target="blank">Oppressive Atmosphere</a>
+scarlet_letter: <a href="http://shadowlands.wowhead.com/spell=331708" target="blank">Scarlet Letter</a>
+unstoppable_charge: <a href="http://shadowlands.wowhead.com/spell=334948" target="blank">Unstoppable Charge</a>
+castellans_cadre: <a href="http://shadowlands.wowhead.com/spell=330965" target="blank">Castellans Cadre</a>
+dancing_fools: <a href="http://shadowlands.wowhead.com/spell=330964" target="blank">Dancing Fools</a>
+bolt_of_power: <a href="http://shadowlands.wowhead.com/spell=323538" target="blank">Bolt Of Power</a>
+baroness_frieda: <a href="http://shadowlands.wowhead.com/npc=166969" target="blank">Baroness Frieda</a>
+destructive_impact: <a href="http://shadowlands.wowhead.com/spell=332969" target="blank">Destructive Impact</a>
+destructive_stomp: <a href="http://shadowlands.wowhead.com/spell=332318" target="blank">Destructive Stomp</a>
+falling_rubble: <a href="http://shadowlands.wowhead.com/spell=332572" target="blank">Falling Rubble</a>
+chain_slam: <a href="http://shadowlands.wowhead.com/spell=335354" target="blank">Chain Slam</a>
+seismic_shift: <a href="http://shadowlands.wowhead.com/spell=340803" target="blank">Seismic Shift</a>
+colossal_roar: <a href="http://shadowlands.wowhead.com/spell=332687" target="blank">Colossal Roar</a>
+chain_link: <a href="http://shadowlands.wowhead.com/spell=335300" target="blank">Chain Link</a>
+collapsing_foundation: <a href="http://shadowlands.wowhead.com/spell=332197" target="blank">Collapsing Foundation</a>
+wicked_blade: <a href="http://shadowlands.wowhead.com/spell=333387" target="blank">Wicked Blade</a>
+seismic_upheaval: <a href="http://shadowlands.wowhead.com/spell=334500" target="blank">Seismic Upheaval</a>
+reverberating_eruption: <a href="http://shadowlands.wowhead.com/spell=344500" target="blank">Reverberating Eruption</a>
+pulverizing_meteor: <a href="http://shadowlands.wowhead.com/spell=339728" target="blank">Pulverizing Meteor</a>
+heart_hemorrhage: <a href="http://shadowlands.wowhead.com/spell=334771" target="blank">Heart Hemorrhage</a>
+wicked_laceration: <a href="http://shadowlands.wowhead.com/spell=333913" target="blank">Wicked Laceration</a>
+heart_rend: <a href="http://shadowlands.wowhead.com/spell=334765" target="blank">Heart Rend</a>
+stonegale_effigy: <a href="http://shadowlands.wowhead.com/spell=342985" target="blank">Stonegale Effigy</a>
+shattering_blast: <a href="http://shadowlands.wowhead.com/spell=332683" target="blank">Shattering Blast</a>
+feeding_time: <a href="http://shadowlands.wowhead.com/spell=327089" target="blank">Feeding Time</a>
+night_hunter: <a href="http://shadowlands.wowhead.com/spell=327796" target="blank">Night Hunter</a>
+wracking_pain: <a href="http://shadowlands.wowhead.com/spell=329181" target="blank">Wracking Pain</a>
+fatal_finesse: <a href="http://shadowlands.wowhead.com/spell=332797" target="blank">Fatal Finesse</a>
+smoldering_ire: <a href="http://shadowlands.wowhead.com/spell=336008" target="blank">Smoldering Ire</a>
+blood_price: <a href="http://shadowlands.wowhead.com/spell=326851" target="blank">Blood Price</a>
+cleansing_pain: <a href="http://shadowlands.wowhead.com/spell=326707" target="blank">Cleansing Pain</a>
+crimson_chorus: <a href="http://shadowlands.wowhead.com/spell=329711" target="blank">Crimson Chorus</a>
+impale: <a href="http://shadowlands.wowhead.com/spell=329974" target="blank">Impale</a>
+burden_of_sin: <a href="http://shadowlands.wowhead.com/spell=326699" target="blank">Burden Of Sin</a>
+carnage: <a href="http://shadowlands.wowhead.com/spell=329875" target="blank">Carnage</a>
+march_of_the_penitent: <a href="http://shadowlands.wowhead.com/spell=328276" target="blank">March Of The Penitent</a>
+ravage: <a href="http://shadowlands.wowhead.com/spell=327123" target="blank">Ravage</a>
+massacre: <a href="http://shadowlands.wowhead.com/spell=330137" target="blank">Massacre</a>
+hand_of_destruction: <a href="http://shadowlands.wowhead.com/spell=330627" target="blank">Hand Of Destruction</a>
+shattering_pain: <a href="http://shadowlands.wowhead.com/spell=332619" target="blank">Shattering Pain</a>
+echo_of_sin: <a href="http://shadowlands.wowhead.com/npc=167999" target="blank">Echo Of Sin</a>
+sire_denathrius: <a href="http://shadowlands.wowhead.com/npc=168938" target="blank">Sire Denathrius</a>
+remornia: <a href="http://shadowlands.wowhead.com/npc=168156" target="blank">Remornia</a>

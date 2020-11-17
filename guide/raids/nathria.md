@@ -18,54 +18,63 @@ This guide was made possible by:
 Information on this page is written with the assumption that you understand the new priority list, talents, and legendary items introduced in Shadowlands. If you have not done so, we highly recommend reading our other resources to learn about them!
 
 The tips and recommendations listed here are based on educated opinions from beta testing as well as reviewing logs and videos, so strategies can change as we develop a better understanding of each fight or as the spec and bosses are tuned. If you have any disagreements, feedback, or questions, please feel welcome to reach out to the team.
-# Bosses
 
-<p style="color:red">Click/tap on a dungeon's header image to expand it.</p>
+# Miscellaneous Tips
+- GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
+
+- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilizing {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
+
+- When talenting {{ site.data.talent.pe }}, always remember you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.spell.earth_elemental }}.
+
+- Recall that [Stampeding Roar](https://www.wowhead.com/spell=106898/stampeding-roar) is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
+
+- As kill times become faster on farm, {{ site.data.legendary.reminder }} may be a competitive legendary to use for some bosses.
+
+# Bosses
+<p style="color:red">Click on a boss banner to expand it.</p>
 
 <hr>
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
         <div class="card-header" id="shriekwing">
-            <div data-toggle="collapse" data-target="#shriekwing-collapse" aria-expanded="true" aria-controls="shriekwing-collapse" class="dungeon-header shriekwing"><h2>Shriekwing</h2></div>
+            <div data-toggle="collapse" data-target="#shriekwing-collapse" aria-expanded="true" aria-controls="shriekwing-collapse" class="raid-header castle_nathria"><h2>Shriekwing</h2></div>
         </div>
         <div id="shriekwing-collapse" class="collapse" aria-labelledby="shriekwing" data-parent="#accordion">
           <div class="card-body" markdown="1">   
-
-## Shriekwing
 
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
 * **15**: {{site.data.talent.echo_of_the_elements}}
-* **30**: {{ site.data.talent.echoing_shock }} OR {{ site.data.talent.elemental_blast }}
-* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* **75**: {{ site.data.talent.wind_rush_totem }}
-* **90**: {{ site.data.talent.icefury }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* **25**: {{ site.data.talent.echoing_shock }} or {{ site.data.talent.elemental_blast }}
+* **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35**: {{ site.data.talent.master_of_the_elements }}
+* **40**: {{ site.data.talent.wind_rush_totem }}
+* **45**: {{ site.data.talent.icefury }}
+* **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
 - {{ site.data.legendary.eeq }}
 
 **Damage:**
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts if targeted with Echolocation.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts if targeted with {{ site.data.nathria.echolocation }}.
 - If possible, pool Maelstrom on Shriekwing during Phase 2, but do not be reckless for it.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} for Bloodcurdling Shriek and Reverberating Scream as needed.
+- Use {{ site.data.spell.astral_shift }} for {{ site.data.nathria.earsplitting_shriek }} and {{ site.data.nathria.reverberating_scream }} as needed.
 - {{ site.data.talent.spirit_wolf }} can help your survivability during intermission. {{ site.data.talent.earth_shield }} can offer HPS against the constant damage from Reverberating Scream.
 
 **Healing:**
 - Phase 2 is a great opportunity to support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }} as needed.
 
 **Utilities:**
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members with Echolocation, Echoing Shreek, or throughout Phase 2.
+- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members with {{ site.data.nathria.echolocation }}, {{ site.data.nathria.echoing_screech }}, or throughout Phase 2.
 
 **Notes:**
 - The damage patterns for this fight are either small trickles or very lethal. As such, {{ site.data.talent.natures_guardian }} may not prove useful, and {{ site.data.talent.wind_rush_totem }} will offer better survivability for you and your raid.
-- Because Sonar Shriek is a Horrify and not a Fear, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
+- Because {{ site.data.nathria.sonar_shriek }} is a Horrify and not a Fear, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
         
 </div>
 </div>
@@ -73,47 +82,44 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="altimor">
-<div data-toggle="collapse" data-target="#altimor-collapse" aria-expanded="true" aria-controls="altimor-collapse" class="dungeon-header altimor"><h2>Huntsman Altimor</h2></div>
+<div data-toggle="collapse" data-target="#altimor-collapse" aria-expanded="true" aria-controls="altimor-collapse" class="raid-header castle_nathria"><h2>Huntsman Altimor</h2></div>
 </div>
 <div id="altimor-collapse" class="collapse" aria-labelledby="altimor" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
-
-## Huntsman Altimor
 
 **Boss Fight Profile:** Cleave / Spread Cleave
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-* **45**: {{ site.data.talent.spirit_wolf }}
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* **75**: {{ site.data.talent.natures_guardian }}
-* **90**: {{ site.data.talent.primal_elementalist }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* **25**: {{ site.data.talent.aftershock }} or {{ site.data.talent.echoing_shock }}
+* **30**: {{ site.data.talent.spirit_wolf }}
+* **35**: {{ site.data.talent.master_of_the_elements }}
+* **40**: {{ site.data.talent.natures_guardian }}
+* **45**: {{ site.data.talent.primal_elementalist }}
+* **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.skybreaker }}
 - {{ site.data.legendary.eogs }}
-- {{ site.data.legendary.eeq }}
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the active pet.
 - Use {{ site.data.spell.earthquake }} when the boss and active pet are stacked together.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for Vicious Lunge and Petrifying Howl, as well as for Sinseeker and Shatter Shot on Mythic difficulty.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.petrifying_howl }}, as well as for {{ site.data.nathria.sinseeker }} and {{ site.data.nathria.shatter_shot }} on Mythic difficulty.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if {{ site.data.talent.pe }} talented) for Vicious Lunge and Shattering Stone as needed.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if {{ site.data.talent.pe }} talented) for {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.shattering_stone }} as needed.
 
-- If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against Sinseeker as needed as well as navigating Petrifying Howl.
+- If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against Sinseeker as needed as well as navigating {{ site.data.nathria.petrifying_howl }}.
 
 **Healing:**
-- On Mythic difficulty, utilize your healing abilities as needed to keep yourself and nearby members healthy for the impending Pierced Soul adds when soaking Sinseeker during Bargast.
+- On Mythic difficulty, utilize your healing abilities as needed to keep yourself and nearby members healthy for the impending {{ site.data.nathria.pierce_soul }} adds when soaking {{ site.data.nathria.sinseeker }} during {{ site.data.nathria.bargast }}.
 
 **Utilities:**
-- Use {{ site.data.spell.hex}} on Shades of Bargast as assigned.
+- Use {{ site.data.spell.hex}} on {{ site.data.nathria.shade_of_bargast }} as assigned.
 
 **Notes:**
-- From beta testing, Shades of Bargast gained additional Destabilize stacks for each unique crowd control effect on them. If intended, then use {{ site.data.spell.capacitor_totem}} on them as well.
+- From beta testing, {{ site.data.nathria.shade_of_bargast }} gained additional {{ site.data.nathria.destabilize }} stacks for each unique crowd control effect on them. If intended, then use {{ site.data.spell.capacitor_totem}} on them as well.
 
 </div>
 </div>
@@ -121,23 +127,21 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="salvation">
-<div data-toggle="collapse" data-target="#salvation-collapse" aria-expanded="true" aria-controls="salvation-collapse" class="dungeon-header salvation"><h2>Sun King's Salvation</h2></div>
+<div data-toggle="collapse" data-target="#salvation-collapse" aria-expanded="true" aria-controls="salvation-collapse" class="raid-header castle_nathria"><h2>Sun King's Salvation</h2></div>
 </div>
 <div id="salvation-collapse" class="collapse" aria-labelledby="salvation" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
-
-## Sun King's Salvation
 
 **Boss Fight Profile:** AoE / Cleave
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-* **45**: {{ site.data.talent.spirit_wolf }}
-* **60**: {{ site.data.talent.master_of_the_elements }} OR {{ site.data.talent.storm_elemental }}
-* **75**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.wind_rush_totem }}
-* **90**: {{ site.data.talent.primal_elementalist }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* **25**: {{ site.data.talent.aftershock }} or {{ site.data.talent.echoing_shock }}
+* **30**: {{ site.data.talent.spirit_wolf }}
+* **35**: {{ site.data.talent.master_of_the_elements }} or {{ site.data.talent.storm_elemental }}
+* **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
+* **45**: {{ site.data.talent.primal_elementalist }}
+* **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.skybreaker }}
@@ -146,23 +150,23 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
 - Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for Ember Blast.
-- If talented, hold {{ site.data.spell.storm_elemtentals}}'s {{ site.data.spell.eye_of_the_storm }} for incoming add waves.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for {{ site.data.nathria.ember_blast }}.
+- If talented, hold {{ site.data.spell.storm_elementals}}'s {{ site.data.spell.eye_of_the_storm }} for incoming add waves.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) for Crimson Flurry (from Bleakwing Assassins) and Ember Blast (from Shade of Kael'thas) as needed.
-- If talented, {{ site.data.talent.spirit_wolf}} allows you to mitigate damage from Soul Pedestals.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.primal_elementalist }} talented) for {{ site.data.nathria.crimson_flurry }} (from {{ site.data.nathria.bleakwing_assassin }}) and {{ site.data.nathria.ember_blast }} (from Shade of Kael'thas) as needed.
+- If talented, {{ site.data.talent.spirit_wolf}} allows you to mitigate damage from {{ site.data.nathria.soul_pedestal }}.
 
 **Healing:**
 - If there is any downtime between add phases, support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }}.
-- If talented, you can use {{ site.data.talent.earth_shield}} on Kael'thas for additional healing.
-- On Mythic difficulty, support healing through Cloak of Absorption with {{ site.data.spell.healing_surge }} as needed.
+- If talented, you can use {{ site.data.talent.earth_shield}} on {{ site.data.nathria.kaelthas_sunstrider }} for additional healing.
+- On Mythic difficulty, support healing through {{ site.data.nathria.cloak_of_absorption }} with {{ site.data.spell.healing_surge }} as needed.
 
 **Utilities:**
-- Interrupt Vulgar Brand and Scornful Blast from Vile Occultists as assigned.
-- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.thunderstorm }} on Reborn Phoenixes as needed.
-- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.capacitor_totem}} on Soul Infusers as needed.
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help kite away from Reborn Phoenixes.
+- Interrupt {{ site.data.nathria.vulgar_brand }} and {{ site.data.nathria.scornful_blast }} from {{ site.data.nathria.vile_occultist }} as assigned.
+- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.thunderstorm }} on {{ site.data.nathria.reborn_phoenix }} as needed.
+- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.capacitor_totem}} on {{ site.data.nathria.soul_infuser }} as needed.
+- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help kite away from {{ site.data.nathria.reborn_phoenix }}.
 
 **Notes:**
 - This encounter has various phases of priority and AoE damage, with priority damage even moreso on Mythic difficulty. Determine how you need to prioritize your damage to serve your raid team.
@@ -174,23 +178,21 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="artificer">
-<div data-toggle="collapse" data-target="#artificer-collapse" aria-expanded="true" aria-controls="artificer-collapse" class="dungeon-header artificer"><h2>Artificer Xy'mox</h2></div>
+<div data-toggle="collapse" data-target="#artificer-collapse" aria-expanded="true" aria-controls="artificer-collapse" class="raid-header castle_nathria"><h2>Artificer Xy'mox</h2></div>
 </div>
 <div id="artificer-collapse" class="collapse" aria-labelledby="artificer" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
-
-## Artificer Xy'mox
 
 **Boss Fight Profile:** Single-Target / Spread Cleave
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* **75**: {{ site.data.talent.wind_rush_totem }}
-* **90**: {{ site.data.talent.icefury }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* **25**: {{ site.data.talent.echoing_shock }}
+* **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35**: {{ site.data.talent.master_of_the_elements }}
+* **40**: {{ site.data.talent.wind_rush_totem }}
+* **45**: {{ site.data.talent.icefury }}
+* **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
@@ -200,14 +202,14 @@ The tips and recommendations listed here are based on educated opinions from bet
 - This is a very movement heavy fight, so be proactive with your instant casts and use {{ site.data.spell.spiritwalkers_grace }} liberally.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for Glyph of Destruction and Seed of Extinction.
-- {{ site.data.talent.spirit_wolf}} allows you to better navigate the mechanics from each relic. {{ site.data.talent.earth_shield}} can offer HPS against constant damage (i.e. Hyperlight Spark, Glyph of Destruction, Withering Touch, and Aura of Dread).
+- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.glyph_of_destruction }} and {{ site.data.nathria.seed_of_extinction }}.
+- {{ site.data.talent.spirit_wolf}} allows you to better navigate the mechanics from each relic. {{ site.data.talent.earth_shield}} can offer HPS against constant damage (i.e. {{ site.data.nathria.hyperlight_spark }}, {{ site.data.nathria.glyph_of_destruction }}, {{ site.data.nathria.withering_touch }}, and {{ site.data.nathria.aura_of_dread }}).
 
 **Utilities:**
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members place Dimensional Tears, move Seeds of Extinction, and avoid Edge of Annihilation.
+- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members place {{ site.data.nathria.dimensional_tear }}, move {{ site.data.nathria.seed_of_extinction }}, and avoid {{ site.data.nathria.edge_of_annihilation }}.
 
 **Notes:**
-- Because the Possession from Fleeting Spirits is a mind control and not a Charm, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
+- Because the {{ site.data.nathria.possession }} from {{ site.data.nathria.fleeting_spirit }} is a mind control and not a Charm, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
 
 </div>
 </div>
@@ -215,43 +217,41 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="destroyer">
-<div data-toggle="collapse" data-target="#destroyer-collapse" aria-expanded="true" aria-controls="destroyer-collapse" class="dungeon-header destroyer"><h2>Hungering Destroyer</h2></div>
+<div data-toggle="collapse" data-target="#destroyer-collapse" aria-expanded="true" aria-controls="destroyer-collapse" class="raid-header castle_nathria"><h2>Hungering Destroyer</h2></div>
 </div>
 <div id="destroyer-collapse" class="collapse" aria-labelledby="destroyer" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
-
-## Hungering Destroyer
 
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }} OR {{ site.data.talent.elemental_blast }}
-* **45**: {{ site.data.talent.spirit_wolf }}
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* **75**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.wind_rush_totem }}
-* **90**: {{ site.data.talent.icefury }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* **25**: {{ site.data.talent.echoing_shock }} or {{ site.data.talent.elemental_blast }}
+* **30**: {{ site.data.talent.spirit_wolf }}
+* **35**: {{ site.data.talent.master_of_the_elements }}
+* **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
+* **45**: {{ site.data.talent.icefury }}
+* **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
 - {{ site.data.legendary.eeq }}
 
 **Damage:**
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts when spreading for Volatile Ejection and running from Consume.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts when spreading for {{ site.data.nathria.volatile_ejection }} and running from {{ site.data.nathria.consume }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for any overlapping mechanics between Gluttonous Miasma, Expunge, and Desolate.
-- If talented, {{ site.data.talent.spirit_wolf}} can be used to mitigate Consume when you are out of range of the boss, and the increased movement speed will improve your Expunge placements.
+- Use {{ site.data.spell.astral_shift }} as needed for any overlapping mechanics between {{ site.data.nathria.gluttonous_miasma }}, {{ site.data.nathria.expunge }}, and {{ site.data.nathria.desolate }}.
+- If talented, {{ site.data.talent.spirit_wolf}} can be used to mitigate {{ site.data.nathria.consume }} when you are out of range of the boss, and the increased movement speed will improve your {{ site.data.nathria.expunge }} placements.
 
 **Healing:**
-- Make sure you are healthy before Expunge is cast. Support your raid members with off-healing if any are dangerously low.
+- Make sure you are healthy before {{ site.data.nathria.expunge }} is cast. Support your raid members with off-healing if any are dangerously low.
 
 **Utilities:**
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position Volatile Ejection or run away from Consume.
+- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position {{ site.data.nathria.volatile_ejection }} or run away from {{ site.data.nathria.consume }}.
 
 **Notes:**
-- Remember that when you are affected by Gluttonous Miasma, {{ site.data.talent.earth_shield}} and {{ site.data.talent.natures_guardian }} will not be useful if talented.
+- Remember that when you are affected by {{ site.data.nathria.gluttonous_miasma }}, {{ site.data.talent.earth_shield}} and {{ site.data.talent.natures_guardian }} will not be useful if talented.
 
 </div>
 </div>
@@ -259,43 +259,41 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="darkvein">
-<div data-toggle="collapse" data-target="#darkvein-collapse" aria-expanded="true" aria-controls="darkvein-collapse" class="dungeon-header darkvein"><h2>Lady Inerva Darkvein</h2></div>
+<div data-toggle="collapse" data-target="#darkvein-collapse" aria-expanded="true" aria-controls="darkvein-collapse" class="raid-header castle_nathria"><h2>Lady Inerva Darkvein</h2></div>
 </div>
 <div id="darkvein-collapse" class="collapse" aria-labelledby="darkvein" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
-
-## Lady Inerva Darkvein
 
 **Boss Fight Profile:** Single-Target / AoE / Funnel
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* **75**: {{ site.data.talent.natures_guardian }}
-* **90**: {{ site.data.talent.primal_elementalist }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* **25**: {{ site.data.talent.echoing_shock }}
+* **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35**: {{ site.data.talent.master_of_the_elements }}
+* **40**: {{ site.data.talent.natures_guardian }}
+* **45**: {{ site.data.talent.primal_elementalist }}
+* **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
 - {{ site.data.legendary.eogs }}
 
 **Damage:**
-- Maintain {{ site.data.spell.flame_shock }} on the boss and the Harnessed Specter add.
+- Maintain {{ site.data.spell.flame_shock }} on the boss and the {{ site.data.nathria.harnessed_specter }} add.
 - Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
-- Pool Maelstrom for incoming add spawns. If {{ site.data.legendary.sundering }} is equipped, hold a proc for an incoming add spawn as well.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted with Shared Suffering.
+- Pool Maelstrom for incoming add spawns. If {{ site.data.legendary.eogs }} is equipped, hold a proc for an incoming add spawn as well.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted with {{ site.data.nathria.shared_suffering }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for Change of Heart and Bottled Anima vials.
-- {{ site.data.talent.spirit_wolf}} can be used to mitigate damage from Loose Anima (if channeling) or to run out and soak far away Bottled Anima vials. {{ site.data.talent.earth_shield}} can offer you HPS because of the constant damage from Loose Anima.
+- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.change_of_heart }} and {{ site.data.nathria.bottled_anima }} vials.
+- {{ site.data.talent.spirit_wolf}} can be used to mitigate damage from {{ site.data.nathria.loose_anima }} (if channeling) or to run out and soak far away {{ site.data.nathria.bottled_anima }} vials. {{ site.data.talent.earth_shield}} can offer you HPS because of the constant damage from {{ site.data.nathria.loose_anima }}.
 
 **Utilities:**
-- Interrupt Condemn as assigned.
+- Interrupt {{ site.data.nathria.condemn }} as assigned.
 
 **Notes:**
-- Because Shaman have the lowest CD interrupt, two Shaman and a tank make an ideal interrupt rotation for a Conjured Manifestation add.
+- Because Shaman have the lowest CD interrupt, two Shaman and a tank make an ideal interrupt rotation for a {{ site.data.nathria.conjured_manifestation }} add.
 - If using Primal Earth Elemental for {{ site.data.spell.harden_skin}}, make sure it is not picking up adds and interfering with your tanks.
 
 </div>
@@ -304,24 +302,21 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="council">
-<div data-toggle="collapse" data-target="#council-collapse" aria-expanded="true" aria-controls="council-collapse" class="dungeon-header council"><h2>Council Of Blood</h2></div>
+<div data-toggle="collapse" data-target="#council-collapse" aria-expanded="true" aria-controls="council-collapse" class="raid-header castle_nathria"><h2>Council Of Blood</h2></div>
 </div>
 <div id="council-collapse" class="collapse" aria-labelledby="council" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
-
-
-## The Council of Blood
 
 **Boss Fight Profile:** Single-Target / Funnel
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* **75**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.wind_rush_totem }}
-* **90**: {{ site.data.talent.primal_elementalist }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* **25**: {{ site.data.talent.echoing_shock }}
+* **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35**: {{ site.data.talent.master_of_the_elements }}
+* **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
+* **45**: {{ site.data.talent.primal_elementalist }}
+* **50**: {{ site.data.talent.stormkeeper }} or {{ site.data.talent.ascendance }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.skybreaker }}
@@ -329,17 +324,19 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
-- During the Danse Macabre, the bosses are still targetable even with 99% damage reduction. Continue maintaining {{ site.data.spell.flame_shock }}. If {{ site.data.legendary.skybreaker }} is equipped, this will especially be a major boon.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for Anima Fountain, Waltz of Blood, Dark Recital, and Dancing Fever (on Mythic difficulty).
+- During the {{ site.data.nathria.danse_macabre }}, the bosses are still targetable even with 99% damage reduction. Continue maintaining {{ site.data.spell.flame_shock }}. If {{ site.data.legendary.skybreaker }} is equipped, this will especially be a major boon.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.anima_fountain }}, {{ site.data.nathria.waltz_of_blood }}, {{ site.data.nathria.dark_recital }}, and {{ site.data.nathria.dancing_fever }} (on Mythic difficulty).
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for Dark Recital or as mechanics become overwhelming with increasing damage from Oppressive Atmosphere.
-- {{ site.data.talent.spirit_wolf}} can help you move quickly or mitigate damage from Scarlet Letter, Unstoppable Charge, Castellan's Cadre, and Dancing Fools. {{ site.data.talent.earth_shield}} can offer you HPS against the constant damage from Oppressive Atmosphere alone.
+- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.dark_recital }} or as mechanics become overwhelming with increasing damage from {{ site.data.nathria.oppressive_atmosphere }}.
+- {{ site.data.talent.spirit_wolf}} can help you move quickly or mitigate damage from {{ site.data.nathria.scarlet_letter }}, {{ site.data.nathria.unstoppable_charge }}, {{ site.data.nathria.castellans_cadre }}, and {{ site.data.nathria.dancing_fools }}. {{ site.data.talent.earth_shield}} can offer you HPS against the constant damage from {{ site.data.nathria.oppressive_atmosphere }} alone.
 
 **Utilities:**
-- Interrupt Bolt of Power from Baroness Frieda as assigned.
+- Interrupt {{ site.data.nathria.bolt_of_power }} from {{ site.data.nathria.baroness_frieda }} as assigned.
+- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position for {{ site.data.nathria.danse_macabre }}, {{ site.data.nathria.anima_fountain }}, {{ site.data.nathria.waltz_of_blood }}.
 
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position for Danse Macabre, Anima Fountain, Waltz of Blood.
+**Notes:**
+- Because you will spend a lot of time in the encounter maintaining {{ site.data.spell.flame_shock }} on 2-3 targets for constant {{ site.data.spell.lava_surge }} procs, {{ site.data.talent.ascendance }} is worth considering. However, this can be dependent on fight timings.
 
 </div>
 </div>
@@ -347,41 +344,40 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="sludgefist">
-<div data-toggle="collapse" data-target="#sludgefist-collapse" aria-expanded="true" aria-controls="sludgefist-collapse" class="dungeon-header sludgefist"><h2>Sludgefist</h2></div>
+<div data-toggle="collapse" data-target="#sludgefist-collapse" aria-expanded="true" aria-controls="sludgefist-collapse" class="raid-header castle_nathria"><h2>Sludgefist</h2></div>
 </div>
 <div id="sludgefist-collapse" class="collapse" aria-labelledby="sludgefist" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
-
-## Sludgefist
 
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* **75**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.wind_rush_totem }}
-* **90**: {{ site.data.talent.icefury }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* **25**: {{ site.data.talent.echoing_shock }}
+* **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35**: {{ site.data.talent.master_of_the_elements }}
+* **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
+* **45**: {{ site.data.talent.icefury }}
+* **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
 - {{ site.data.legendary.eeq }}
 
 **Damage:**
-- Destructive Impact occurs nearly every minute. If {{ site.data.talent.primal_elementalist }} is talented, it is a good idea to line up the cast with each Destructive Impact.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for Destructive Stomp, Falling Rubble, Chain Slam, and Seismic Shift (on Mythic difficulty).
+- Pool Maelstrom shortly before {{ site.data.nathria.destructive_impact }}.
+- {{ site.data.nathria.destructive_impact }} occurs nearly every minute. If {{ site.data.talent.primal_elementalist }} is talented, it is a good idea to line up the cast with each {{ site.data.nathria.destructive_impact }}.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.destructive_stomp }}, {{ site.data.nathria.falling_rubble }}, {{ site.data.nathria.chain_slam }}, and {{ site.data.nathria.seismic_shift }} (on Mythic difficulty).
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for Colossal Roar and Destructive Impact.
-- Because you will take constant damage from Chain Link and Collapsing Foundation, {{ site.data.talent.earth_shield}} is a good talent option for HPS.
+- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.colossal_roar }} and {{ site.data.nathria.destructive_impact }}.
+- Because you will take constant damage from {{ site.data.nathria.chain_link }} and {{ site.data.nathria.collapsing_foundation }}, {{ site.data.talent.earth_shield}} is a good talent option for HPS.
 
 **Utilities:**
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position out of Destructive Stomp or Falling Rubble.
+- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position out of {{ site.data.nathria.destructive_stomp }} or {{ site.data.nathria.falling_rubble }}.
 
 **Notes:**
-- Because of the Chain Link mechanic, be careful about your time spent in {{ site.data.spell.ghost_wolf }}, especially if you are paired with a player less mobile.
+- Because of the {{ site.data.nathria.chain_link }} mechanic, be careful about your time spent in {{ site.data.spell.ghost_wolf }}, especially if you are paired with a player less mobile.
 
 </div>
 </div>
@@ -389,24 +385,21 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="generals">
-<div data-toggle="collapse" data-target="#generals-collapse" aria-expanded="true" aria-controls="generals-collapse" class="dungeon-header generals"><h2>Stone Legion Generals</h2></div>
+<div data-toggle="collapse" data-target="#generals-collapse" aria-expanded="true" aria-controls="generals-collapse" class="raid-header castle_nathria"><h2>Stone Legion Generals</h2></div>
 </div>
 <div id="generals-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
-
-
-## Stone Legion Generals
 
 **Boss Fight Profile:** AoE / Cleave
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* **75**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.wind_rush_totem }}
-* **90**: {{ site.data.talent.primal_elementalist }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* **25**: {{ site.data.talent.echoing_shock }}
+* **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35**: {{ site.data.talent.master_of_the_elements }}
+* **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
+* **45**: {{ site.data.talent.primal_elementalist }}
+* **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.eogs }}
@@ -416,14 +409,14 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
 - Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - If {{ site.data.legendary.eogs }} is equipped, prepare a proc for incoming waves of adds.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by Wicked Blade, Seismic Upheaval, and Reverberating Eruption.
+- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by {{ site.data.nathria.wicked_blade }}, {{ site.data.nathria.seismic_upheaval }}, and {{ site.data.nathria.reverberating_eruption }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if PE talented) as needed for Pulverizing Meteor and Heart Hemorrhage.
-- Because you may take constant damage from Wicked Laceration and Heart Rend, {{ site.data.talent.earth_shield}} is a good talent option for HPS.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.primal_elementalist }} talented) as needed for {{ site.data.nathria.pulverizing_meteor }} and {{ site.data.nathria.heart_hemorrhage }}.
+- Because you may take constant damage from {{ site.data.nathria.wicked_laceration }} and {{ site.data.nathria.heart_rend }}, {{ site.data.talent.earth_shield}} is a good talent option for HPS.
 
 **Utilities:**
-- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members running for Stonegale Effigy or Shattering Blast.
+- If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members running for {{ site.data.nathria.stonegale_effigy }} or {{ site.data.nathria.shattering_blast }}.
 
 **Notes:**
 - If using Primal Earth Elemental for {{ site.data.spell.harden_skin}}, make sure it is not picking up adds and interfering with your tanks.
@@ -434,24 +427,21 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="denathrius">
-<div data-toggle="collapse" data-target="#denathrius-collapse" aria-expanded="true" aria-controls="denathrius-collapse" class="dungeon-header denathrius"><h2>Sire Denthrius</h2></div>
+<div data-toggle="collapse" data-target="#denathrius-collapse" aria-expanded="true" aria-controls="denathrius-collapse" class="raid-header castle_nathria"><h2>Sire Denthrius</h2></div>
 </div>
 <div id="denathrius-collapse" class="collapse" aria-labelledby="denathrius" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
-
-
-## Sire Denathrius
 
 **Boss Fight Profile:** ST / Cleave / Spread Cleave
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **30**: {{ site.data.talent.echoing_shock }}
-* **45**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
-* **60**: {{ site.data.talent.master_of_the_elements }}
-* **75**: {{ site.data.talent.wind_rush_totem }}
-* **90**: {{ site.data.talent.icefury }} OR {{ site.data.talent.primal_elementalist }}
-* **100**: {{ site.data.talent.stormkeeper }}
+* **25**: {{ site.data.talent.echoing_shock }}
+* **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35**: {{ site.data.talent.master_of_the_elements }}
+* **40**: {{ site.data.talent.wind_rush_totem }}
+* **45**: {{ site.data.talent.icefury }} or {{ site.data.talent.primal_elementalist }}
+* **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.skybreaker }}
@@ -460,60 +450,49 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Damage:**
 
 Phase 1:
-- Pool Maelstrom for Echo of Sin adds. If talented, hold {{ site.data.talent.stormkeeper }} for them as well.
-- Use {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by Feeding Time (Night Hunter on Heroic/Mythic).
+- Pool Maelstrom for {{ site.data.nathria.echo_of_sin }} adds. If talented, hold {{ site.data.talent.stormkeeper }} for them as well.
+- Use {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by {{ site.data.nathria.feeding_time }} ({{ site.data.nathria.night_hunter }} on Heroic/Mythic).
 
 Phase 2:
-- Maintain {{ site.data.spell.flame_shock }} on Sire Denathrius, Remornia, and any additional adds as you can.
+- Maintain {{ site.data.spell.flame_shock }} on {{ site.data.nathria.sire_denathrius }}, {{ site.data.nathria.remornia }}, and any additional adds as you can.
 - Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
-- Depending on timings, you may pool Maelstrom and hold CDs to optimize the Wracking Pain debuff on enemies.
+- Depending on timings, you may pool Maelstrom and hold CDs to optimize the {{ site.data.nathria.wracking_pain }} debuff on enemies.
 
 Phase 3:
-- Use {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by Fatal Finesse and soaking Smoldering Ire.
+- Use {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by {{ site.data.nathria.fatal_finesse }} and soaking {{ site.data.nathria.smoldering_ire }}.
 
 **Defensives:**
 
 Phase 1:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for Feeding Time (Night Hunter on Heroic/Mythic), Blood Price, or Cleansing Pain.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for {{ site.data.nathria.feeding_time }} ({{ site.data.nathria.night_hunter }} on Heroic/Mythic), {{ site.data.nathria.blood_price }}, or {{ site.data.nathria.cleansing_pain }}.
 
 Phase 2:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for Impale or increasing Crimson Chorus stacks.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for {{ site.data.nathria.impale }} or increasing {{ site.data.nathria.crimson_chorus }} stacks.
 
 Phase 3:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for Fatal Finesse or Smoldering Ire.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for {{ site.data.nathria.fatal_finesse }} or {{ site.data.nathria.smoldering_ire }}.
 
 <hr />
-- This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf}} can be beneficial in each phase. Burden of Sin, Carnage, Crimson Chorus, and Fatal Finesse are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield}}.
+- This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf}} can be beneficial in each phase. {{ site.data.nathria.burden_of_sin }}, {{ site.data.nathria.carnage }}, {{ site.data.nathria.crimson_chorus }}, and {{ site.data.nathria.fatal_finesse }} are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield}}.
 
 **Healing:**
 Intermission:
-- As you will likely make it ahead of your raid during March of the Penitent, it is a good opportunity to briefly off-heal your fellow raid members after your Burden of Sin stacks drop.
+- As you will likely make it ahead of your raid during {{ site.data.nathria.march_of_the_penitent }}, it is a good opportunity to briefly off-heal your fellow raid members after your {{ site.data.nathria.burden_of_sin }} stacks drop.
 
 **Utilities:**
 
 Phase 1:
-- Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid position out of Ravage.
+- Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid position out of {{ site.data.nathria.ravage }}.
 
 Phase 2:
-- Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid avoid Massacre and Hand of Destruction.
+- Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid avoid {{ site.data.nathria.massacre }} and {{ site.data.nathria.hand_of_destruction }}.
 
 Phase 3:
-- Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid members navigate Shattering Pain, Hand of Destruction, Ravage, and Massacre.
+- Use {{ site.data.talent.wind_rush_totem }} as needed to help your raid members navigate {{ site.data.nathria.shattering_pain }}, {{ site.data.nathria.hand_of_destruction }}, {{ site.data.nathria.ravage }}, and {{ site.data.nathria.massacre }}.
 
 **Notes:**
-- Because of {{ site.data.spell.ghost_wolf }}, you will not be slowed during March of the Penitent in Phase 1, but you must be in {{ site.data.spell.ghost_wolf }}form before the phase begins. Consider not clearing any Burden of Sin stacks during this phase.
+- Because of {{ site.data.spell.ghost_wolf }}, you will not be slowed during {{ site.data.nathria.march_of_the_penitent }} in Phase 1, but you **must** be in {{ site.data.spell.ghost_wolf }} form before the phase begins. Consider not clearing any {{ site.data.nathria.burden_of_sin }} stacks during this phase.
 - If using Primal Earth Elemental for {{ site.data.spell.harden_skin}}, make sure it is not picking up adds and interfering with your tanks.
-
-# Miscellaneous Tips
-- GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
-
-- Time spent in {{ site.data.spell.ghost_wolf }}is time spent not doing damage. Practice proactive movement and utilizing {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
-
-- When talenting {{ site.data.talent.pe }}, always remember you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.spell.earth_elemental }}.
-
-- Recall that Stampeding Roar is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
-
-- As kill times become faster on farm, Ancestral Reminder may be a competitive legendary to use for some bosses.
 
 </div>
 </div>
