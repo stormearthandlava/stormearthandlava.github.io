@@ -64,7 +64,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} for {{ site.data.nathria.earsplitting_shriek }} and {{ site.data.nathria.reverberating_scream }} as needed.
-- {{ site.data.talent.spirit_wolf }} can help your survivability during intermission. {{ site.data.talent.earth_shield }} can offer HPS against the constant damage from Reverberating Scream.
+- {{ site.data.talent.spirit_wolf }} can help your survivability during intermission. {{ site.data.talent.earth_shield }} can offer HPS against the constant damage from {{ site.data.nathria.reverberating_scream }}.
 
 **Healing:**
 - Phase 2 is a great opportunity to support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }} as needed.
@@ -110,7 +110,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if {{ site.data.talent.pe }} talented) for {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.shattering_stone }} as needed.
 
-- If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against Sinseeker as needed as well as navigating {{ site.data.nathria.petrifying_howl }}.
+- If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against {{ site.data.nathria.sinseeker }} as needed as well as navigating {{ site.data.nathria.petrifying_howl }}.
 
 **Healing:**
 - On Mythic difficulty, utilize your healing abilities as needed to keep yourself and nearby members healthy for the impending {{ site.data.nathria.pierce_soul }} adds when soaking {{ site.data.nathria.sinseeker }} during {{ site.data.nathria.bargast }}.
@@ -151,10 +151,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
 - Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for {{ site.data.nathria.ember_blast }}.
-- If talented, hold {{ site.data.spell.storm_elementals}}'s {{ site.data.spell.eye_of_the_storm }} for incoming add waves.
+- If talented, hold {{ site.data.talent.storm_elemental }}'s {{ site.data.spell.eye_of_the_storm }} for incoming add waves.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.primal_elementalist }} talented) for {{ site.data.nathria.crimson_flurry }} (from {{ site.data.nathria.bleakwing_assassin }}) and {{ site.data.nathria.ember_blast }} (from Shade of Kael'thas) as needed.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.primal_elementalist }} talented) for {{ site.data.nathria.crimson_flurry }} (from {{ site.data.nathria.bleakwing_assassin }}) and {{ site.data.nathria.ember_blast }} (from {{site.data.nathria.shade_of_kaelthas}}) as needed.
 - If talented, {{ site.data.talent.spirit_wolf}} allows you to mitigate damage from {{ site.data.nathria.soul_pedestal }}.
 
 **Healing:**
@@ -366,7 +366,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Pool Maelstrom shortly before {{ site.data.nathria.destructive_impact }}.
-- {{ site.data.nathria.destructive_impact }} occurs nearly every minute. If {{ site.data.talent.primal_elementalist }} is talented, it is a good idea to line up the cast with each {{ site.data.nathria.destructive_impact }}.
+- {{ site.data.nathria.destructive_impact }} occurs nearly every minute. If {{ site.data.stormkeeper }} is talented, it is a good idea to line up the cast with each {{ site.data.nathria.destructive_impact }}.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.destructive_stomp }}, {{ site.data.nathria.falling_rubble }}, {{ site.data.nathria.chain_slam }}, and {{ site.data.nathria.seismic_shift }} (on Mythic difficulty).
 
 **Defensives:**
@@ -394,10 +394,10 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **25**: {{ site.data.talent.echoing_shock }}
-* **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **25**: {{ site.data.talent.echoing_shock }} OR {{site.data.talent.aftershock}}
+* **30**: {{ site.data.talent.spirit_wolf }} OR {{ site.data.talent.earth_shield }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
-* **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
+* **40**: {{ site.data.talent.natures_guardian }} OR {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
 
@@ -427,7 +427,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 <div class="card">
 <div class="card-header" id="denathrius">
-<div data-toggle="collapse" data-target="#denathrius-collapse" aria-expanded="true" aria-controls="denathrius-collapse" class="raid-header castle_nathria"><h2>Sire Denthrius</h2></div>
+<div data-toggle="collapse" data-target="#denathrius-collapse" aria-expanded="true" aria-controls="denathrius-collapse" class="raid-header castle_nathria"><h2>Sire Denathrius</h2></div>
 </div>
 <div id="denathrius-collapse" class="collapse" aria-labelledby="denathrius" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
@@ -476,6 +476,7 @@ Phase 3:
 - This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf}} can be beneficial in each phase. {{ site.data.nathria.burden_of_sin }}, {{ site.data.nathria.carnage }}, {{ site.data.nathria.crimson_chorus }}, and {{ site.data.nathria.fatal_finesse }} are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield}}.
 
 **Healing:**
+
 Intermission:
 - As you will likely make it ahead of your raid during {{ site.data.nathria.march_of_the_penitent }}, it is a good opportunity to briefly off-heal your fellow raid members after your {{ site.data.nathria.burden_of_sin }} stacks drop.
 
