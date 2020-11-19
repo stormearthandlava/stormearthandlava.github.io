@@ -109,7 +109,6 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Defensives:**
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if {{ site.data.talent.pe }} talented) for {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.shattering_stone }} as needed.
-
 - If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against {{ site.data.nathria.sinseeker }} as needed as well as navigating {{ site.data.nathria.petrifying_howl }}.
 
 **Healing:**
@@ -160,7 +159,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Healing:**
 - If there is any downtime between add phases, support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }}.
 - If talented, you can use {{ site.data.talent.earth_shield}} on {{ site.data.nathria.kaelthas_sunstrider }} for additional healing.
-- On Mythic difficulty, support healing through {{ site.data.nathria.cloak_of_absorption }} with {{ site.data.spell.healing_surge }} as needed.
+- On Mythic difficulty, support healing through {{ site.data.nathria.cloak_of_flames }} with {{ site.data.spell.healing_surge }} as needed.
 
 **Utilities:**
 - Interrupt {{ site.data.nathria.vulgar_brand }} and {{ site.data.nathria.scornful_blast }} from {{ site.data.nathria.vile_occultist }} as assigned.
