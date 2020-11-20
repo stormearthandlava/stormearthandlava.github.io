@@ -20,27 +20,21 @@ After reading the APL, please pay attention to the special mentions below, becau
 
 
 15 | <input type="radio" id="er-radio" name="15" value="1"/><label for="er-radio" > Earthen Rage</label> | <input type="radio" id="eote-radio" name="15" value="2"  checked/><label for="eote-radio"> Echo of the Elements</label> | <input type="radio" id="eb-radio" name="15" value="3" /><label for="eb-radio"> Elemental Blast</label>
-30 | <input type="radio" id="afs-radio" name="30" value="1" /><label for="afs-radio"> Aftershock</label> | <input type="radio" id="ctt-radio" name="30" value="2" /><label for="ctt-radio"> Call the Thunder</label> | <input type="radio" id="tm-radio" name="30" value="3" checked /><label for="tm-radio"> Totem Mastery</label>
-60 | <input type="radio" id="mote-radio" name="60" value="1" checked /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="se-radio" name="60" value="2"/><label for="se-radio"> Storm Elemental</label> | <input type="radio" id="lmt-radio" name="60" value="3" /><label for="lmt-radio"> Liquid Magma Totem</label>
-90 | <input type="radio" id="sop-radio" name="90" value="1" /><label for="sop-radio"> Surge of Power</label> | <input type="radio" id="pe-radio" name="90" value="2" /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="90" value="3" checked /><label for="if-radio"> Icefury</label>
-100 | <input type="radio" id="up-radio" name="100" value="1" /><label for="up-radio"> Unlimited Power</label> | <input type="radio" id="sk-radio" name="100" value="2" checked/><label for="sk-radio"> Stormkeeper</label> | <input type="radio" id="asc-radio" name="100" value="3"/><label for="asc-radio"> Ascendance</label>
+25 | <input type="radio" id="afs-radio" name="25" value="1" /><label for="afs-radio"> Aftershock</label> | <input type="radio" id="ctt-radio" name="25" value="2" /><label for="ctt-radio"> Call the Thunder</label> | <input type="radio" id="tm-radio" name="25" value="3" checked /><label for="tm-radio"> Totem Mastery</label>
+60 | <input type="radio" id="mote-radio" name="35" value="1" checked /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="se-radio" name="35" value="2"/><label for="se-radio"> Storm Elemental</label> | <input type="radio" id="lmt-radio" name="35" value="3" /><label for="lmt-radio"> Liquid Magma Totem</label>
+90 | <input type="radio" id="sop-radio" name="45" value="1" /><label for="sop-radio"> Surge of Power</label> | <input type="radio" id="pe-radio" name="45" value="2" /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="45" value="3" checked /><label for="if-radio"> Icefury</label>
+100 | <input type="radio" id="up-radio" name="50" value="1" /><label for="up-radio"> Unlimited Power</label> | <input type="radio" id="sk-radio" name="50" value="2" checked/><label for="sk-radio"> Stormkeeper</label> | <input type="radio" id="asc-radio" name="50" value="3"/><label for="asc-radio"> Ascendance</label>
 
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
         <li class="pe-apl" style="display: none;"> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.eye_of_the_storm }} if no multi-target will happen soon. Make sure {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.eye_of_the_storm }}.</li>
-        <li class="tm-apl" style="display: list-item;">Cast {{ site.data.talent.tm }} when any of the following are true:
-            <ul>
-                <li>It is not active or you are out of range of the existing totems.</li>
-                <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}, and the buff would expire during {{site.data.talent.asc}}.</li>
-            </ul>
-        </li>
         <li> Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown. But don't screw your group with {{ site.data.spell.ee }}.</li>
         <li> Cast {{ site.data.spell.fs }} when any of the following are true:
             <ul>
                 <li>It is not active on the target.</li>
                 <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}.</li>
-                <li>The debuff's duration is at or below 7 seconds remaining.</li>
+                <li>The debuff's duration is at or below 6 seconds remaining.</li>
                 <li class="se-apl" style="display: none;"><strong>Special warning:</strong> Don't refresh {{ site.data.spell.fs }} if you have 14 stacks or more of {{ site.data.spell.wind_gust }} during {{ site.data.talent.se }}. Unless you have {{ site.data.azerite.igneous_potential }} at least twice. </li>
             </ul>
         </li>
@@ -56,13 +50,7 @@ After reading the APL, please pay attention to the special mentions below, becau
             </ul>
         </li>
         <li>Cast {{ site.data.spell.es }}. But read the special cases about delaying {{ site.data.spell.es }} casts.</li>
-        <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lvb }} while {{ site.data.talent.se }} is active if any of the following conditions are met:
-            <ul>
-                <li class="se-apl" style="display: none;">You have 2 or more {{ site.data.azerite.igneous_potential }} traits.</li>
-                <li class="se-apl" style="display: none;">You have a {{ site.data.spell.lava_surge }} proc.</li>
-                <li class="se-apl" style="display: none;">You have fewer than 14 {{ site.data.spell.wind_gust }} stacks.</li>
-            </ul>
-        </li>
+        <li class="se-apl" style="display: none;">Cast only {{ site.data.spell.lb }} while {{ site.data.talent.se }} if you are at 20 stacks of {{ site.data.spell.wind_gust }}.</li>
         <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.se }} is active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff and {{ site.data.talent.mote }} buff active.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.talent.asc }} is active.</li>
@@ -71,7 +59,6 @@ After reading the APL, please pay attention to the special mentions below, becau
         <li>Cast {{site.data.spell.lvb }}.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.talent.if }} on cooldown.</li>
-        <li class="tm-apl" style="display: list-item;">Refresh {{ site.data.talent.tm }} if its duration is at or below 9 seconds remaining.</li>
         <li>Cast {{ site.data.spell.lb }} as a filler.</li>
         <li>Cast {{ site.data.spell.frs }} in place of {{ site.data.spell.lb }} while moving, even if you do not have {{ site.data.talent.if }}.</li>
     </ol>
@@ -89,11 +76,6 @@ After reading the APL, please pay attention to the special mentions below, becau
     1. {{ site.data.spell.lb }}
     1. {{ site.data.talent.if }}
     1. {{ site.data.spell.frs }}
-
-#### {{ site.data.talent.se }} + {{ site.data.talent.eb }}
-- Active Azerite: 3x {{ site.data.azerite.natural_harmony }}
-- Change: You keep casting {{ site.data.talent.eb }} until you reach 14 stacks of {{ site.data.spell.wind_gust }}
-
 
 #### {{ site.data.talent.sk }} + {{ site.data.talent.sop }}
 - Change: You pool Maelstrom before casting {{ site.data.talent.sk }} to combo both empowered {{ site.data.spell.lb }} with {{ site.data.talent.sop }}
@@ -147,9 +129,23 @@ Standard raid opener:
 <div class="opener">
     <div class="skill sk"><span>SK</span></div>
     <div class="arrow"></div>
-    <div class="skill tm"><span>TM</span></div>
-    <div class="arrow"></div>
     <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill fe"><span>FE</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow"></div>
+    <div class="skill if"><span>IF</span></div>
+    <div class="arrow"></div>
+</div>
+
+If you are using EB:
+<div class="opener">
+    <div class="skill sk"><span>SK</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>EB</span></div>
     <div class="arrow pull"></div>
     <div class="skill fs"><span>FS</span></div>
     <div class="arrow"></div>
@@ -164,13 +160,15 @@ Standard raid opener:
 <br>
 ## Common misconceptions and mistakes
 
+> "I should duplicate {{ site.data.talent.sk }}-buffed {{ site.data.spell.lb }} and {{ site.data.spell.lb }}
+
 > "I should try and play around {{site.data.talent.mote}}!"
 
 The only time you should adjust your gameplay for {{site.data.talent.mote}} is when you have the liberty to cast a spell *later* with a MotE buff versus *now* -- this means for a spell like {{site.data.spell.es}}, you can make the decision to wait until you have the {{site.data.talent.mote}} buff active before casting it (this is reflected in the priority above). This is thanks to the low urgency of {{site.data.spell.es}} casts, as you are not constrained by a cooldown or Maelstrom cast, since you can cast it at any point between 60 and 100 Maelstrom.
 
 > "I should cast {{ site.data.spell.lb }} during {{ site.data.talent.asc }} if I have some powerful buffs for it active!"
 
-During {{ site.data.talent.asc }} you only want to spend your time casting {{ site.data.spell.lvb }} and {{ site.data.spell.es }}. Yes you'll waste {{ site.data.talent.mote }} but that's fine.
+During {{ site.data.talent.asc }} you only want to spend your time casting {{ site.data.spell.lvb }}. Yes you'll waste {{ site.data.talent.mote }} but that's fine.
 
 > "I should cast {{ site.data.talent.eb }} during {{ site.data.talent.asc }}!"
 
@@ -182,21 +180,8 @@ No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if 
 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
-With 2 or more {{ site.data.azerite.igneous_potential }}: Keep using {{ site.data.spell.lvb }} on single target.
-
-Else: During single target you'll want to only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }}. During AoE {{ site.data.spell.cl }} becomes quickly more worth than {{ site.data.spell.lvb }}. Nonetheless you should use {{ site.data.spell.eq }}.
-
-> "I should cast {{ site.data.spell.fs }} at 7.2 seconds remaining or lower!"
-
-That's correct but which human is able to accurately judge the difference between 7.2 seconds and 7 seconds. So we decided to present the easier to digest number in the priority list.
-
-> "I should cast {{ site.data.talent.tm }} at less than 9 seconds remaining!"
-
-Yes, the shorter the remaining duration, the less likely it is for you to need an additional cast of it over the whole fight. But because that is quite unlikely already, 9 is a good rule of thumbs. The overall dps won't budge with that change.
-
-> "I should try to keep {{ site.data.azerite.natural_harmony }} active with {{ site.data.spell.frs }}!"
-
-No.
+Just continue playing your normal rotation until you reach 20 stack.
+At 20 stacks spam {{ site.data.spell.lb }}
 
 
 <script>

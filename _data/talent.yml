@@ -41,6 +41,7 @@ eote: <a href="https://shadowlands.wowhead.com/spell=108283" target="blank">Echo
 echo: <a href="https://shadowlands.wowhead.com/spell=108283" target="blank">Echo of the Elements</a>
 
 echoing_shock: <a href="https://shadowlands.wowhead.com/spell=320125" target="blank"> Echoing Shock</a>
+ecs: <a href="https://shadowlands.wowhead.com/spell=320125" target="blank"> Echoing Shock</a>
 
 elemental_attunement: <a href="https://shadowlands.wowhead.com/spell=204385" target="blank">Elemental Attunement</a>
 
@@ -86,6 +87,9 @@ skyfury_totem: <a href="https://shadowlands.wowhead.com/spell=204330" target="bl
 spectral_recovery: <a href="https://shadowlands.wowhead.com/spell=204261" target="blank">Spectral Recovery</a>
 
 static_charge: <a href="https://shadowlands.wowhead.com/spell=265046" target="blank">Static Charge</a>
+
+static_discharge: <a href="https://shadowlands.wowhead.com/spell=342243" target="blank">Static Discharge</a>
+sd: <a href="https://shadowlands.wowhead.com/spell=342243" target="blank">Static Discharge</a>
 
 storm_elemental: <a href="https://shadowlands.wowhead.com/spell=192249" rel="domain=bfa" target="blank">Storm Elemental</a>
 se: <a href="https://shadowlands.wowhead.com/spell=192249" rel="domain=bfa" target="blank">Storm Elemental</a>

@@ -10,10 +10,12 @@ categories:
       url: /guide/general/priority_list.html
     - title: Stats
       url: /guide/general/stats.html
-    - title: Azerite Essences
-      url: /guide/general/azerite_essences.html
-    - title: Azerite Traits
-      url: /guide/general/azerite_traits.html
+    - title: Legendaries
+      url: /guide/general/legendaries.html
+    - title: Covenant
+      url: /guide/general/covenant.html
+    - title: Soulbind
+      url: /guide/general/soulbind.html
     - title: Gear
       url: /guide/general/gear.html
     - title: Trinkets

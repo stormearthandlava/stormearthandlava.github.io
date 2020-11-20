@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,140 +12,81 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://bfa.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
-flask_of_the_vast_horizon: <a href="https://bfa.wowhead.com/item=152640" target="blank">Flask of the Vast Horizon</a>
-stamina_flask: <a href="https://bfa.wowhead.com/item=152640" target="blank">Flask of the Vast Horizon</a>
+spectral_flask_of_stamina: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Spectral Flask of Power</a>
+stamina_flask: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Spectral Flask of Power</a>
 
-flask_of_the_endless_fathoms: <a href="https://bfa.wowhead.com/item=152639" target="blank">Flask of the Endless Fathoms</a>
-int_flask: <a href="https://bfa.wowhead.com/item=152639" target="blank">Flask of the Endless Fathoms</a>
+spectral_flask_of_power: <a href="https://shadowlands.wowhead.com/item=171276" target="blank">Spectral Flask of Power</a>
+mainstat_flask: <a href="https://shadowlands.wowhead.com/item=171276" target="blank">Spectral Flask of Power</a>
 
-mystical_cauldron: <a href="https://bfa.wowhead.com/item=162519" target="blank">Mystical Cauldron</a>
+eternal_cauldron: <a href="https://shadowlands.wowhead.com/item=171284" target="blank">Eternal Cauldron</a>
 
-greater_mystical_cauldron: <a href="https://bfa.wowhead.com/item=168656" target="blank">Greater Mystical Cauldron</a>
+spiritual_healing_potion: <a href="https://shadowlands.wowhead.com/item=171267" target="blank">Spiritual Healing Potion</a>
 
-coastal_healing_potion: <a href="https://bfa.wowhead.com/item=152494" target="blank">Coastal Healing Potion</a>
+potion_of_concealment: <a href="https://shadowlands.wowhead.com/item=152503" target="blank">Potion of Concealment</a>
+potion_of_the_hidden_spirit: <a href="https://shadowlands.wowhead.com/item=261424" target="blank">Potion of the Hidden Spirit</a>
 
-potion_of_concealment: <a href="https://bfa.wowhead.com/item=152503" target="blank">Potion of Concealment</a>
+potion_of_the_psychopomps_speed: <a href="https://shadowlands.wowhead.com/spell=344316" target="blank">Potion of the Psychopomp's Speed</a>
 
-sea_mist_potion: <a href="https://bfa.wowhead.com/item=152550" target="blank">Sea Mist Potion</a>
+sea_mist_potion: <a href="https://shadowlands.wowhead.com/item=152550" target="blank">Sea Mist Potion</a>
 
-dimitris_draught_of_deception: <a href="https://bfa.wowhead.com/item=152496" target="blank">Dimitri's Draught of Deception</a>
-invis_pot: <a href="https://bfa.wowhead.com/item=152496" target="blank">Dimitri's Draught of Deception</a>
+potion_of_spectral_intellect: <a href="https://shadowlands.wowhead.com/item=171273" target="blank">Potion of Spectral Intellect</a>
+int_pot: <a href="https://shadowlands.wowhead.com/item=171273" target="blank">Potion of Spectral Intellect</a>
 
-lightfoot_potion: <a href="https://bfa.wowhead.com/item=152497" target="blank">Lightfoot Potion</a>
+potion_of_spectral_stamina: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Potion of Spectral Stamina</a>
 
-battle_potion_of_intellect: <a href="https://bfa.wowhead.com/item=163222" target="blank">Battle Potion of Intellect</a>
-int_pot: <a href="https://bfa.wowhead.com/item=163222" target="blank">Battle Potion of Intellect</a>
+potion_of_deathly_fixation: <a href="https://shadowlands.wowhead.com/item=171351" target="blank">Potion of Deathly Fixation</a>
+potion_of_empowered_exorcisms: <a href="https://shadowlands.wowhead.com/item=171352" target="blank">Potion of Empowered Exorcisms</a>
+potion_of_phantom_fire: <a href="https://shadowlands.wowhead.com/item=171349" target="blank">Potion of Phantom Fire</a>
+potion_of_sacrificial_anima: <a href="https://shadowlands.wowhead.com/item=176811" target="blank">Potion of Sacrificial Anima</a>
+potion_of_divine_awakening: <a href="https://shadowlands.wowhead.com/item=171350" target="blank">Potion of Divine Awakening</a>
 
-battle_potion_of_stamina: <a href="https://bfa.wowhead.com/item=163225" target="blank">Battle Potion of Stamina</a>
+surprisingly_palatable_feast: <a href="https://shadowlands.wowhead.com/item=172042" target="blank">Surprisingly Palatable Feast</a>
 
-galley_banquet: <a href="https://bfa.wowhead.com/item=156525" target="blank">Galley Banquet</a>
+feast_of_gluttonous_hedonism: <a href="https://shadowlands.wowhead.com/item=172043" target="blank">Feast of Gluttonous Hedonism</a>
+feast: <a href="https://shadowlands.wowhead.com/item=172043" target="blank">Feast of Gluttonous Hedonism</a>
 
-bountiful_captains_feast: <a href="https://bfa.wowhead.com/item=156526" target="blank">Bountiful Captain's Feast</a>
-feast: <a href="https://bfa.wowhead.com/item=156526" target="blank">Bountiful Captain's Feast</a> / <a href="https://bfa.wowhead.com/item=166240" target="blank">Sanguinated Feast</a>
+smothered_shank: <a href="https://shadowlands.wowhead.com/item=172062" target="blank">Smothered Shank</a>
 
-boralus_blood_sausage: <a href="https://bfa.wowhead.com/item=166804" target="blank">Boralus Blood Sausage</a>
+iridescent_ravioli_with_apple_sauce: <a href="https://shadowlands.wowhead.com/item=172049" target="blank">Iridescent Ravioli with Apple Sauce</a>
+mastery_food: <a href="https://shadowlands.wowhead.com/item=172049" target="blank">Iridescent Ravioli with Apple Sauce</a>
 
-sailors_pie: <a href="https://bfa.wowhead.com/item=154888" target="blank">Sailor's Pie</a>
-mastery_food: <a href="https://bfa.wowhead.com/item=154888" target="blank">Sailor's Pie</a>
+steak_a_la_mode: <a href="https://shadowlands.wowhead.com/item=172051" target="blank">Steak a la Mode</a>
+vers_food: <a href="https://shadowlands.wowhead.com/item=172051" target="blank">Steak a la Mode</a>
 
-spiced_snapper: <a href="https://bfa.wowhead.com/item=154886" target="blank">Spiced Snapper</a>
-vers_food: <a href="https://bfa.wowhead.com/item=154886" target="blank">Spiced Snapper</a>
+tenebrous_crown_roast_aspic: <a href="https://shadowlands.wowhead.com/item=172045" target="blank">Tenebrous Crown Roast Aspic</a>
+haste_food: <a href="https://shadowlands.wowhead.com/item=172045" target="blank">Tenebrous Crown Roast Aspic</a>
 
-swamp_fishn_chips: <a href="https://bfa.wowhead.com/item=154884" target="blank">Swamp Fish'n Chips</a>
-haste_food: <a href="https://bfa.wowhead.com/item=154884" target="blank">Swamp Fish'n Chips</a>
+spinefin_souffle_and_fries: <a href="https://shadowlands.wowhead.com/item=172041" target="blank">Spinefin Souffle and Fries</a>
+crit_food: <a href="https://shadowlands.wowhead.com/item=172041" target="blank">Spinefin Souffle and Fries</a>
 
-honey_glazed_haunches: <a href="https://bfa.wowhead.com/item=154882" target="blank">Honey-Glazed Haunches</a>
-crit_food: <a href="https://bfa.wowhead.com/item=154882" target="blank">Honey-Glazed Haunches</a>
+banana_beef_pudding: <a href="https://shadowlands.wowhead.com/item=172069/" target="blank">Banana Beef Pudding</a>
+stam_food: <a href="https://shadowlands.wowhead.com/item=172069/" target="blank">Banana Beef Pudding</a>
 
-heartsbane_hexwurst: <a href="https://bfa.wowhead.com/item=163781" target="blank">Heartsbane Hexwurst</a>
+insightful_rubellite: <a href="https://shadowlands.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
+exp_gem: <a href="https://shadowlands.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
 
-gale_force_striking: <a href="https://bfa.wowhead.com/item=153480" target="blank">Enchant Weapon - Gale-Force Striking</a>
+quick_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173128" target="blank">Quick Jewel Cluster</a>
+haste_gem: <a href="https://shadowlands.wowhead.com/item=173128" target="blank">Quick Jewel Cluster</a>
 
-torrent_of_elements: <a href="https://bfa.wowhead.com/item=153479" target="blank">Enchant Weapon - Torrent of Elements</a>
+masterful_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173130" target="blank">Masterful Jewel Cluster</a>
+mastery_gem: <a href="https://shadowlands.wowhead.com/item=173130" target="blank">Masterful Jewel Cluster</a>
 
-siphoning: <a href="https://bfa.wowhead.com/item=153478" target="blank">Enchant Weapon - Siphoning</a>
+deadly_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173127" target="blank">Deadly Jewel Cluster</a>
+crit_gem: <a href="https://shadowlands.wowhead.com/item=173127" target="blank">Deadly Jewel Cluster</a>
 
-deadly_navigation: <a href="https://bfa.wowhead.com/item=159785" target="blank">Enchant Weapon - Deadly Navigation</a>
+versatile_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173129" target="blank">Versatile Jewel Cluster</a>
+vers_gem: <a href="https://shadowlands.wowhead.com/item=173129" target="blank">Versatile Jewel Cluster</a>
 
-quick_navigation: <a href="https://bfa.wowhead.com/item=159786" target="blank">Enchant Weapon - Quick Navigation</a>
+lightless_force: <a href=" https://shadowlands.wowhead.com/spell=309620" target="blank">Lightless Force</a>
+sinful_revelation: <a href="https://shadowlands.wowhead.com/spell=309623" target="blank">Sinful Revelation</a>
+eternal_stats: <a href="https://shadowlands.wowhead.com/spell=324773" target="blank">Eternal Stats</a>
+eternal_intellect: <a href="https://shadowlands.wowhead.com/spell=309609" target="blank">Eternal Intellect</a>
+tenet_of_critical_strike: <a href="https://shadowlands.wowhead.com/spell=309616" target="blank">Tenet of Critical Strike</a>
+tenet_of_versatility: <a href="https://shadowlands.wowhead.com/spell=309619" target="blank">Tenet of Versatility</a>
+tenet_of_haste: <a href="https://shadowlands.wowhead.com/spell=309617" target="blank">Tenet of Haste</a>
+tenet_of_mastery: <a href="https://shadowlands.wowhead.com/spell=309618" target="blank">Tenet of Mastery</a>
 
-masterful_navigation: <a href="https://bfa.wowhead.com/item=159787" target="blank">Enchant Weapon - Masterful Navigation</a>
-
-versatile_navigation: <a href="https://bfa.wowhead.com/item=159788" target="blank">Enchant Weapon - Versatile Navigation</a>
-
-krakens_eye_of_intellect: <a href="https://bfa.wowhead.com/item=153709" target="blank">Kraken's Eye of Intellect</a>
-int_gem: <a href="https://bfa.wowhead.com/item=153709" target="blank">Kraken's Eye of Intellect</a>
-
-insightful_rubellite: <a href="https://bfa.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
-exp_gem: <a href="https://bfa.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
-
-quick_owlseye: <a href="https://bfa.wowhead.com/item=154127" target="blank">Quick Owlseye</a>
-haste_gem: <a href="https://bfa.wowhead.com/item=154127" target="blank">Quick Owlseye</a>
-
-masterful_tidal_amethyst: <a href="https://bfa.wowhead.com/item=154129" target="blank">Masterful Tidal Amethys</a>
-mastery_gem: <a href="https://bfa.wowhead.com/item=154129" target="blank">Masterful Tidal Amethys</a>
-
-deadly_amberblaze: <a href="https://bfa.wowhead.com/item=154126" target="blank">Deadly Amberblaze</a>
-crit_gem: <a href="https://bfa.wowhead.com/item=154126" target="blank">Deadly Amberblaze</a>
-
-versatile_royal_quartz: <a href="https://bfa.wowhead.com/item=154128" target="blank">Versatile Royal Quarz</a>
-vers_gem: <a href="https://bfa.wowhead.com/item=154128" target="blank">Versatile Royal Quarz</a>
-
-battlescarred_augent_rune: <a href="https://bfa.wowhead.com/item=160053" target="blank">Battle-Scarred Augment Rune</a>
-rune: <a href="https://bfa.wowhead.com/item=160053" target="blank">Battle-Scarred Augment Rune</a>
-
-potion_of_empowered_proximity: <a href="https://bfa.wowhead.com/item=168529" target="blank">Potion of EMpowered Proximity</a>
-
-potion_of_focused_resolve: <a href="https://bfa.wowhead.com/item=168506" target="blank">Potion of Focused Resolve</a>
-
-potion_of_unbridled_fury: <a href="https://bfa.wowhead.com/item=169299" target="blank">Potion of Unbridled Fury</a>
-
-superior_battle_potion_of_intellect: <a href="https://bfa.wowhead.com/item=168498" target="blank">Superior Battle Potion of Intellect</a>
-big_int_pot: <a href="https://bfa.wowhead.com/item=168498" target="blank">Superior Battle Potion of Intellect</a>
-
-greater_flask_of_endless_fathoms: <a href="https://bfa.wowhead.com/item=168652" target="blank">Greater Flask of Endless Fathoms</a>
-big_int_flask: <a href="https://bfa.wowhead.com/item=168652" target="blank">Greater Flask of Endless Fathoms</a>
-
-abyssalfried_rissole: <a href="https://bfa.wowhead.com/item=168311" target="blank">Abyssal-Fried Risolle</a>
-big_mastery_food: <a href="https://bfa.wowhead.com/item=168311" target="blank">Abyssal-Fried Risolle</a>
-
-baked_port_tato: <a href="https://bfa.wowhead.com/item=168313" target="blank">Baked Port Tato</a>
-big_haste_food: <a href="https://bfa.wowhead.com/item=168313" target="blank">Baked Port Tato</a>
-
-biltong: <a href="https://bfa.wowhead.com/item=168314" target="blank">Bil'Tong</a>
-big_vers_food: <a href="https://bfa.wowhead.com/item=168314" target="blank">Bil'Tong</a>
-
-fragrant_kakavia: <a href="https://bfa.wowhead.com/item=168312" target="blank">Fragrant Kakvia</a>
-big_stam_food: <a href="https://bfa.wowhead.com/item=168312" target="blank">Fragrant Kakvia</a>
-
-mechdowels_big_mech: <a href="https://bfa.wowhead.com/item=168310" target="blank">Mech-Dowel's "Big Mech"</a>
-big_crit_food: <a href="https://bfa.wowhead.com/item=168310" target="blank">Mech-Dowel's "Big Mech"</a>
-
-famine_evaluator_and_snack_table: <a href="https://bfa.wowhead.com/item=168315" target="blank">Famine Evaluator And Snack Table</a>
-big_feast: <a href="https://bfa.wowhead.com/item=168315" target="blank">Famine Evaluator And Snack Table</a>
-
-machinists_brilliance: <a href="https://bfa.wowhead.com/item=168593" target="blank">Enchant Weapon - Machinist's Brilliance</a>
-
-deadly_lava_lazuli: <a href="https://bfa.wowhead.com/item=168639" target="blank">Deadly Lava Lazuli</a>
-big_crit_gem: <a href="https://bfa.wowhead.com/item=168639" target="blank">Deadly Lava Lazuli</a>
-
-masterful_sea_currant: <a href="https://bfa.wowhead.com/item=168640" target="blank">Masterful Sea Currant</a>
-big_mastery_gem: <a href="https://bfa.wowhead.com/item=168640" target="blank">Masterful Sea Currant</a>
-
-quick_sand_spinel: <a href="https://bfa.wowhead.com/item=168641" target="blank">Quick Sand Spinel</a>
-big_haste_gem: <a href="https://bfa.wowhead.com/item=168641" target="blank">Quick Sand Spinel</a>
-
-versatile_dark_opal: <a href="https://bfa.wowhead.com/item=168642" target="blank">Versatile Dark Opal</a>
-big_vers_gem: <a href="https://bfa.wowhead.com/item=168642" target="blank">Versatile Dark Opal</a>
-
-leviathans_eye_of_intellect: <a href="https://bfa.wowhead.com/item=168638" target="blank">Leviathan's Eye of Intellect</a>
-big_int_gem: <a href="https://bfa.wowhead.com/item=168638" target="blank">Leviathan's Eye of Intellect</a>
-
-heart_of_azeroth: <a href="https://bfa.wowhead.com/item=158075" target="blank">Heart of Azeroth</a>
-
-legendary_cloak: <a href="https://bfa.wowhead.com/item=169223" target="blank">Ashjra'kamas, Shroud of Resolve</a>
-ashjrakamas_shroud_of_resolve: <a href="https://bfa.wowhead.com/item=169223" target="blank">Ashjra'kamas, Shroud of Resolve</a>
-ashjrakamas: <a href="https://bfa.wowhead.com/item=169223" target="blank">Ashjra'kamas, Shroud of Resolve</a>
-
+fortified_speed: <a href="https://shadowlands.wowhead.com/spell=309528" target="blank">Fortified Speed</a>
+shadowcore_oil: <a href="https://shadowlands.wowhead.com/item=171285" target="blank">Shadowcore Oil</a>

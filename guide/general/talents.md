@@ -2,7 +2,7 @@
 layout: page
 title: Talents
 last_update: 2020-01-11 09:00:00
-game_version: 8.3.0 Battle for Azeroth
+game_version: 9.0.2
 toc: true
 ---
 
@@ -12,13 +12,11 @@ Many more talent combinations may work. We're listing the most robust ones (for 
 
 Type | Talent combination
 --- | ---
-Questing / Solo&nbsp;Content | 15: {{ site.data.talent.er }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.earth_shield }}<br> 60: {{ site.data.talent.se }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.sop }}<br> 100: {{ site.data.talent.sk }}
-Mythic+ | 15: {{ site.data.talent.echo }} **OR** {{ site.data.talent.er }}<br> 30: {{ site.data.talent.afs }}<br> 45: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 60: {{ site.data.talent.mote }} **OR** {{ site.data.talent.se }} <br> 75: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 90: {{ site.data.talent.pe }}<br> 100: {{site.data.talent.sk}}
-Raid / Single&nbsp;Target | 15: {{ site.data.talent.echo }}<br> 30: {{ site.data.talent.tm }}<br> 45: {{ site.data.talent.sw }}<br> 60: {{ site.data.talent.mote }}<br> 75: {{ site.data.talent.natures_guardian }}<br> 90: {{ site.data.talent.if }} **OR** {{ site.data.talent.pe }}<br> 100: {{ site.data.talent.sk }}
+Questing / Solo&nbsp;Content | 15: {{ site.data.talent.er }}<br> 25: {{ site.data.talent.ecs }}<br> 25: {{ site.data.talent.earth_shield }}<br> 35: {{ site.data.talent.se }}<br> 40: {{ site.data.talent.natures_guardian }}<br> 45: {{ site.data.talent.sop }}<br> 50: {{ site.data.talent.sk }}
+Mythic+ | 15: {{ site.data.talent.echo }} **OR** {{ site.data.talent.er }}<br> 25: {{ site.data.talent.afs }}<br> 30: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br> 35: {{ site.data.talent.mote }} **OR** {{ site.data.talent.se }} <br> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br> 45: {{ site.data.talent.pe }}<br> 50: {{site.data.talent.sk}}
+Raid / Single&nbsp;Target | 15: {{ site.data.talent.echo }}<br> 25: {{ site.data.talent.eb }}<br> 30: {{ site.data.talent.sw }}<br> 35: {{ site.data.talent.mote }}<br> 40: {{ site.data.talent.natures_guardian }}<br> 45: {{ site.data.talent.if }} **OR** {{ site.data.talent.pe }}<br> 50: {{ site.data.talent.sk }}
 
 **Special Mention** {{ site.data.talent.sop }} can depending on fight length surpass {{ site.data.talent.pe }} and {{ site.data.talent.if }}. The downside is: you need to figure out on the fly which effect of {{ site.data.talent.sop }} you actually need. Check out logs! Additionally, {{ site.data.talent.pe }} Is fairly close to {{ site.data.talent.if }} on single target, and is generally more powerful when multiple targets are present. We recommend inexperienced shamans use {{ site.data.talent.pe }} regardless, as {{ site.data.talent.if }} is significantly more complex.
-
-**Special Mention** The "Raid / Single Target" talent combination assumes you have access to two or more {{ site.data.azerite.igneous_potential }}. Which should be fairly easy in Ny'alotha. Additionally, the Mythic+ section represents combinations with and without {{ site.data.azerite.igneous_potential }}. The talents listed first for each row favor the trait, the talents listed on the right are recommended if you do not have {{ site.data.azerite.igneous_potential }}. Please view the mythic+ section of the website for more information regarding these selections!
 
 There are other talent combinations that peform close to these or sometimes even better. So please make sure to sim your character if you suspect that something else is a better general choice.
 
@@ -44,12 +42,33 @@ Click the talent row text to expand.
                 <p markdown="1">A passive talent which requires no thought or change in gameplay.</p>
                 <hr><br>
                 <h4>{{site.data.talent.eote}} (EotE / Echo)</h4>
-                <p markdown="1"> Quite a simple talent to understand, EotE / Echo just adds a charge to {{ site.data.spell.lvb }}. At face value this may not seem impactful, but once you consider that effects which reset the cooldown on {{ site.data.spell.lvb }} will now instead grant a charge, the benefits are clear. Echo adds value by allowing extra time for you to cast {{ site.data.spells.lvb }} instead of needing to cast it immediately when it comes off cooldown. This is because you'll lose no DPS by choosing to cast another spell while {{ site.data.spell.lvb }} has less than 2 charges, as the second charge "cooling down" does not translate to wasted DPS. This makes this talent helpful for any kind of movement compared to {{ site.data.talent.eb }}.</p>
+                <p markdown="1"> Quite a simple talent to understand, EotE / Echo just adds a charge to {{ site.data.spell.lvb }}. At face value this may not seem impactful, but once you consider that effects which reset the cooldown on {{ site.data.spell.lvb }} will now instead grant a charge, the benefits are clear. Echo adds value by allowing extra time for you to cast {{ site.data.spells.lvb }} instead of needing to cast it immediately when it comes off cooldown. This is because you'll lose no DPS by choosing to cast another spell while {{ site.data.spell.lvb }} has less than 2 charges, as the second charge "cooling down" does not translate to wasted DPS.</p>
+                <hr><br>
+                <h4>{{site.data.talent.sd}} (SD)</h4>
+                <p markdown="1"> Static Discharge adds a spell to our toolkit that you can only use while you have {{ site.data.spell.ls }} active. It deals damage to a nearby target with {{ site.data.spell.fs }}.</p>
+                <hr><br>
+                <p markdown="1">**Recommendation:** {{site.data.talent.eote}} should be taken for virtually all situations. {{site.data.talent.sd}} barely does any damage and is too limited in it's use to ever be worth considering. Earthen Rage can be good with certain, {{site.data.spell.lb}}-focussed builds but in raiding it will usually get outperformed. {{site.data.talent.eote}} helps with Pooling Resets from {{site.data.talent.lava_surge}} and works well with all of the legendaries.</p>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="L25">
+            <h4 class="mb-0"><button class="btn btn-link" data-toggle="collapse" data-target="#L25-collapse" aria-expanded="false" aria-controls="L25-collapse">
+                <b>Level 25 talents</b>
+            </button></h4>
+        </div>
+        <div id="L25-collapse" class="collapse" aria-labelledby="L25" data-parent="#accordion">
+            <div class="card-body">
+                <h4>{{site.data.talent.afs}} (AfS)</h4>
+                <p markdown="1">This functions like Legion's legendary boots, The Deceiver's Blood Pact. When you cast {{ site.data.spell.eq }} or {{ site.data.spell.es }}, you have a chance to immediately refund all the Maelstrom spent. This allows for increased burst AoE/ST but with the caveat that at a 25% chance, it is quite random and can't be reliably used for burst damage.</p>
+                <hr><br>
+                <h4>{{site.data.talent.ecs}} (EcS)</h4>
+                <p markdown="1"> Duplicates the next offensive spell used, after 1 second. The duplicate behaves like a normal cast. It is best to use this on {{ site.data.spell.lvb }} on single target and {{ site.data.spell.eq }} on AoE. It allows for good, consistent burst AoE/ST.</p>
                 <hr><br>
                 <h4>{{site.data.talent.eb}} (EB)</h4>
                 <p markdown="1"> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.er}} should be taken for virtually all situations unless you have {{ site.data.azerite.igneous_potential }} at least twice in which case you should use {{ site.data.talent.eote }} for anything up to and including 2 targets. {{ site.data.talent.eote }} synergises well with {{site.data.talent.mote}}. {{site.data.talent.eb}} is too restrictive in its movement requirements. It can sim well under certain circumstances, but we advise to not use it.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.eb}} for single target. {{site.data.talent.afs}} is competing with {{site.data.talent.ecs}} for 3+ targets. Choose according to what type of burst you are gonna need.</p>
             </div>
         </div>
     </div>
@@ -60,27 +79,6 @@ Click the talent row text to expand.
             </button></h4>
         </div>
         <div id="L30-collapse" class="collapse" aria-labelledby="L30" data-parent="#accordion">
-            <div class="card-body">
-                <h4>{{site.data.talent.afs}} (AfS)</h4>
-                <p markdown="1">This functions like Legion's legendary boots, The Deceiver's Blood Pact. When you cast {{ site.data.spell.eq }} or {{ site.data.spell.es }}, you have a chance to immediately refund all the Maelstrom spent. This allows for increased burst AoE/ST but with the caveat that at a 25% chance, it is quite random and can't be reliably used for burst damage.</p>
-                <hr><br>
-                <h4>{{site.data.talent.ctt}} (CtT)</h4>
-                <p markdown="1"> Reduces the required Maelstrom for {{ site.data.spell.es }} and {{ site.data.spell.eq }}. This talent smoothes out our playstyle via increasing the frequency at which our spenders are available. Additionaly the increased maximum Maelstrom prevents {{ site.data.talent.sk }} from overcaping versus 5 targets.</p>
-                <hr><br>
-                <h4>{{site.data.talent.tm}} (TM)</h4>
-                <p markdown="1"> A set of stationary buffing totems which provide small but effective bonuses while within their 40 yard range. Ideally you want to use this every 2 minutes, or whenever you're forced to move out of the buff radius.</p>
-                <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.tm}} for most content. {{site.data.talent.afs}} is competitive with {{site.data.talent.tm}} for 2+ targets, but is only strictly superior in AoE situations once you have 5 or more targets. {{site.data.talent.ctt}} is currently under-tuned & is effectively a substantially weaker form of {{site.data.talent.afs}}. It is not recommended in any situation.</p>
-            </div>
-        </div>
-    </div>
-    <div class="card">
-        <div class="card-header" id="L45">
-            <h4 class="mb-0"><button class="btn btn-link" data-toggle="collapse" data-target="#L45-collapse" aria-expanded="false" aria-controls="L45-collapse">
-                <b>Level 45 talents</b>
-            </button></h4>
-        </div>
-        <div id="L45-collapse" class="collapse" aria-labelledby="L45" data-parent="#accordion">
             <div class="card-body">
                 <h4>{{site.data.talent.spirit_wolf}} (SW)</h4>
                 <p markdown="1">A fairly powerful talent that should be considered mostly for its defensive value, not the movement increase it provides. {{ site.data.talent.spirit_wolf }} is quite potent for predictable damage intake when you have the freedom to spend a few seconds in {{ site.data.spell.ghost_wolf }}, and when {{ site.data.spell.astral_shift }} is on cooldown.</p>
@@ -96,12 +94,12 @@ Click the talent row text to expand.
         </div>
     </div>
     <div class="card">
-        <div class="card-header" id="L60">
-            <h4 class="mb-0"><button class="btn btn-link" data-toggle="collapse" data-target="#L60-collapse" aria-expanded="false" aria-controls="L60-collapse">
-                <b>Level 60 talents</b>
+        <div class="card-header" id="L35">
+            <h4 class="mb-0"><button class="btn btn-link" data-toggle="collapse" data-target="#L35-collapse" aria-expanded="false" aria-controls="L35-collapse">
+                <b>Level 35 talents</b>
             </button></h4>
         </div>
-        <div id="L60-collapse" class="collapse" aria-labelledby="L60" data-parent="#accordion">
+        <div id="L35-collapse" class="collapse" aria-labelledby="L35" data-parent="#accordion">
             <div class="card-body">
                 <h4>{{site.data.talent.mote}} (MotE)</h4>
                 <p markdown="1"> Adds an interaction between {{ site.data.spell.lvb }} and {{ site.data.spell.es }} / {{ site.data.spell.eq }} / {{ site.data.spell.frs }} / {{ site.data.spell.lb }} / {{ site.data.spell.cl }}. Note that {{ site.data.talent.mote }}'s buff is applied *immedately* on a successful {{ site.data.spell.lvb }} cast, not when the {{ site.data.spell.lvb }} projectile hits the target. This is distinct from every other interaction with {{ site.data.spell.lvb }} in the past. For more than 3 targets you still should ideally not cast {{ site.data.spell.lvb }}. This talent is a trap when 4 or more targets are present.</p>
@@ -112,18 +110,18 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.lmt}} (LMT)</h4>
                 <p markdown="1"> Offers some nice burst AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is now the default choice if you have {{ site.data.azerite.igneous_potential }} at least twice and use {{ site.data.talent.echo }}. Outside of that case {{ site.data.talent.se }} is the default choice, this talent is extremely strong and versatile. It offers the highest single-target throughput when used in combination with either {{ site.data.talent.pe }} or {{ site.data.talent.sop }} as well as extremely potent AoE burst damage especially when used in conjunction with {{ site.data.talent.pe }}. {{ site.data.talent.lmt }} is a multi-target talent that may occasionally pull ahead of {{ site.data.talent.se }}. It is generally strong when either the fight or instance timings are unfavorable for {{ site.data.talent.se }} but optimal for {{ site.data.talent.lmt }} and additionally {{ site.data.talent.lmt }} tends to pull ahead for 2/3 target sustained cleave.<br/>{{ site.data.talent.lmt }} combined with {{ site.data.azerite.worldvein }} provides a strong regular burst, which can be better than the other talents. Sim yourself to know what fits your character.
+                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is now the default choice if you have {{ site.data.azerite.igneous_potential }} at least twice and use {{ site.data.talent.echo }}. Outside of that case {{ site.data.talent.se }} is the default choice, this talent is extremely strong and versatile. It offers the highest single-target throughput when used in combination with either {{ site.data.talent.pe }} or {{ site.data.talent.sop }} as well as extremely potent AoE burst damage especially when used in conjunction with {{ site.data.talent.pe }}. {{ site.data.talent.lmt }} is a multi-target talent that may occasionally pull ahead of {{ site.data.talent.se }}. It is generally strong when either the fight or instance timings are unfavorable for {{ site.data.talent.se }} but optimal for {{ site.data.talent.lmt }} and additionally {{ site.data.talent.lmt }} tends to pull ahead for 2/3 target sustained cleave.<br/> Sim yourself to know what fits your character.
                 </p>
             </div>
         </div>
     </div>
     <div class="card">
-        <div class="card-header" id="L75">
-            <h4 class="mb-0"><button class="btn btn-link" data-toggle="collapse" data-target="#L75-collapse" aria-expanded="false" aria-controls="L75-collapse">
-                <b>Level 75 talents</b>
+        <div class="card-header" id="L40">
+            <h4 class="mb-0"><button class="btn btn-link" data-toggle="collapse" data-target="#L40-collapse" aria-expanded="false" aria-controls="L40-collapse">
+                <b>Level 40 talents</b>
             </button></h4>
         </div>
-        <div id="L75-collapse" class="collapse" aria-labelledby="L75" data-parent="#accordion">
+        <div id="L40-collapse" class="collapse" aria-labelledby="L40" data-parent="#accordion">
             <div class="card-body">
                 <h4>{{site.data.talent.natures_guardian}} (NG)</h4>
                 <p markdown="1">Acts similarly to the Shamanistic Healing artifact weapon trait in Legion. Serves as an additional HP buffer, but does not prevent you from being one-shotted by big hits *or massive damage*.</p>
@@ -139,12 +137,12 @@ Click the talent row text to expand.
         </div>
     </div>
     <div class="card">
-        <div class="card-header" id="L90">
-            <h4 class="mb-0"><button class="btn btn-link" data-toggle="collapse" data-target="#L90-collapse" aria-expanded="false" aria-controls="L90-collapse">
-                <b>Level 90 talents</b>
+        <div class="card-header" id="L45">
+            <h4 class="mb-0"><button class="btn btn-link" data-toggle="collapse" data-target="#L45-collapse" aria-expanded="false" aria-controls="L45-collapse">
+                <b>Level 45 talents</b>
             </button></h4>
         </div>
-        <div id="L90-collapse" class="collapse" aria-labelledby="L90" data-parent="#accordion">
+        <div id="L45-collapse" class="collapse" aria-labelledby="L45" data-parent="#accordion">
             <div class="card-body">
                 <h4>{{ site.data.talent.sop }} (SoP)</h4>
                 <p markdown="1">A highly complex talent, that adds spell interactions to {{ site.data.spell.es }}. You determine which effect to trigger by which spell you cast next after {{ site.data.spell.es }}.</p>
@@ -166,17 +164,17 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.if}} (IF)</h4>
                 <p markdown="1">Since the removal of the Maelstrom cost from {{ site.data.spell.frs }} in Patch 8.0, {{ site.data.talent.if }} has become much less complex to manage. This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. {{ site.data.talent.if }} empowered {{ site.data.spell.frs }} generate Maelstrom. This gives you more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** If you have {{ site.data.azerite.igneous_potential }} twice {{ site.data.talent.if }} in combinations with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one and two targets. Outside of that {{ site.data.talent.pe }} becomes the default choice. {{ site.data.talent.sop }} is very powerful on *single target* encounters but is significantly more complex to utilize than {{ site.data.talent.pe }} or {{ site.data.talent.if }} and is only a gain under specific circumstances. {{ site.data.talent.if }} offers much improved mobility, but is very slightly weaker than the other two options if no movement is involved. {{ site.data.talent.if }} may perform better than the other alternatives on 1 or 2 target encounters when used with {{ site.data.talent.mote }}(single target) or {{ site.data.talent.lmt }} (2 target cleave). Despite all that {{ site.data.talent.pe }} is almost as powerful as the mentioned talent combination with {{ site.data.talent.if }}.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.if }} in combinations with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one target if you need movement. Outside of that {{ site.data.talent.pe }} becomes the default choice. Both talents are pretty much equivalent on single target, with {{ site.data.talent.pe }} becoming better when more targets are available. {{ site.data.talent.sop }} stays similarly to how it performed in BfA with it only being worth considering if you need the {{ site.data.talent.fs }}-spreading or know the kill timers.</p>
             </div>
         </div>
     </div>
     <div class="card">
-        <div class="card-header" id="L100">
-            <h4 class="mb-0"><button class="btn btn-link" data-toggle="collapse" data-target="#L100-collapse" aria-expanded="false" aria-controls="L100-collapse">
-                <b>Level 100 talents</b>
+        <div class="card-header" id="L50">
+            <h4 class="mb-0"><button class="btn btn-link" data-toggle="collapse" data-target="#L50-collapse" aria-expanded="false" aria-controls="L50-collapse">
+                <b>Level 50 talents</b>
             </button></h4>
         </div>
-        <div id="L100-collapse" class="collapse" aria-labelledby="L100" data-parent="#accordion">
+        <div id="L50-collapse" class="collapse" aria-labelledby="L50" data-parent="#accordion">
             <div class="card-body">
                 <h4>{{ site.data.talent.up }} (UP)</h4>
                 <p markdown="1">An interesting buff that creates some *swing* in the spec, a tangible speeding up and slowing down of casts provided you're lucky with {{ site.data.spell.mastery }} procs. This is especially noticeable in AOE, where you can regularly get in excess of 10 stacks for a total of 20%+ haste for a few seconds. Regardless of its obvious dependency on our {{ site.data.spell.mastery }}, this talent works better with a lot of Haste.</p>

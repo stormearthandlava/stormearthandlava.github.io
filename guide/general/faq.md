@@ -48,7 +48,7 @@ Not that we're aware of. The Elementals' autocast settings are shared between th
 
 ### Q: "Do I use Lava Burst during Storm Elemental?"
 
-Yes. No. It depends on the number of {{ site.data.azerite.igneous_potential }} you have active on your equip. Check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) and special notes on that website for in depth information.
+Yes. No. It depends. Check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) and special notes on that website for in depth information.
 
 ### Q: "What are some useful Macros?"
 
