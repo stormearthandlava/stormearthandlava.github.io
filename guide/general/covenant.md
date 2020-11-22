@@ -44,10 +44,11 @@ It can be useful as another defensive in our toolkit, but 20% is usually not imp
 **{{site.data.spell.primordial_wave}}**
 
 {{site.data.spell.primordial_wave}} is an ability on a 45 second cooldown that puts a {{site.data.spell.fs}} onto a target and duplicates the next {{site.data.spell.lvb}} on all targets with an active {{site.data.spell.fs}}.
-It enables us to accelerate the speed in which we get {{site.spell.data.spells.fs}} out and provides good damage on single target, spread cleave and low target AoE.
+It accelerates the speed in which we get {{site.spell.data.spell.fs}} out and provides good damage on single target, spread cleave and low target AoE.
 
 It gets affected by {{site.data.spell.tumbling_waves}} which grants a chance to refresh the cooldown on use.
 
+<hr />
 
 By pledging your allegiance to the Kyrian you will gain two new abilites:
 
@@ -64,17 +65,22 @@ The totem can also be re-placed by recasting the ability which is not on the GCD
 It is a very nice "set it and forget it" ability which is only slightly dependent on the the tank not moving the targets out of the totem. The ability is mostly limited by targets needing to be stacked up.
 {{site.data.spell.elysian_dirge}} 
 
+<hr />
+
+By pledging your allegiance to the Night Fae you will gain two new abilites:
 
 **{{site.data.spell.soulshape}}**
 
-{{site.data.spell.soulshape}} is arguably the strongest of the covenant signature abilities. It turns you into an animal form, teleports you 15 yards forwards and increases your movespeed by 50% for 12 seconds or until cancelled. Even though we have a very similar ability in {{site.data.spell.gw}} already, the added teleport enables us to dodge abilities on a short notice.
+{{site.data.spell.soulshape}} is arguably the strongest of the covenant signature abilities. It turns you into an animal form, teleports you 15 yards forwards and increases your movespeed by 50% for 12 seconds or in rest areas until cancelled. This teleports ports you directly to the ground, meaning it can be used to cancel fall damage. Even though we have a very similar ability in {{site.data.spell.gw}} already, the added teleport enables us to dodge abilities on a short notice.
 
 **{{site.data.spell.fae_transfusion}}**
 
 {{site.data.spell.fae_transfusion}} is a 4 second channeled ability that deals a set amount of damage either to a singular target or split between multiple targets in AoE.
-It is Nature damage and can thus be buffed with {{site.data.talent.master_of_the_elements}}. Because of the need to stand still while channeling it, it can sometimes be hard to get the full worth out of the ability, but you can use {{site.data.talent.swg}} to handle that more easily.
+It is Nature damage and can thus be buffed with {{site.data.talent.master_of_the_elements}}. Because of the need to stand still while channeling it, it can sometimes be hard to get the full worth out of the ability, but you can use {{site.data.spell.swg}} to handle that more easily.
 
+<hr />
 
+By pledging your allegiance to the Venthyr you will gain two new abilites:
 
 **{{site.data.spell.door_of_shadows}}**
 

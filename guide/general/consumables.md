@@ -39,4 +39,4 @@ Boots | Irrelevant, open world utility enchants. No recommendation to be made he
 
 ## Gems
 
-Put {{ site.data.item.quick_jewel_cluster }} into all available slots.
+Sim for your best stat. By default put {{ site.data.item.quick_jewel_cluster }} into all available slots.
