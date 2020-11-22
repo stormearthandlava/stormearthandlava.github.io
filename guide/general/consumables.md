@@ -28,7 +28,7 @@ Gear slot | Enchant
 --- | ---
 Weapon | {{ site.data.item.sinful_revelation }}
 Cloak | {{ site.data.item.fortified_speed}}
-Chest | {{ site.data.item.eternal_stats}} ?
+Chest | {{ site.data.item.eternal_stats}}
 Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above. (likely {{site.data.item.tenet_of_haste}})
 Bracers | {{ site.data.item.eternal_intellect }}
 Gloves | Irrelevant, open world utility enchants. No recommendation to be made here.

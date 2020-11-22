@@ -45,9 +45,9 @@ Click the talent row text to expand.
                 <p markdown="1"> Quite a simple talent to understand, EotE / Echo just adds a charge to {{ site.data.spell.lvb }}. At face value this may not seem impactful, but once you consider that effects which reset the cooldown on {{ site.data.spell.lvb }} will now instead grant a charge, the benefits are clear. Echo adds value by allowing extra time for you to cast {{ site.data.spells.lvb }} instead of needing to cast it immediately when it comes off cooldown. This is because you'll lose no DPS by choosing to cast another spell while {{ site.data.spell.lvb }} has less than 2 charges, as the second charge "cooling down" does not translate to wasted DPS.</p>
                 <hr><br>
                 <h4>{{site.data.talent.sd}} (SD)</h4>
-                <p markdown="1"> Static Discharge adds a spell to our toolkit that you can only use while you have {{ site.data.spell.ls }} active. It deals damage to a nearby target with {{ site.data.spell.fs }}.</p>
+                <p markdown="1"> Static Discharge adds a spell to our toolkit that you can only use while you have {{ site.data.spell.lightning_shield }} active. It deals damage to a nearby target with {{ site.data.spell.fs }}. Because different types of shield don't stack, you will not be able to benefit from your own or your healer's {{site.data.talent.earth_shield}}.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{site.data.talent.eote}} should be taken for virtually all situations. {{site.data.talent.sd}} barely does any damage and is too limited in it's use to ever be worth considering. Earthen Rage can be good with certain, {{site.data.spell.lb}}-focussed builds but in raiding it will usually get outperformed. {{site.data.talent.eote}} helps with Pooling Resets from {{site.data.talent.lava_surge}} and works well with all of the legendaries.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.eote}} should be taken for virtually all situations. {{site.data.talent.sd}} barely does any damage and is too limited in its use to ever be worth considering. Earthen Rage can be good with certain, {{site.data.spell.lb}}-focussed builds but in raiding it will usually get outperformed. {{site.data.talent.eote}} helps with Pooling Resets from {{site.data.talent.lava_surge}} and works well with all of the legendaries.</p>
             </div>
         </div>
     </div>
@@ -89,7 +89,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.static_charge}} (SC)</h4>
                 <p markdown="1"> Very easy to understand and use. Simply put, if you stun 4+ targets with a use of {{ site.data.spell.capacitor_totem }}, its cooldown will instead be 40 seconds. </p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.spirit_wolf }} should be your go-to for almost every raid encounter. {{ site.data.talent.static_charge }} is quite nice in Mythic+, and {{ site.data.talent.earth_shield }} is unlikely to be useful.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.spirit_wolf }} should be your default for almost every raid encounter. {{ site.data.talent.static_charge }} is quite nice in Mythic+.  {{ site.data.talent.earth_shield }} is sometimes useful for raid encounters with consistent incoming damage.</p>
             </div>
         </div>
     </div>
@@ -110,7 +110,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.lmt}} (LMT)</h4>
                 <p markdown="1"> Offers some nice burst AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is now the default choice if you have {{ site.data.azerite.igneous_potential }} at least twice and use {{ site.data.talent.echo }}. Outside of that case {{ site.data.talent.se }} is the default choice, this talent is extremely strong and versatile. It offers the highest single-target throughput when used in combination with either {{ site.data.talent.pe }} or {{ site.data.talent.sop }} as well as extremely potent AoE burst damage especially when used in conjunction with {{ site.data.talent.pe }}. {{ site.data.talent.lmt }} is a multi-target talent that may occasionally pull ahead of {{ site.data.talent.se }}. It is generally strong when either the fight or instance timings are unfavorable for {{ site.data.talent.se }} but optimal for {{ site.data.talent.lmt }} and additionally {{ site.data.talent.lmt }} tends to pull ahead for 2/3 target sustained cleave.<br/> Sim yourself to know what fits your character.
+                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is the default choice in raiding and mythic+. {{ site.data.talent.se }} can be used in conjunction with {{ site.data.talent.pe }} to get extremely potent AoE burst damage by giving you another cooldown in {{site.data.spells.eye_of_the_storm}}. {{ site.data.talent.lmt }} is a multi-target talent that may occasionally pull ahead of the other options when either the fight or instance timings are unfavorable for {{ site.data.talent.se }} but optimal for {{ site.data.talent.lmt }} and additionally {{ site.data.talent.lmt }} tends to pull ahead for 2/3 target sustained stacked cleave.<br/> Sim yourself to know what fits your character.
                 </p>
             </div>
         </div>
@@ -164,7 +164,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.if}} (IF)</h4>
                 <p markdown="1">Since the removal of the Maelstrom cost from {{ site.data.spell.frs }} in Patch 8.0, {{ site.data.talent.if }} has become much less complex to manage. This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. {{ site.data.talent.if }} empowered {{ site.data.spell.frs }} generate Maelstrom. This gives you more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.if }} in combinations with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one target if you need movement. Outside of that {{ site.data.talent.pe }} becomes the default choice. Both talents are pretty much equivalent on single target, with {{ site.data.talent.pe }} becoming better when more targets are available. {{ site.data.talent.sop }} stays similarly to how it performed in BfA with it only being worth considering if you need the {{ site.data.talent.fs }}-spreading or know the kill timers.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.if }} in combination with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one target if you need movement. Outside of that {{ site.data.talent.pe }} becomes the default choice. Both talents are pretty much equivalent on single target, with {{ site.data.talent.pe }} becoming better when more targets are available. {{ site.data.talent.sop }} stays similarly to how it performed in BfA with it only being worth considering if you need the {{ site.data.talent.fs }}-spreading or know the kill timers perfectly.</p>
             </div>
         </div>
     </div>
@@ -185,12 +185,13 @@ Click the talent row text to expand.
                 <h4>{{ site.data.talent.asc }} (Asc)</h4>
                 <p markdown="1">An additional cooldown with a few requirements for its use. First, you must ensure you'll have {{ site.data.spell.fs }} active for {{site.data.talent.asc}}' full duration. Second, you want to get high value out of {{site.data.talent.asc}} with high (optimally 100%) uptime of casts during the buff. You should adjust your casts during {{site.data.talent.asc}} as per the <a href="priority_list.html">priority list</a> page.</p>
                 <hr><br>
-                <p markdown="1">**Recommendation:**{{ site.data.talent.sk }} for all situations. {{ site.data.talent.asc }} took a big hit from the damage reshuffle between {{ site.data.spell.lb }} and {{ site.data.spell.es }}. {{ site.data.talent.up }} is just weak and even if it were possible to sim identically to {{ site.data.talent.sk }} it requires constant casting and no movement to provide its dps. Because this isn't possible this talent can be considered non-existant.</p>
+                <p markdown="1">**Recommendation:**{{ site.data.talent.sk }} for all situations. {{ site.data.talent.asc }} offers some strong 15 second burst but can't compete in terms of mobility and versatility. {{ site.data.talent.up }} is just weak and even if it were possible to sim identically to {{ site.data.talent.sk }} it requires constant casting and no movement to provide its dps. Because this isn't possible this talent can be considered non-existant.</p>
             </div>
         </div>
     </div>
 </div>
 <br><br>
+
 ### Notable talent synergies
 
 Please note that this list will only include talent synergies with easy to explain, intuitive reasoning behind them. There may exist some mild synergies not in this list, but we have chosen to not write about them here. Many factors affect which talents benefit others, so we have narrowed it down to synergies with direct impacts on gameplay.

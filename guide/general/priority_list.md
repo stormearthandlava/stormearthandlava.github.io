@@ -19,8 +19,8 @@ After reading the APL, please pay attention to the special mentions below, becau
 #### Talent selector:
 
 
-15 | <input type="radio" id="er-radio" name="15" value="1"/><label for="er-radio" > Earthen Rage</label> | <input type="radio" id="eote-radio" name="15" value="2"  checked/><label for="eote-radio"> Echo of the Elements</label> | <input type="radio" id="eb-radio" name="15" value="3" /><label for="eb-radio"> Elemental Blast</label>
-25 | <input type="radio" id="afs-radio" name="25" value="1" /><label for="afs-radio"> Aftershock</label> | <input type="radio" id="ctt-radio" name="25" value="2" /><label for="ctt-radio"> Call the Thunder</label> | <input type="radio" id="tm-radio" name="25" value="3" checked /><label for="tm-radio"> Totem Mastery</label>
+15 | <input type="radio" id="er-radio" name="15" value="1"/><label for="er-radio" > Earthen Rage</label> | <input type="radio" id="eote-radio" name="15" value="2"  checked/><label for="eote-radio"> Echo of the Elements</label> | <input type="radio" id="sd-radio" name="15" value="3" /><label for="sd-radio"> Static Discharge</label>
+25 | <input type="radio" id="afs-radio" name="25" value="1" /><label for="afs-radio"> Aftershock</label> | <input type="radio" id="ecs-radio" name="25" value="2" /><label for="ecs-radio"> Echoing Shock </label> | <input type="radio" id="eb-radio" name="25" value="3" checked /><label for="eb-radio"> Elemental Blast</label>
 60 | <input type="radio" id="mote-radio" name="35" value="1" checked /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="se-radio" name="35" value="2"/><label for="se-radio"> Storm Elemental</label> | <input type="radio" id="lmt-radio" name="35" value="3" /><label for="lmt-radio"> Liquid Magma Totem</label>
 90 | <input type="radio" id="sop-radio" name="45" value="1" /><label for="sop-radio"> Surge of Power</label> | <input type="radio" id="pe-radio" name="45" value="2" /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="45" value="3" checked /><label for="if-radio"> Icefury</label>
 100 | <input type="radio" id="up-radio" name="50" value="1" /><label for="up-radio"> Unlimited Power</label> | <input type="radio" id="sk-radio" name="50" value="2" checked/><label for="sk-radio"> Stormkeeper</label> | <input type="radio" id="asc-radio" name="50" value="3"/><label for="asc-radio"> Ascendance</label>
@@ -100,12 +100,6 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
         <li> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.eye_of_the_storm }} against as many targets as possible. Make sure {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.eye_of_the_storm }}.</li>
-        <li>Cast {{ site.data.talent.tm }} when any of the following are true:
-            <ol>
-                <li>It is not active.</li>
-                <li>The buff's duration is at or below 9 seconds remaining.</li>
-            </ol>
-        </li>
         <li>Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).</li>
         <li class="sk-apl">Cast {{ site.data.talent.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
@@ -117,7 +111,7 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
     </ol>
 </div>
 
-**Special mention** {{ site.data.spell.fs }} can be maintained at 4 targets and should be, if you can ensure that they all live at least 80% of the duration. Because this is usually not the case, we opted to write 3 as the maximum number of spreads. Tread carefully, as this could otherwise backfire.
+**Special mention** {{ site.data.spell.fs }} can be maintained at 4 targets with {{site.data.spell.pwave}} and during {{site.data.spell.fe}}. Because this is usually not the case, we opted to write 3 as the maximum number of spreads. Tread carefully, as this could otherwise backfire.
 
 **Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. *IF* you have two or more {{ site.data.azerite.igneous_potential }} equipped, it is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply flame shock to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier.
 
@@ -159,8 +153,6 @@ If you are using EB:
 
 <br>
 ## Common misconceptions and mistakes
-
-> "I should duplicate {{ site.data.talent.sk }}-buffed {{ site.data.spell.lb }} and {{ site.data.spell.lb }}
 
 > "I should try and play around {{site.data.talent.mote}}!"
 
