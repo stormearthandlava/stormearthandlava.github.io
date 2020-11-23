@@ -2,36 +2,41 @@
 layout: page
 title: Consumables
 last_update: 2020-01-11 09:00:00
-game_version: 8.3.0 Battle for Azeroth
+game_version: 9.0.2 Shadowlands
 toc: true
 ---
 
 ## Flask
-{{ site.data.item.greater_mystical_cauldron }} and {{ site.data.item.big_int_flask }} are equal.
+{{ site.data.item.eternal_cauldron }} and {{ site.data.item.spectral_flask_of_power }} are equal.
 
 ## Food
-1. {{ site.data.item.big_feast }}
-1. {{ site.data.item.big_crit_food }}
-1. {{ site.data.item.big_haste_food }}
+1. {{ site.data.item.feast }}
+1. {{ site.data.item.haste_food }}
+1. {{ site.data.item.vers_food }}
 
-## Potion
-1. {{ site.data.item.potion_of_unbridled_fury }}
-1. {{ site.data.item.big_int_pot }}
+## Damage Potion
+1. {{ site.data.item.potion_of_deathly_fixation }}
+1. {{ site.data.item.potion_of_spectral_intellect }}
 
-## Rune
-- {{ site.data.item.rune }}
+## Health Potion
+1. {{ site.data.item.spiritual_healing_potion }}
+
 
 ## Enchants
 
 Gear slot | Enchant
 --- | ---
-Weapon | {{ site.data.item.machinists_brilliance }} **OR** {{ site.data.item.deadly_navigation }} **OR** {{ site.data.item.quick_navigation }}.
-Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above.
-Bracers | Irrelevant, open world utility enchants. Safe Hearthing is probably a *safe* bet.
+Weapon | {{ site.data.item.sinful_revelation }}
+Cloak | {{ site.data.item.fortified_speed}}
+Chest | {{ site.data.item.eternal_stats}}
+Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above. (likely {{site.data.item.tenet_of_haste}})
+Bracers | {{ site.data.item.eternal_intellect }}
 Gloves | Irrelevant, open world utility enchants. No recommendation to be made here.
+Boots | Irrelevant, open world utility enchants. No recommendation to be made here.
 
-**Special Mention** {{ site.data.item.torrent_of_elements }} Is very good for pure single target. However, it does not affect {{ site.data.spell.eq }}, making it lackluster overall.
+## Weapon Oil
+- {{ site.data.item.shadowcore_oil }}
 
 ## Gems
 
-Socket one {{ site.data.item.big_int_gem }}, and put {{ site.data.item.big_crit_gem }} into your remaining sockets.
+Sim for your best stat. By default put {{ site.data.item.quick_jewel_cluster }} into all available slots.

@@ -2,20 +2,22 @@
 title: Stats
 layout: page
 last_update: 2020-01-11 09:00:00
-game_version: 8.3.0 Battle for Azeroth
+game_version: 9.0.2 Shadowlands
 toc: true
 ---
 
-Due to the advent of the ~~Titanforging~~ Corruption system, BiS lists are a defunct practice. We suggest you simulate each piece of gear you obtain against your other gear to find the most effective gear set. Aside from that, following a general stat priority and ratio is the most practical way to move forward with gearing. Additionally, we are focused on single target output for raid environments, as it is vastly more important than building for AoE or cleave specifically, but don’t be afraid to experiment to tailor yourself to a raid encounter and your raid group.
+Due to the fact that different legendaries and different soulbinds prefer different stats, giving a "one fits all" sort of BiS gear list is a nearly impossible task.
+For that reason we still recommend simming yourself and comparing specific pieces of gear to each other. The following Stat Ratios should give you a general idea what to go for and which items to target.
 
 ## Stat ratios
 
-Below are our advised stat gearing strategies for talent combinations. We won’t release numbers for every single talent combination, but the general ratio and priority serve as a good all-round distribution.
+Below are our advised stat gearing strategies for talent combinations. We won’t release numbers for every single talent, legendary, covenant and soulbind combination, but the general ratio and priority serve as a good all-round distribution.
 
 Purpose | Crit | Haste | Mastery | Vers
 --- | --- | --- | --- | ---
 Dungeon / Mythic+ / AoE | 0.6 | 0.2 | 0.1 | 0.1
-Raid / Single&nbsp;Target | 0.3 | 0.3 | 0.1 | 0.3
+Raid / Single Target (Windspeaker) | 0.1 | 0.5 | 0.1 | 0.3
+Raid / Cleave (non-WS)| 0.3 | 0.3 | 0.1 | 0.3
 Funneling | 0.1 | 0.5 | 0.1 | 0.3
 
 Expand the section below if you want more information on what these ratios are and/or how to use them:
@@ -43,7 +45,7 @@ The above figure shows a rough example of a stat ratio — it’s a relationship
 
 #### How do I 'use' these stat ratios?
 
-First and foremost: you cannot put these into Pawn, ratios should never be considered compatible with this addon. We saw a number of people misusing the ratios as pseudo Pawn strings, so we’re trying our best to educate our readers on proper usage with this page. The most important concept of stat ratios is that you’re comparing your secondary stat levels to the highest in each ratio. In the below Gambling ratio, you want your highest stat to be Critical Strike. From here, you want your Haste rating to be roughly 80% of your Critical Strike rating, your Mastery rating to be roughly 65% of your Critical Strike rating, and your Versatility rating to be roughly 35% of your Critical Strike rating. This means that if you had 10K Critical Strike rating, you’d want 8K Haste, 6.5K Mastery, and 3.5K Versatility.
+First and foremost: you cannot put these into Pawn, ratios should never be considered compatible with this addon. We saw a number of people misusing the ratios as pseudo Pawn strings, so we’re trying our best to educate our readers on proper usage with this page. The most important concept of stat ratios is that you’re comparing your secondary stat levels to the highest in each ratio. In the above single target ratio, you want your highest stat to be Haste, taking up roughly 50% of your stat budget. From here, you want your Vers rating to be roughly 30% of your secondary rating, and Critical Strike and Mastery rating to account for about 10% each. This means that if you had a secondary stat budget of 1000, you would want 500 haste, 300 vers, 100 crit and 100 mastery.
 
 Do note that using these ratios should be a long term strategy, as they aren’t as easily used for single item comparisons. This is where we stress the value of simming yourself; there are plenty of guides on how to do it, and [Raidbots](https://raidbots.com/) has an excellent interface for this. Simming yourself will give you the most granular information, but opting to use stat ratios in favour of stat weights will result in a better overall gearset with much less variation. Without simming, the best way to determine if an item is an upgrade is to think about whether it will bring you closer to or further away from the stat ratio.
 

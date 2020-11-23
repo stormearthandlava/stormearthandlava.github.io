@@ -1,8 +1,8 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 2020-04-15 09:00:00
-game_version: 8.3.0 Battle for Azeroth
+last_update: 2020-11-23 09:00:00
+game_version: 9.0.2 Shadowlands
 toc: true
 ---
 
@@ -48,7 +48,7 @@ Not that we're aware of. The Elementals' autocast settings are shared between th
 
 ### Q: "Do I use Lava Burst during Storm Elemental?"
 
-Yes. No. It depends on the number of {{ site.data.azerite.igneous_potential }} you have active on your equip. Check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) and special notes on that website for in depth information.
+Yes. No. It depends. Check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) and special notes on that website for in depth information.
 
 ### Q: "What are some useful Macros?"
 
@@ -58,18 +58,10 @@ This Macro allows you to place an {{ site.data.spell.eq }} at your cursor:
 /cast [@cursor] Earthquake
  ```
 
-This macro will deselect the boss before casting {{ site.data.spell.fe }}, allowing you to pre-cast it without pulling the boss:
- ```
-#showtooltip Fire Elemental
-/target [@player, nocombat]
-/cast Fire Elemental
-/targetlasttarget [nocombat]
- ```
-
 This macro allows you to cast the Elementals Ability or Icefury, depending on your talents. The correct icon is shown once you've loaded the ability at least once after logging in.
 ```
 #showtooltip
-/cast [talent:6/3]Icefury;[talent:4/2,talent:6/2]Eye of the Storm;[notalent:4/2,talent:6/2]Meteor
+/use [talent:6/3]Icefury;[pet: Primal Storm Elemental]Eye of the Storm;[pet: Primal Fire Elemental]Meteor;[pet: Primal Earth Elemental]Harden Skin
 ```
 
 This macro is a handy mouseover macro for {{ site.data.spell.fs }}.
@@ -83,4 +75,12 @@ This macro allows you to summon your {{ site.data.spell.ee }} and active its def
 #showtooltip
 /cast Earth Elemental
 /cast [talent:6/2] Harden Skin
+```
+
+You can also adapt this macro to dismiss the {{site.data.spell.ee}} after getting {{site.data.spell.harden_skin}}.
+```
+#showtooltip
+/cast Earth Elemental
+/cast [talent:6/2] Harden Skin
+/script PetDismiss()
 ```
