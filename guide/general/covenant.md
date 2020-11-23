@@ -14,7 +14,7 @@ Recommending "best" covenant is a pretty impossible tasks.
 The strength of the covenants breaks down to the strength of the covenant signature ability, the strength of the covenant class ability and the strength of the soulbinds.
 The strength of the soulbind will change every week you gain renown.
 
-So for the TLDR PvE recommendations first
+So for the TLDR PvE recommendations:
 
 When assuming full renown:
 
@@ -30,7 +30,7 @@ Restoration and Elemental | Necrolord
 Enhancement and Elemental | Kyrian
 All Specs          | Kyrian
 
-We will be discussing the value of specific soulbinds [here]().
+We will be discussing the value of specific soulbinds [here]({{ site.baseurl }}{% link guide/general/soulbind.md %}).
 
 # Actual covenants:
 

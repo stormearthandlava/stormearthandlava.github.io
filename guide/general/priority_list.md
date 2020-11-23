@@ -2,7 +2,7 @@
 layout: page
 title: Priority List
 last_update: 2020-01-11 09:00:00
-game_version: 8.3.0 Battle for Azeroth
+game_version: 9.0.2 Battle for Azeroth
 toc: true
 ---
 
@@ -21,9 +21,12 @@ After reading the APL, please pay attention to the special mentions below, becau
 
 15 | <input type="radio" id="er-radio" name="15" value="1"/><label for="er-radio" > Earthen Rage</label> | <input type="radio" id="eote-radio" name="15" value="2"  checked/><label for="eote-radio"> Echo of the Elements</label> | <input type="radio" id="sd-radio" name="15" value="3" /><label for="sd-radio"> Static Discharge</label>
 25 | <input type="radio" id="afs-radio" name="25" value="1" /><label for="afs-radio"> Aftershock</label> | <input type="radio" id="ecs-radio" name="25" value="2" /><label for="ecs-radio"> Echoing Shock </label> | <input type="radio" id="eb-radio" name="25" value="3" checked /><label for="eb-radio"> Elemental Blast</label>
-60 | <input type="radio" id="mote-radio" name="35" value="1" checked /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="se-radio" name="35" value="2"/><label for="se-radio"> Storm Elemental</label> | <input type="radio" id="lmt-radio" name="35" value="3" /><label for="lmt-radio"> Liquid Magma Totem</label>
-90 | <input type="radio" id="sop-radio" name="45" value="1" /><label for="sop-radio"> Surge of Power</label> | <input type="radio" id="pe-radio" name="45" value="2" /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="45" value="3" checked /><label for="if-radio"> Icefury</label>
-100 | <input type="radio" id="up-radio" name="50" value="1" /><label for="up-radio"> Unlimited Power</label> | <input type="radio" id="sk-radio" name="50" value="2" checked/><label for="sk-radio"> Stormkeeper</label> | <input type="radio" id="asc-radio" name="50" value="3"/><label for="asc-radio"> Ascendance</label>
+35 | <input type="radio" id="mote-radio" name="35" value="1" checked /><label for="mote-radio"> Master of the Elements</label> | <input type="radio" id="se-radio" name="35" value="2"/><label for="se-radio"> Storm Elemental</label> | <input type="radio" id="lmt-radio" name="35" value="3" /><label for="lmt-radio"> Liquid Magma Totem</label>
+45 | <input type="radio" id="sop-radio" name="45" value="1" /><label for="sop-radio"> Surge of Power</label> | <input type="radio" id="pe-radio" name="45" value="2" /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="45" value="3" checked /><label for="if-radio"> Icefury</label>
+50 | <input type="radio" id="up-radio" name="50" value="1" /><label for="up-radio"> Unlimited Power</label> | <input type="radio" id="sk-radio" name="50" value="2" checked/><label for="sk-radio"> Stormkeeper</label> | <input type="radio" id="asc-radio" name="50" value="3"/><label for="asc-radio"> Ascendance</label>
+
+Covenant | <input type="radio" id="ft-radio" name="cov" value="1" /><label for="ft-radio">Fae Transfusion</label> | <input type="radio" id="pw-radio" name="cov" value="2" /><label for="pw-radio">Primordial Wave</label> | <input type="radio" id="ch-radio" name="cov" value="3" /><label for="ch-radio">Chain Harvest</label> | <input type="radio" id="vt-radio" name="cov" value="4" /><label for="vt-radio">Vesper Totem</label>
+
 
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
@@ -38,7 +41,12 @@ After reading the APL, please pay attention to the special mentions below, becau
                 <li class="se-apl" style="display: none;"><strong>Special warning:</strong> Don't refresh {{ site.data.spell.fs }} if you have 14 stacks or more of {{ site.data.spell.wind_gust }} during {{ site.data.talent.se }}. Unless you have {{ site.data.azerite.igneous_potential }} at least twice. </li>
             </ul>
         </li>
+        <li class="pw-apl" style="display: none;">Cast {{ site.data.spell.primordial_wave}} on a target without {{ site.data.spell.fs }} or the target with the lowest duration remaining. Delay it if adds are gonna spawn, if it doesn't lead to you losing a use.</li>
+        <li class="vt-apl" style="display: none;">Cast {{ site.data.spell.vesper_totem}} on cooldown. </li>
+        <li class="ft-apl" style="display: none;">Cast {{ site.data.spell.fae_transfusion}} on cooldown (buff it with {{site.data.talent.master_of_the_elements}} if talented into that). </li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.talent.asc }} on cooldown, if neither {{ site.data.talent.se }} is active, nor {{ site.data.spell.lvb }} is available, nor {{ site.data.talent.if }} is active.</li>
+        <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.lvb }} while affected by {{site.data.talent.ecs}}</li>
+        <li class="ecs-apl" style="display:none;">Cast {{ site.data.talent.ecs }} </li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} on cooldown, if neither {{ site.data.talent.se }} is active nor you could cast a {{ site.data.talent.mote }} empowered {{ site.data.spell.es }} instead.</li>
         <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.talent.sk }} on cooldown and ideally game it with {{ site.data.talent.sop }} if you selected this talent. See special cases below for more information.</li>
         <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown. Ideally paired with {{ site.data.azerite.worldvein }}, if that's your major essence.</li>
@@ -59,6 +67,7 @@ After reading the APL, please pay attention to the special mentions below, becau
         <li>Cast {{site.data.spell.lvb }}.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.talent.if }} on cooldown.</li>
+        <li class="ch-apl" style="display: none;">Cast {{ site.data.spell.chain_harvest}}. </li>
         <li>Cast {{ site.data.spell.lb }} as a filler.</li>
         <li>Cast {{ site.data.spell.frs }} in place of {{ site.data.spell.lb }} while moving, even if you do not have {{ site.data.talent.if }}.</li>
     </ol>
@@ -71,6 +80,7 @@ After reading the APL, please pay attention to the special mentions below, becau
 - Priority of casts you want to empower with {{ site.data.talent.mote }} from best to worst:
     1. {{ site.data.spell.eq }} if two or more targets are in its effect (unless {{ site.data.azerite.lava_shock }} is present at low target count )
     1. {{ site.data.spell.lb }} with {{ site.data.talent.sk }}
+    1. {{ site.data.spell.fae_transfusion }} if Night Fae
     1. {{ site.data.spell.es }}
     1. {{ site.data.spell.frs }} with {{ site.data.talent.if }}
     1. {{ site.data.spell.lb }}
@@ -99,6 +109,9 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
 ## AoE (3 or more targets)
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
+        <li class="ch-apl">Cast Chain Harvest on cooldown.</li>
+        <li class="vt-apl">Cast Vesper Totem on cooldown.</li>
+        <li class="pwave-apl">Cast PWave on cooldown. Make sure you have 3 {{site.data.spell.fs}} up when casting the {{site.data.spell.lvb}}.</li>
         <li> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.eye_of_the_storm }} against as many targets as possible. Make sure {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.eye_of_the_storm }}.</li>
         <li>Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} / {{site.data.spell.ee}} on cooldown (see <a href="#pe">the warning</a> about Primal Elementalist).</li>
         <li class="sk-apl">Cast {{ site.data.talent.sk }} on cooldown.</li>
@@ -107,6 +120,7 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
         <li>Cast {{ site.data.spell.eq }} when available. (Try gaming {{ site.data.talent.mote }}.)</li>
         <li>Cast {{ site.data.spell.lvb }} to consume {{ site.data.spell.lava_surge }} procs when {{ site.data.talent.se }} is not active and you're fighting only 3 targets.</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} if there are 3 targets.</li>
+        <li class="ft-apl" style="display:none;">Cast {{ site.data.spell.fae_transfusion }} on 4 targets or less.
         <li>Cast {{ site.data.spell.cl }}.</li>
     </ol>
 </div>
@@ -139,15 +153,32 @@ If you are using EB:
 <div class="opener">
     <div class="skill sk"><span>SK</span></div>
     <div class="arrow"></div>
-    <div class="skill lvb"><span>EB</span></div>
+    <div class="skill eb"><span>EB</span></div>
     <div class="arrow pull"></div>
     <div class="skill fs"><span>FS</span></div>
     <div class="arrow"></div>
     <div class="skill fe"><span>FE</span></div>
     <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
     <div class="skill lb"><span>LB</span></div>
     <div class="arrow"></div>
-    <div class="skill if"><span>IF</span></div>
+</div>
+
+If you are using EB and PWave:
+
+<div class="opener">
+    <div class="skill sk"><span>SK</span></div>
+    <div class="arrow"></div>
+    <div class="skill eb"><span>EB</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill pw"><span>PWave</span></div>
+    <div class="arrow"></div>
+    <div class="skill fe"><span>FE</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
     <div class="arrow"></div>
 </div>
 

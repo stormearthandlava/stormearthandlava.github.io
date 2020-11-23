@@ -2,7 +2,7 @@
 title: Stats
 layout: page
 last_update: 2020-01-11 09:00:00
-game_version: 8.3.0 Battle for Azeroth
+game_version: 9.0.2 Shadowlands
 toc: true
 ---
 
@@ -11,7 +11,7 @@ For that reason we still recommend simming yourself and comparing specific piece
 
 ## Stat ratios
 
-Below are our advised stat gearing strategies for talent combinations. We won’t release numbers for every single talent combination, but the general ratio and priority serve as a good all-round distribution.
+Below are our advised stat gearing strategies for talent combinations. We won’t release numbers for every single talent, legendary, covenant and soulbind combination, but the general ratio and priority serve as a good all-round distribution.
 
 Purpose | Crit | Haste | Mastery | Vers
 --- | --- | --- | --- | ---
