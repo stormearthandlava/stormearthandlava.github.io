@@ -120,7 +120,7 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
         <li>Cast {{ site.data.spell.eq }} when available. (Try gaming {{ site.data.talent.mote }}.)</li>
         <li>Cast {{ site.data.spell.lvb }} to consume {{ site.data.spell.lava_surge }} procs when {{ site.data.talent.se }} is not active and you're fighting only 3 targets.</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} if there are 3 targets.</li>
-        <li class="ft-apl" style="display:none;">Cast {{ site.data.spell.fae_transfusion }} on 4 targets or less.
+        <li class="ft-apl" style="display:none;">Cast {{ site.data.spell.fae_transfusion }} on 4 targets or less.</li>
         <li>Cast {{ site.data.spell.cl }}.</li>
     </ol>
 </div>
