@@ -68,6 +68,7 @@ Covenant | <input type="radio" id="ft-radio" name="cov" value="1" /><label for="
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.talent.if }} on cooldown.</li>
         <li class="ch-apl" style="display: none;">Cast {{ site.data.spell.chain_harvest}}. </li>
+        <li class="sd-apl" style="display: none;">Cast {{ site.data.spell.sd}}</li>
         <li>Cast {{ site.data.spell.lb }} as a filler.</li>
         <li>Cast {{ site.data.spell.frs }} in place of {{ site.data.spell.lb }} while moving, even if you do not have {{ site.data.talent.if }}.</li>
     </ol>
@@ -125,7 +126,7 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
     </ol>
 </div>
 
-**Special mention** {{ site.data.spell.fs }} can be maintained at 4 targets with {{site.data.spell.pwave}} and during {{site.data.spell.fe}}. Because this is usually not the case, we opted to write 3 as the maximum number of spreads. Tread carefully, as this could otherwise backfire.
+**Special mention** {{ site.data.spell.fs }} can be maintained at 4 targets with {{site.data.spell.primordial_wave}} and during {{site.data.spell.fe}}. Because this is usually not the case, we opted to write 3 as the maximum number of spreads. Tread carefully, as this could otherwise backfire.
 
 **Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. *IF* you have two or more {{ site.data.azerite.igneous_potential }} equipped, it is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply flame shock to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier.
 

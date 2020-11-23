@@ -85,7 +85,7 @@ By pledging your allegiance to the Night Fae you will gain two new abilites:
 {{site.data.spell.fae_transfusion}} is a 4 second channeled ability that deals a set amount of damage either to a singular target or split between multiple targets in AoE.
 It is Nature damage and can thus be buffed with {{site.data.talent.master_of_the_elements}}. Because of the need to stand still while channeling it, it can sometimes be hard to get the full worth out of the ability, but you can use {{site.data.spell.swg}} to handle that more easily.
 
-{{site.data.spell.essential_extraction}} is a conduit that decreases the cooldown of {{{{site.data.spell.fae_transfusion}}}}
+{{site.data.spell.essential_extraction}} is a conduit that decreases the cooldown of {{site.data.spell.fae_transfusion}}}}
 
 <hr />
 
