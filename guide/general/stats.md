@@ -16,7 +16,8 @@ Below are our advised stat gearing strategies for talent combinations. We won’
 Purpose | Crit | Haste | Mastery | Vers
 --- | --- | --- | --- | ---
 Dungeon / Mythic+ / AoE | 0.6 | 0.2 | 0.1 | 0.1
-Raid / Single&nbsp;Target | 0.1 | 0.5 | 0.1 | 0.3
+Raid / Single Target (Windspeaker) | 0.1 | 0.5 | 0.1 | 0.3
+Raid / Cleave (non-WS)| 0.3 | 0.3 | 0.1 | 0.3
 Funneling | 0.1 | 0.5 | 0.1 | 0.3
 
 Expand the section below if you want more information on what these ratios are and/or how to use them:
