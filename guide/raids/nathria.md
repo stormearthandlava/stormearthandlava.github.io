@@ -74,7 +74,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Notes:**
 - The damage patterns for this fight are either small trickles or very lethal. As such, {{ site.data.talent.natures_guardian }} may not prove useful, and {{ site.data.talent.wind_rush_totem }} will offer better survivability for you and your raid.
-- Because {{ site.data.nathria.sonar_shriek }} is a Horrify and not a Fear, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
+- Because {{ site.data.nathria.earsplitting_shriek }} is a Horrify and not a Fear, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
         
 </div>
 </div>
