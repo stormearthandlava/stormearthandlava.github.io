@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Covenant
+title: Soulbind
 last_update: 2020-11-23 09:00:00
 game_version: 9.0.2 Shadowlands
 toc: false
