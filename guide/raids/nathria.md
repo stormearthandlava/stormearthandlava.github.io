@@ -140,7 +140,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake }} when 2+ targets are together (if not using {{ site.data.legendary.windspeaker }}). Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.ember_blast }}.
 
 **Defensives:**
