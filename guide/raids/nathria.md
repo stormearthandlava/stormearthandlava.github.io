@@ -396,7 +396,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by {{ site.data.nathria.wicked_blade }}, {{ site.data.nathria.seismic_upheaval }}, and {{ site.data.nathria.reverberating_eruption }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.primal_elementalist }} talented) as needed for {{ site.data.nathria.pulverizing_meteor }} and {{ site.data.nathria.heart_hemorrhage }}.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.primal_elementalist }} talented) as needed for {{ site.data.nathria.heart_hemorrhage }} and {{ site.data.nathria.pulverizing_meteor }}.
 - Because you may take constant damage from {{ site.data.nathria.wicked_laceration }} and {{ site.data.nathria.heart_rend }}, {{ site.data.talent.earth_shield}} is a good talent option for HPS.
 
 **Utilities:**
