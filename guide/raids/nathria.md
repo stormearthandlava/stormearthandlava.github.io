@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Castle Nathria Guide"
-last_update: 2020-11-17 00:00:00
+last_update: 2021-01-20 00:00:00
 game_version: 9.0.2 Shadowlands
 author: Altenna
 toc: false
