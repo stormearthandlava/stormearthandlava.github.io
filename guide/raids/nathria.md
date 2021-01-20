@@ -442,7 +442,7 @@ Intermission:
 
 Phase 2:
 - Maintain {{ site.data.spell.flame_shock }} on {{ site.data.nathria.sire_denathrius }}, {{ site.data.nathria.remornia }}, and any additional adds as you can.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together if not using {{ site.data.legendary.windspeaker }}). Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake }} when 2+ targets are together if not using ({{ site.data.legendary.windspeaker }}). Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Depending on timings, you may pool Maelstrom and hold CDs to optimize the {{ site.data.nathria.wracking_pain }} debuff on enemies.
 
 Phase 3:
