@@ -28,8 +28,6 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 - Recall that [Stampeding Roar](https://www.wowhead.com/spell=106898/stampeding-roar) is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
 
-- As kill times become faster on farm, {{ site.data.legendary.reminder }} may be a competitive legendary to use for some bosses.
-
 # Bosses
 <p style="color:red">Click on a boss banner to expand it.</p>
 
