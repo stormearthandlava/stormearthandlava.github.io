@@ -101,7 +101,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the active pet.
-- Use {{ site.data.spell.earthquake }} when the boss and active pet are stacked together (if not using {{ site.data.legendary.windspeaker }}.
+- Use {{ site.data.spell.earthquake }} when the boss and active pet are stacked together (if not using {{ site.data.legendary.windspeaker }}).
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for {{ site.data.nathria.sinseeker }}, {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.petrifying_howl }}.
 
 **Defensives:**
@@ -125,7 +125,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 <div id="salvation-collapse" class="collapse" aria-labelledby="salvation" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
-**Boss Fight Profile:** ST / AoE / Cleave
+**Boss Fight Profile:** Single-Target / AoE / Cleave
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
@@ -150,7 +150,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - If talented, {{ site.data.talent.spirit_wolf}} allows you to mitigate damage from {{ site.data.nathria.soul_pedestal }}.
 
 **Healing:**
-- If there is any downtime between add phases, support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }}.
+- If there is any downtime between add phases, support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }}. You can heal {{ site.data.nathria.essence_font }} as well.
 - If talented, you can use {{ site.data.talent.earth_shield}} on {{ site.data.nathria.kaelthas_sunstrider }} for additional healing.
 - On Mythic difficulty, support healing through {{ site.data.nathria.cloak_of_flames }} with {{ site.data.spell.healing_surge }} as needed.
 
@@ -271,7 +271,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the {{ site.data.nathria.harnessed_specter }} add.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake }} when 2+ targets are together (if not using {{ site.data.legendary.windspeaker }}). Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Pool Maelstrom for incoming add spawns. If {{ site.data.legendary.eogs }} is equipped, hold a proc for an incoming add spawn as well.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted with {{ site.data.nathria.shared_suffering }}.
 
@@ -393,7 +393,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together. Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
+- Use {{ site.data.spell.earthquake }} when 2+ targets are together (if not using {{ site.data.legendary.windspeaker }}). Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - If {{ site.data.legendary.eogs }} is equipped, prepare a proc for incoming waves of adds.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by {{ site.data.nathria.wicked_blade }}, {{ site.data.nathria.seismic_upheaval }}, and {{ site.data.nathria.reverberating_eruption }}.
 
@@ -459,10 +459,10 @@ Phase 2:
 - Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for {{ site.data.nathria.impale }} or increasing {{ site.data.nathria.crimson_chorus }} stacks.
 
 Phase 3:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for {{ site.data.nathria.fatal_finesse }}, {{ site.data.nathria.smoldering_ire }}, {{ site.data.nathria.hand_of_destruction }}, or {{ site.data.nathria.shattering_pain }}.
+- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for {{ site.data.nathria.shattering_pain }}, {{ site.data.nathria.fatal_finesse }}, {{ site.data.nathria.smoldering_ire }}, or {{ site.data.nathria.hand_of_destruction }}.
 
 <hr />
-- This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf}} can be beneficial in each phase. {{ site.data.nathria.burden_of_sin }}, {{ site.data.nathria.carnage }}, {{ site.data.nathria.crimson_chorus }}, and {{ site.data.nathria.fatal_finesse }} are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield }}.
+- This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf }} can be beneficial in each phase. {{ site.data.nathria.burden_of_sin }}, {{ site.data.nathria.carnage }}, {{ site.data.nathria.crimson_chorus }}, and {{ site.data.nathria.fatal_finesse }} are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield }}.
 
 **Utilities:**
 
