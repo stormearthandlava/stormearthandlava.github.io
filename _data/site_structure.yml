@@ -26,12 +26,12 @@ categories:
       url: /guide/general/consumables.html
     - title: F.A.Q.
       url: /guide/general/faq.html
+- title: Mythic+
+  url: /guide/mythic_plus/mythic_plus.html
 - title: Raids
   subcategories:
     - title: Castle Nathria
       url: /guide/raids/nathria.html
-- title: Mythic+
-  url: /guide/mythic_plus/mythic_plus.html
 
 
 #- title: Mythic+

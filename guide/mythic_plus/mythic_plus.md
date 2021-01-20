@@ -253,7 +253,16 @@ When Millificent is active:
 * Use {{ site.data.spell.astral_shift }} for Ritual of Woe as needed.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Telekinetic Toss, Telekinetic Onslaught, and Telekinetic Repulsion.
 
----
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="mots">
+<div data-toggle="collapse" data-target="#mots-collapse" aria-expanded="true" aria-controls="mots-collapse" class="mplus-header mplus"><h2>Mists Of Tirna Scithe</h2></div>
+</div>
+<div id="mots-collapse" class="collapse" aria-labelledby="mots" data-parent="#accordion">
+<div class="card-body" markdown="1">
 
 # Mists of Tirna Scithe
 
@@ -837,8 +846,7 @@ When Advent Nevermore is active:
 </div>
 
 
-
----
+<div class="card-body" markdown="1"> 
 
 # Useful WeakAuras
 
@@ -854,3 +862,4 @@ When Advent Nevermore is active:
 * [Mythic+ Subcreation](https://mplus.subcreation.net/elemental-shaman.html)
 * [Mythic Trap](https://mythictrap.com/home)
 * [Tanknotes](https://tanknotes.com/)
+</div>
