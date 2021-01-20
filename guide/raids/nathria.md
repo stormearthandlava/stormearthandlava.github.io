@@ -320,7 +320,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - {{ site.data.talent.spirit_wolf}} can help you move quickly or mitigate damage from {{ site.data.nathria.scarlet_letter }}, {{ site.data.nathria.unstoppable_charge }}, {{ site.data.nathria.castellans_cadre }}, and {{ site.data.nathria.dancing_fools }}. {{ site.data.talent.earth_shield}} can offer you HPS against the constant damage from {{ site.data.nathria.oppressive_atmosphere }} alone.
 
 **Utilities:**
-- Interrupt {{ site.data.nathria.bolt_of_power }} from {{ site.data.nathria.baroness_frieda }} as assigned.
+- Interrupt {{ site.data.nathria.dreadbolt_volley }} from {{ site.data.nathria.baroness_frieda }} as assigned.
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position for {{ site.data.nathria.danse_macabre }}, {{ site.data.nathria.anima_fountain }}, {{ site.data.nathria.waltz_of_blood }}.
 
 </div>
