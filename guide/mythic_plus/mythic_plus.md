@@ -521,9 +521,6 @@ When Millificent is active:
 * {{ site.data.mythic_plus.infectious_rain }} will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }}.
 * Use {{ site.data.spell.frost_shock }}, {{ site.data.spell.earthbind_totem }}, {{ site.data.spell.capacitor_totem }}, and {{ site.data.spell.thunderstorm }} as needed to kite the Plaguebound Devoted adds.
 
----
-
-
 </div>
 </div>
 </div>
@@ -821,7 +818,6 @@ When Advent Nevermore is active:
 * Consider holding Stormkeeper for Deathwalkers if necessary. Use {{ site.data.spell.capacitor_totem }} as needed when they are grouped up.
 * {{ site.data.mythic_plus.grasping_rift }} and {{ site.data.mythic_plus.manifest_death }} often overlap. Use {{ site.data.spell.spiritwalkers_grace }} for this combo as needed.
 * When the boss is at 50% health, she will begin casting {{ site.data.mythic_plus.echos_of_carnage }}. This ability will passively be your highest source of damage taken (even when dodging the ghost animations), so use {{ site.data.spell.astral_shift }} at this point as needed.
-
 
 </div>
 </div>
