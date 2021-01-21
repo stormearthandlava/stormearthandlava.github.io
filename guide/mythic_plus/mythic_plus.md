@@ -311,7 +311,7 @@ When Millificent is active:
 
 **Spinemaw Staghorn**
 
-* Rotate interrupts for {{ site.data.mythic_plus.stimulate_resistance }} and {{ site.data.mythic_plus.stimulate_regeneration }}. If either of these casts go off, they can be {{ site.data.spell.purge }}d.
+* Rotate interrupts for {{ site.data.mythic_plus.stimulate_resistance }} and {{ site.data.mythic_plus.stimulate_regeneration }}. If a {{ site.data.mythic_plus.stimulate_resistance }} cast goes off, {{ site.data.spell.purge }} it.
 
 ## Tred'ova
 
