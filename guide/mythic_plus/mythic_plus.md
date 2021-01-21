@@ -255,12 +255,10 @@ When Millificent is active:
 
 <div class="card">
 <div class="card-header" id="mots">
-<div data-toggle="collapse" data-target="#mots-collapse" aria-expanded="true" aria-controls="mots-collapse" class="dungeon-header mots"><h2>Mists Of Tirna Scithe</h2></div>
+<div data-toggle="collapse" data-target="#mots-collapse" aria-expanded="true" aria-controls="mots-collapse" class="dungeon-header mots"><h2>Mists of Tirna Scithe</h2></div>
 </div>
 <div id="mots-collapse" class="collapse" aria-labelledby="mots" data-parent="#accordion">
 <div class="card-body" markdown="1">
-
-# Mists of Tirna Scithe
 
 **Drust Spiteclaw**
 
@@ -278,8 +276,8 @@ When Millificent is active:
 ## Ingra Maloch
 
 * Maintain {{ site.data.spell.flame_shock }} on both Ingra Maloch and Droman Oulfarran.
-* Hold your cooldowns for when Ingra is vulnerable with Droman's Wrath.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.tear }}s of the Forest.
+* Hold your cooldowns for when Ingra is vulnerable with {{ site.data.mythic_plus.dromans_wrath }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.tears_of_the_forest }}
 * Use {{ site.data.spell.astral_shift }} for {{ site.data.mythic_plus.death_shroud }} as needed.
 * Stay alert for Ingra's {{ site.data.mythic_plus.repulsive_visage }}. This is a 3 second cast that will Fear all players around him and cannot be interrupted, so pre-cast {{ site.data.spell.tremor_totem }}.
 
@@ -295,20 +293,20 @@ When Millificent is active:
 
 **Mistveil Tender**
 
-* Interrupt Nourish the Forest. If this cast goes off, {{ site.data.spell.purge }} it.
+* Interrupt {{ site.data.mythic_plus.nourish_the_forest }}. If this cast goes off, {{ site.data.spell.purge }} it.
 
 ## Mistcaller
 
-* During Guessing Game, maintain {{ site.data.spell.flame_shock }} on the correct Illusionary Clone but also any other Illusions you can. Mistcaller takes 100% reduced damage during this phase.
-* {{ site.data.mythic_plus.penalizing_burst }} during Guessing Game will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed during this phase.
-* {{ site.data.spell.hex }} the Illusionary Vulpin. If cleave damage is breaking the CC, you can also use {{ site.data.spell.earthbind_totem }} or {{ site.data.spell.capacitor_totem }}, or as needed to kite.
+* During {{ site.data.mythic_plus.guessing_game }}, maintain {{ site.data.spell.flame_shock }} on the correct Illusionary Clone but also any other Illusions you can. Mistcaller takes 100% reduced damage during this phase.
+* {{ site.data.mythic_plus.penalizing_burst }} during {{ site.data.mythic_plus.guessing_game }} will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed during this phase.
+* {{ site.data.spell.hex }} the Illusionary Vulpin. If cleave damage is breaking the CC, you can also use {{ site.data.spell.earthbind_totem }} or {{ site.data.spell.capacitor_totem }} as needed to kite.
 * Use {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.dodge_ball }} as needed.
 
 ---
 
 **Spinemaw Staghorn**
 
-* Rotate interrupts for {{ site.data.mythic_plus.stimulate_resistance }} and {{ site.data.mythic_plus.stimulate_regeneration }}. If either of these casts go off, they can be purged.
+* Rotate interrupts for {{ site.data.mythic_plus.stimulate_resistance }} and {{ site.data.mythic_plus.stimulate_regeneration }}. If either of these casts go off, they can be {{ site.data.spell.purge }}d.
 
 ## Tred'ova
 
@@ -317,23 +315,20 @@ When Millificent is active:
 * Use {{ site.data.spell.earthbind_totem }}, {{ site.data.spell.capacitor_totem }}, and potentially {{ site.data.spell.hex }} as needed to control the Gormling Larvae.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.acid_expulsion }}, {{ site.data.mythic_plus.consumption }}, {{ site.data.mythic_plus.mind_link }}, or for kiting away from Gormling Larvae.
 
----
-
-
 </div>
 </div>
 </div>
 
 <div class="card">
 <div class="card-header" id="nw">
-<div data-toggle="collapse" data-target="#nw-collapse" aria-expanded="true" aria-controls="nw-collapse" class="dungeon-header nw"><h2>Necrotic Wake</h2></div>
+<div data-toggle="collapse" data-target="#nw-collapse" aria-expanded="true" aria-controls="nw-collapse" class="dungeon-header nw"><h2>The Necrotic Wake</h2></div>
 </div>
 <div id="nw-collapse" class="collapse" aria-labelledby="nw" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
 **Patchwerk Soldier**
 
-* These mobs will leap at ranged players. Position yourself close so tank and melee players don't have to chase far.
+* These mobs will {{ site.data.mythic_plus.leap }} at ranged players. Position yourself close so tank and melee players don't have to chase far.
 
 **Corpse Harvester**
 
@@ -349,7 +344,7 @@ When Millificent is active:
 
 **Zolramus Gatekeeper**
 
-* Wrath of Zolramus is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
+* {{ site.data.mythic_plus.wrath_of_zolramus }} is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
 * Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
 
 ## Blightbone
@@ -359,7 +354,7 @@ When Millificent is active:
 
 ---
 
-**Zolramus {{ site.data.mythic_plus.bonemend }}er**
+**Zolramus Bonemender**
 
 * Rotate interrupts between {{ site.data.mythic_plus.bonemend }} and {{ site.data.mythic_plus.necrotic_bolt }}.
 * {{ site.data.mythic_plus.final_bargain }} is a massive heal that cannot be interrupted. You can hard cancel this ability with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
@@ -370,7 +365,7 @@ When Millificent is active:
 
 **Zolramus Necromancer, Brittlebone Mage**
 
-* Prioritze interrupting Brittlebone Mage's {{ site.data.mythic_plus.frostbolt }} Volley; interrupt the Necromancer's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
+* Prioritze interrupting Brittlebone Mage's {{ site.data.mythic_plus.frostbolt_volley }}; interrupt the Necromancer's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
 * Focus down Zolramus Necromancer by casting {{ site.data.spell.flame_shock }} on the Brittlebone mobs around it to funnel more priority damage.
 
 **Skeletal Marauder**
@@ -387,10 +382,10 @@ When Millificent is active:
 
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.reaping_winds }}. Stay ranged to avoid {{ site.data.mythic_plus.chill_scythe }}.
 
-## Amarth,  The Harvester
+## Amarth, The Harvester
 
 * Stay near the boss in anticipation for {{ site.data.mythic_plus.necrotic_breath }} to quickly avoid it.
-* Prioritize interrupting the Reanimated Mage's {{ site.data.mythic_plus.frostbolt }} Volley; interrupt Amarth's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
+* Prioritize interrupting the Reanimated Mage's {{ site.data.mythic_plus.frostbolt_volley }}; interrupt Amarth's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
 * Use {{ site.data.spell.thunderstorm }} and {{ site.data.spell.capacitor_totem }} as needed to control the Reanimated adds.
 * {{ site.data.mythic_plus.tortured_echoes }} will be the highest source of damage taken, starting after the first {{ site.data.mythic_plus.final_harvest }}. Use {{ site.data.spell.astral_shift }} as needed.
 
@@ -421,10 +416,7 @@ When Millificent is active:
 ## Nalthor the Rimebinder
 
 * Use {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.comet_storm }}.
-* Icebound Aegis will be the highest source of damage taken when this is active on the boss. Use {{ site.data.spell.astral_shift }} as needed.
-
----
-
+* {{ site.data.mythic_plus.icebound_aegis }} will be the highest source of damage taken when this is active on the boss. Use {{ site.data.spell.astral_shift }} as needed.
 
 </div>
 </div>
@@ -499,9 +491,9 @@ When Millificent is active:
 
 **Defender of Many Eyes**
 
-* Use {{ site.data.spell.capacitor_totem }} to hard cancel Bulwark of Maldraxxus.
+* Use {{ site.data.spell.capacitor_totem }} to hard cancel {{ site.data.mythic_plus.bulwark_of_maldraxxus }}.
 
-**Brood {{ site.data.mythic_plus.ambush }}er**
+**Brood Ambusher**
 
 * Interrupt {{ site.data.mythic_plus.enveloping_webbing }}.
 * {{ site.data.spell.hex }} and {{ site.data.spell.capacitor_totem }} can be used to hard cancel {{ site.data.mythic_plus.stealthlings }}.
@@ -509,13 +501,13 @@ When Millificent is active:
 **Venomous Sniper**
 
 * Interrupt {{ site.data.mythic_plus.call_venomfang }}.
-* If a Death Knight is in your party, they can use Control Undead on these mobs for {{ site.data.mythic_plus.venompiercer }}. This will buff your Nature damage abilities ({{ site.data.spell.lb }}, {{ site.data.spell.cl }}, {{ site.data.spell.es }}).
+* If a Death Knight is in your party, they can use [Control Undead](https://shadowlands.wowhead.com/spell=111673/control-undead) on these mobs for {{ site.data.mythic_plus.venompiercer }}. This will buff your Nature damage abilities ({{ site.data.spell.lb }}, {{ site.data.spell.cl }}, {{ site.data.spell.es }}).
 
 ## Domina Venomblade
 
 * Use {{ site.data.spell.spiritwalkers_grace }} to avoid {{ site.data.mythic_plus.solitary_prey }} when moving with your group and revealing Brood Assassins.
 * {{ site.data.spell.capacitor_totem }} can be used to reveal Brood Assassins, but you may consider using {{ site.data.spell.capacitor_totem }} for when they're grouped up instead.
-* Use {{ site.data.spell.astral_shift }} as needed for Shadow {{ site.data.mythic_plus.ambush }}.
+* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.shadow_ambush }}.
 
 ---
 
@@ -550,8 +542,8 @@ When Millificent is active:
 
 ## Kryxis
 
-* Pay attention to Kryxis' {{ site.data.mythic_plus.severing_smash }} cast, and be as far away as possible to stagger the damage taken from Essence Absorption. If necessary, you can also out-range {{ site.data.mythic_plus.severing_smash }} at 100 yards to prevent dropping a {{ site.data.mythic_plus.living_essence }} orb at all.
-* Essence Absorption and {{ site.data.mythic_plus.juggernaut_rush }} will be the highest sources of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
+* Pay attention to Kryxis' {{ site.data.mythic_plus.severing_smash }} cast, and be as far away as possible to stagger the damage taken from {{ site.data.mythic_plus.essence_absorption }}. If necessary, you can also out-range {{ site.data.mythic_plus.severing_smash }} at 100 yards to prevent dropping a {{ site.data.mythic_plus.living_essence }} orb at all.
+* {{ site.data.mythic_plus.essence_absorption }} and {{ site.data.mythic_plus.juggernaut_rush }} will be the highest sources of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to position for {{ site.data.mythic_plus.severing_smash }} or {{ site.data.mythic_plus.juggernaut_rush }}.
 * Interrupt {{ site.data.mythic_plus.hungering_drain }}.
 
@@ -559,7 +551,7 @@ When Millificent is active:
 
 **Wicked Oppressor**
 
-* Rotate interrupts between Curse of Suppression and {{ site.data.mythic_plus.wrack_soul }}. If a Curse of Suppression cast goes off on a party member, dispel with {{ site.data.spell.cleanse_spirit }}.
+* Rotate interrupts between {{ site.data.mythic_plus.curse_of_suppression }} and {{ site.data.mythic_plus.wrack_soul }}. If a {{ site.data.mythic_plus.curse_of_suppression }} cast goes off on a party member, dispel with {{ site.data.spell.cleanse_spirit }}.
 
 **Dark Acolyte**
 
@@ -572,7 +564,7 @@ When Millificent is active:
 
 **Chamber Sentinel**
 
-* Interrupt Stoneksin. If this cast goes off, {{ site.data.spell.purge }} it.
+* Interrupt {{ site.data.mythic_plus.stoneskin }}. If this cast goes off, {{ site.data.spell.purge }} it.
 
 **Depths Warden**
 
@@ -588,7 +580,7 @@ When Millificent is active:
 
 ## Executor Tarvold
 
-* Fleeting Manifestation's {{ site.data.mythic_plus.growing_pride }} will be the highest source of damage taken during this encounter, but they will not pulse this ability when CC'd. Focus these down quickly, and use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.astral_shift }} as needed.
+* Fleeting Manifestation's {{ site.data.mythic_plus.growing_pride }} will be the highest source of damage taken during this encounter. Focus these down quickly, and use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.astral_shift }} as needed.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.castigate }}, {{ site.data.mythic_plus.sintouched_anima }}, or {{ site.data.mythic_plus.residue }}. {{ site.data.spell.astral_shift }} may be used for {{ site.data.mythic_plus.castigate }} as well.
 * If any party members are hit by {{ site.data.mythic_plus.sintouched_anima }}, dispel with {{ site.data.spell.cleanse_spirit }}.
 
@@ -596,7 +588,7 @@ When Millificent is active:
 
 ## Grand Proctor Beryllia
 
-* Rite of Supremacy and {{ site.data.mythic_plus.agonize }} will be the highest sources of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
+* {{ site.data.mythic_plus.rite_of_supremacy }} and {{ site.data.mythic_plus.agonize }} will be the highest sources of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.endless_torment }}.
 
 ---
@@ -606,16 +598,13 @@ When Millificent is active:
 * If targeted by {{ site.data.mythic_plus.wicked_rush }}, you can avoid this entirely if you move quickly enough as the boss is dashing towards you. Otherwise, use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.wicked_gash }}.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed when positioning for {{ site.data.mythic_plus.wicked_rush }} or to avoid {{ site.data.mythic_plus.piercing_blur }}.
 
----
-
-
 </div>
 </div>
 </div>
 
 <div class="card">
 <div class="card-header" id="soa">
-<div data-toggle="collapse" data-target="#soa-collapse" aria-expanded="true" aria-controls="soa-collapse" class="dungeon-header soa"><h2>Spires Of Ascension</h2></div>
+<div data-toggle="collapse" data-target="#soa-collapse" aria-expanded="true" aria-controls="soa-collapse" class="dungeon-header soa"><h2>Spires of Ascension</h2></div>
 </div>
 <div id="soa-collapse" class="collapse" aria-labelledby="soa" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
@@ -660,7 +649,7 @@ When Millificent is active:
 ## Ventunax
 
 * {{ site.data.mythic_plus.dark_stride }} will be the highest source of damage taken, assuming you are avoiding {{ site.data.mythic_plus.dark_bolt }}. Use {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} to avoid {{ site.data.mythic_plus.dark_bolt }} from {{ site.data.mythic_plus.shadowhirl }}. {{ site.data.mythic_plus.shadowhirl }} will always fire out {{ site.data.mythic_plus.dark_bolt }}s counterclockwise until Ventunax casts {{ site.data.mythic_plus.recharge }}, which will trigger all {{ site.data.mythic_plus.shadowhirl }}s to fire 9 {{ site.data.mythic_plus.dark_bolt }}s at the same time.
+* Use {{ site.data.spell.spiritwalkers_grace }} to avoid {{ site.data.mythic_plus.dark_bolt }} from {{ site.data.mythic_plus.shadowhirl }}. {{ site.data.mythic_plus.shadowhirl }} will always fire out {{ site.data.mythic_plus.dark_bolt }} counterclockwise until Ventunax casts {{ site.data.mythic_plus.recharge }}, which will trigger all {{ site.data.mythic_plus.shadowhirl }}s to fire 9 {{ site.data.mythic_plus.dark_bolt }} at the same time.
 
 ---
 
@@ -676,19 +665,16 @@ When Millificent is active:
 ## Oryphrion
 
 * Consider holding cooldowns for when the boss is {{ site.data.mythic_plus.drained }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} to position and avoid the {{ site.data.mythic_plus.anima_field }}s from {{ site.data.mythic_plus.empyreal_ordnance }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} to position and avoid the {{ site.data.mythic_plus.anima_field }} from {{ site.data.mythic_plus.empyreal_ordnance }}.
 * Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.purifying_blast }} or Anima Surge. However, {{ site.data.mythic_plus.purifying_blast }} will be the higher source of damage taken.
 
 ---
 
 ## Devos, Paragon of Doubt
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position the pool of {{ site.data.mythic_plus.lingering_doubt }} from {{ site.data.mythic_plus.lost_confidence }} or to stand in Archon's Bastion.
-* {{ site.data.mythic_plus.lingering_doubt }} will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }} as needed during Phase 2 when transporting Anima Orbs.
-* If using {{ site.data.legendary.eogs }}, be mindful of {{ site.data.mythic_plus.run_through }} to when placing {{ site.data.spell.eq }} }}s.
-
----
-
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position the pool of {{ site.data.mythic_plus.lingering_doubt }} from {{ site.data.mythic_plus.lost_confidence }} or to stand in {{ site.data.mythic_plus.archons_bastion }}.
+* {{ site.data.mythic_plus.lingering_doubt }} will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }} as needed during Phase 2 when transporting {{ site.data.mythic_plus.raw_anima }}.
+* If using {{ site.data.legendary.eogs }}, be mindful of {{ site.data.mythic_plus.run_through }} to when placing {{ site.data.spell.eq }} }}.
 
 </div>
 </div>
@@ -696,7 +682,7 @@ When Millificent is active:
 
 <div class="card">
 <div class="card-header" id="top">
-<div data-toggle="collapse" data-target="#top-collapse" aria-expanded="true" aria-controls="top-collapse" class="dungeon-header top"><h2>Theatre Of Pain</h2></div>
+<div data-toggle="collapse" data-target="#top-collapse" aria-expanded="true" aria-controls="top-collapse" class="dungeon-header top"><h2>Theater of Pain</h2></div>
 </div>
 <div id="top-collapse" class="collapse" aria-labelledby="top" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
