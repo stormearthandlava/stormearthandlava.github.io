@@ -53,6 +53,7 @@ stinging_assault: <a href="http://shadowlands.wowhead.com/spell=326090" target="
 debilitating_poison: <a href="http://shadowlands.wowhead.com/spell=326092" target="blank">Debilitating Poison</a>
 ## De Other Side
 
+spectral: <a href="https://www.wowhead.com/spell=344739" target="blank">Spectral</a>
 haunted_urn: <a href="http://shadowlands.wowhead.com/spell=228626" target="blank">Haunted Urn</a>
 undying_rage: <a href="http://shadowlands.wowhead.com/spell=333227" target="blank">Undying Rage</a>
 erupting_darkness: <a href="http://shadowlands.wowhead.com/spell=334051" target="blank">Erupting Darkness</a>
@@ -72,8 +73,12 @@ haywire: <a href="http://shadowlands.wowhead.com/spell=331927" target="blank">Ha
 w_00f: <a href="http://shadowlands.wowhead.com/spell=331846" target="blank">W-00F</a>
 spinning_up: <a href="http://shadowlands.wowhead.com/spell=332156" target="blank">Spinning Up</a>
 power_overwhelming: <a href="http://shadowlands.wowhead.com/spell=320786" target="blank">Power Overwhelming</a>
-echo_finger_laser_x_treme: <a href="http://shadowlands.wowhead.com/spell=324047" target="blank">Echo Finger Laser X Treme</a>
+frostbolt: <a href="https://www.wowhead.com/spell=320008" target="blank">Frostbolt</a>
+aerial_rocket_chicken_barrage: <a href="https://www.wowhead.com/spell=321061" target="blank">Aerial Rocket Chicken Barrage</a>
+echo_finger_laser_x_treme: <a href="http://shadowlands.wowhead.com/spell=324047" target="blank">Echo Finger Laser X-Treme</a>
+experimental_squirrel_bomb: <a href="https://www.wowhead.com/spell=320811" target="blank">Experimental Squirrel Bomb</a>
 shadowfury: <a href="http://shadowlands.wowhead.com/spell=320132" target="blank">Shadowfury</a>
+diabolical_dooooooom: <a href="https://www.wowhead.com/spell=320142" target="blank">Diabolical Dooooooom!</a>
 soporific_shimmerdust: <a href="http://shadowlands.wowhead.com/spell=334493" target="blank">Soporific Shimmerdust</a>
 wailing_grief: <a href="http://shadowlands.wowhead.com/spell=340026" target="blank">Wailing Grief</a>
 displacement_trap: <a href="http://shadowlands.wowhead.com/spell=319619" target="blank">Displacement Trap</a>
@@ -82,8 +87,10 @@ explosive_contrivance: <a href="http://shadowlands.wowhead.com/spell=320232" tar
 master_of_death: <a href="http://shadowlands.wowhead.com/spell=325258" target="blank">Master Of Death</a>
 cosmic_artifice: <a href="http://shadowlands.wowhead.com/spell=325725" target="blank">Cosmic Artifice</a>
 shatter_reality: <a href="http://shadowlands.wowhead.com/spell=326171" target="blank">Shatter Reality</a>
+arcane_lightning: <a href="https://www.wowhead.com/spell=323687" target="blank">Arcane Lightning</a>
 bwonsamdis_fury: <a href="http://shadowlands.wowhead.com/spell=327891" target="blank">Bwonsamdis Fury</a>
 bwonsamdis_fervor: <a href="http://shadowlands.wowhead.com/spell=327893" target="blank">Bwonsamdis Fervor</a>
+master_of_death: <a href="https://www.wowhead.com/spell=325258" target="blank">Master Of Death</a>
 dark_lotus: <a href="http://shadowlands.wowhead.com/spell=328740" target="blank">Dark Lotus</a>
 scribe: <a href="http://shadowlands.wowhead.com/spell=328707" target="blank">Scribe</a>
 bonestrike: <a href="http://shadowlands.wowhead.com/spell=333728" target="blank">Bonestrike</a>
@@ -91,7 +98,7 @@ trollguard: <a href="http://shadowlands.wowhead.com/spell=333729" target="blank"
 reaver: <a href="http://shadowlands.wowhead.com/spell=333641" target="blank">Reaver</a>
 decrepit_bite: <a href="http://shadowlands.wowhead.com/spell=333711" target="blank">Decrepit Bite</a>
 shadowcore: <a href="http://shadowlands.wowhead.com/spell=334076" target="blank">Shadowcore</a>
-deaths_embrace: <a href="http://shadowlands.wowhead.com/spell=333875" target="blank">Deaths Embrace</a>
+deaths_embrace: <a href="http://shadowlands.wowhead.com/spell=333875" target="blank">Death's Embrace</a>
 zealous: <a href="http://shadowlands.wowhead.com/spell=328987" target="blank">Zealous</a>
 smite: <a href="http://shadowlands.wowhead.com/spell=332705" target="blank">Smite</a>
 shadow_word_pain: <a href="http://shadowlands.wowhead.com/spell=332707" target="blank">Shadow Word Pain</a>
@@ -103,7 +110,7 @@ discharge: <a href="http://shadowlands.wowhead.com/spell=332196" target="blank">
 additional_threads: <a href="http://shadowlands.wowhead.com/spell=332158" target="blank">Additional Threads</a>
 volatile_capacitor: <a href="http://shadowlands.wowhead.com/spell=331398" target="blank">Volatile Capacitor</a>
 lubricate: <a href="http://shadowlands.wowhead.com/spell=331379" target="blank">Lubricate</a>
-self_cleaning_cycle: <a href="http://shadowlands.wowhead.com/spell=332084" target="blank">Self Cleaning Cycle</a>
+self_cleaning_cycle: <a href="http://shadowlands.wowhead.com/spell=332084" target="blank">Self-Cleaning Cycle</a>
 oil_spatter: <a href="http://shadowlands.wowhead.com/spell=331422" target="blank">Oil Spatter</a>
 essential_oil: <a href="http://shadowlands.wowhead.com/spell=332234" target="blank">Essential Oil</a>
 anima_starstorm: <a href="http://shadowlands.wowhead.com/spell=323576" target="blank">Anima Starstorm</a>
@@ -484,3 +491,22 @@ grave_spike: <a href="http://shadowlands.wowhead.com/spell=341771" target="blank
 bone_spear: <a href="http://shadowlands.wowhead.com/spell=342675" target="blank">Bone Spear</a>
 bone_spikes: <a href="http://shadowlands.wowhead.com/spell=331237" target="blank">Bone Spikes</a>
 bonestorm: <a href="http://shadowlands.wowhead.com/spell=331223" target="blank">Bonestorm</a>
+
+
+metamorphosis: <a href="https://shadowlands.wowhead.com/spell=320103/metamorphosis" target="blank">Metamorphosis</a>
+burning_strain: <a href="https://shadowlands.wowhead.com/spell=322358/burning-strain" target="blank">Burning Strain</a>
+
+engorge: <a href="https://shadowlands.wowhead.com/spell=334653/engorge" target="blank">Engorge</a>
+growing_pride: <a href="https://shadowlands.wowhead.com/spell=323548/growing-pride" target="blank">Growing Pride</a>
+
+searing_death: <a href="https://shadowlands.wowhead.com/spell=333231/searing-death" target="blank">Searing Death</a>
+necromantic_bolt: <a href="https://shadowlands.wowhead.com/spell=320300/necromantic-bolt" target="blank">Necromantic Bolt</a>
+plague_bolt: <a href="https://shadowlands.wowhead.com/spell=320120/plague-bolt" target="blank">Plague Bolt</a>
+spectral_transference: <a href="https://shadowlands.wowhead.com/spell=320272/spectral-transference" target="blank">Spectral Transference</a>
+opportunity_strikes: <a href="https://shadowlands.wowhead.com/spell=333540/opportunity-strikes" target="blank">Opportunity Strikes</a>
+interrupting_roar: <a href="https://shadowlands.wowhead.com/spell=342135/interrupting-roar" target="blank">Interrupting Roar</a>
+ground_smash: <a href="https://shadowlands.wowhead.com/spell=332708/ground-smash" target="blank">Ground Smash</a>
+seismic_leap: <a href="https://shadowlands.wowhead.com/spell=320789/seismic-leap" target="blank">Seismic Leap</a>
+blood_and_glory: <a href="https://shadowlands.wowhead.com/spell=320114/blood-and-glory" target="blank">Blood and Glory</a>
+might_of_maldraxxus: <a href="https://shadowlands.wowhead.com/spell=320050/might-of-maldraxxus" target="blank">Might of Maldraxxus</a>
+echos_of_carnage: <a href="https://shadowlands.wowhead.com/spell=339573/echos-of-carnage" target="blank">Echos of Carnage</a>
