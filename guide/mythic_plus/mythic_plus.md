@@ -325,109 +325,6 @@ When Millificent is active:
 </div>
 
 <div class="card">
-<div class="card-header" id="nw">
-<div data-toggle="collapse" data-target="#nw-collapse" aria-expanded="true" aria-controls="nw-collapse" class="dungeon-header nw"><h2>The Necrotic Wake</h2></div>
-</div>
-<div id="nw-collapse" class="collapse" aria-labelledby="nw" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
-
-**Patchwerk Soldier**
-
-* These mobs will {{ site.data.mythic_plus.leap }} at ranged players. Position yourself close so tank and melee players don't have to chase far.
-
-**Corpse Harvester**
-
-* Interrupt {{ site.data.mythic_plus.drain_fluids }}.
-
-**Stitched Vanguard**
-
-* Interrupt {{ site.data.mythic_plus.meat_shield }}.
-
-**Blight Bag**
-
-* These mobs will {{ site.data.mythic_plus.leap }} at ranged players. Position yourself close so tank and melee players don't have to chase far.
-
-**Zolramus Gatekeeper**
-
-* {{ site.data.mythic_plus.wrath_of_zolramus }} is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
-* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
-
-## Blightbone
-
-* Use {{ site.data.spell.astral_shift }} as needed if targeted by {{ site.data.mythic_plus.heaving_retch }}. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid or re-position after {{ site.data.mythic_plus.heaving_retch }}.
-* Use {{ site.data.spell.earthbind_totem }}, {{ site.data.spell.capacitor_totem }}, and {{ site.data.spell.thunderstorm }} as needed to control the Carrion Worm adds.
-
----
-
-**Zolramus Bonemender**
-
-* Rotate interrupts between {{ site.data.mythic_plus.bonemend }} and {{ site.data.mythic_plus.necrotic_bolt }}.
-* {{ site.data.mythic_plus.final_bargain }} is a massive heal that cannot be interrupted. You can hard cancel this ability with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
-
-**Zolramus Sorcerer**
-
-* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
-
-**Zolramus Necromancer, Brittlebone Mage**
-
-* Prioritze interrupting Brittlebone Mage's {{ site.data.mythic_plus.frostbolt_volley }}; interrupt the Necromancer's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
-* Focus down Zolramus Necromancer by casting {{ site.data.spell.flame_shock }} on the Brittlebone mobs around it to funnel more priority damage.
-
-**Skeletal Marauder**
-
-* Interrupting {{ site.data.mythic_plus.rasping_scream }} and stay ranged to avoid it. If a cast goes off, cast {{ site.data.spell.tremor_totem }} to dispel any Feared party members.
-
-**Nar'zudah**
-
-* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
-* {{ site.data.spell.purge }} {{ site.data.mythic_plus.dark_shroud }}.
-* Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.grim_fate }} as needed.
-
-**Skeletal Monstrosity**
-
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.reaping_winds }}. Stay ranged to avoid {{ site.data.mythic_plus.chill_scythe }}.
-
-## Amarth, The Harvester
-
-* Stay near the boss in anticipation for {{ site.data.mythic_plus.necrotic_breath }} to quickly avoid it.
-* Prioritize interrupting the Reanimated Mage's {{ site.data.mythic_plus.frostbolt_volley }}; interrupt Amarth's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
-* Use {{ site.data.spell.thunderstorm }} and {{ site.data.spell.capacitor_totem }} as needed to control the Reanimated adds.
-* {{ site.data.mythic_plus.tortured_echoes }} will be the highest source of damage taken, starting after the first {{ site.data.mythic_plus.final_harvest }}. Use {{ site.data.spell.astral_shift }} as needed.
-
----
-
-**Corpse Collector**
-
-* Rotate interrupts between {{ site.data.mythic_plus.goresplatter }} and {{ site.data.mythic_plus.drain_fluids }}.
-
-**Flesh Crafter**
-
-* Interrupt {{ site.data.mythic_plus.repair_flesh }}.
-* Be sure {{ site.data.mythic_plus.throw_cleaver }} hits an enemy mob. Use {{ site.data.spell.astral_shift }} as needed otherwise.
-
-**Stitching Assistant, Separation Assistant**
-
-* Interrupt Stitching Assistant's {{ site.data.mythic_plus.drain_fluids }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to ensure {{ site.data.mythic_plus.throw_cleaver }} is targeted at the other mob or to kite away from Separation Assitant's {{ site.data.mythic_plus.morbid_fixation }}. 
-
-## Surgeon Stitchflesh
-
-* Hold cooldowns for when Surgeon Stitchflesh is active.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to target {{ site.data.mythic_plus.meat_hook }}s at the boss or to kite away from the boss's {{ site.data.mythic_plus.morbid_fixation }}.
-* Use {{ site.data.spell.astral_shift }} as needed for Stitchneedle.
-
----
-
-## Nalthor the Rimebinder
-
-* Use {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.comet_storm }}.
-* {{ site.data.mythic_plus.icebound_aegis }} will be the highest source of damage taken when this is active on the boss. Use {{ site.data.spell.astral_shift }} as needed.
-
-</div>
-</div>
-</div>
-
-<div class="card">
 <div class="card-header" id="pf">
 <div data-toggle="collapse" data-target="#pf-collapse" aria-expanded="true" aria-controls="pf-collapse" class="dungeon-header pf"><h2>Plaguefall</h2></div>
 </div>
@@ -677,6 +574,109 @@ When Millificent is active:
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to position the pool of {{ site.data.mythic_plus.lingering_doubt }} from {{ site.data.mythic_plus.lost_confidence }} or to stand in {{ site.data.mythic_plus.archons_bastion }}.
 * {{ site.data.mythic_plus.lingering_doubt }} will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }} as needed during Phase 2 when transporting {{ site.data.mythic_plus.raw_anima }}.
 * If using {{ site.data.legendary.eogs }}, be mindful of {{ site.data.mythic_plus.run_through }} to when placing {{ site.data.spell.eq }}.
+
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="nw">
+<div data-toggle="collapse" data-target="#nw-collapse" aria-expanded="true" aria-controls="nw-collapse" class="dungeon-header nw"><h2>The Necrotic Wake</h2></div>
+</div>
+<div id="nw-collapse" class="collapse" aria-labelledby="nw" data-parent="#accordion">
+<div class="card-body" markdown="1"> 
+
+**Patchwerk Soldier**
+
+* These mobs will {{ site.data.mythic_plus.leap }} at ranged players. Position yourself close so tank and melee players don't have to chase far.
+
+**Corpse Harvester**
+
+* Interrupt {{ site.data.mythic_plus.drain_fluids }}.
+
+**Stitched Vanguard**
+
+* Interrupt {{ site.data.mythic_plus.meat_shield }}.
+
+**Blight Bag**
+
+* These mobs will {{ site.data.mythic_plus.leap }} at ranged players. Position yourself close so tank and melee players don't have to chase far.
+
+**Zolramus Gatekeeper**
+
+* {{ site.data.mythic_plus.wrath_of_zolramus }} is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
+* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
+
+## Blightbone
+
+* Use {{ site.data.spell.astral_shift }} as needed if targeted by {{ site.data.mythic_plus.heaving_retch }}. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid or re-position after {{ site.data.mythic_plus.heaving_retch }}.
+* Use {{ site.data.spell.earthbind_totem }}, {{ site.data.spell.capacitor_totem }}, and {{ site.data.spell.thunderstorm }} as needed to control the Carrion Worm adds.
+
+---
+
+**Zolramus Bonemender**
+
+* Rotate interrupts between {{ site.data.mythic_plus.bonemend }} and {{ site.data.mythic_plus.necrotic_bolt }}.
+* {{ site.data.mythic_plus.final_bargain }} is a massive heal that cannot be interrupted. You can hard cancel this ability with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
+
+**Zolramus Sorcerer**
+
+* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
+
+**Zolramus Necromancer, Brittlebone Mage**
+
+* Prioritze interrupting Brittlebone Mage's {{ site.data.mythic_plus.frostbolt_volley }}; interrupt the Necromancer's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
+* Focus down Zolramus Necromancer by casting {{ site.data.spell.flame_shock }} on the Brittlebone mobs around it to funnel more priority damage.
+
+**Skeletal Marauder**
+
+* Interrupting {{ site.data.mythic_plus.rasping_scream }} and stay ranged to avoid it. If a cast goes off, cast {{ site.data.spell.tremor_totem }} to dispel any Feared party members.
+
+**Nar'zudah**
+
+* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
+* {{ site.data.spell.purge }} {{ site.data.mythic_plus.dark_shroud }}.
+* Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.grim_fate }} as needed.
+
+**Skeletal Monstrosity**
+
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.reaping_winds }}. Stay ranged to avoid {{ site.data.mythic_plus.chill_scythe }}.
+
+## Amarth, The Harvester
+
+* Stay near the boss in anticipation for {{ site.data.mythic_plus.necrotic_breath }} to quickly avoid it.
+* Prioritize interrupting the Reanimated Mage's {{ site.data.mythic_plus.frostbolt_volley }}; interrupt Amarth's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
+* Use {{ site.data.spell.thunderstorm }} and {{ site.data.spell.capacitor_totem }} as needed to control the Reanimated adds.
+* {{ site.data.mythic_plus.tortured_echoes }} will be the highest source of damage taken, starting after the first {{ site.data.mythic_plus.final_harvest }}. Use {{ site.data.spell.astral_shift }} as needed.
+
+---
+
+**Corpse Collector**
+
+* Rotate interrupts between {{ site.data.mythic_plus.goresplatter }} and {{ site.data.mythic_plus.drain_fluids }}.
+
+**Flesh Crafter**
+
+* Interrupt {{ site.data.mythic_plus.repair_flesh }}.
+* Be sure {{ site.data.mythic_plus.throw_cleaver }} hits an enemy mob. Use {{ site.data.spell.astral_shift }} as needed otherwise.
+
+**Stitching Assistant, Separation Assistant**
+
+* Interrupt Stitching Assistant's {{ site.data.mythic_plus.drain_fluids }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to ensure {{ site.data.mythic_plus.throw_cleaver }} is targeted at the other mob or to kite away from Separation Assitant's {{ site.data.mythic_plus.morbid_fixation }}. 
+
+## Surgeon Stitchflesh
+
+* Hold cooldowns for when Surgeon Stitchflesh is active.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to target {{ site.data.mythic_plus.meat_hook }}s at the boss or to kite away from the boss's {{ site.data.mythic_plus.morbid_fixation }}.
+* Use {{ site.data.spell.astral_shift }} as needed for Stitchneedle.
+
+---
+
+## Nalthor the Rimebinder
+
+* Use {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.comet_storm }}.
+* {{ site.data.mythic_plus.icebound_aegis }} will be the highest source of damage taken when this is active on the boss. Use {{ site.data.spell.astral_shift }} as needed.
 
 </div>
 </div>
