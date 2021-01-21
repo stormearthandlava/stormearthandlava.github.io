@@ -50,7 +50,7 @@ In coordinated and varied group compositions, you may consider {{ site.data.tale
 
 * Plan with your group in advance on where to use {{ site.data.spell.bloodlust }}.
 
-* [Learn to log your dungeon runs!](https://www.warcraftlogs.com/help/start) Warcraft Logs filters dungeons with pull-by-pull analyses and records replays of dungeon run. Having logs available to share are helpful for you to receive actionable feedback.
+* [Learn to log your dungeon runs!](https://www.warcraftlogs.com/help/start) Warcraft Logs filters dungeons with pull-by-pull analyses and records replays of dungeon runs. Having logs available to share are helpful for you to receive actionable feedback.
 
 # Affixes
 
