@@ -41,10 +41,15 @@ In coordinated and varied group compositions, you may consider {{ site.data.tale
 # Miscellaneous Tips
 
 * Although strategies are listed for mobs and bosses, communicating with your group how each pull should be executed is more important. Some suggestions may not be applicable depending on your group's strategy.
+
 * {{ site.data.spell.earth_elemental }} is a potent ability best used to soak damage away from the tank or as an emergency button to avoid a party wipe. Communicate with your tank on using {{ site.data.spell.earth_elemental }} for challenging trash packs as well as remind your healer to keep the {{ site.data.spell.earth_elemental }} healthy as needed. Remember that with {{ site.data.talent.primal_elementalist }}, you can manually move the pet, and you have access to an additional defensive with {{ site.data.spell.harden_skin}} and single-target stun with {{ site.data.spell.pulverize }}. However, keep in mind that you cannot have {{ site.data.spell.earth_elemental }} and {{ site.data.spell.fire_elemental }} summoned at the same time with {{ site.data.talent.primal_elementalist }}.
+
 * Often times, your tank may need to kite. Remember the kiting tools at your disposal ({{ site.data.spell.earthbind_totem }}, {{ site.data.spell.frost_shock }}, {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.thunderstorm }}) to distance trash packs away from your tank.
+
 * Routinely support your healer and your group with healing abilities and {{ site.data.spell.cleanse_spirit }}. Note that the healers that cannot remove Curses are: Discipline Priest, Holy Priest, Holy Paladin, and Mistweaver Monk.
+
 * Plan with your group in advance on where to use {{ site.data.spell.bloodlust }}.
+
 * [Learn to log your dungeon runs!](https://www.warcraftlogs.com/help/start) Warcraft Logs filters dungeons with pull-by-pull analyses and records replays of dungeon run. Having logs available to share are helpful for you to receive actionable feedback.
 
 # Affixes
