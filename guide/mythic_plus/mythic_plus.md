@@ -44,7 +44,7 @@ In coordinated and varied group compositions, you may consider {{ site.data.tale
 * {{ site.data.spell.earth_elemental }} is a potent ability best used to soak damage away from the tank or as an emergency button to avoid a party wipe. Communicate with your tank on using {{ site.data.spell.earth_elemental }} for challenging trash packs as well as remind your healer to keep the {{ site.data.spell.earth_elemental }} healthy as needed. Remember that with {{ site.data.talent.primal_elementalist }}, you can manually move the pet, and you have access to an additional defensive with {{ site.data.spell.harden_skin}} and single-target stun with {{ site.data.spell.pulverize }}. However, keep in mind that you cannot have {{ site.data.spell.earth_elemental }} and {{ site.data.spell.fire_elemental }} summoned at the same time with {{ site.data.talent.primal_elementalist }}.
 * Often times, your tank may need to kite. Remember the kiting tools at your disposal ({{ site.data.spell.earthbind_totem }}, {{ site.data.spell.frost_shock }}, {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.thunderstorm }}) to distance trash packs away from your tank.
 * Routinely support your healer and your group with healing abilities and {{ site.data.spell.cleanse_spirit }}. Note that the healers that cannot remove Curses are: Discipline Priest, Holy Priest, Holy Paladin, and Mistweaver Monk.
-* Plan with your group in advance on where to use {{ site.data.spell.heroism }} / {{ site.data.spell.bloodlust }}.
+* Plan with your group in advance on where to use {{ site.data.spell.bloodlust }}.
 * [Learn to log your dungeon runs!](https://www.warcraftlogs.com/help/start) Warcraft Logs filters dungeons with pull-by-pull analyses and records replays of dungeon run. Having logs available to share are helpful for you to receive actionable feedback.
 
 # Affixes
@@ -53,7 +53,7 @@ In coordinated and varied group compositions, you may consider {{ site.data.tale
 
 * Bolstering: Damage trash packs down as evenly as you can. Swap to priority damage rotation for any lethal mobs or if mob health within trash packs are uneven.
 * Bursting: Support your party members and use your healing abilities to mitigate the Bursting debuff. Use Astral Shift as needed if stacks are high.
-* Inspiring: Crowd control mobs with Inspiring Presence with Hex as needed and when possible.
+* Inspiring: Crowd control mobs with {{ site.data.mythic_plus.inspiring_presence }} with {{ site.data.mythic_plus.hex }} as needed and when possible.
 * Raging: Be ready to use your kiting toolkit to support your tank when needed. Consider using Capacitor Totem and Stormkeeper to finish Raging mobs more safely and quickly.
 * Sanguine: Damage trash packs down as evenly as you can to lessen time spent in Sanguine, but be sure to not slow or stun mobs dying unevenly. Use Thunderstorm as needed to knock mobs out of Sanguine.
 * Spiteful: As mobs are dying, be ready to use your kiting toolkit to support your melee players. Consider taking advantage of Spiteful mobs as additional Chain Lightning or Flame Shock targets.
@@ -61,7 +61,7 @@ In coordinated and varied group compositions, you may consider {{ site.data.tale
 **Level 7:**
 
 * Explosive: Explosive orbs can be destroyed in a single Frost Shock global. This will be your most efficient tool to deal with them as your other abilities are more valuable for trash.
-* Grievous: Remember that direct heals remove one stack of Grievous Wound. Support your party members with Healing Surge and Chain Heal as needed.
+* Grievous: Remember that direct heals remove one stack of Grievous Wound. Support your party members with {{ site.data.mythic_plus.heal }}ing Surge and Chain {{ site.data.mythic_plus.heal }} as needed.
 * Necrotic: Be ready to use your kiting toolkit to support your tank when needed. Earth Elemental is also helpful to help your tank control Necrotic stacks.
 * Quaking: Maintain your distance from party members, and be mindful about canceling casts if Quaking overlaps with Spiritwalker's Grace.
 * Storming: Maintain your distance from mobs to avoid Storming. Use Spiritwalker's Grace as needed in tight spaces or when maneuvering any mechanics.
@@ -84,106 +84,106 @@ In coordinated and varied group compositions, you may consider {{ site.data.tale
         <div id="dos-collapse" class="collapse" aria-labelledby="dos" data-parent="#accordion">
           <div class="card-body" markdown="1">  
 
-**Enraged Spirit**
+**{{ site.data.mythic_plus.enraged }} Spirit**
 
-* Rage is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
-* Enraged Mask can be despawned with crowd control, so utilize {{ site.data.spell.capacitor_totem }} when they appear.
+* {{ site.data.mythic_plus.rage }} is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
+* {{ site.data.mythic_plus.enraged }} Mask can be despawned with crowd control, so utilize {{ site.data.spell.capacitor_totem }} when they appear.
 
 **Risen Cultist**
 
-* Rotate interrupts between Scribe and Dark Lotus.
+* Rotate interrupts between {{ site.data.mythic_plus.scribe }} and {{ site.data.mythic_plus.dark_lotus }}.
 
 **Death Speaker**
 
-* Rotate interrupts between Death's Embrace and Shadowcore. If a Death's Embrace cast goes off, {{ site.data.spell.purge }} it.
+* Rotate interrupts between Death's Embrace and {{ site.data.mythic_plus.shadowcore }}. If a Death's Embrace cast goes off, {{ site.data.spell.purge }} it.
 
 **Atal'ai Devoted**
 
-* Consider these mobs the priority target in any pack they're in, killing them before Devoted Sacrifice goes off. Use {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.thunderstorm }}, or {{ site.data.spell.hex }} to briefly stop their cast.
+* Consider these mobs the priority target in any pack they're in, killing them before {{ site.data.mythic_plus.devoted_sacrifice }} goes off. Use {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.thunderstorm }}, or {{ site.data.spell.hex }} to briefly stop their cast.
 
 **Atal'ai High Priest**
 
-* Rotate interrupts between Heal and Smite.
+* Rotate interrupts between {{ site.data.mythic_plus.heal }} and {{ site.data.mythic_plus.smite }}.
 
-**Atal'ai Hoodoo Hexxer**
+**Atal'ai Hoodoo {{ site.data.mythic_plus.hex }}xer**
 
-* Rotate interrupts between Healing Wave, Hex, and Lightning Discharge.
+* Rotate interrupts between {{ site.data.mythic_plus.heal }}ing Wave, {{ site.data.mythic_plus.hex }}, and {{ site.data.mythic_plus.lightning_discharge }}.
 
 **Atal'ai Deathwalker**
 
-* Use {{ site.data.spell.capacitor_totem }} to hard cancel their Bladestorm. When these mobs die, they turn into an Atal'ai Deathwalker's Spirit with Spectral, which you can {{ site.data.spell.purge }} to instantly kill them.
+* Use {{ site.data.spell.capacitor_totem }} to hard cancel their {{ site.data.mythic_plus.bladestorm }}. When these mobs die, they turn into an Atal'ai Deathwalker's Spirit with Spectral, which you can {{ site.data.spell.purge }} to instantly kill them.
 
 ## Hakkar the Soulflayer
 
-* {{ site.data.spell.astral_shift }} has many uses cases here: for Blood Nova if the Son of Hakkar adds are out of control, for Corrupted Blood, or for Blood Barrier to minimize the value of the absorb.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Blood Barrage.
+* {{ site.data.spell.astral_shift }} has many uses cases here: for {{ site.data.mythic_plus.blood_nova }} if the Son of Hakkar adds are out of control, for {{ site.data.mythic_plus.corrupted_blood }}, or for {{ site.data.mythic_plus.blood_barrier }} to minimize the value of the absorb.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.blood_barrage }}.
 
 ---
 
 **Defunct Dental Drill**
 
-* Haywire is dangerous when Fortified, but a common tactic is to just line-of-sight this.
+* {{ site.data.mythic_plus.haywire }} is dangerous when Fortified, but a common tactic is to just line-of-sight this.
 
 **Headless Client**
 
-* Interrupt Discharge.
-* Hard cancel their Spinning Up with {{ site.data.spell.capacitor_totem }}.
-* If no stuns are available, use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.thunderstorm }} as needed to keep these mobs away from your party. If these mobs are still too close for comfort, Additional Threads can be {{ site.data.spell.purge }}d.
+* Interrupt {{ site.data.mythic_plus.discharge }}.
+* Hard cancel their {{ site.data.mythic_plus.spinning_up }} with {{ site.data.spell.capacitor_totem }}.
+* If no stuns are available, use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.thunderstorm }} as needed to keep these mobs away from your party. If these mobs are still too close for comfort, {{ site.data.mythic_plus.additional_threads }} can be {{ site.data.spell.purge }}d.
 
 **Volatile Memory**
 
-* These mobs will self-destruct on their own with Volatile Capacitor. Use {{ site.data.spell.earthbind_totem }} as needed to keep them away from your party.
+* These mobs will self-destruct on their own with {{ site.data.mythic_plus.volatile_capacitor }}. Use {{ site.data.spell.earthbind_totem }} as needed to keep them away from your party.
 
 **Lubricator**
 
-* Rotate interrupts between Lubricate and Self-Cleaning Cycle.
+* Rotate interrupts between {{ site.data.mythic_plus.lubricate }} and Self-Cleaning Cycle.
 
 **Sentient Oil**
 
-* Interrupt Essential Oil.
+* Interrupt {{ site.data.mythic_plus.essential_oil }}.
 
 ## The Manastorms
 
 When Millhouse is active:
 
 * Interrupt Frostbolt.
-* Use {{ site.data.spell.astral_shift }} as needed when soaking Power Overwhelming or for Diabolical Dooooooom!
+* Use {{ site.data.spell.astral_shift }} as needed when soaking {{ site.data.mythic_plus.power_overwhelming }} or for Diabolical Dooooooom!
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to position Echo Finger Laser X-treme.
 
 When Millificent is active:
 
 * Use {{ site.data.spell.astral_shift }} as needed for Aerial Rocket Chicken Barrage.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to disarm Experimental Squirrel Bombs or position Shadowfury on the boss. Experimental Squirrel Bomb can be disarmed while in motion.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to disarm Experimental Squirrel Bombs or position {{ site.data.mythic_plus.shadowfury }} on the boss. Experimental Squirrel Bomb can be disarmed while in motion.
 
 ---
 
 **Weald Shimmermoth**
 
-* Party members should be jumping to remove Soporific Shimmerdust. If your party members aren't jumping, this can be dispelled with {{ site.data.spell.cleanse_spirit }}. If your party members do end up falling asleep from this debuff, {{ site.data.spell.tremor_totem }} can also be used to dispel it.
+* Party members should be jumping to remove {{ site.data.mythic_plus.soporific_shimmerdust }}. If your party members aren't jumping, this can be dispelled with {{ site.data.spell.cleanse_spirit }}. If your party members do end up falling asleep from this debuff, {{ site.data.spell.tremor_totem }} can also be used to dispel it.
 
 **Spriggan Barkbinder**
 
-* Interrupt Bark Armor. If this cast goes off, {{ site.data.spell.purge }} it.
+* Interrupt {{ site.data.mythic_plus.bark_armor }}. If this cast goes off, {{ site.data.spell.purge }} it.
 
 **Mythresh, Sky's Talons**
 
-* Cast {{ site.data.spell.tremor_totem }} for Wailing Grief to quickly dispel any players caught by the Fear.
+* Cast {{ site.data.spell.tremor_totem }} for {{ site.data.mythic_plus.wailing_grief }} to quickly dispel any players caught by the Fear.
 
 **Bladebeak Hatchling**
 
-* Frightened Cries will aggro nearby Bladebeak Matriarchs and Territorial Bladebeaks which may cause your pull to go out of hand. Use {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }} to hard cancel this ability.
+* {{ site.data.mythic_plus.frightened_cries }} will aggro nearby Bladebeak Matriarchs and Territorial Bladebeaks which may cause your pull to go out of hand. Use {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }} to hard cancel this ability.
 
 ## Dealer Xy'exa
 
-* Use {{ site.data.spell.astral_shift }} as needed for Arcane Lightning or Localized Explosive Contrivance.
-* Use {{ site.data.spell.spiritwalkers_grace }} when launched to the air from Displacement Trap or as needed to transfer Arcane Lightning to another party member.
+* Use {{ site.data.spell.astral_shift }} as needed for Arcane Lightning or {{ site.data.mythic_plus.localized_explosive_contrivance }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} when launched to the air from {{ site.data.mythic_plus.displacement_trap }} or as needed to transfer Arcane Lightning to another party member.
 
 ---
 
 ## Mueh'zala
 
-* Hold your cooldowns for the Shattered Visage add from Shatter Reality.
-* The DoT from Cosmic Artifice will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
+* Hold your cooldowns for the Shattered Visage add from {{ site.data.mythic_plus.shatter_reality }}.
+* The DoT from {{ site.data.mythic_plus.cosmic_artifice }} will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Master of Death.
 
 ---
@@ -203,28 +203,28 @@ When Millificent is active:
 
 **Depraved Houndmaster**
 
-* Loyal Beasts enrage the Vicious Gargons, and Rapid Fire is dangerous when Fortified. You can hard cancel these abilities with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
+* {{ site.data.mythic_plus.loyal_beasts }} enrage the Vicious Gargons, and {{ site.data.mythic_plus.rapid_fire }} is dangerous when Fortified. You can hard cancel these abilities with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
 
 **Depraved Obliterator**
 
-* Rotate interrupts between Curse of Obliteration and Wicked Bolt. If a Curse of Obliteration cast goes off, dispel with {{ site.data.spell.cleanse_spirit }}.
+* Rotate interrupts between Curse of Obliteration and {{ site.data.mythic_plus.wicked_bolt }}. If a Curse of Obliteration cast goes off, dispel with {{ site.data.spell.cleanse_spirit }}.
 
 **Depraved Collector**
 
-* Interrupt Collect Sins.
+* Interrupt {{ site.data.mythic_plus.collect_sins }}.
 
 **Shard of Halkias**
 
-* Stand at max range to avoid Thrash entirely. Use {{ site.data.spell.astral_shift }} if absolutely needed.
+* Stand at max range to avoid {{ site.data.mythic_plus.thrash }} entirely. Use {{ site.data.spell.astral_shift }} if absolutely needed.
 
 ## Halkias, the Sin-Stained Goliath
 
-* Use {{ site.data.spell.spiritwalkers_grace }} during Refracted Sinlight.
-* If any party members are outside the Light of Atonement aura and Feared by Sinlight Visions, use {{ site.data.spell.tremor_totem }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} during {{ site.data.mythic_plus.refracted_sinlight }}.
+* If any party members are outside the Light of Atonement aura and Feared by {{ site.data.mythic_plus.sinlight_visions }}, use {{ site.data.spell.tremor_totem }}.
 
 ---
 
-**Stoneborn Reaver**
+**Stoneborn {{ site.data.mythic_plus.reaver }}**
 
 * Interrupt Turn to Stone. If a cast goes off, {{ site.data.spell.purge }} it.
 
@@ -232,26 +232,26 @@ When Millificent is active:
 
 * Hold Stormkeeper for the Undying Stonefiend add spawn. Undying Stonefiends will not begin casting until they are hit with damage, so wait for them to congregate around the boss before engaging. Interrupt their Villanous Bolt cast, and use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.thunderstorm }} as needed to control them.
 * Keep some distance from the Undying Stonefiends due to Volatile Transformation.
-* Curse of Stone can be dispelled with {{ site.data.spell.cleanse_spirit }}. Prioritize dispelling party members targeted by Stone Shattering Leap or any other party members at risk, and dispelled players will be able to avoid damage if they run away quickly. Othrewise, use {{ site.data.spell.astral_shift }} for Stone Shattering Leap and Shattered as needed.
+* Curse of Stone can be dispelled with {{ site.data.spell.cleanse_spirit }}. Prioritize dispelling party members targeted by {{ site.data.mythic_plus.stone_shattering_leap }} or any other party members at risk, and dispelled players will be able to avoid damage if they run away quickly. Othrewise, use {{ site.data.spell.astral_shift }} for {{ site.data.mythic_plus.stone_shattering_leap }} and {{ site.data.mythic_plus.shatter }}ed as needed.
 
 ---
 
 ## High Adjudicator Aleez
 
 * Rotate interrupts between Volley of Power and Bolt of Power.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed for Anima Fountain.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.anima_fountain }}.
 * Use {{ site.data.spell.astral_shift }} as needed for Pulse from Beyond from Ghastly Parishioner.
 
 ---
 
 **Inquisitor Sigar**
 
-* Interrupt Wicked Bolt.
+* Interrupt {{ site.data.mythic_plus.wicked_bolt }}.
 
 ## Lord Chamberlain
 
 * Use {{ site.data.spell.astral_shift }} for Ritual of Woe as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Telekinetic Toss, Telekinetic Onslaught, and Telekinetic Repulsion.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.telekinetic_toss }}, {{ site.data.mythic_plus.telekinetic_onslaught }}, and {{ site.data.mythic_plus.telekinetic_repulsion }}.
 
 </div>
 </div>
@@ -268,34 +268,34 @@ When Millificent is active:
 
 **Drust Spiteclaw**
 
-* {{ site.data.spell.purge }} Dying Breath. If these are not {{ site.data.spell.purge }}d and players are affected by Dying Breath, you can dispel them with {{ site.data.spell.cleanse_spirit }}.
+* {{ site.data.spell.purge }} {{ site.data.mythic_plus.dying_breath }}. If these are not {{ site.data.spell.purge }}d and players are affected by {{ site.data.mythic_plus.dying_breath }}, you can dispel them with {{ site.data.spell.cleanse_spirit }}.
 
 **Drust Harvester**
 
-* Rotate interrupts between Harvest Essence and Spirit Bolt.
+* Rotate interrupts between {{ site.data.mythic_plus.harvest_essence }} and {{ site.data.mythic_plus.spirit_bolt }}.
 
 **Drust Boughbreaker**
 
-* When these mobs reach 50% health, they will channel Furious Thrashing which is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
-* If you move as the Bramble Burst cast finishes, you can avoid the initial damage.
+* When these mobs reach 50% health, they will channel {{ site.data.mythic_plus.furious_thrashing }} which is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
+* If you move as the {{ site.data.mythic_plus.bramble_burst }} cast finishes, you can avoid the initial damage.
 
 ## Ingra Maloch
 
 * Maintain {{ site.data.spell.flame_shock }} on both Ingra Maloch and Droman Oulfarran.
 * Hold your cooldowns for when Ingra is vulnerable with Droman's Wrath.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Tears of the Forest.
-* Use {{ site.data.spell.astral_shift }} for Death Shroud as needed.
-* Stay alert for Ingra's Repulsive Visage. This is a 3 second cast that will Fear all players around him and cannot be interrupted, so pre-cast {{ site.data.spell.tremor_totem }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.tear }}s of the Forest.
+* Use {{ site.data.spell.astral_shift }} for {{ site.data.mythic_plus.death_shroud }} as needed.
+* Stay alert for Ingra's {{ site.data.mythic_plus.repulsive_visage }}. This is a 3 second cast that will Fear all players around him and cannot be interrupted, so pre-cast {{ site.data.spell.tremor_totem }}.
 
 ---
 
 **Mistveil Shaper**
 
-* Interrupt Bramblethorn Coat. If this cast goes off, {{ site.data.spell.purge }} it.
+* Interrupt {{ site.data.mythic_plus.bramblethorn_coat }}. If this cast goes off, {{ site.data.spell.purge }} it.
 
 **Mistveil Guardian**
 
-* Bucking Rampage is a knock back ability that will affect tank and melee players. You can hard cancel this ability with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
+* {{ site.data.mythic_plus.bucking_rampage }} is a knock back ability that will affect tank and melee players. You can hard cancel this ability with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
 
 **Mistveil Tender**
 
@@ -304,22 +304,22 @@ When Millificent is active:
 ## Mistcaller
 
 * During Guessing Game, maintain {{ site.data.spell.flame_shock }} on the correct Illusionary Clone but also any other Illusions you can. Mistcaller takes 100% reduced damage during this phase.
-* Penalizing Burst during Guessing Game will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed during this phase.
+* {{ site.data.mythic_plus.penalizing_burst }} during Guessing Game will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed during this phase.
 * {{ site.data.spell.hex }} the Illusionary Vulpin. If cleave damage is breaking the CC, you can also use {{ site.data.spell.earthbind_totem }} or {{ site.data.spell.capacitor_totem }}, or as needed to kite.
-* Use {{ site.data.spell.spiritwalkers_grace }} for Dodge Ball as needed.
+* Use {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.dodge_ball }} as needed.
 
 ---
 
 **Spinemaw Staghorn**
 
-* Rotate interrupts for Stimulate Resistance and Stimulate Regeneration. If either of these casts go off, they can be {{ site.data.spell.purge }}d.
+* Rotate interrupts for {{ site.data.mythic_plus.stimulate_resistance }} and {{ site.data.mythic_plus.stimulate_regeneration }}. If either of these casts go off, they can be purged.
 
 ## Tred'ova
 
-* Rotate interrupts for Parasitic Pacification, Parasitic Incapacitation, and Parasitic Domination.
-* Consumption can also be interrupted after the Gorging Shield is broken, but your party may opt to not interrupt so the boss doesn't cast any other mechanics. 
+* Rotate interrupts for {{ site.data.mythic_plus.parasitic_pacification }}, {{ site.data.mythic_plus.parasitic_incapacitation }}, and {{ site.data.mythic_plus.parasitic_domination }}.
+* {{ site.data.mythic_plus.consumption }} can also be interrupted after the {{ site.data.mythic_plus.gorging_shield }} is broken, but your party may opt to not interrupt so the boss doesn't cast any other mechanics. 
 * Use {{ site.data.spell.earthbind_totem }}, {{ site.data.spell.capacitor_totem }}, and potentially {{ site.data.spell.hex }} as needed to control the Gormling Larvae.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed for Acid Expulsion, Consumption, Mind Link, or for kiting away from Gormling Larvae.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.acid_expulsion }}, {{ site.data.mythic_plus.consumption }}, {{ site.data.mythic_plus.mind_link }}, or for kiting away from Gormling Larvae.
 
 ---
 
@@ -341,90 +341,90 @@ When Millificent is active:
 
 **Corpse Harvester**
 
-* Interrupt Drain Fluids.
+* Interrupt {{ site.data.mythic_plus.drain_fluids }}.
 
 **Stitched Vanguard**
 
-* Interrupt Meat Shield.
+* Interrupt {{ site.data.mythic_plus.meat_shield }}.
 
 **Blight Bag**
 
-* These mobs will Leap at ranged players. Position yourself close so tank and melee players don't have to chase far.
+* These mobs will {{ site.data.mythic_plus.leap }} at ranged players. Position yourself close so tank and melee players don't have to chase far.
 
 **Zolramus Gatekeeper**
 
 * Wrath of Zolramus is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
-* Interrupt Necrotic Bolt.
+* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
 
 ## Blightbone
 
-* Use {{ site.data.spell.astral_shift }} as needed if targeted by Heaving Retch. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid or re-position after Heaving Retch.
+* Use {{ site.data.spell.astral_shift }} as needed if targeted by {{ site.data.mythic_plus.heaving_retch }}. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid or re-position after {{ site.data.mythic_plus.heaving_retch }}.
 * Use {{ site.data.spell.earthbind_totem }}, {{ site.data.spell.capacitor_totem }}, and {{ site.data.spell.thunderstorm }} as needed to control the Carrion Worm adds.
 
 ---
 
-**Zolramus Bonemender**
+**Zolramus {{ site.data.mythic_plus.bonemend }}er**
 
-* Rotate interrupts between Bonemend and Necrotic Bolt.
-* Final Bargain is a massive heal that cannot be interrupted. You can hard cancel this ability with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
+* Rotate interrupts between {{ site.data.mythic_plus.bonemend }} and {{ site.data.mythic_plus.necrotic_bolt }}.
+* {{ site.data.mythic_plus.final_bargain }} is a massive heal that cannot be interrupted. You can hard cancel this ability with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
 
 **Zolramus Sorcerer**
 
-* Interrupt Necrotic Bolt.
+* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
 
 **Zolramus Necromancer, Brittlebone Mage**
 
-* Prioritze interrupting Brittlebone Mage's Frostbolt Volley; interrupt the Necromancer's Necrotic Bolt otherwise.
+* Prioritze interrupting Brittlebone Mage's Frostbolt Volley; interrupt the Necromancer's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
 * Focus down Zolramus Necromancer by casting {{ site.data.spell.flame_shock }} on the Brittlebone mobs around it to funnel more priority damage.
 
 **Skeletal Marauder**
 
-* Interrupting Rasping Scream and stay ranged to avoid it. If a cast goes off, cast {{ site.data.spell.tremor_totem }} to dispel any Feared party members.
+* Interrupting {{ site.data.mythic_plus.rasping_scream }} and stay ranged to avoid it. If a cast goes off, cast {{ site.data.spell.tremor_totem }} to dispel any Feared party members.
 
 **Nar'zudah**
 
-* Interrupt Necrotic Bolt.
-* {{ site.data.spell.purge }} Dark Shroud.
-* Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.spiritwalkers_grace }} for Grim Fate as needed.
+* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
+* {{ site.data.spell.purge }} {{ site.data.mythic_plus.dark_shroud }}.
+* Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.grim_fate }} as needed.
 
 **Skeletal Monstrosity**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed for Reaping Winds. Stay ranged to avoid Chill Scythe.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.reaping_winds }}. Stay ranged to avoid {{ site.data.mythic_plus.chill_scythe }}.
 
 ## Amarth,  The Harvester
 
-* Stay near the boss in anticipation for Necrotic Breath to quickly avoid it.
-* Prioritize interrupting the Reanimated Mage's Frostbolt Volley; interrupt Amarth's Necrotic Bolt otherwise.
+* Stay near the boss in anticipation for {{ site.data.mythic_plus.necrotic_breath }} to quickly avoid it.
+* Prioritize interrupting the Reanimated Mage's Frostbolt Volley; interrupt Amarth's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
 * Use {{ site.data.spell.thunderstorm }} and {{ site.data.spell.capacitor_totem }} as needed to control the Reanimated adds.
-* Tortured Echoes will be the highest source of damage taken, starting after the first Final Harvest. Use {{ site.data.spell.astral_shift }} as needed.
+* {{ site.data.mythic_plus.tortured_echoes }} will be the highest source of damage taken, starting after the first {{ site.data.mythic_plus.final_harvest }}. Use {{ site.data.spell.astral_shift }} as needed.
 
 ---
 
 **Corpse Collector**
 
-* Rotate interrupts between Goresplatter and Drain Fluids.
+* Rotate interrupts between {{ site.data.mythic_plus.goresplatter }} and {{ site.data.mythic_plus.drain_fluids }}.
 
 **Flesh Crafter**
 
-* Interrupt Repair Flesh.
-* Be sure Throw Cleaver hits an enemy mob. Use {{ site.data.spell.astral_shift }} as needed otherwise.
+* Interrupt {{ site.data.mythic_plus.repair_flesh }}.
+* Be sure {{ site.data.mythic_plus.throw_cleaver }} hits an enemy mob. Use {{ site.data.spell.astral_shift }} as needed otherwise.
 
 **Stitching Assistant, Separation Assistant**
 
-* Interrupt Stitching Assistant's Drain Fluids.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to ensure Throw Cleaver is targeted at the other mob or to kite away from Separation Assitant's Morbid Fixation. 
+* Interrupt Stitching Assistant's {{ site.data.mythic_plus.drain_fluids }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to ensure {{ site.data.mythic_plus.throw_cleaver }} is targeted at the other mob or to kite away from Separation Assitant's {{ site.data.mythic_plus.morbid_fixation }}. 
 
 ## Surgeon Stitchflesh
 
 * Hold cooldowns for when Surgeon Stitchflesh is active.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to target Meat Hooks at the boss or to kite away from the boss's Morbid Fixation.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to target {{ site.data.mythic_plus.meat_hook }}s at the boss or to kite away from the boss's {{ site.data.mythic_plus.morbid_fixation }}.
 * Use {{ site.data.spell.astral_shift }} as needed for Stitchneedle.
 
 ---
 
 ## Nalthor the Rimebinder
 
-* Use {{ site.data.spell.spiritwalkers_grace }} for Comet Storm.
+* Use {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.comet_storm }}.
 * Icebound Aegis will be the highest source of damage taken when this is active on the boss. Use {{ site.data.spell.astral_shift }} as needed.
 
 ---
@@ -443,28 +443,28 @@ When Millificent is active:
 
 **Decaying Flesh Giant**
 
-* Interrupt Creepy Crawlers.
+* Interrupt {{ site.data.mythic_plus.creepy_crawlers }}.
 
 **Fungalmancer**
 
-* Rotate interrupts between Wonder Grow and Binding Fungus. If a Wonder Grow cast goes off, {{ site.data.spell.purge }} it.
+* Rotate interrupts between {{ site.data.mythic_plus.wonder_grow }} and {{ site.data.mythic_plus.binding_fungus }}. If a {{ site.data.mythic_plus.wonder_grow }} cast goes off, {{ site.data.spell.purge }} it.
 
 **Fungi Stormer**
 
-* Fungistorm is dangerous when Fortified. You can hard cancel this ability with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
+* {{ site.data.mythic_plus.fungistorm }} is dangerous when Fortified. You can hard cancel this ability with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
 
 **Pestilent Harvester**
 
-* Rotate interrupts between Doom Shroom and Hurl Spores.
+* Rotate interrupts between {{ site.data.mythic_plus.doom_shroom }} and {{ site.data.mythic_plus.hurl_spores }}.
 
-**Gushing Slime**
+**{{ site.data.mythic_plus.gushing_slime }}**
 
-* {{ site.data.spell.purge }} Slime Coated as needed to minimize pools of Putrid Bile.
+* {{ site.data.spell.purge }} {{ site.data.mythic_plus.slime_coated }} as needed to minimize pools of {{ site.data.mythic_plus.putrid_bile }}.
 
 ## Globgrog
 
-* Position yourself close to the boss to quickly avoid Slime Wave.
-* Use {{ site.data.spell.spiritwalkers_grace }} for Plaguestomp. Use {{ site.data.spell.astral_shift }} as needed for both Plaguestomp and Debilitating Plague.
+* Position yourself close to the boss to quickly avoid {{ site.data.mythic_plus.slime_wave }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.plaguestomp }}. Use {{ site.data.spell.astral_shift }} as needed for both {{ site.data.mythic_plus.plaguestomp }} and {{ site.data.mythic_plus.debilitating_plague }}.
 * Use {{ site.data.spell.earthbind_totem }}, {{ site.data.spell.capacitor_totem }}, and {{ site.data.spell.thunderstorm }} as needed to control the Slimy Morsels.
 
 ---
@@ -475,28 +475,28 @@ When Millificent is active:
 
 **Plaguebinder**
 
-* Rotate interrupts between Gripping Infection and Pestilence Bolt.
+* Rotate interrupts between {{ site.data.mythic_plus.gripping_infection }} and {{ site.data.mythic_plus.pestilence_bolt }}.
 
 **Rotmarrow Slime**
 
-* Interrupt Corrosive Gunk.
+* Interrupt {{ site.data.mythic_plus.corrosive_gunk }}.
 
 **Pestilence Slime**
 
-* Interrupt Viral Globs.
+* Interrupt {{ site.data.mythic_plus.viral_globs }}.
 
 **Virulax Blightweaver**
 
-* Interrupt Pestilence Bolt.
+* Interrupt {{ site.data.mythic_plus.pestilence_bolt }}.
 
 **Congealed Slime**
 
-* Because of Congealed Contagion, funnel more priority damage on the Congealed Slime by casting {{ site.data.spell.flame_shock }} on the mobs around it.
+* Because of {{ site.data.mythic_plus.congealed_contagion }}, funnel more priority damage on the Congealed Slime by casting {{ site.data.spell.flame_shock }} on the mobs around it.
 
 ## Doctor Ickus
 
 * Funnel more priority damage to the Plague Bomb by casting {{ site.data.spell.flame_shock }} on the boss and Congealed Slime. If your group is planning to CC the Congealed Slime, do not {{ site.data.spell.flame_shock }} it. Consider holding cooldowns for the Plague Bomb as well if needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Slime Lunge.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.slime_lunge }}.
 * Interrupt Burning Strain if no targets are within melee range of the boss.
 
 ---
@@ -505,32 +505,32 @@ When Millificent is active:
 
 * Use {{ site.data.spell.capacitor_totem }} to hard cancel Bulwark of Maldraxxus.
 
-**Brood Ambusher**
+**Brood {{ site.data.mythic_plus.ambush }}er**
 
-* Interrupt Enveloping Webbing.
-* {{ site.data.spell.hex }} and {{ site.data.spell.capacitor_totem }} can be used to hard cancel Stealthlings.
+* Interrupt {{ site.data.mythic_plus.enveloping_webbing }}.
+* {{ site.data.spell.hex }} and {{ site.data.spell.capacitor_totem }} can be used to hard cancel {{ site.data.mythic_plus.stealthlings }}.
 
 **Venomous Sniper**
 
-* Interrupt Call Venomfang.
-* If a Death Knight is in your party, they can use Control Undead on these mobs for Venompiercer. This will buff your Nature damage abilities ({{ site.data.spell.lb }}, {{ site.data.spell.cl }}, {{ site.data.spell.es }}).
+* Interrupt {{ site.data.mythic_plus.call_venomfang }}.
+* If a Death Knight is in your party, they can use Control Undead on these mobs for {{ site.data.mythic_plus.venompiercer }}. This will buff your Nature damage abilities ({{ site.data.spell.lb }}, {{ site.data.spell.cl }}, {{ site.data.spell.es }}).
 
 ## Domina Venomblade
 
-* Use {{ site.data.spell.spiritwalkers_grace }} to avoid Solitary Prey when moving with your group and revealing Brood Assassins.
+* Use {{ site.data.spell.spiritwalkers_grace }} to avoid {{ site.data.mythic_plus.solitary_prey }} when moving with your group and revealing Brood Assassins.
 * {{ site.data.spell.capacitor_totem }} can be used to reveal Brood Assassins, but you may consider using {{ site.data.spell.capacitor_totem }} for when they're grouped up instead.
-* Use {{ site.data.spell.astral_shift }} as needed for Shadow Ambush.
+* Use {{ site.data.spell.astral_shift }} as needed for Shadow {{ site.data.mythic_plus.ambush }}.
 
 ---
 
 **Ickor Bileflesh**
 
-* Interrupt Pestilence Bolt.
+* Interrupt {{ site.data.mythic_plus.pestilence_bolt }}.
 
 ## Margrave Stradama
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Plague Crash.
-* Infectious Rain will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.plague_crash }}.
+* {{ site.data.mythic_plus.infectious_rain }} will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }}.
 * Use {{ site.data.spell.frost_shock }}, {{ site.data.spell.earthbind_totem }}, {{ site.data.spell.capacitor_totem }}, and {{ site.data.spell.thunderstorm }} as needed to kite the Plaguebound Devoted adds.
 
 ---
@@ -550,29 +550,29 @@ When Millificent is active:
 **Gluttonous Tick**
 
 * Interrupt Engorge.
-* Keep your distance from these mobs as they will cast Gluttonous Burst when they die.
+* Keep your distance from these mobs as they will cast {{ site.data.mythic_plus.gluttonous_burst }} when they die.
 
 ## Kryxis
 
-* Pay attention to Kryxis' Severing Smash cast, and be as far away as possible to stagger the damage taken from Essence Absorption. If necessary, you can also out-range Severing Smash at 100 yards to prevent dropping a Living Essence orb at all.
-* Essence Absorption and Juggernaut Rush will be the highest sources of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position for Severing Smash or Juggernaut Rush.
-* Interrupt Hungering Drain.
+* Pay attention to Kryxis' {{ site.data.mythic_plus.severing_smash }} cast, and be as far away as possible to stagger the damage taken from Essence Absorption. If necessary, you can also out-range {{ site.data.mythic_plus.severing_smash }} at 100 yards to prevent dropping a {{ site.data.mythic_plus.living_essence }} orb at all.
+* Essence Absorption and {{ site.data.mythic_plus.juggernaut_rush }} will be the highest sources of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position for {{ site.data.mythic_plus.severing_smash }} or {{ site.data.mythic_plus.juggernaut_rush }}.
+* Interrupt {{ site.data.mythic_plus.hungering_drain }}.
 
 ---
 
 **Wicked Oppressor**
 
-* Rotate interrupts between Curse of Suppression and Wrack Soul. If a Curse of Suppression cast goes off on a party member, dispel with {{ site.data.spell.cleanse_spirit }}.
+* Rotate interrupts between Curse of Suppression and {{ site.data.mythic_plus.wrack_soul }}. If a Curse of Suppression cast goes off on a party member, dispel with {{ site.data.spell.cleanse_spirit }}.
 
 **Dark Acolyte**
 
-* Interrupt Dark Bolt.
+* Interrupt {{ site.data.mythic_plus.dark_bolt }}.
 
 **Grand Overseer**
 
-* Interrupt Gloom Burst.
-* Stand at max range to completely negate Dread Bindings.
+* Interrupt {{ site.data.mythic_plus.gloom_burst }}.
+* Stand at max range to completely negate {{ site.data.mythic_plus.dread_bindings }}.
 
 **Chamber Sentinel**
 
@@ -580,35 +580,35 @@ When Millificent is active:
 
 **Depths Warden**
 
-* Interrupt Barbed Shackles.
+* Interrupt {{ site.data.mythic_plus.barbed_shackles }}.
 
 **Remnant of Fury**
 
-* Explosive Anger can be interrupted, but it is a damage buff with a DoT. It may be helpful to let this cast go off on a party member for a few seconds before dispelling with {{ site.data.spell.cleanse_spirit }}.
+* {{ site.data.mythic_plus.explosive_anger }} can be interrupted, but it is a damage buff with a DoT. It may be helpful to let this cast go off on a party member for a few seconds before dispelling with {{ site.data.spell.cleanse_spirit }}.
 
 **Infused Quill-feather**
 
-* Interrupt Fiery Cantrip.
+* Interrupt {{ site.data.mythic_plus.fiery_cantrip }}.
 
 ## Executor Tarvold
 
 * Fleeting Manifestation's Growing Pride will be the highest source of damage taken during this encounter, but they will not pulse this ability when CC'd. Focus these down quickly, and use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Castigate, Sintouched Anima, or Residue. {{ site.data.spell.astral_shift }} may be used for Castigate as well.
-* If any party members are hit by Sintouched Anima, dispel with {{ site.data.spell.cleanse_spirit }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.castigate }}, {{ site.data.mythic_plus.sintouched_anima }}, or {{ site.data.mythic_plus.residue }}. {{ site.data.spell.astral_shift }} may be used for {{ site.data.mythic_plus.castigate }} as well.
+* If any party members are hit by {{ site.data.mythic_plus.sintouched_anima }}, dispel with {{ site.data.spell.cleanse_spirit }}.
 
 ---
 
 ## Grand Proctor Beryllia
 
-* Rite of Supremacy and Agonize will be the highest sources of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Endless Torment.
+* Rite of Supremacy and {{ site.data.mythic_plus.agonize }} will be the highest sources of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.endless_torment }}.
 
 ---
 
 ## General Kaal
 
-* If targeted by Wicked Rush, you can avoid this entirely if you move quickly enough as the boss is dashing towards you. Otherwise, use {{ site.data.spell.astral_shift }} as needed for Wicked Gash.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed when positioning for Wicked Rush or to avoid Piercing Blur.
+* If targeted by {{ site.data.mythic_plus.wicked_rush }}, you can avoid this entirely if you move quickly enough as the boss is dashing towards you. Otherwise, use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.wicked_gash }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed when positioning for {{ site.data.mythic_plus.wicked_rush }} or to avoid {{ site.data.mythic_plus.piercing_blur }}.
 
 ---
 
@@ -630,17 +630,17 @@ When Millificent is active:
 
 **Forsworn Goliath**
 
-* Interrupt Rebellious Fist. Consider this the highest priority interrupt in any pack you see this mob in.
+* Interrupt {{ site.data.mythic_plus.rebellious_fist }}. Consider this the highest priority interrupt in any pack you see this mob in.
 
 **Forsworn Mender**
 
-* Interrupt Forsworn Doctrine.
-* {{ site.data.spell.purge }} Imbue Weapon.
+* Interrupt {{ site.data.mythic_plus.forsworn_doctrine }}.
+* {{ site.data.spell.purge }} {{ site.data.mythic_plus.imbue_weapon }}.
 
 ## Kin-Tara
 
 * Maintain {{ site.data.spell.flame_shock }} on both Kin-Tara and Azules.
-* Position yourself behind Azules to avoid Attenuated Barrage. Use {{ site.data.spell.spiritwalkers_grace }} to follow Azules when it moves.
+* Position yourself behind Azules to avoid {{ site.data.mythic_plus.attenuated_barrage }}. Use {{ site.data.spell.spiritwalkers_grace }} to follow Azules when it moves.
 
 ---
 
@@ -650,46 +650,46 @@ When Millificent is active:
 
 **Forsworn Champion**
 
-* Interrupt Forsworn Doctrine.
-* {{ site.data.spell.purge }} Imbue Weapon.
+* Interrupt {{ site.data.mythic_plus.forsworn_doctrine }}.
+* {{ site.data.spell.purge }} {{ site.data.mythic_plus.imbue_weapon }}.
 
 **Forsworn Inquisitor**
 
-* Rotate interrupts between Internal Strife and Dark Lash.
+* Rotate interrupts between {{ site.data.mythic_plus.internal_strife }} and {{ site.data.mythic_plus.dark_lash }}.
 
 **Forsworn Squad-Leader**
 
-* Because of Inspiring Presence, funnel more priority damage on the Forsworn Squad-Leader by casting {{ site.data.spell.flame_shock }} on the mobs around it.
+* Because of {{ site.data.mythic_plus.inspiring_presence }}, funnel more priority damage on the Forsworn Squad-Leader by casting {{ site.data.spell.flame_shock }} on the mobs around it.
 
 ## Ventunax
 
-* Dark Stride will be the highest source of damage taken, assuming you are avoiding Dark Bolt. Use {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} to avoid Dark Bolt from Shadowhirl. Shadowhirl will always fire out Dark Bolts counterclockwise until Ventunax casts Recharge, which will trigger all Shadowhirls to fire 9 Dark Bolts at the same time.
+* {{ site.data.mythic_plus.dark_stride }} will be the highest source of damage taken, assuming you are avoiding {{ site.data.mythic_plus.dark_bolt }}. Use {{ site.data.spell.astral_shift }} as needed.
+* Use {{ site.data.spell.spiritwalkers_grace }} to avoid {{ site.data.mythic_plus.dark_bolt }} from {{ site.data.mythic_plus.shadowhirl }}. {{ site.data.mythic_plus.shadowhirl }} will always fire out {{ site.data.mythic_plus.dark_bolt }}s counterclockwise until Ventunax casts {{ site.data.mythic_plus.recharge }}, which will trigger all {{ site.data.mythic_plus.shadowhirl }}s to fire 9 {{ site.data.mythic_plus.dark_bolt }}s at the same time.
 
 ---
 
 **Forsworn Warden**
 
-* Interrupt Greater Mending.
-* {{ site.data.spell.purge }} Bless Weapon.
+* Interrupt {{ site.data.mythic_plus.greater_mending }}.
+* {{ site.data.spell.purge }} {{ site.data.mythic_plus.bless_weapon }}.
 
 **Forsworn Justicar**
 
-* Rotate interrupts between Forced Confession and Dark Lash.
+* Rotate interrupts between {{ site.data.mythic_plus.forced_confession }} and {{ site.data.mythic_plus.dark_lash }}.
 
 ## Oryphrion
 
-* Consider holding cooldowns for when the boss is Drained.
-* Use {{ site.data.spell.spiritwalkers_grace }} to position and avoid the Anima Fields from Empyreal Ordnance.
-* Use {{ site.data.spell.astral_shift }} as needed for Purifying Blast or Anima Surge. However, Purifying Blast will be the higher source of damage taken.
+* Consider holding cooldowns for when the boss is {{ site.data.mythic_plus.drained }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} to position and avoid the {{ site.data.mythic_plus.anima_field }}s from {{ site.data.mythic_plus.empyreal_ordnance }}.
+* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.purifying_blast }} or Anima Surge. However, {{ site.data.mythic_plus.purifying_blast }} will be the higher source of damage taken.
 
 ---
 
 ## Devos, Paragon of Doubt
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position the pool of Lingering Doubt from Lost Confidence or to stand in Archon's Bastion.
-* Lingering Doubt will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }} as needed during Phase 2 when transporting Anima Orbs.
-* If using {{ site.data.legendary.eogs }}, be mindful of Run Through to when placing {{ site.data.spell.eq }} }}s.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position the pool of {{ site.data.mythic_plus.lingering_doubt }} from {{ site.data.mythic_plus.lost_confidence }} or to stand in Archon's Bastion.
+* {{ site.data.mythic_plus.lingering_doubt }} will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }} as needed during Phase 2 when transporting Anima Orbs.
+* If using {{ site.data.legendary.eogs }}, be mindful of {{ site.data.mythic_plus.run_through }} to when placing {{ site.data.spell.eq }} }}s.
 
 ---
 
@@ -707,11 +707,11 @@ When Millificent is active:
 
 **Battlefield Ritualist**
 
-* Rotate interrupts between Unholy Fervor and Necrotic Bolt. If an Unholy Fervor cast goes off, {{ site.data.spell.purge }} it.
+* Rotate interrupts between {{ site.data.mythic_plus.unholy_fervor }} and {{ site.data.mythic_plus.necrotic_bolt }}. If an {{ site.data.mythic_plus.unholy_fervor }} cast goes off, {{ site.data.spell.purge }} it.
 
 **Raging Bloodhorn**
 
-* Raging Tantrum is dangerous when Fortified. If your group does not have an enrage dispel, use {{ site.data.spell.astral_shift }} or healing abilities as needed.
+* {{ site.data.mythic_plus.raging_tantrum }} is dangerous when Fortified. If your group does not have an enrage dispel, use {{ site.data.spell.astral_shift }} or healing abilities as needed.
 
 ## An Affront of Challengers
 
@@ -727,26 +727,26 @@ When Millificent is active:
 
 **Blighted Sludge-Spewer**
 
-* Rotate interrupts between Withering Discharge and Decaying Filth.
-* These mobs will leap at ranged players with Leaping Thrash. Position yourself close so tank and melee players don't have to chase far.
+* Rotate interrupts between Withering {{ site.data.mythic_plus.discharge }} and {{ site.data.mythic_plus.decaying_filth }}.
+* These mobs will leap at ranged players with {{ site.data.mythic_plus.leap }}ing {{ site.data.mythic_plus.thrash }}. Position yourself close so tank and melee players don't have to chase far.
 
 **Disgusting Refuse**
 
-* These mobs will leap at ranged players with Leaping Thrash. Position yourself close so tank and melee players don't have to chase far.
+* These mobs will leap at ranged players with {{ site.data.mythic_plus.leap }}ing {{ site.data.mythic_plus.thrash }}. Position yourself close so tank and melee players don't have to chase far.
 
 **Putrid Butcher**
 
-* Hard cancel Devour Flesh with {{ site.data.spell.capacitor_totem }}.
+* Hard cancel {{ site.data.mythic_plus.devour_flesh }} with {{ site.data.spell.capacitor_totem }}.
 
 **Diseased Horror**
 
-* Interrupt Meat Shield.
+* Interrupt {{ site.data.mythic_plus.meat_shield }}.
 
 ## Gorechop
 
 * Maintain {{ site.data.spell.flame_shock }} on the boss and Oozing Leftovers.
-* Tenderizing Smash and Meat Hook often overlap, but you will not be caught by Tenderizing Smash if you are in melee range of the boss. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Meat Hooks.
-* Leaping Thrash from Oozing Leftovers will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed when they spawn.
+* {{ site.data.mythic_plus.tenderizing_smash }} and {{ site.data.mythic_plus.meat_hook }} often overlap, but you will not be caught by {{ site.data.mythic_plus.tenderizing_smash }} if you are in melee range of the boss. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.meat_hook }}s.
+* {{ site.data.mythic_plus.leap }}ing {{ site.data.mythic_plus.thrash }} from Oozing Leftovers will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed when they spawn.
 
 ---
 
@@ -756,12 +756,12 @@ Only one of these duelists will be active in a run.
 
 When Dokigg is active:
 
-* Brutal Leap will target a ranged player. Position yourself close so tank and melee players don't have to chase far.
-* Interrupt Battle Trance.
+* Brutal {{ site.data.mythic_plus.leap }} will target a ranged player. Position yourself close so tank and melee players don't have to chase far.
+* Interrupt {{ site.data.mythic_plus.battle_trance }}.
 
 When Nekthara is active:
 
-* Stay ranged to avoid Whirlwind.
+* Stay ranged to avoid {{ site.data.mythic_plus.whirlwind }}.
 * Don't be caught casting when Nekthara is casting Interrupting Roar.
 
 **Harugia the Bloodthirsty, Heavin the Breaker**
@@ -770,8 +770,8 @@ Only one of these duelists will be active in a run.
 
 When Harugia is active:
 
-* Bloodthirsty Charge will target a ranged player. Make sure you are spread out and able to avoid it.
-* Interrupt Battle Trance.
+* Bloodthirsty {{ site.data.mythic_plus.charge }} will target a ranged player. Make sure you are spread out and able to avoid it.
+* Interrupt {{ site.data.mythic_plus.battle_trance }}.
 
 When Heavin is active:
 
@@ -784,60 +784,60 @@ Only one of these duelists will be active in a run.
 
 When Rek is active:
 
-* Stay ranged to avoid Whirlwind.
+* Stay ranged to avoid {{ site.data.mythic_plus.whirlwind }}.
 
 When Advent Nevermore is active:
 
-* Position yourself close to move quickly and maintain damage uptime during Unbreakable Guard.
+* Position yourself close to move quickly and maintain damage uptime during {{ site.data.mythic_plus.unbreakable_guard }}.
 
 **Ancient Captain**
 
-* Interrupt Demoralizing Shout.
+* Interrupt {{ site.data.mythic_plus.demoralizing_shout }}.
 
 **Shambling Arbalest**
 
-* Jagged Quarrel is dangerous when Fortified, and these are the most lethal mobs in the packs they're in. Use {{ site.data.spell.astral_shift }} as needed if targeted by Jagged Quarrel.
+* {{ site.data.mythic_plus.jagged_quarrel }} is dangerous when Fortified, and these are the most lethal mobs in the packs they're in. Use {{ site.data.spell.astral_shift }} as needed if targeted by {{ site.data.mythic_plus.jagged_quarrel }}.
 
 ## Xav the Unfallen
 
-* Xav always does Seismic Leap prior to Might of Maldraxxus, which will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
-* As you may not be pulled down for Blood and Glory, consider refreshing {{ site.data.spell.flame_shock }} early to ensure the boss has {{ site.data.spell.flame_shock }} uptime before an Oppressive Banner spawns.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed when dodging the mechanics from Might of Maldraxxus (Crushing Slam, Massive Cleave, Deafening Crash). Don't be caught casting when Xav is casting Deafening Crash; the interrupt effect still applies even when you are out of the circle.
+* Xav always does Seismic {{ site.data.mythic_plus.leap }} prior to Might of Maldraxxus, which will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
+* As you may not be pulled down for Blood and Glory, consider refreshing {{ site.data.spell.flame_shock }} early to ensure the boss has {{ site.data.spell.flame_shock }} uptime before an {{ site.data.mythic_plus.oppressive_banner }} spawns.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed when dodging the mechanics from Might of Maldraxxus (Crushing {{ site.data.mythic_plus.slam }}, {{ site.data.mythic_plus.massive_cleave }}, {{ site.data.mythic_plus.deafening_crash }}). Don't be caught casting when Xav is casting {{ site.data.mythic_plus.deafening_crash }}; the interrupt effect still applies even when you are out of the circle.
 
 ---
 
 **Portal Guardian**
 
-* Soulstorm is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
-* Dispel Shadow Vulnerability with {{ site.data.spell.cleanse_spirit }}. If this is not dispelled, players will take increased damage from Soulstorm.
+* {{ site.data.mythic_plus.soulstorm }} is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
+* Dispel {{ site.data.mythic_plus.shadow_vulnerability }} with {{ site.data.spell.cleanse_spirit }}. If this is not dispelled, players will take increased damage from {{ site.data.mythic_plus.soulstorm }}.
 
 **Maniacal Soulbinder**
 
-* Rotate interrupts between Necrotic Bolt Volley and Necrotic Bolt.
+* Rotate interrupts between {{ site.data.mythic_plus.necrotic_bolt }} Volley and {{ site.data.mythic_plus.necrotic_bolt }}.
 
 **Bone Magus**
 
-* Rotate interrupts between Bone Spear and Grave Spike.
-* {{ site.data.spell.purge }} Bone Shield.
+* Rotate interrupts between {{ site.data.mythic_plus.bone_spear }} and {{ site.data.mythic_plus.grave_spike }}.
+* {{ site.data.spell.purge }} {{ site.data.mythic_plus.bone_shield }}.
 
 **Nefarious Darkspeaker**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Death Winds.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.death_winds }}.
 * Dispel Curse of Desolation with {{ site.data.spell.cleanse_spirit }}. If any players are caught by the Fear, use {{ site.data.spell.tremor_totem }}.
-* Interrupt Spirit Frost.
+* Interrupt {{ site.data.mythic_plus.spirit_frost }}.
 
 ## Kul'tharok
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to maneuver Draw Soul. Position yourself on the Grasping Hands so your Soul is rooted in it to catch it quickly.
-* Use {{ site.data.spell.astral_shift }} as needed when you are Soulless or you have the Phantasmal Parasite debuff.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to maneuver {{ site.data.mythic_plus.draw_soul }}. Position yourself on the {{ site.data.mythic_plus.grasping_hands }} so your Soul is rooted in it to catch it quickly.
+* Use {{ site.data.spell.astral_shift }} as needed when you are Soulless or you have the {{ site.data.mythic_plus.phantasmal_parasite }} debuff.
 
 ---
 
 ## Mordretha, the Endlesss Empress
 
-* Stay near the boss in anticipation for Dark Devastation to quickly avoid it.
+* Stay near the boss in anticipation for {{ site.data.mythic_plus.dark_devastation }} to quickly avoid it.
 * Consider holding Stormkeeper for Deathwalkers if necessary. Use {{ site.data.spell.capacitor_totem }} as needed when they are grouped up.
-* Grasping Rift and Manifest Death often overlap. Use {{ site.data.spell.spiritwalkers_grace }} for this combo as needed.
+* {{ site.data.mythic_plus.grasping_rift }} and {{ site.data.mythic_plus.manifest_death }} often overlap. Use {{ site.data.spell.spiritwalkers_grace }} for this combo as needed.
 * When the boss is at 50% health, she will begin casting Echos of Carnage. This ability will passively be your highest source of damage taken (even when dodging the ghost animations), so use {{ site.data.spell.astral_shift }} at this point as needed.
 
 
