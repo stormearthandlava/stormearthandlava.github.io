@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Covenant
-last_update: 2020-11-23 09:00:00
+last_update: 2020-12-08 09:00:00
 game_version: 9.0.2 Shadowlands
 toc: true
 ---
