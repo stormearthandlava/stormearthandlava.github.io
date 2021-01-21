@@ -700,7 +700,7 @@ When Millificent is active:
 * Maintain {{ site.data.spell.flame_shock }} on each boss.
 * Determine if you can cast {{ site.data.spell.cl }} and {{ site.data.spell.eq }} when the bosses are stacked together, or if a particular boss needs to be focused down.
 * Rotate interrupts for Sathel the Accursed's {{ site.data.mythic_plus.searing_death }} and {{ site.data.mythic_plus.necromantic_bolt }}, as well as for Paceran's {{ site.data.mythic_plus.plague_bolt }}.
-* {{ site.data.spell.purge }} {{ site.data.mythic_plus.spectral }} Transference.
+* {{ site.data.spell.purge }} {{ site.data.mythic_plus.spectral_transference }}.
 * Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.searing_death }} or any spells targeted at you.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed if fixated by Dessia.
 * Xira the Underhanded can be {{ site.data.spell.hex }}ed to effectively remove her from the encounter. However, if you are stunned by Xira the Underhanded's {{ site.data.mythic_plus.opportunity_strikes }}, you can {{ site.data.spell.thunderstorm }} to break out if needed.
@@ -710,7 +710,7 @@ When Millificent is active:
 **Blighted Sludge-Spewer**
 
 * Rotate interrupts between {{ site.data.mythic_plus.withering_discharge }} and {{ site.data.mythic_plus.decaying_filth }}.
-* These mobs will leap at ranged players with {{ site.data.mythic_plus.leap }}ing {{ site.data.mythic_plus.thrash }}. Position yourself close so tank and melee players don't have to chase far.
+* These mobs will leap at ranged players with {{ site.data.mythic_plus.leaping_thrash }}. Position yourself close so tank and melee players don't have to chase far.
 
 **Disgusting Refuse**
 
@@ -727,7 +727,7 @@ When Millificent is active:
 ## Gorechop
 
 * Maintain {{ site.data.spell.flame_shock }} on the boss and Oozing Leftovers.
-* {{ site.data.mythic_plus.tenderizing_smash }} and {{ site.data.mythic_plus.meat_hook }} often overlap, but you will not be caught by {{ site.data.mythic_plus.tenderizing_smash }} if you are in melee range of the boss. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.meat_hook }}s.
+* {{ site.data.mythic_plus.tenderizing_smash }} and {{ site.data.mythic_plus.meat_hook }} often overlap, but you will not be caught by {{ site.data.mythic_plus.tenderizing_smash }} if you are in melee range of the boss. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.meat_hook }}.
 * {{ site.data.mythic_plus.leaping_thrash }} from Oozing Leftovers will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed when they spawn.
 
 ---
@@ -738,7 +738,7 @@ Only one of these duelists will be active in a run.
 
 When Dokigg is active:
 
-* Brutal {{ site.data.mythic_plus.leap }} will target a ranged player. Position yourself close so tank and melee players don't have to chase far.
+* {{ site.data.mythic_plus.brutal_leap }} will target a ranged player. Position yourself close so tank and melee players don't have to chase far.
 * Interrupt {{ site.data.mythic_plus.battle_trance }}.
 
 When Nekthara is active:
@@ -795,7 +795,7 @@ When Advent Nevermore is active:
 
 **Maniacal Soulbinder**
 
-* Rotate interrupts between {{ site.data.mythic_plus.necrotic_bolt }} Volley and {{ site.data.mythic_plus.necrotic_bolt }}.
+* Rotate interrupts between {{ site.data.mythic_plus.necrotic_bolt_volley }} and {{ site.data.mythic_plus.necrotic_bolt }}.
 
 **Bone Magus**
 
