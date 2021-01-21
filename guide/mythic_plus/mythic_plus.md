@@ -51,28 +51,28 @@ In coordinated and varied group compositions, you may consider {{ site.data.tale
 
 **Level 4:**
 
-* Bolstering: Damage trash packs down as evenly as you can. Swap to priority damage rotation for any lethal mobs or if mob health within trash packs are uneven.
-* Bursting: Support your party members and use your healing abilities to mitigate the Bursting debuff. Use {{ site.data.spell.astral_shift }} as needed if stacks are high.
-* Inspiring: Crowd control mobs with Inspiring Presence with {{ site.data.spell.hex }} as needed and when possible.
-* Raging: Be ready to use your kiting toolkit to support your tank when needed. Consider using {{ site.data.spell.capacitor_totem }} and {{ site.data.talent.stormkeeper }} to finish Raging mobs more safely and quickly.
-* Sanguine: Damage trash packs down as evenly as you can to lessen time spent in Sanguine, but be sure to not slow or stun mobs dying unevenly. Use {{ site.data.spell.thunderstorm }} as needed to knock mobs out of Sanguine.
-* Spiteful: As mobs are dying, be ready to use your kiting toolkit to support your melee players. Consider taking advantage of Spiteful mobs as additional {{ site.data.spell.chain_lightning }} or {{ site.data.spell.flame_shock }} targets.
+* [Bolstering](https://shadowlands.wowhead.com/affix=7/bolstering): Damage trash packs down as evenly as you can. Swap to priority damage rotation for any lethal mobs or if mob health within trash packs are uneven.
+* [Bursting](https://shadowlands.wowhead.com/affix=11/bursting): Support your party members and use your healing abilities to mitigate the [Bursting](https://shadowlands.wowhead.com/affix=11/bursting) debuff. Use {{ site.data.spell.astral_shift }} as needed if stacks are high.
+* [Inspiring](https://shadowlands.wowhead.com/affix=122/inspiring): Crowd control mobs with [Inspiring Presence](https://shadowlands.wowhead.com/spell=343502/inspiring-presence) with {{ site.data.spell.hex }} as needed and when possible.
+* [Raging](https://shadowlands.wowhead.com/affix=6/raging): Be ready to use your kiting toolkit to support your tank when needed. Consider using {{ site.data.spell.capacitor_totem }} and {{ site.data.talent.stormkeeper }} to finish [Raging](https://shadowlands.wowhead.com/affix=6/raging) mobs more safely and quickly.
+* [Sanguine](https://shadowlands.wowhead.com/affix=8/sanguine): Damage trash packs down as evenly as you can to lessen time spent in Sanguine, but be sure to not slow or stun mobs dying unevenly. Use {{ site.data.spell.thunderstorm }} as needed to knock mobs out of [Sanguine](https://shadowlands.wowhead.com/affix=8/sanguine).
+* [Spiteful](https://shadowlands.wowhead.com/affix=123/spiteful): As mobs are dying, be ready to use your kiting toolkit to support your melee players. Consider taking advantage of [Spiteful Shade](https://shadowlands.wowhead.com/npc=174773/spiteful-shade) as additional {{ site.data.spell.chain_lightning }} or {{ site.data.spell.flame_shock }} targets.
 
 **Level 7:**
 
-* Explosive: Explosive orbs can be destroyed in a single {{ site.data.spell.frost_shock }} global. This will be your most efficient tool to deal with them as your other abilities are more valuable for trash.
-* Grievous: Remember that direct heals remove one stack of Grievous Wound. Support your party members with {{ site.data.spell.healing_surge }} and {{ site.data.spell.chain_heal }} as needed.
-* Necrotic: Be ready to use your kiting toolkit to support your tank when needed. {{ site.data.spell.earth_elemental }} is also helpful to help your tank control Necrotic stacks.
-* Quaking: Maintain your distance from party members, and be mindful about canceling casts if Quaking overlaps with {{ site.data.spell.spiritwalkers_grace }}.
-* Storming: Maintain your distance from mobs to avoid Storming. Use {{ site.data.spell.spiritwalkers_grace }} as needed in tight spaces or when maneuvering any mechanics.
-* Volcanic: Watch your feet. Use {{ site.data.spell.spiritwalkers_grace }} as needed to maintain your damage uptime while avoiding Volcanic plumes.
+* [Explosive](https://shadowlands.wowhead.com/affix=13/explosive): [Explosive](https://shadowlands.wowhead.com/affix=13/explosive) orbs can be destroyed in a single {{ site.data.spell.frost_shock }} global. This will be your most efficient tool to deal with them as your other abilities are more valuable for trash.
+* [Grievous](https://shadowlands.wowhead.com/affix=12/grievous): Remember that direct heals remove one stack of [Grievous Wound](https://shadowlands.wowhead.com/spell=240559/grievous-wound). Support your party members with {{ site.data.spell.healing_surge }} and {{ site.data.spell.chain_heal }} as needed.
+* [Necrotic](https://shadowlands.wowhead.com/affix=4/necrotic): Be ready to use your kiting toolkit to support your tank when needed. {{ site.data.spell.earth_elemental }} is also helpful to help your tank control [Necrotic Wound](https://shadowlands.wowhead.com/spell=209858/necrotic-wound) stacks.
+* [Quaking](https://shadowlands.wowhead.com/affix=14/quaking): Maintain your distance from party members, and be mindful about canceling casts if [Quake](https://shadowlands.wowhead.com/spell=240447/quake) overlaps with {{ site.data.spell.spiritwalkers_grace }}.
+* [Storming](https://shadowlands.wowhead.com/affix=124/storming): Maintain your distance from mobs to avoid [Storming](https://shadowlands.wowhead.com/affix=124/storming). Use {{ site.data.spell.spiritwalkers_grace }} as needed in tight spaces or when maneuvering any mechanics.
+* [Volcanic](https://shadowlands.wowhead.com/affix=3/volcanic): Watch your feet. Use {{ site.data.spell.spiritwalkers_grace }} as needed to maintain your damage uptime while avoiding [Volcanic](https://shadowlands.wowhead.com/affix=3/volcanic) plumes.
 
 **Seasonal Affix:**
 
-* Prideful: It is best to have Prideful before bosses or challenging trash packs, but keep in mind that Bursting With Pride will make up a large source of your damage taken. Plan your damage and defensive cooldowns accordingly, either for the Manifestation of Pride itself or for the pull afterwards, and use healing abilities as needed when fighting the Manifestation of Pride.
+* [Prideful](https://www.wowhead.com/affix=121/prideful): [Prideful](https://shadowlands.wowhead.com/spell=340880/prideful) is best used before bosses or challenging trash packs, but keep in mind that [Bursting With Pride](https://shadowlands.wowhead.com/spell=342332/bursting-with-pride) will make up a large source of your damage taken. Plan your damage and defensive cooldowns accordingly, either for the Manifestation of Pride itself or for the pull afterwards, and use healing abilities as needed when fighting the Manifestation of Pride.
 
 # Dungeons
-<p style="color:red">Click on a boss banner to expand it.</p>
+<p style="color:red">Click on a dungeon banner to expand it.</p>
 
 <hr>
 <div class="dungeon-accordion">
@@ -84,10 +84,10 @@ In coordinated and varied group compositions, you may consider {{ site.data.tale
         <div id="dos-collapse" class="collapse" aria-labelledby="dos" data-parent="#accordion">
           <div class="card-body" markdown="1">  
 
-**{{ site.data.mythic_plus.enraged }} Spirit**
+**Enraged Spirit**
 
 * {{ site.data.mythic_plus.rage }} is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
-* {{ site.data.mythic_plus.enraged }} Mask can be despawned with crowd control, so utilize {{ site.data.spell.capacitor_totem }} when they appear.
+* {{ site.data.mythic_plus.enraged_mask }} can be despawned with crowd control, so utilize {{ site.data.spell.capacitor_totem }} when they appear.
 
 **Risen Cultist**
 
@@ -182,11 +182,9 @@ When Millificent is active:
 
 ## Mueh'zala
 
-* Hold your cooldowns for the {{ site.data.mythic_plus.shatter }}ed Visage add from {{ site.data.mythic_plus.shatter_reality }}.
+* Hold your cooldowns for the Shattered Visage add from {{ site.data.mythic_plus.shatter_reality }}.
 * The DoT from {{ site.data.mythic_plus.cosmic_artifice }} will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Master of Death.
-
----
 
 </div>
 </div>
@@ -194,12 +192,10 @@ When Millificent is active:
 
 <div class="card">
 <div class="card-header" id="hoa">
-<div data-toggle="collapse" data-target="#hoa-collapse" aria-expanded="true" aria-controls="hoa-collapse" class="dungeon-header hoa"><h2>Halls Of Atonement</h2></div>
+<div data-toggle="collapse" data-target="#hoa-collapse" aria-expanded="true" aria-controls="hoa-collapse" class="dungeon-header hoa"><h2>Halls of Atonement</h2></div>
 </div>
 <div id="hoa-collapse" class="collapse" aria-labelledby="hoa" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
-
-# Halls of Atonement
 
 **Depraved Houndmaster**
 
@@ -220,19 +216,19 @@ When Millificent is active:
 ## Halkias, the Sin-Stained Goliath
 
 * Use {{ site.data.spell.spiritwalkers_grace }} during {{ site.data.mythic_plus.refracted_sinlight }}.
-* If any party members are outside the Light of Atonement aura and Feared by {{ site.data.mythic_plus.sinlight_visions }}, use {{ site.data.spell.tremor_totem }}.
+* If any party members are outside the {{ site.data.mythic_plus.light_of_atonement }} aura and Feared by {{ site.data.mythic_plus.sinlight_visions }}, use {{ site.data.spell.tremor_totem }}.
 
 ---
 
-**Stoneborn {{ site.data.mythic_plus.reaver }}**
+**Stoneborn Reaver**
 
 * Interrupt {{ site.data.mythic_plus.turn_to_stone}}. If a cast goes off, {{ site.data.spell.purge }} it.
 
 ## Echelon
 
-* Hold Stormkeeper for the Undying Stonefiend add spawn. Undying Stonefiends will not begin casting until they are hit with damage, so wait for them to congregate around the boss before engaging. Interrupt their Villanous Bolt cast, and use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.thunderstorm }} as needed to control them.
-* Keep some distance from the Undying Stonefiends due to Volatile Transformation.
-* Curse of Stone can be dispelled with {{ site.data.spell.cleanse_spirit }}. Prioritize dispelling party members targeted by {{ site.data.mythic_plus.stone_shattering_leap }} or any other party members at risk, and dispelled players will be able to avoid damage if they run away quickly. Othrewise, use {{ site.data.spell.astral_shift }} for {{ site.data.mythic_plus.stone_shattering_leap }} and {{ site.data.mythic_plus.shatter }}ed as needed.
+* Hold Stormkeeper for the Undying Stonefiend add spawn. Undying Stonefiends will not begin casting until they are hit with damage, so wait for them to congregate around the boss before engaging. Interrupt their {{ site.data.mythic_plus.villainous_bolt }} cast, and use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.thunderstorm }} as needed to control them.
+* Keep some distance from the Undying Stonefiends due to {{ site.data.mythic_plus.volatile_transformation }}.
+* {{ site.data.mythic_plus.curse_of_stone }} can be dispelled with {{ site.data.spell.cleanse_spirit }}. Prioritize dispelling party members targeted by {{ site.data.mythic_plus.stone_shattering_leap }} or any other party members at risk, and dispelled players will be able to avoid damage if they run away quickly. Othrewise, use {{ site.data.spell.astral_shift }} for {{ site.data.mythic_plus.stone_shattering_leap }} and {{ site.data.mythic_plus.shattered }} as needed.
 
 ---
 
@@ -240,7 +236,7 @@ When Millificent is active:
 
 * Rotate interrupts between {{ site.data.mythic_plus.volley_of_power}} and {{ site.data.mythic_plus.bolt_of_power}}.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.anima_fountain }}.
-* Use {{ site.data.spell.astral_shift }} as needed for Pulse from Beyond from Ghastly Parishioner.
+* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.pulse_from_beyond }} from Ghastly Parishioner.
 
 ---
 
@@ -851,7 +847,7 @@ When Advent Nevermore is active:
 # Useful WeakAuras
 
 * [Shadowlands Dungeons Pack](https://wago.io/SL-Dungeons)
-* [Shadowlands Dungeons {{ site.data.spell.purge }}able Buffs](https://wago.io/r2QBcOnlT)
+* [Shadowlands Dungeons Purgeable Buffs](https://wago.io/r2QBcOnlT)
 * [Mythic+ Auto Marker](https://wago.io/1ctv3b91K)
 * [Mythic+ Timer](https://wago.io/M+Timer)
 
