@@ -668,7 +668,7 @@ When Millificent is active:
 ## Surgeon Stitchflesh
 
 * Hold cooldowns for when Surgeon Stitchflesh is active.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to target {{ site.data.mythic_plus.meat_hook }}s at the boss or to kite away from the boss's {{ site.data.mythic_plus.morbid_fixation }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to target {{ site.data.mythic_plus.meat_hook }} at the boss or to kite away from the boss's {{ site.data.mythic_plus.morbid_fixation }}.
 * Use {{ site.data.spell.astral_shift }} as needed for Stitchneedle.
 
 ---
@@ -705,7 +705,7 @@ When Millificent is active:
 * {{ site.data.spell.purge }} {{ site.data.mythic_plus.spectral_transference }}.
 * Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.searing_death }} or any spells targeted at you.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed if fixated by Dessia.
-* Xira the Underhanded can be {{ site.data.spell.hex }}ed to effectively remove her from the encounter. However, if you are stunned by Xira the Underhanded's {{ site.data.mythic_plus.opportunity_strikes }}, you can {{ site.data.spell.thunderstorm }} to break out if needed.
+* Xira the Underhanded can be {{ site.data.spell.hex }}ed to effectively remove her from the encounter. However, Xira the Underhanded stuns you with {{ site.data.mythic_plus.opportunity_strikes }}, you can {{ site.data.spell.thunderstorm }} to break out if needed.
 
 ---
 
@@ -817,7 +817,7 @@ When Advent Nevermore is active:
 
 ---
 
-## Mordretha, the Endlesss Empress
+## Mordretha, the Endless Empress
 
 * Stay near the boss in anticipation for {{ site.data.mythic_plus.dark_devastation }} to quickly avoid it.
 * Consider holding Stormkeeper for Deathwalkers if necessary. Use {{ site.data.spell.capacitor_totem }} as needed when they are grouped up.
