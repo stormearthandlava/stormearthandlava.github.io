@@ -729,7 +729,7 @@ When Millificent is active:
 ## Gorechop
 
 * Maintain {{ site.data.spell.flame_shock }} on the boss and Oozing Leftovers.
-* {{ site.data.mythic_plus.tenderizing_smash }} and {{ site.data.mythic_plus.meat_hook }} often overlap, but you will not be caught by {{ site.data.mythic_plus.tenderizing_smash }} if you are in melee range of the boss. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.meat_hook }}.
+* {{ site.data.mythic_plus.tenderizing_smash }} and {{ site.data.mythic_plus.meat_hooks }} often overlap, but you will not be caught by {{ site.data.mythic_plus.tenderizing_smash }} if you are in melee range of the boss. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.meat_hooks }}.
 * {{ site.data.mythic_plus.leaping_thrash }} from Oozing Leftovers will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed when they spawn.
 
 ---
