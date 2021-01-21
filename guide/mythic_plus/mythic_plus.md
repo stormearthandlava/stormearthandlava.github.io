@@ -79,7 +79,7 @@ In coordinated and varied group compositions, you may consider {{ site.data.tale
   <div id="accordion">
     <div class="card">
         <div class="card-header" id="dos">
-            <div data-toggle="collapse" data-target="#dos-collapse" aria-expanded="true" aria-controls="dos-collapse" class="mplus-header mplus"><h2>De Other Side</h2></div>
+            <div data-toggle="collapse" data-target="#dos-collapse" aria-expanded="true" aria-controls="dos-collapse" class="dungeon-header dos"><h2>De Other Side</h2></div>
         </div>
         <div id="dos-collapse" class="collapse" aria-labelledby="dos" data-parent="#accordion">
           <div class="card-body" markdown="1">  
@@ -194,7 +194,7 @@ When Millificent is active:
 
 <div class="card">
 <div class="card-header" id="hoa">
-<div data-toggle="collapse" data-target="#hoa-collapse" aria-expanded="true" aria-controls="hoa-collapse" class="mplus-header mplus"><h2>Halls Of Atonement</h2></div>
+<div data-toggle="collapse" data-target="#hoa-collapse" aria-expanded="true" aria-controls="hoa-collapse" class="dungeon-header hoa"><h2>Halls Of Atonement</h2></div>
 </div>
 <div id="hoa-collapse" class="collapse" aria-labelledby="hoa" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
@@ -259,7 +259,7 @@ When Millificent is active:
 
 <div class="card">
 <div class="card-header" id="mots">
-<div data-toggle="collapse" data-target="#mots-collapse" aria-expanded="true" aria-controls="mots-collapse" class="mplus-header mplus"><h2>Mists Of Tirna Scithe</h2></div>
+<div data-toggle="collapse" data-target="#mots-collapse" aria-expanded="true" aria-controls="mots-collapse" class="dungeon-header mots"><h2>Mists Of Tirna Scithe</h2></div>
 </div>
 <div id="mots-collapse" class="collapse" aria-labelledby="mots" data-parent="#accordion">
 <div class="card-body" markdown="1">
@@ -330,7 +330,7 @@ When Millificent is active:
 
 <div class="card">
 <div class="card-header" id="nw">
-<div data-toggle="collapse" data-target="#nw-collapse" aria-expanded="true" aria-controls="nw-collapse" class="mplus-header mplus"><h2>Necrotic Wake</h2></div>
+<div data-toggle="collapse" data-target="#nw-collapse" aria-expanded="true" aria-controls="nw-collapse" class="dungeon-header nw"><h2>Necrotic Wake</h2></div>
 </div>
 <div id="nw-collapse" class="collapse" aria-labelledby="nw" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
@@ -436,7 +436,7 @@ When Millificent is active:
 
 <div class="card">
 <div class="card-header" id="pf">
-<div data-toggle="collapse" data-target="#pf-collapse" aria-expanded="true" aria-controls="pf-collapse" class="mplus-header mplus"><h2>Plaguefall</h2></div>
+<div data-toggle="collapse" data-target="#pf-collapse" aria-expanded="true" aria-controls="pf-collapse" class="dungeon-header pf"><h2>Plaguefall</h2></div>
 </div>
 <div id="pf-collapse" class="collapse" aria-labelledby="pf" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
@@ -542,7 +542,7 @@ When Millificent is active:
 
 <div class="card">
 <div class="card-header" id="sd">
-<div data-toggle="collapse" data-target="#sd-collapse" aria-expanded="true" aria-controls="sd-collapse" class="mplus-header mplus"><h2>Sanguine Depths</h2></div>
+<div data-toggle="collapse" data-target="#sd-collapse" aria-expanded="true" aria-controls="sd-collapse" class="dungeon-header sd"><h2>Sanguine Depths</h2></div>
 </div>
 <div id="sd-collapse" class="collapse" aria-labelledby="sd" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
@@ -619,7 +619,7 @@ When Millificent is active:
 
 <div class="card">
 <div class="card-header" id="soa">
-<div data-toggle="collapse" data-target="#soa-collapse" aria-expanded="true" aria-controls="soa-collapse" class="mplus-header mplus"><h2>Spires Of Ascension</h2></div>
+<div data-toggle="collapse" data-target="#soa-collapse" aria-expanded="true" aria-controls="soa-collapse" class="dungeon-header soa"><h2>Spires Of Ascension</h2></div>
 </div>
 <div id="soa-collapse" class="collapse" aria-labelledby="soa" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
@@ -700,7 +700,7 @@ When Millificent is active:
 
 <div class="card">
 <div class="card-header" id="top">
-<div data-toggle="collapse" data-target="#top-collapse" aria-expanded="true" aria-controls="top-collapse" class="mplus-header mplus"><h2>Theatre Of Pain</h2></div>
+<div data-toggle="collapse" data-target="#top-collapse" aria-expanded="true" aria-controls="top-collapse" class="dungeon-header top"><h2>Theatre Of Pain</h2></div>
 </div>
 <div id="top-collapse" class="collapse" aria-labelledby="top" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
