@@ -69,7 +69,7 @@ In coordinated and varied group compositions, you may consider {{ site.data.tale
 
 **Seasonal Affix:**
 
-* [Prideful](https://www.wowhead.com/affix=121/prideful): [Prideful](https://shadowlands.wowhead.com/spell=340880/prideful) is best used before bosses or challenging trash packs, but keep in mind that [Bursting With Pride](https://shadowlands.wowhead.com/spell=342332/bursting-with-pride) will make up a large source of your damage taken. Plan your damage and defensive cooldowns accordingly, either for the Manifestation of Pride itself or for the pull afterwards, and use healing abilities as needed when fighting the Manifestation of Pride.
+* [Prideful](https://shadowlands.wowhead.com/affix=121/prideful): [Prideful](https://shadowlands.wowhead.com/spell=340880/prideful) is best used before bosses or challenging trash packs, but keep in mind that [Bursting With Pride](https://shadowlands.wowhead.com/spell=342332/bursting-with-pride) will make up a large source of your damage taken. Plan your damage and defensive cooldowns accordingly, either for the Manifestation of Pride itself or for the pull afterwards, and use healing abilities as needed when fighting the Manifestation of Pride.
 
 # Dungeons
 <p style="color:red">Click on a dungeon banner to expand it.</p>
