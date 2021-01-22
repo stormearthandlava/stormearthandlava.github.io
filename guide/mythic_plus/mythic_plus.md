@@ -282,7 +282,7 @@ When Millificent is active:
 
 * Maintain {{ site.data.spell.flame_shock }} on both Ingra Maloch and Droman Oulfarran.
 * Hold your cooldowns for when Ingra is vulnerable with {{ site.data.mythic_plus.dromans_wrath }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.tears_of_the_forest }}
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.tears_of_the_forest }}.
 * Use {{ site.data.spell.astral_shift }} for {{ site.data.mythic_plus.death_shroud }} as needed.
 * Stay alert for Ingra's {{ site.data.mythic_plus.repulsive_visage }}. This is a 3 second cast that will Fear all players around him and cannot be interrupted, so pre-cast {{ site.data.spell.tremor_totem }}.
 
@@ -669,7 +669,7 @@ When Millificent is active:
 
 * Hold cooldowns for when Surgeon Stitchflesh is active.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to target {{ site.data.mythic_plus.meat_hook }} at the boss or to kite away from the boss's {{ site.data.mythic_plus.morbid_fixation }}.
-* Use {{ site.data.spell.astral_shift }} as needed for Stitchneedle.
+* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.stitchneedle }}.
 
 ---
 
