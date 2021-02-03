@@ -705,7 +705,7 @@ When Millificent is active:
 * {{ site.data.spell.purge }} {{ site.data.mythic_plus.spectral_transference }}.
 * Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.searing_death }} or any spells targeted at you.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed if fixated by Dessia.
-* Xira the Underhanded can be {{ site.data.spell.hex }}ed to effectively remove her from the encounter. However, Xira the Underhanded stuns you with {{ site.data.mythic_plus.opportunity_strikes }}, you can {{ site.data.spell.thunderstorm }} to break out if needed.
+* Xira the Underhanded can be {{ site.data.spell.hex }}ed to effectively remove her from the encounter. However, if Xira the Underhanded stuns you with {{ site.data.mythic_plus.opportunity_strikes }}, you can {{ site.data.spell.thunderstorm }} to break out if needed.
 
 ---
 
