@@ -755,6 +755,7 @@ Only one of these duelists will be active in a run.
 When Harugia is active:
 
 * {{ site.data.mythic_plus.bloodthirsty_charge }} will target a ranged player. Make sure you are spread out and able to avoid it.
+* Avoid {{ site.data.mythic_plus.ricocheting_blade }} through line-of-sight when possible.
 * Interrupt {{ site.data.mythic_plus.battle_trance }}.
 
 When Heavin is active:
@@ -773,6 +774,7 @@ When Rek is active:
 When Advent Nevermore is active:
 
 * Position yourself close to move quickly and maintain damage uptime during {{ site.data.mythic_plus.unbreakable_guard }}.
+* Avoid {{ site.data.mythic_plus.ricocheting_blade }} through line-of-sight when possible.
 
 **Ancient Captain**
 
@@ -822,6 +824,7 @@ When Advent Nevermore is active:
 * Stay near the boss in anticipation for {{ site.data.mythic_plus.dark_devastation }} to quickly avoid it.
 * Consider holding Stormkeeper for Deathwalkers if necessary. Use {{ site.data.spell.capacitor_totem }} as needed when they are grouped up.
 * {{ site.data.mythic_plus.grasping_rift }} and {{ site.data.mythic_plus.manifest_death }} often overlap. Use {{ site.data.spell.spiritwalkers_grace }} for this combo as needed.
+* If any party members fail to run away from {{ site.data.mythic_plus.grasping_rift }}, dispel {{ site.data.mythic_plus.death_grasp }} with {{ site.data.spell.cleanse_spirit }}.
 * When the boss is at 50% health, she will begin casting {{ site.data.mythic_plus.echos_of_carnage }}. This ability will passively be your highest source of damage taken (even when dodging the ghost animations), so use {{ site.data.spell.astral_shift }} at this point as needed.
 
 </div>
