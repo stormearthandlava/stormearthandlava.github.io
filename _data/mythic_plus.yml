@@ -353,7 +353,7 @@ tear: <a href="http://shadowlands.wowhead.com/spell=327770" target="blank">Tear<
 claw: <a href="http://shadowlands.wowhead.com/spell=321264" target="blank">Claw</a>
 unified_front: <a href="http://shadowlands.wowhead.com/spell=334753" target="blank">Unified Front</a>
 pierce: <a href="http://shadowlands.wowhead.com/spell=326718" target="blank">Pierce</a>
-dark_bolt: <a href="http://shadowlands.wowhead.com/spell=326712" target="blank">Dark Bolt</a>
+dark_bolt_sd: <a href="http://shadowlands.wowhead.com/spell=326712" target="blank">Dark Bolt</a>
 essence_absorption: <a href="http://shadowlands.wowhead.com/spell=330468/essence-absorption" target="blank">Essence Absorption</a>
 
 ## Spires of Ascension
@@ -432,6 +432,7 @@ diminuendo: <a href="http://shadowlands.wowhead.com/spell=328458" target="blank"
 anima_surge: <a href="http://shadowlands.wowhead.com/spell=331997/anima-surge" target="blank">Anima Surge</a>
 archons_bastion: <a href="http://shadowlands.wowhead.com/spell=335806/archons-bastion" target="blank">Archon's Bastion</a>
 raw_anima: <a href="http://shadowlands.wowhead.com/spell=330683/raw-anima" target="blank">Anima Orb</a>
+dark_bolt_soa: <a href="https://shadowlands.wowhead.com/spell=324141/dark-bolt" target="blank">Dark Bolt</a>
 
 ## Theater of Pain
 
