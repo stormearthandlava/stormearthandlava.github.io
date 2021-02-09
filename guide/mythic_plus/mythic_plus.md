@@ -454,7 +454,7 @@ When Millificent is active:
 
 **Dark Acolyte**
 
-* Interrupt {{ site.data.mythic_plus.dark_bolt }}.
+* Interrupt {{ site.data.mythic_plus.dark_bolt_sd }}.
 
 **Grand Overseer**
 
@@ -547,8 +547,8 @@ When Millificent is active:
 
 ## Ventunax
 
-* {{ site.data.mythic_plus.dark_stride }} will be the highest source of damage taken, assuming you are avoiding {{ site.data.mythic_plus.dark_bolt }}. Use {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} to avoid {{ site.data.mythic_plus.dark_bolt }} from {{ site.data.mythic_plus.shadowhirl }}. {{ site.data.mythic_plus.shadowhirl }} will always fire out {{ site.data.mythic_plus.dark_bolt }} counterclockwise until Ventunax casts {{ site.data.mythic_plus.recharge }}, which will trigger all {{ site.data.mythic_plus.shadowhirl }}s to fire 9 {{ site.data.mythic_plus.dark_bolt }} at the same time.
+* {{ site.data.mythic_plus.dark_stride }} will be the highest source of damage taken, assuming you are avoiding {{ site.data.mythic_plus.dark_bolt_soa }}. Use {{ site.data.spell.astral_shift }} as needed.
+* Use {{ site.data.spell.spiritwalkers_grace }} to avoid {{ site.data.mythic_plus.dark_bolt_soa }} from {{ site.data.mythic_plus.shadowhirl }}. {{ site.data.mythic_plus.shadowhirl }} will always fire out {{ site.data.mythic_plus.dark_bolt_soa }} counterclockwise until Ventunax casts {{ site.data.mythic_plus.recharge }}, which will trigger all {{ site.data.mythic_plus.shadowhirl }}s to fire 9 {{ site.data.mythic_plus.dark_bolt_soa }} at the same time.
 
 ---
 
