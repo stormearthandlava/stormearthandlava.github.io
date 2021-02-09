@@ -573,7 +573,7 @@ When Millificent is active:
 
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to position the pool of {{ site.data.mythic_plus.lingering_doubt }} from {{ site.data.mythic_plus.lost_confidence }} or to stand in {{ site.data.mythic_plus.archons_bastion }}.
 * {{ site.data.mythic_plus.lingering_doubt }} will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }} as needed during Phase 2 when transporting {{ site.data.mythic_plus.raw_anima }}.
-* If using {{ site.data.legendary.eogs }}, be mindful of {{ site.data.mythic_plus.run_through }} to when placing {{ site.data.spell.eq }}.
+* If using {{ site.data.legendary.eogs }}, be mindful of {{ site.data.mythic_plus.run_through }} when placing {{ site.data.spell.eq }}.
 
 </div>
 </div>
