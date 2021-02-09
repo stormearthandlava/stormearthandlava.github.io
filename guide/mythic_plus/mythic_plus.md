@@ -231,7 +231,7 @@ When Millificent is active:
 
 ## Echelon
 
-* Hold Stormkeeper for the Undying Stonefiend add spawn. Undying Stonefiends will not begin casting until they are hit with damage, so wait for them to congregate around the boss before engaging. Interrupt their {{ site.data.mythic_plus.villainous_bolt }} cast, and use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.thunderstorm }} as needed to control them.
+* Hold {{ site.data.talent.stormkeeper }} for the Undying Stonefiend add spawn. Undying Stonefiends will not begin casting until they are hit with damage, so wait for them to congregate around the boss before engaging. Interrupt their {{ site.data.mythic_plus.villainous_bolt }} cast, and use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.thunderstorm }} as needed to control them.
 * Keep some distance from the Undying Stonefiends due to {{ site.data.mythic_plus.volatile_transformation }}.
 * {{ site.data.mythic_plus.curse_of_stone }} can be dispelled with {{ site.data.spell.cleanse_spirit }}. Prioritize dispelling party members targeted by {{ site.data.mythic_plus.stone_shattering_leap }} or any other party members at risk, and dispelled players will be able to avoid damage if they run away quickly. Othrewise, use {{ site.data.spell.astral_shift }} for {{ site.data.mythic_plus.stone_shattering_leap }} and {{ site.data.mythic_plus.shattered }} as needed.
 
