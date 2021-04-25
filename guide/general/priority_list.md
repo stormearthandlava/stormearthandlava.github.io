@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Priority List
-last_update: 2020-12-08 09:00:00
-game_version: 9.0.2 Battle for Azeroth
+last_update: 2021-04-25 17:30:00
+game_version: 9.0.5 Shadowlands
 toc: true
 ---
 
@@ -99,8 +99,15 @@ Covenant | <input type="radio" id="ft-radio" name="cov" value="1" /><label for="
     - {{ site.data.spell.es }}
     - {{ site.data.spell.lb }}
 
+**Tip**
+When using { site.data.lengendary.windspeaker }}, {{ site.data.talent.sk }} and {{ site.data.talent.mote }} on single target. You can go {{ site.data.spell.lava_burst }}, {{ site.data.spell.lb }} (empowered by storm keeper), {{ site.data.spell.lava_burst }}, {{ site.data.spell.es }}, {{ site.data.spell.lava_burst }} (from WLR), {{ site.data.spell.lb }} (empowered by storm keeper)
+
+
 #### {{ site.data.talent.se }} + {{ site.data.talent.pe }}
 Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an incredible AoE CD and very useful for single target as well. Check out our FAQ for macros if you need help with that.
+
+#### {{ site.data.talent.se }} + {{ site.data.lengendary.eogs }}
+Combining this combo in mythic plus for single target. When you have lust up you drop hardcast lava burst from the rotation and replace with Lightning Bolt. Your new priority becomes {{ site.data.spell.earthquake }} with {{ site.data.lengendary.eogs }} buff, {{ site.data.spell.earth_shock }} when you don't have the {{ site.data.lengendary.eogs }} buff, {{ site.data.spell.lava_burst }} with {{ site.data.spell.lava_surge }}, {{ site.data.spell.lb }}. Note this only happens during this combo with lust up. Outside of that you maintain the normal Rotation until 18 stacks where you drop hard cast {{ site.data.spell.lava_burst }}. For Necrolords - you continue to consume {{ site.data.spell.primordial_wave }}'s buff when used on cooldown preferably with a {{ site.data.spell.lava_surge }} proc, but hardcasting a {{ site.data.spell.lava_burst }} is still worthwhile.
 
 
 #### {{ site.data.talent.sop }} + 2 targets
@@ -204,8 +211,7 @@ No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if 
 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
-Just continue playing your normal rotation until you reach 20 stack.
-At 20 stacks spam {{ site.data.spell.lb }}
+Outside the special mention combo of {{ site.data.talent.se }} + {{ site.data.lengendary.eogs }} above. Continue playing your normal rotation until you reach 18 stacks in single target. At 18 stacks you only cast {{ site.data.spell.lava_burst }} with {{ site.data.spell.lava_surge }} procs.
 
 
 <script>
