@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 2021-02-09 09:00:00
-game_version: 9.0.2 Shadowlands
+last_update: 2021-05-12 09:00:00
+game_version: 9.0.5 Shadowlands
 author: Altenna
 toc: false
 ---
@@ -23,20 +23,18 @@ This guide is intended to help you identify critical mobs and abilities as well 
 
 # Talents and Legendaries
 
-For novice Elemental Shaman, we recommend the following:
+For novice Elemental Shaman, the setup below is great for players starting out as well as for +15 keys and beyond:
 
 * **15:** {{site.data.talent.echo_of_the_elements}}
 * **25:** {{site.data.talent.aftershock}}
 * **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.static_charge }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
+* **35:** {{ site.data.talent.master_of_the_elements }} or {{ site.data.talent.storm_elemental }}
 * **40:** {{ site.data.talent.natures_guardian }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-* **Legendary:** {{ site.data.legendary.eogs }}
+* **Legendary:** {{ site.data.legendary.eogs }} or {{ site.data.legendary.skybreaker }}
 
-This setup is great for players starting out as well as for +15 keys and beyond. {{ site.data.legendary.eogs }} is the most beneficial legendary power for AoE while also offering strong single target damage.
-
-In coordinated and varied group compositions, you may consider {{ site.data.talent.elemental_blast }}, {{ site.data.talent.storm_elemental }}, and/or {{ site.data.talent.ancestral_guidance }} as potential talents, as well as {{ site.data.legendary.windspeaker }} or {{ site.data.legendary.skybreaker }} as potential legendary powers. Think critically about what your group needs to decide if you want to explore those options or not. For more reading, please visit our [Talents](http://stormearthandlava.com/guide/general/talents.html) and [Legendaries](http://stormearthandlava.com/guide/general/legendaries.html) pages.
+In coordinated and varied group compositions, you may also consider {{ site.data.talent.earthen_spike }} and/or {{ site.data.talent.ancestral_guidance }} as potential talents. Think critically about what your group needs to decide if you want to explore those options or not. For more reading, please visit our [Talents](http://stormearthandlava.com/guide/general/talents.html) and [Legendaries](http://stormearthandlava.com/guide/general/legendaries.html) pages.
 
 # Miscellaneous Tips
 
@@ -663,7 +661,7 @@ When Millificent is active:
 **Stitching Assistant, Separation Assistant**
 
 * Interrupt Stitching Assistant's {{ site.data.mythic_plus.drain_fluids }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to ensure {{ site.data.mythic_plus.throw_cleaver }} is targeted at the other mob or to kite away from Separation Assitant's {{ site.data.mythic_plus.morbid_fixation }}. 
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to ensure {{ site.data.mythic_plus.throw_cleaver }} is targeted at the other mob or to kite away from Separation Assistant's {{ site.data.mythic_plus.morbid_fixation }}. 
 
 ## Surgeon Stitchflesh
 
@@ -705,7 +703,6 @@ When Millificent is active:
 * {{ site.data.spell.purge }} {{ site.data.mythic_plus.spectral_transference }}.
 * Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.searing_death }} or any spells targeted at you.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed if fixated by Dessia.
-* Xira the Underhanded can be {{ site.data.spell.hex }}ed to effectively remove her from the encounter. However, if Xira the Underhanded stuns you with {{ site.data.mythic_plus.opportunity_strikes }}, you can {{ site.data.spell.thunderstorm }} to break out if needed.
 
 ---
 
