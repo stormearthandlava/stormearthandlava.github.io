@@ -368,6 +368,7 @@ When Millificent is active:
 **Rotmarrow Slime**
 
 * Interrupt {{ site.data.mythic_plus.corrosive_gunk }}.
+* {{ site.data.spell.purge }} {{ site.data.mythic_plus.slime_coated }} as needed to minimize pools of {{ site.data.mythic_plus.putrid_bile }}.
 
 **Pestilence Slime**
 
