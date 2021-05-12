@@ -402,7 +402,6 @@ When Millificent is active:
 **Venomous Sniper**
 
 * Interrupt {{ site.data.mythic_plus.call_venomfang }}.
-* If a Death Knight is in your party, they can use [Control Undead](https://shadowlands.wowhead.com/spell=111673/control-undead) on these mobs for {{ site.data.mythic_plus.venompiercer }}. This will buff your Nature damage abilities ({{ site.data.spell.lb }}, {{ site.data.spell.cl }}, {{ site.data.spell.es }}).
 
 ## Domina Venomblade
 
