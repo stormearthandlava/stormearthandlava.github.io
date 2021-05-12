@@ -523,6 +523,7 @@ When Millificent is active:
 
 * Maintain {{ site.data.spell.flame_shock }} on both Kin-Tara and Azules.
 * Position yourself behind Azules to avoid {{ site.data.mythic_plus.attenuated_barrage }}. Use {{ site.data.spell.spiritwalkers_grace }} to follow Azules when it moves.
+* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.charged_spear }}.
 
 ---
 
