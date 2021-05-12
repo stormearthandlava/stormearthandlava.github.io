@@ -345,7 +345,7 @@ When Millificent is active:
 
 * Rotate interrupts between {{ site.data.mythic_plus.doom_shroom }} and {{ site.data.mythic_plus.hurl_spores }}.
 
-**{{ site.data.mythic_plus.gushing_slime }}**
+**Gushing Slime**
 
 * {{ site.data.spell.purge }} {{ site.data.mythic_plus.slime_coated }} as needed to minimize pools of {{ site.data.mythic_plus.putrid_bile }}.
 
