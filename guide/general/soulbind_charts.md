@@ -1,8 +1,8 @@
 ---
 layout: highcharts_page
 title: Soulbind Charts
-last_update: 2020-11-23 09:00:00
-game_version: 9.0.2 Battle for Azeroth
+last_update: 2021-05-29 09:00:00
+game_version: 9.0.5 Shadowlands
 toc: true
 ---
 
