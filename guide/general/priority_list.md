@@ -106,9 +106,6 @@ When using {{ site.data.lengendary.windspeaker }}, {{ site.data.talent.sk }} and
 #### {{ site.data.talent.se }} + {{ site.data.talent.pe }}
 Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an incredible AoE CD and very useful for single target as well. Check out our FAQ for macros if you need help with that.
 
-#### {{ site.data.talent.se }} + {{ site.data.lengendary.eogs }}
-Combining this combo in mythic plus for single target. When you have {{ site.data.spell.bloodlust }}, or similar effect,  up you drop hardcast {{ site.data.spell.lava_burst }} from the rotation and replace with {{ site.data.spell.lb }}. Your new priority becomes {{ site.data.spell.earthquake }} with {{ site.data.lengendary.eogs }} buff, {{ site.data.spell.earth_shock }} when you don't have the {{ site.data.lengendary.eogs }} buff, {{ site.data.spell.lava_burst }} with {{ site.data.spell.lava_surge }}, {{ site.data.spell.lb }}. Note this only happens during this combo with lust up. Outside of that you maintain the normal Rotation until 18 stacks where you drop hard cast {{ site.data.spell.lava_burst }}. For Necrolords - you continue to consume {{ site.data.spell.primordial_wave }}'s buff when used on cooldown preferably with a {{ site.data.spell.lava_surge }} proc, but hardcasting a {{ site.data.spell.lava_burst }} is still worthwhile.
-
 
 #### {{ site.data.talent.sop }} + 2 targets
 - Change: as long as both targets don't have {{ site.data.spell.fs }} or are in refreshable duration and spread range, use {{ site.data.spell.es }} once to spread {{ site.data.spell.fs }} to both with {{ site.data.talent.sop }}.
@@ -211,7 +208,7 @@ No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if 
 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
-Outside the special mention combo of {{ site.data.talent.se }} + {{ site.data.lengendary.eogs }} above. Continue playing your normal rotation until you reach 18 stacks in single target. At 18 stacks you only cast {{ site.data.spell.lava_burst }} with {{ site.data.spell.lava_surge }} procs.
+In aoe you only cast {{ site.data.spell.cl }} and {{ site.data.spell.eq }} at 3+ targets. In ST you want to {{ site.data.spell.fs }} before casting {{ site.data.talent.se }} and with {{ site.data.spell.bloodlust }} then you only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }} with using {{ site.data.spell.fs }} and use {{ site.data.spell.ls }} proc for movement. Without {{ site.data.spell.bloodlust }} then you cast {{ site.data.spell.ls }} procs, {{ site.data.spell.lb }} and {{ site.data.spell.es }} at the highest level of gear pre 9.1. At lower levels of gear normal rotation is advised.
 
 
 <script>
