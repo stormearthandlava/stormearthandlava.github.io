@@ -13,7 +13,7 @@ toc: true
 1. {{ site.data.item.feast }}
 1. {{ site.data.item.haste_food }}
 1. {{ site.data.item.vers_food }} 
-1. {{ site.data.item.crit_food }} (For Aoe focus)
+1. {{ site.data.item.crit_food }} (For Aoe focus still behind {{ site.data.item.feast }} usually)
 
 ## Damage Potion
 1. {{ site.data.item.potion_of_spectral_intellect }}
