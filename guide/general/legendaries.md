@@ -1,7 +1,7 @@
 ---
 layout: highcharts_page
 title: Gear guide
-last_update: 2020-11-23 09:00:00
+last_update: 2021-05- 09:00:00
 game_version: 9.0.2 Shadowlands
 toc: true
 ---
@@ -9,9 +9,12 @@ toc: true
 ## Legendaries
 
 TLDR:
-Windspeaker for single target
-Skybreakers for spread cleave
-EoGS for M+ and stacked AoE
+{{ site.data.legendary.windspeaker }} for single target
+{{ site.data.legendary.skybreaker }} for M+ and spread cleave
+{{ site.data.legendary.eogs }} for M+ and stacked AoE
+
+NOTE: {{ site.data.legendary.skybreaker }} and {{ site.data.legendary.eogs }} both work for M+. They both work with {{ site.data.talent.mote }} and {{ site.data.talent.se }} and have different build preferences for damage profiles.
+
 
 
 The following charts show the value of specific Legendaries in single target and AoE situations. Use this as a general guide, but don't treat it as gospel. Remember that different legendaries are propped up by different sets of stats and the charts are simmed with a constant set of gear.
