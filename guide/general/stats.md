@@ -1,8 +1,8 @@
 ---
 title: Stats
 layout: page
-last_update: 2020-01-11 09:00:00
-game_version: 9.0.2 Shadowlands
+last_update: 2021-05-29 09:00:00
+game_version: 9.0.5 Shadowlands
 toc: true
 ---
 
