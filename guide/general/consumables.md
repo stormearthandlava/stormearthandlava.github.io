@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Consumables
-last_update: 2020-12-08 09:00:00
-game_version: 9.0.2 Shadowlands
+last_update: 2021-05-29 09:00:00
+game_version: 9.0.5 Shadowlands
 toc: true
 ---
 
@@ -12,7 +12,8 @@ toc: true
 ## Food
 1. {{ site.data.item.feast }}
 1. {{ site.data.item.haste_food }}
-1. {{ site.data.item.vers_food }}
+1. {{ site.data.item.vers_food }} 
+1. {{ site.data.item.crit_food }} (For Aoe focus)
 
 ## Damage Potion
 1. {{ site.data.item.potion_of_spectral_intellect }}
