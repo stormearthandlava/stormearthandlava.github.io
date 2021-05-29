@@ -40,7 +40,7 @@ By pledging your allegiance to the Necrolords you will gain two new abilites:
 
 **{{site.data.spell.fleshcraft}}**
 
-{{site.data.spell.fleshcraft}} is a channeled ability that gives you a 20% HP shield for 2 minutes. This can be amplified to 50% of your HP if it gets cast while in the vicinity of a corpse.
+{{site.data.spell.fleshcraft}} is a channeled ability that gives you a 40% HP shield for 2 minutes. While chaannelling this reduces damage taken by 20%. Also passively reduces the cooldown by consuming nearby corpses. 1 second per corpse.
 
 This can be cast before entering combat.
 It can be useful as another defensive in our toolkit, but 20% is usually not impactful enough to cast it during combat outside of downtime.
