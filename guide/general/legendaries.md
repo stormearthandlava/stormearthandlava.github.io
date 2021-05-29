@@ -1,7 +1,7 @@
 ---
 layout: highcharts_page
 title: Gear guide
-last_update: 2021-05- 09:00:00
+last_update: 2021-05-29 09:00:00
 game_version: 9.0.5 Shadowlands
 toc: true
 ---
