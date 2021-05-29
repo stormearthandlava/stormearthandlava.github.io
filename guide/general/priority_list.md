@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Priority List
-last_update: 2021-04-25 17:30:00
+last_update: 2021-05-29 17:30:00
 game_version: 9.0.5 Shadowlands
 toc: true
 ---
@@ -132,7 +132,7 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
 
 **Special mention** {{ site.data.spell.fs }} can be maintained at 4 targets with {{site.data.spell.primordial_wave}} and during {{site.data.spell.fe}}. Because this is usually not the case, we opted to write 3 as the maximum number of spreads. Tread carefully, as this could otherwise backfire.
 
-**Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. *IF* you have two or more {{ site.data.azerite.igneous_potential }} equipped, it is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply flame shock to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier.
+**Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. *IF* you have two or more {{ site.data.azerite.igneous_potential }} equipped, it is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply flame shock to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier. 
 
 ## Openers
 
@@ -208,7 +208,15 @@ No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if 
 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
-In aoe you only cast {{ site.data.spell.cl }} and {{ site.data.spell.eq }} at 3+ targets. In ST you want to {{ site.data.spell.fs }} before casting {{ site.data.talent.se }} and with {{ site.data.spell.bloodlust }} then you only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }} with using {{ site.data.spell.fs }} and use {{ site.data.spell.ls }} proc for movement. Without {{ site.data.spell.bloodlust }} then you cast {{ site.data.spell.ls }} procs, {{ site.data.spell.lb }} and {{ site.data.spell.es }} at the highest level of gear pre 9.1. At lower levels of gear normal rotation is advised.
+In aoe you only cast {{ site.data.spell.cl }} and {{ site.data.spell.eq }} at 3+ targets. In ST you want to {{ site.data.spell.fs }} before casting {{ site.data.talent.se }} and with {{ site.data.spell.bloodlust }} then you only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }} with using {{ site.data.spell.fs }} and use {{ site.data.spell.ls }} proc for movement. Without {{ site.data.spell.bloodlust }} then you cast {{ site.data.spell.ls }} procs, {{ site.data.spell.lb }} and {{ site.data.spell.es }} at the highest level of gear pre 9.1. At lower levels of gear normal rotation is advised outside of lust and using {{ site.data.spell.ls }} procs during lust.
+ 
+With {{ site.data.talent.eogs }} you still alternate between using {{ site.data.spell.es }} and {{ site.data.spell.eq }} to maintain the {{ site.data.talent.eogs }} buff.
+
+With {{ site.data.spell.primoridial wave }} you still cast it on cd. Favoring to use a {{ site.data.spell.ls }} but hardcasting {{ site.data.spell.lvb }} if needed to use the {{ site.data.spell.primoridial wave }} buff.
+
+> "I should only cast {{ site.data.spell.es }} in single target or {{ site.data.spell.eq }} in high aoe counts even with  {{ site.data.talent.eogs }}  equipped!"
+
+With {{ site.data.talent.eogs }} you always alternate between using {{ site.data.spell.es }} and {{ site.data.spell.eq }} to maintain the {{ site.data.talent.eogs }} buff.
 
 
 <script>
