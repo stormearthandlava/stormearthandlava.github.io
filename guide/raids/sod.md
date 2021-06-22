@@ -11,7 +11,7 @@ toc: false
 This guide was made possible by:
 
 - Altenna (Discord: JudgeJames#0001 \| [Twitch](https://www.twitch.tv/judgejames) \| [Twitter](https://twitter.com/_judgejames_))
-- Amani (Discord: Amani#0001 \| [Discord Server (RU)](https://discordapp.com/invite/zTQhBn8) \| [Twitch](https://www.twitch.tv/amanizandalari))
+- Amani (Discord: Amani#0001 \| [Discord Server (RU)](https://discord.gg/vodovorot) \| [Twitch](https://www.twitch.tv/amanizandalari))
 - Bloodmallet (Discord: Bloodmallet(EU)#8246 \| [Website](https://bloodmallet.com/))
 - Eokira (Discord: Eokira#7823)
 - Gaka (Discord: Gaka#7410)
