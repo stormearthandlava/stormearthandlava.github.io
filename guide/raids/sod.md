@@ -415,7 +415,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 <div class="card">
 <div class="card-header" id="kelthuzad">
-<div data-toggle="collapse" data-target="#kelthuzad-collapse" aria-expanded="true" aria-controls="kelthuzad-collapse" class="raid-header sanctum_of_domination9"><h2>Kel'Thuzad</h2></div>
+<div data-toggle="collapse" data-target="#kelthuzad-collapse" aria-expanded="true" aria-controls="kelthuzad-collapse" class="raid-header sanctum_of_domination9"><h2>Kel'thuzad</h2></div>
 </div>
 <div id="kelthuzad-collapse" class="collapse" aria-labelledby="kelthuzad" data-parent="#accordion">
 <div class="card-body" markdown="1">
