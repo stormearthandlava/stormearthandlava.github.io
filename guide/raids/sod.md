@@ -113,7 +113,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Damage:**
 
 * Maintain {{ site.data.spell.flame_shock }} on as many targets as you can.
-* While the Stygian Abductor is in the air channeling [Dragging Chains](https://shadowlands.wowhead.com/spell=349979/dragging-chains), you can cast {{ site.data.spell.chain_lightning }} off the Eye of The Jailer to damage the Abductor.
+* While the Stygian Abductor is in the air channeling [Dragging Chains](https://shadowlands.wowhead.com/spell=349979/dragging-chains), you can cast {{ site.data.spell.chain_lightning }} off the Eye of the Jailer to damage the Abductor.
 * Use {{ site.data.spell.spiritwalkers_grace }} to maintain DPS while avoiding [Annihilating Glare](https://shadowlands.wowhead.com/spell=350763/annihilating-glare). You can also use instant cast abilities while you're airborne after [Grapple!](https://shadowlands.wowhead.com/spell=351401/grapple), so pool Maelstrom and use instant casts while you're in the air to maintain DPS.
 
 **Defensives:**
