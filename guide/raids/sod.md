@@ -415,7 +415,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 <div class="card">
 <div class="card-header" id="kelthuzad">
-<div data-toggle="collapse" data-target="#kelthuzad-collapse" aria-expanded="true" aria-controls="kelthuzad-collapse" class="raid-header sanctum_of_domination9"><h2>Kel'thuzad</h2></div>
+<div data-toggle="collapse" data-target="#kelthuzad-collapse" aria-expanded="true" aria-controls="kelthuzad-collapse" class="raid-header sanctum_of_domination9"><h2>Kel'Thuzad</h2></div>
 </div>
 <div id="kelthuzad-collapse" class="collapse" aria-labelledby="kelthuzad" data-parent="#accordion">
 <div class="card-body" markdown="1">
@@ -439,9 +439,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 There are different ways to approach this fight based on various target priorities in each phase.
 
-If you are assigned to the Phylactery realm, you may opt for {{ site.data.legendary.windspeaker }}, {{ site.data.talent.elemental_blast }}, and {{ site.data.talent.icefury }} to focus single-target damage on [Remnant of Kel'Thuzad](https://shadowlands.wowhead.com/npc=176929/remnant-of-kelthuzad).
-
 If you are not assigned to the Phylactery realm, you may opt for {{ site.data.legendary.eogs }}. Select your talents based on your raid composition needs for priority damage or AoE.
+
+If you are assigned to the Phylactery realm, you may opt for {{ site.data.legendary.windspeaker }}, {{ site.data.talent.elemental_blast }}, and {{ site.data.talent.icefury }} to focus single-target damage on [Remnant of Kel'Thuzad](https://shadowlands.wowhead.com/npc=176929/remnant-of-kelthuzad).
 
 **Damage:**
 
