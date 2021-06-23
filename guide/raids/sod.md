@@ -74,7 +74,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Utilities:**
 
-* After [Predator's Howl](https://shadowlands.wowhead.com/spell=347283/predators-howl) is cast, be prepared to use {{ site.data.spell.tremor_totem }} to dispel any players with [Unshakeable Dread](https://shadowlands.wowhead.com/spell=347286/unshakeable-dread). {{ site.data.spell.tremor_totem }} is available for every other Predator's Howl cast.
+* After [Predator's Howl](https://shadowlands.wowhead.com/spell=347283/predators-howl) is cast, be prepared to use {{ site.data.spell.tremor_totem }} to dispel any players with [Unshakeable Dread](https://shadowlands.wowhead.com/spell=347286/unshakeable-dread). {{ site.data.spell.tremor_totem }} is available for every other [Predator's Howl](https://shadowlands.wowhead.com/spell=347283/predators-howl) cast.
 * If talented, {{ site.data.talent.wind_rush_totem }} is best used during [Hungering Mist](https://shadowlands.wowhead.com/spell=347671/hungering-mist) and is available for every other [Hungering Mist](https://shadowlands.wowhead.com/spell=347671/hungering-mist) phase. {{ site.data.talent.wind_rush_totem }} can also be used to help players kite during Tarragrue's last 10%.
 
 **PTR PoVs:**
