@@ -43,7 +43,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
   <div id="accordion">
     <div class="card">
         <div class="card-header" id="tarragrue">
-            <div data-toggle="collapse" data-target="#tarragrue-collapse" aria-expanded="true" aria-controls="tarragrue-collapse" class="raid-header sanctum_of_domination1"><h2>Tarragrue</h2></div>
+            <div data-toggle="collapse" data-target="#tarragrue-collapse" aria-expanded="true" aria-controls="tarragrue-collapse" class="raid-header sanctum_of_domination1"><h2>The Tarragrue</h2></div>
         </div>
         <div id="tarragrue-collapse" class="collapse" aria-labelledby="tarragrue" data-parent="#accordion">
           <div class="card-body" markdown="1">   
