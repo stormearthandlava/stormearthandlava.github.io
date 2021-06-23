@@ -310,7 +310,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables as needed for (Flameclasp Eruption)[https://shadowlands.wowhead.com/spell=356870/flameclasp-eruption].
+* Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables as needed for [Flameclasp Eruption](https://shadowlands.wowhead.com/spell=356870/flameclasp-eruption).
 
 **PTR PoVs:**
 
