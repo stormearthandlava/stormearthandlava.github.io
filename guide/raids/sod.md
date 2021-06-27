@@ -296,7 +296,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **25:** {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }}
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
 * **50:** {{ site.data.talent.stormkeeper }}
 
@@ -312,6 +312,10 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 * Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables as needed for [Flameclasp Eruption](https://shadowlands.wowhead.com/spell=356870/flameclasp-eruption).
 
+**Utilities:**
+
+* If talented, use {{ site.data.talent.wind_rush_totem }} to help your raid avoid spikes during Phase 2. Place strategically to allow your raid to refresh the movement buff.
+	
 **PTR PoVs:**
 
 * Altenna: [Heroic](https://www.twitch.tv/videos/1021632530?collection=RUogCxyPdhbY3A&t=0h6m38s) \| [Mythic](https://www.twitch.tv/videos/1037363275?collection=RUogCxyPdhbY3A&t=2h4m43s)
