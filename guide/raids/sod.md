@@ -209,7 +209,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Recommended Legendaries:**
 
 * {{ site.data.legendary.windspeaker }}
-* {{ site.data.legendary.skybreaker }}
+* {{ site.data.legendary.skybreaker }} (with {{ site.data.talent.primal_elementalist }})
 
 **Damage:**
 
