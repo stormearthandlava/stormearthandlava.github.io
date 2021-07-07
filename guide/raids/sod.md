@@ -203,7 +203,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }}
-* **45:** {{ site.data.talent.primal_elementalist }}
+* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
 * **50:** {{ site.data.talent.stormkeeper }}
 
 **Recommended Legendaries:**
