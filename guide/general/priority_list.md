@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Priority List
-last_update: 2020-12-08 09:00:00
-game_version: 9.0.2 Battle for Azeroth
+last_update: 2021-05-29 17:30:00
+game_version: 9.0.5 Shadowlands
 toc: true
 ---
 
@@ -58,7 +58,7 @@ Covenant | <input type="radio" id="ft-radio" name="cov" value="1" /><label for="
             </ul>
         </li>
         <li>Cast {{ site.data.spell.es }}. But read the special cases about delaying {{ site.data.spell.es }} casts.</li>
-        <li class="se-apl" style="display: none;">Cast only {{ site.data.spell.lb }} while {{ site.data.talent.se }} if you are at 20 stacks of {{ site.data.spell.wind_gust }}.</li>
+        <li class="se-apl" style="display: none;">Cast only {{ site.data.spell.lb }} while {{ site.data.talent.se }} if you are at 18 or more stacks of {{ site.data.spell.wind_gust }} or fall under cases in special mentions below for {{ site.data.talent.se }} Single Target.</li>
         <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.se }} is active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff and {{ site.data.talent.mote }} buff active.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.talent.asc }} is active.</li>
@@ -99,6 +99,18 @@ Covenant | <input type="radio" id="ft-radio" name="cov" value="1" /><label for="
     - {{ site.data.spell.es }}
     - {{ site.data.spell.lb }}
 
+#### {{ site.data.talent.se }} Single Target cases
+
+In aoe you only cast {{ site.data.spell.cl }} and {{ site.data.spell.eq }} at 3+ targets. In ST you want to {{ site.data.spell.fs }} before casting {{ site.data.talent.se }} and with {{ site.data.spell.bloodlust }} then you only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }} with using {{ site.data.spell.fs }} and use {{ site.data.spell.ls }} proc for movement. Without {{ site.data.spell.bloodlust }} then you cast {{ site.data.spell.ls }} procs, {{ site.data.spell.lb }} and {{ site.data.spell.es }} at the highest level of gear pre 9.1. At lower levels of gear normal rotation is advised outside of lust and using {{ site.data.spell.ls }} procs during lust.
+ 
+With {{ site.data.talent.eogs }} you still alternate between using {{ site.data.spell.es }} and {{ site.data.spell.eq }} to maintain the {{ site.data.talent.eogs }} buff.
+
+With {{ site.data.spell.primoridial wave }} you still cast it on cd. Favoring to use a {{ site.data.spell.ls }} but hardcasting {{ site.data.spell.lvb }} if needed to use the {{ site.data.spell.primoridial wave }} buff.
+
+**Tip**
+When using {{ site.data.lengendary.windspeaker }}, {{ site.data.talent.sk }} and {{ site.data.talent.mote }} on single target. You can go {{ site.data.spell.lava_burst }}, {{ site.data.spell.lb }} (empowered by {{ site.data.talent.sk }}), {{ site.data.spell.lava_burst }}, {{ site.data.spell.es }}, {{ site.data.spell.lava_burst }} (from {{ site.data.lengendary.windspeaker }}), {{ site.data.spell.lb }} (empowered by {{ site.data.talent.sk }})
+
+
 #### {{ site.data.talent.se }} + {{ site.data.talent.pe }}
 Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an incredible AoE CD and very useful for single target as well. Check out our FAQ for macros if you need help with that.
 
@@ -128,7 +140,7 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
 
 **Special mention** {{ site.data.spell.fs }} can be maintained at 4 targets with {{site.data.spell.primordial_wave}} and during {{site.data.spell.fe}}. Because this is usually not the case, we opted to write 3 as the maximum number of spreads. Tread carefully, as this could otherwise backfire.
 
-**Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. *IF* you have two or more {{ site.data.azerite.igneous_potential }} equipped, it is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply flame shock to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier.
+**Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. *IF* you have two or more {{ site.data.azerite.igneous_potential }} equipped, it is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply flame shock to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier. 
 
 ## Openers
 
@@ -204,8 +216,11 @@ No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if 
 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
-Just continue playing your normal rotation until you reach 20 stack.
-At 20 stacks spam {{ site.data.spell.lb }}
+See priority list and Special mentions above.
+
+> "I should only cast {{ site.data.spell.es }} in single target or {{ site.data.spell.eq }} in high aoe counts even with  {{ site.data.talent.eogs }}  equipped!"
+
+With {{ site.data.talent.eogs }} you always alternate between using {{ site.data.spell.es }} and {{ site.data.spell.eq }} to maintain the {{ site.data.talent.eogs }} buff.
 
 
 <script>

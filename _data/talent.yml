@@ -18,6 +18,7 @@ aftershock: <a href="https://shadowlands.wowhead.com/spell=273221" target="blank
 afs: <a href="https://shadowlands.wowhead.com/spell=273221" target="blank">Aftershock</a>
 
 ancestral_guidance: <a href="https://shadowlands.wowhead.com/spell=108281" target="blank">Ancestral Guidance</a>
+ag: <a href="https://shadowlands.wowhead.com/spell=108281" target="blank">Ancestral Guidance</a>
 
 ascendance: <a href="https://shadowlands.wowhead.com/spell=114050" target="blank">Ascendance</a>
 asc: <a href="https://shadowlands.wowhead.com/spell=114050" target="blank">Ascendance</a>
@@ -26,6 +27,7 @@ call_the_thunder: <a href="https://ptr.wowhead.com/spell=260897/call-the-thunder
 ctt: <a href="https://ptr.wowhead.com/spell=260897/call-the-thunder" target="blank">Call the Thunder</a>
 
 control_of_lava: <a href="https://shadowlands.wowhead.com/spell=204393" target="blank">Control of Lava</a>
+col: <a href="https://shadowlands.wowhead.com/spell=204393" target="blank">Control of Lava</a>
 
 counterstrike_totem: <a href="https://shadowlands.wowhead.com/spell=204331" target="blank">Counterstrike Totem</a>
 
@@ -108,3 +110,4 @@ unlimited_power: <a href="https://shadowlands.wowhead.com/spell=260895" target="
 up: <a href="https://shadowlands.wowhead.com/spell=260895" target="blank">Unlimited Power</a>
 
 wind_rush_totem: <a href="https://shadowlands.wowhead.com/spell=192077" target="blank">Wind Rush Totem</a>
+wrt: <a href="https://shadowlands.wowhead.com/spell=192077" target="blank">Wind Rush Totem</a>
