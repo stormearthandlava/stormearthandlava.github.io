@@ -105,7 +105,7 @@ In aoe you only cast {{ site.data.spell.cl }} and {{ site.data.spell.eq }} at 3+
  
 With {{ site.data.talent.eogs }} you still alternate between using {{ site.data.spell.es }} and {{ site.data.spell.eq }} to maintain the {{ site.data.talent.eogs }} buff.
 
-With {{ site.data.spell.primoridial wave }} you still cast it on cd. Favoring to use a {{ site.data.spell.ls }} but hardcasting {{ site.data.spell.lvb }} if needed to use the {{ site.data.spell.primoridial wave }} buff.
+With {{ site.data.spell.primordial_wave }} you still cast it on cd. Favoring to use a {{ site.data.spell.ls }} but hardcasting {{ site.data.spell.lvb }} if needed to use the {{ site.data.spell.primordial_wave }} buff.
 
 **Tip**
 When using {{ site.data.lengendary.windspeaker }}, {{ site.data.talent.sk }} and {{ site.data.talent.mote }} on single target. You can go {{ site.data.spell.lava_burst }}, {{ site.data.spell.lb }} (empowered by {{ site.data.talent.sk }}), {{ site.data.spell.lava_burst }}, {{ site.data.spell.es }}, {{ site.data.spell.lava_burst }} (from {{ site.data.lengendary.windspeaker }}), {{ site.data.spell.lb }} (empowered by {{ site.data.talent.sk }})
