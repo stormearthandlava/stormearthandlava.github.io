@@ -43,27 +43,28 @@ Night Fae | Necrolords | Venthyr | Kyrian
                 <li>It is not active on the target.</li>
                 <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}.</li>
                 <li>The debuff's duration is at or below 6 seconds remaining.</li>
-                <li class="se-apl" style="display: none;"><strong>Special warning:</strong> Don't refresh {{ site.data.spell.fs }} if you have 14 stacks or more of {{ site.data.spell.wind_gust }} during {{ site.data.talent.se }}. Unless you have {{ site.data.azerite.igneous_potential }} at least twice. </li>
+                <li class="se-apl" style="display: none;"><strong>Special warning:</strong> Don't refresh {{ site.data.spell.fs }} if you have 18 stacks or more of {{ site.data.spell.wind_gust }} during {{ site.data.talent.se }}.</li>
             </ul>
         </li>
+        <!-- covenant abilities -->
         <li class="pw-apl" style="display: none;">Cast {{ site.data.spell.primordial_wave}} on a target without {{ site.data.spell.fs }} or the target with the lowest duration remaining. Delay it if adds are gonna spawn, if it doesn't lead to you losing a use.</li>
         <li class="vt-apl" style="display: none;">Cast {{ site.data.spell.vesper_totem}} on cooldown. </li>
         <li class="ft-apl" style="display: none;">Cast {{ site.data.spell.fae_transfusion}} on cooldown (buff it with {{site.data.talent.master_of_the_elements}} if talented into that). </li>
+        <!-- covenant abilities end -->
         <li class="asc-apl" style="display:none;">Cast {{ site.data.talent.asc }} on cooldown, if neither {{ site.data.talent.se }} is active, nor {{ site.data.spell.lvb }} is available, nor {{ site.data.talent.if }} is active.</li>
-        <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.es }} while affected by {{site.data.talent.ecs}}</li>
-        <li class="ecs-apl" style="display:none;">Cast {{ site.data.talent.ecs }} </li>
+        <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.es }} while affected by {{site.data.talent.ecs}}.</li>
+        <li class="ecs-apl" style="display:none;">Cast {{ site.data.talent.ecs }}.</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} on cooldown, if neither {{ site.data.talent.se }} is active nor you could cast a {{ site.data.talent.mote }} empowered {{ site.data.spell.es }} instead.</li>
-        <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.talent.sk }} on cooldown and ideally game it with {{ site.data.talent.sop }} if you selected this talent. See special cases below for more information.</li>
-        <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown. Ideally paired with {{ site.data.azerite.worldvein }}, if that's your major essence.</li>
-        <li>Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies and it can do at least 8 ticks. If you use {{ site.data.azerite.lava_shock }} this changes to using {{ site.data.spell.eq }} at three or more targets.</li>
+        <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.talent.sk }} on cooldown and ideally game it with {{ site.data.talent.sop }} if you selected this talent. See <a href="#stormkeeper--surge-of-power">special cases</a> below for more information.</li>
+        <li class="lmt-apl" style="display:none;" >Cast {{ site.data.talent.lmt }} on cooldown.</li>
+        <li>Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies and it can do at least 8 ticks.</li>
         <li class="sk-apl" style="display: list-item;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.sk }} is active and when any of the following are true (if you don't see any following conditions, ignore this line):
             <ul>
                 <li class="mote-apl" style="display: list-item;">{{ site.data.talent.mote }} is active and {{ site.data.talent.sop }} is NOT selected.</li>
                 <li class="sop-apl" style="display: none;">{{ site.data.talent.sop }} is active.</li>
             </ul>
         </li>
-        <li>Cast {{ site.data.spell.es }}. But read the special cases about delaying {{ site.data.spell.es }} casts.</li>
-        <li class="se-apl" style="display: none;">Cast only {{ site.data.spell.lb }} while {{ site.data.talent.se }} if you are at 18 or more stacks of {{ site.data.spell.wind_gust }} or fall under cases in special mentions below for {{ site.data.talent.se }} Single Target.</li>
+        <li>Cast {{ site.data.spell.es }}. But read the <a href="#master-of-the-elements">special cases about delaying</a> {{ site.data.spell.es }} casts because of {{ site.data.talent.mote }}.</li>
         <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.se }} is active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff and {{ site.data.talent.mote }} buff active.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.talent.asc }} is active.</li>
@@ -72,31 +73,35 @@ Night Fae | Necrolords | Venthyr | Kyrian
         <li>Cast {{site.data.spell.lvb }}.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.talent.if }} on cooldown.</li>
-        <li class="ch-apl" style="display: none;">Cast {{ site.data.spell.chain_harvest}}. </li>
-        <li class="sd-apl" style="display: none;">Cast {{ site.data.spell.sd}}</li>
-        <li>Cast {{ site.data.spell.lb }} as a filler.</li>
-        <li>Cast {{ site.data.spell.frs }} in place of {{ site.data.spell.lb }} while moving, even if you do not have {{ site.data.talent.if }}.</li>
+        <li class="ch-apl" style="display: none;">Cast {{ site.data.spell.chain_harvest}}.</li>
+        <li class="sd-apl" style="display: none;">Cast {{ site.data.spell.sd}}.</li>
+        <li>Cast {{ site.data.spell.lb }} versus one target and {{ site.data.spell.cl }} versus two and more targets as a filler.</li>
+        <li>Cast {{ site.data.spell.frs }} while moving, if you don't have any other instants, even if you do not have {{ site.data.talent.if }}.</li>
     </ol>
 </div>
 
 ### Special cases
 
 #### {{ site.data.talent.mote }}
-- Change: Delay {{ site.data.spell.es }} to cast it with {{ site.data.talent.mote }} instead.
+- Change: Delay {{ site.data.spell.es }} without wasting Maelstrom to cast it with {{ site.data.talent.mote }} instead.
 - Priority of casts you want to empower with {{ site.data.talent.mote }} from best to worst:
-    1. {{ site.data.spell.eq }} if two or more targets are in its effect (unless {{ site.data.azerite.lava_shock }} is present at low target count )
-    1. {{ site.data.spell.lb }} with {{ site.data.talent.sk }}
+    1. {{ site.data.spell.eq }} if four or more targets are in its effect
     1. {{ site.data.spell.fae_transfusion }} if Night Fae
+    1. {{ site.data.spell.eq }} if two or more targets are in its effect
+    1. {{ site.data.spell.lb }} with {{ site.data.talent.sk }}
     1. {{ site.data.spell.es }}
     1. {{ site.data.spell.frs }} with {{ site.data.talent.if }}
+    1. {{ site.data.talent.eb }}
     1. {{ site.data.spell.lb }}
     1. {{ site.data.talent.if }}
     1. {{ site.data.spell.frs }}
+- don't stress too much over gaming {{ site.data.talent.mote }}. It mostly happens naturally.
+
 
 #### {{ site.data.talent.sk }} + {{ site.data.talent.sop }}
 - Change: You pool Maelstrom before casting {{ site.data.talent.sk }} to combo both empowered {{ site.data.spell.lb }} with {{ site.data.talent.sop }}
 - Example cast sequence:
-    - Pool to 96+MS
+    - Pool to 96+ Maelstrom
     - {{ site.data.spell.es }}
     - {{ site.data.talent.sk }}
     - {{ site.data.spell.lb }}
@@ -104,23 +109,17 @@ Night Fae | Necrolords | Venthyr | Kyrian
     - {{ site.data.spell.es }}
     - {{ site.data.spell.lb }}
 
-#### {{ site.data.talent.se }} Single Target cases
-
-In aoe you only cast {{ site.data.spell.cl }} and {{ site.data.spell.eq }} at 3+ targets. In ST you want to {{ site.data.spell.fs }} before casting {{ site.data.talent.se }} and with {{ site.data.spell.bloodlust }} then you only cast {{ site.data.spell.lb }} and {{ site.data.spell.es }} with using {{ site.data.spell.fs }} and use {{ site.data.spell.ls }} proc for movement. Without {{ site.data.spell.bloodlust }} then you cast {{ site.data.spell.ls }} procs, {{ site.data.spell.lb }} and {{ site.data.spell.es }} at the highest level of gear pre 9.1. At lower levels of gear normal rotation is advised outside of lust and using {{ site.data.spell.ls }} procs during lust.
- 
-With {{ site.data.talent.eogs }} you still alternate between using {{ site.data.spell.es }} and {{ site.data.spell.eq }} to maintain the {{ site.data.talent.eogs }} buff.
-
-With {{ site.data.spell.primordial_wave }} you still cast it on cd. Favoring to use a {{ site.data.spell.ls }} but hardcasting {{ site.data.spell.lvb }} if needed to use the {{ site.data.spell.primordial_wave }} buff.
-
-**Tip**
-When using {{ site.data.lengendary.windspeaker }}, {{ site.data.talent.sk }} and {{ site.data.talent.mote }} on single target. You can go {{ site.data.spell.lava_burst }}, {{ site.data.spell.lb }} (empowered by {{ site.data.talent.sk }}), {{ site.data.spell.lava_burst }}, {{ site.data.spell.es }}, {{ site.data.spell.lava_burst }} (from {{ site.data.lengendary.windspeaker }}), {{ site.data.spell.lb }} (empowered by {{ site.data.talent.sk }})
-
 
 #### {{ site.data.talent.se }} + {{ site.data.talent.pe }}
-Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}. {{ site.data.spell.eye_of_the_storm_damage }} is an incredible AoE CD and very useful for single target as well. Check out our FAQ for macros if you need help with that.
+Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.eye_of_the_storm_damage }}. This powerful ability needs to be activated manually. Make sure to use it regardless of target count shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}.
+
+```
+#showtooltip
+/use [talent:6/3]Icefury;[pet: Primal Storm Elemental]Eye of the Storm;[pet: Primal Fire Elemental]Meteor;[pet: Primal Earth Elemental]Harden Skin
+```
 
 
-#### {{ site.data.talent.sop }} + 2 targets
+#### {{ site.data.talent.sop }} and 2 targets
 - Change: as long as both targets don't have {{ site.data.spell.fs }} or are in refreshable duration and spread range, use {{ site.data.spell.es }} once to spread {{ site.data.spell.fs }} to both with {{ site.data.talent.sop }}.
 
 
