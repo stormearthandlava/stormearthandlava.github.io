@@ -6,7 +6,7 @@ game_version: 9.1.5 Shadowlands
 toc: true
 ---
 
-## TL;DR
+## TL;DR Recommendations
 - {{ site.data.legendary.windspeaker }} for single target
 - {{ site.data.legendary.eogs }} for M+ and stacked AoE
 - {{ site.data.legendary.skybreaker }} for M+ and spread cleave
