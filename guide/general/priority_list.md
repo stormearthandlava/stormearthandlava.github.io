@@ -25,9 +25,9 @@ After reading the APL, please pay attention to the special mentions below, becau
 
 #### Covenant selector:
 
-Night Fae | Necrolords | Venthyr | Kyrian
+Kyrian | Venthyr | Night Fae | Necrolords
 :---: | :---: | :---: | :---:
-<input type="radio" id="ft-radio" name="cov" value="1" /><label for="ft-radio">Fae Transfusion</label> | <input type="radio" id="pw-radio" name="cov" value="2" checked/><label for="pw-radio">Primordial Wave</label> | <input type="radio" id="ch-radio" name="cov" value="3" /><label for="ch-radio">Chain Harvest</label> | <input type="radio" id="vt-radio" name="cov" value="4" /><label for="vt-radio">Vesper Totem</label>
+ <input type="radio" id="vt-radio" name="cov" value="4" /><label for="vt-radio">Vesper Totem</label> | <input type="radio" id="ch-radio" name="cov" value="3" /><label for="ch-radio">Chain Harvest</label> | <input type="radio" id="ft-radio" name="cov" value="1" /><label for="ft-radio">Fae Transfusion</label> | <input type="radio" id="pw-radio" name="cov" value="2" checked/><label for="pw-radio">Primordial Wave</label> 
 
 
 ## Single target / two targets
