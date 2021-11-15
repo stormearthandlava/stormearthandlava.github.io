@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Priority List
-last_update: 2021-05-29 17:30:00
-game_version: 9.0.5 Shadowlands
+last_update: 2021-11-15 09:00:00
+game_version: 9.1.5 Shadowlands
 toc: true
 ---
 
@@ -25,7 +25,12 @@ After reading the APL, please pay attention to the special mentions below, becau
 45 | <input type="radio" id="sop-radio" name="45" value="1" /><label for="sop-radio"> Surge of Power</label> | <input type="radio" id="pe-radio" name="45" value="2" /><label for="pe-radio"> Primal Elementalist</label> | <input type="radio" id="if-radio" name="45" value="3" checked /><label for="if-radio"> Icefury</label>
 50 | <input type="radio" id="up-radio" name="50" value="1" /><label for="up-radio"> Unlimited Power</label> | <input type="radio" id="sk-radio" name="50" value="2" checked/><label for="sk-radio"> Stormkeeper</label> | <input type="radio" id="asc-radio" name="50" value="3"/><label for="asc-radio"> Ascendance</label>
 
-Covenant | <input type="radio" id="ft-radio" name="cov" value="1" /><label for="ft-radio">Fae Transfusion</label> | <input type="radio" id="pw-radio" name="cov" value="2" /><label for="pw-radio">Primordial Wave</label> | <input type="radio" id="ch-radio" name="cov" value="3" /><label for="ch-radio">Chain Harvest</label> | <input type="radio" id="vt-radio" name="cov" value="4" /><label for="vt-radio">Vesper Totem</label>
+
+#### Covenant selector:
+
+Night Fae | Necrolords | Venthyr | Kyrian
+:---: | :---: | :---: | :---:
+<input type="radio" id="ft-radio" name="cov" value="1" /><label for="ft-radio">Fae Transfusion</label> | <input type="radio" id="pw-radio" name="cov" value="2" /><label for="pw-radio">Primordial Wave</label> | <input type="radio" id="ch-radio" name="cov" value="3" /><label for="ch-radio">Chain Harvest</label> | <input type="radio" id="vt-radio" name="cov" value="4" /><label for="vt-radio">Vesper Totem</label>
 
 
 
