@@ -31,8 +31,6 @@ First things first. All Covenants are relatively well balanced. The difference i
 Recommending "best" Covenant is a pretty impossible tasks.
 The strength of the Covenants breaks down to the strength of the Covenant signature ability, the strength of the Covenant class ability, and the strength of their Soulbinds.
 
-So for the TL;DR PvE recommendations at full Renown:
-
 
 ### Kyrian
 
