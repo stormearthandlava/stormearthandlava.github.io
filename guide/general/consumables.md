@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Consumables
-last_update: 2021-05-29 09:00:00
-game_version: 9.0.5 Shadowlands
+last_update: 2021-11-15 09:00:00
+game_version: 9.1.5 Shadowlands
 toc: true
 ---
 
@@ -39,5 +39,4 @@ Boots | Irrelevant, open world utility enchants. No recommendation to be made he
 - {{ site.data.item.shadowcore_oil }}
 
 ## Gems
-
 Sim for your best stat. By default put {{ site.data.item.quick_jewel_cluster }} into all available slots.
