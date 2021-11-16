@@ -21,7 +21,7 @@ Restoration and Elemental | Necrolord
 Enhancement and Elemental | Kyrian
 All Specs                 | Kyrian
 
-We will be discussing the value of specific soulbinds [here]({{ site.baseurl }}{% link guide/general/soulbind.md %}).
+Soulbind dps information can be found [here]({{ site.baseurl }}{% link guide/general/soulbinds.md %}).
 
 
 ## Overview
