@@ -7,7 +7,7 @@ author: Bloodmallet(EU)
 ---
 Greetings,
 
-as you might've notice over the last few months, not a lot of action happened here. While we don't have some exciting 
+as you might've noticed over the last few months, not a lot of action happened here. While we don't have some exciting 
 roadmap to share, I still wanted to let you know, that I'm still dedicated to let Storm, Earth & Lava be an excellent 
 resource for Elemental Shamans.
 
