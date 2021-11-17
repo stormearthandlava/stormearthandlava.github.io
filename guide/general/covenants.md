@@ -53,8 +53,8 @@ The strength of the Covenants breaks down to the strength of the Covenant signat
 {{site.data.spell.soulshape}} | {{site.data.spell.soulshape}} is arguably the strongest of the covenant signature abilities. It turns you into an animal form, teleports you 15 yards forwards and increases your movespeed by 50% for 12 seconds or in rest areas until cancelled. This teleport ports you directly to the ground, meaning it can be used to cancel fall damage. Even though we have a very similar ability in {{site.data.spell.ghost_wolf}} already, the added teleport enables us to dodge abilities on a short notice.
 
 
-### Necrolords
+### Necrolord
 
-![Necrolord_IMG]({{ "assets/img/guide/Death_Lords_Sigil.png" | absolute_url}}) | By pledging your allegiance to the Necrolords you will gain two new abilites
+![Necrolord_IMG]({{ "assets/img/guide/Death_Lords_Sigil.png" | absolute_url}}) | By pledging your allegiance to the Necrolord you will gain two new abilites
 {{site.data.spell.primordial_wave}} | {{site.data.spell.primordial_wave}} is an ability on a 45 second cooldown that puts a {{site.data.spell.fs}} onto a target and duplicates the next {{site.data.spell.lvb}} on all targets with an active {{site.data.spell.fs}}. It accelerates the speed in which we get {{site.data.spell.fs}} out and provides good damage on single target, spread cleave and low target AoE.<br/><br/>{{site.data.spell.tumbling_waves}} is a conduit that grants a chance to refresh the cooldown on use.
 {{site.data.spell.fleshcraft}} | {{site.data.spell.fleshcraft}} is a channeled ability that gives you a 40% HP shield for 2 minutes. While channeling this reduces damage taken by 20%. Also passively reduces the cooldown when moving near corpses by absorbing their essence. 1 second per corpse.<br/><br/>This can be cast before entering combat. It can be useful as another defensive in our toolkit, but 20% is usually not impactful enough to cast it during combat outside of downtime.
