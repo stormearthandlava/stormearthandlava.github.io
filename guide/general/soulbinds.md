@@ -6,7 +6,7 @@ game_version: 9.1.5 Shadowlands
 toc: true
 ---
 
-The following charts present all Soulbinds, including their Covenant abilities in Patchwerk (Single Target) and HecticAddCleave (AoE with some movement) environement.
+The following charts present all Soulbinds, including their Covenant abilities in Patchwerk (Single Target) and HecticAddCleave (AoE with some movement) environment.
 
 Generaly you want to either join Necrolord or Night Fae.
 
