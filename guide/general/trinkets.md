@@ -2,7 +2,7 @@
 layout: highcharts_page
 title: Trinkets
 last_update: 2021-11-15 09:00:00
-game_version: 9.1.5 Battle for Azeroth
+game_version: 9.1.5 Shadowlands
 toc: true
 ---
 
