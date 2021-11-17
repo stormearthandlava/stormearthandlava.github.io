@@ -18,7 +18,7 @@ title: Storm, Earth & Lava
 description: >- # this means to ignore newlines until "baseurl:"
   Guides for Elemental Shamans of World of Warcraft
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stormearthandlava.com" # the base hostname & protocol for your site, e.g. http://example.com
 patreon_name: stormearthlava
 discord_servername: Storm, Earth & Lava
 discord_invite: https://discord.gg/VA7wXVx

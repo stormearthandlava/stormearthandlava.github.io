@@ -1,7 +1,7 @@
 ## Welcome to Storm, Earth & Lava
 > A resource for Elemental Shamans in World of Warcraft
 
-[back to web-page](http://stormearthandlava.com/)
+[back to web-page](https://stormearthandlava.com/)
 
 ### Support us
 [Patreon](https://www.patreon.com/stormearthlava)
@@ -13,6 +13,6 @@
 [Wiki](https://github.com/stormearthandlava/stormearthandlava.github.io/wiki)
 
 ### Contact
-[Discord](http://discord.me/stormearthandlava)
+[Discord](https://discord.me/stormearthandlava)
 
-[back to web-page](http://stormearthandlava.com/)
+[back to web-page](https://stormearthandlava.com/)

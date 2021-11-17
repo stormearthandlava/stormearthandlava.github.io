@@ -34,7 +34,7 @@ For novice Elemental Shaman, the setup below is great for players starting out a
 * **50:** {{ site.data.talent.stormkeeper }}
 * **Legendary:** {{ site.data.legendary.eogs }} or {{ site.data.legendary.skybreaker }}
 
-In coordinated and varied group compositions, you may also consider {{ site.data.talent.earthen_rage }} and/or {{ site.data.talent.ancestral_guidance }} as potential talents. Think critically about what your group needs to decide if you want to explore those options or not. For more reading, please visit our [Talents](http://stormearthandlava.com/guide/general/talents.html) and [Legendaries](http://stormearthandlava.com/guide/general/legendaries.html) pages.
+In coordinated and varied group compositions, you may also consider {{ site.data.talent.earthen_rage }} and/or {{ site.data.talent.ancestral_guidance }} as potential talents. Think critically about what your group needs to decide if you want to explore those options or not. For more reading, please visit our [Talents](https://stormearthandlava.com/guide/general/talents.html) and [Legendaries](https://stormearthandlava.com/guide/general/legendaries.html) pages.
 
 # Miscellaneous Tips
 

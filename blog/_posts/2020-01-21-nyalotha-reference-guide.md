@@ -8,7 +8,7 @@ author: Altenna
 
 Hello Elemental Shaman friends,
 
-I have put together an [Elemental Shaman reference guide](http://bit.ly/EleShamanNyalotha) which details talents and spec-specific strategies for Heroic Ny'alotha as well as a comprehensive list of loot from the raid. Please read the disclaimers at the top of both tabs.
+I have put together an [Elemental Shaman reference guide](https://bit.ly/EleShamanNyalotha) which details talents and spec-specific strategies for Heroic Ny'alotha as well as a comprehensive list of loot from the raid. Please read the disclaimers at the top of both tabs.
 
 If there is something you disagree with or think otherwise, that's okay! Remember to do what's best for you and your raid team. If you have any questions or feedback for improvement, please feel free to DM me (Discord: JudgeJames#0001).
 
