@@ -59,5 +59,5 @@ Looks like we don't have an AoE option. And no...the Earth Elemental is not one,
 
 Next stop: conduits. Hint: Empowering Lightning Bolt and Fulmination spenders is a reduction to the impact of Lava Burst.
 
-Yours sincerely,
+Yours sincerely,<br/>
 Bloodmallet(EU)

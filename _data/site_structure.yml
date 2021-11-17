@@ -12,12 +12,10 @@ categories:
       url: /guide/general/stats.html
     - title: Legendaries
       url: /guide/general/legendaries.html
-    - title: Covenant
-      url: /guide/general/covenant.html
-    - title: Soulbind
-      url: /guide/general/soulbind.html
-    - title: Soulbind Charts
-      url: /guide/general/soulbind_charts.html
+    - title: Covenants
+      url: /guide/general/covenants.html
+    - title: Soulbinds
+      url: /guide/general/soulbinds.html
     - title: Trinkets
       url: /guide/general/trinkets.html
     - title: Consumables

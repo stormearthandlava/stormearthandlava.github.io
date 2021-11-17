@@ -1,24 +1,23 @@
 ---
 title: Stats
 layout: page
-last_update: 2020-01-11 09:00:00
-game_version: 9.0.2 Shadowlands
+last_update: 2021-11-15 09:00:00
+game_version: 9.1.5 Shadowlands
 toc: true
 ---
 
-Due to the fact that different legendaries and different soulbinds prefer different stats, giving a "one fits all" sort of BiS gear list is a nearly impossible task.
+Due to the fact that different Legendaries, Talents, and different Soulbinds prefer different stats, giving a "one fits all" sort of BiS gear list is a nearly impossible task.
 For that reason we still recommend simming yourself and comparing specific pieces of gear to each other. The following Stat Ratios should give you a general idea what to go for and which items to target.
 
 ## Stat ratios
 
-Below are our advised stat gearing strategies for talent combinations. We won’t release numbers for every single talent, legendary, covenant and soulbind combination, but the general ratio and priority serve as a good all-round distribution.
+Below are our advised stat gearing strategies for talent combinations. We won’t release numbers for every single Talent, Legendary, Covenant, and Soulbind combination, but the general ratio and priority serve as a good all-round distribution. The introduced diminishing returns on secondary stats in Shadowlands does not affect the following stat ratios (we don't have enough stats yet).
 
 Purpose | Crit | Haste | Mastery | Vers
 --- | --- | --- | --- | ---
 Dungeon / Mythic+ / AoE | 0.6 | 0.2 | 0.1 | 0.1
 Raid / Single Target (Windspeaker) | 0.1 | 0.5 | 0.1 | 0.3
 Raid / Cleave (non-WS)| 0.3 | 0.3 | 0.1 | 0.3
-Funneling | 0.1 | 0.5 | 0.1 | 0.3
 
 Expand the section below if you want more information on what these ratios are and/or how to use them:
 
@@ -31,7 +30,6 @@ Expand the section below if you want more information on what these ratios are a
         </button>
       </h5>
     </div>
-
     <div id="statRatiosCollapse" class="collapse" aria-labelledby="statRatiosHeader" data-parent="#accordion">
       <div class="card-body" markdown="1">
 
@@ -50,7 +48,7 @@ First and foremost: you cannot put these into Pawn, ratios should never be consi
 Do note that using these ratios should be a long term strategy, as they aren’t as easily used for single item comparisons. This is where we stress the value of simming yourself; there are plenty of guides on how to do it, and [Raidbots](https://raidbots.com/) has an excellent interface for this. Simming yourself will give you the most granular information, but opting to use stat ratios in favour of stat weights will result in a better overall gearset with much less variation. Without simming, the best way to determine if an item is an upgrade is to think about whether it will bring you closer to or further away from the stat ratio.
 
 #### How are stat ratios calculated?
-We make heavy use of [bloodytools](https://github.com/Bloodmallet/bloodytools), a SimulationCraft wrapper for batch simulations with a spread of different secondary stat distributions. This is used for almost every talent combination you can think of to find both a general trend in the highest DPS stat distributions and for talent comparisons. In essence, the program aids our research immensely by allowing rapid prototyping. We use a few constraints to make sure the distributions are realistically achievable. Bloodytools then generates a series of the top few best distributions for each talent/legendary setup we’ve asked for. We present either raw stat ratios (like in Gambling) or aggregate means for a best fit across a large number of talent/legendary setups (like the AoE and General stat ratios).
+We make heavy use of [bloodytools](https://github.com/Bloodmallet/bloodytools), a SimulationCraft wrapper for batch simulations with a spread of different secondary stat distributions. This is used for almost every talent combination you can think of to find both a general trend in the highest DPS stat distributions and for talent comparisons. In essence, the program aids our research immensely by allowing rapid prototyping. We use a few constraints to make sure the distributions are realistically achievable. Bloodytools then generates a series of the top few best distributions for each talent/legendary setup we’ve asked for. We present either raw stat ratios (like for Windspeaker) or aggregate means for a best fit across a large number of talent/legendary setups (like the Dungeon / Mythic+ / AoE and General stat ratios).
 
 
   </div>
