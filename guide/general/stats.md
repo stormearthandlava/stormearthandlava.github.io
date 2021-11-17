@@ -6,12 +6,12 @@ game_version: 9.1.5 Shadowlands
 toc: true
 ---
 
-Due to the fact that different legendaries and different soulbinds prefer different stats, giving a "one fits all" sort of BiS gear list is a nearly impossible task.
+Due to the fact that different Legendaries, Talents, and different Soulbinds prefer different stats, giving a "one fits all" sort of BiS gear list is a nearly impossible task.
 For that reason we still recommend simming yourself and comparing specific pieces of gear to each other. The following Stat Ratios should give you a general idea what to go for and which items to target.
 
 ## Stat ratios
 
-Below are our advised stat gearing strategies for talent combinations. We won’t release numbers for every single talent, legendary, covenant and soulbind combination, but the general ratio and priority serve as a good all-round distribution.
+Below are our advised stat gearing strategies for talent combinations. We won’t release numbers for every single Talent, Legendary, Covenant, and Soulbind combination, but the general ratio and priority serve as a good all-round distribution. The introduced diminishing returns on secondary stats in Shadowlands does not affect the following stat ratios (we don't have enough stats yet).
 
 Purpose | Crit | Haste | Mastery | Vers
 --- | --- | --- | --- | ---
