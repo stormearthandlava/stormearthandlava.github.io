@@ -2,7 +2,7 @@
 layout: page
 title: F.A.Q.
 last_update: 2021-11-15 09:00:00
-game_version: 9.0.5 Shadowlands
+game_version: 9.1.5 Shadowlands
 toc: true
 ---
 
