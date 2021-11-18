@@ -8,13 +8,13 @@ toc: true
 
 ## TL;DR Recommendations
 
-Many more talent combinations may work. We're listing the most robust ones (for example less affected by movement).
+Many more talent combinations may work. We're listing the most robust ones (for example less affected by movement). If multiple talents are shown the first one is the recommendation and the later ones are solid alternatives.
 
 Type | Talent combination
 --- | ---
 Questing / Solo&nbsp;Content | 15: {{ site.data.talent.eote }}<br/> 25: {{ site.data.talent.eb }}<br/> 25: {{ site.data.talent.earth_shield }}<br/> 35: {{ site.data.talent.mote }}<br/> 40: {{ site.data.talent.natures_guardian }}<br/> 45: {{ site.data.talent.pe }}<br/> 50: {{ site.data.talent.sk }}
-Mythic+ | 15: {{ site.data.talent.echo }} **OR** {{ site.data.talent.er }}<br/> 25: {{ site.data.talent.afs }}<br/> 30: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br/> 35: {{ site.data.talent.mote }} **OR** {{ site.data.talent.se }} <br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br/> 45: {{ site.data.talent.pe }}<br/> 50: {{site.data.talent.sk}}
-Raid / Single&nbsp;Target | 15: {{ site.data.talent.echo }}<br/> 25: {{ site.data.talent.eb }}<br/> 30: {{ site.data.talent.sw }}<br/> 35: {{ site.data.talent.mote }}<br/> 40: {{ site.data.talent.natures_guardian }}<br/> 45: {{ site.data.talent.if }} **OR** {{ site.data.talent.pe }}<br/> 50: {{ site.data.talent.sk }}
+Mythic+ | 15: {{ site.data.talent.echo }} **OR** {{ site.data.talent.er }} (with {{ site.data.talent.se }})<br/> 25: {{ site.data.talent.afs }}<br/> 30: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br/> 35: {{ site.data.talent.mote }} **OR** {{ site.data.talent.se }}<br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br/> 45: {{ site.data.talent.pe }}<br/> 50: {{site.data.talent.sk}}
+Raid / Single&nbsp;Target | 15: {{ site.data.talent.echo }}<br/> 25: {{ site.data.talent.eb }}<br/> 30: {{ site.data.talent.sw }}<br/> 35: {{ site.data.talent.mote }}<br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.wrt }}<br/> 45: {{ site.data.talent.if }} **OR** {{ site.data.talent.pe }}<br/> 50: {{ site.data.talent.sk }}
 
 **Special Mention** {{ site.data.talent.pe }} Is fairly close to {{ site.data.talent.if }} on single target, and is generally more powerful when multiple targets are present. We recommend inexperienced shamans use {{ site.data.talent.pe }} regardless, as {{ site.data.talent.if }} is significantly more complex.
 
@@ -164,7 +164,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.if}} (IF)</h4>
                 <p markdown="1">This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. {{ site.data.talent.if }} empowered {{ site.data.spell.frs }} generate Maelstrom. This gives you more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
                 <hr><br/>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.if }} in combination with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one target if you need movement. Outside of that {{ site.data.talent.pe }} becomes the default choice. Both talents are pretty much equivalent on single target, with {{ site.data.talent.pe }} becoming better when more targets are available. {{ site.data.talent.sop }} stays similarly to how it performed in BfA with it only being worth considering if you need the {{ site.data.talent.fs }}-spreading or know the kill timers perfectly.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.if }} in combination with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one target. Alternatively {{ site.data.talent.pe }} can be used. Both talents are pretty much equivalent on single target, with {{ site.data.talent.pe }} becoming better when more targets are available. {{ site.data.talent.sop }} stays similarly to how it performed in BfA with it only being worth considering if you need the {{ site.data.talent.fs }}-spreading or know the kill timers perfectly.</p>
             </div>
         </div>
     </div>
