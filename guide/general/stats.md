@@ -7,7 +7,7 @@ toc: true
 ---
 
 Due to the fact that different Legendaries, Talents, and different Soulbinds prefer different stats, giving a "one fits all" sort of BiS gear list is a nearly impossible task.
-For that reason we still recommend simming yourself and comparing specific pieces of gear to each other. The following Stat Ratios should give you a general idea what to go for and which items to target.
+For that reason we still recommend **sim**ming **yourself** and comparing specific pieces of gear to each other. The following Stat Ratios should give you a general idea what to go for and which items to target.
 
 ## Stat ratios
 
