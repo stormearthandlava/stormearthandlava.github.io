@@ -27,7 +27,7 @@ toc: true
 
 Gear slot | Enchant
 --- | ---
-Weapon | {{ site.data.item.sinful_revelation }} for pure single target, {{site.data.item.lightless_force}} for stacked AoE, {{site.data.item.celestial_guidance}} for something in between
+Weapon | {{site.data.item.celestial_guidance}} for everything, {{ site.data.item.sinful_revelation }} for pure single target
 Cloak | {{ site.data.item.fortified_speed}}
 Chest | {{ site.data.item.eternal_insight}} for single target {{site.data.item.eternal_stats}} for AoE
 Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above. (likely {{site.data.item.tenet_of_haste}})
