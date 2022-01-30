@@ -1,7 +1,7 @@
 ---
 layout: highcharts_page
 title: Soulbinds
-last_update: 2021-11-15 09:00:00
+last_update: 2022-01-30 09:00:00
 game_version: 9.1.5 Shadowlands
 toc: true
 ---
