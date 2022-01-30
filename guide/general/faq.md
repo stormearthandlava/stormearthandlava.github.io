@@ -8,9 +8,11 @@ toc: true
 
 This page has the answers to some frequently asked questions for Elemental Shamans.
 
-### Q: "Will Elemental be viable in <Exapansion name> <game version>?"
+### Q: "Will Elemental be viable in <Expansion name> <game version>?"
 Firstly, no spec in the game is unviable. Certain specs may be favoured for certain bosses in a raid, but this is only relevant to the very highest end of raiding (ie, competing for world first). Elemental (and every other spec) will remain competitive for 99.9% of the playerbase.
-
+### Q: "Is there a point where I don't cast {{site.data.spell.es}} with {{site.data.legendary.eogs}} equipped?"
+**No**, the value added by the {{site.data.legendary.eogs}} buff scales with additional targets so it is **always** worthwhile to alternate spenders with {{site.data.legendary.eogs}} equipped.
+ 
 ### Q: "What Pots/Food/Flasks should I use?"
 See the [Consumables]({{ site.baseurl }}{% link guide/general/consumables.md %}) section of the guide.
 
