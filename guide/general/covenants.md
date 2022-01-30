@@ -17,9 +17,27 @@ With the advent of Covenant swapping in [9.1.5](https://shadowlands.wowhead.com/
 
 For increased usability here are useful Covenant macros:
 
-
+Shaman Abilities:
+```
+#showtooltip
+/use [@cursor]Vesper Totem
+/use [@cursor]Fae Transfusion
+/use [@mouseover,harm,nodead][harm]Primordial Wave
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Primordial Wave" or G"Vesper Totem" or G"Fae Transfusion")
 Soulbind dps information can be found [here]({{ site.baseurl }}{% link guide/general/soulbinds.md %}).
+```
+Note: Due to the character limit on macros in addition to 3/4 of our Covenant Abilities making use of targeting conditionals, fitting all 4 abilities in is difficult to do in a satisfying way. Venthyr's {{site.data.spell.chain_harvest}} is left out only because it benefits the least from targeting conditionals. This macro can be adapted to your 3 most-used Covenants.
 
+Covenant Abilities:
+```
+#showtooltip
+/use [@cursor]Door of Shadows
+/use Soulshape
+/use Fleshcraft
+/use Summon Steward
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Door of Shadows" or G"Soulshape" or G"Fleshcraft" or "Summon Steward")
+```
+Note: You can swap the 'Summon Steward' line for ```/use Phial of Serenity``` and have the Summon Steward ability bound separately, as it's typically used out of combat.
 
 ## Overview
 
