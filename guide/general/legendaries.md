@@ -10,9 +10,9 @@ toc: true
 - {{ site.data.legendary.windspeaker }} for single target
 - {{ site.data.legendary.eogs }} for M+ and stacked AoE
 - {{ site.data.legendary.night_fae }} for M+ and stacked AoE
-- {{ site.data.legendary.skybreaker }} for M+ and spread cleave
+- {{ site.data.legendary.skybreaker }} for spread cleave
 
-NOTE: {{ site.data.legendary.eogs }}, {{ site.data.legendary.night_fae }}, and {{ site.data.legendary.skybreaker }} work for M+. They work with {{ site.data.talent.mote }} and {{ site.data.talent.se }} and have different build preferences for damage profiles.
+For more information on M+ setups see the [M+ Section](http://stormearthandlava.com/guide/mythic_plus/mythic_plus.html).
 
 
 The following charts show the value of specific Legendaries in single target and AoE situations. Use this as a general guide, but don't treat it as gospel. Remember that different legendaries are propped up by different sets of stats and talents and the charts are simmed with a constant set of gear and talents.
