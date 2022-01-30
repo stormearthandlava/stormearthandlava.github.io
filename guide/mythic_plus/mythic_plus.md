@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 2021-05-12 09:00:00
+last_update: 2022-01-30 09:00:00
 game_version: 9.0.5 Shadowlands
 author: Altenna
 toc: false
