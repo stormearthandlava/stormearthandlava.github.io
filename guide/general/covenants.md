@@ -10,16 +10,10 @@ toc: true
 At full Renown
 
 ------- | -------------------
-Raiding | Necrolord / Night Fae
+Raiding | Necrolord / Night Fae / Kyrian
 Mythic+ | Necrolord / Night Fae / Kyrian
 
-
-If you want to multispec the recommendation changes:
-
-------------------------- | -----------------------
-Restoration and Elemental | Necrolord
-Enhancement and Elemental | Kyrian
-All Specs                 | Kyrian
+With the advent of Covenant swapping in [9.1.5](https://shadowlands.wowhead.com/guides/shadowlands-patch-9-1-5-features) it is easy to achieve the minimum required level of Renown 57 in multiple Covenants and use the recommendations of the relevant specialisation resources. **Achieve Renown 80 in a single Covenant before attempting to swap!**
 
 Soulbind dps information can be found [here]({{ site.baseurl }}{% link guide/general/soulbinds.md %}).
 
