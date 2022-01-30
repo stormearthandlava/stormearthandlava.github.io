@@ -52,11 +52,12 @@ Kyrian | Venthyr | Night Fae | Necrolords
         <!-- covenant abilities end -->
         <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.es }} while affected by {{site.data.talent.ecs}}.</li>
         <li class="ecs-apl" style="display:none;">Cast {{ site.data.talent.ecs }}.</li>
-        <li class="eb-apl" style="display: list-item;">Cast {{ site.data.talent.eb }} on cooldown, if neither {{ site.data.talent.se }}/{{ site.data.talent.asc }} is active nor you could cast a {{ site.data.talent.mote }} empowered {{ site.data.spell.es }} instead.</li>
-        <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.talent.sk }} on cooldown and ideally game it with {{ site.data.talent.sop }} if you selected this talent. See <a href="#stormkeeper--surge-of-power">special cases</a> below for more information.</li>
+        <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} if {{site.data.talent.if}} buffs would run out.
+        <li class="eb-apl" style="display: list-item;">Cast {{ site.data.talent.eb }} on cooldown, if{{ site.data.talent.asc }} is not active and ideally with less than 70 maelstrom.</li>
+        <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.talent.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:none;" >Cast {{ site.data.talent.lmt }} on cooldown.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.talent.asc }} on cooldown, if neither {{ site.data.talent.se }} is active, nor {{ site.data.spell.lvb }} is available, nor {{ site.data.talent.if }} is active.</li>
-        <li>Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies and it can do at least 8 ticks.</li>
+        <li>Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies and it can do at least 6 ticks.</li>
         <li class="sk-apl" style="display: list-item;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.sk }} is active and when any of the following are true (if you don't see any following conditions, ignore this line):
             <ul>
                 <li class="mote-apl" style="display: list-item;">{{ site.data.talent.mote }} is active and {{ site.data.talent.sop }} is NOT selected.</li>
