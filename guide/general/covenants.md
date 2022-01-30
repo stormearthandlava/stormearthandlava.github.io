@@ -15,6 +15,9 @@ Mythic+ | Necrolord / Night Fae / Kyrian
 
 With the advent of Covenant swapping in [9.1.5](https://shadowlands.wowhead.com/guides/shadowlands-patch-9-1-5-features) it is easy to achieve the minimum required level of Renown 57 in multiple Covenants and use the recommendations of the relevant specialisation resources. **Achieve Renown 80 in a single Covenant before attempting to swap!**
 
+For increased usability here are useful Covenant macros:
+
+
 Soulbind dps information can be found [here]({{ site.baseurl }}{% link guide/general/soulbinds.md %}).
 
 
