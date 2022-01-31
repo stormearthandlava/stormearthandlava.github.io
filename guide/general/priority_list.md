@@ -52,8 +52,8 @@ Kyrian | Venthyr | Night Fae | Necrolords
         <!-- covenant abilities end -->
         <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.es }} while affected by {{site.data.talent.ecs}}.</li>
         <li class="ecs-apl" style="display:none;">Cast {{ site.data.talent.ecs }}.</li>
-        <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} if {{site.data.talent.if}} buffs would run out.
-        <li class="eb-apl" style="display: list-item;">Cast {{ site.data.talent.eb }} on cooldown, if{{ site.data.talent.asc }} is not active and ideally with less than 70 maelstrom.</li>
+        <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} if {{site.data.talent.if}} buffs would run out.</li>
+        <li class="eb-apl" style="display: list-item;">Cast {{ site.data.talent.eb }} on cooldown, if {{ site.data.talent.asc }} is not active and ideally with less than 70 maelstrom.</li>
         <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.talent.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:none;" >Cast {{ site.data.talent.lmt }} on cooldown.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.talent.asc }} on cooldown, if neither {{ site.data.talent.se }} is active, nor {{ site.data.spell.lvb }} is available, nor {{ site.data.talent.if }} is active.</li>
@@ -169,9 +169,9 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
 ### {{ site.data.spell.vesper_totem }} with {{site.data.legendary.kyrian}} equipped.
 - With {{site.data.legendary.kyrian}} equipped it is a DPS gain to cast Healing Spells in order to benefit from the second explosion.
 - if up to **7** targets are present use the following sequence:
-    -{{site.data.talent.ag}}, {{site.data.spell.healing_stream_totem}}, and either {{site.data.talent.earth_shield}} when talented *or* {{site.data.spell.healing_surge}}. Activating {{site.data.talent.ag}} counts as one healing spell for this purpose providing great value as it is off the GCD.
+    -{{site.data.talent.ag}}, {{site.data.spell.healing_stream_totem}}, and {{site.data.spell.healing_surge}}. Activating {{site.data.talent.ag}} counts as one healing spell for this purpose providing great value as it is off the GCD.
 - if up to **3** targets are present use the following sequence (this assumes {{site.data.talent.ag}} is not available!)
-    -{{site.data.spell.healing_stream_totem}}, followed by 2x {{site.data.talent.earth_shield}} when talented *or* 2x {{site.data.spell.healing_surge}}.
+    -{{site.data.spell.healing_stream_totem}}, followed by 2x {{site.data.spell.healing_surge}}.
 
 
 ### {{ site.data.talent.mote }}
@@ -190,14 +190,14 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
 - don't stress too much over gaming {{ site.data.talent.mote }}. It mostly happens naturally.
 
 ### {{ site.data.talent.if }} with {{site.data.legendary.windspeaker}} equipped and {{site.data.talent.eb}} talented.
--The priority with these conditions met is a little complex so this section can be used to help players learn and become more familiar with the setup.
+- The priority with these conditions met is a little complex so this section can be used to help players learn and become more familiar with the setup.
 - Use {{site.data.talent.if}} on cooldown, or as higher priority if a mechanic will force you to move in the next 5 seconds.
 - {{site.data.talent.if}} charges should aim to be consumed before they expire, subject to the following priority:
-    -{{site.data.spell.lvb}} (without {{site.data.talent.mote}} active), {{site.data.talent.eb}} and {{site.data.spell.es}} have higher priority when {{site.data.talent.if}} buff duration is higher than the GCDs required to spend the remaining stacks.
-    -{{site.data.spell.fs}} has the highest priority when {{site.data.talent.if}} buff duration is approaching the GCDs required to spend the remaining stacks.
-    -It can be helpful to stagger use of {{site.data.talent.sk}} to avoid conflict with {{site.data.talent.if}}
-    -Avoid overthinking {{site.data.talent.mote}}, the buff is worth 20% of the spell it effects but losing an {{site.data.talent.if}} charge is losing 100%.
-    -GCDs: Mentioned above is duration as measured by GCDs required, to clarify each {{site.data.talent.if}} charge requires one GCD to spend which is a base of 1.5s and is reduced by Haste. This means if you have three stacks of {{site.data.talent.if}} remaining you will need [3 x 1.5 = 4.5] seconds *minimum* to spend the charges, and haste will reduce this amount however for learning purposes using the base amounts is advised.
+    - {{site.data.spell.lvb}} (without {{site.data.talent.mote}} active), {{site.data.talent.eb}} and {{site.data.spell.es}} have higher priority when {{site.data.talent.if}} buff duration is higher than the GCDs required to spend the remaining stacks.
+    - {{site.data.spell.fs}} has the highest priority when {{site.data.talent.if}} buff duration is approaching the GCDs required to spend the remaining stacks.
+    - It can be helpful to stagger use of {{site.data.talent.sk}} to avoid conflict with {{site.data.talent.if}}
+    - Avoid overthinking {{site.data.talent.mote}}, the buff is worth 20% of the spell it effects but losing an {{site.data.talent.if}} charge is losing 100%.
+    - GCDs: Mentioned above is duration as measured by GCDs required, to clarify each {{site.data.talent.if}} charge requires one GCD to spend which is a base of 1.5s and is reduced by Haste. This means if you have three stacks of {{site.data.talent.if}} remaining you will need `3 x 1.5 = 4.5` seconds *minimum* to spend the charges, and haste will reduce this amount however for learning purposes using the base amounts is advised.
         
 ### {{ site.data.talent.sk }} + {{ site.data.talent.sop }}
 - Change: You pool Maelstrom before casting {{ site.data.talent.sk }} to combo both empowered {{ site.data.spell.lb }} with {{ site.data.talent.sop }}
@@ -213,13 +213,13 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
 ### {{ site.data.talent.se }} in Single Target
 In 9.1.5 the Single Target priority during {{site.data.talent.se}} has become conditional on {{site.data.spell.bloodlust}}.
 
--During {{site.data.spell.bloodlust}}
+- During {{site.data.spell.bloodlust}}
     - Spend Maelstrom on {{site.data.spell.es}} (or {{site.data.spell.eq}} with {{site.data.legendary.eogs}} equipped).
     - Use {{site.data.spell.lb}}.
     - Use {{site.data.spell.ls}} if you need to move and {{site.data.spell.fs}} is active.
     - Refresh {{site.data.spell.fs}} if you need to move and {{site.data.spell.fs}} is not active *or* has less than 5.4 seconds remaining
 
--Without {{site.data.spell.bloodlust}}
+- Without {{site.data.spell.bloodlust}}
     - Spend Maelstrom on {{site.data.spell.es}} (or {{site.data.spell.eq}} with {{site.data.legendary.eogs}} equipped).
     - Use {{site.data.spell.ls}} procs.
     - Refresh {{site.data.spell.fs}} if it is not active *or* has less than 5.4 seconds remaining.
