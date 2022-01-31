@@ -24,7 +24,6 @@ Shaman Abilities:
 /use [@cursor]Fae Transfusion
 /use [@mouseover,harm,nodead][harm]Primordial Wave
 /run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Primordial Wave" or G"Vesper Totem" or G"Fae Transfusion")
-Soulbind dps information can be found [here]({{ site.baseurl }}{% link guide/general/soulbinds.md %}).
 ```
 Note: Due to the character limit on macros in addition to 3/4 of our Covenant Abilities making use of targeting conditionals, fitting all 4 abilities in is difficult to do in a satisfying way. Venthyr's {{site.data.spell.chain_harvest}} is left out only because it benefits the least from targeting conditionals. This macro can be adapted to your 3 most-used Covenants.
 
@@ -43,9 +42,10 @@ Note: You can swap the 'Summon Steward' line for ```/use Phial of Serenity``` an
 
 First things first. All Covenants are relatively well balanced. The difference is usually within the single digit percentages and you should pick your Covenant depending on what you actually like to play.
 
-Recommending "best" Covenant is a pretty impossible tasks.
+Recommending "best" Covenant is a pretty impossible task.
 The strength of the Covenants breaks down to the strength of the Covenant signature ability, the strength of the Covenant class ability, and the strength of their Soulbinds.
 
+Soulbind dps information can be found [here]({{ site.baseurl }}{% link guide/general/soulbinds.md %}).
 
 ### Kyrian
 
