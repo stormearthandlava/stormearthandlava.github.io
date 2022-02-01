@@ -6,6 +6,16 @@ excerpt: Sim settings and you!
 author: Eokira
 ---
 This post aims to discuss simming as it relates to Elemental, and will cover the basics needed to get started as well as some information on Fight Styles.
+
+# Table of Contents
+- [How to Sim?](#how-to-sim)
+- [Choosing the appropriate Sim Type](#choosing-the-appropriate-sim-type)
+- [Choosing the appropriate sim options](#choosing-the-appropriate-sim-options)
+- [Recommendations](#recommendations)
+   - [Single Target](#single-target)
+   - [M+](#m)
+   - [M+ Night Fae and Kyrian](#m-night-fae-and-kyrian)
+- [Additional Resources](#additional-resources)
     
 ### How to Sim?
 
@@ -81,10 +91,10 @@ We're going to be using [Raidbots](https://www.raidbots.com/simbot) as a way to 
 
 To make gear comparisons for the specific purpose of optimizing a difficult pull in a M+ Dungeon you can vary the target number and the duration for your group.<br/>
 
-### M+ V.2
+### M+ Night Fae and Kyrian
 #### `Hectic Add Cleave 1 Boss varied durations`
 
-If you aren't optimizing a specific pull by using Patchwerk AoE then using Hectic Add Cleave can be useful to include because it gives you an approximation of the value gained by {{site.data.soulbinds.first_strike}} and similar effects.
+If you aren't optimizing a specific pull by using Patchwerk AoE then using Hectic Add Cleave can be useful to include because it gives you an approximation of the value gained by {{site.data.soulbinds.first_strike}} and {{site.data.soulbinds.hammer_of_genesis}}.
 
 ### Additional Resources
 
