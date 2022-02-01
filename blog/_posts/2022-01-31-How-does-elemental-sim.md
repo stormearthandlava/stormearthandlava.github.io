@@ -6,17 +6,16 @@ excerpt: Sim settings and you!
 author: Eokira
 ---
 This post aims to discuss simming as it relates to Elemental, and will cover the basics needed to get started as well as some information on Fight Styles.
-
+    
 ### How to Sim?
 
 We're going to be using [Raidbots](https://www.raidbots.com/simbot) as a way to produce sims for your characters without the need to add complex information.
 
-Step by step:
 - Getting your character information via [Simulationcraft addon](https://www.curseforge.com/wow/addons/simulationcraft)
    - Once installed you can run `/simc` in-game to produce a list of character information.
    - Copy and Paste this information to the `Load from SimC Addon' section of Raidbots.
-
-### Choosing the appropriate Sim type:
+    
+### Choosing the appropriate Sim type
    
    - [Top Gear](https://www.raidbots.com/simbot/topgear)
       - The most widely used Sim type, Top Gear allows you to compare just about anything about your character options
@@ -39,7 +38,7 @@ Step by step:
    - [Quick Sim](https://www.raidbots.com/simbot/quick)
       - Uses your SimC addon input to produce a basic sim result where you can view overall result and damage breakdown.
       
-### Choosing the appropriate Sim Options:
+### Choosing the appropriate Sim Options
    
    - Fight Style
       - Patchwerk
