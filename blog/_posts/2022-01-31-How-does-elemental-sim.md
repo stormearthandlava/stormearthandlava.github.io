@@ -74,15 +74,15 @@ We're going to be using [Raidbots](https://www.raidbots.com/simbot) as a way to 
 ### Recommendations 
 
 ### Single Target
-> Patchwerk 1 Boss 5 Minutes, consider varying Fight Length if appropriate
+`Patchwerk 1 Boss 5 Minutes, consider varying Fight Length if appropriate`
 
 ### M+
-> Patchwerk 4-6 Bosses 40 seconds
+`Patchwerk 4-6 Bosses 40 seconds`
 
 To make gear comparisons for the specific purpose of optimizing a difficult pull in a M+ Dungeon you can vary the target number and the duration for your group.<br/>
 
 ### M+ V.2
-> Hectic Add Cleave 1 Boss varied durations
+`Hectic Add Cleave 1 Boss varied durations`
 
 If you aren't optimizing a specific pull by using Patchwerk AoE then using Hectic Add Cleave can be useful to include because it gives you an approximation of the value gained by {{site.data.soulbinds.first_strike}} and similar effects.
 
