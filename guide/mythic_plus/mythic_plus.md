@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 2021-05-12 09:00:00
-game_version: 9.0.5 Shadowlands
+last_update: 2022-01-30 09:00:00
+game_version: 9.1.5 Shadowlands
 author: Altenna
 toc: false
 ---
@@ -25,16 +25,27 @@ This guide is intended to help you identify critical mobs and abilities as well 
 
 For novice Elemental Shaman, the setup below is great for players starting out as well as for +15 keys and beyond:
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{site.data.talent.aftershock}}
-* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.static_charge }}
-* **35:** {{ site.data.talent.master_of_the_elements }} or {{ site.data.talent.storm_elemental }}
-* **40:** {{ site.data.talent.natures_guardian }}
+* **15:** {{ site.data.talent.echo_of_the_elements }} **or** {{ site.data.talent.earthen_rage }} (with {{ site.data.talent.storm_elemental }})
+* **25:** {{ site.data.talent.aftershock }}
+* **30:** {{ site.data.talent.spirit_wolf }} **or** {{ site.data.talent.static_charge }}
+* **35:** {{ site.data.talent.master_of_the_elements }} **or** {{ site.data.talent.storm_elemental }}
+* **40:** {{ site.data.talent.ancestral_guidance }} **or** {{ site.data.talent.natures_guardian }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-* **Legendary:** {{ site.data.legendary.eogs }} or {{ site.data.legendary.skybreaker }}
+* **Legendary:** {{ site.data.legendary.eogs }} **or** {{ site.data.legendary.night_fae }}
 
-In coordinated and varied group compositions, you may also consider {{ site.data.talent.earthen_rage }} and/or {{ site.data.talent.ancestral_guidance }} as potential talents. Think critically about what your group needs to decide if you want to explore those options or not. For more reading, please visit our [Talents](https://stormearthandlava.com/guide/general/talents.html) and [Legendaries](https://stormearthandlava.com/guide/general/legendaries.html) pages.
+**Which setup to use?**
+Currently the highest performing setups are:
+* {{ site.data.legendary.eogs }} + {{ site.data.talent.storm_elemental }}
+* {{ site.data.legendary.night_fae }} + {{ site.data.talent.storm_elemental }}
+
+As the recommended Covenant choice for M+ content is Night Fae your Soulbind choices are:
+* Korayn for {{ site.data.soulbinds.first_strike }}. This provides a large amount of value across an entire dungeon.
+* Dreamweaver for {{ site.data.soulbinds.field_of_blossom }}. This provides additional power directly after using {{ site.data.spell.fae_transfusion }} and has synergy with {{ site.data.legendary.night_fae }} allowing for more frequent burst windows applicable to both AoE and Single Target.
+
+
+For additional information, please visit our [Talents](https://stormearthandlava.com/guide/general/talents.html) and [Legendaries](https://stormearthandlava.com/guide/general/legendaries.html) pages.
+Don't forget to check out Additional Resources at the bottom of this page!
 
 # Miscellaneous Tips
 
@@ -72,7 +83,14 @@ In coordinated and varied group compositions, you may also consider {{ site.data
 
 **Seasonal Affix:**
 
-* [Prideful](https://shadowlands.wowhead.com/affix=121/prideful): [Prideful](https://shadowlands.wowhead.com/spell=340880/prideful) is best used before bosses or challenging trash packs, but keep in mind that [Bursting With Pride](https://shadowlands.wowhead.com/spell=342332/bursting-with-pride) will make up a large source of your damage taken. Plan your damage and defensive cooldowns accordingly, either for the Manifestation of Pride itself or for the pull afterwards, and use healing abilities as needed when fighting the Manifestation of Pride.
+* Tormented: [Tormented](https://shadowlands.wowhead.com/affix=128/tormented) is the Season 2 Affix for Shadowlands. Four mini-bosses are present in M+ dungeons at +10 or higher, providing a choice of bonuses to your character upon defeat!
+
+* [Incinerator Arkolath](https://shadowlands.wowhead.com/npc=179446/incinerator-arkolath) offers [Raging Battle-Axe](https://shadowlands.wowhead.com/spell=357864/raging-battle-axe), [Champion's Brand](https://shadowlands.wowhead.com/spell=357575/champions-brand)and [Signet of Bolstering](https://shadowlands.wowhead.com/spell=357848/signet-of-bolstering). The default choice is [Champion's Brand](https://shadowlands.wowhead.com/spell=357575/champions-brand) due to being more flexible in Single Target and AoE than the alternatives, you may also consider using [Signet of Bolstering](https://shadowlands.wowhead.com/spell=357848/signet-of-bolstering) on [Explosive](https://shadowlands.wowhead.com/affix=13/explosive) weeks.
+* [Oros Coldheart](https://shadowlands.wowhead.com/npc=179892/oros-coldheart) offers [Regenerative Fungus](https://shadowlands.wowhead.com/spell=357814/regenerative-fungus), [Vial of Desperation](https://shadowlands.wowhead.com/spell=357825/vial-of-desperation), and [Handbook of Uncivil Etiquette](https://shadowlands.wowhead.com/spell=357834/handbook-of-uncivil-etiquette). The only damage-increasing option available is [Handbook of Uncivil Etiquette](https://shadowlands.wowhead.com/spell=357834/handbook-of-uncivil-etiquette) which encourages you to interrupt as often as possible! A reasonable alternative is [Regenerative Fungus](https://shadowlands.wowhead.com/spell=357814/regenerative-fungus).
+* [Soggodon the Breaker](https://shadowlands.wowhead.com/npc=179891/soggodon-the-breaker) offers [The Stone Ward](https://shadowlands.wowhead.com/spell=357524/the-stone-ward), [Dripping Fang](https://shadowlands.wowhead.com/spell=356828/dripping-fang), and [Tiny Dancing Shoes](https://shadowlands.wowhead.com/spell=356827/tiny-dancing-shoes). The default choice is [The Stone Ward](https://shadowlands.wowhead.com/spell=357524/the-stone-ward) for its strong effect.
+* [Executioner Varruth](https://shadowlands.wowhead.com/npc=179890/executioner-varruth) offers [Champion's Brand](https://shadowlands.wowhead.com/spell=357575/champions-brand), [Dagger of Necrotic Wounding](https://shadowlands.wowhead.com/spell=357609/dagger-of-necrotic-wounding), and [Volcanic Plumage](https://shadowlands.wowhead.com/spell=357706/volcanic-plumage). There is more flexibility in this choice than the others; [Champion's Brand](https://shadowlands.wowhead.com/spell=357575/champions-brand) is a flexible default choice, [Dagger of Necrotic Wounding](https://shadowlands.wowhead.com/spell=357609/dagger-of-necrotic-wounding) is a Single Target orientated effect which makes it good for bosses and less-good at trash packs, [Volcanic Plumage](https://shadowlands.wowhead.com/spell=357706/volcanic-plumage) is an AoE orientated effect which provides an additional element of crowd-control via the knock-up effect but is less-good for boss encounters.
+
+As always make appropriate decisions for the level, dungeon, and group you're with. **Your choices here will not define your success or failure in a particular key**
 
 # Dungeons
 <p style="color:red">Click on a dungeon banner to expand it.</p>

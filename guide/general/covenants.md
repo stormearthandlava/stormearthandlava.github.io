@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Covenants
-last_update: 2021-11-15 09:00:00
+last_update: 2022-01-30 09:00:00
 game_version: 9.1.5 Shadowlands
 toc: true
 ---
@@ -10,27 +10,42 @@ toc: true
 At full Renown
 
 ------- | -------------------
-Raiding | Necrolord / Night Fae
+Raiding | Necrolord / Night Fae / Kyrian
 Mythic+ | Necrolord / Night Fae / Kyrian
 
+With the advent of Covenant swapping in [9.1.5](https://shadowlands.wowhead.com/guides/shadowlands-patch-9-1-5-features) it is easy to achieve the minimum required level of Renown 57 in multiple Covenants and use the recommendations of the relevant specialisation resources. **Achieve Renown 80 in a single Covenant before attempting to swap!**
 
-If you want to multispec the recommendation changes:
+For increased usability here are useful Covenant macros:
 
-------------------------- | -----------------------
-Restoration and Elemental | Necrolord
-Enhancement and Elemental | Kyrian
-All Specs                 | Kyrian
+Shaman Abilities:
+```
+#showtooltip
+/use [@cursor]Vesper Totem
+/use [@cursor]Fae Transfusion
+/use [@mouseover,harm,nodead][harm]Primordial Wave
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Primordial Wave" or G"Vesper Totem" or G"Fae Transfusion")
+```
+Note: Due to the character limit on macros in addition to 3/4 of our Covenant Abilities making use of targeting conditionals, fitting all 4 abilities in is difficult to do in a satisfying way. Venthyr's {{site.data.spell.chain_harvest}} is left out only because it benefits the least from targeting conditionals. This macro can be adapted to your 3 most-used Covenants.
 
-Soulbind dps information can be found [here]({{ site.baseurl }}{% link guide/general/soulbinds.md %}).
-
+Covenant Abilities:
+```
+#showtooltip
+/use [@cursor]Door of Shadows
+/use Soulshape
+/use Fleshcraft
+/use Summon Steward
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Door of Shadows" or G"Soulshape" or G"Fleshcraft" or "Summon Steward")
+```
+Note: You can swap the 'Summon Steward' line for ```/use Phial of Serenity``` and have the Summon Steward ability bound separately, as it's typically used out of combat.
 
 ## Overview
 
 First things first. All Covenants are relatively well balanced. The difference is usually within the single digit percentages and you should pick your Covenant depending on what you actually like to play.
 
-Recommending "best" Covenant is a pretty impossible tasks.
+Recommending "best" Covenant is a pretty impossible task.
 The strength of the Covenants breaks down to the strength of the Covenant signature ability, the strength of the Covenant class ability, and the strength of their Soulbinds.
 
+Soulbind dps information can be found [here]({{ site.baseurl }}{% link guide/general/soulbinds.md %}).
 
 ### Kyrian
 

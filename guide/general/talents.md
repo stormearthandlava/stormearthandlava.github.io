@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talents
-last_update: 2021-11-15 09:00:00
+last_update: 2022-01-30 09:00:00
 game_version: 9.1.5 Shadowlands
 toc: true
 ---
@@ -18,7 +18,7 @@ Raid / Single&nbsp;Target | 15: {{ site.data.talent.echo }}<br/> 25: {{ site.dat
 
 **Special Mention** {{ site.data.talent.pe }} Is fairly close to {{ site.data.talent.if }} on single target, and is generally more powerful when multiple targets are present. We recommend inexperienced shamans use {{ site.data.talent.pe }} regardless, as {{ site.data.talent.if }} is significantly more complex.
 
-There are other talent combinations that peform close to these or sometimes even better. So please make sure to sim your character if you suspect that something else is a better general choice.
+There are other talent combinations that perform close to these or sometimes even better. So please make sure to sim your character if you suspect that something else is a better general choice.
 
 
 ## In depth discussion
@@ -47,7 +47,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.sd}} (SD)</h4>
                 <p> Static Discharge adds a spell to our toolkit that you can only use while you have {{ site.data.spell.lightning_shield }} active. It deals damage to a nearby target with {{ site.data.spell.fs }}. Because different types of self-casted shield don't stack, you will not be able to benefit from your own {{site.data.talent.earth_shield}}.</p>
                 <hr><br/>
-                <p markdown="1">**Recommendation:** {{site.data.talent.eote}} should be taken for virtually all situations. {{site.data.talent.er}} can be good with certain {{site.data.spell.lb}}-focussed builds but in raiding it will usually get outperformed. {{site.data.talent.sd}} barely does any damage and is too limited in its use to ever be worth considering.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.eote}} should be taken for virtually all situations. {{site.data.talent.er}} can be good with certain {{site.data.talent.storm_elemental}} builds because {{site.data.talent.er}} provides damage during times when you are not casting {{site.data.spell.lava_burst}} such as AoE. {{site.data.talent.sd}} barely does any damage and is too limited in its use to ever be worth considering.</p>
             </div>
         </div>
     </div>
@@ -63,12 +63,12 @@ Click the talent row text to expand.
                 <p>When you cast {{ site.data.spell.eq }} or {{ site.data.spell.es }}, you have a chance to immediately refund all the Maelstrom spent. This allows for increased burst but with the caveat that at a 25% chance, it is quite random and can't be reliably used for burst damage.</p>
                 <hr><br/>
                 <h4>{{site.data.talent.ecs}} (EcS)</h4>
-                <p> Duplicates the next offensive spell used, after 1 second. The duplicate behaves like a normal cast. It is best to use this on {{ site.data.spell.lvb }} on single target and {{ site.data.spell.eq }} on AoE. It allows for good, consistent burst in Single Target and AoE.</p>
+                <p> Duplicates the next offensive spell used, after 1 second. The duplicate behaves like a normal cast. It is best to use this on {{ site.data.spell.es }} on single target and {{ site.data.spell.eq }} on AoE. The echoed spell does not benefit from any buffs present when the triggering spell is cast, but will consume and benefit from them if a relevant buff is present when the echoed spell itself triggers. This spell has good flexibility between Single Target and AoE.</p>
                 <hr><br/>
                 <h4>{{site.data.talent.eb}} (EB)</h4>
                 <p> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br/>
-                <p markdown="1">**Recommendation:** {{site.data.talent.eb}} for single target. {{site.data.talent.afs}} is usually the clear winner for 3+ targets. {{site.data.talent.ecs}} offers more control.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.eb}} for single target. {{site.data.talent.afs}} is usually the clear winner for 3+ targets. {{site.data.talent.ecs}} despite offering greater control of your damage across more than just one damage profile, it is undertuned relative to the other options in their preferred scenarios and is not chosen unless you've also chosen to use {{site.data.legendary.eeq}}.</p>
             </div>
         </div>
     </div>
@@ -84,7 +84,7 @@ Click the talent row text to expand.
                 <p>A fairly powerful talent that should be considered mostly for its defensive value, not the movement increase it provides. {{ site.data.talent.spirit_wolf }} is quite potent for predictable damage intake when you have the freedom to spend a few seconds in {{ site.data.spell.ghost_wolf }}, and when {{ site.data.spell.astral_shift }} is on cooldown.</p>
                 <hr><br/>
                 <h4>{{site.data.talent.earth_shield}} (ESh)</h4>
-                <p> An underwhelming talent that offers little value and requires additional GCDs throughout the fight. We do not recommend using this talent, but if you do decide to, ensure you do not refresh the stacks early. It is not important to stay at high stacks, and is a waste of a GCD to refresh.</p>
+                <p> For the small amount of GCDs required throughout an encounter, depending on the type of damage present and movement requirements, {{site.data.spell.earth_shield}} can provide solid amounts of passive healing. Avoid refreshing it early unless there are breaks in combat/intermission phases. For Kyrian shamans it also triggers the healing charges of {{site.data.spell.vesper_totem}}.</p>
                 <hr><br/>
                 <h4>{{site.data.talent.static_charge}} (SC)</h4>
                 <p> Very easy to understand and use. Simply put, if you stun 4+ targets with a use of {{ site.data.spell.capacitor_totem }}, its cooldown will instead be 40 seconds. </p>
@@ -110,7 +110,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.lmt}} (LMT)</h4>
                 <p> Offers some nice AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown. Its long duration and static location make it hard to use.</p>
                 <hr><br/>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is the default choice in raiding and mythic+. {{ site.data.talent.se }} can be used in conjunction with {{ site.data.talent.pe }} to get extremely potent AoE burst damage by giving you another cooldown in {{site.data.spell.eye_of_the_storm}}. {{ site.data.talent.lmt }} is a multi-target talent that may occasionally pull ahead of the other options when either the fight or instance timings are unfavorable for {{ site.data.talent.se }} but optimal for {{ site.data.talent.lmt }} and additionally {{ site.data.talent.lmt }} tends to pull ahead for 2/3 target sustained stacked cleave.<br/> Sim yourself to know what fits your character.
+                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is the default choice in raiding and is viable for M+ use. {{ site.data.talent.se }} is the default choice for M+ and has specific uses in raid content where externals or burst aoe are required. When taking {{site.data.talent.se}} you should also take {{site.data.talent.pe}} to make use of {{site.data.spell.eye_of_the_storm}}. {{ site.data.talent.lmt }} has reasonable base power however the buffs to our base AoE spells ({{site.data.spell.cl}} and {{site.data.spell.eq}} in [9.0.5](https://shadowlands.wowhead.com/guides/shaman-class-changes-shadowlands-patch-9-0-5) means the alternatives have increased value relative to {{site.data.talent.lmt}} making it less appealing.
                 </p>
             </div>
         </div>
@@ -127,7 +127,7 @@ Click the talent row text to expand.
                 <p markdown="1">Serves as an additional HP buffer, but does not prevent you from being one-shotted by big hits *or massive damage*.</p>
                 <hr><br/>
                 <h4>{{site.data.talent.ancestral_guidance}} (AG)</h4>
-                <p markdown="1"> A decent emergency heal when used in AoE, but quite underwhelming for ST. This should only be considered for use when *dealing damage*, **not when casting {{ site.data.spell.healing_surge }}**.</p>
+                <p markdown="1"> An excellent source of utility for the spec in M+ content on large pulls, but quite underwhelming for ST. This should only be considered for use when *dealing damage*, **not when casting {{ site.data.spell.healing_surge }}**.</p>
                 <hr><br/>
                 <h4>{{site.data.talent.wind_rush_totem}} (WRT)</h4>
                 <p markdown="1">Raid utility that can occasionally help counter mechanics.</p>
@@ -164,7 +164,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.if}} (IF)</h4>
                 <p markdown="1">This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. {{ site.data.talent.if }} empowered {{ site.data.spell.frs }} generate Maelstrom. This gives you more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
                 <hr><br/>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.if }} in combination with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one target. Alternatively {{ site.data.talent.pe }} can be used. Both talents are pretty much equivalent on single target, with {{ site.data.talent.pe }} becoming better when more targets are available. {{ site.data.talent.sop }} stays similarly to how it performed in BfA with it only being worth considering if you need the {{ site.data.talent.fs }}-spreading or know the kill timers perfectly.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.if }} in combination with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one target. Alternatively {{ site.data.talent.pe }} can be used. Both talents are pretty much equivalent on single target, with {{ site.data.talent.pe }} becoming better when more targets are available. {{ site.data.talent.sop }} stays similarly to how it performed in BFA but in Shadowlands there aren't any borrowed power sources that make it more valuable than the alternatives, this means there is currently no PvE situation where using {{site.data.talent.sop}} is recommended.</p>
             </div>
         </div>
     </div>

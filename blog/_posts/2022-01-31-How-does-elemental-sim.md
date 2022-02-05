@@ -1,0 +1,114 @@
+---
+layout: post
+title: How does Elemental Sim?
+date: 2022-01-31
+excerpt: Sim settings and you!
+author: Eokira
+---
+This post aims to discuss simming as it relates to Elemental, and will cover the basics needed to get started as well as some information on Fight Styles.
+
+# Table of Contents
+- [How to Sim?](#how-to-sim)
+- [Choosing the appropriate Sim Type](#choosing-the-appropriate-sim-type)
+- [Choosing the appropriate sim options](#choosing-the-appropriate-sim-options)
+- [Recommendations](#recommendations)
+   - [Single Target](#single-target)
+   - [M+](#m)
+   - [M+ Night Fae and Kyrian](#m-night-fae-and-kyrian)
+- [Additional Resources](#additional-resources)
+    
+### How to Sim?
+
+We're going to be using [Raidbots](https://www.raidbots.com/simbot) as a way to produce sims for your characters without the need to add complex information.
+
+- Getting your character information via [Simulationcraft addon](https://www.curseforge.com/wow/addons/simulationcraft)
+   - Once installed you can run `/simc` in-game to produce a list of character information.
+   - Copy and Paste this information to the `Load from SimC Addon' section of Raidbots.
+    
+### Choosing the appropriate Sim type
+   
+   - [Top Gear](https://www.raidbots.com/simbot/topgear)
+      - The most widely used Sim type, Top Gear allows you to compare just about anything about your character options
+         - Gear
+         - Talents
+         - Enchants / Gems / Consumables, make sure to tick the `Replace Existing Gems/Enchants' box if required!
+         - Create Legendary items at desired iLvl and stats to compare Legendaries you do not have yet, or see the impact up upgrading them
+         - Compare Conduits, different Soulbind choices including Soulbinds from other Covenants when `Unlock Soulbinds` is ticked!
+         - Help inform your Great Vault decisions by opening your Great Vault before typing `/simc` and your input will now include and handle your Great Vault upgrades as if you had them in  your bags!
+                
+   - [Droptimizer](https://www.raidbots.com/simbot/droptimizer)
+      - Droptimizer allows you to compare your current gear with gear from content that you select at an iLvl that you select
+         - This enables you to tailor gear recommendations to the level of content you do, per content type. Which can be useful if you do varying levels of content.
+         - More straightforwardly Droptimizer allows you to view which Dungeons you might want to focus on first when gearing a new character or at the start of a new season.
+         
+   - [Gear Compare](https://www.raidbots.com/simbot/gear)
+      - Gear Compare allows you to swap out pieces of gear with items you create using the tools provided, all you'll need is the item name and the menus lead you through the rest
+      - It's mainly for specific comparisons where you might want to see, quickly, how big a specific item upgrade is for you without simming the entire loot table via Droptimizer
+     
+   - [Quick Sim](https://www.raidbots.com/simbot/quick)
+      - Uses your SimC addon input to produce a basic sim result where you can view overall result and damage breakdown.
+      
+### Choosing the appropriate Sim Options
+   
+   - Fight Style
+      - Patchwerk
+         - The default Fight Style for simming Single Target damage
+         - Patchwerk sims will not contain any movement by character or the boss
+         - Can be adapted to an AoE sim by increasing `Number of Bosses` but this may not be representative of the content in-game
+      
+      - Dungeon Slice
+         - The goal of Dungeon Slice is to simulate multiple types of combat in a single run, most notably for a couple specs the inclusion of combat breaks
+         - For Elemental there is no Dungeon Slice-Specific Action Priority List(APL) which means it is not technically supported by us however the spec can utilise it to an extent
+         - The sim will put your character in the following scenario:
+            - 1 Boss for around 2 minutes, with Bloodlust
+            - 4-6 mobs for around 15 seconds
+            - 1-3 mobs for around 30 seconds
+            - continue alternating between large (4-6) and small (1-3) packs of mobs until the end of the sim
+            - time spent out of combat will vary
+            
+      - Hectic Add Cleave
+         - Has one boss target by default, with waves of mobs that live for 15 seconds and spawn every 22 seconds
+         - In Shadowlands this has proven a useful metric when trying to account for the value of specific traits like {{ site.data.soulbinds.first_strike }}.
+      
+   - Number of Bosses
+      - Adjust how many boss-like targets are present
+      - This does not control number of adds spawned during Hectic Add Cleave however can still add bosses
+      - Disabled for Dungeon Slice
+      
+   - Fight Length
+      - By default the sim results will include fight length variance of -/+ 20% of the figure shown, i.e. a 5 minute sim will have iterations from `288-432 seconds'
+      
+   - SimC Version
+      - This can be left on Nightly by default, it will use the most up-to-date version of SimC to inform the sim
+      
+### Recommendations 
+
+### Single Target
+#### `Patchwerk 1 Boss 5 Minutes, consider varying Fight Length if appropriate`
+
+### M+
+#### `Patchwerk 4-6 Bosses 40 seconds`
+
+To make gear comparisons for the specific purpose of optimizing a difficult pull in a M+ Dungeon you can vary the target number and the duration for your group.<br/>
+
+### M+ Night Fae and Kyrian
+#### `Hectic Add Cleave 1 Boss varied durations`
+
+If you aren't optimizing a specific pull by using Patchwerk AoE then using Hectic Add Cleave can be useful to include because it gives you an approximation of the value gained by {{site.data.soulbinds.first_strike}} and {{site.data.soulbinds.hammer_of_genesis}}.
+
+### Additional Resources
+
+- If using sims to help make setup decisions you can supplement them by checking what people are using
+   - [Warcraftlogs](https://www.warcraftlogs.com/) 
+   - [Subcreation](https://subcreation.net/)
+   - Think critically about why people might be using what they're using!
+
+- [FAQs about Raidbots](https://medium.com/raidbots/frequently-asked-questions-2933b01a2d6e)
+- [Why you shouldn't use Stat Weights](https://medium.com/raidbots/beware-of-stat-weights-240769a5323e)
+- [Expansion-specific sim options](https://github.com/simulationcraft/simc/wiki/ExpansionOptions#other-90-options)
+      
+If you have feedback to improve the quality of this information please use the Elemental channel in the Earthshrine Discord server.
+
+Make informed choices,<br/>
+Eokira
+      
