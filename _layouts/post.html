@@ -16,6 +16,14 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- include side_menu.html -%}
+    {%- if page.toc == true -%}
+      <h3>Table of Contents</h3>
+      {%- include toc.html html=content class="toc" h_max=3 -%}
+      <hr>
+      <br>
+    {%- endif -%}
+
     {{ content }}
   </div>
 
