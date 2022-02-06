@@ -93,6 +93,8 @@ targets will result in pretty neat CD reductions for {{ site.data.spell.chain_ha
 Your Covenant ability will spread {{ site.data.spell.fs }}.
 {{ site.data.legendary.skybreakers_fiery_demise }} will basically enforce critical hits on your {{ site.data.spell.fs }} ticks.
 
+![Ticking Hotness Synergy Flowchart](/assets/img/blog/9_2_memes/ticking_hotness_flowchart.png)
+
 **How to improve**: Use {{ site.data.talent.se }}. It'll serve your AoE needs better, but costs you some theme-points.
 
 During **AoE** this build will add many critically hitting numbers to your screen.
@@ -127,6 +129,8 @@ You come in two flavors. One is explosive and the other has even more chains!
 Alternate between {{ site.data.spell.chain_lightning }} and {{ site.data.spell.chain_heal }}.
 As a Kyrian alternating between these casts will ensure you're using all charges of your {{ site.data.spell.vesper_totem }} and trigger both potential explosions of {{ site.data.legendary.kyrian }}.
 As a Venthyr you'll incorporate {{ site.data.spell.chain_harvest }} as the ultimate chaining spell into your repertoire.
+
+![The Chainer Synergy Flowchart](/assets/img/blog/9_2_memes/the_chainer_flowchart.png)
 
 **How to improve**: Use the normal priority list to deal damage and ignore {{ site.data.legendary.chains_of_devastation }}. It's a meme for a reason.
 
@@ -172,9 +176,11 @@ So what happens if this build reaches its goal of 20 {{ site.data.spell.wind_gus
 {{ site.data.spell.lb }} casttime is 0.5 seconds and deals more damage per second than {{ site.data.spell.es }}.
 Do you remember what else has a 0.5 seconds CD? Let me tell you: {{ site.data.legendary.norgannon }}.
 Therefore in its climax this build will only cast {{ site.data.spell.fs }}, {{ site.data.spell.lvb }} with {{ site.data.spell.lava_surge }}, and {{ site.data.spell.lb }}.
-Which are either instants or take 0.5 seconds to cast, which means that we can move 100% of the time and can always cast while moving.
+Which are either instants or take 0.5 seconds to cast, which means that we can move 100% while casting.
 Welcome back `Mists of Pandaria` and {{ site.data.spell.lb }} on the move glyph.
 Another cool thing about this build: against 5 enemies, with enough {{ site.data.spell.mastery }} {{ site.data.spell.cl }} deals as much damage as {{ site.data.spell.eq }}. Nice, only one button to spam during AoE!
+
+![MACHINE GUN Synergy Flowchart](/assets/img/blog/9_2_memes/MACHINE_GUN.png)
 
 **How to improve**: Diverting from stacking {{ site.data.spell.mastery }} and haste and thus returning to normal priority lists would improve the performance, but this would no longer be a meme at this point.
 
@@ -211,11 +217,13 @@ You're barely able to hold it together.
 This build is all about meatballs. The more, the merrier.
 With a sprinkled in chance of getting even more meatballs.
 Necrolord provide some solid additional {{ site.data.spell.lvb }} via {{ site.data.spell.primordial_wave }}.
-The temporary haste increase comes in handy for quicker {{ site.data.spell.fs }} ticks, resulting in a few more {{ site.data.spell.lava_surge }} procs.
+Their temporary haste increase from {{ site.data.legendary.necrolord }} comes in handy for quicker {{ site.data.spell.fs }} ticks, resulting in a few more {{ site.data.spell.lava_surge }} procs.
 The ultimate goal for this build is to be more efficient when waiting for {{ site.data.spell.lvb }} than to cast {{ site.data.spell.lb }}.
 Very frequent {{ site.data.spell.lava_surge }} procs make it possible.
 The usage of {{ site.data.legendary.deeply_rooted_elements }} is the core of our build.
 We're rewarded for every {{ site.data.spell.lvb }} with a chance to cast even more {{ site.data.spell.lvb }}.
+
+![Hot Burps Synergy Flowchart](/assets/img/blog/9_2_memes/hot_burps.png)
 
 **How to improve**: Use {{ site.data.legendary.windspeakers_lava_resurgence }} instead. This one is a lot more consistent and provides movement globals.
 
