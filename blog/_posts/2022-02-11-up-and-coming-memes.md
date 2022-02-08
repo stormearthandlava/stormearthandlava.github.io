@@ -9,7 +9,7 @@ toc: true
 Greetings,
 
 ## Community questions 
-1. will the return of Tier sets be exciting or trash for mythic plus?
+1. Will the return of Tier sets be exciting or trash for mythic plus?
 1. How to optimize the double Legendary options?
 1. Will Elemental Shamans see the raid or a bench?
 1. What's our opener? 
