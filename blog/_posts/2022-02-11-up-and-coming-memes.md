@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Up and coming memes
-date: 2022-02-04 00:00:00 +0200
+date: 2022-02-11 00:00:00 +0200
 excerpt: 9.2 is bringing more than Tier and double Legendaries
 author: Bloodmallet(EU)
 toc: true
