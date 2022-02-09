@@ -119,7 +119,7 @@ Ignoring our Covenant ability for a second, when fighting only a few enemies T28
 
 The Shadowlands posed quite a few surprises for us. 
 During the time we tried to recover our companions from Torghast we freed many tormented souls from their chains.
-It's time to pick them up and bring the fight to the Jailor, as the Chainer.
+It's time to pick them up and bring the fight to the Jailer, as the Chainer.
 You're casting chaining spells at enemies and friendly targets alike. You're very consistent and reliable.
 Your enemies will fear the constant lightning strikes, while your buddies will receive constant watery love.
 The best part? You'll be 100% mobile because everything you do are instant casts.
