@@ -50,24 +50,54 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="vigilant_guardian-collapse" class="collapse" aria-labelledby=vigilant_guardian" data-parent=#accordion">
 <div class="card-body" markdown="1">
        
-**Boss Fight Profile:**
+**Boss Fight Profile:** Single-Target with Cleave/AoE 
           
-**Talents:**
+**Talents without active 4-piece bonus:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
+* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
+* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
+* **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
+       
+**Talents with active 4-piece bonus:**
+       
+* **15:** {{ site.data.talent.er }}       
+* **25:** {{ site.data.talent.afs }}
+* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35:** {{ site.data.talent.se }}       
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}     
 
-**Recommended Covenant:**          
+**Recommended Covenant:** 
+       
+* Night Fae with Dreamweaver or Korayn to capitalise on {{ site.data.soulbind.first_strike }}
+       
 **Recommended Legendaries:**
-          
+       
+* {{ site.data.legendary.eogs }}  
+       
 **Damage**
+       
+* Maintain {{ site.data.spell.flame_shock }} on multiple targets
+* Use {{ site.data.talent.stormkeeper }} when Volatile Materiums are spawning, consider having a {{ site.data.legendary.eogs }} buff active!
+* Use {{ site.data.spell.spiritwalkers_grace }} to help reposition before Exposed Core!
+
 **Defensives:**
+
+* Use cooldowns as necessary throughout the fight, ensuring at least {{ site.data.spell.astral_shift }} is available for Core Overload once the boss reaches 15%. 
+* If required, consider using {{ site.data.spell.ee }} with {{ site.data.spell.harden_skin }}. This may feel worse with an active 4-piece bonus but **dying is worse**. 
+* Depending on your group composition and positioning your group may not need {{ site.data.talent.wrt }}, in which case take {{ site.data.talent.natures_guardian }}.
+       
 **Utilities:**
+       
+* Using {{ site.data.spell.wind_shear }} to interrupt Point Defense Drone 
+* Using {{ site.data.spell.thunderstorm }} to help position adds when necessary
+* If talented, use {{ site.data.talent.wrt }} to help your raid reposition before Exposed Core
+       
 **PTR PoVs:**
           
 * Sheffy: [Heroic](https://www.twitch.tv/videos/1236486843)
@@ -83,24 +113,50 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="skolex-collapse" class="collapse" aria-labelledby="skolex" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
  
-**Boss Fight Profile:**
+**Boss Fight Profile:** Single-Target
           
-**Talents:**
+**Talents without active 4-piece bonus:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
+* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
+* **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
-
-**Recommended Covenant:**   
+       
+**Talents with active 4-piece bonus:**
+       
+* **15:** {{ site.data.talent.er }}       
+* **25:** {{ site.data.talent.afs }}
+* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35:** {{ site.data.talent.se }}       
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}     
+       
+**Recommended Covenant:** 
+       
+* Night Fae with Dreamweaver   
+       
 **Recommended Legendaries:**
-  
+
+* {{ site.data.legendary.wlr }}
+       
 **Damage**
+       
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime while avoiding Retch or when repositioning for Ravening Burrow
+* You can continue using instant-cast abilities whilst airborne from Ravening Burrow!
+       
 **Defensives:**
+       
+* Use {{ site.data.spell.astral_shift }} and healing consumables as required to deal with additional stacks of Ephemera Dust.
+* Consider using {{ site.data.spell.ee }} as an additional defensive with {{ site.data.talent.icefury }} talented, or as required if using {{ site.data.talent.pe }} talented when 4-piece is active.
+
 **Utilities:**
+       
+* If talented, use {{ site.data.talent.wrt }} to help your raid avoid Retch
+       
 **PTR PoVs:**
 
 * Sheffy: [Heroic](https://www.twitch.tv/videos/1223228452) \| [Mythic](https://www.twitch.tv/videos/1255340962)
@@ -116,24 +172,58 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="artificer_xymox-collapse" class="collapse" aria-labelledby="artificer_xymox" data-parent="#accordion">
 <div class="card-body" markdown="1">
  
-**Boss Fight Profile:**
+**Boss Fight Profile:** Single-Target with AoE 
           
-**Talents:**
+**Talents without active 4-piece bonus:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
+* **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
+       
+**Talents with active 4-piece bonus:**
+       
+* **15:** {{ site.data.talent.er }}       
+* **25:** {{ site.data.talent.afs }}
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.se }}       
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}     
  
 **Recommended Covenant:**   
+       
+* Night Fae with Dreamweaver or Korayn to capitalise on {{ site.data.soulbind.first_strike }}
+       
 **Recommended Legendaries:**
-  
+ 
+* {{ site.data.legendary.eogs }}
+       
 **Damage**
+       
+* Focus down Xy Acolytes as fast as possible to prevent Hyperlight Ascension 
+* Use {{ site.data.talent.sk }} when Xy Reinforcements are spawning, consider having a {{ site.data.legendary.eogs }} buff active!
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Genesis Rings!
+       
 **Defensives:**
+       
+* Use {{ site.data.spell.astral_shift }} as needed when Gylph of Relocation is about to explode
+* Consider using {{ site.data.spell.ee }} as necessary for Vital Accretion or {{ site.data.spell.harden_skin }}
+       
 **Utilities:**
+       
+* Use {{ site.data.spell.wind_shear }} to interrupt Debilitating Ray from Xy Spellslingers 
+* Use {{ site.data.spell.thunderstorm }} to position Xy Reinforcements if necessary
+* Use {{ site.data.spell.capacitor_totem }} to stun Xy Reinforcements
+* If talented, use {{ site.data.talent.wrt }} to help your raid avoid Genesis Rings
+       
+**Added Notes:**
+       
+* Position yourself accordingly whenever Glyph of Relocation is about to expire, so that a Dimensional Tear is between you and the exploding tank. This allows you to minimize the distance moved.        
+       
 **PTR PoVs:**
 
 * Sheffy: [Heroic](https://www.twitch.tv/videos/1229013142)
@@ -149,24 +239,57 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="dausegne-collapse" class="collapse" aria-labelledby="dausegne" data-parent="#accordion">
 <div class="card-body" markdown="1">    
   
-**Boss Fight Profile:**
+**Boss Fight Profile:** Single-Target, with limited Cleave/Funnel 
           
-**Talents:**
+**Talents without active 4-piece bonus:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
+* **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
+       
+**Talents with active 4-piece bonus:**
+       
+* **15:** {{ site.data.talent.er }}       
+* **25:** {{ site.data.talent.afs }}
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.se }}       
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}     
  
 **Recommended Covenant:**   
+       
+* Night Fae with Dreamweaver
+       
 **Recommended Legendaries:**
+       
+* {{ site.data.legendary.wlr }}       
   
 **Damage**
+       
+* Domination Cores can be played in more than one way from an Elemental perspective:
+       - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and Core, focus single-target damage into Core 
+       - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and Core, focus single-target damage into Dausegne
+       - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and Core, use {{ site.data.spell.eq }} instead of {{ site.data.spell.es }} and focus either Core or Dausegne
+       - Recommendation? Be sensible. For progression purposes it is important that Domination Cores die quickly because of Encroaching Dominion pools they spawn every 6 seconds whilst still alive, every group is different so your needs may vary but the priority should be to do what is necessary to kill the Cores quickly and efficiently.  
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Disintegration Halo
+* Pool resources when Dausegne is about to cast Siphon Reservoir!       
+       
 **Defensives:**
+       
+* Use {{ site.data.spell.astral_shift }} as needed when Staggering Barrage, Disintegration Halo or Inevitable Dominion happen
+* Consider using {{ site.data.spell.ee }} as necessary for Vital Accretion or {{ site.data.spell.harden_skin }}
+* {{ site.data.spell.soulshape }} is useful for dealing with Disintegration Halo overlaps when playing as Night Fae
+       
 **Utilities:**
+       
+* Use {{ site.data.spell.wind_shear }} to interrupt Domination Bolt from Domination Core  
+* If talented, use {{ site.data.talent.wrt }} to help your raid deal with Disintegration Halo overlaps.  
+       
 **PTR PoVs:**
 
 * Sheffy: [Heroic](https://www.twitch.tv/videos/1223223675) \| [Mythic](https://www.twitch.tv/videos/1255367010)
@@ -182,24 +305,52 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="prototype_pantheon-collapse" class="collapse" aria-labelledby="prototype_pantheon" data-parent="#accordion">
 <div class="card-body" markdown="1">    
   
-**Boss Fight Profile:**
+**Boss Fight Profile:** Cleave with spread priority add spawn
           
-**Talents:**
+**Talents without active 4-piece bonus:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
+* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
+* **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
- 
+       
+**Talents with active 4-piece bonus:**
+       
+* **15:** {{ site.data.talent.eote }}
+* **25:** {{ site.data.talent.afs }}
+* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
+* **35:** {{ site.data.talent.se }} or {{ site.data.talent.mote }}   
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}     
+       
 **Recommended Covenant:**   
+       
+* Night Fae with Dreamweaver
+* Necrolord with Plague Deviser Marileth, {{ site.data.soulbind.preemptive_strike }} is very effective for focusing Necrotic Ritualists
+       
 **Recommended Legendaries:**
+       
+* {{ site.data.legendary.eogs }}       
   
 **Damage**
+       
+* Focusing Necrotic Rituatlists is very important, maintain {{ site.data.spell.flame_shock }} on as many targets whilst focusing one Necrotic Ritualist down (consider positioning for this purpose) 
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Windswept Wings and Hand of Destruction
+       
 **Defensives:**
+       
+* Use {{ site.data.spell.astral_shift }} (and {{ site.data.spells.fleshcraft }} if Necrolord) as needed for Windswept Wings
+* Consider using {{ site.data.spell.ee }} as necessary for Vital Accretion or {{ site.data.spell.harden_skin }} 
+
 **Utilities:**
+       
+* Use {{ site.data.spell.wind_shear }} to interrupt Gloom Bolt from Prototype of War and Anima Bolt from Protoype of Renewal  
+* If talented, use {{ site.data.talent.wrt }} to help your raid deal with Windswept Wings and Hand of Destruction
+       
 **PTR PoVs:**
 
 * Sheffy: [Heroic](https://www.twitch.tv/videos/1235533062)
@@ -215,24 +366,52 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="lihuvim-collapse" class="collapse" aria-labelledby="lihuvim" data-parent="#accordion">
 <div class="card-body" markdown="1">    
   
-**Boss Fight Profile:**
+**Boss Fight Profile:** Single-Target with Cleave / AoE
           
-**Talents:**
+**Talents without active 4-piece bonus:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
+* **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
+       
+**Talents with active 4-piece bonus:**
+       
+* **15:** {{ site.data.talent.eote }} or {{ site.data.talent.er }} (see Recommended Legendaries)
+* **25:** {{ site.data.talent.afs }}
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.se }}  
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}     
  
 **Recommended Covenant:**   
+       
+* Night Fae with Korayn for {{ site.data.soulbind.first_strike }}
+       
 **Recommended Legendaries:**
-  
+
+* **without active 4-piece bonus** use either {{ site.data.legendary.eogs }} or {{ site.data.legendary.wlr }}       
+* **with active 4-piece bonus** {{ site.data.legendary.eogs }} pair with {{ site.data.talent.eote }} for overall value in Single-Target and Cleave
+* **with active 4-piece bonus** {{ site.data.legendary.wlr }} pair with {{ site.data.talent.er }} for prioritising damage dealt to Lihuvim
+       
 **Damage**
+       
+* Pool resources when Lihuvim is close to 100 energy to prepare for Protoform Automa
+* Focusing down the Protoform Automa is the highest priority when they are active
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Manifest Mote and Deconstruction Blast       
 **Defensives:**
+       
+* Use {{ site.data.spell.astral_shift }} as needed for Cosmic Shift or Deconstruction Blast
+* Consider using {{ site.data.spell.ee }} as necessary for Vital Accretion or {{ site.data.spell.harden_skin }} 
+       
 **Utilities:**
+
+* If talented, use {{ site.data.talent.wrt }} to help your raid reposition quickly for Protoform Automa 
+       
 **PTR PoVs:**
   
 * Sheffy: [Heroic](https://www.twitch.tv/videos/1229048431)
@@ -248,26 +427,55 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="halondrus-collapse" class="collapse" aria-labelledby="halondrus" data-parent="#accordion">
 <div class="card-body" markdown="1">    
   
-**Boss Fight Profile:**
+**Boss Fight Profile:** Single-Target 
           
-**Talents:**
+**Talents without active 4-piece bonus:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
+* **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
- 
+       
+**Talents with active 4-piece bonus:**
+       
+* **15:** {{ site.data.talent.eote }} or {{ site.data.talent.er }} (see Recommended Legendaries)
+* **25:** {{ site.data.talent.afs }}
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.se }}  
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}  
+       
 **Recommended Covenant:**   
+       
+* Night Fae with Dreamweaver 
+       
 **Recommended Legendaries:**
-  
+
+* {{ site.data.legendary.wlr }} 
+       
+** Important Note **
+       
+* This fight has been reworked since PTR testing took place, specific recommendations may not be accurate. This section will be updated as appropriate but for now the default setup is shown as a starting point. 
+       
 **Damage**
+       
+* Coming soon  
+       
 **Defensives:**
+       
+* Coming soon
+       
 **Utilities:**
+       
+* Coming soon  
+       
 **PTR PoVs:**
-  
+       
+* Remember: this footage is from before rework!  
 * Sheffy: [Heroic](https://www.twitch.tv/videos/1235530886)
   
 </div>
@@ -281,24 +489,52 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="anduin_wrynn-collapse" class="collapse" aria-labelledby="anduin_wrynn" data-parent="#accordion">
 <div class="card-body" markdown="1">   
   
-**Boss Fight Profile:**
+**Boss Fight Profile:** Single-Target with Cleave / AoE
           
-**Talents:**
+**Talents without active 4-piece bonus:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{ site.data.talent.elemental_blast }}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
+* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
+* **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
+       
+**Talents with active 4-piece bonus:**
+       
+* **15:** {{ site.data.talent.eote }}
+* **25:** {{ site.data.talent.afs }}
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.se }}  
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}  
  
 **Recommended Covenant:**   
+       
+* Night Fae with Dreamweaver, Korayn can be used to capitalise on {{ site.data.soulbinds.first_strike }} during add phase
+       
 **Recommended Legendaries:**
-  
+
+* {{ site.data.legendary.eogs }}
+       
 **Damage**
+       
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Blasphemy 
+* Pool resources, including {{ site.data.talent.sk }}, for the Intermission phase
+       
 **Defensives:**
+       
+* Use {{ site.data.spell.astral_shift }} as needed for Befouled Barrier or Hopebreaker
+       
 **Utilities:**
+
+* Use {{ site.data.spell.wind_shear }} to interrupt Psychic Terror from Grim Reflection        
+* Use {{ site.data.spell.tremor_totem }} before Psychic Terror cast finishes if it would finish
+* Use {{ site.data.spell.fae_transfusion }} to assist with breaking Befouled Barriers if they overlap
+       
+       
 **PTR PoVs:**
   
 * Sheffy: [Heroic](https://www.twitch.tv/videos/1236484005)
@@ -314,24 +550,31 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="lords_of_dread-collapse" class="collapse" aria-labelledby="lords_of_dread" data-parent="#accordion">
 <div class="card-body" markdown="1">   
   
-**Boss Fight Profile:**
+**Boss Fight Profile:** Coming soon  
           
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
-* **50:** {{ site.data.talent.stormkeeper }}
+* Coming soon  
  
 **Recommended Covenant:**   
+       
+* Coming soon  
+       
 **Recommended Legendaries:**
-  
+
+* Coming soon  
+       
 **Damage**
+       
+* Coming soon  
+       
 **Defensives:**
+       
+* Coming soon
+       
 **Utilities:**
+       
+* Coming soon  
   
 </div>
 </div>
@@ -344,24 +587,31 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="rygelon-collapse" class="collapse" aria-labelledby="rygelon" data-parent="#accordion">
 <div class="card-body" markdown="1">  
   
-**Boss Fight Profile:**
+**Boss Fight Profile:** Coming soon  
           
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
-* **50:** {{ site.data.talent.stormkeeper }}
+* Coming soon  
  
 **Recommended Covenant:**   
+       
+* Coming soon  
+       
 **Recommended Legendaries:**
-  
+
+* Coming soon  
+       
 **Damage**
+       
+* Coming soon  
+       
 **Defensives:**
-**Utilities:**  
+       
+* Coming soon
+       
+**Utilities:**
+       
+* Coming soon  
   
 </div>
 </div>
@@ -374,24 +624,31 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="zovaal-collapse" class="collapse" aria-labelledby="zovaal" data-parent="#accordion">
 <div class="card-body" markdown="1">    
   
-**Boss Fight Profile:**
+**Boss Fight Profile:** Coming soon  
           
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} ( or {{ site.data.talent.icefury }} with no active 4-piece bonus)
-* **50:** {{ site.data.talent.stormkeeper }}
+* Coming soon  
  
 **Recommended Covenant:**   
+       
+* Coming soon  
+       
 **Recommended Legendaries:**
-  
+
+* Coming soon  
+       
 **Damage**
+       
+* Coming soon  
+       
 **Defensives:**
-**Utilities:**  
+       
+* Coming soon
+       
+**Utilities:**
+       
+* Coming soon  
   
 </div>
 </div>
