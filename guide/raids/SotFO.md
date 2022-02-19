@@ -58,7 +58,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.ancestral_guidance }}
 * **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
        
@@ -68,7 +68,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **25:** {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35:** {{ site.data.talent.se }}       
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
+* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }} or {{ site.data.talent.ancestral_guidance }}
 * **45:** {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.sk }}     
 
@@ -97,6 +97,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Using {{ site.data.spell.wind_shear }} to interrupt Point Defense Drone 
 * Using {{ site.data.spell.thunderstorm }} to help position adds when necessary
 * If talented, use {{ site.data.talent.wrt }} to help your raid reposition before Exposed Core
+* If talented, use {{ site.data.talent.ancestral_guidance }} to help with incoming damage during add spawns
        
 **PTR PoVs:**
           
@@ -177,7 +178,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Talents without active 4-piece bonus:**
 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }}
+* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
@@ -310,9 +311,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Talents without active 4-piece bonus:**
 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }}
+* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
+* **35:** {{ site.data.talent.master_of_the_elements }} or {{ site.data.talent.se }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
@@ -329,8 +330,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Recommended Covenant:**   
        
-* Night Fae with Dreamweaver
 * Necrolord with Plague Deviser Marileth, {{ site.data.soulbind.preemptive_strike }} is very effective for focusing Necrotic Ritualists
+* Night Fae with Dreamweaver
        
 **Recommended Legendaries:**
        
@@ -441,7 +442,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Talents with active 4-piece bonus:**
        
-* **15:** {{ site.data.talent.eote }} or {{ site.data.talent.er }} (see Recommended Legendaries)
+* **15:** {{ site.data.talent.er }} 
 * **25:** {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.se }}  
@@ -457,7 +458,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 * {{ site.data.legendary.wlr }} 
        
-** Important Note **
+**Important Note**
        
 * This fight has been reworked since PTR testing took place, specific recommendations may not be accurate. This section will be updated as appropriate but for now the default setup is shown as a starting point. 
        
@@ -496,8 +497,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
+* **35:** {{ site.data.talent.se }} or {{ site.data.talent.master_of_the_elements }}
+* **40:** {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.ancestral_guidance }}
 * **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
        
@@ -507,13 +508,13 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **25:** {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.se }}  
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
+* **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.ancestral_guidance }}
 * **45:** {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.sk }}  
  
 **Recommended Covenant:**   
        
-* Night Fae with Dreamweaver, Korayn can be used to capitalise on {{ site.data.soulbinds.first_strike }} during add phase
+* Night Fae with Korayn
        
 **Recommended Legendaries:**
 
@@ -522,7 +523,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Damage**
        
 * Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Blasphemy 
-* Pool resources, including {{ site.data.talent.sk }}, for the Intermission phase
+* Pool resources, including {{ site.data.talent.sk }}, for the Intermission phase       
        
 **Defensives:**
        
@@ -533,7 +534,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.spell.wind_shear }} to interrupt Psychic Terror from Grim Reflection        
 * Use {{ site.data.spell.tremor_totem }} before Psychic Terror cast finishes if it would finish
 * Use {{ site.data.spell.fae_transfusion }} to assist with breaking Befouled Barriers if they overlap
-       
+* Use {{ site.data.spell.capacitor_totem }} to assist with controlling adds       
+* If talented, use {{ site.data.talent.ancestral_guidance }} with {{ site.data.talent.sk }} for maximum effect        
        
 **PTR PoVs:**
   
