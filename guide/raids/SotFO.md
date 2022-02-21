@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sepulcher of the First Ones Guide"
-date: 13/02/2022
+date: 21/02/2022
 game_version: 9.2 Shadowlands
 author: Eokira
 toc: false
