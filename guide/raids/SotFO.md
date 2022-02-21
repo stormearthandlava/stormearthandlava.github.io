@@ -34,7 +34,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 - Recall that [Stampeding Roar](https://www.wowhead.com/spell=106898/stampeding-roar) is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
 
-- Additional Resources: **add relevant links when available**
+- Additional Resources:
+       - [Warcraft Logs](https://www.warcraftlogs.com/)
+       - [Sepulcher of the First Ones Loot Table](https://www.wowhead.com/guides/sepulcher-of-the-first-ones-raid-loot-item-levels)
 
 
 # Bosses
@@ -83,20 +85,20 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Damage**
        
 * Maintain {{ site.data.spell.flame_shock }} on multiple targets
-* Use {{ site.data.talent.stormkeeper }} when Volatile Materiums are spawning, consider having a {{ site.data.legendary.eogs }} buff active!
-* Use {{ site.data.spell.spiritwalkers_grace }} to help reposition before Exposed Core!
+* Use {{ site.data.talent.stormkeeper }} when [Volatile Materium](https://ptr.wowhead.com/npc=181859/volatile-materium) are spawning, consider having a {{ site.data.legendary.eogs }} buff active!
+* Use {{ site.data.spell.spiritwalkers_grace }} to help reposition before [Exposed Core!](https://ptr.wowhead.com/spell=360412/exposed-core)
 
 **Defensives:**
 
-* Use cooldowns as necessary throughout the fight, ensuring at least {{ site.data.spell.astral_shift }} is available for Core Overload once the boss reaches 15%. 
+* Use cooldowns as necessary throughout the fight, ensuring at least {{ site.data.spell.astral_shift }} is available for [Core Overload](https://ptr.wowhead.com/spell=364962/core-overload) once the boss reaches 15%. 
 * If required, consider using {{ site.data.spell.ee }} with {{ site.data.spell.harden_skin }}. This may feel worse with an active 4-piece bonus but **dying is worse**. 
 * Depending on your group composition and positioning your group may not need {{ site.data.talent.wrt }}, in which case take {{ site.data.talent.natures_guardian }}.
        
 **Utilities:**
        
-* Using {{ site.data.spell.wind_shear }} to interrupt Point Defense Drone 
+* Using {{ site.data.spell.wind_shear }} to interrupt [Point Defense Drone](https://ptr.wowhead.com/npc=181856/point-defense-drone)
 * Using {{ site.data.spell.thunderstorm }} to help position adds when necessary
-* If talented, use {{ site.data.talent.wrt }} to help your raid reposition before Exposed Core
+* If talented, use {{ site.data.talent.wrt }} to help your raid reposition before [Exposed Core](https://ptr.wowhead.com/spell=360412/exposed-core)
 * If talented, use {{ site.data.talent.ancestral_guidance }} to help with incoming damage during add spawns
        
 **PTR PoVs:**
@@ -146,17 +148,17 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Damage**
        
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime while avoiding Retch or when repositioning for Ravening Burrow
-* You can continue using instant-cast abilities whilst airborne from Ravening Burrow!
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime while avoiding [Retch](https://ptr.wowhead.com/spell=360448/retch) or when repositioning for [Ravening Burrow](https://ptr.wowhead.com/spell=359770/ravening-burrow)
+* You can continue using instant-cast abilities whilst airborne from [Ravening Burrow!](https://ptr.wowhead.com/spell=359770/ravening-burrow)
        
 **Defensives:**
        
-* Use {{ site.data.spell.astral_shift }} and healing consumables as required to deal with additional stacks of Ephemera Dust.
+* Use {{ site.data.spell.astral_shift }} and healing consumables as required to deal with additional stacks of [Ephemera Dust](https://ptr.wowhead.com/spell=359778/ephemera-dust).
 * Consider using {{ site.data.spell.ee }} as an additional defensive with {{ site.data.talent.icefury }} talented, or as required if using {{ site.data.talent.pe }} talented when 4-piece is active.
 
 **Utilities:**
        
-* If talented, use {{ site.data.talent.wrt }} to help your raid avoid Retch
+* If talented, use {{ site.data.talent.wrt }} to help your raid avoid [Retch](https://ptr.wowhead.com/spell=360448/retch)
        
 **PTR PoVs:**
 
@@ -205,25 +207,25 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Damage**
        
-* Focus down Xy Acolytes as fast as possible to prevent Hyperlight Ascension 
-* Use {{ site.data.talent.sk }} when Xy Reinforcements are spawning, consider having a {{ site.data.legendary.eogs }} buff active!
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Genesis Rings!
+* Focus down [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) as fast as possible to prevent [Hyperlight Ascension](https://ptr.wowhead.com/spell=364040/hyperlight-ascension) 
+* Use {{ site.data.talent.sk }} when [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger) are spawning, consider having a {{ site.data.legendary.eogs }} buff active!
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with [Genesis Rings!](https://ptr.wowhead.com/spell=363413/genesis-rings)
        
 **Defensives:**
        
-* Use {{ site.data.spell.astral_shift }} as needed when Gylph of Relocation is about to explode
-* Consider using {{ site.data.spell.ee }} as necessary for Vital Accretion or {{ site.data.spell.harden_skin }}
+* Use {{ site.data.spell.astral_shift }} as needed when [Gylph of Relocation](https://ptr.wowhead.com/spell=362801/glyph-of-relocation) is about to explode
+* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
        
 **Utilities:**
        
-* Use {{ site.data.spell.wind_shear }} to interrupt Debilitating Ray from Xy Spellslingers 
-* Use {{ site.data.spell.thunderstorm }} to position Xy Reinforcements if necessary
-* Use {{ site.data.spell.capacitor_totem }} to stun Xy Reinforcements
-* If talented, use {{ site.data.talent.wrt }} to help your raid avoid Genesis Rings
+* Use {{ site.data.spell.wind_shear }} to interrupt [Debilitating Ray](https://ptr.wowhead.com/spell=364030/debilitating-ray) from [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger)
+* Use {{ site.data.spell.thunderstorm }} to position [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger) if necessary
+* Use {{ site.data.spell.capacitor_totem }} to stun [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger)
+* If talented, use {{ site.data.talent.wrt }} to help your raid avoid [Genesis Rings](https://ptr.wowhead.com/spell=363413/genesis-rings)
        
 **Added Notes:**
        
-* Position yourself accordingly whenever Glyph of Relocation is about to expire, so that a Dimensional Tear is between you and the exploding tank. This allows you to minimize the distance moved.        
+* Position yourself accordingly whenever [Glyph of Relocation](https://ptr.wowhead.com/spell=362801/glyph-of-relocation) is about to expire, so that a [Dimensional Tear](https://ptr.wowhead.com/spell=362721/dimensional-tear) is between you and the exploding tank. This allows you to minimize the distance moved.        
        
 **PTR PoVs:**
 
@@ -272,24 +274,24 @@ The tips and recommendations listed here are based on educated opinions from PTR
   
 **Damage**
        
-* Domination Cores can be played in more than one way from an Elemental perspective:
-       - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and Core, focus single-target damage into Core 
-       - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and Core, focus single-target damage into Dausegne
-       - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and Core, use {{ site.data.spell.eq }} instead of {{ site.data.spell.es }} and focus either Core or Dausegne
-       - Recommendation? Be sensible. For progression purposes it is important that Domination Cores die quickly because of Encroaching Dominion pools they spawn every 6 seconds whilst still alive, every group is different so your needs may vary but the priority should be to do what is necessary to kill the Cores quickly and efficiently.  
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Disintegration Halo
-* Pool resources when Dausegne is about to cast Siphon Reservoir!       
+* [Domination Cores](https://ptr.wowhead.com/npc=181244/domination-core) can be played in more than one way from an Elemental perspective:
+       - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core), focus single-target damage into [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core) 
+       - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core), focus single-target damage into Dausegne
+       - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core), use {{ site.data.spell.eq }} instead of {{ site.data.spell.es }} and focus either [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core) or Dausegne
+       - Recommendation? Be sensible. For progression purposes it is important that [Domination Cores](https://ptr.wowhead.com/npc=181244/domination-core) die quickly because of [Encroaching Dominion](https://ptr.wowhead.com/spell=361214/encroaching-dominion) pools they spawn every 6 seconds whilst still alive, every group is different so your needs may vary but the priority should be to do what is necessary to kill the [Domination Cores](https://ptr.wowhead.com/npc=181244/domination-core) quickly and efficiently.  
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo)
+* Pool resources when Dausegne is about to cast [Siphon Reservoir!](https://ptr.wowhead.com/spell=361643/siphon-reservoir)       
        
 **Defensives:**
        
-* Use {{ site.data.spell.astral_shift }} as needed when Staggering Barrage, Disintegration Halo or Inevitable Dominion happen
-* Consider using {{ site.data.spell.ee }} as necessary for Vital Accretion or {{ site.data.spell.harden_skin }}
-* {{ site.data.spell.soulshape }} is useful for dealing with Disintegration Halo overlaps when playing as Night Fae
+* Use {{ site.data.spell.astral_shift }} as needed when [Staggering Barrage](https://ptr.wowhead.com/spell=360959/staggering-barrage), [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) or [Inevitable Dominion](https://ptr.wowhead.com/spell=361722/inevitable-dominion) happen
+* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
+* {{ site.data.spell.soulshape }} is useful for dealing with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) overlaps when playing as Night Fae
        
 **Utilities:**
        
-* Use {{ site.data.spell.wind_shear }} to interrupt Domination Bolt from Domination Core  
-* If talented, use {{ site.data.talent.wrt }} to help your raid deal with Disintegration Halo overlaps.  
+* Use {{ site.data.spell.wind_shear }} to interrupt [Domination Bolt](https://ptr.wowhead.com/spell=363607/domination-bolt) from [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core)  
+* If talented, use {{ site.data.talent.wrt }} to help your raid deal with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) overlaps.  
        
 **PTR PoVs:**
 
@@ -339,18 +341,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
   
 **Damage**
        
-* Focusing Necrotic Rituatlists is very important, maintain {{ site.data.spell.flame_shock }} on as many targets whilst focusing one Necrotic Ritualist down (consider positioning for this purpose) 
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Windswept Wings and Hand of Destruction
+* Focusing [Necrotic Rituatlists](https://ptr.wowhead.com/spell=360295/necrotic-ritual#used-by-npc) is very important, maintain {{ site.data.spell.flame_shock }} on as many targets whilst focusing one [Necrotic Ritualist](https://ptr.wowhead.com/spell=360295/necrotic-ritual#used-by-npc) down (consider positioning for this purpose) 
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings) and [Hand of Destruction](https://ptr.wowhead.com/spell=361788/hand-of-destruction)
        
 **Defensives:**
        
-* Use {{ site.data.spell.astral_shift }} (and {{ site.data.spells.fleshcraft }} if Necrolord) as needed for Windswept Wings
-* Consider using {{ site.data.spell.ee }} as necessary for Vital Accretion or {{ site.data.spell.harden_skin }} 
+* Use {{ site.data.spell.astral_shift }} (and {{ site.data.spells.fleshcraft }} if Necrolord) as needed for [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings)
+* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }} 
 
 **Utilities:**
        
-* Use {{ site.data.spell.wind_shear }} to interrupt Gloom Bolt from Prototype of War and Anima Bolt from Protoype of Renewal  
-* If talented, use {{ site.data.talent.wrt }} to help your raid deal with Windswept Wings and Hand of Destruction
+* Use {{ site.data.spell.wind_shear }} to interrupt [Gloom Bolt](https://ptr.wowhead.com/spell=360259/gloom-bolt) from [Prototype of War](https://ptr.wowhead.com/npc=181549/prototype-of-war) and [Anima Bolt](https://ptr.wowhead.com/spell=362383/anima-bolt) from [Protoype of Renewal](https://ptr.wowhead.com/npc=181546/prototype-of-renewal)  
+* If talented, use {{ site.data.talent.wrt }} to help your raid deal with [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings) and [Hand of Destruction](https://ptr.wowhead.com/spell=361788/hand-of-destruction)
        
 **PTR PoVs:**
 
@@ -401,17 +403,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Damage**
        
-* Pool resources when Lihuvim is close to 100 energy to prepare for Protoform Automa
-* Focusing down the Protoform Automa is the highest priority when they are active
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Manifest Mote and Deconstruction Blast       
+* Pool resources when Lihuvim is close to 100 energy to prepare for [Synthesize](https://ptr.wowhead.com/spell=363130/synthesize)
+* Focusing down [Degeneration Automa](https://ptr.wowhead.com/npc=182053/degeneration-automa), [Acquisitions Automa](https://ptr.wowhead.com/npc=184737/acquisitions-automa), [Guardian Automa](https://ptr.wowhead.com/npc=184738/guardian-automa), [Defense Matrix Automa](https://ptr.wowhead.com/npc=184126/defense-matrix-automa) is the highest priority when they are active
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with [Manifest Mote](https://ptr.wowhead.com/spell=362624/manifest-mote) and [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
+       
 **Defensives:**
        
-* Use {{ site.data.spell.astral_shift }} as needed for Cosmic Shift or Deconstruction Blast
-* Consider using {{ site.data.spell.ee }} as necessary for Vital Accretion or {{ site.data.spell.harden_skin }} 
+* Use {{ site.data.spell.astral_shift }} as needed for [Cosmic Shift](https://ptr.wowhead.com/spell=363088/cosmic-shift) or [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
+* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }} 
        
 **Utilities:**
 
-* If talented, use {{ site.data.talent.wrt }} to help your raid reposition quickly for Protoform Automa 
+* If talented, use {{ site.data.talent.wrt }} to help your raid reposition quickly for [Synthesize](https://ptr.wowhead.com/spell=363130/synthesize)
        
 **PTR PoVs:**
   
@@ -522,18 +525,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Damage**
        
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with Blasphemy 
+* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with [Blasphemy](https://ptr.wowhead.com/spell=361989/blasphemy) 
 * Pool resources, including {{ site.data.talent.sk }}, for the Intermission phase       
        
 **Defensives:**
        
-* Use {{ site.data.spell.astral_shift }} as needed for Befouled Barrier or Hopebreaker
+* Use {{ site.data.spell.astral_shift }} as needed for [Befouled Barrier](https://ptr.wowhead.com/spell=365293/befouled-barrier) or [Hopebreaker](https://ptr.wowhead.com/spell=361815/hopebreaker)
        
 **Utilities:**
 
-* Use {{ site.data.spell.wind_shear }} to interrupt Psychic Terror from Grim Reflection        
-* Use {{ site.data.spell.tremor_totem }} before Psychic Terror cast finishes if it would finish
-* Use {{ site.data.spell.fae_transfusion }} to assist with breaking Befouled Barriers if they overlap
+* Use {{ site.data.spell.wind_shear }} to interrupt [Psychic Terror](https://ptr.wowhead.com/spell=365008/psychic-terror) from [Grim Reflections](https://ptr.wowhead.com/spell=365120/grim-reflections)        
+* Use {{ site.data.spell.tremor_totem }} before [Psychic Terror](https://ptr.wowhead.com/spell=365008/psychic-terror) cast finishes if it would finish
+* Use {{ site.data.spell.fae_transfusion }} to assist with breaking [Befouled Barrier](https://ptr.wowhead.com/spell=365293/befouled-barrier)
 * Use {{ site.data.spell.capacitor_totem }} to assist with controlling adds       
 * If talented, use {{ site.data.talent.ancestral_guidance }} with {{ site.data.talent.sk }} for maximum effect        
        
