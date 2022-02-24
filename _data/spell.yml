@@ -56,6 +56,7 @@ fire_elemental: <a href="https://shadowlands.wowhead.com/spell=198067" target="b
 fe: <a href="https://shadowlands.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
 
 fire_elemental_rank_2: <a href="https://shadowlands.wowhead.com/spell=343226/" target="blank">Fire Elemental Rank 2</a>
+fe_2: <a href="https://shadowlands.wowhead.com/spell=343226/" target="blank">Fire Elemental Rank 2</a>
 
 flame_shock: <a href="https://shadowlands.wowhead.com/spell=188389" target="blank">Flame Shock</a>
 fs: <a href="https://shadowlands.wowhead.com/spell=188389" target="blank">Flame Shock</a>
@@ -77,11 +78,17 @@ lvbm: <a href="https://shadowlands.wowhead.com/spell=114074" target="blank">Lava
 lava_burst: <a href="https://shadowlands.wowhead.com/spell=51505" target="blank">Lava Burst</a>
 lvb: <a href="https://shadowlands.wowhead.com/spell=51505" target="blank">Lava Burst</a>
 
+lava_burst_rank_2: <a href="https://shadowlands.wowhead.com/spell=231721" target="blank">Lava Burst Rank 2</a>
+lvb_2: <a href="https://shadowlands.wowhead.com/spell=231721" target="blank">Lava Burst Rank 2</a>
+
 lava_surge: <a href="https://shadowlands.wowhead.com/spell=77756" target="blank">Lava Surge</a>
 ls: <a href="https://shadowlands.wowhead.com/spell=77756" target="blank">Lava Surge</a>
 
 lightning_bolt: <a href="https://shadowlands.wowhead.com/spell=188196" target="blank">Lightning Bolt</a>
 lb: <a href="https://shadowlands.wowhead.com/spell=188196" target="blank">Lightning Bolt</a>
+
+lightning_bolt_rank_2: <a href="https://shadowlands.wowhead.com/spell=318044" target="blank">Lightning Bolt Rank 2</a>
+lb_2: <a href="https://shadowlands.wowhead.com/spell=318044" target="blank">Lightning Bolt Rank 2</a>
 
 lightning_shield: <a href="https://shadowlands.wowhead.com/spell=192106" target="blank">Lightning Shield</a>
 
