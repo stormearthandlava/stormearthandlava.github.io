@@ -1,16 +1,16 @@
 ---
 layout: highcharts_page
 title: Legendaries
-last_update: 2022-01-30 09:00:00
-game_version: 9.1.5 Shadowlands
+last_update: 2022-02-25 09:00:00
+game_version: 9.2 Shadowlands
 toc: true
 ---
 
 ## TL;DR Recommendations
-- {{ site.data.legendary.windspeaker }} for single target
+- {{ site.data.legendary.windspeaker }} for Single Target
 - {{ site.data.legendary.eogs }} for M+ and stacked AoE
-- {{ site.data.legendary.night_fae }} for M+ and stacked AoE
-- {{ site.data.legendary.skybreaker }} for spread cleave
+- {{ site.data.legendary.night_fae }} for M+ and stacked AoE (until [Unity](https://www.wowhead.com/item=190595/memory-of-unity) is available)
+- {{ site.data.legendary.skybreaker }} for Spread Cleave
 
 For more information on M+ setups see the [M+ Section](http://stormearthandlava.com/guide/mythic_plus/mythic_plus.html).
 
