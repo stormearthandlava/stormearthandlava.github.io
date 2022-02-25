@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 2022-01-30 09:00:00
+last_update: 2022-02-25 09:00:00
 game_version: 9.2 Shadowlands
 authors: Altenna, Eokira
 toc: false
