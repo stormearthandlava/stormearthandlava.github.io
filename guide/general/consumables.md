@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Consumables
-last_update: 2021-11-15 09:00:00
-game_version: 9.1.5 Shadowlands
+last_update: 2022-02-25 09:00:00
+game_version: 9.2 Shadowlands
 toc: true
 ---
 
@@ -20,7 +20,7 @@ toc: true
 1. {{ site.data.item.potion_of_deathly_fixation }}
 
 ## Health Potion
-1. {{ site.data.item.spiritual_healing_potion }}
+1. {{ site.data.item.cosmic_healing_potion }}
 
 
 ## Enchants
