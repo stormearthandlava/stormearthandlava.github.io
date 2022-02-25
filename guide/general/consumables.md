@@ -28,7 +28,7 @@ toc: true
 Gear slot | Enchant
 --- | ---
 Weapon | {{site.data.item.celestial_guidance}} for everything, {{ site.data.item.sinful_revelation }} for pure single target
-Cloak | {{ site.data.item.fortified_speed}}
+Cloak | {{ site.data.item.fortified_speed}} or {{ site.data.item.fortified_leech }} or {{ site.data.item.fortified_avoidance }}
 Chest | {{ site.data.item.eternal_insight}} for single target {{site.data.item.eternal_stats}} for AoE
 Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above. (likely {{site.data.item.tenet_of_haste}})
 Bracers | {{ site.data.item.eternal_intellect }}
