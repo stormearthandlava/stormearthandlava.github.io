@@ -1,13 +1,13 @@
 ---
 title: Stats
 layout: page
-last_update: 2021-11-15 09:00:00
-game_version: 9.1.5 Shadowlands
+last_update: 2022-02-25 09:00:00
+game_version: 9.2 Shadowlands
 toc: true
 ---
 
 Due to the fact that different Legendaries, Talents, and different Soulbinds prefer different stats, giving a "one fits all" sort of BiS gear list is a nearly impossible task.
-For that reason we still recommend **sim**ming **yourself** and comparing specific pieces of gear to each other. The following Stat Ratios should give you a general idea what to go for and which items to target.
+For that reason we still recommend **simming yourself** and comparing specific pieces of gear to each other. The following Stat Ratios should give you a general idea what to go for and which items to target.
 
 ## Stat ratios
 
@@ -15,9 +15,9 @@ Below are our advised stat gearing strategies for talent combinations. We won’
 
 Purpose | Crit | Haste | Mastery | Vers
 --- | --- | --- | --- | ---
-Dungeon / Mythic+ / AoE | 0.6 | 0.2 | 0.1 | 0.1
-Raid / Single Target (Windspeaker) | 0.1 | 0.5 | 0.1 | 0.3
+Raid / Single Target (Windspeaker with Tier) | 0.1 | 0.3 | 0.3 | 0.3
 Raid / Cleave (non-WS)| 0.3 | 0.3 | 0.1 | 0.3
+Dungeon / Mythic+ / AoE| 0.6 | 0.2 | 0.1 | 0.1
 
 Expand the section below if you want more information on what these ratios are and/or how to use them:
 
