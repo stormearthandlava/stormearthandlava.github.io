@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Priority List
-last_update: 2022-01-30 09:00:00
-game_version: 9.1.5 Shadowlands
+last_update: 2022-02-28 09:00:00
+game_version: 9.2 Shadowlands
 toc: true
 ---
 
@@ -12,6 +12,8 @@ After reading the APL, please pay attention to the special mentions below, becau
 
 
 **If you have suggestions with sim evidence to back them up, please let us know on Discord.**
+
+**If you are looking for advice for the `Machine Gun` build head down to the Special Cases section!**
 
 
 #### Talent selector:
@@ -42,7 +44,6 @@ Kyrian | Venthyr | Night Fae | Necrolords
                 <li>It is not active on the target.</li>
                 <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}.</li>
                 <li>The debuff's duration is at or below 6 seconds remaining.</li>
-                <li class="se-apl" style="display: none;"><strong>Special warning:</strong> Don't refresh {{ site.data.spell.fs }} if you have 18 stacks or more of {{ site.data.spell.wind_gust }} during {{ site.data.talent.se }}.</li>
             </ul>
         </li>
         <!-- covenant abilities -->
@@ -166,12 +167,30 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
 
 ## Special cases
 ---
+### {{ site.data.talent.se }} build with 4-Tier (A.K.A. Machine Gun)
+- With the following talents: {{ site.data.talent.er }}, {{ site.data.talent.afs }}, {{ site.data.talent.se }}, {{ site.data.talent.pe }}, and {{ site.data.talent.sk }} *or* {{ site.data.talent.up }}
+
+- Your Single Target rotational priority will be as follows: (assumes {{ site.data.legendary.wlr }} is equipped)
+    1. {{ site.data.talent.se }}
+    1. {{ site.data.spell.fae_transfusion }}
+    1. {{ site.data.spell.fs }}, if `<`5.4s remaining
+    1. {{ site.data.spell.lvb }}, with {{ site.data.spell.ls }} active
+    1. {{ site.data.spell.es }}, ensure not to cast when expecting a {{ site.data.item.t28_2 }} proc! [Weakauras are helpful](https://wago.io/fmWIH2c_A) 
+    1. {{ site.data.spell.lb }}
+- Your AoE rotational priority will be as follows:
+    1. {{ site.data.talent.se }}
+    1. {{ site.data.spell.fae_transfusion }}
+    1. {{ site.data.spell.eq }} if you would overcap ( {{ site.data.spell.es }} if you have {{ site.data.legendary.eogs }} equipped and no active {{ site.data.legendary.eogs }} buff! )
+    1. {{ site.data.spell.cl }}
+    1. {{ site.data.spell.lvb }} with {{ site.data.spell.ls }} active *if* you are forced to move **OR** your current combat will last the remaining duration of your {{ site.data.talent.se }}. No {{ site.data.spell.fs }} is required for this to be a gain however, it remains a good movement global if you are forced to move during AoE with no {{ site.data.spell.ls }} active.
+
+
 ### {{ site.data.spell.vesper_totem }} with {{site.data.legendary.kyrian}} equipped.
 - With {{site.data.legendary.kyrian}} equipped it is a DPS gain to cast Healing Spells in order to benefit from the second explosion.
 - if up to **7** targets are present use the following sequence:
     -{{site.data.talent.ag}}, {{site.data.spell.healing_stream_totem}}, and {{site.data.spell.healing_surge}}. Activating {{site.data.talent.ag}} counts as one healing spell for this purpose providing great value as it is off the GCD.
-- if up to **3** targets are present use the following sequence (this assumes {{site.data.talent.ag}} is not available!)
-    -{{site.data.spell.healing_stream_totem}}, followed by 2x {{site.data.spell.healing_surge}}.
+
+**Disclaimer:** This section is under review pending confirmation that {{ site.data.talent.ag }} is not triggering a {{ site.data.spell.vesper_totem }} healing charge in the live game, this behaviour would not reflect PTR testing.
 
 
 ### {{ site.data.talent.mote }}
@@ -210,8 +229,8 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
     - {{ site.data.spell.es }}
     - {{ site.data.spell.lb }}
 
-### {{ site.data.talent.se }} in Single Target
-In 9.1.5 the Single Target priority during {{site.data.talent.se}} has become conditional on {{site.data.spell.bloodlust}}.
+### {{ site.data.talent.se }} in Single Target without 4-Tier
+In 9.2 *without* 4-Tier, the Single Target priority during {{site.data.talent.se}} has become conditional on {{site.data.spell.bloodlust}}.
 
 - During {{site.data.spell.bloodlust}}
     - Spend Maelstrom on {{site.data.spell.es}} (or {{site.data.spell.eq}} with {{site.data.legendary.eogs}} equipped).
