@@ -1,8 +1,8 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 2022-01-30 09:00:00
-game_version: 9.1.5 Shadowlands
+last_update: 2022-02-25 09:00:00
+game_version: 9.2 Shadowlands
 toc: true
 ---
 
@@ -28,10 +28,11 @@ Yes, {{ site.data.spell.eq }} stacks and has no stack limit.
 ### Q: "When should I stop using {{ site.data.spell.es }} and use {{ site.data.spell.eq }}?"
 In general, stop using {{ site.data.spell.es }} against two targets or more. But check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) page for more information.
 
-### Q: "When is the best time to use Primal Fire Elemental's {{ site.data.spell.meteor }}?"
-*Note: This only applies when talented into {{ site.data.talent.pe }}. It is also on the Primal Fire Elemental spell book and not in either your shaman spec or class spell book. Can be macro'd using /cast meteor. See useful macros further down.*
+### Q: "When is the best time to use Primal Fire Elemental's {{ site.data.spell.meteor }} and Storm Elemental's {{ site.data.spell.eye_of_the_storm }}?"
+*Note: This only applies when talented into {{ site.data.talent.pe }}. Both abilities can be macro'd. See useful macros further down.*
 
-Since the cooldown of {{ site.data.spell.meteor }} is the same as the duration of Primal Fire Elemental, save it for a period of AoE within the Elemental's lifetime. If there is no upcoming AoE, cast it immediately. Make sure to bind it to a key. Check out the macro section of this page, if you need help with that.
+In 9.2 with [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) active, you will want to aim to keep your Elemental's abilities on cooldown to maximise uses. If delaying by a small amount will allow you to hit multiple targets then it is a gain to do so, be aware that {{ site.data.spell.eye_of_the_storm }} should also be buffed by {{ site.data.spell.call_lightning }}. 
+*Without* an active [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) you should aim to delay both {{ site.data.spell.meteor }} and {{ site.data.spell.eye_of_the_storm }} if they could hit multiple targets within the Elemental's duration. If there is no upcoming AoE, just ensure they are used before the Elemental fades. Binding these abilities to a key can be particularly helpful. Check out the macro section of this page, if you need help with that.
 
 ### Q: "Is there a way to enable/disable Earth Elemental taunt without screwing up my autocast settings of the DPS Elemental?"
 *Note: This only applies when talented into {{ site.data.talent.pe }}.*
@@ -116,3 +117,23 @@ You can also adapt this macro to dismiss the {{site.data.spell.ee}} after gettin
 #showtooltip
 /use [@mouseover,harm,nodead]Chain Lightning;[@mouseover,help,nodead]Chain Heal;[harm]Chain Lightning;Chain Heal
 ```
+
+- Covenant Ability Macro - Swaps between {{ site.data.spell.primordial_wave }}, {{ site.data.spell.fae_transfusion }}, and {{ site.data.spell.vesper_totem }} depending on current Covenant.
+```
+#showtooltip
+/use [@cursor]Vesper Totem
+/use [@cursor]Fae Transfusion
+/use [@mouseover,harm,nodead][harm]Primordial Wave
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Primordial Wave" or G"Vesper Totem" or G"Fae Transfusion")
+```
+ 
+ - Covenant Signature Ability Macro - Swaps between {{ site.data.spell.fleshcraft }}, {{ site.data.spell.soulshape }}, and {{ site.data.spell.summon_steward }} depending on current Covenant.
+```
+#showtooltip
+/use [@cursor]Door of Shadows
+/use Soulshape
+/use Fleshcraft
+/use Summon Steward
+/run local G=GetSpellInfo SetMacroSpell(GetRunningMacro(), G"Door of Shadows" or G"Soulshape" or G"Fleshcraft" or "Summon Steward") 
+```
+ 

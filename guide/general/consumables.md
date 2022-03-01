@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Consumables
-last_update: 2021-11-15 09:00:00
-game_version: 9.1.5 Shadowlands
+last_update: 2022-02-25 09:00:00
+game_version: 9.2 Shadowlands
 toc: true
 ---
 
@@ -20,7 +20,7 @@ toc: true
 1. {{ site.data.item.potion_of_deathly_fixation }}
 
 ## Health Potion
-1. {{ site.data.item.spiritual_healing_potion }}
+1. {{ site.data.item.cosmic_healing_potion }}
 
 
 ## Enchants
@@ -28,7 +28,7 @@ toc: true
 Gear slot | Enchant
 --- | ---
 Weapon | {{site.data.item.celestial_guidance}} for everything, {{ site.data.item.sinful_revelation }} for pure single target
-Cloak | {{ site.data.item.fortified_speed}}
+Cloak | {{ site.data.item.fortified_speed}} or {{ site.data.item.fortified_leech }} or {{ site.data.item.fortified_avoidance }}
 Chest | {{ site.data.item.eternal_insight}} for single target {{site.data.item.eternal_stats}} for AoE
 Rings | Whichever stat a) sims the highest and b) takes you closer to the stat ratios above. (likely {{site.data.item.tenet_of_haste}})
 Bracers | {{ site.data.item.eternal_intellect }}

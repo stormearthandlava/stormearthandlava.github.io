@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Talents
-last_update: 2022-01-30 09:00:00
-game_version: 9.1.5 Shadowlands
+last_update: 2022-02-28 09:00:00
+game_version: 9.2 Shadowlands
 toc: true
 ---
 
@@ -14,7 +14,10 @@ Type | Talent combination
 --- | ---
 Questing / Solo&nbsp;Content | 15: {{ site.data.talent.eote }}<br/> 25: {{ site.data.talent.eb }}<br/> 25: {{ site.data.talent.earth_shield }}<br/> 35: {{ site.data.talent.mote }}<br/> 40: {{ site.data.talent.natures_guardian }}<br/> 45: {{ site.data.talent.pe }}<br/> 50: {{ site.data.talent.sk }}
 Mythic+ | 15: {{ site.data.talent.echo }} **OR** {{ site.data.talent.er }} (with {{ site.data.talent.se }})<br/> 25: {{ site.data.talent.afs }}<br/> 30: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br/> 35: {{ site.data.talent.mote }} **OR** {{ site.data.talent.se }}<br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br/> 45: {{ site.data.talent.pe }}<br/> 50: {{site.data.talent.sk}}
-Raid / Single&nbsp;Target | 15: {{ site.data.talent.echo }}<br/> 25: {{ site.data.talent.eb }}<br/> 30: {{ site.data.talent.sw }}<br/> 35: {{ site.data.talent.mote }}<br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.wrt }}<br/> 45: {{ site.data.talent.if }} **OR** {{ site.data.talent.pe }}<br/> 50: {{ site.data.talent.sk }}
+Mythic+ with 4-Tier Set and/or Double Legendary | 15: {{ site.data.talent.eote }} **OR** {{ site.data.talent.er }} *See In depth discussion section* <br/> 25: {{ site.data.talent.afs }} <br/> 30: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }} <br/> 35: {{ site.data.talent.se }} <br/> 40: {{ site.data.talent.ancestral_guidance }} **OR** {{ site.data.talent.natures_guardian }} <br/> 45: {{ site.data.talent.pe }} <br/> 50: {{ site.data.talent.sk }}
+Raid / Single Target (Standard) | 15: {{ site.data.talent.echo }}<br/> 25: {{ site.data.talent.eb }}<br/> 30: {{ site.data.talent.sw }}<br/> 35: {{ site.data.talent.mote }}<br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.wrt }}<br/> 45: {{ site.data.talent.if }} **OR** {{ site.data.talent.pe }}<br/> 50: {{ site.data.talent.sk }}
+Raid / Single Target with 4-Tier Set and/or Double Legendary | 15: {{ site.data.talent.er }} <br/> 25: {{ site.data.talent.afs }} <br/> 30: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }} <br/> 35: {{ site.data.talent.se }} <br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }} <br/> 45: {{ site.data.talent.pe }} <br/> 50: {{ site.data.talent.sk }} **OR** {{ site.data.talent.up }} *See In depth discussion section* 
+
 
 **Special Mention** {{ site.data.talent.pe }} Is fairly close to {{ site.data.talent.if }} on single target, and is generally more powerful when multiple targets are present. We recommend inexperienced shamans use {{ site.data.talent.pe }} regardless, as {{ site.data.talent.if }} is significantly more complex.
 
@@ -39,15 +42,15 @@ Click the talent row text to expand.
         <div id="L15-collapse" class="collapse show" aria-labelledby="L15" data-parent="#accordion">
             <div class="card-body">
                 <h4>{{site.data.talent.er}} (ER)</h4>
-                <p>A passive talent which requires no thought or change in gameplay.</p>
+                <p>A passive talent which requires no thought or change in gameplay. In scenarios where you are not hardcasting {{ site.data.spell.lava_burst }} and therefore {{ site.data.talent.eote }} provides no value, {{ site.data.talent.er }} becomes better than it.</p>
                 <hr><br/>
                 <h4>{{site.data.talent.eote}} (EotE / Echo)</h4>
-                <p> Quite a simple talent to understand, EotE / Echo just adds a charge to {{ site.data.spell.lvb }}. At face value this may not seem impactful, but once you consider that effects which reset the cooldown on {{ site.data.spell.lvb }} will now instead grant a charge, the benefits are clear. Echo adds value by allowing extra time for you to cast {{ site.data.spells.lvb }} instead of needing to cast it immediately when it comes off cooldown. This is because you'll lose no DPS by choosing to cast another spell while {{ site.data.spell.lvb }} has less than 2 charges, as the second charge "cooling down" does not translate to wasted DPS.</p>
+                <p> Quite a simple talent to understand, EotE / Echo just adds a charge to {{ site.data.spell.lvb }}. At face value this may not seem impactful, but once you consider that effects which reset the cooldown on {{ site.data.spell.lvb }} will now instead grant a charge, the benefits are clear. Echo adds value by allowing extra time for you to cast {{ site.data.spells.lvb }} instead of needing to cast it immediately when it comes off cooldown. This is because you'll lose no DPS by choosing to cast another spell while {{ site.data.spell.lvb }} has less than 2 charges, as the second charge "cooling down" does not translate to wasted DPS. For {{ site.data.talent.eote }} to provide its value, it requires hardcasted {{ site.data.spell.lvb }} to feature in the rotation.</p>
                 <hr><br/>
                 <h4>{{site.data.talent.sd}} (SD)</h4>
                 <p> Static Discharge adds a spell to our toolkit that you can only use while you have {{ site.data.spell.lightning_shield }} active. It deals damage to a nearby target with {{ site.data.spell.fs }}. Because different types of self-casted shield don't stack, you will not be able to benefit from your own {{site.data.talent.earth_shield}}.</p>
                 <hr><br/>
-                <p markdown="1">**Recommendation:** {{site.data.talent.eote}} should be taken for virtually all situations. {{site.data.talent.er}} can be good with certain {{site.data.talent.storm_elemental}} builds because {{site.data.talent.er}} provides damage during times when you are not casting {{site.data.spell.lava_burst}} such as AoE. {{site.data.talent.sd}} barely does any damage and is too limited in its use to ever be worth considering.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.eote}} should be taken in scenarios where you will be hardcasting {{ site.data.spell.lvb }} like using {{ site.data.legendary.eogs }} for M+ bosses. {{site.data.talent.er}} can be good with the {{site.data.talent.storm_elemental}} build with 4-Tier and/or Double Legendary because {{site.data.talent.er}} provides more than {{ site.data.talent.eote }} when you do not hardcast {{ site.data.spell.lvb }}. {{site.data.talent.sd}} barely does any damage and is too limited in its use to ever be worth considering.</p>
             </div>
         </div>
     </div>
@@ -63,12 +66,12 @@ Click the talent row text to expand.
                 <p>When you cast {{ site.data.spell.eq }} or {{ site.data.spell.es }}, you have a chance to immediately refund all the Maelstrom spent. This allows for increased burst but with the caveat that at a 25% chance, it is quite random and can't be reliably used for burst damage.</p>
                 <hr><br/>
                 <h4>{{site.data.talent.ecs}} (EcS)</h4>
-                <p> Duplicates the next offensive spell used, after 1 second. The duplicate behaves like a normal cast. It is best to use this on {{ site.data.spell.es }} on single target and {{ site.data.spell.eq }} on AoE. The echoed spell does not benefit from any buffs present when the triggering spell is cast, but will consume and benefit from them if a relevant buff is present when the echoed spell itself triggers. This spell has good flexibility between Single Target and AoE.</p>
+                <p> Duplicates the next offensive spell used, after 1 second. The duplicate behaves like a normal cast. It is best to use this on {{ site.data.spell.es }} on single target *without* 4-Tier, {{ site.data.spell.lvb }} *with* 4-Tier, and {{ site.data.spell.eq }} on AoE. The echoed spell does not benefit from any buffs present when the triggering spell is cast, but will consume and benefit from them if a relevant buff is present when the echoed spell itself triggers. This spell has good flexibility between Single Target and AoE.</p>
                 <hr><br/>
                 <h4>{{site.data.talent.eb}} (EB)</h4>
                 <p> This is a relatively short CD (12 sec) that grants a random secondary stat buff (Critical Strike, Haste, or Mastery) for 10 seconds. It should be used on cooldown, and you should not behave differently based on which buff you get -- just treat it as a passive increase.</p>
                 <hr><br/>
-                <p markdown="1">**Recommendation:** {{site.data.talent.eb}} for single target. {{site.data.talent.afs}} is usually the clear winner for 3+ targets. {{site.data.talent.ecs}} despite offering greater control of your damage across more than just one damage profile, it is undertuned relative to the other options in their preferred scenarios and is not chosen unless you've also chosen to use {{site.data.legendary.eeq}}.</p>
+                <p markdown="1">**Recommendation:** {{site.data.talent.eb}} for single target with standard build. {{site.data.talent.afs}} is usually the clear winner for 3+ targets, but is also better than the alternatives for the 4-Tier {{ site.data.talent.se }} build. {{site.data.talent.ecs}} despite offering greater control of your damage across more than just one damage profile, it is undertuned relative to the other options in their preferred scenarios and is not chosen unless you've also chosen to use {{site.data.legendary.eeq}}.</p>
             </div>
         </div>
     </div>
@@ -110,7 +113,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.lmt}} (LMT)</h4>
                 <p> Offers some nice AOE on a moderate cooldown, especially when encounter timing allows you to get high-value casts on or near cooldown. Its long duration and static location make it hard to use.</p>
                 <hr><br/>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is the default choice in raiding and is viable for M+ use. {{ site.data.talent.se }} is the default choice for M+ and has specific uses in raid content where externals or burst aoe are required. When taking {{site.data.talent.se}} you should also take {{site.data.talent.pe}} to make use of {{site.data.spell.eye_of_the_storm}}. {{ site.data.talent.lmt }} has reasonable base power however the buffs to our base AoE spells ({{site.data.spell.cl}} and {{site.data.spell.eq}} in [9.0.5](https://shadowlands.wowhead.com/guides/shaman-class-changes-shadowlands-patch-9-0-5) means the alternatives have increased value relative to {{site.data.talent.lmt}} making it less appealing.
+                <p markdown="1">**Recommendation:** {{ site.data.talent.mote }} is the Standard choice in raiding and is viable for M+ use. {{ site.data.talent.se }} is the default choice for M+ and has specific uses in raid content where externals or burst aoe are required, with active 4-Tier {{ site.data.talent.se }} becomes the strongest in all PvE content. When taking {{ site.data.talent.se }} you should also take {{ site.data.talent.pe }} to make use of {{ site.data.spell.eye_of_the_storm }}. {{ site.data.talent.lmt }} has reasonable base power however the buffs to our base AoE spells ({{ site.data.spell.cl }} and {{site.data.spell.eq}} in [9.0.5](https://shadowlands.wowhead.com/guides/shaman-class-changes-shadowlands-patch-9-0-5) means the alternatives have increased value relative to {{site.data.talent.lmt}} making it less appealing.
                 </p>
             </div>
         </div>
@@ -164,7 +167,7 @@ Click the talent row text to expand.
                 <h4>{{site.data.talent.if}} (IF)</h4>
                 <p markdown="1">This is to be used on cooldown assuming you can cast all four empowered {{ site.data.spell.frs }}s. {{ site.data.talent.if }} empowered {{ site.data.spell.frs }} generate Maelstrom. This gives you more liberty in when you can use {{ site.data.talent.if }} charges, potentially for brief moments in the 15 second buff window where you will move for a few GCDs.</p>
                 <hr><br/>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.if }} in combination with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the default choice versus one target. Alternatively {{ site.data.talent.pe }} can be used. Both talents are pretty much equivalent on single target, with {{ site.data.talent.pe }} becoming better when more targets are available. {{ site.data.talent.sop }} stays similarly to how it performed in BFA but in Shadowlands there aren't any borrowed power sources that make it more valuable than the alternatives, this means there is currently no PvE situation where using {{site.data.talent.sop}} is recommended.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.if }} in combination with {{ site.data.talent.mote }} and {{ site.data.talent.echo }} is the Standard choice versus one target. Alternatively {{ site.data.talent.pe }} can be used as an easier version of the Standard build or if AoE is expected. {{ site.data.talent.sop }} stays similarly to how it performed in BFA but in Shadowlands there aren't any borrowed power sources that make it more valuable than the alternatives, this means there is currently no PvE situation where using {{site.data.talent.sop}} is recommended. If you *do* opt to use {{ site.data.talent.sop }} then currently using its buff on {{ site.data.talent.lb }} is ideal</p>
             </div>
         </div>
     </div>
@@ -177,15 +180,15 @@ Click the talent row text to expand.
         <div id="L50-collapse" class="collapse" aria-labelledby="L50" data-parent="#accordion">
             <div class="card-body">
                 <h4>{{ site.data.talent.up }} (UP)</h4>
-                <p markdown="1">An interesting buff that creates some *swing* in the spec, a tangible speeding up and slowing down of casts provided you're lucky with {{ site.data.spell.mastery }} procs. This is especially noticeable in AOE, where you can regularly get in excess of 10 stacks for a total of 20%+ haste for a few seconds. Regardless of its obvious dependency on our {{ site.data.spell.mastery }}, this talent works better with a lot of Haste.</p>
+                <p markdown="1">An interesting buff that creates some *swing* in the spec, a tangible speeding up and slowing down of casts provided you're lucky with {{ site.data.spell.mastery }} procs. This is especially noticeable in AOE, where you can regularly get in excess of 10 stacks for a total of 20%+ haste for a few seconds. Regardless of its obvious dependency on our {{ site.data.spell.mastery }}, this talent works better with a lot of Haste in addition to providing more of its potential value when you aren't forced to move often.</p>
                 <hr><br/>
                 <h4>{{ site.data.talent.sk }} (SK)</h4>
                 <p markdown="1">This ability buffs your next two {{ site.data.spell.lb }} and {{ site.data.spell.cl }}. If you decide to use {{ site.data.spell.lb }}, its damage is buffed. {{ site.data.talent.sk }} forces {{ site.data.spell.lb }} and {{ site.data.spell.cl }} to trigger their baseline Overloads. This means, that {{ site.data.spell.lb }} will be forced to overload once and {{ site.data.spell.cl }} overloads on each target hit.</p>
                 <hr><br/>
                 <h4>{{ site.data.talent.asc }} (Asc)</h4>
-                <p markdown="1">An additional cooldown that refreshes all active {{site.data.spell.fs}} to 18 seconds, immediately fires {{site.data.spell.lvb}} at all targets with {{site.data.spell.fs}}, removes the cooldown on {{site.data.spell.lvb}}, and increases  {{site.data.spell.lvb}} damage by your Critical Strike chance. Additionally your {{site.data.spell.cl}} gets replaced by {{site.data.spell.lvbm}}. You should adjust your casts during {{site.data.talent.asc}} as per the <a href="priority_list.html">priority list</a> page.</p>
+                <p markdown="1">An additional cooldown that refreshes all active {{ site.data.spell.fs }} to 18 seconds, immediately fires {{ site.data.spell.lvb }} at all targets with {{ site.data.spell.fs }}, removes the cooldown on {{ site.data.spell.lvb }}, and increases {{ site.data.spell.lvb }} damage by your Critical Strike chance. Additionally your {{ site.data.spell.cl }} gets replaced by {{ site.data.spell.lvbm }}. You should adjust your casts during {{ site.data.talent.asc }} as per the <a href="priority_list.html">priority list</a> page.</p>
                 <hr><br/>
-                <p markdown="1">**Recommendation:** {{ site.data.talent.sk }} for all situations. {{ site.data.talent.asc }} offers some strong 15 second burst but can't compete in terms of mobility and versatility. {{ site.data.talent.up }} is just weak and even if it were possible to sim identically to {{ site.data.talent.sk }} it requires constant casting and no movement to provide its dps. Because this isn't possible this talent can be considered non-existant.</p>
+                <p markdown="1">**Recommendation:** {{ site.data.talent.sk }} for the majority of situations. {{ site.data.talent.asc }} offers some strong 15 second burst but can't compete in terms of mobility and versatility. {{ site.data.talent.up }} is typically considered weak however when 4-Tier is achieved this becomes better than {{ site.data.talent.sk }} if the situation suits its movement requirements. {{ site.data.talent.sk }} will still remain the safe default option, but there is definite potential for {{ site.data.talent.up }} to be utilised if you can minimize movement.</p>
             </div>
         </div>
     </div>

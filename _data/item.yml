@@ -23,6 +23,7 @@ mainstat_flask: <a href="https://shadowlands.wowhead.com/item=171276" target="bl
 eternal_cauldron: <a href="https://shadowlands.wowhead.com/item=171284" target="blank">Eternal Cauldron</a>
 
 spiritual_healing_potion: <a href="https://shadowlands.wowhead.com/item=171267" target="blank">Spiritual Healing Potion</a>
+cosmic_healing_potion:  <a href="https://shadowlands.wowhead.com/item=187802" target="blank">Cosmic Healing Potion</a>
 
 potion_of_concealment: <a href="https://shadowlands.wowhead.com/item=152503" target="blank">Potion of Concealment</a>
 potion_of_the_hidden_spirit: <a href="https://shadowlands.wowhead.com/item=261424" target="blank">Potion of the Hidden Spirit</a>
@@ -91,6 +92,9 @@ tenet_of_haste: <a href="https://shadowlands.wowhead.com/spell=309617" target="b
 tenet_of_mastery: <a href="https://shadowlands.wowhead.com/spell=309618" target="blank">Tenet of Mastery</a>
 
 fortified_speed: <a href="https://shadowlands.wowhead.com/spell=309528" target="blank">Fortified Speed</a>
+fortified_avoidance:  <a href="https://shadowlands.wowhead.com/item=172411" target="blank">Fortified Avoidance</a>
+fortified_leech:  <a href="https://shadowlands.wowhead.com/item=172412" target="blank">Fortified Leech</a>
+
 shadowcore_oil: <a href="https://shadowlands.wowhead.com/item=171285" target="blank">Shadowcore Oil</a>
 
 phial_of_serenity: <a href="https://shadowlands.wowhead.com/item=177278" target="blank">Phial of Serenity</a>
