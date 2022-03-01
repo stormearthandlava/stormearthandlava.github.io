@@ -26,12 +26,12 @@ categories:
   url: /guide/mythic_plus/mythic_plus.html
 - title: Raids
   subcategories:
+    - title: Sepulcher of the First Ones
+      url: /guide/raids/SotFO.html
     - title: Sanctum of Domination
       url: /guide/raids/sod.html   
     - title: Castle Nathria
       url: /guide/raids/nathria.html
-    - title: Sepulcher of the First Ones
-      url: /guide/raids/SotFO.html
 
 #- title: Mythic+
 # activate this v line if you don't want child elements in the top menu
