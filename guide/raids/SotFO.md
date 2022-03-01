@@ -76,7 +76,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:** 
        
-* Night Fae with Dreamweaver or Korayn to capitalise on {{ site.data.soulbind.first_strike }}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.soulbind.first_strike}}
        
 **Recommended Legendaries:**
        
@@ -199,7 +199,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
  
 **Recommended Covenant:**   
        
-* Night Fae with Dreamweaver or Korayn to capitalise on {{ site.data.soulbind.first_strike }}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.soulbind.first_strike}}
        
 **Recommended Legendaries:**
  
@@ -393,7 +393,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
  
 **Recommended Covenant:**   
        
-* Night Fae with Korayn for {{ site.data.soulbind.first_strike }}
+* Night Fae with Korayn for {{site.data.soulbind.first_strike}}
        
 **Recommended Legendaries:**
 
