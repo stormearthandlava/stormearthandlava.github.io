@@ -23,7 +23,7 @@ This guide is intended to help you identify critical mobs and abilities as well 
 
 # Talents and Legendaries
 
-For novice Elemental Shamans without an active [Tier Set Bonus](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) or without [https://www.wowhead.com/spell=364738/unity], the setup below is great for players starting out as well as for +15 keys and beyond:
+For novice Elemental Shamans without an active [Tier Set Bonus](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) or without [Unity](https://www.wowhead.com/spell=364738/unity), the setup below is great for players starting out as well as for +15 keys and beyond:
 
 * **15:** {{ site.data.talent.echo_of_the_elements }} **or** {{ site.data.talent.earthen_rage }} (with {{ site.data.talent.storm_elemental }})
 * **25:** {{ site.data.talent.aftershock }}
@@ -36,14 +36,14 @@ For novice Elemental Shamans without an active [Tier Set Bonus](https://www.wowh
 
 **Double Legendary**
 When [Unity](https://www.wowhead.com/spell=364738/unity) is equipped you will be able to utilise 2 Legendary effects, one of them will be your current Covenant's specific Legendary:
-      - Night Fae gains {{ site.data.legendary.night_fae }}
-      - Venthyr gains {{ site.data.legendary.venthyr }}
-      - Kyrian gains {{ site.data.legendary.kyrian }}
-      - Necrolord gains {{ site.data.legendary.necrolord }}
+      * Night Fae gains {{ site.data.legendary.night_fae }}
+      * Venthyr gains {{ site.data.legendary.venthyr }}
+      * Kyrian gains {{ site.data.legendary.kyrian }}
+      * Necrolord gains {{ site.data.legendary.necrolord }}
 This opens up some opportunities for M+ in conjuction with the [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) centred around the uptime of {{ site.data.talent.se }}.
-      - Necrolord with {{ site.data.legendary.skybreaker }}
-      - Venthyr with {{ site.data.legendary.skybreaker }}
-      - Kyrian with {{ site.data.legendary.eogs }} judging Legendaries by their raw strength, {{ site.data.legendary.eogs }} and {{ site.data.legendary.kyrian }} are our strongest choices. Being able to use them both together is promising, especially when using {{ site.data.talent.ancestral_guidance }} to utilise the healing charges from {{ site.data.spell.vesper_totem }}
+      * Necrolord with {{ site.data.legendary.skybreaker }}
+      * Venthyr with {{ site.data.legendary.skybreaker }}
+      * Kyrian with {{ site.data.legendary.eogs }} judging Legendaries by their raw strength, {{ site.data.legendary.eogs }} and {{ site.data.legendary.kyrian }} are our strongest choices. Being able to use them both together is promising.
       
 These setups will fluctuate in value depending on how keys are routed and which [Encrypted Affix](https://www.wowhead.com/guides/encrypted-affix-shadowlands-mythic-plus-season-3-automata-buffs) are utilised, and it is worth noting that Increased Cooldown Rate and similar effects are only useful if they enable uptime that you do not achieve in another manner - this should be kept in mind when deciding which setup to experiment with!
 
