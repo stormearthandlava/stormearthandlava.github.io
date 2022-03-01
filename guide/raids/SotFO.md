@@ -51,7 +51,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 </div>
 <div id="vigilant_guardian-collapse" class="collapse" aria-labelledby="vigilant_guardian" data-parent="#accordion">
 <div class="card-body" markdown="1">
-       
+
 **Boss Fight Profile:** Single-Target with Cleave/AoE 
           
 **Talents without active 4-piece bonus:**
@@ -76,7 +76,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:** 
        
-* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.soulbind.first_strike}}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.soulbinds.first_strike}}
        
 **Recommended Legendaries:**
        
@@ -199,7 +199,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
  
 **Recommended Covenant:**   
        
-* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.soulbind.first_strike}}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.soulbinds.first_strike}}
        
 **Recommended Legendaries:**
  
@@ -332,7 +332,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Recommended Covenant:**   
        
-* Necrolord with Plague Deviser Marileth, {{ site.data.soulbind.preemptive_strike }} is very effective for focusing Necrotic Ritualists
+* Necrolord with Plague Deviser Marileth, {{ site.data.soulbinds.preemptive_strike }} is very effective for focusing Necrotic Ritualists
 * Night Fae with Dreamweaver
        
 **Recommended Legendaries:**
@@ -393,7 +393,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
  
 **Recommended Covenant:**   
        
-* Night Fae with Korayn for {{site.data.soulbind.first_strike}}
+* Night Fae with Korayn for {{site.data.soulbinds.first_strike}}
        
 **Recommended Legendaries:**
 
