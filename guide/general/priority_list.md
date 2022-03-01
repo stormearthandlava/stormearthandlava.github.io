@@ -181,8 +181,8 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
     1. {{ site.data.talent.se }}
     1. {{ site.data.spell.fae_transfusion }}
     1. {{ site.data.spell.eq }} if you would overcap ( {{ site.data.spell.es }} if you have {{ site.data.legendary.eogs }} equipped and no active {{ site.data.legendary.eogs }} buff! )
-    1. {{ site.data.spell.cl }}
     1. {{ site.data.spell.lvb }} with {{ site.data.spell.ls }} active *if* you are forced to move **OR** your current combat will last the remaining duration of your {{ site.data.talent.se }}. No {{ site.data.spell.fs }} is required for this to be a gain however, it remains a good movement global if you are forced to move during AoE with no {{ site.data.spell.ls }} active.
+    1. {{ site.data.spell.cl }}
 
 
 ### {{ site.data.spell.vesper_totem }} with {{site.data.legendary.kyrian}} equipped.
