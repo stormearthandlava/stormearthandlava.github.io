@@ -186,11 +186,9 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
 
 
 ### {{ site.data.spell.vesper_totem }} with {{site.data.legendary.kyrian}} equipped.
-- With {{site.data.legendary.kyrian}} equipped it is a DPS gain to cast Healing Spells in order to benefit from the second explosion.
-- if up to **7** targets are present use the following sequence:
-    -{{site.data.talent.ag}}, {{site.data.spell.healing_stream_totem}}, and {{site.data.spell.healing_surge}}. Activating {{site.data.talent.ag}} counts as one healing spell for this purpose providing great value as it is off the GCD.
-
-**Disclaimer:** This section is under review pending confirmation that {{ site.data.talent.ag }} is not triggering a {{ site.data.spell.vesper_totem }} healing charge in the live game, this behaviour would not reflect PTR testing.
+- During PTR testing it was potentially a DPS increase to cast Healing Spells in order to trigger the Healing Charge explosion of {{ site.data.legendary.kyrian }} when used in conjunction with {{ site.data.talent.ag }}. 
+- On live servers, casting {{ site.data.talent.ag }} is not triggering a Healing Charge of {{ site.data.spell.vesper_totem }} and so cannot be used to trigger the explosion of {{ site.data.legendary.kyrian }} more efficiently.
+- As a result, on live servers this behaviour is no longer a strict increase in DPS but you can trigger the {{ site.data.spell.kyrian }} charges with {{ site.data.spell.healing_surge }} if your group needs additional healing value. Otherwise you should ignore the second charge of {{ site.data.legendary.kyrian }} as an Elemental shaman.
 
 
 ### {{ site.data.talent.mote }}
