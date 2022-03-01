@@ -49,7 +49,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div class="card-header" id="vigilant_guardian">
 <div data-toggle="collapse" data-target="#vigilant_guardian-collapse" aria-expanded="true" aria-controls="vigilant_guardian-collapse" class="raid-header sepulcher_of_the_first_ones1"><h2>Vigilant Guardian</h2></div>
 </div>
-<div id="vigilant_guardian-collapse" class="collapse" aria-labelledby=vigilant_guardian" data-parent=#accordion">
+<div id="vigilant_guardian-collapse" class="collapse" aria-labelledby="vigilant_guardian" data-parent="#accordion">
 <div class="card-body" markdown="1">
        
 **Boss Fight Profile:** Single-Target with Cleave/AoE 
@@ -76,7 +76,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:** 
        
-* Night Fae with Dreamweaver or Korayn to capitalise on {{ site.data.soulbind.first_strike }}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.soulbind.first_strike}}
        
 **Recommended Legendaries:**
        
@@ -199,7 +199,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
  
 **Recommended Covenant:**   
        
-* Night Fae with Dreamweaver or Korayn to capitalise on {{ site.data.soulbind.first_strike }}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.soulbind.first_strike}}
        
 **Recommended Legendaries:**
  
@@ -393,7 +393,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
  
 **Recommended Covenant:**   
        
-* Night Fae with Korayn for {{ site.data.soulbind.first_strike }}
+* Night Fae with Korayn for {{site.data.soulbind.first_strike}}
        
 **Recommended Legendaries:**
 
