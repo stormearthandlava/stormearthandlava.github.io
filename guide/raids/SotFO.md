@@ -346,7 +346,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Defensives:**
        
-* Use {{ site.data.spell.astral_shift }} (and {{ site.data.spells.fleshcraft }} if Necrolord) as needed for [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings)
+* Use {{ site.data.spell.astral_shift }} (and {{ site.data.spell.fleshcraft }} if Necrolord) as needed for [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings)
 * Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }} 
 
 **Utilities:**
