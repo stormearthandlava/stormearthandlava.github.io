@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 2022-02-25 09:00:00
+last_update: 2022-03-02 09:00:00
 game_version: 9.2 Shadowlands
 authors: Altenna, Eokira
 toc: false
@@ -36,14 +36,14 @@ For novice Elemental Shamans without an active [Tier Set Bonus](https://www.wowh
 
 **Double Legendary**
 When [Unity](https://www.wowhead.com/spell=364738/unity) is equipped you will be able to utilise 2 Legendary effects, one of them will be your current Covenant's specific Legendary:
-      * Night Fae gains {{ site.data.legendary.night_fae }}
-      * Venthyr gains {{ site.data.legendary.venthyr }}
-      * Kyrian gains {{ site.data.legendary.kyrian }}
-      * Necrolord gains {{ site.data.legendary.necrolord }}
+* Night Fae gains {{ site.data.legendary.night_fae }}
+* Venthyr gains {{ site.data.legendary.venthyr }}
+* Kyrian gains {{ site.data.legendary.kyrian }}
+* Necrolord gains {{ site.data.legendary.necrolord }}
 This opens up some opportunities for M+ in conjuction with the [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) centred around the uptime of {{ site.data.talent.se }}.
-      * Necrolord with {{ site.data.legendary.skybreaker }}
-      * Venthyr with {{ site.data.legendary.skybreaker }}
-      * Kyrian with {{ site.data.legendary.eogs }} judging Legendaries by their raw strength, {{ site.data.legendary.eogs }} and {{ site.data.legendary.kyrian }} are our strongest choices. Being able to use them both together is promising.
+* Necrolord with {{ site.data.legendary.skybreaker }}
+* Venthyr with {{ site.data.legendary.skybreaker }}
+* Kyrian with {{ site.data.legendary.eogs }} judging Legendaries by their raw strength, {{ site.data.legendary.eogs }} and {{ site.data.legendary.kyrian }} are our strongest choices. Being able to use them both together is promising.
       
 These setups will fluctuate in value depending on how keys are routed and which [Encrypted Affix](https://www.wowhead.com/guides/encrypted-affix-shadowlands-mythic-plus-season-3-automata-buffs) are utilised, and it is worth noting that Increased Cooldown Rate and similar effects are only useful if they enable uptime that you do not achieve in another manner - this should be kept in mind when deciding which setup to experiment with!
 
@@ -109,22 +109,24 @@ Don't forget to check out Additional Resources at the bottom of this page!
 * Encrypted: [Encrypted](https://www.wowhead.com/guides/encrypted-affix-shadowlands-mythic-plus-season-3-automata-buffs) is the Season 3 Affix for Shadowlands. Groups of relics are present in packs throughout dungeons, including relics with every boss! Pick which relic to kill first to decide which Elite Automa will spawn! When an Elite Automa dies, your group is empowered with their buff! 
 
 * [Urh Dismantler](https://ptr.wowhead.com/npc=184911/urh-dismantler) spawns when [Urh Relic](https://ptr.wowhead.com/npc=185685/urh-relic) is killed first.
-      - [Urh Relic](https://ptr.wowhead.com/npc=185685/urh-relic) has [Deconstruct](https://ptr.wowhead.com/spell=366297/deconstruct) and [Force Slam](https://ptr.wowhead.com/spell=366288/force-slam) abilities. Make sure to move from [Force Slam's](https://ptr.wowhead.com/spell=366288/force-slam) targeting circle! 
-      - When killed your group receives [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) granting 200% increased spell and ability cooldown rate and restoring 10% health and mana per second for 10 seconds.
+    * [Urh Relic](https://ptr.wowhead.com/npc=185685/urh-relic) has [Deconstruct](https://ptr.wowhead.com/spell=366297/deconstruct) and [Force Slam](https://ptr.wowhead.com/spell=366288/force-slam) abilities. 
+    * Make sure to move from [Force Slam's](https://ptr.wowhead.com/spell=366288/force-slam) targeting circle! 
+    * When killed your group receives [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) granting 200% increased spell and ability cooldown rate and restoring 10% health and mana per second for 10 seconds.
 
 * [Wo Drifter](https://ptr.wowhead.com/npc=184910/wo-drifter) spawns when [Wo Relic](https://ptr.wowhead.com/npc=185683/wo-relic) is killed first. 
-      - [Wo Relic](https://ptr.wowhead.com/npc=185683/wo-relic) has one ability: [Burst](https://ptr.wowhead.com/spell=366566/burst) which should be interrupted using {{ site.data.spell.wind_shear }}, coordinate with your group to ensure no [Burst](https://ptr.wowhead.com/spell=366566/burst) casts go through! 
-      - When killed your group receives [Decrypted Wo Cypher](https://ptr.wowhead.com/spell=368241/decrypted-wo-cypher) granting 150% increased movement speed, 15% reduced damage taken for 1 minute. In addition, when not in combat players with [Decrypted Wo Cypher](https://ptr.wowhead.com/spell=368241/decrypted-wo-cypher) will gain a stealth effect!
+    * [Wo Relic](https://ptr.wowhead.com/npc=185683/wo-relic) has one ability: [Burst](https://ptr.wowhead.com/spell=366566/burst) which should be interrupted using {{ site.data.spell.wind_shear }}, coordinate with your group to ensure no [Burst](https://ptr.wowhead.com/spell=366566/burst) casts go through! 
+    * When killed your group receives [Decrypted Wo Cypher](https://ptr.wowhead.com/spell=368241/decrypted-wo-cypher) granting 150% increased movement speed, 15% reduced damage taken for 1 minute. In addition, when not in combat players with [Decrypted Wo Cypher](https://ptr.wowhead.com/spell=368241/decrypted-wo-cypher) will gain a stealth effect!
 
 * [Vy Interceptor](https://ptr.wowhead.com/npc=184908/vy-interceptor) spawns when [Vy Relic](https://ptr.wowhead.com/npc=185680/vy-relic) is killed first. 
-      - [Vy Relic](https://ptr.wowhead.com/npc=185680/vy-relic) has two abilities: [Shoot](https://ptr.wowhead.com/spell=366406/shoot) and [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam). [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam) is targeted at a player's location, so spreading slightly during the pull **if that will not cause other issues** can help reduce movement required to dodge [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam).
-      - When killed your group receives [Decrypted Vy Cypher](https://ptr.wowhead.com/spell=368240/decrypted-vy-cypher) granting 15% increase Haste and summons an `Orb of Energy` which grants players a chance to deal additional damage or healing on their abilities, depending on role.
+    * [Vy Relic](https://ptr.wowhead.com/npc=185680/vy-relic) has two abilities: [Shoot](https://ptr.wowhead.com/spell=366406/shoot) and [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam). 
+    * [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam) is targeted at a player's location, so spreading slightly during the pull **if that will not cause other issues** can help reduce movement required to dodge [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam).
+    * When killed your group receives [Decrypted Vy Cypher](https://ptr.wowhead.com/spell=368240/decrypted-vy-cypher) granting 15% increase Haste and summons an `Orb of Energy` which grants players a chance to deal additional damage or healing on their abilities, depending on role.
 
 * Recommendations:
-      - All three effects have merit and the value of their contribution will vary by your group composition, routing decisions, and key level.
-      - Given the nature of [Elemental's Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) the increased spell and ability cooldown rate from [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) could have intriguing results when the Tier is active. Potentially this could allow an {{ site.data.legendary.eogs }} setup to take {{ site.data.talent.er }} instead of {{ site.data.talent.eote }}, as the need to hardcast {{ site.data.spell.lava_burst }} to maintain {{ site.data.talent.se }} uptime would be reduced. 
-      - It is generally thought that [Vy Interceptor](https://ptr.wowhead.com/npc=184908/vy-interceptor) is harder to deal with due to [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam) causing it to teleport away. So of the two effects that directly contribute to damage dealt, [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) and [Decrypted Vy Cypher](https://ptr.wowhead.com/spell=368240/decrypted-vy-cypher), it may be the case that groups kill [Urh Relic](https://ptr.wowhead.com/npc=185685/urh-relic) because it is easier to deal with. 
-      - Properly selecting which buff you would *like* to have is one thing, your group killing the 'correct' `Relic` first is another! The state of the buffs being granted means it is highly unlikely for accidental `Relic` kills to be the reason your group does or not does successfully time or complete the key, assuming `+15` or lower. Beyond that level your mileage may vary!
+    * All three effects have merit and the value of their contribution will vary by your group composition, routing decisions, and key level.
+    * Given the nature of [Elemental's Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) the increased spell and ability cooldown rate from [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) could have intriguing results when the Tier is active. Potentially this could allow an {{ site.data.legendary.eogs }} setup to take {{ site.data.talent.er }} instead of {{ site.data.talent.eote }}, as the need to hardcast {{ site.data.spell.lava_burst }} to maintain {{ site.data.talent.se }} uptime would be reduced. 
+    * It is generally thought that [Vy Interceptor](https://ptr.wowhead.com/npc=184908/vy-interceptor) is harder to deal with due to [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam) causing it to teleport away. So of the two effects that directly contribute to damage dealt, [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) and [Decrypted Vy Cypher](https://ptr.wowhead.com/spell=368240/decrypted-vy-cypher), it may be the case that groups kill [Urh Relic](https://ptr.wowhead.com/npc=185685/urh-relic) because it is easier to deal with. 
+    * Properly selecting which buff you would *like* to have is one thing, your group killing the 'correct' `Relic` first is another! The state of the buffs being granted means it is highly unlikely for accidental `Relic` kills to be the reason your group does or not does successfully time or complete the key, assuming `+15` or lower. Beyond that level your mileage may vary!
 
 # Dungeons
 <p style="color:red">Click on a dungeon banner to expand it.</p>

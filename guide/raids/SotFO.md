@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sepulcher of the First Ones Guide"
-date: 21/02/2022
+date: 02/03/2022
 game_version: 9.2 Shadowlands
 author: Eokira
 toc: false
@@ -317,7 +317,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35:** {{ site.data.talent.master_of_the_elements }} or {{ site.data.talent.se }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.icefury }} 
+* **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.stormkeeper }}
        
 **Talents with active 4-piece bonus:**
@@ -346,7 +346,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Defensives:**
        
-* Use {{ site.data.spell.astral_shift }} (and {{ site.data.spells.fleshcraft }} if Necrolord) as needed for [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings)
+* Use {{ site.data.spell.astral_shift }} (and {{ site.data.spell.fleshcraft }} if Necrolord) as needed for [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings)
 * Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }} 
 
 **Utilities:**
@@ -502,7 +502,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.se }} or {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.ancestral_guidance }}
-* **45:** {{ site.data.talent.icefury }} 
+* **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.stormkeeper }}
        
 **Talents with active 4-piece bonus:**
