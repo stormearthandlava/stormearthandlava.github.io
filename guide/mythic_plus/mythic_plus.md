@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 2022-03-02 09:00:00
+last_update: 2022-03-11 09:00:00
 game_version: 9.2 Shadowlands
 authors: Altenna, Eokira
 toc: false
@@ -25,7 +25,7 @@ This guide is intended to help you identify critical mobs and abilities as well 
 
 For novice Elemental Shamans without an active [Tier Set Bonus](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) or without [Unity](https://www.wowhead.com/spell=364738/unity), the setup below is great for players starting out as well as for +15 keys and beyond:
 
-* **15:** {{ site.data.talent.echo_of_the_elements }} **or** {{ site.data.talent.earthen_rage }} (with {{ site.data.talent.storm_elemental }})
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.aftershock }}
 * **30:** {{ site.data.talent.spirit_wolf }} **or** {{ site.data.talent.static_charge }}
 * **35:** {{ site.data.talent.master_of_the_elements }} **or** {{ site.data.talent.storm_elemental }}
@@ -124,7 +124,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 * Recommendations:
     * All three effects have merit and the value of their contribution will vary by your group composition, routing decisions, and key level.
-    * Given the nature of [Elemental's Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) the increased spell and ability cooldown rate from [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) could have intriguing results when the Tier is active. Potentially this could allow an {{ site.data.legendary.eogs }} setup to take {{ site.data.talent.er }} instead of {{ site.data.talent.eote }}, as the need to hardcast {{ site.data.spell.lava_burst }} to maintain {{ site.data.talent.se }} uptime would be reduced. 
+    * Given the nature of [Elemental's Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) the increased spell and ability cooldown rate from [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) could have intriguing results when the Tier is active.
     * It is generally thought that [Vy Interceptor](https://ptr.wowhead.com/npc=184908/vy-interceptor) is harder to deal with due to [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam) causing it to teleport away. So of the two effects that directly contribute to damage dealt, [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) and [Decrypted Vy Cypher](https://ptr.wowhead.com/spell=368240/decrypted-vy-cypher), it may be the case that groups kill [Urh Relic](https://ptr.wowhead.com/npc=185685/urh-relic) because it is easier to deal with. 
     * Properly selecting which buff you would *like* to have is one thing, your group killing the 'correct' `Relic` first is another! The state of the buffs being granted means it is highly unlikely for accidental `Relic` kills to be the reason your group does or not does successfully time or complete the key, assuming `+15` or lower. Beyond that level your mileage may vary!
 
