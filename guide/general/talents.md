@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talents
-last_update: 2022-02-28 09:00:00
+last_update: 2022-03-11 09:00:00
 game_version: 9.2 Shadowlands
 toc: true
 ---
