@@ -214,6 +214,13 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
 
 ## Special cases
 ---
+### {{ site.data.talent.sop }} with {{ site.data.item.t28_2 }} active.
+- When you are able to equip {{ site.data.item.t28_2 }}, it can be a dps increase to use {{ site.data.talent.sop }} instead of {{ site.data.talent.pe }} or {{ site.data.talent.if }}. You should sim your character to determine if this is a choice **you** should make at this specific gearing stage, and note that it is only applicable to Single Target scenarios and Covenant choice may impact this.
+- You need to have {{ site.data.legendary.wlr }} equipped and the playstyle from there is straightforward. Use the {{ site.data.talent.sop }} buff on {{ site.data.spell.lvb }} after every {{ site.data.spell.es }}, which is essentially typical gameplay. Note: there is potential to increase the effectiveness of this build further by incorporating some {{ site.data.spell.lb }} usage on very strict conditions
+     * When you **know** you would not get another {{ site.data.spell.fe }} usage in the current fight
+     * When you have both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} active - careful trying to micro-manage this beyond natural alignment
+- When Double Legendary is  equipped this small niche for {{ site.data.talent.sop }} becomes neutral for Night Fae, potentially still valuable for other Covenants - consult your sims!
+- When {{ site.data.item.t28_4 }} is active {{ site.data.talent.sop }} becomes useless once more, until next time! 
 
 ### {{ site.data.spell.vesper_totem }} with {{site.data.legendary.kyrian}} equipped.
 - During PTR testing it was potentially a DPS increase to cast Healing Spells in order to trigger the Healing Charge explosion of {{ site.data.legendary.kyrian }} when used in conjunction with {{ site.data.talent.ag }}. 
