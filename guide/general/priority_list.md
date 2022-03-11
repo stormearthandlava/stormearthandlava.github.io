@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Priority List
-last_update: 2022-02-28 09:00:00
+last_update: 2022-03-11 09:00:00
 game_version: 9.2 Shadowlands
 toc: true
 ---
@@ -12,8 +12,6 @@ After reading the APL, please pay attention to the special mentions below, becau
 
 
 **If you have suggestions with sim evidence to back them up, please let us know on Discord.**
-
-**If you are looking for advice for the `Machine Gun` build head down to the Special Cases section!**
 
 
 #### Talent selector:
@@ -66,7 +64,6 @@ Kyrian | Venthyr | Night Fae | Necrolords
             </ul>
         </li>
         <li>Cast {{ site.data.spell.es }}. But read the <a href="#master-of-the-elements">special cases about delaying</a> {{ site.data.spell.es }} casts because of {{ site.data.talent.mote }}.</li>
-        <li class="se-apl" style="display: none;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.se }} is active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff and {{ site.data.talent.mote }} buff active.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.talent.asc }} is active.</li>
         <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lvb }} with {{ site.data.talent.sop }} if you could get another use out of {{ site.data.talent.se }}/{{ site.data.spell.fe }} or lengthen its last possible duration within the fight.</li>
@@ -103,7 +100,7 @@ Kyrian | Venthyr | Night Fae | Necrolords
     </ol>
 </div>
 
-**Special mention** {{ site.data.spell.fs }} can be maintained at 4 targets with {{site.data.spell.primordial_wave}} and during {{site.data.spell.fe}}. Because this is usually not the case, we opted to write 3 as the maximum number of spreads. Tread carefully, as this could otherwise backfire.
+**Special mention** When playing **Necrolord** in AoE scenarios with {{ site.data.legendary.necrolord }} active, you should attempt to increase the number of {{ site.data.spell.fs }} active shortly before {{ site.data.spell.primordial_wave }} is available and for the duration of the {{ site.data.spell.primordial_wave }} buff ensuring to cast {{ site.data.spell.lvb }} before it runs out! This is not maintained otherwise.
 
 **Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. It is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply {{ site.data.spell.fs }} to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier. 
 
@@ -129,6 +126,56 @@ Standard raid opener:
     <div class="arrow"></div>...
 </div>
 
+Night Fae with Standard talents:
+<div class="opener">
+    <div class="skill sk"><span>SK</span></div>
+    <div class="arrow"></div>
+    <div class="skill fe"><span>FE</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill ft"><span>FT</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow"></div>
+    <div class="skill es"><span>ES</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow"></div>...
+ </div>
+ 
+ Night Fae with Standard talents and {{ site.data.item.t28_2 }}:
+<div class="opener">
+    <div class="skill sk"><span>SK</span></div>
+    <div class="arrow"></div>
+    <div class="skill fe"><span>FE</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill ft"><span>FT</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill es"><span>ES</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow"></div>...
+ </div>
+ 
 If you are using {{ site.data.talent.eb }}:
 <div class="opener">
     <div class="skill sk"><span>SK</span></div>
@@ -137,9 +184,9 @@ If you are using {{ site.data.talent.eb }}:
     <div class="arrow"></div>
     <div class="skill eb"><span>EB</span></div>
     <div class="arrow pull"></div>
-    <div class="skill lvb"><span>LvB</span></div>
-    <div class="arrow"></div>
     <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
     <div class="arrow"></div>
     <div class="skill lb"><span>LB</span></div>
     <div class="arrow"></div>...
@@ -167,23 +214,6 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
 
 ## Special cases
 ---
-### {{ site.data.talent.se }} build with 4-Tier (A.K.A. Machine Gun)
-- With the following talents: {{ site.data.talent.er }}, {{ site.data.talent.afs }}, {{ site.data.talent.se }}, {{ site.data.talent.pe }}, and {{ site.data.talent.sk }} *or* {{ site.data.talent.up }}
-
-- Your Single Target rotational priority will be as follows: (assumes {{ site.data.legendary.wlr }} is equipped)
-    1. {{ site.data.talent.se }}
-    1. {{ site.data.spell.fae_transfusion }}
-    1. {{ site.data.spell.fs }}, if `<`5.4s remaining
-    1. {{ site.data.spell.lvb }}, with {{ site.data.spell.ls }} active
-    1. {{ site.data.spell.es }}, ensure not to cast when expecting a {{ site.data.item.t28_2 }} proc! [Weakauras are helpful](https://wago.io/fmWIH2c_A) 
-    1. {{ site.data.spell.lb }}
-- Your AoE rotational priority will be as follows:
-    1. {{ site.data.talent.se }}
-    1. {{ site.data.spell.fae_transfusion }}
-    1. {{ site.data.spell.eq }} if you would overcap ( {{ site.data.spell.es }} if you have {{ site.data.legendary.eogs }} equipped and no active {{ site.data.legendary.eogs }} buff! )
-    1. {{ site.data.spell.lvb }} with {{ site.data.spell.ls }} active *if* you are forced to move **OR** your current combat will last the remaining duration of your {{ site.data.talent.se }}. No {{ site.data.spell.fs }} is required for this to be a gain however, it remains a good movement global if you are forced to move during AoE with no {{ site.data.spell.ls }} active.
-    1. {{ site.data.spell.cl }}
-
 
 ### {{ site.data.spell.vesper_totem }} with {{site.data.legendary.kyrian}} equipped.
 - During PTR testing it was potentially a DPS increase to cast Healing Spells in order to trigger the Healing Charge explosion of {{ site.data.legendary.kyrian }} when used in conjunction with {{ site.data.talent.ag }}. 
@@ -262,9 +292,9 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
 
 The only time you should adjust your gameplay for {{site.data.talent.mote}} is when you have the liberty to cast a spell *later* with a {{site.data.talent.mote}} buff versus *now* -- this means for a spell like {{site.data.spell.es}}, you can make the decision to wait until you have the {{site.data.talent.mote}} buff active before casting it (this is reflected in the priority above). This is thanks to the low urgency of {{site.data.spell.es}} casts, as you are not constrained by a cooldown or Maelstrom cost, since you can cast it at any point between 60 and 100 Maelstrom.
 
-> "I should cast {{ site.data.spell.lb }} during {{ site.data.talent.asc }} if I have some powerful buffs for it active!"
+> "I should only cast {{ site.data.spell.lvb }} during {{ site.data.talent.asc }}!"
 
-During {{ site.data.talent.asc }} you only want to spend your time casting {{ site.data.spell.lvb }}. Yes you'll waste {{ site.data.talent.mote }} but that's fine.
+During {{ site.data.talent.asc }} with {{ site.data.legendary.wlr }} equipped you should continue spending maelstrom on {{ site.data.spell.es }} to trigger its effect.
 
 > "I should cast {{ site.data.talent.eb }} during {{ site.data.talent.asc }}!"
 
@@ -276,7 +306,7 @@ No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if 
 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
-See priority list and Special mentions above.
+The change to {{ site.data.spell.wind_gust }} stacks means {{ site.data.spell.lvb }} is always stronger than {{ site.data.spell.lb }}, this means {{ site.data.talent.se }} does not interfere with the standard rotational priority at all in Single Target. In AoE with active {{ site.data.item.t28_4 }} using {{ site.data.spell.lvs }} procs even without an {{ site.data.spell.fs }} active is dps neutral so is an excellent movement global. See priority list and Special mentions above for more information.
 
 > "I should only cast {{ site.data.spell.es }} in single target or {{ site.data.spell.eq }} in high aoe counts even with  {{ site.data.legendary.eogs }} equipped!"
 
