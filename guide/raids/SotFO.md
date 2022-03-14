@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sepulcher of the First Ones Guide"
-date: 11/03/2022
+date: 14/03/2022
 game_version: 9.2 Shadowlands
 author: Eokira
 toc: false
@@ -650,16 +650,17 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Damage**
        
 * Swap to [Collapsing Quasar Orbs](https://www.wowhead.com/npc=182778/collapsing-quasar) and ensure they die before reaching the boss. Pooling resources is important if your group is struggling with this!
-* Maintain multiple {{ site.data.spell.fs }} using [Unstable Matter Orbs](https://www.wowhead.com/spell=363518/unstable-matter) but **do not focus them until the boss is casting** [Massive Bang](https://www.wowhead.com/spell=363533/massive-bang)
+* Maintain multiple {{ site.data.spell.fs }} using [Unstable Matter Orbs](https://www.wowhead.com/spell=363518/unstable-matter) but **do not focus them until the boss is about to start casting** [Massive Bang](https://www.wowhead.com/spell=363533/massive-bang)
        
 **Defensives:**
        
-* Use {{ site.data.spell.astral_shift }} as needed with [Dark Eclipse](https://www.wowhead.com/spell=361548/dark-eclipse), ideally use it before stepping into a [Collapsing Quasar Field](https://www.wowhead.com/spell=361462/collapsing-quasar-field) so it also covers the [Dark Collapse](https://www.wowhead.com/spell=361463/dark-collapse).
+* Use {{ site.data.spell.astral_shift }} as needed with [Dark Eclipse](https://www.wowhead.com/spell=361548/dark-eclipse), ideally use it before stepping into a [Collapsing Quasar Field](https://www.wowhead.com/spell=361462/collapsing-quasar-field) so it also covers the [Dark Collapse](https://www.wowhead.com/spell=361463/dark-collapse). Don't forget you need to move **out** of the raid before this goes off!
 
        
 **Utilities:**
        
 * {{ site.data.talent.wrt }} is very useful to help your group position for [Massive Bang](https://www.wowhead.com/spell=363533/massive-bang), as you need to be stood in the zones left by [Burned Out Unstable Matter](https://www.wowhead.com/spell=363518/unstable-matter) in order to avoid lethal damage.
+* {{ site.data.spell.earthbind_totem }} is very useful to slow [Collapsing Quasar Orbs](https://www.wowhead.com/npc=182778/collapsing-quasar).    
   
 </div>
 </div>
