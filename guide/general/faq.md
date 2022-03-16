@@ -1,7 +1,7 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 2022-02-25 09:00:00
+last_update: 2022-03-11 09:00:00
 game_version: 9.2 Shadowlands
 toc: true
 ---
@@ -40,7 +40,7 @@ In 9.2 with [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeake
 Not that we're aware of. The Elementals' autocast settings are shared between the Elemental pets. If you deactivate or activate it on one button, the matching button of the other Elementals will share that setting. We hope, that this will be changed.
 
 ### Q: "Do I use {{ site.data.spell.lvb }} during {{ site.data.talent.se }}?"
-Yes. No. It depends. Check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) and special notes on that website for in depth information.
+After the change to {{ site.data.spell.wind_gust }} it is **always** an increase in Single Target scenarios to hardcast {{ site.data.spell.lvb }} during {{ site.data.talent.se }}. This is true regardless of {{ site.data.item.t28_2 }} and {{ site.data.item.t28_4 }}. Check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) and special notes on that website for in depth information.
 
 ### Q: "What is funnelling?"
 Funneling is the act of casting {{ site.data.spell.fs }} on multiple targets in order to generate {{ site.data.spell.ls }} procs with the intention of increasing your damage on one target.

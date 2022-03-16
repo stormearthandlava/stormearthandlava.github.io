@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sepulcher of the First Ones Guide"
-date: 02/03/2022
+date: 14/03/2022
 game_version: 9.2 Shadowlands
 author: Eokira
 toc: false
@@ -24,7 +24,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
 # Miscellaneous Tips
 - Recommendations on Single-Target profile bosses may include {{ site.data.talent.icefury }}, this only applies **if you do not have an active 4-piece bonus** so will impact your choices on early progression only.
 
-- The final three bosses (Lords of Dread, Rygelon, and The Jailer, Zovaal) were not tested on PTR so no footage for those bosses exists, this guide will be updated as soon as possible.
+- Talent recommendations cover either with or without {{ site.data.item.t28_4 }}, for advice specific to {{ site.data.item.t28_2 }} see {{ site.data.talent.sop }} indepth discussion on our [Talents page](https://stormearthandlava.com/guide/general/talents.html).
+
+- The final three bosses (Lords of Dread, Rygelon, and The Jailer, Zovaal) were not tested on PTR so no footage for those bosses exists.
 
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
@@ -54,7 +56,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Boss Fight Profile:** Single-Target with Cleave/AoE 
           
-**Talents without active 4-piece bonus:**
+**Talents without {{ site.data.item.t28_4 }}:**
 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
@@ -64,12 +66,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
        
-**Talents with active 4-piece bonus:**
+**Talents with {{ site.data.item.t28_4 }}:**
        
-* **15:** {{ site.data.talent.er }}       
-* **25:** {{ site.data.talent.afs }}
+* **15:** {{ site.data.talent.echo }}       
+* **25:** {{ site.data.talent.eb }} or {{ site.data.talent.afs }} 
 * **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35:** {{ site.data.talent.se }}       
+* **35:** {{ site.data.talent.mote }} or {{ site.data.talent.se }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }} or {{ site.data.talent.ancestral_guidance }}
 * **45:** {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.sk }}     
@@ -81,6 +83,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Recommended Legendaries:**
        
 * {{ site.data.legendary.eogs }}  
+* {{ site.data.legendary.wlr }} If your group is able to kill Adds sufficiently fast in Normal or Heroic difficulty, you may find more value focussing on Single Target.
        
 **Damage**
        
@@ -97,9 +100,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Utilities:**
        
 * Using {{ site.data.spell.wind_shear }} to interrupt [Point Defense Drone](https://ptr.wowhead.com/npc=181856/point-defense-drone)
-* Using {{ site.data.spell.thunderstorm }} to help position adds when necessary
+* Using {{ site.data.spell.thunderstorm }} to help position Adds when necessary
 * If talented, use {{ site.data.talent.wrt }} to help your raid reposition before [Exposed Core](https://ptr.wowhead.com/spell=360412/exposed-core)
-* If talented, use {{ site.data.talent.ancestral_guidance }} to help with incoming damage during add spawns
+* If talented, use {{ site.data.talent.ancestral_guidance }} to help with incoming damage during Add spawns
        
 **PTR PoVs:**
           
@@ -118,7 +121,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
  
 **Boss Fight Profile:** Single-Target
           
-**Talents without active 4-piece bonus:**
+**Talents without {{ site.data.item.t28_4 }}:**
 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
@@ -128,12 +131,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
        
-**Talents with active 4-piece bonus:**
+**Talents with {{ site.data.item.t28_4 }}:**
        
-* **15:** {{ site.data.talent.er }}       
-* **25:** {{ site.data.talent.afs }}
+* **15:** {{ site.data.talent.echo }}       
+* **25:** {{ site.data.talent.eb }}
 * **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35:** {{ site.data.talent.se }}       
+* **35:** {{ site.data.talent.mote }}       
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
 * **45:** {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.sk }}     
@@ -177,24 +180,24 @@ The tips and recommendations listed here are based on educated opinions from PTR
  
 **Boss Fight Profile:** Single-Target with AoE 
           
-**Talents without active 4-piece bonus:**
+**Talents without {{ site.data.item.t28_4 }}:**
 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
+* **25:** {{ site.data.talent.eb }} ( or {{ site.data.talent.afs }} for Add damage )
 * **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
+* **35:** {{ site.data.talent.master_of_the_elements }} (or {{ site.data.talent.se }} for Add damage )
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
        
-**Talents with active 4-piece bonus:**
+**Talents with {{ site.data.item.t28_4 }}:**
        
-* **15:** {{ site.data.talent.er }}       
-* **25:** {{ site.data.talent.afs }}
+* **15:** {{ site.data.talent.echo }}       
+* **25:** {{ site.data.talent.eb }} ( or {{ site.data.talent.afs }} for Add damage )
 * **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.se }}       
+* **35:** {{ site.data.talent.mote }}      
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
-* **45:** {{ site.data.talent.pe }}
+* **45:** {{ site.data.talent.pe }} (or {{ site.data.talent.se }} for Add damage )
 * **50:** {{ site.data.talent.sk }}     
  
 **Recommended Covenant:**   
@@ -244,7 +247,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
   
 **Boss Fight Profile:** Single-Target, with limited Cleave/Funnel 
           
-**Talents without active 4-piece bonus:**
+**Talents without {{ site.data.item.t28_4 }}:**
 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
@@ -254,12 +257,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
        
-**Talents with active 4-piece bonus:**
+**Talents with {{ site.data.item.t28_4 }}:**
        
-* **15:** {{ site.data.talent.er }}       
-* **25:** {{ site.data.talent.afs }}
+* **15:** {{ site.data.talent.echo }}       
+* **25:** {{ site.data.talent.eb }}
 * **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.se }}       
+* **35:** {{ site.data.talent.mote }}       
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
 * **45:** {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.sk }}     
@@ -308,9 +311,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="prototype_pantheon-collapse" class="collapse" aria-labelledby="prototype_pantheon" data-parent="#accordion">
 <div class="card-body" markdown="1">    
   
-**Boss Fight Profile:** Cleave with spread priority add spawn
+**Boss Fight Profile:** Cleave with spread priority Add spawn
           
-**Talents without active 4-piece bonus:**
+**Talents without {{ site.data.item.t28_4 }}:**
 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
@@ -320,10 +323,10 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.stormkeeper }}
        
-**Talents with active 4-piece bonus:**
+**Talents with {{ site.data.item.t28_4 }}:**
        
 * **15:** {{ site.data.talent.eote }}
-* **25:** {{ site.data.talent.afs }}
+* **25:** {{ site.data.talent.eb }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35:** {{ site.data.talent.se }} or {{ site.data.talent.mote }}   
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
@@ -371,7 +374,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
   
 **Boss Fight Profile:** Single-Target with Cleave / AoE
           
-**Talents without active 4-piece bonus:**
+**Talents without {{ site.data.item.t28_4 }}:**
 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
@@ -381,12 +384,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
        
-**Talents with active 4-piece bonus:**
+**Talents with {{ site.data.item.t28_4 }}:**
        
-* **15:** {{ site.data.talent.eote }} or {{ site.data.talent.er }} (see Recommended Legendaries)
-* **25:** {{ site.data.talent.afs }}
+* **15:** {{ site.data.talent.eote }}
+* **25:** {{ site.data.talent.eb }} ( or {{ site.data.talent.afs }} for Add damage }}
 * **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.se }}  
+* **35:** {{ site.data.talent.mote }} ( or {{ site.data.talent.se }} for Add damage }} 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
 * **45:** {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.sk }}     
@@ -397,9 +400,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Recommended Legendaries:**
 
-* **without active 4-piece bonus** use either {{ site.data.legendary.eogs }} or {{ site.data.legendary.wlr }}       
-* **with active 4-piece bonus** {{ site.data.legendary.eogs }} pair with {{ site.data.talent.eote }} for overall value in Single-Target and Cleave
-* **with active 4-piece bonus** {{ site.data.legendary.wlr }} pair with {{ site.data.talent.er }} for prioritising damage dealt to Lihuvim
+* {{ site.data.legendary.eogs }}
+* {{ site.data.legendary.wlr }} 
        
 **Damage**
        
@@ -433,7 +435,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
   
 **Boss Fight Profile:** Single-Target 
           
-**Talents without active 4-piece bonus:**
+**Talents without {{ site.data.item.t28_4 }}:**
 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
@@ -443,12 +445,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **45:** {{ site.data.talent.icefury }} 
 * **50:** {{ site.data.talent.stormkeeper }}
        
-**Talents with active 4-piece bonus:**
+**Talents with {{ site.data.item.t28_4 }}:**
        
-* **15:** {{ site.data.talent.er }} 
-* **25:** {{ site.data.talent.afs }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.se }}  
+* **15:** {{ site.data.talent.echo }} 
+* **25:** {{ site.data.talent.eb }}
+* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }} 
+* **35:** {{ site.data.talent.mote }}  
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
 * **45:** {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.sk }}  
@@ -461,21 +463,19 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 * {{ site.data.legendary.wlr }} 
        
-**Important Note**
-       
-* This fight has been reworked since PTR testing took place, specific recommendations may not be accurate. This section will be updated as appropriate but for now the default setup is shown as a starting point. 
-       
 **Damage**
        
-* Coming soon  
+* Make use of Elemental's frequent instant cast abilities to deal with movement caused by [Earthbreaker Missiles](https://www.wowhead.com/spell=361676/earthbreaker-missiles) and [Aftershock](https://www.wowhead.com/spell=362025/aftershock)
+* {{ site.data.spell.spiritwalkers_grace }} is important to use during Intermissions, and if time allows, during Phase 3.
        
 **Defensives:**
        
-* Coming soon
+* Using {{ site.data.spell.astral_shift }} during [Reclaim](https://www.wowhead.com/spell=360115/reclaim), and during Phase 3.
+* {{ site.data.talent.earth_shield }} does a lot of healing on this fight, and is no issue to recast due to movement required in all phases.
        
 **Utilities:**
        
-* Coming soon  
+* {{ site.data.talent.wrt }} is exceptionally useful when placed going into Intermission phases  
        
 **PTR PoVs:**
        
@@ -495,7 +495,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
   
 **Boss Fight Profile:** Single-Target with Cleave / AoE
           
-**Talents without active 4-piece bonus:**
+**Talents without {{ site.data.item.t28_4 }}:**
 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
@@ -505,12 +505,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.stormkeeper }}
        
-**Talents with active 4-piece bonus:**
+**Talents with {{ site.data.item.t28_4 }}:**
        
 * **15:** {{ site.data.talent.eote }}
-* **25:** {{ site.data.talent.afs }}
+* **25:** {{ site.data.talent.eb }} (or {{ site.data.talent.afs }} for Add damage / you plan to use {{ site.data.talent.se }})
 * **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.se }}  
+* **35:** {{ site.data.talent.se }} or {{ site.data.talent.mote }}
 * **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.ancestral_guidance }}
 * **45:** {{ site.data.talent.pe }}
 * **50:** {{ site.data.talent.sk }}  
@@ -537,7 +537,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.spell.wind_shear }} to interrupt [Psychic Terror](https://ptr.wowhead.com/spell=365008/psychic-terror) from [Grim Reflections](https://ptr.wowhead.com/spell=365120/grim-reflections)        
 * Use {{ site.data.spell.tremor_totem }} before [Psychic Terror](https://ptr.wowhead.com/spell=365008/psychic-terror) cast finishes if it would finish
 * Use {{ site.data.spell.fae_transfusion }} to assist with breaking [Befouled Barrier](https://ptr.wowhead.com/spell=365293/befouled-barrier)
-* Use {{ site.data.spell.capacitor_totem }} to assist with controlling adds       
+* Use {{ site.data.spell.capacitor_totem }} to assist with controlling Adds       
 * If talented, use {{ site.data.talent.ancestral_guidance }} with {{ site.data.talent.sk }} for maximum effect        
        
 **PTR PoVs:**
@@ -555,31 +555,53 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="lords_of_dread-collapse" class="collapse" aria-labelledby="lords_of_dread" data-parent="#accordion">
 <div class="card-body" markdown="1">   
   
-**Boss Fight Profile:** Coming soon  
+**Boss Fight Profile:** Two target Cleave with Single Add spawn
           
-**Talents:**
+**Talents without {{ site.data.item.t28_4 }}:**
 
-* Coming soon  
+* **15:** {{ site.data.talent.echo_of_the_elements }}
+* **25:** {{ site.data.talent.elemental_blast }} 
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.se }} or {{ site.data.talent.master_of_the_elements }}
+* **40:** {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.natures_guardian }}
+* **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.stormkeeper }}
+       
+**Talents with {{ site.data.item.t28_4 }}:**
+       
+* **15:** {{ site.data.talent.eote }}
+* **25:** {{ site.data.talent.eb }}
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.mote }}
+* **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.natures_guardian }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}  
  
 **Recommended Covenant:**   
        
-* Coming soon  
+* Necrolord with Plague-Deviser Marileth
+* Night Fae with Dreamweaver
        
 **Recommended Legendaries:**
 
-* Coming soon  
+* {{ site.data.legendary.eogs }}
+* {{ site.data.legendary.wlr }} You may consider this if your group needs more focus damage to manage the boss health however you would not use its effects during [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness).
        
 **Damage**
        
-* Coming soon  
+* Maintain {{ site.data.spell.fs }} on both bosses.
+* Prepare for [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) when Malganis is nearing 100 Energy by getting an {{ site.data.legendary.eogs }} buff active!
+* {{ site.data.spell.cl }} is not counted as AoE for the purposes of [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) so {{ site.data.talent.sk }} buffs should still be used on {{ site.data.spell.lb }} unless the [Inchoate Shadow](https://www.wowhead.com/npc=183138/inchoate-shadow) is in range (and **only** when it has lost its buff, allowing it to be killed!).
        
 **Defensives:**
        
-* Coming soon
+* Use {{ site.data.spell.astral_shift }} during [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness), it should not be necessary to use defensives to deal with [Cloud of Carrion](https://www.wowhead.com/spell=360006/cloud-of-carrion) if stacks are spread appropriately
        
 **Utilities:**
        
-* Coming soon  
+* {{ site.data.spell.tremor_totem }} can be used to remove [Bursting Dread Fears](https://www.wowhead.com/spell=360148/bursting-dread) in the event of a mistake. Be particularly mindful if your healers make this mistake, as it will typically be healers that dispel the fear from others! Can also be useful to clear [Unsettling Dreams](https://www.wowhead.com/spell=360241/unsettling-dreams)
+* {{ site.data.spell.wind_shear }} is excellent for the [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) but remember **do not interrupt the casts until the Add has reached 100% hp and their buff is removed**, doing so will cause more raid damage overall via  [Ravenous Hunger](https://www.wowhead.com/spell=361923/ravenous-hunger)
+* {{ site.data.spell.thunderstorm }} can be used to knock the [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) into the bosses to more efficiently cleave it down.
   
 </div>
 </div>
@@ -592,31 +614,53 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="rygelon-collapse" class="collapse" aria-labelledby="rygelon" data-parent="#accordion">
 <div class="card-body" markdown="1">  
   
-**Boss Fight Profile:** Coming soon  
+**Boss Fight Profile:** Single Target with Priority Adds
           
 **Talents:**
 
-* Coming soon  
+**Talents without {{ site.data.item.t28_4 }}:**
+
+* **15:** {{ site.data.talent.echo_of_the_elements }}
+* **25:** {{ site.data.talent.elemental_blast }} 
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.se }} or {{ site.data.talent.master_of_the_elements }}
+* **40:** {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.natures_guardian }}
+* **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.stormkeeper }}
+       
+**Talents with {{ site.data.item.t28_4 }}:**
+       
+* **15:** {{ site.data.talent.eote }}
+* **25:** {{ site.data.talent.eb }}
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.mote }}
+* **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.natures_guardian }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}  
  
 **Recommended Covenant:**   
        
-* Coming soon  
+* Necrolord with Plague-Deviser Marileth
+* Night Fae with Dreamweaver or Korayn for {{ site.data.soulbinds.first_strike }} 
        
 **Recommended Legendaries:**
 
-* Coming soon  
+* {{ site.data.legendary.wlr }}
        
 **Damage**
        
-* Coming soon  
+* Swap to [Collapsing Quasar Orbs](https://www.wowhead.com/npc=182778/collapsing-quasar) and ensure they die before reaching the boss. Pooling resources is important if your group is struggling with this!
+* Maintain multiple {{ site.data.spell.fs }} using [Unstable Matter Orbs](https://www.wowhead.com/spell=363518/unstable-matter) but **do not focus them until the boss is about to start casting** [Massive Bang](https://www.wowhead.com/spell=363533/massive-bang)
        
 **Defensives:**
        
-* Coming soon
+* Use {{ site.data.spell.astral_shift }} as needed with [Dark Eclipse](https://www.wowhead.com/spell=361548/dark-eclipse), ideally use it before stepping into a [Collapsing Quasar Field](https://www.wowhead.com/spell=361462/collapsing-quasar-field) so it also covers the [Dark Collapse](https://www.wowhead.com/spell=361463/dark-collapse). Don't forget you need to move **out** of the raid before this goes off!
+
        
 **Utilities:**
        
-* Coming soon  
+* {{ site.data.talent.wrt }} is very useful to help your group position for [Massive Bang](https://www.wowhead.com/spell=363533/massive-bang), as you need to be stood in the zones left by [Burned Out Unstable Matter](https://www.wowhead.com/spell=363518/unstable-matter) in order to avoid lethal damage.
+* {{ site.data.spell.earthbind_totem }} is very useful to slow [Collapsing Quasar Orbs](https://www.wowhead.com/npc=182778/collapsing-quasar).    
   
 </div>
 </div>
@@ -629,31 +673,53 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="zovaal-collapse" class="collapse" aria-labelledby="zovaal" data-parent="#accordion">
 <div class="card-body" markdown="1">    
   
-**Boss Fight Profile:** Coming soon  
+**Boss Fight Profile:** Single Target 
           
 **Talents:**
 
-* Coming soon  
+**Talents without {{ site.data.item.t28_4 }}:**
+
+* **15:** {{ site.data.talent.echo_of_the_elements }}
+* **25:** {{ site.data.talent.elemental_blast }} 
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.se }} or {{ site.data.talent.master_of_the_elements }}
+* **40:** {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.natures_guardian }}
+* **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.stormkeeper }}
+       
+**Talents with {{ site.data.item.t28_4 }}:**
+       
+* **15:** {{ site.data.talent.eote }}
+* **25:** {{ site.data.talent.eb }}
+* **30:** {{ site.data.talent.spirit_wolf }}
+* **35:** {{ site.data.talent.mote }}
+* **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.natures_guardian }}
+* **45:** {{ site.data.talent.pe }}
+* **50:** {{ site.data.talent.sk }}  
  
 **Recommended Covenant:**   
        
-* Coming soon  
+* Night Fae with Dreamweaver
        
 **Recommended Legendaries:**
 
-* Coming soon  
+* {{ site.data.legendary.wlr }}
        
 **Damage**
        
-* Coming soon  
+* Pool resources to help break [Rune of Compulsion Mind Control](https://www.wowhead.com/spell=366285/rune-of-compulsion).
        
 **Defensives:**
        
-* Coming soon
+* Use {{ site.data.spell.astral_shift }} as needed for soaking [Martyrdom's](https://www.wowhead.com/spell=363893/martyrdom) final blow with your tank or [Desolation](https://www.wowhead.com/spell=365033/desolation)
        
 **Utilities:**
        
-* Coming soon  
+* {{ site.data.talent.wrt }} is very useful to help your group avoid [Oppression](https://www.wowhead.com/spell=362617/oppression)
+       
+**Additional Notes:**
+
+* You can use the knock-up portion of [Rune of Damnation](https://www.wowhead.com/spell=360282/rune-of-damnation) to reposition depending on which way you face when stepping into the `Pylon Conduit`, it will push you the **opposite** way from where you are facing.
   
 </div>
 </div>

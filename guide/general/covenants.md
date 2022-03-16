@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Covenants
-last_update: 2022-02-25 09:00:00
+last_update: 2022-03-11 09:00:00
 game_version: 9.2 Shadowlands
 toc: true
 ---
@@ -10,12 +10,12 @@ toc: true
 At full Renown
 
 ------- | -------------------
-Raiding | Night Fae > Necrolord* / Kyrian*
-Mythic+ | Night Fae / Necrolord** / Kyrian** / Venthyr** 
+Raiding | Night Fae > Necrolord / Kyrian
+Mythic+ | Night Fae > Necrolord / Kyrian / Venthyr 
 
 * Both Necrolord and Kyrian will remain decent choices prior to gaining [Unity](https://www.wowhead.com/item=190595/memory-of-unity) and [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia), beyond that point they both become heavily situational with Night Fae becoming the default selection.
 
-** Given the nature of our [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) in addition to the new [Season 3 Mythic+ Affix](https://www.wowhead.com/guides/encrypted-affix-shadowlands-mythic-plus-season-3-automata-buffs) it is hard to accurately predict what will rise to the top, more information on potential uses of each Covenant can be found in the [Mythic+ Section]({{ site.baseurl }}{% link guide/mythic_plus/mythic_plus.md %}).
+* Given the nature of our [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) in addition to the new [Season 3 Mythic+ Affix](https://www.wowhead.com/guides/encrypted-affix-shadowlands-mythic-plus-season-3-automata-buffs) it is hard to accurately predict what will rise to the top, more information on potential uses of each Covenant can be found in the [Mythic+ Section]({{ site.baseurl }}{% link guide/mythic_plus/mythic_plus.md %}).
 
 With the advent of Covenant swapping in [9.1.5](https://shadowlands.wowhead.com/guides/shadowlands-patch-9-1-5-features) it is easy to achieve the minimum required level of Renown 57 in multiple Covenants and use the recommendations of the relevant specialisation resources. **Achieve Renown 80 in a single Covenant on at least one character before attempting to swap!**
 
