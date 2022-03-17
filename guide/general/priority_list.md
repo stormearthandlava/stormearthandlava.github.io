@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Priority List
-last_update: 2022-03-11 09:00:00
+last_update: 2022-03-17 09:00:00
 game_version: 9.2 Shadowlands
 toc: true
 ---
@@ -89,13 +89,14 @@ Kyrian | Venthyr | Night Fae | Necrolords
         <li class="pw-apl">Cast {{ site.data.spell.primordial_wave }} on cooldown. Making sure to apply a fresh {{ site.data.spell.fs }} to a target if possible. See Special Mention below for furher information. </li>
         <li> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.eye_of_the_storm }} against as many targets as possible. Make sure {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.eye_of_the_storm }}.</li>
         <li>Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} on cooldown.</li>
+        <li class="ft-apl" style="display:none;">Cast {{ site.data.spell.fae_transfusion }} on any number of targets when {{ site.data.legendary.night_fae }} is equipped.</li>
         <li class="sk-apl">Cast {{ site.data.talent.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
-        <li>Maintain 3 {{ site.data.spell.fs }}s if there are 3 targets.</li>
-        <li>Cast {{ site.data.spell.eq }} when available. (Try gaming {{ site.data.talent.mote }}.)</li>
+        <li>Maintain 3 {{ site.data.spell.fs }}s if there are 3 targets, maintain 1 if there are 4 or more and you're forced to move.</li>
+        <li>Cast {{ site.data.spell.eq }} when available. (On less than 5 targets try gaming {{ site.data.talent.mote }}.)</li>
         <li>Cast {{ site.data.spell.lvb }} to consume {{ site.data.spell.lava_surge }} procs when either less than 3 targets present, or when moving and more than 4 targets present</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} if there are 3 targets.</li>
-        <li class="ft-apl" style="display:none;">Cast {{ site.data.spell.fae_transfusion }} on 4 targets or less.</li>
+        <li class="ft-apl" style="display:none;">Cast {{ site.data.spell.fae_transfusion }} on 2 targets or less when {{ site.data.legendary.night_fae }} is not equipped.</li>
         <li>Cast {{ site.data.spell.cl }}.</li>
     </ol>
 </div>
