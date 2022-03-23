@@ -1,7 +1,7 @@
 ---
 title: Stats
 layout: page
-last_update: 2022-03-11 09:00:00
+last_update: 2022-03-23 09:00:00
 game_version: 9.2 Shadowlands
 toc: true
 ---
@@ -15,8 +15,8 @@ Below are our advised stat gearing strategies for talent combinations. We won’
 
 Purpose | Crit | Haste | Mastery | Vers
 --- | --- | --- | --- | ---
-Raid / Single Target (Windspeaker with Tier) | 0.1 | 0.2 | 0.3 | 0.4
-Raid / Cleave (non-WS)| 0.3 | 0.3 | 0.1 | 0.3
+Raid / Single Target (Windspeaker with Tier) | 0.1 | 0.3 | 0.4 | 0.2
+Hectic Add Cleave | 0.3 | 0.4 | 0.2 | 0.1
 Dungeon / Mythic+ / AoE| 0.6 | 0.2 | 0.1 | 0.1
 
 Expand the section below if you want more information on what these ratios are and/or how to use them:
