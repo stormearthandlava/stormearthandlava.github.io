@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Priority List
-last_update: 2022-03-17 09:00:00
+last_update: 2022-03-24 09:00:00
 game_version: 9.2 Shadowlands
 toc: true
 ---
@@ -43,6 +43,9 @@ Kyrian | Venthyr | Night Fae | Necrolords
                 <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}.</li>
                 <li>The debuff's duration is at or below 6 seconds remaining.</li>
             </ul>
+        <li> Cast {{ site.data.spell.lvb }} with {{ site.data.spell.lvs }} active.</li>
+        <li> Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies and your next cast would take you above 100 Maelstrom.</li>
+        <li> Cast {{ site.data.spell.es }} if your next cast would take you above 100 Maelstrom.</li>
         </li>
         <!-- covenant abilities -->
         <li class="pw-apl" style="display: list-item;">Cast {{ site.data.spell.primordial_wave}} on a target without {{ site.data.spell.fs }} or the target with the lowest duration remaining. Delay it if adds are gonna spawn, if it doesn't lead to you losing a use.</li>
@@ -56,7 +59,6 @@ Kyrian | Venthyr | Night Fae | Necrolords
         <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.talent.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:none;" >Cast {{ site.data.talent.lmt }} on cooldown.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.talent.asc }} on cooldown, if neither {{ site.data.talent.se }} is active, nor {{ site.data.spell.lvb }} is available, nor {{ site.data.talent.if }} is active.</li>
-        <li>Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies and it can do at least 6 ticks.</li>
         <li class="sk-apl" style="display: list-item;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.sk }} is active and when any of the following are true (if you don't see any following conditions, ignore this line):
             <ul>
                 <li class="mote-apl" style="display: list-item;">{{ site.data.talent.mote }} is active and {{ site.data.talent.sop }} is NOT selected.</li>
