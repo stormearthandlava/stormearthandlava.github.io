@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sepulcher of the First Ones Guide"
-date: 14/03/2022
+date: 24/03/2022
 game_version: 9.2 Shadowlands
 author: Eokira
 toc: false
@@ -458,6 +458,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Recommended Covenant:**   
        
 * Night Fae with Dreamweaver 
+* Necrolord with Plague Deviser Marileth (less reliant on static positioning, additional defensive never hurts!)
        
 **Recommended Legendaries:**
 
@@ -591,6 +592,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 * Maintain {{ site.data.spell.fs }} on both bosses.
 * Prepare for [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) when Malganis is nearing 100 Energy by getting an {{ site.data.legendary.eogs }} buff active!
+* List of spells effected by [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness):
+    -  {{ site.data.spell.fae_transfusion }}
+    - {{ site.data.spell.vesper_totem }} including {{ site.data.legendary.kyrian }} Note: typically it is DPS-neutral or a loss to use healing spells to trigger the second charges of {{ site.data.legendary.kyrian }} however, as the legendary benefits from the 100% increase and our generator ( {{ site.data.spell.cl }} ) does not it would be worthwhile to cast {{ site.data.spell.healing_stream_totem }} and two {{ site.data.spell.healing_surge }} to proc the effect if you chose to use Kyrian.
+    - {{ site.data.spell.eq }}
+    - {{ site.data.talent.lmt }}
+    - {{ site.data.spell.meteor }} and {{ site.data.spell.eye_of_the_storm }}
 * {{ site.data.spell.cl }} is not counted as AoE for the purposes of [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) so {{ site.data.talent.sk }} buffs should still be used on {{ site.data.spell.lb }} unless the [Inchoate Shadow](https://www.wowhead.com/npc=183138/inchoate-shadow) is in range (and **only** when it has lost its buff, allowing it to be killed!).
        
 **Defensives:**
