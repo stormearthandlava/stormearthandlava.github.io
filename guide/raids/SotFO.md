@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sepulcher of the First Ones Guide"
-date: 24/03/2022
+date: 13/04/2022
 game_version: 9.2 Shadowlands
 author: Eokira
 toc: false
@@ -139,11 +139,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **35:** {{ site.data.talent.mote }}       
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
 * **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }}     
+* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
        
 **Recommended Covenant:** 
        
-* Night Fae with Dreamweaver   
+* Night Fae with Dreamweaver 
+* Necrolord with Plague-Deviser Marileth
        
 **Recommended Legendaries:**
 
@@ -207,6 +208,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Recommended Legendaries:**
  
 * {{ site.data.legendary.eogs }}
+* {{ site.data.legendary.wlr }}
        
 **Damage**
        
@@ -265,7 +267,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **35:** {{ site.data.talent.mote }}       
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
 * **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }}     
+* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}   
  
 **Recommended Covenant:**   
        
@@ -331,7 +333,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **35:** {{ site.data.talent.se }} or {{ site.data.talent.mote }}   
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
 * **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }}     
+* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
        
 **Recommended Covenant:**   
        
@@ -340,7 +342,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Recommended Legendaries:**
        
-* {{ site.data.legendary.eogs }}       
+* {{ site.data.legendary.eogs }}
+* {{ site.data.legendary.dre }}
   
 **Damage**
        
@@ -397,11 +400,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Recommended Covenant:**   
        
 * Night Fae with Korayn for {{site.data.soulbinds.first_strike}}
+* Necrolord with Plague-Deviser Marileth
        
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }}
-* {{ site.data.legendary.wlr }} 
+* {{ site.data.legendary.wlr }}
+* {{ site.data.legendary.eogs }} 
        
 **Damage**
        
@@ -453,11 +457,11 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **35:** {{ site.data.talent.mote }}  
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
 * **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }}  
+* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
        
 **Recommended Covenant:**   
        
-* Night Fae with Dreamweaver 
+* Night Fae with Dreamweaver (consider Niya if you would otherwise have poor {{ site.data.soulbinds.field_of_blossom }} uptime and/or delay {{ site.data.spell.fae_transfusion }} in order to facilitate uptime)
 * Necrolord with Plague Deviser Marileth (less reliant on static positioning, additional defensive never hurts!)
        
 **Recommended Legendaries:**
@@ -571,12 +575,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Talents with {{ site.data.item.t28_4 }}:**
        
 * **15:** {{ site.data.talent.eote }}
-* **25:** {{ site.data.talent.eb }}
+* **25:** {{ site.data.talent.eb }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.mote }}
 * **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.natures_guardian }}
 * **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }}  
+* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
  
 **Recommended Covenant:**   
        
@@ -592,13 +596,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 * Maintain {{ site.data.spell.fs }} on both bosses.
 * Prepare for [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) when Malganis is nearing 100 Energy by getting an {{ site.data.legendary.eogs }} buff active!
-* List of spells effected by [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness):
-    -  {{ site.data.spell.fae_transfusion }}
-    - {{ site.data.spell.vesper_totem }} including {{ site.data.legendary.kyrian }} Note: typically it is DPS-neutral or a loss to use healing spells to trigger the second charges of {{ site.data.legendary.kyrian }} however, as the legendary benefits from the 100% increase and our generator ( {{ site.data.spell.cl }} ) does not it would be worthwhile to cast {{ site.data.spell.healing_stream_totem }} and two {{ site.data.spell.healing_surge }} to proc the effect if you chose to use Kyrian.
-    - {{ site.data.spell.eq }}
-    - {{ site.data.talent.lmt }}
-    - {{ site.data.spell.meteor }} and {{ site.data.spell.eye_of_the_storm }}
-* {{ site.data.spell.cl }} is not counted as AoE for the purposes of [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) so {{ site.data.talent.sk }} buffs should still be used on {{ site.data.spell.lb }} unless the [Inchoate Shadow](https://www.wowhead.com/npc=183138/inchoate-shadow) is in range (and **only** when it has lost its buff, allowing it to be killed!).
+* All damage is now increased by [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) meaning no special rules apply to how you would use abilities in this phase, normal 2 target priority is used (3 targets when [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) is gripped in)
        
 **Defensives:**
        
@@ -638,12 +636,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Talents with {{ site.data.item.t28_4 }}:**
        
 * **15:** {{ site.data.talent.eote }}
-* **25:** {{ site.data.talent.eb }}
+* **25:** {{ site.data.talent.eb }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.mote }}
 * **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.natures_guardian }}
 * **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }}  
+* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
  
 **Recommended Covenant:**   
        
@@ -653,6 +651,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Recommended Legendaries:**
 
 * {{ site.data.legendary.wlr }}
+* {{ site.data.legendary.dre }}
        
 **Damage**
        
@@ -702,11 +701,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * **35:** {{ site.data.talent.mote }}
 * **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.natures_guardian }}
 * **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }}  
+* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
  
 **Recommended Covenant:**   
        
-* Night Fae with Dreamweaver
+* Night Fae with Dreamweaver (consider Niya if you would otherwise have poor {{ site.data.soulbinds.field_of_blossom }} uptime and/or delay {{ site.data.spell.fae_transfusion }} in order to facilitate uptime)
+* Necrolord with Plague-Deviser Marileth
        
 **Recommended Legendaries:**
 
@@ -723,10 +723,11 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Utilities:**
        
 * {{ site.data.talent.wrt }} is very useful to help your group avoid [Oppression](https://www.wowhead.com/spell=362617/oppression)
+* {{ site.data.spell.tremor_totem }} has been fixed to no longer nullify key mechanics of the fight however, if your Priest or Warlock friends get Mind Controlled you can use {{ site.data.spell.tremor_totem }} to preemptively deal with any Fears they put on your group!
        
 **Additional Notes:**
 
-* You can use the knock-up portion of [Rune of Damnation](https://www.wowhead.com/spell=360282/rune-of-damnation) to reposition depending on which way you face when stepping into the `Pylon Conduit`, it will push you the **opposite** way from where you are facing.
+* You can use the knock-up portion of [Rune of Damnation](https://www.wowhead.com/spell=360282/rune-of-damnation) to reposition depending on which way you face when stepping into the `Pylon Conduit`, it will push you the opposite way from where you are facing.
   
 </div>
 </div>
