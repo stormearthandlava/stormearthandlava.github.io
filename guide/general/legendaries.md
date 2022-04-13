@@ -1,16 +1,18 @@
 ---
 layout: highcharts_page
 title: Legendaries
-last_update: 2022-02-25 09:00:00
+last_update: 2022-04-13 09:00:00
 game_version: 9.2 Shadowlands
 toc: true
 ---
 
 ## TL;DR Recommendations
-- {{ site.data.legendary.windspeaker }} for Single Target
-- {{ site.data.legendary.eogs }} for M+ and stacked AoE
-- {{ site.data.legendary.night_fae }} for M+ and stacked AoE (until [Unity](https://www.wowhead.com/item=190595/memory-of-unity) is available)
-- {{ site.data.legendary.skybreaker }} for Spread Cleave
+Legendary | Use | Slot | Stats 
+--- | --- | --- | --- 
+{{ site.data.legendary.wlr }} (WLR) | Single Target | Boots | Haste/Versatility/Mastery 
+{{ site.data.legendary.eogs }} (EoGS) | M+ and stacked AoE | Hands | Crit/Haste 
+{{ site.data.legendary.dre }} (DRE) | Prototype Pantheon, Lords of Dread, Rygelon [Raid Guide](https://stormearthandlava.com/guide/raids/SotFO.html) | Head | Haste/Versatility
+{{ site.data.legendary.skybreaker }} (SFD) | Multi-Target Encounters with {{ site.data.item.t28_2 }} only **or** Venthyr M+ | Ring | Crit/Haste
 
 For more information on M+ setups see the [M+ Section](http://stormearthandlava.com/guide/mythic_plus/mythic_plus.html).
 
