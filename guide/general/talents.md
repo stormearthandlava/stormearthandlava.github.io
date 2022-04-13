@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talents
-last_update: 2022-03-14 09:00:00
+last_update: 2022-04-13 09:00:00
 game_version: 9.2 Shadowlands
 toc: true
 ---
@@ -16,7 +16,7 @@ Questing / Solo&nbsp;Content | 15: {{ site.data.talent.eote }}<br/> 25: {{ site.
 Mythic+ | 15: {{ site.data.talent.echo }}<br/> 25: {{ site.data.talent.afs }}<br/> 30: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }}<br/> 35: {{ site.data.talent.mote }} **OR** {{ site.data.talent.se }}<br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.ancestral_guidance }}<br/> 45: {{ site.data.talent.pe }}<br/> 50: {{site.data.talent.sk}}
 Mythic+ with {{ site.data.item.t28_4 }} and/or Double Legendary | 15: {{ site.data.talent.eote }}<br/> 25: {{ site.data.talent.afs }} <br/> 30: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }} <br/> 35: {{ site.data.talent.se }} <br/> 40: {{ site.data.talent.ancestral_guidance }} **OR** {{ site.data.talent.natures_guardian }} <br/> 45: {{ site.data.talent.pe }} <br/> 50: {{ site.data.talent.sk }}
 Raid / Single Target (Standard) | 15: {{ site.data.talent.echo }}<br/> 25: {{ site.data.talent.eb }}<br/> 30: {{ site.data.talent.sw }}<br/> 35: {{ site.data.talent.mote }}<br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.wrt }}<br/> 45: {{ site.data.talent.if }} **OR** {{ site.data.talent.pe }}<br/> 50: {{ site.data.talent.sk }}
-Raid / Single Target with {{ site.data.item.t28_4 }} and/or Double Legendary | 15: {{ site.data.talent.echo }} <br/> 25: {{ site.data.talent.eb }} <br/> 30: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }} <br/> 35: {{ site.data.talent.mote }} <br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.wrt }} <br/> 45: {{ site.data.talent.pe }} <br/> 50: {{ site.data.talent.sk }}
+Raid / Single Target with {{ site.data.item.t28_4 }} and/or Double Legendary | 15: {{ site.data.talent.echo }} <br/> 25: {{ site.data.talent.eb }} <br/> 30: {{ site.data.talent.sw }} **OR** {{ site.data.talent.static_charge }} <br/> 35: {{ site.data.talent.mote }} <br/> 40: {{ site.data.talent.natures_guardian }} **OR** {{ site.data.talent.wrt }} <br/> 45: {{ site.data.talent.pe }} <br/> 50: {{ site.data.talent.sk }} **OR** {{ site.data.talent.asc }}
 
 
 **Special Mention** {{ site.data.talent.pe }} Is fairly close to {{ site.data.talent.if }} on single target, and is generally more powerful when multiple targets are present. We recommend inexperienced shamans use {{ site.data.talent.pe }} regardless, as {{ site.data.talent.if }} is significantly more complex. With active {{ site.data.item.t28_4 }}, {{ site.data.talent.if }} becomes a dps loss and no longer sees play at that point, however some players may wish to stop using it when {{ site.data.item.t28_2 }} is active because it makes {{ site.data.talent.if }} even harder to use.
