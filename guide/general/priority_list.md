@@ -224,7 +224,7 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
 ---
 ### {{ site.data.talent.asc }} on varying target counts.
 - On single target the only part of the {{ site.data.talent.asc }} priority that changes is whether to spend Maelstrom or not and that depends on which legendary you are using:
-     * With {{ site.data.legendary.ws }} equipped you always avoid overcapping.
+     * With {{ site.data.legendary.wlr }} equipped you always avoid overcapping.
      * With {{ site.data.legendary.dre }} equipped you will prefer to cast {{ site.data.spell.lvb }} instead of {{ site.data.spell.es }} if you do not have to move, regardless of Maelstrom.
 - As targets increase there are some changes to what you would do **with {{ site.data.talent.asc }} active** which are not related to legendary choice - the nature of {{ site.data.legendary.dre }} is that of a gambler however this advice will provide the best results on average, if you choose to commit to gambling may the RNG forever be in your favour.
      * 2 targets: {{ site.data.spell.eq }} `>` {{ site.data.spell.lvb }} `>` {{ site.data.spell.lvbm }}
