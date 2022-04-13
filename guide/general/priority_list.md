@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Priority List
-last_update: 2022-03-24 09:00:00
+last_update: 2022-04-13 09:00:00
 game_version: 9.2 Shadowlands
 toc: true
 ---
@@ -43,9 +43,10 @@ Kyrian | Venthyr | Night Fae | Necrolords
                 <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}.</li>
                 <li>The debuff's duration is at or below 6 seconds remaining.</li>
             </ul>
-        <li> Cast {{ site.data.spell.lvb }} with {{ site.data.spell.lvs }} active.</li>
+        <li> Cast {{ site.data.spell.lvb }} with {{ site.data.spell.ls }} active.</li>
         <li> Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies and your next cast would take you above 100 Maelstrom.</li>
-        <li> Cast {{ site.data.spell.es }} if your next cast would take you above 100 Maelstrom.</li>
+        <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} with {{ site.data.talent.asc }} active. </li>
+        <li> Cast {{ site.data.spell.es }} if your next cast would take you above 100 Maelstrom and fighting 1 target.  Note: if {{ site.data.legendary.ws }} is equipped and {{ site.data.talent.asc }} is active, you should avoid overcapping Maelstrom. </li>
         </li>
         <!-- covenant abilities -->
         <li class="pw-apl" style="display: list-item;">Cast {{ site.data.spell.primordial_wave}} on a target without {{ site.data.spell.fs }} or the target with the lowest duration remaining. Delay it if adds are gonna spawn, if it doesn't lead to you losing a use.</li>
@@ -107,7 +108,7 @@ Kyrian | Venthyr | Night Fae | Necrolords
 
 **Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. It is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply {{ site.data.spell.fs }} to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier. 
 
-**Special mention** When {{ site.data.item.t28_4 }} is active using {{ site.data.spell.lvs }} procs in AoE becomes DPS neutral, this does assume that you will benefit from the extra duration provided however so the default behaviour remains the same as above - use {{ site.data.spell.lvs }} when you are forced to move, no active {{ site.data.spell.fs }} is required but it remains an excellent movement global when no {{ site.data.spell.lvs }} is active!
+**Special mention** When {{ site.data.item.t28_4 }} is active using {{ site.data.spell.lvs }} procs in AoE becomes DPS neutral, this does assume that you will benefit from the extra duration provided however so the default behaviour remains the same as above - use {{ site.data.spell.lvs }} when you are forced to move, no active {{ site.data.spell.fs }} is required but it remains an excellent movement global when no {{ site.data.spell.ls }} is active!
 ## Openers
 ---
 
