@@ -222,6 +222,17 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wav
 
 ## Special cases
 ---
+### {{ site.data.talent.asc }} on varying target counts.
+- On single target the only part of the {{ site.data.talent.asc }} priority that changes is whether to spend Maelstrom or not and that depends on which legendary you are using:
+     * With {{ site.data.legendary.ws }} equipped you always avoid overcapping.
+     * With {{ site.data.legendary.dre }} equipped you will prefer to cast {{ site.data.spell.lvb }} instead of {{ site.data.spell.es }} if you do not have to move, regardless of Maelstrom.
+- As targets increase there are some changes to what you would do **with {{ site.data.talent.asc }} active** which are not related to legendary choice - the nature of {{ site.data.legendary.dre }} is that of a gambler however this advice will provide the best results on average, if you choose to commit to gambling may the RNG forever be in your favour.
+     * 2 targets: {{ site.data.spell.eq }} `>` {{ site.data.spell.lvb }} `>` {{ site.data.spell.lvbm }}
+     * 3 targets: {{ site.data.spell.eq }} `>` {{ site.data.spell.lvb }} `>` {{ site.data.spell.lvbm }}
+     * 4 targets: {{ site.data.spell.eq }} `>` {{ site.data.spell.ls }} `>` {{ site.data.spell.lvbm }} `>` {{ site.data.spell.lvb }}
+     * 5+ targets: {{ site.data.spell.eq }} `>` {{ site.data.spell.lvbm }} `>` {{ site.data.spell.ls }}
+- Note: the above priority includes spells that do not have cooldowns in order to show that one spell is clearly favoured over the other i.e. {{ site.data.spell.lvbm }} is included in the 2 and 3 target lists only to show that it is **weaker** than casting a {{ site.data.spell.lvb }}.
+
 ### {{ site.data.talent.sop }} with {{ site.data.item.t28_2 }} active.
 - When you are able to equip {{ site.data.item.t28_2 }}, it can be a dps increase to use {{ site.data.talent.sop }} instead of {{ site.data.talent.pe }} or {{ site.data.talent.if }}. You should sim your character to determine if this is a choice **you** should make at this specific gearing stage, and note that it is only applicable to Single Target scenarios and Covenant choice may impact this.
 - You need to have {{ site.data.legendary.wlr }} equipped and the playstyle from there is straightforward. Use the {{ site.data.talent.sop }} buff on {{ site.data.spell.lvb }} after every {{ site.data.spell.es }}, which is essentially typical gameplay. Note: there is potential to increase the effectiveness of this build further by incorporating some {{ site.data.spell.lb }} usage on very strict conditions
