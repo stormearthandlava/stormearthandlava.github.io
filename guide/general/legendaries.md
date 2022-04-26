@@ -7,6 +7,7 @@ toc: true
 ---
 
 ## TL;DR Recommendations
+
 Legendary | Use | Slot | Stats 
 --- | --- | --- | --- 
 {{ site.data.legendary.wlr }} (WLR) | Single Target | Boots | Haste/Versatility/Mastery 
