@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sepulcher of the First Ones Guide"
-date: 13/04/2022
+date: 02/05/2022
 game_version: 9.2 Shadowlands
 author: Eokira
 toc: false
@@ -723,7 +723,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Utilities:**
        
 * {{ site.data.talent.wrt }} is very useful to help your group avoid [Oppression](https://www.wowhead.com/spell=362617/oppression)
-* {{ site.data.spell.tremor_totem }} has been fixed to no longer nullify key mechanics of the fight however, if your Priest or Warlock friends get Mind Controlled you can use {{ site.data.spell.tremor_totem }} to preemptively deal with any Fears they put on your group!
+* {{ site.data.spell.tremor_totem }} can be used to break your own Mind Control by placing {{ site.data.spell.tremor_totem }} when you are targeted by [Rune of Compulsion](https://www.wowhead.com/spell=366285/rune-of-compulsion), it does not remove Mind Control from your allies and you cannot cast {{ site.data.spell.tremor_totem }} during the Mind Control itself. 
        
 **Additional Notes:**
 
