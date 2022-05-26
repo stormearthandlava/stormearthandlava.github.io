@@ -1,17 +1,19 @@
 ---
 layout: post
 title: Season 4 shenanigans
-date: 2022-05-24 00:00:00 +0100
-excerpt: "Collection of items with additional effects"
+date: 2022-05-26 00:00:00 +0100
+excerpt: "Collection of items with special effects"
 author: Bloodmallet(EU)
 ---
 
 Greetings,
 
-Season 4 mythic plus dungeons were [announced](https://twitter.com/Warcraft/status/1526708363463122948). Therefore we can have a look at what wonky items will be available.
+Season 4 mythic plus dungeons were [announced](https://twitter.com/Warcraft/status/1526708363463122948).
+(This is not about the announced 9.2.5 patch! Season 4 will start at a later date.)
+Therefore we can have a look at what wonky items will be available.
 
 ## Special effect items
-The following is be a list of all special effect items from:
+The following is a list of all special effect items from:
 - (Warlords of Draenor) Grimrail Depot
 - (Warlords of Draenor) Iron Docks
 - (Legion) Return to Karazhan
@@ -109,7 +111,7 @@ Therefore depending on tuning the following slots might become "locked in".
 
 Or was it a different Ring-combination?
 
-Don't forget, Tier sets and double Legendaries will stay as well.
+Don't forget, Tier sets and double Legendaries will stay as well. Which means that actually "free" slots will be rare...
 
 Yours sincerely,<br/>
 Bloodmallet(EU)
