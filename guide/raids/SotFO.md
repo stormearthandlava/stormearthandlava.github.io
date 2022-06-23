@@ -589,13 +589,13 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }}
-* {{ site.data.legendary.wlr }} You may consider this if your group needs more focus damage to manage the boss health however you would not use its effects during [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness).
+* {{ site.data.legendary.dre }} despite the RNG nature of this Legendary effect it plays well into the low target counts offered by the fight so on average should provide the most value
+* {{ site.data.legendary.eogs }} You may consider this if you dislike the RNG nature of {{ site.data.legendary.dre }}
        
 **Damage**
        
 * Maintain {{ site.data.spell.fs }} on both bosses.
-* Prepare for [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) when Malganis is nearing 100 Energy by getting an {{ site.data.legendary.eogs }} buff active!
+* Prepare for [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) when Malganis is nearing 100 Energy by getting an {{ site.data.legendary.eogs }} buff active if it is equipped
 * All damage is now increased by [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) meaning no special rules apply to how you would use abilities in this phase, normal 2 target priority is used (3 targets when [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) is gripped in)
        
 **Defensives:**
