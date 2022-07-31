@@ -14,6 +14,7 @@ This guide was made possible by:
 - Cayna (Discord: cayna#0103 \| [Twitch](https://www.twitch.tv/cayna))
 - HawkCorrigan (Discord: HawkCorrigan#1811)
 - Sheffy (Discord: Sheffy#4928 \| [Twitch](https://www.twitch.tv/sheffywow) \| [Twitter](https://twitter.com/SheffyWoW))
+- Eokira (Discord: Eokira#7823)
 
 Information on this page is written with the assumption that you understand the new priority list, talents, and legendary items introduced in Shadowlands. If you have not done so, we highly recommend reading our other resources to learn about them!
 
