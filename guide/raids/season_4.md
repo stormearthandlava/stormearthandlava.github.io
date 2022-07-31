@@ -34,4 +34,4 @@ toc: false
     - [Sanctum of Domination](https://stormearthandlava.com/guide/raids/sod.html)
     - [Sepulcher of the First Ones](https://stormearthandlava.com/guide/raids/SotFO.html)
 
--[Mythic +](https://stormearthandlava.com/guide/mythic_plus/mythic_plus.html)
+- [Mythic +](https://stormearthandlava.com/guide/mythic_plus/mythic_plus.html)
