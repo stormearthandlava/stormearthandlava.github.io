@@ -26,6 +26,8 @@ categories:
   url: /guide/mythic_plus/mythic_plus.html
 - title: Raids
   subcategories:
+    - title: Season Four, Raiding and YOU!
+      url: /guide/raids/season_4.html
     - title: Sepulcher of the First Ones
       url: /guide/raids/SotFO.html
     - title: Sanctum of Domination
