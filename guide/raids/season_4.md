@@ -7,9 +7,9 @@ toc: false
 ---
 
 # Introduction
-- As Season Four is going to be handled uniquely in Shadowlands, the format for guide content will be different to reflect this. Here we will cover the generic parts about raiding in Season Four, whilst specific raid and boss related information will be updated in the previously produced guides.
+- As Season Four is going to be handled uniquely in Shadowlands, the format for guide content will be different to reflect this. Here we will cover the general information about raiding in Season Four, whilst specific raid and boss related information will be updated in the relevant guides.
 
-- All updated boss build recommendations will be based around having an active {{ site.data.item.t28_4 }} bonus. This is because most players will either be carrying their existing tier items into Season Four or be able to generate one quickly enough that this should not be problematic. Some scenarios are more likely to be impacted by a lack of tier bonus than others, in these cases it a note will be made.
+- All updated boss build recommendations will be based around having an active {{ site.data.item.t28_4 }} bonus. This is because most players will either be carrying their existing tier items into Season Four or be able to generate one quickly enough that this should not be problematic. Some scenarios are more likely to be impacted by a lack of tier bonus than others, in these cases a note will be made.
 
 # What has changed in Season Four?
 
