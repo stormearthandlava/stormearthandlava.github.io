@@ -25,7 +25,7 @@ toc: false
 
 # Did Elemental Shaman receive any changes that may impact our choices in Season Four?
 
--Broadly, no. The most significant difference Elemental will have in Season Four compared to what we had when clearing the previous raids is carrying the {{ site.data.item.t28_4 }} bonus with us, which results in our build choices remaining largely the same as they were in Season 3 just applied to previous content bosses.
+- Broadly, no. The most significant difference Elemental will have in Season Four compared to what we had when clearing the previous raids is carrying the {{ site.data.item.t28_4 }} bonus with us, which results in our build choices remaining largely the same as they were in Season 3 just applied to previous content bosses.
 
 # Where can I find boss-specific information? or information about M+? 
 
