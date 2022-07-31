@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Castle Nathria Guide"
-last_update: 2021-01-20 00:00:00
-game_version: 9.0.2 Shadowlands
-author: Altenna
+last_update: 2022-06-31
+game_version: 9.2.5 Shadowlands
+authors: Altenna, Eokira
 toc: false
 ---
 # Introduction
@@ -16,18 +16,15 @@ This guide was made possible by:
 - Sheffy (Discord: Sheffy#4928 \| [Twitch](https://www.twitch.tv/sheffywow) \| [Twitter](https://twitter.com/SheffyWoW))
 - Eokira (Discord: Eokira#7823)
 
-Information on this page is written with the assumption that you understand the new priority list, talents, and legendary items introduced in Shadowlands. If you have not done so, we highly recommend reading our other resources to learn about them!
+This guide has been updated to reflect [Season Four](https://stormearthandlava.com/guide/raids/season_4.html). This includes assuming you have an active {{ site.data.item.t28_4 }} bonus, for the bosses where it is most relevant we will include notes for those who do **not** have this bonus active.
 
-The tips and recommendations listed here are based on educated opinions from beta testing as well as reviewing logs and videos, so strategies can change as we develop a better understanding of each fight or as the spec and bosses are tuned. If you have any disagreements, feedback, or questions, please feel welcome to reach out to the team.
+If you have suggestions to improve the information in this guide please contact Eokira#7823 using the [Earthshrine Elemental channel](https://discord.gg/pGkPDzh7rP) or the [Storm, Earth & Lava discord](https://discord.gg/y5dUf3PWrU).
 
 # Miscellaneous Tips
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
 - Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilizing {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
-
-- When talenting {{ site.data.talent.pe }}, always remember you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.spell.earth_elemental }}.
-
-- Recall that [Stampeding Roar](https://www.wowhead.com/spell=106898/stampeding-roar) is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
+- Any Single Target orientated fights where you choose to use {{ site.data.legendary.wlr }} please note that using {{ site.data.spell.eq }} on 2 or more targets is **still a net damage gain** despite ignoring your Legendary's effect. So if adds are present for short periods of time and you are not fully committed to single target then using {{ site.data.spell.eq }} for those short periods is preferred. 
 
 # Bosses
 <p style="color:red">Click on a boss banner to expand it.</p>
@@ -45,15 +42,19 @@ The tips and recommendations listed here are based on educated opinions from bet
 **Boss Fight Profile:** Single-Target
 
 **Talents:**
-* **15**: {{site.data.talent.echo_of_the_elements}}
+* **15**: {{ site.data.talent.echo_of_the_elements }}
 * **25**: {{ site.data.talent.elemental_blast }}
 * **30**: {{ site.data.talent.spirit_wolf }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45**: {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
-* **50**: {{ site.data.talent.stormkeeper }}
+* **45**: {{ site.data.talent.primal_elementalist }}
+* **50**: {{ site.data.talent.stormkeeper }}            
 
-**Potential Legendaries:**
+**Recommended Covenant:**
+- Night Fae with Dreamweaver
+- Necrolord with Plague-Deviser Marileth
+
+**Recommended Legendaries:**
 - {{ site.data.legendary.windspeaker }}
 
 **Damage:**
@@ -87,16 +88,21 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **25**: {{ site.data.talent.elemental_blast }}
+* **25**: {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30**: {{ site.data.talent.spirit_wolf }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
 * **40**: {{ site.data.talent.natures_guardian }}
 * **45**: {{ site.data.talent.primal_elementalist }}
-* **50**: {{ site.data.talent.stormkeeper }}
+* **50**: {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
+  
+**Recommended Covenant**
+- Necrolord with Plague-Deviser Marileth, if **not** using {{ site.data.legendary.eogs }} the value of {{ site.data.conduit.shake_the_foundations }} rises considerably.
 
-**Potential Legendaries:**
-- {{ site.data.legendary.windspeaker }}
-- {{ site.data.legendary.eogs }}
+**Recommended Legendaries:**
+- {{ site.data.legendary.dre }} the setup of the fight synergises well with this Legendary's requirements to perform better than our other options on average. 
+- {{ site.data.legendary.eogs }} a more consistent option if you dislike RNG.
+- {{ site.data.legendary.wlr }} is still a viable choice although the other options will outperform it in overall value.
+- {{ site.data.legendary.sfd }} if you have an active {{ site.data.item.t28_2 }} but **not** {{ site.data.item.t28_4 }}, the increase in {{ site.data.spell.fe }} uptime will be incredibly valuable for you. Similarly, consider using {{ site.data.talent.sop }} to further increase {{ site.data.spell.fe }} uptime.
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the active pet.
@@ -104,7 +110,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for {{ site.data.nathria.sinseeker }}, {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.petrifying_howl }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if {{ site.data.talent.pe }} talented) for {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.shattering_stone }} as needed.
+- Use {{ site.data.spell.astral_shift }} for {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.shattering_stone }} as needed.
 - If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against {{ site.data.nathria.sinseeker }} as needed as well as navigating {{ site.data.nathria.petrifying_howl }}.
 
 **Healing:**
@@ -128,24 +134,27 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **25**: {{ site.data.talent.elemental_blast }}
+* **25**: {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35**: {{ site.data.talent.master_of_the_elements }}
+* **35**: {{ site.data.talent.master_of_the_elements }} or {{ site.data.talent.se }}
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
+  
+**Recommended Covenants**
+- Night Fae with Korayn for {{ site.data.soulbinds.first_strike }} for overall value.
+- Necrolord with Plague-Deviser Marileth for {{ site.data.soulbinds.preemptive_strike }} for value on [Rockbound Vanquishers](https://www.wowhead.com/npc=165764/rockbound-vanquisher)
 
 **Potential Legendaries:**
-- {{ site.data.legendary.windspeaker }}
-- {{ site.data.legendary.eogs }}
+- {{ site.data.legendary.eogs }} best paired with Night Fae
+- {{ site.data.legendary.wlr }}
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together (if not using {{ site.data.legendary.windspeaker }}). Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.ember_blast }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.primal_elementalist }} talented) for {{ site.data.nathria.crimson_flurry }} (from {{ site.data.nathria.bleakwing_assassin }}) and {{ site.data.nathria.ember_blast }} (from {{site.data.nathria.shade_of_kaelthas}}) as needed.
+- Use {{ site.data.spell.astral_shift }} for {{ site.data.nathria.crimson_flurry }} (from {{ site.data.nathria.bleakwing_assassin }}) and {{ site.data.nathria.ember_blast }} (from {{site.data.nathria.shade_of_kaelthas}}) as needed.
 - If talented, {{ site.data.talent.spirit_wolf}} allows you to mitigate damage from {{ site.data.nathria.soul_pedestal }}.
 
 **Healing:**
@@ -161,7 +170,6 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Notes:**
 - This encounter has various phases of priority and AoE damage, with priority damage even moreso on Mythic difficulty. Determine how you need to prioritize your damage to serve your raid team.
-- If using Primal Earth Elemental for {{ site.data.spell.harden_skin}}, make sure it is not picking up adds and interfering with your tanks.
 
 </div>
 </div>
@@ -182,10 +190,14 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
 * **40**: {{ site.data.talent.wind_rush_totem }}
-* **45**: {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
+  
+**Recommended Covenants**
+- Night Fae with Dreamweaver (Note: some players may find Niya more forgiving as the fight contains a lot of movement)
+- Necrolord with Plague-Deviser Marileth
 
-**Potential Legendaries:**
+**Recommended Legendaries:**
 - {{ site.data.legendary.windspeaker }}
 
 **Damage:**
@@ -220,7 +232,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **30**: {{ site.data.talent.spirit_wolf }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45**: {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
@@ -261,16 +273,16 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45**: {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
 - {{ site.data.legendary.eogs }}
+- {{ site.data.legendary.dre }} (Note: this is less than ideal setup for this legendary to shine in comparison to our more reliable alternatives, but this may yield good results if you're lucky!)
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the {{ site.data.nathria.harnessed_specter }} add.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together (if not using {{ site.data.legendary.windspeaker }}). Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Pool Maelstrom for incoming add spawns. If {{ site.data.legendary.eogs }} is equipped, hold a proc for an incoming add spawn as well.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted with {{ site.data.nathria.shared_suffering }}.
 
@@ -283,7 +295,6 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Notes:**
 - Because Shaman have the lowest CD interrupt, two Shaman and a tank make an ideal interrupt rotation for a {{ site.data.nathria.conjured_manifestation }} add.
-- If using Primal Earth Elemental for {{ site.data.spell.harden_skin}}, make sure it is not picking up adds and interfering with your tanks.
 
 </div>
 </div>
@@ -300,20 +311,24 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **25**: {{ site.data.talent.elemental_blast }}
+* **25**: {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
-* **50**: {{ site.data.talent.stormkeeper }}
+* **50**: {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
+  
+**Recommended Covenants**
+- Necrolord with Plague-Deviser Marileth
 
-**Potential Legendaries:**
-- {{ site.data.legendary.skybreaker }}
+**Recommended Legendaries:**
+- {{ site.data.legendary.dre}} (Note: with the high uptime of {{ site.data.spell.fs }} on multiple targets, using {{ site.data.talent.afs }} can be preferable to enable the most available GCDs for casting {{ site.data.spell.lvb }}).
 - {{ site.data.legendary.windspeaker }}
+- {{ site.data.legendary.sfd }} (Note: this should only be picked if you do not have an active {{ site.data.item.t28_4 }} bonus.
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible, prioritizing: targeted boss > adds > other bosses.
-- During the {{ site.data.nathria.danse_macabre }}, the bosses are still targetable even with 99% damage reduction. Continue maintaining {{ site.data.spell.flame_shock }}. If {{ site.data.legendary.skybreaker }} is equipped, this will especially be a major boon.
+- During the {{ site.data.nathria.danse_macabre }}, the bosses are still targetable even with 99% damage reduction. Continue maintaining {{ site.data.spell.flame_shock }}, this is more relevant if you find yourself needing to use {{ site.data.legendary.sfd }} whilst gearing.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.anima_fountain }}, {{ site.data.nathria.waltz_of_blood }}, {{ site.data.nathria.dark_recital }}, and {{ site.data.nathria.dancing_fever }} (on Mythic difficulty).
 
 **Defensives:**
@@ -321,7 +336,7 @@ The tips and recommendations listed here are based on educated opinions from bet
 - {{ site.data.talent.spirit_wolf}} can help you move quickly or mitigate damage from {{ site.data.nathria.scarlet_letter }}, {{ site.data.nathria.unstoppable_charge }}, {{ site.data.nathria.castellans_cadre }}, and {{ site.data.nathria.dancing_fools }}. {{ site.data.talent.earth_shield}} can offer you HPS against the constant damage from {{ site.data.nathria.oppressive_atmosphere }} alone.
 
 **Utilities:**
-- Interrupt {{ site.data.nathria.dreadbolt_volley }} from {{ site.data.nathria.baroness_frieda }} as assigned.
+- Interrupt {{ site.data.nathria.dreadbolt_volley }} from {{ site.data.nathria.baroness_frieda }} as assigned. The use of `Focus` or targeting macros can make this assignment easier to manage.
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members position for {{ site.data.nathria.danse_macabre }}, {{ site.data.nathria.anima_fountain }}, {{ site.data.nathria.waltz_of_blood }}.
 
 </div>
@@ -343,15 +358,20 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45**: {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
+  
+**Recommended Covenants**
+- Necrolord with Plague-Deviser Marileth
+- Night Fae with Dreamweaver or Niya
+- Kyrian with Mikanikos (Note: The fight is designed around 1 minute windows of damage amplification, this is precisely what Kyrian provides via {{ site.data.spell.vesper_totem }} and [Mikanikos' Effusive Anima Accelerator trait](https://www.wowhead.com/spell=352188/effusive-anima-accelerator?spellModifier=137038) providing enough CDR to match comfortably.
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
 
 **Damage:**
 - Pool Maelstrom shortly before {{ site.data.nathria.destructive_impact }}.
-- {{ site.data.nathria.destructive_impact }} occurs nearly every minute. If {{ site.data.talent.stormkeeper }} is talented, it is a good idea to line up the cast with each {{ site.data.nathria.destructive_impact }}.
+- {{ site.data.nathria.destructive_impact }} occurs nearly every minute. If {{ site.data.talent.stormkeeper }} is talented, it is a good idea to line up the cast with each {{ site.data.nathria.destructive_impact }}. To aid with this, pre-cast {{ site.data.talent.sk }} earlier than usual in the opener sequence to ensure it can be pre-cast for the first {{ site.data.nathria.destructive_impact }}.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.destructive_stomp }}, {{ site.data.nathria.falling_rubble }}, {{ site.data.nathria.chain_slam }}, and {{ site.data.nathria.seismic_shift }} (on Mythic difficulty).
 
 **Defensives:**
@@ -379,32 +399,32 @@ The tips and recommendations listed here are based on educated opinions from bet
 
 **Talents:**
 * **15**: {{ site.data.talent.echo_of_the_elements }}
-* **25**: {{ site.data.talent.elemental_blast }}
+* **25**: {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
-* **50**: {{ site.data.talent.stormkeeper }}
+* **50**: {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
+  
+**Recommended Covenants**
+- Night Fae with Korayn for {{ site.data.soulbinds.first_strike }} particularly if you choose to use {{ site.data.legendary.eogs }}
+- Necrolord with Plague-Deviser Marileth particularly if you choose to use {{ site.data.legendary.dre }}
 
-**Potential Legendaries:**
-- {{ site.data.legendary.windspeaker }}
-- {{ site.data.legendary.eogs }}
+**Recommended Legendaries:**
+- {{ site.data.legendary.dre }} (Note: this fight contains multiple sections of two-target cleave in Mythic difficulty which enables this Legendary to shine more than it otherwise would.
+- {{ site.data.legendary.eogs }} (Note: this fight contains a fair amount of AoE where this Legendary can be utilised effectively.
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together (if not using {{ site.data.legendary.windspeaker }}). Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - If {{ site.data.legendary.eogs }} is equipped, prepare a proc for incoming waves of adds.
 - Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by {{ site.data.nathria.wicked_blade }}, {{ site.data.nathria.seismic_upheaval }}, and {{ site.data.nathria.reverberating_eruption }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.primal_elementalist }} talented) as needed for {{ site.data.nathria.heart_hemorrhage }} and {{ site.data.nathria.pulverizing_meteor }}.
+- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.heart_hemorrhage }} and {{ site.data.nathria.pulverizing_meteor }}.
 - Because you may take constant damage from {{ site.data.nathria.wicked_laceration }} and {{ site.data.nathria.heart_rend }}, {{ site.data.talent.earth_shield}} is a good talent option for HPS.
 
 **Utilities:**
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members running for {{ site.data.nathria.stonegale_effigy }} or {{ site.data.nathria.shattering_blast }}.
-
-**Notes:**
-- If using Primal Earth Elemental for {{ site.data.spell.harden_skin}}, make sure it is not picking up adds and interfering with your tanks.
 
 </div>
 </div>
@@ -425,25 +445,29 @@ The tips and recommendations listed here are based on educated opinions from bet
 * **30**: {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
 * **35**: {{ site.data.talent.master_of_the_elements }}
 * **40**: {{ site.data.talent.wind_rush_totem }}
-* **45**: {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
 
-**Potential Legendaries:**
+**Recommended Covenants**
+- Necrolord with Plague-Deviser Marileth (Note: {{ site.data.spell.fleshcraft }} provides an additional defensive which may benefit players during progression here)
+- Night Fae with Dreamweaver or Niya (Note: As Sire uses abilities that require movement management players may benefit from having access to {{ site.data.spell.soulshape }} ).
+  
+**Recommended Legendaries:**
 - {{ site.data.legendary.windspeaker }}
-- {{ site.data.legendary.skybreaker }}
+- {{ site.data.legendary.dre }} (Note: this is mostly relevant in P2 of the encounter, where multiple targets are available to help funnel damage into the one most relevant at the time! In other phases due to the lack of sustained targets, it will fall behind on average).
 
 **Damage:**
 
 Phase 1:
 - Pool Maelstrom for {{ site.data.nathria.echo_of_sin }} adds as needed. If talented, hold {{ site.data.talent.stormkeeper }} only if add damage is a problem.
 - Use {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by {{ site.data.nathria.feeding_time }} ({{ site.data.nathria.night_hunter }} on Heroic/Mythic).
+- Use {{ site.data.spell.ghost_wolf }} before the Intermission begins to nullify the movement reduction (Note: this means Shamans do not need to soak cleaves in P1)
 
 Intermission:
 - As you will likely make it ahead of your raid during {{ site.data.nathria.march_of_the_penitent }}, it is a good opportunity to continue damaging the boss or briefly off-heal your fellow raid members after your {{ site.data.nathria.burden_of_sin }} stacks drop.
 
 Phase 2:
 - Maintain {{ site.data.spell.flame_shock }} on {{ site.data.nathria.sire_denathrius }}, {{ site.data.nathria.remornia }}, and any additional adds as you can.
-- Use {{ site.data.spell.earthquake }} when 2+ targets are together if not using ({{ site.data.legendary.windspeaker }}). Use {{ site.data.spell.chain_lightning }} when 3+ targets are together.
 - Depending on timings, you may pool Maelstrom and hold CDs to optimize the {{ site.data.nathria.wracking_pain }} debuff on enemies.
 
 Phase 3:
@@ -452,13 +476,13 @@ Phase 3:
 **Defensives:**
 
 Phase 1:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin }} (if {{ site.data.talent.pe }} talented) as needed for {{ site.data.nathria.feeding_time }} ({{ site.data.nathria.night_hunter }} on Heroic/Mythic), {{ site.data.nathria.blood_price }}, or {{ site.data.nathria.cleansing_pain }}.
+- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.feeding_time }} ({{ site.data.nathria.night_hunter }} on Heroic/Mythic), {{ site.data.nathria.blood_price }}, or {{ site.data.nathria.cleansing_pain }}.
 
 Phase 2:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for {{ site.data.nathria.impale }} or increasing {{ site.data.nathria.crimson_chorus }} stacks.
+- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.impale }} or increasing {{ site.data.nathria.crimson_chorus }} stacks.
 
 Phase 3:
-- Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.harden_skin}} (if {{ site.data.talent.pe }} talented) as needed for {{ site.data.nathria.shattering_pain }}, {{ site.data.nathria.fatal_finesse }}, {{ site.data.nathria.smoldering_ire }}, or {{ site.data.nathria.hand_of_destruction }}.
+- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.shattering_pain }}, {{ site.data.nathria.fatal_finesse }}, {{ site.data.nathria.smoldering_ire }}, or {{ site.data.nathria.hand_of_destruction }}.
 
 <hr />
 - This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf }} can be beneficial in each phase. {{ site.data.nathria.burden_of_sin }}, {{ site.data.nathria.carnage }}, {{ site.data.nathria.crimson_chorus }}, and {{ site.data.nathria.fatal_finesse }} are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield }}.
@@ -476,7 +500,7 @@ Phase 3:
 
 **Notes:**
 - Because of {{ site.data.spell.ghost_wolf }}, you will not be slowed during {{ site.data.nathria.march_of_the_penitent }} in Phase 1, but you **must** be in {{ site.data.spell.ghost_wolf }} form before the phase begins. Consider not clearing any {{ site.data.nathria.burden_of_sin }} stacks during this phase.
-- If using Primal Earth Elemental for {{ site.data.spell.harden_skin}}, make sure it is not picking up adds and interfering with your tanks.
+- As P2 boss arena contains platforms, and {{ site.data.item.t28_4 }} bonuses cause our {{ site.data.spell.fe }} to be active ~100% of the time this has the potential to cause issues but perhaps not significant!
 
 </div>
 </div>
