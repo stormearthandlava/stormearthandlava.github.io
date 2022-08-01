@@ -234,8 +234,12 @@ If you have suggestions to improve the information in this guide please contact 
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
+  
+**Recommended Covenants**
+- Night Fae with Dreamweaver
+- Necrolord with Plague-Deviser Marileth
 
-**Potential Legendaries:**
+**Recommended Legendaries:**
 - {{ site.data.legendary.windspeaker }}
 
 **Damage:**
@@ -275,6 +279,10 @@ If you have suggestions to improve the information in this guide please contact 
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
+  
+**Recommended Covenants**
+- Necrolord with Plague-Deviser Marileth, particularly if you choose to use {{ site.data.legendary.dre }}
+- Night Fae with Dreamweaver 
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
