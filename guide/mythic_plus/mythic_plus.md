@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 2022-03-14 09:00:00
+last_update: 2022-01-08
 game_version: 9.2 Shadowlands
 authors: Altenna, Eokira
 toc: false
@@ -19,7 +19,7 @@ This guide was made possible by:
 
 Information on this page is written with the assumption that you understand the new priority list, talents, and legendary items introduced in Shadowlands. If you have not done so, we highly recommend reading our other resources to learn about them!
 
-This guide is intended to help you identify critical mobs and abilities as well as improve your mechanical literacy in using your toolkit as an Elemental Shaman in each dungeon. If you have any feedback about this guide, please feel welcome to reach out to the team!
+This guide is intended to help you identify critical mobs and abilities as well as improve your mechanical literacy in using your toolkit as an Elemental Shaman in each dungeon. If you have suggestions to improve the information in this guide please contact Eokira#7823 using the [Earthshrine Elemental channel](https://discord.gg/pGkPDzh7rP) or the [Storm, Earth & Lava discord](https://discord.gg/y5dUf3PWrU).
 
 # Talents and Legendaries
 
@@ -48,14 +48,21 @@ This opens up some opportunities for M+ in conjuction with the {{ site.data.item
 These setups will fluctuate in value depending on how keys are routed and which [Encrypted Affix](https://www.wowhead.com/guides/encrypted-affix-shadowlands-mythic-plus-season-3-automata-buffs) are utilised, and it is worth noting that Increased Cooldown Rate and similar effects are only useful if they enable uptime that you do not achieve in another manner - this should be kept in mind when deciding which setup to experiment with!
 
 **Which setup to use?**
-Whilst more experimenting may need to be done with [Encrypted Affix](https://www.wowhead.com/guides/encrypted-affix-shadowlands-mythic-plus-season-3-automata-buffs) and the builds noted above, the default suggestion when you have both [Unity](https://www.wowhead.com/spell=364738/unity) and [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) will be to use the 9.2 version of our previous build:
+The default suggestion when you have both [Unity](https://www.wowhead.com/spell=364738/unity) and [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) will be to use:
 * Night Fae with {{ site.data.legendary.eogs }} and {{ site.data.talent.se }}
 
-This serves as a solid baseline without relying too much on how your dungeons are routed, or which [Encrypted Affix](https://www.wowhead.com/guides/encrypted-affix-shadowlands-mythic-plus-season-3-automata-buffs) buffs you gain. The performance will vary between the setups on a variety of factors so it is **very** valuable to experiment! 
+This serves as a solid baseline without relying too much on how your dungeons are routed. The performance will vary between the setups on a variety of factors so it is **very** valuable to experiment! 
 
-The recommended Covenant choice for M+ content is Night Fae, so your Soulbind choices are:
-* Korayn for {{ site.data.soulbinds.first_strike }}. This provides a large amount of value across an entire dungeon.
-* Dreamweaver for {{ site.data.soulbinds.field_of_blossom }}. This provides additional power directly after using {{ site.data.spell.fae_transfusion }} and has synergy with {{ site.data.legendary.night_fae }} allowing for more frequent burst windows applicable to both AoE and Single Target.
+The recommended Covenant choices for M+ content are Night Fae and Necrolord:
+
+* Night Fae remains the default choice for overall value across key levels and dungeon routes, the value provided is easy to capitalise on.
+* Your Soulbind choices for Night Fae are:
+      * Korayn for {{ site.data.soulbinds.first_strike }}. This provides a large amount of value across an entire dungeon.
+      * Dreamweaver for {{ site.data.soulbinds.field_of_blossom }}. This provides additional power directly after using {{ site.data.spell.fae_transfusion }} and has synergy with {{ site.data.legendary.night_fae }} allowing for more frequent burst windows applicable to both AoE and Single Target.
+
+* Necrolord remains competitive and lends itself to a niche when dungeons and/or their routes involve smaller pulls and/or council style bosses, in these scenarios it can help to use {{ site.data.legendary.dre }} to fit this need as appropriate but it is unlikely to be the best option all the time!
+* Your Soulbind choices for Necrolord are:
+      * Plague-Deviser Marileth for increased benefits surrounding {{ site.data.spell.fleshcraft }}, the strength of {{ site.data.soulbinds.preemptive_strike }} should not go unnoticed.
 
 To assist those experimenting with other Covenant options:
 * Kyrian
@@ -63,9 +70,6 @@ To assist those experimenting with other Covenant options:
 * Venthyr
     - When using {{ site.data.legendary.skybreakers }} the value of {{ site.data.soulbind.wasteland_propriety }} increases making it worthwhile to experiment with Theotar the Mad Duke!
     - Otherwise using Nadja the Mistblade.
-* Necrolord
-    - Plague Deviser Marileth with either [Ooz's Frictionless Coating](https://ptr.wowhead.com/spell=323091/oozs-frictionless-coating) for defense *or* {{ site.data.soulbind.preemptive_strike }} for reliable offensive value. 
-    - Bonesmith Heirmir provides excellent value on sustained AoE so can also be considered as appropriate depending on your situation.
 
 For additional information, please visit our [Talents](https://stormearthandlava.com/guide/general/talents.html) and [Legendaries](https://stormearthandlava.com/guide/general/legendaries.html) pages.
 Don't forget to check out Additional Resources at the bottom of this page!
