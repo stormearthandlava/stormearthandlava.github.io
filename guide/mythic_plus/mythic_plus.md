@@ -110,27 +110,23 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 **Seasonal Affix:**
 
-* Encrypted: [Encrypted](https://www.wowhead.com/guides/encrypted-affix-shadowlands-mythic-plus-season-3-automata-buffs) is the Season 3 Affix for Shadowlands. Groups of relics are present in packs throughout dungeons, including relics with every boss! Pick which relic to kill first to decide which Elite Automa will spawn! When an Elite Automa dies, your group is empowered with their buff! 
+* [Shrouded](https://www.wowhead.com/guides/shrouded-affix-shadowlands-mythic-plus-season-4-disguised-dreadlords) is the new Seasonal Affix for Season Four of Shadowlands!
+   - Pick between [Critical Strike](https://www.wowhead.com/spell=373108/bounty-critical-strike), [Haste](https://www.wowhead.com/spell=373113/bounty-haste), [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility), or [Mastery](https://www.wowhead.com/spell=373116/bounty-mastery) at the beginning of each dungeon, gaining one stack of the appropriate buff. This choice applies to all party members for the run so hopefully everyone can agree! Note: If no choice is made the default buff is [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility).
+   - Stacks are gained by finding and defeating Dreadlords!
+        - Certain enemies will show the [Disguised](https://www.wowhead.com/spell=373011/disguised) buff, meaning they are a Dreadlord! The locations of [Disguised](https://www.wowhead.com/spell=373011/disguised) enemies is consistent from run-to-run.
 
-* [Urh Dismantler](https://ptr.wowhead.com/npc=184911/urh-dismantler) spawns when [Urh Relic](https://ptr.wowhead.com/npc=185685/urh-relic) is killed first.
-    * [Urh Relic](https://ptr.wowhead.com/npc=185685/urh-relic) has [Deconstruct](https://ptr.wowhead.com/spell=366297/deconstruct) and [Force Slam](https://ptr.wowhead.com/spell=366288/force-slam) abilities. 
-    * Make sure to move from [Force Slam's](https://ptr.wowhead.com/spell=366288/force-slam) targeting circle! 
-    * When killed your group receives [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) granting 200% increased spell and ability cooldown rate and restoring 10% health and mana per second for 10 seconds.
+* [Nathrezim Infiltrators](https://www.wowhead.com/npc=189878/nathrezim-infiltrator) grant one stack of your chosen stat buff when defeated. In addition, you will receive a [30% Health and Mana restore](https://www.wowhead.com/spell=373981/bounty-payment) over five seconds.
+    - [Nathrezim Infiltrators](https://www.wowhead.com/npc=189878/nathrezim-infiltrator) have the following abilities:
+         - [Vampiric Claws](https://www.wowhead.com/spell=373364/vampiric-claws) try to make sure you are not the one tanking the [Infiltrator!](https://www.wowhead.com/npc=189878/nathrezim-infiltrator)
+         - [Carrion Swarm](https://www.wowhead.com/spell=373429/carrion-swarm) try to avoid the frontal cone!
+         - [Nightmare Cloud](https://www.wowhead.com/spell=373370/nightmare-cloud) try to avoid the cloud or you will be sent to [sleep!](https://www.wowhead.com/spell=373391/nightmare) If your group members could not resist the temptation of the clouds, {{ site.data.spell.tremor_totem }} should come in handy!
 
-* [Wo Drifter](https://ptr.wowhead.com/npc=184910/wo-drifter) spawns when [Wo Relic](https://ptr.wowhead.com/npc=185683/wo-relic) is killed first. 
-    * [Wo Relic](https://ptr.wowhead.com/npc=185683/wo-relic) has one ability: [Burst](https://ptr.wowhead.com/spell=366566/burst) which should be interrupted using {{ site.data.spell.wind_shear }}, coordinate with your group to ensure no [Burst](https://ptr.wowhead.com/spell=366566/burst) casts go through! 
-    * When killed your group receives [Decrypted Wo Cypher](https://ptr.wowhead.com/spell=368241/decrypted-wo-cypher) granting 150% increased movement speed, 15% reduced damage taken for 1 minute. In addition, when not in combat players with [Decrypted Wo Cypher](https://ptr.wowhead.com/spell=368241/decrypted-wo-cypher) will gain a stealth effect!
-
-* [Vy Interceptor](https://ptr.wowhead.com/npc=184908/vy-interceptor) spawns when [Vy Relic](https://ptr.wowhead.com/npc=185680/vy-relic) is killed first. 
-    * [Vy Relic](https://ptr.wowhead.com/npc=185680/vy-relic) has two abilities: [Shoot](https://ptr.wowhead.com/spell=366406/shoot) and [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam). 
-    * [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam) is targeted at a player's location, so spreading slightly during the pull **if that will not cause other issues** can help reduce movement required to dodge [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam).
-    * When killed your group receives [Decrypted Vy Cypher](https://ptr.wowhead.com/spell=368240/decrypted-vy-cypher) granting 15% increase Haste and summons an `Orb of Energy` which grants players a chance to deal additional damage or healing on their abilities, depending on role.
-
-* Recommendations:
-    * All three effects have merit and the value of their contribution will vary by your group composition, routing decisions, and key level.
-    * Given the nature of {{ site.data.item.t28_4 }} the increased spell and ability cooldown rate from [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) could have intriguing results when the Tier is active. Most notably for Night Fae using {{ site.data.legendary.night_fae }} using {{ site.data.spell.fae_transfusion }} during [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) as the effects naturally synergise, which will become very important when [Unity](https://www.wowhead.com/spell=364738/unity) is available.
-    * It is generally thought that [Vy Interceptor](https://ptr.wowhead.com/npc=184908/vy-interceptor) is harder to deal with due to [Fusion Beam](https://ptr.wowhead.com/spell=366409/fusion-beam) causing it to teleport away. So of the two effects that directly contribute to damage dealt, [Decrypted Urh Cypher](https://ptr.wowhead.com/spell=368239/decrypted-urh-cypher) and [Decrypted Vy Cypher](https://ptr.wowhead.com/spell=368240/decrypted-vy-cypher), it may be the case that groups kill [Urh Relic](https://ptr.wowhead.com/npc=185685/urh-relic) because it is easier to deal with.
-    * Properly selecting which buff you would *like* to have is one thing, your group killing the 'correct' `Relic` first is another! The state of the buffs being granted means it is highly unlikely for accidental `Relic` kills to be the reason your group does or not does successfully time or complete the key, assuming `+15` or lower. Beyond that level your mileage may vary!
+* One Dreadlord in every dungeon will turn into [Zul'gamux](https://www.wowhead.com/npc=190128/zulgamux) whom grants three stacks of your chosen stat buff when defeated. In addition, you will receive a [100% Health and Mana restore](https://www.wowhead.com/spell=374300/restoration) over 5 seconds.
+     - [Zul'gamux](https://www.wowhead.com/npc=190128/zulgamux) has the following abilities:
+          - [Shadow Claws](https://www.wowhead.com/spell=373509/shadow-claws) this is a magic debuff applied to the main target of the Dreadlord, make sure it isn't you! Your healer can dispel it.
+          - [Blood Barrier](https://www.wowhead.com/spell=373724/blood-barrier) generates a shield which is increased by damage dealt to the players, deal damage to break the shield as early as possible! Interrupts do **not** work whilst the shield is active!
+          - [Shadow Eruption](https://www.wowhead.com/spell=373513/shadow-eruption) is a ground-effect that will deal large damage and apply a 70% healing received reduction at the end of the cast if you are still within its range!
+          - [Hypnosis Bats](https://www.wowhead.com/spell=373552/hypnosis-bat) will spawn periodically and begin channelling a [Hypnosis](https://www.wowhead.com/spell=373570/hypnosis) effect, if the Bats are not killed before this channel is finished then the target will be placed into a [Shadowy Barrier](https://www.wowhead.com/spell=373607/shadowy-barrier) that needs to be damaged to be removed!
 
 # Dungeons
 <p style="color:red">Click on a dungeon banner to expand it.</p>
