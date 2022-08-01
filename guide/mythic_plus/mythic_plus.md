@@ -109,7 +109,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 **Seasonal Affix:**
 
 * [Shrouded](https://www.wowhead.com/guides/shrouded-affix-shadowlands-mythic-plus-season-4-disguised-dreadlords) is the new Seasonal Affix for Season Four of Shadowlands!
-   - Pick between [Critical Strike](https://www.wowhead.com/spell=373108/bounty-critical-strike), [Haste](https://www.wowhead.com/spell=373113/bounty-haste), [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility), or [Mastery](https://www.wowhead.com/spell=373116/bounty-mastery) at the beginning of each dungeon, gaining one stack of the appropriate buff. This choice applies to all party members for the run so hopefully everyone can agree! Note: If no choice is made the default buff is [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility).
+   - Pick between [Critical Strike](https://www.wowhead.com/spell=373108/bounty-critical-strike), [Haste](https://www.wowhead.com/spell=373113/bounty-haste), [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility), or [Mastery](https://www.wowhead.com/spell=373116/bounty-mastery) by talking to an NPC at the beginning of each dungeon, gaining one stack of the appropriate buff. Note: If no choice is made the default buff is [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility).
    - Stacks are gained by finding and defeating Dreadlords!
         - Certain enemies will show the [Disguised](https://www.wowhead.com/spell=373011/disguised) buff, meaning they are a Dreadlord! The locations of [Disguised](https://www.wowhead.com/spell=373011/disguised) enemies is consistent from run-to-run.
 
