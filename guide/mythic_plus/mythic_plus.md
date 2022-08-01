@@ -133,18 +133,18 @@ Don't forget to check out Additional Resources at the bottom of this page!
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
-        <div class="card-header" id="dos">
-            <div data-toggle="collapse" data-target="#dos-collapse" aria-expanded="true" aria-controls="dos-collapse" class="dungeon-header dos"><h2>De Other Side</h2></div>
+        <div class="card-header" id="sow">
+            <div data-toggle="collapse" data-target="#sow-collapse" aria-expanded="true" aria-controls="sow-collapse" class="dungeon-header sow"><h2>Tazavesh: Streets of Wonder</h2></div>
         </div>
-        <div id="dos-collapse" class="collapse" aria-labelledby="dos" data-parent="#accordion">
+        <div id="sow-collapse" class="collapse" aria-labelledby="sow" data-parent="#accordion">
           <div class="card-body" markdown="1">  
 
-**Enraged Spirit**
+**[Customs Security](https://www.wowhead.com/npc=177807/customs-security)**
 
-* {{ site.data.mythic_plus.rage }} is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
-* {{ site.data.mythic_plus.enraged_mask }} can be despawned with crowd control, so utilize {{ site.data.spell.capacitor_totem }} when they appear.
+* Make sure to dodge [Disruption Grenades](https://www.wowhead.com/spell=355900/disruption-grenade) swirlies.
+* Use {{ site.data.spell.purge }} to remove [Hard Light Baton](https://www.wowhead.com/spell=355888/hard-light-baton) from [Customs Security](https://www.wowhead.com/npc=177807/customs-security)
 
-**Risen Cultist**
+**[Armored Overseers](https://www.wowhead.com/npc=177808/armored-overseer)**
 
 * Rotate interrupts between {{ site.data.mythic_plus.scribe }} and {{ site.data.mythic_plus.dark_lotus }}.
 
