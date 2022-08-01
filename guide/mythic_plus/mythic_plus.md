@@ -146,32 +146,16 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 **[Armored Overseers](https://www.wowhead.com/npc=177808/armored-overseer)**
 
-* Rotate interrupts between {{ site.data.mythic_plus.scribe }} and {{ site.data.mythic_plus.dark_lotus }}.
+* Make sure to dodge [Beam Splicers](https://www.wowhead.com/spell=356001/beam-splicer)
 
-**Death Speaker**
+**[Interrogation Specialist](https://www.wowhead.com/npc=177816/interrogation-specialist)**
 
-* Rotate interrupts between {{ site.data.mythic_plus.deaths_embrace }} and {{ site.data.mythic_plus.shadowcore }}. If a {{ site.data.mythic_plus.deaths_embrace }} cast goes off, {{ site.data.spell.purge }} it.
+* Use {{ site.data.spell.wind_shear }} to interrupt [Statis Beam](https://www.wowhead.com/spell=356031/stasis-beam)
 
-**Atal'ai Devoted**
+## [Zo'Phex the Sentinel](https://www.wowhead.com/npc=175616/zophex)
 
-* Consider these mobs the priority target in any pack they're in, killing them before {{ site.data.mythic_plus.devoted_sacrifice }} goes off. Use {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.thunderstorm }}, or {{ site.data.spell.hex }} to briefly stop their cast.
-
-**Atal'ai High Priest**
-
-* Rotate interrupts between {{ site.data.mythic_plus.heal }} and {{ site.data.mythic_plus.smite }}.
-
-**Atal'ai Hoodoo Hexxer**
-
-* Rotate interrupts between {{ site.data.mythic_plus.healing_wave }}, {{ site.data.mythic_plus.hex }}, and {{ site.data.mythic_plus.lightning_discharge }}.
-
-**Atal'ai Deathwalker**
-
-* Use {{ site.data.spell.capacitor_totem }} to hard cancel their {{ site.data.mythic_plus.bladestorm }}. When these mobs die, they turn into an Atal'ai Deathwalker's Spirit with {{ site.data.mythic_plus.spectral }}, which you can {{ site.data.spell.purge }} to instantly kill them.
-
-## Hakkar the Soulflayer
-
-* {{ site.data.spell.astral_shift }} has many uses cases here: for {{ site.data.mythic_plus.blood_nova }} if the Son of Hakkar adds are out of control, for {{ site.data.mythic_plus.corrupted_blood }}, or for {{ site.data.mythic_plus.blood_barrier }} to minimize the value of the absorb.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.blood_barrage }}.
+* Dodge the swirlies from [Armed Security](https://www.wowhead.com/spell=346204/armed-security)
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to adjust to [Rotary Body Armor](https://www.wowhead.com/spell=347992/rotary-body-armor).
 
 ---
 
