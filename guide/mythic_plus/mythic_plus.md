@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 2022-01-08
-game_version: 9.2 Shadowlands
+last_update: 2022-02-08
+game_version: 9.2.5 Shadowlands
 authors: Altenna, Eokira
 toc: false
 ---
@@ -152,78 +152,98 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 * Use {{ site.data.spell.wind_shear }} to interrupt [Statis Beam](https://www.wowhead.com/spell=356031/stasis-beam)
 
+**[Support Officer](https://www.wowhead.com/npc=177817/support-officer)**
+  
+* Either use {{ site.data.spell.wind_shear }} to interrupt the cast of [Hard Light Barrier](https://www.wowhead.com/spell=355934/hard-light-barrier) or use {{ site.data.spell.purge }} to remove it!
+
 ## [Zo'Phex the Sentinel](https://www.wowhead.com/npc=175616/zophex)
 
 * Dodge the swirlies from [Armed Security](https://www.wowhead.com/spell=346204/armed-security)
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to adjust to [Rotary Body Armor](https://www.wowhead.com/spell=347992/rotary-body-armor).
-
+* Move away from [Zo'Phex](https://www.wowhead.com/npc=175616/zophex) if [Interrogation](https://www.wowhead.com/spell=348350/interrogation) is cast on you. If [Interrogation](https://www.wowhead.com/spell=348350/interrogation) is cast on a party member, make sure you are not stood between them and [Zo'Phex](https://www.wowhead.com/npc=175616/zophex), DPS the cage to break them out!
+* [Impound Contraband](https://www.wowhead.com/spell=345770/impound-contraband) causes your weapon to drop to the floor, run over the weapon to pick it up again!
+             
 ---
 
-**Defunct Dental Drill**
+**[Ancient Core Hound](https://www.wowhead.com/npc=180091/ancient-core-hound#drops;mode:heroic)**
 
-* {{ site.data.mythic_plus.haywire }} is dangerous when Fortified, but a common tactic is to just line-of-sight this.
+* If [Ancient Dread](https://www.wowhead.com/spell=356407/ancient-dread) cast is allowed to finish, use {{ site.data.spell.cleanse_spirit }} to dispel your group!
+* Both [Ancient Dread](https://www.wowhead.com/spell=356407/ancient-dread) and [Lava Breath](https://www.wowhead.com/spell=356404/lava-breath) are interruptible with {{ site.data.spell.wind_shear }}.
 
-**Headless Client**
+**[Market Peacekeeper](https://www.wowhead.com/npc=179840/market-peacekeeper)**
 
-* Interrupt {{ site.data.mythic_plus.discharge }}.
-* Hard cancel their {{ site.data.mythic_plus.spinning_up }} with {{ site.data.spell.capacitor_totem }}.
-* If no stuns are available, use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.thunderstorm }} as needed to keep these mobs away from your party. If these mobs are still too close for comfort, {{ site.data.mythic_plus.additional_threads }} can be {{ site.data.spell.purge }}d.
+* Use {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }} to stop [Phalanx Field](https://www.wowhead.com/spell=355640/phalanx-field).
+* Stay within 10 yards of [Market Peacekeeper](https://www.wowhead.com/npc=179840/market-peacekeeper) or they can cast [Quelling Strike](https://www.wowhead.com/spell=355637/quelling-strike) on you, if this happens whilst casting you will be locked out for four seconds.
 
-**Volatile Memory**
+**[Veteran Sparkcaster](https://www.wowhead.com/npc=179841/veteran-sparkcaster#abilities;mode:heroic)**
 
-* These mobs will self-destruct on their own with {{ site.data.mythic_plus.volatile_capacitor }}. Use {{ site.data.spell.earthbind_totem }} as needed to keep them away from your party.
+* These mobs have two damaging spells:
+   - [Hyperlight Salvo](https://www.wowhead.com/spell=355642/hyperlight-salvo) is the most important to prevent, make sure to coordinate with your group to prevent these!
+   - [Scintillate](https://www.wowhead.com/spell=355641/scintillate) deals damage and leaves an increased arcane damage taken debuff so multiple casts going through should be prevented!
+   
+## The Grand Menagerie
 
-**Lubricator**
-
-* Rotate interrupts between {{ site.data.mythic_plus.lubricate }} and {{ site.data.mythic_plus.self_cleaning_cycle }}.
-
-**Sentient Oil**
-
-* Interrupt {{ site.data.mythic_plus.essential_oil }}.
-
-## The Manastorms
-
-When Millhouse is active:
-
-* Interrupt {{ site.data.mythic_plus.frostbolt }}.
-* Use {{ site.data.spell.astral_shift }} as needed when soaking {{ site.data.mythic_plus.power_overwhelming }} or for {{ site.data.mythic_plus.diabolical_dooooooom }}
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position {{ site.data.mythic_plus.echo_finger_laser_x_treme }}.
-
-When Millificent is active:
-
-* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.aerial_rocket_chicken_barrage }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to disarm {{ site.data.mythic_plus.experimental_squirrel_bomb }}s or position {{ site.data.mythic_plus.shadowfury }} on the boss. {{ site.data.mythic_plus.experimental_squirrel_bomb }} can be disarmed while in motion.
-
+* When afflicted with [Gluttony](https://www.wowhead.com/spell=349627/gluttony) you can soak the [Volatile Anima](https://www.wowhead.com/spell=349989/volatile-anima) created by [Venting Protocol](https://www.wowhead.com/spell=349987/venting-protocol), try not to stand next to your party members as [Gluttony](https://www.wowhead.com/spell=349627/gluttony) also causes you to pulse AoE damage around you in a small circle.
+* [Flagellation Protocol](https://www.wowhead.com/spell=349933/flagellation-protocol) is easily stopped by using {{ site.data.spell.purge }} to remove the shield and {{ site.data.spell.wind_shear }} to instantly interrupt the cast!
+* [Whirling Annihilation](https://www.wowhead.com/spell=350086/whirling-annihilation) run away from [Venza](https://www.wowhead.com/npc=176705/venza-goldfuse)
+* When afflicted by [Chains of Damnation](https://www.wowhead.com/spell=350101/chains-of-damnation) it must be either killed or removed by effects like [Hand of Freedom](https://www.wowhead.com/spell=66115/hand-of-freedom) or [Tiger's Lust](https://www.wowhead.com/spell=116841/tigers-lust).
+      
 ---
 
-**Weald Shimmermoth**
+## Myza's Oasis
 
-* Party members should be jumping to remove {{ site.data.mythic_plus.soporific_shimmerdust }}. If your party members aren't jumping, this can be dispelled with {{ site.data.spell.cleanse_spirit }}. If your party members do end up falling asleep from this debuff, {{ site.data.spell.tremor_totem }} can also be used to dispel it.
+**[Brawling Patrons](https://www.wowhead.com/npc=180159/brawling-patron)**
+   - Aim to kill these before they reach 100 rage to avoid [Rowdy](https://www.wowhead.com/spell=353706/rowdy)
 
-**Spriggan Barkbinder**
+**[Disruptive Patrons](https://www.wowhead.com/npc=176565/disruptive-patron)**
+   - Aim to kill these before they reach 100 rage to avoid [Rowdy](https://www.wowhead.com/spell=353706/rowdy)
+   - Use {{ site.data.spell.wind_shear }} to interrupt [Teleport](https://www.wowhead.com/spell=353783/teleport), [Hyperlight Bolt](https://www.wowhead.com/spell=353836/hyperlight-bolt), and [Suppression](https://www.wowhead.com/spell=353835/suppression)
+             
+**[Oasis Security](https://www.wowhead.com/npc=179269/oasis-security)**
+   - Aim to kill these before they reach 100 rage to avoid [Rowdy](https://www.wowhead.com/spell=353706/rowdy)
+   - Use {{ site.data.spell.wind_shear }} to interrupt [Menacing Shout](https://www.wowhead.com/spell=350922/menacing-shout)
 
-* Interrupt {{ site.data.mythic_plus.bark_armor }}. If this cast goes off, {{ site.data.spell.purge }} it.
+* Make sure to avoid the green swirly from [Rotten Food](https://www.wowhead.com/spell=356482/rotten-food), it hurts!
+             
+**[Zo'gron](https://www.wowhead.com/npc=176564/zogron)**
+   - Run away from [Suppression Spark](https://www.wowhead.com/spell=355438/suppression-spark) when cast. {{ site.data.spell.ghost_wolf }} or the Extra Action Button from your instrument can be useful!
+   - Use {{ site.data.spell.wind_shear }} to interrupt [Menacing Shout](https://www.wowhead.com/spell=350922/menacing-shout)
+   - Avoid standing in-front of [Zo'gron](https://www.wowhead.com/npc=176564/zogron) when they are casting [Crowd Control](https://www.wowhead.com/spell=350919/crowd-control) as it deflects damage and the end of the cast is a frontal attack!
+           
+---
+            
+**[Overloaded Mailemental](https://www.wowhead.com/npc=176395/overloaded-mailemental)**
 
-**Mythresh, Sky's Talons**
+* Interrupt or dispel [Spam Filter](https://www.wowhead.com/spell=347775/spam-filter)
+* When [Overloaded Mailementals](https://www.wowhead.com/npc=176395/overloaded-mailemental) die they leave behind a purple zone of Haste you can stand in!
+             
+**[Defective Sorter](https://www.wowhead.com/npc=176396/defective-sorter)**
+ 
+* Prevent these enemies from casting [Open Cage](https://www.wowhead.com/spell=347721/open-cage) by using {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
+             
+## [P.O.S.T. Master](https://www.wowhead.com/npc=175646/p-o-s-t-master)
 
-* Cast {{ site.data.spell.tremor_totem }} for {{ site.data.mythic_plus.wailing_grief }} to quickly dispel any players caught by the Fear.
-
-**Bladebeak Hatchling**
-
-* {{ site.data.mythic_plus.frightened_cries }} will aggro nearby Bladebeak Matriarchs and Territorial Bladebeaks which may cause your pull to go out of hand. Use {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }} to hard cancel this ability.
-
-## Dealer Xy'exa
-
-* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.arcane_lightning }} or {{ site.data.mythic_plus.localized_explosive_contrivance }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} when launched to the air from {{ site.data.mythic_plus.displacement_trap }} or as needed to transfer {{ site.data.mythic_plus.arcane_lightning }} to another party member.
-
+* [Unstable Goods[(https://www.wowhead.com/spell=346947/unstable-goods)
+   - Pick up the Unstable Goods and throw them into an active Delivery Chute (Denoted by the wind animation!). {{ site.data.spell.ghost_wolf }} can make this easier.
+             
+* Use {{ site.data.spell.astral_shift }} as needed when [Fan Mail](https://www.wowhead.com/spell=346742/fan-mail) or [Money Order](https://www.wowhead.com/spell=346962/money-order) are cast.
+             
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position for soaking [Hazardous Liquids](https://www.wowhead.com/spell=346286/hazardous-liquids) or [Money Order](https://www.wowhead.com/spell=346962/money-order).
+            
 ---
 
-## Mueh'zala
+**[Commander Zo'far](https://www.wowhead.com/npc=179821/commander-zofar)**
 
-* Hold your cooldowns for the Shattered Visage add from {{ site.data.mythic_plus.shatter_reality }}.
-* The DoT from {{ site.data.mythic_plus.cosmic_artifice }} will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid Master of Death.
+* Ranged and healer party members should try to split on either side of the low walls present where [Commander Zo'far](https://www.wowhead.com/npc=179821/commander-zofar) is positioned. This will make keeping distance between the two people afflicted with [Lethal Force](https://www.wowhead.com/spell=355479/lethal-force) easier. If you do this without the wall, do not forget to use {{ site.data.spell.spiritwalkers_grace }}. If you fail to avoid it, the damage is high enough to warrant using {{ site.data.spell.astral_shift }}.
+* Dodge [Shock Mines](https://www.wowhead.com/spell=355476/shock-mines) that are placed around you.
+
+## [So'azmi](https://www.wowhead.com/npc=175806/soazmi)
+
+* Surviving is more important than dealing damage, if you are going to struggle moving to the correct [Relocator](https://www.wowhead.com/spell=347392/deploy-relocators) then do not hesitate to use {{ site.data.spell.ghost_wolf }} or {{ site.data.spell.soulshape }} to successfully avoid [Shuri](https://www.wowhead.com/spell=347610/shuri).
+             
+* Two interrupts are required to deal with [Double Technique](https://www.wowhead.com/spell=357188/double-technique), the first can be done near instantly, the second should wait until close to the end of the cast to buy time to dps.
+     
+* Staying loosely spread can help reduce the group damage taken from [Quickblade](https://www.wowhead.com/spell=347623/quickblade), but be aware of remaining in the same section as your group when [Divide](https://www.wowhead.com/spell=347414/divide) is being cast.
 
 </div>
 </div>
