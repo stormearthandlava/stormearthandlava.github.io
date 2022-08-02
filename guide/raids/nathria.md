@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Castle Nathria Guide"
-last_update: 2022-06-31
+last_update: 2022-08-02
 game_version: 9.2.5 Shadowlands
 authors: Altenna, Eokira
 toc: false
@@ -145,9 +145,9 @@ If you have suggestions to improve the information in this guide please contact 
 - Night Fae with Korayn for {{ site.data.soulbinds.first_strike }} for overall value.
 - Necrolord with Plague-Deviser Marileth for {{ site.data.soulbinds.preemptive_strike }} for value on [Rockbound Vanquishers](https://www.wowhead.com/npc=165764/rockbound-vanquisher)
 
-**Potential Legendaries:**
-- {{ site.data.legendary.eogs }} best paired with Night Fae
-- {{ site.data.legendary.wlr }}
+**Recommended Legendaries:**
+- {{ site.data.legendary.eogs }} best paired with Night Fae for overall value.
+- {{ site.data.legendary.wlr }} used with either Night Fae or Necrolord to focus on the single target portions of the fight like [Cloak of Flames](https://www.wowhead.com/spell=343026/cloak-of-flames) on Mythic difficulty.
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
