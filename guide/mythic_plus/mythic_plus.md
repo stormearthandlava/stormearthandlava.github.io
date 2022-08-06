@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 2022-02-08
+last_update: 06/08/2022
 game_version: 9.2.5 Shadowlands
 authors: Altenna, Eokira
 toc: false
@@ -49,7 +49,11 @@ This opens up some opportunities for M+ in conjuction with the {{ site.data.item
 The default suggestion when you have both [Unity](https://www.wowhead.com/spell=364738/unity) and [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) will be to use:
 * Night Fae with {{ site.data.legendary.eogs }} and {{ site.data.talent.se }}
 
-This serves as a solid baseline without relying too much on how your dungeons are routed. The performance will vary between the setups on a variety of factors so it is **very** valuable to experiment! 
+This serves as a solid baseline without relying too much on how your dungeons are routed. The performance will vary between the setups on a variety of factors so it is **very** valuable to experiment!
+
+* Necrolord with {{ site.data.legendary.eogs }} and {{ site.data.talent.se }} **or** {{ site.data.legendary.dre }} with *either* {{ site.data.talent.mote }} (easier to play) or {{ site.data.talent.se }} (which remains better at AoE'ing). 
+
+With most of the dungeon pool consisting of low-target pulls in the early stages of the season (expect this to change a bit as people become more knowledgeable about how to handle specific mobs and strategies are formed allowing larger pulls in some dungeons/areas of dungeons), using {{ site.data.legendary.dre }} has become more attractive. It is important to note that {{ site.data.legendary.dre }} builds continue to use {{ site.data.talent.sk }} in dungeons, although you may consider swapping your third potency conduit slot to {{ site.data.conduit.shake_the_foundations }} as it performs at full power in aoe when not using {{ site.data.legendary.eogs }}.
 
 The recommended Covenant choices for M+ content are Night Fae and Necrolord:
 
@@ -58,9 +62,10 @@ The recommended Covenant choices for M+ content are Night Fae and Necrolord:
       * Korayn for {{ site.data.soulbinds.first_strike }}. This provides a large amount of value across an entire dungeon.
       * Dreamweaver for {{ site.data.soulbinds.field_of_blossom }}. This provides additional power directly after using {{ site.data.spell.fae_transfusion }} and has synergy with {{ site.data.legendary.night_fae }} allowing for more frequent burst windows applicable to both AoE and Single Target.
 
-* Necrolord remains competitive and lends itself to a niche when dungeons and/or their routes involve smaller pulls and/or council style bosses, in these scenarios it can help to use {{ site.data.legendary.dre }} to fit this need as appropriate but it is unlikely to be the best option all the time!
+* Necrolord remains competitive and lends itself to the {{ site.data.legendary.dre }} setup well.
    - Your Soulbind choices for Necrolord are:
-      * Plague-Deviser Marileth for increased benefits surrounding {{ site.data.spell.fleshcraft }}, the strength of {{ site.data.soulbinds.preemptive_strike }} should not go unnoticed.
+      * Plague-Deviser Marileth for increased benefits surrounding {{ site.data.spell.fleshcraft }}, the strength of {{ site.data.soulbinds.preemptive_strike }} should not go unnoticed although when using {{ site.data.legendary.dre }} it would be traded for {{ site.data.conduit.shake_the_foundations }}.
+      * Bonesmith Heirmir for passive Intellect buff {{ site.data.soulbinds.forgeborn_reveries }} and {{ site.data.soulbinds.marrowed_gemstone }}.
 
 To assist those experimenting with other Covenant options:
 * Kyrian
