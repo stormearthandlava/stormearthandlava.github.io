@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Sanctum of Domination Guide"
-last_update: 2021-06-23 00:00:00
-game_version: 9.1.0 Shadowlands
-author: Altenna
+last_update: 07/08/2022 00:00:00
+game_version: 9.2.5 Shadowlands
+author: Altenna, Eokira
 toc: false
 ---
 
@@ -19,16 +19,16 @@ This guide was made possible by:
 - Kaldeak (Discord: Kaldeak#1394)
 - Sheffy (Discord: Sheffy#4928 \| [Twitch](https://www.twitch.tv/sheffywow) \| [Twitter](https://twitter.com/SheffyWoW))
 
-The tips and recommendations listed here are based on educated opinions from PTR raid testing and reviewing logs and videos, so strategies can change as we develop a better understanding of each fight or as the spec and bosses are tuned. If you have any disagreements, feedback, or questions, please feel welcome to reach out to the team.
+This guide has been updated to reflect [Season Four](https://stormearthandlava.com/guide/raids/season_4.html). This includes assuming you have an active {{ site.data.item.t28_4 }} bonus, for the bosses where it is most relevant we will include notes for those who do **not** have this bonus active.
+
+If you have suggestions to improve the information in this guide please contact Eokira#7823 using the [Earthshrine Elemental channel](https://discord.gg/pGkPDzh7rP) or the [Storm, Earth & Lava discord](https://discord.gg/y5dUf3PWrU).
 
 # Miscellaneous Tips
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
 - Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
 
-- When talenting {{ site.data.talent.pe }}, always remember that you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.spell.earth_elemental }}.
-
-- Recall that [Stampeding Roar](https://www.wowhead.com/spell=106898/stampeding-roar) is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
+- Any Single Target orientated fights where you choose to use {{ site.data.legendary.wlr }} please note that using {{ site.data.spell.eq }} on 2 or more targets is **still a net damage gain** despite ignoring your Legendary's effect. So if adds are present for short periods of time and you are not fully committed to single target then using {{ site.data.spell.eq }} for those short periods is preferred. 
 
 - Additional Resources:
 	- [Elemental Shaman Sanctum of Domination Logs (WacraftLogs)](https://www.warcraftlogs.com/zone/reports?zone=28&boss=0&difficulty=0&class=Shaman&spec=Elemental&kills=0&keystone0&duration=0&server=0)
@@ -52,13 +52,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
+		  
+**Recommended Covenants**
+
+* Necrolord with Plague-Deviser Marileth
+* Night Fae with Dreamweaver or Niya
 
 **Recommended Legendaries:**
 
@@ -70,17 +75,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* [Grasp of Death](https://shadowlands.wowhead.com/spell=347668/grasp-of-death) is a 40s DoT and is the highest source of non-tank damage. Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables as needed for each application of [Grasp of Death](https://shadowlands.wowhead.com/spell=347668/grasp-of-death). {{ site.data.spell.healing_surge }} yourself if absolutely necessary.
+* [Grasp of Death](https://shadowlands.wowhead.com/spell=347668/grasp-of-death) is a 40s DoT and is the highest source of non-tank damage. Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for each application of [Grasp of Death](https://shadowlands.wowhead.com/spell=347668/grasp-of-death). {{ site.data.spell.healing_surge }} yourself if absolutely necessary.
 
 **Utilities:**
 
 * After [Predator's Howl](https://shadowlands.wowhead.com/spell=347283/predators-howl) is cast, be prepared to use {{ site.data.spell.tremor_totem }} to dispel any players with [Unshakeable Dread](https://shadowlands.wowhead.com/spell=347286/unshakeable-dread). {{ site.data.spell.tremor_totem }} is available for every other [Predator's Howl](https://shadowlands.wowhead.com/spell=347283/predators-howl) cast.
 * If talented, {{ site.data.talent.wind_rush_totem }} is best used during [Hungering Mist](https://shadowlands.wowhead.com/spell=347671/hungering-mist) and is available for every other [Hungering Mist](https://shadowlands.wowhead.com/spell=347671/hungering-mist) phase. {{ site.data.talent.wind_rush_totem }} can also be used to help players kite during Tarragrue's last 10%.
-
-**PTR PoVs:**
-
-* Altenna: [Heroic](https://www.twitch.tv/videos/990503989?collection=RUogCxyPdhbY3A&t=1h18m55s) \| [Mythic](https://www.twitch.tv/videos/1022808866?collection=RUogCxyPdhbY3A&t=1h13m59s)
-* Amani: [Mythic](https://youtu.be/3yvH6l9zSdg)
 
 </div>
 </div>
@@ -97,18 +97,24 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
+	
+**Recommended Covenants**
+	
+* Necrolord with Plague-Deviser Marileth
+* Night Fae with Dreamweaver or Niya (Note: this is mainly if some players struggle dealing with the style of movement on the fight where {{ site.data.spell.soulshape }} can be useful to them).
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.windspeaker }}
-* {{ site.data.legendary.eogs }}
+* {{ site.data.legendary.windspeaker }} - You're typically only dealing damage to one target at a time during the fight.
+* {{ site.data.legendary.dre }} - You can use {{ site.data.spell.fs }} on the Boss to funnel into the eyes and adds and vice versa which suits priority damage well.
+* {{ site.data.legendary.eogs }} - It is possible to deal damage to the Stygian Abductor and the Boss at the same time, this option becomes more viable if [Chaotic Essence](https://www.wowhead.com/spell=372642/fated-power-chaotic-essence) is present.
 
 **Damage:**
 
@@ -118,8 +124,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} and [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented) as needed for increasingly high stacks of [Ire](https://shadowlands.wowhead.com/spell=355245/ire) / [Scorn](https://shadowlands.wowhead.com/spell=355240/scorn) and [Titanic Death Gaze](https://shadowlands.wowhead.com/spell=349028/titanic-death-gaze).
-* As you accumulate more stacks of [Immediate Extermination](https://shadowlands.wowhead.com/spell=348969/immediate-extermination), rotate {{ site.data.spell.astral_shift }} and [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented) as available to mitigate as much damage as you can.
+* Use {{ site.data.spell.astral_shift }} as needed for increasingly high stacks of [Ire](https://shadowlands.wowhead.com/spell=355245/ire) / [Scorn](https://shadowlands.wowhead.com/spell=355240/scorn) and [Titanic Death Gaze](https://shadowlands.wowhead.com/spell=349028/titanic-death-gaze).
+* As you accumulate more stacks of [Immediate Extermination](https://shadowlands.wowhead.com/spell=348969/immediate-extermination), rotate {{ site.data.spell.astral_shift }} as available to mitigate as much damage as you can.
 
 **Utilities:**
 
@@ -128,11 +134,6 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Notes:**
 
 * If you are talented into {{ site.data.talent.primal_elementalist }}, you may have some trouble casting {{ site.data.spell.fire_elemental }}'s {{ site.data.spell.meteor }} on Eye of the Jailer, so target a friendly melee player with {{ site.data.spell.meteor }} instead.
-
-**PTR PoVs:**
-
-* Altenna: [Heroic](https://www.twitch.tv/videos/1013773164?collection=RUogCxyPdhbY3A&t=1h16m47s) \| [Mythic](https://www.twitch.tv/videos/1022808866?collection=RUogCxyPdhbY3A&t=0h28m17s)
-* Amani: [Heroic](https://youtu.be/2mropcUZSwE) \| [Mythic](https://youtu.be/gJEhYo8gwbc)
 
 </div>
 </div>
@@ -149,18 +150,22 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{ site.data.talent.elemental_blast }}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
+* **25:** {{ site.data.talent.afs }} or {{ site.data.talent.eb }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **45:** {{ site.data.talent.primal_elementalist }}
+* **50:** {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
+	
+**Recommended Covenants**
+	
+* Necrolord with Plague-Deviser Marileth. (Note: as the suggestion is to use {{ site.data.legendary.dre }} you can consider swapping {{ site.data.soulbinds.preemptive_strike }} for {{ site.data.conduit.shake_the_foundations }}).
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }}
-* {{ site.data.legendary.windspeaker }}
+* {{ site.data.legendary.dre }} - Given the structure of the fight this legendary should replace {{ site.data.legendary.eogs }} as the Phase 1 choice for maximising damage, in addition to {{ site.data.legendary.dre }} being better *on average* than {{ site.data.legendary.eogs }} at the single target portion in Phase 2.
+* {{ site.data.legendary.windspeaker }} - Provides little value in Phase 1 as when two or more targets are present you still cast {{ site.data.spell.eq }}, remains the best legendary choice specifically for Phase 2 however.
 
 **Damage:**
 
@@ -169,7 +174,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables for [Fragments of Destiny](https://shadowlands.wowhead.com/spell=352744/fragments-of-destiny).
+* Rotate {{ site.data.spell.astral_shift }} and healing consumables for [Fragments of Destiny](https://shadowlands.wowhead.com/spell=352744/fragments-of-destiny).
 
 **Utilities:**
 
@@ -177,11 +182,6 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.spell.thunderstorm }} as needed to knock back the [Formless Mass](https://shadowlands.wowhead.com/npc=177407/formless-mass) into melee to cleave down. Use {{ site.data.spell.capacitor_totem }} as needed to stun it.
 * Use {{ site.data.spell.tremor_totem }} as needed to dispel anyone feared by [Reverberating Refrain](https://shadowlands.wowhead.com/spell=350385/reverberating-refrain).
 * If talented, use {{ site.data.talent.wind_rush_totem }} to help your raid navigate any of the [Call of the Val'kyr](https://shadowlands.wowhead.com/spell=350467/call-of-the-valkyr) abilities.
-
-**PTR PoVs:**
-
-* Altenna: [Heroic](https://www.twitch.tv/videos/1021632530?collection=RUogCxyPdhbY3A&t=1h6m16s) \| [Mythic](https://www.twitch.tv/videos/1029545873?collection=RUogCxyPdhbY3A&t=1h8m56s)
-* Amani: [Heroic](https://youtu.be/TxJjbI9F0pM) \| [Mythic](https://youtu.be/iJINOsIoIyM)
 
 </div>
 </div>
@@ -198,18 +198,22 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{ site.data.talent.elemental_blast }}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
+* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }}
-* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **45:** {{ site.data.talent.primal_elementalist }}
+* **50:** {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
+	
+**Recommended Covenants**
+
+* Necrolord with Plague-Deviser Marileth (Note: structure of the fight prefers funnelling into the boss from the orbs when they are shielded, and nuking the orbs when they are not shielded so {{ site.data.conduit.shake_the_foundations }} might not suit this style of play as relatively few {{ site.data.spell.eq }}s will be cast.
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.windspeaker }}
-* {{ site.data.legendary.skybreaker }} (with {{ site.data.talent.primal_elementalist }})
+* {{ site.data.legendary.dre }} - Attempts to take advantage of the multiple orbs that spawn throughout the encounter, this is used to fuel Funnel damage into the boss for the most part.
+* {{ site.data.legendary.ws }} - Reliable Single Target damage that increases available movement globals on a fight where movement is not negligible.
 
 **Damage:**
 
@@ -218,16 +222,11 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables for [Torment](https://shadowlands.wowhead.com/spell=350073/torment), especially if [Torment](https://shadowlands.wowhead.com/spell=350073/torment) overlaps with [Malevolence](https://shadowlands.wowhead.com/spell=350469/malevolence) dispels or if you accumulate multiple [Torment](https://shadowlands.wowhead.com/spell=350073/torment) stacks.
+* Rotate {{ site.data.spell.astral_shift }} and healing consumables for [Torment](https://shadowlands.wowhead.com/spell=350073/torment), especially if [Torment](https://shadowlands.wowhead.com/spell=350073/torment) overlaps with [Malevolence](https://shadowlands.wowhead.com/spell=350469/malevolence) dispels or if you accumulate multiple [Torment](https://shadowlands.wowhead.com/spell=350073/torment) stacks.
 
 **Utilities:**
 
 * Pick up [Orbs of Torment](https://shadowlands.wowhead.com/npc=177117/orb-of-torment) in {{ site.data.spell.ghost_wolf }} form to not be hindered by [Sorrowful Procession](https://shadowlands.wowhead.com/spell=350388/sorrowful-procession).
-
-**PTR PoVs:**
-
-* Altenna: [Heroic](https://www.twitch.tv/videos/1014847069?collection=RUogCxyPdhbY3A&t=1h9m11s) \| [Mythic](https://www.twitch.tv/videos/1030675393?collection=RUogCxyPdhbY3A&t=1h1m48s)
-* Amani: [Heroic](https://youtu.be/t9C6f_flF6E) \| [Mythic](https://youtu.be/C58xQOqY8EM)
 
 </div>
 </div>
@@ -244,18 +243,25 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{ site.data.talent.elemental_blast }}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
+* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
+	
+**Recommended Covenants**
+	
+* Night Fae with Korayn for {{ site.data.soulbinds.first_strike }}. (Note: for Mythic difficulty managing the adds is very important, if you find yourself needing to do AoE damage on this fight Night Fae with {{ site.data.legendary.eogs }} remains the best option).
+* Necrolord with Plague-Deviser Marileth. (Note: if you want to play the fight as {{ site.data.legendary.dre }} then this remains the best Covenant option to support it, you should swap {{ site.data.soulbinds.preemptive_strike }} for {{ site.data.conduit.shake_the_foundations }} here).
+* If you intend to play {{ site.data.legendary.ws }} then either of the above choices will produce similar results, with Necrolord relying less on being able to stand still during burst windows to achieve maximum potential.
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }} (Mythic)
-* {{ site.data.legendary.windspeaker }} (Heroic)
+* {{ site.data.legendary.eogs }}
+* {{ site.data.legendary.windspeaker }}
+* {{ site.data.legendary.dre }}
 
 **Damage:**
 
@@ -264,18 +270,13 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables for every phase of [Unleashed Tyranny](https://shadowlands.wowhead.com/spell=350801/unleashed-tyranny).
+* Rotate {{ site.data.spell.astral_shift }} and healing consumables for every phase of [Unleashed Tyranny](https://shadowlands.wowhead.com/spell=350801/unleashed-tyranny).
 
 **Utilities:**
 
 * Use {{ site.data.spell.thunderstorm }} as needed to help group together the [Mawsworn Agonizers](https://shadowlands.wowhead.com/npc=177594/mawsworn-agonizer). On Mythic difficulty, you may opt to {{ site.data.spell.thunderstorm }} to knock away [Mawsworn Agonizers](https://shadowlands.wowhead.com/npc=177594/mawsworn-agonizer) or {{ site.data.spell.hex }} to control them, depending on vicinity to [Mawsworn Overlord](https://shadowlands.wowhead.com/npc=179177/mawsworn-overlord).
 * Use {{ site.data.spell.capacitor_totem }} to stun [Mawsworn Agonizers](https://shadowlands.wowhead.com/npc=177594/mawsworn-agonizer) as needed.
 * If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help your raid move to a safe position from [Torment](https://shadowlands.wowhead.com/spell=350217/torment) and [Tormented Eruptions](https://shadowlands.wowhead.com/spell=349985/tormented-eruptions).
-
-**PTR PoVs:**
-
-* Altenna: [Heroic](https://www.twitch.tv/videos/1014847069?collection=RUogCxyPdhbY3A&t=2h9m58s) \| [Mythic](https://www.twitch.tv/videos/1029545873?collection=RUogCxyPdhbY3A&t=0h8m0s)
-* Amani: [Heroic](https://youtu.be/cXLIGL-n67s) \| [Mythic](https://youtu.be/duMcJ9Fhtjs)
 
 </div>
 </div>
@@ -292,13 +293,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
+	
+**Recommended Covenants**
+	
+* Necrolord with Plague-Deviser Marileth. (Note: The additional defensive from {{ site.data.spell.fleshcraft }} can be very valuable on higher difficulties).
+* Night Fae with Dreamweaver or Niya. (Note: Some players may find {{ site.data.spell.soulshape }} helps greatly when dealing with [Shadowsteel Chains](https://shadowlands.wowhead.com/spell=355504/shadowsteel-chains) and [Spiked Balls](https://www.wowhead.com/spell=352052/spiked-balls) simultaneously.
 
 **Recommended Legendaries:**
 
@@ -310,16 +316,11 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables as needed for [Flameclasp Eruption](https://shadowlands.wowhead.com/spell=356870/flameclasp-eruption).
+* Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for [Flameclasp Eruption](https://shadowlands.wowhead.com/spell=356870/flameclasp-eruption).
 
 **Utilities:**
 
 * If talented, use {{ site.data.talent.wind_rush_totem }} to help your raid avoid spikes during Phase 2. Place strategically to allow your raid to refresh the movement buff.
-	
-**PTR PoVs:**
-
-* Altenna: [Heroic](https://www.twitch.tv/videos/1021632530?collection=RUogCxyPdhbY3A&t=0h6m38s) \| [Mythic](https://www.twitch.tv/videos/1037363275?collection=RUogCxyPdhbY3A&t=2h4m43s)
-* Amani: [Heroic](https://youtu.be/YPn961HQ3yA)
 
 </div>
 </div>
@@ -336,13 +337,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
+	
+**Recommended Covenants**
+
+* Necrolord with Plague-Deviser Marileth.
+* Night Fae with Dreamweaver or Niya.
 
 **Recommended Legendaries:**
 
@@ -354,16 +360,11 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables as needed for [Purging Protocol](https://shadowlands.wowhead.com/spell=352538/purging-protocol), [Unstable Energy](https://shadowlands.wowhead.com/spell=350455/unstable-energy), or [Meltdown](https://shadowlands.wowhead.com/spell=352589/meltdown).
+* Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for [Purging Protocol](https://shadowlands.wowhead.com/spell=352538/purging-protocol), [Unstable Energy](https://shadowlands.wowhead.com/spell=350455/unstable-energy), or [Meltdown](https://shadowlands.wowhead.com/spell=352589/meltdown).
 
 **Utilities:**
 
 * If talented, use {{ site.data.talent.wind_rush_totem }} to help your raid position [Threat Neutralization](https://shadowlands.wowhead.com/spell=356090/threat-neutralization) and move between Energy Cores.
-
-**PTR PoVs:**
-
-* Altenna: [Heroic](https://www.twitch.tv/videos/990503989?collection=RUogCxyPdhbY3A&t=0h23m26s) \| [Mythic](https://www.twitch.tv/videos/1030675393?collection=RUogCxyPdhbY3A&t=0h5m39s)
-* Amani: [Mythic](https://youtu.be/4Q8ORSQejvI)
 
 </div>
 </div>
@@ -380,18 +381,23 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{ site.data.talent.elemental_blast }}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
+* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
+	
+**Recommended Covenants**
+
+* Night Fae with Korayn for {{ site.data.soulbinds.first_strike }}
+* Necrolord with Plague-Deviser Marileth.
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.windspeaker }}
 * {{ site.data.legendary.eogs }}
+* {{ site.data.legendary.ws }}
 
 **Damage:**
 
@@ -399,7 +405,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables as needed for [Twist Fate](https://shadowlands.wowhead.com/spell=353931/twist-fate), especially if [Twist Fate](https://shadowlands.wowhead.com/spell=353931/twist-fate) overlaps with other mechanics (e.g. [Invoke Destiny](https://shadowlands.wowhead.com/spell=351680/invoke-destiny), [Grim Portent](https://shadowlands.wowhead.com/spell=354365/grim-portent) (Mythic)).
+* Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for [Twist Fate](https://shadowlands.wowhead.com/spell=353931/twist-fate), especially if [Twist Fate](https://shadowlands.wowhead.com/spell=353931/twist-fate) overlaps with other mechanics (e.g. [Invoke Destiny](https://shadowlands.wowhead.com/spell=351680/invoke-destiny), [Grim Portent](https://shadowlands.wowhead.com/spell=354365/grim-portent) (Mythic)).
 
 **Utilities:**
 
@@ -407,11 +413,6 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.spell.capacitor_totem }} as needed to stun [Fatespawn Anomaly](https://shadowlands.wowhead.com/npc=179010/fatespawn-anomaly) and [Burden of Destiny](https://shadowlands.wowhead.com/spell=353432/burden-of-destiny).
 * Use {{ site.data.spell.thunderstorm }} as needed to group [Fatespawn Anomaly](https://shadowlands.wowhead.com/npc=179010/fatespawn-anomaly) or to create more distance from [Burden of Destiny](https://shadowlands.wowhead.com/spell=353432/burden-of-destiny).
 * If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help your raid avoid [Fated Conjunction](https://shadowlands.wowhead.com/spell=350355/fated-conjunction).
-
-**PTR PoVs:**
-
-* Altenna: [Heroic](https://www.twitch.tv/videos/1014847069?collection=RUogCxyPdhbY3A&t=0h7m37s)
-* Amani: [Heroic](https://youtu.be/-1BgfbwaPmM)
 
 </div>
 </div>
@@ -428,24 +429,25 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
-* **25:** {{site.data.talent.aftershock}} or {{ site.data.talent.elemental_blast }}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
+* **25:** {{ site.data.talent.aftershock }} or {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }} or {{ site.data.talent.storm_elemental }} (w/ {{ site.data.talent.primal_elementalist }})
+* **35:** {{ site.data.talent.master_of_the_elements }} or {{ site.data.talent.storm_elemental }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
 
 **Recommended Legendaries:**
 
 * {{ site.data.legendary.eogs }}
 * {{ site.data.legendary.windspeaker }}
+* Note on why {{ site.data.legendary.dre }} is not recommended here but may still see use: This fight on higher difficulties requires you to reliably hit DPS checks in all phases, adding RNG choices to this mix may not be the best solution during progress for your group - particularly when the fight structure does not suit the type of damage brought very well. It may still see use simply because people enjoy using it, but having control over your damage is also very important here so make the decision that best suits you, your playstyle, and your group. 
 
 There are different ways to approach this fight based on various target priorities in each phase.
 
 If you are not assigned to the Phylactery realm, you may opt for {{ site.data.legendary.eogs }}. Select your talents based on your raid composition needs for priority damage or AoE.
 
-If you are assigned to the Phylactery realm, you may opt for {{ site.data.legendary.windspeaker }}, {{ site.data.talent.elemental_blast }}, and {{ site.data.talent.icefury }} to focus single-target damage on [Remnant of Kel'Thuzad](https://shadowlands.wowhead.com/npc=176929/remnant-of-kelthuzad).
+If you are assigned to the Phylactery realm, you may opt for {{ site.data.legendary.windspeaker }} to focus single-target damage on [Remnant of Kel'Thuzad](https://shadowlands.wowhead.com/npc=176929/remnant-of-kelthuzad).
 
 **Damage:**
 
@@ -454,7 +456,7 @@ If you are assigned to the Phylactery realm, you may opt for {{ site.data.legend
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables as needed for [Frozen Destruction](https://shadowlands.wowhead.com/spell=348744/frozen-destruction).
+* Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for [Frozen Destruction](https://shadowlands.wowhead.com/spell=348744/frozen-destruction).
 
 **Utilities:**
 
@@ -462,15 +464,6 @@ If you are assigned to the Phylactery realm, you may opt for {{ site.data.legend
 * Interrupt [Banshee's Cry](https://shadowlands.wowhead.com/spell=352144/banshees-cry) from [Soul Reaver](https://shadowlands.wowhead.com/npc=180474/soul-reaver) as needed.
 * Use {{ site.data.spell.earthbind_totem }}, {{ site.data.spell.capacitor_totem }}, and {{ site.data.spell.thunderstorm }} as needed to control [Frostbound Devoted](https://shadowlands.wowhead.com/npc=180840/frostbound-devoted).
 * If assigned to Phylactery realm, use {{ site.data.talent.wind_rush_totem }} if talented to help your raid avoid [Shadow Fissure](https://shadowlands.wowhead.com/spell=355136/shadow-fissure).
-
-**Notes:**
-
-* If using {{ site.data.spell.earth_elemental }} for [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (or {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), make sure it is not picking up adds and interfering with tanks.
-
-**PTR PoVs:**
-
-* Altenna: [Heroic](https://www.twitch.tv/videos/1013773164?collection=RUogCxyPdhbY3A&t=0h11m57s) \| [Mythic](https://www.twitch.tv/videos/1037363275?collection=RUogCxyPdhbY3A&t=1h12m54s)
-* Amani: [Mythic](https://youtu.be/DauXyp5KhSw)
 
 </div>
 </div>
@@ -487,17 +480,23 @@ If you are assigned to the Phylactery realm, you may opt for {{ site.data.legend
 
 **Talents:**
 
-* **15:** {{site.data.talent.echo_of_the_elements}}
+* **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }}
 * **30:** {{ site.data.talent.spirit_wolf }}
 * **35:** {{ site.data.talent.master_of_the_elements }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.primal_elementalist }} or {{ site.data.talent.icefury }}
+* **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
+	
+**Recommended Covenants**
+
+* Night Fae with Korayn for {{ site.data.soulbinds.first_strike }}. (Note: this is mostly effective in Phase 1 and Phase 2 to provide very efficient AoE damage whilst maintaining decent damage on Sylvanas herself).
+* Necrolord with Plague-Deviser Marileth.
 
 **Recommended Legendaries:**
 
 * {{ site.data.legendary.windspeaker }}
+* {{ site.data.legendary.eogs }} (Note: if you are choosing to play Night Fae then this choice compliments it well}
 
 **Damage:**
 
@@ -505,7 +504,7 @@ If you are assigned to the Phylactery realm, you may opt for {{ site.data.legend
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }}, [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (and {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), and healing consumables as needed for:
+* Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for:
 	* in P1, P2, & P3: [Shadow Dagger](https://shadowlands.wowhead.com/spell=347670/shadow-dagger), especially if [Shadow Dagger](https://shadowlands.wowhead.com/spell=347670/shadow-dagger) overlaps with other mechanics (e.g. [Barbed Arrow](https://shadowlands.wowhead.com/spell=347807/barbed-arrow) stacks, [Wailing Arrow](https://shadowlands.wowhead.com/spell=347609/wailing-arrow), [Banshee Wail](https://shadowlands.wowhead.com/spell=348109/banshee-wail), [Banshee's Fury](https://shadowlands.wowhead.com/spell=354068/banshees-fury)).
 	* in intermission: [Banshee Wail](https://shadowlands.wowhead.com/spell=348109/banshee-wail).
 
@@ -517,14 +516,6 @@ If you are assigned to the Phylactery realm, you may opt for {{ site.data.legend
 	* in intermission: run from [Domination Chains](https://shadowlands.wowhead.com/spell=349458/domination-chains) and avoid [Rive](https://shadowlands.wowhead.com/spell=348145/rive) and [Riven Debris](https://shadowlands.wowhead.com/spell=353413/riven-debris).
 	* in P2: avoid [Haunting Wave](https://shadowlands.wowhead.com/spell=351869/haunting-wave).
 	* in P3: move even more quickly between platforms.
-
-**Notes:**
-
-* If using {{ site.data.spell.earth_elemental }} for [Vital Accretion](https://www.wowhead.com/spell=337981/vital-accretion) (or {{ site.data.spell.harden_skin }} if {{ site.data.talent.primal_elementalist }} talented), make sure it is not picking up adds and interfering with tanks.
-
-**PTR PoVs:**
-
-* Altenna: [Heroic](https://www.twitch.tv/videos/1037363275?collection=RUogCxyPdhbY3A&t=0h3m30s)
 
 </div>
 </div>
