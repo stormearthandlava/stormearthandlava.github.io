@@ -246,7 +246,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **15:** {{ site.data.talent.echo_of_the_elements }}
 * **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
 * **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
+* **35:** {{ site.data.talent.master_of_the_elements }} or {{ site.data.talent.se }}
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
