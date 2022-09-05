@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Mythic+ Guide"
-last_update: 06/08/2022
-game_version: 9.2.5 Shadowlands
+last_update: 05/09/2022
+game_version: 9.2.7 Shadowlands
 authors: Altenna, Eokira
 toc: false
 ---
@@ -51,7 +51,9 @@ The default suggestion when you have both [Unity](https://www.wowhead.com/spell=
 
 This serves as a solid baseline without relying too much on how your dungeons are routed. The performance will vary between the setups on a variety of factors so it is **very** valuable to experiment!
 
-* Necrolord with {{ site.data.legendary.eogs }} and {{ site.data.talent.se }} **or** {{ site.data.legendary.dre }} with *either* {{ site.data.talent.mote }} (easier to play) or {{ site.data.talent.se }} (which remains better at AoE'ing). 
+* Necrolord with {{ site.data.legendary.eogs }} and {{ site.data.talent.se }} **or** {{ site.data.legendary.dre }} with *either* {{ site.data.talent.mote }} (easier to play) or {{ site.data.talent.se }} (which remains better at AoE'ing). Any {{ site.data.legendary.dre }} setup will be subject to RNG, you will also have to decide how much you like to gamble as technically speaking the highest expected value when AoE'ing (read: 5+ targets) is to completely ignore this legendary outside of {{ site.data.spell.primordial_wave }} windows and movement globals. If you choose to gamble during AoE thats your business.
+
+* Necrolord with {{ site.data.legendary.sfd }} and {{ site.data.talent.se }}. Doing well as key levels go up, {{ site.data.legendary.sfd }} allows for 100% uptime on {{ site.data.talent.se }} which is potent for AoE and single target. At least some of the uptime increase will be overkill however, so if you could have also achieved 100% uptime by other means then the value of this choice goes down - mainly its core strength is the consistency and flexibility it offers.
 
 With most of the dungeon pool consisting of low-target pulls in the early stages of the season (expect this to change a bit as people become more knowledgeable about how to handle specific mobs and strategies are formed allowing larger pulls in some dungeons/areas of dungeons), using {{ site.data.legendary.dre }} has become more attractive. It is important to note that {{ site.data.legendary.dre }} builds continue to use {{ site.data.talent.sk }} in dungeons, although you may consider swapping your third potency conduit slot to {{ site.data.conduit.shake_the_foundations }} as it performs at full power in aoe when not using {{ site.data.legendary.eogs }}.
 
@@ -65,7 +67,7 @@ The recommended Covenant choices for M+ content are Night Fae and Necrolord:
 * Necrolord remains competitive and lends itself to the {{ site.data.legendary.dre }} setup well.
    - Your Soulbind choices for Necrolord are:
       * Plague-Deviser Marileth for increased benefits surrounding {{ site.data.spell.fleshcraft }}, the strength of {{ site.data.soulbinds.preemptive_strike }} should not go unnoticed although when using {{ site.data.legendary.dre }} it would be traded for {{ site.data.conduit.shake_the_foundations }}.
-      * Bonesmith Heirmir for passive Intellect buff {{ site.data.soulbinds.forgeborn_reveries }} and {{ site.data.soulbinds.marrowed_gemstone }}.
+      * Bonesmith Heirmir for passive Intellect buff {{ site.data.soulbinds.forgeborn_reveries }} and {{ site.data.soulbinds.marrowed_gemstone }}. (Note: generally you would find yourself using Marileth, this is mostly here for reference.)
 
 To assist those experimenting with other Covenant options:
 * Kyrian
@@ -117,7 +119,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
    - Pick between [Critical Strike](https://www.wowhead.com/spell=373108/bounty-critical-strike), [Haste](https://www.wowhead.com/spell=373113/bounty-haste), [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility), or [Mastery](https://www.wowhead.com/spell=373116/bounty-mastery) by talking to an NPC at the beginning of each dungeon, gaining one stack of the appropriate buff. Note: If no choice is made the default buff is [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility).
       - Using [Haste](https://www.wowhead.com/spell=373113/bounty-haste) is more universally valuable as it maintains high contribution in all fight profiles (Single Target, Funnel, and AoE).
       - If you *only* desire AoE damage then [Critical Strike](https://www.wowhead.com/spell=373108/bounty-critical-strike) would offer the most for that particular scenario but is notably worse on Single Target. 
-      - Due to only really impacting single target and funnel via {{ site.data.spell.lvb }}, and {{ site.data.spell.cl }} benefits from 33% of your character sheet Mastery value, it is not recommended to choose [Mastery](https://www.wowhead.com/spell=373116/bounty-mastery).
+      - Due to only really impacting single target and funnel via {{ site.data.spell.lvb }}, and {{ site.data.spell.cl }} benefits from 33% of your character sheet Mastery value, it is not recommended to choose [Mastery](https://www.wowhead.com/spell=373116/bounty-mastery). In addition, the rating granted by this buff is subject to [Diminishing Returns](https://www.wowhead.com/guides/diminishing-returns-on-secondary-stats-in-world-of-warcraft).
       - If you reach a point in your key pushes where you require additional defensive value, you may consider [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility) - it is not generally recommended as the stacks provide 1% as opposed to the other stats providing 2%.
    - Stacks are gained by finding and defeating Dreadlords!
         - Certain enemies will show the [Disguised](https://www.wowhead.com/spell=373011/disguised) buff, meaning they are a Dreadlord! The locations of [Disguised](https://www.wowhead.com/spell=373011/disguised) enemies is consistent from run-to-run.
@@ -169,7 +171,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 * Dodge the swirlies from [Armed Security](https://www.wowhead.com/spell=346204/armed-security)
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to adjust to [Rotary Body Armor](https://www.wowhead.com/spell=347992/rotary-body-armor).
-* Move away from [Zo'Phex](https://www.wowhead.com/npc=175616/zophex) if [Interrogation](https://www.wowhead.com/spell=348350/interrogation) is cast on you. If [Interrogation](https://www.wowhead.com/spell=348350/interrogation) is cast on a party member, make sure you are not stood between them and [Zo'Phex](https://www.wowhead.com/npc=175616/zophex), DPS the cage to break them out!
+* Move away from [Zo'Phex](https://www.wowhead.com/npc=175616/zophex) if [Interrogation](https://www.wowhead.com/spell=348350/interrogation) is cast on you; if you are a Necrolord with Plague-Deviser Marileth you can use {{ site.data.spell.fleshcraft }} to immune this mechanic as the cast finishes. If [Interrogation](https://www.wowhead.com/spell=348350/interrogation) is cast on a party member, make sure you are not stood between them and [Zo'Phex](https://www.wowhead.com/npc=175616/zophex), DPS the cage to break them out!
 * [Impound Contraband](https://www.wowhead.com/spell=345770/impound-contraband) causes your weapon to drop to the floor, run over the weapon to pick it up again!
              
 ---
@@ -259,63 +261,71 @@ Don't forget to check out Additional Resources at the bottom of this page!
 </div>
 
 <div class="card">
-<div class="card-header" id="hoa">
-<div data-toggle="collapse" data-target="#hoa-collapse" aria-expanded="true" aria-controls="hoa-collapse" class="dungeon-header hoa"><h2>Halls of Atonement</h2></div>
+<div class="card-header" id="sg">
+<div data-toggle="collapse" data-target="#sg-collapse" aria-expanded="true" aria-controls="sg-collapse" class="dungeon-header sg"><h2>Soleah's Gambit</h2></div>
 </div>
-<div id="hoa-collapse" class="collapse" aria-labelledby="hoa" data-parent="#accordion">
+<div id="sg-collapse" class="collapse" aria-labelledby="sg" data-parent="#accordion">
 <div class="card-body" markdown="1"> 
 
-**Depraved Houndmaster**
+**[Murkbrine Scalebinder](https://www.wowhead.com/npc=178141/murkbrine-scalebinder)**
 
-* {{ site.data.mythic_plus.loyal_beasts }} enrage the Vicious Gargons, and {{ site.data.mythic_plus.rapid_fire }} is dangerous when Fortified. You can hard cancel these abilities with {{ site.data.spell.hex }} or {{ site.data.spell.capacitor_totem }}.
+* You can use {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.hex }}, or {{ site.data.spell.thunderstorm }} to *stop* [Invigorating Fish Stick](https://www.wowhead.com/spell=355132/invigorating-fish-stick#summons).
 
-**Depraved Obliterator**
+**[Murkbrine Shellcrusher](https://www.wowhead.com/npc=178139/murkbrine-shellcrusher)**
 
-* Rotate interrupts between {{ site.data.mythic_plus.curse_of_obliteration }} and {{ site.data.mythic_plus.wicked_bolt }}. If a {{ site.data.mythic_plus.curse_of_obliteration }} cast goes off, dispel with {{ site.data.spell.cleanse_spirit }}.
+* You can use {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.hex }}, or {{ site.data.spell.thunderstorm }} to *stop* [Cry of Mrrggllrrgg](https://www.wowhead.com/spell=355057/cry-of-mrrggllrrgg).
 
-**Depraved Collector**
+**[Coastwalker Goliath](https://www.wowhead.com/npc=178165/coastwalker-goliath)**
 
-* Interrupt {{ site.data.mythic_plus.collect_sins }}.
+* Use {{ site.data.spell.astral_shift }} as appropriate to your key level and current affixes on the second stack of [Undertow](https://www.wowhead.com/spell=355451/undertow). If your group will take more casts of [Undertow](https://www.wowhead.com/spell=355451/undertow) its important to note that you cannot have more than two stacks, so the damage will not scale higher however they can be large hits!
 
-**Shard of Halkias**
+**[Stormforged Guardian](https://www.wowhead.com/npc=178171/stormforged-guardian)**
 
-* Stand at max range to avoid {{ site.data.mythic_plus.thrash }} entirely. Use {{ site.data.spell.astral_shift }} if absolutely needed.
+* Stand at max range to avoid [Charged Pulse](https://www.wowhead.com/spell=355584/charged-pulse) area of effect.
+* You can easily sidestep [Crackle](https://www.wowhead.com/spell=355577/crackle) if you notice them aimed at you.
 
-## Halkias, the Sin-Stained Goliath
+## [Hylbrande](https://www.wowhead.com/npc=175663/hylbrande)
 
-* Use {{ site.data.spell.spiritwalkers_grace }} during {{ site.data.mythic_plus.refracted_sinlight }}.
-* If any party members are outside the {{ site.data.mythic_plus.light_of_atonement }} aura and Feared by {{ site.data.mythic_plus.sinlight_visions }}, use {{ site.data.spell.tremor_totem }}.
+* Use {{ site.data.spell.spiritwalkers_grace }} during [Purged by Fire](https://www.wowhead.com/spell=346959/purged-by-fire).
+* Use {{ site.data.spell.thunderstorm }} to group spawned [Vault Purifiers](https://www.wowhead.com/npc=176551/vault-purifier) with the boss to more easily deal with them.
+* Interrupt or Stop [Valorous Bolts](https://www.wowhead.com/spell=352347/valorous-bolt) and [Empowered Defense](https://www.wowhead.com/spell=346980/empowered-defense).
+* There is a very useful Weakaura for this fight that makes the colour match game simple even when pugging! [Find it here!](https://wago.io/TazaveshConsole)
+---
+
+**[Hourglass Tidesage](https://www.wowhead.com/npc=179388/hourglass-tidesage)**
+
+* Interrupt [Brackish Bolt](https://www.wowhead.com/spell=356843/brackish-bolt). 
+* Sidestep [Tidal Burst](https://www.wowhead.com/spell=356260/tidal-burst) allowing more interrupts for [Brackish Bolt](https://www.wowhead.com/spell=356843/brackish-bolt)
+   
+**[Burly Deckhand](https://www.wowhead.com/npc=180015/burly-deckhand)**
+   
+* Stop [Super Saison](https://www.wowhead.com/spell=356133/super-saison) where possible, particularly if your group comp does not carry an Enrage Dispel!
+* Avoid being close to them during [Haymaker](https://www.wowhead.com/spell=368662/haymaker) casts, this can hit non-tank targets if they are out of range!
+
+## [Timecap'n Hooktail](https://www.wowhead.com/npc=175546/timecapn-hooktail)
+
+* Use {{ site.data.spiritwalkers_grace }} to continue DPS while affected by [Anchor Shot](https://www.wowhead.com/spell=352345/anchor-shot)
+* Particularly for {{ site.data.legendary.dre }} and/or Necrolord builds you *can* use the spawned adds to increase your {{ site.data.spell.fs }} count however dps to the adds themselves is pointless when the tank is able to catch them in the [Infinite Breath](https://www.wowhead.com/spell=347149/infinite-breath) (this also reduces the funnel benefit as the adds tend to die very quickly).
 
 ---
 
-**Stoneborn Reaver**
+**[Devoted Accomplice](https://www.wowhead.com/npc=180432/devoted-accomplice)**
 
-* Interrupt {{ site.data.mythic_plus.turn_to_stone}}. If a cast goes off, {{ site.data.spell.purge }} it.
+* Interrupt [Reinvigorate](https://www.wowhead.com/spell=357284/reinvigorate)
+   
+**[Focused Ritualist](https://www.wowhead.com/npc=180431/focused-ritualist)
+   
+* Interrupt [Unstable Rift](https://www.wowhead.com/spell=357260/unstable-rift). If no intterupts are available, Stopping the ability via other CC abilities like {{ site.data.spell.capactior_totem }}, {{ site.data.spell.hex }} will also put this cast on cooldown.
 
-## Echelon
+**[Adorned Starseer](https://www.wowhead.com/npc=180429/adorned-starseer]
+   
+* Pay attention to which direction they are facing when [Drifting Star](https://www.wowhead.com/spell=357226/drifting-star) is cast.
+* Ensuring {{ site.data.spell.fs }} is available to use when [Wandering Pulsar](https://www.wowhead.com/spell=357238/wandering-pulsar) is cast can help facilitate quick swapping!
 
-* Hold {{ site.data.talent.stormkeeper }} for the Undying Stonefiend add spawn. Undying Stonefiends will not begin casting until they are hit with damage, so wait for them to congregate around the boss before engaging. Interrupt their {{ site.data.mythic_plus.villainous_bolt }} cast, and use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.thunderstorm }} as needed to control them.
-* Keep some distance from the Undying Stonefiends due to {{ site.data.mythic_plus.volatile_transformation }}.
-* {{ site.data.mythic_plus.curse_of_stone }} can be dispelled with {{ site.data.spell.cleanse_spirit }}. Prioritize dispelling party members targeted by {{ site.data.mythic_plus.stone_shattering_leap }} or any other party members at risk, and dispelled players will be able to avoid damage if they run away quickly. Othrewise, use {{ site.data.spell.astral_shift }} for {{ site.data.mythic_plus.stone_shattering_leap }} and {{ site.data.mythic_plus.shattered }} as needed.
+## [So'leah](https://www.wowhead.com/npc=177269/soleah)
 
----
-
-## High Adjudicator Aleez
-
-* Rotate interrupts between {{ site.data.mythic_plus.volley_of_power}} and {{ site.data.mythic_plus.bolt_of_power}}.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.anima_fountain }}.
-* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.pulse_from_beyond }} from Ghastly Parishioner.
-
----
-
-**Inquisitor Sigar**
-
-* Interrupt {{ site.data.mythic_plus.wicked_bolt }}.
-
-## Lord Chamberlain
-
-* Use {{ site.data.spell.astral_shift }} for {{ site.data.mythic_plus.ritual_of_woe}} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.telekinetic_toss }}, {{ site.data.mythic_plus.telekinetic_onslaught }}, and {{ site.data.mythic_plus.telekinetic_repulsion }}.
+* Use {{ site.data.spell.astral_shift }} for [Hyperlight Jolt](https://www.wowhead.com/spell=350875/hyperlight-jolt) as needed. 
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to help trigger controlled soaks of [Collapsing Stars](https://www.wowhead.com/spell=353635/collapsing-star). As key level increases this can be very beneficial for your healer for you to assist with, but soaking more than one stack at a time can be deadly so communicate prior to pulling if you intend to do this and keep an eye on how others are positioning!
 
 </div>
 </div>
