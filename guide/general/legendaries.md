@@ -1,8 +1,8 @@
 ---
 layout: highcharts_page
 title: Legendaries
-last_update: 2022-04-13 09:00:00
-game_version: 9.2 Shadowlands
+last_update: 06/09/2022 09:00:00
+game_version: 9.2.7 Shadowlands
 toc: true
 ---
 
@@ -10,10 +10,10 @@ toc: true
 
 Legendary | Use | Slot | Stats 
 --- | --- | --- | --- 
-{{ site.data.legendary.wlr }} (WLR) | Single Target | Boots | Haste/Versatility/Mastery 
-{{ site.data.legendary.eogs }} (EoGS) | M+ and stacked AoE | Hands | Crit/Haste 
-{{ site.data.legendary.dre }} (DRE) | Prototype Pantheon, Lords of Dread, Rygelon [Raid Guide](https://stormearthandlava.com/guide/raids/SotFO.html) | Head | Haste/Versatility
-{{ site.data.legendary.skybreaker }} (SFD) | Multi-Target Encounters with {{ site.data.item.t28_2 }} only **or** Venthyr M+ | Ring | Crit/Haste
+{{ site.data.legendary.wlr }} (WLR) | Single Target | Cloak | Haste/Versatility/Mastery 
+{{ site.data.legendary.eogs }} (EoGS) | M+ and stacked AoE | Hands or Shoulders | Crit/Haste 
+{{ site.data.legendary.dre }} (DRE) | Prototype Pantheon, Lords of Dread, Rygelon [Raid Guide](https://stormearthandlava.com/guide/raids/SotFO.html), M+ | Head or Wrists | Haste/Versatility
+{{ site.data.legendary.skybreaker }} (SFD) | Multi-Target Encounters with {{ site.data.item.t28_2 }} only **or** NL M+ | Ring or Chest | Crit/Haste
 
 For more information on M+ setups see the [M+ Section](http://stormearthandlava.com/guide/mythic_plus/mythic_plus.html).
 
