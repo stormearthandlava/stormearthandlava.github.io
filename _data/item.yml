@@ -14,72 +14,171 @@
 
 example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
+# DF Phials
+phial_eits: <a href="https://www.wowhead.com/item=191320/phial-of-the-eye-in-the-storm" target="blank">Phial of the Eye in the Storm</a>
+phial_sa: <a href="https://www.wowhead.com/item=191321/phial-of-still-air" target="blank">Phial of Still Air</a>
+phial_ip: <a href="https://www.wowhead.com/item=191325/phial-of-icy-preservation" target="blank">Phial of Icy Preservation</a>
+phial_cr: <a href="https://www.wowhead.com/item=191327/iced-phial-of-corrupting-rage" target="blank">Iced Phial of Corrupting Rage</a>
+phial_ci: <a href="https://www.wowhead.com/item=191330/phial-of-charged-isolation" target="blank">Phial of Charged Isolation</a>
+phial_gf: <a href="https://www.wowhead.com/item=191333/phial-of-glacial-fury" target="blank">Phial of Glacial Fury</a>
+phial_se: <a href="https://www.wowhead.com/item=191336/phial-of-static-empowerment" target="blank">Phial of Static Empowerment</a>
+phial_tv: <a href="https://www.wowhead.com/item=191339/phial-of-tepid-versatility" target="blank">Phial of Tepid Versatility</a>
+phial_a: <a href="https://www.wowhead.com/item=191348/charged-phial-of-alacrity" target="blank">Charged Phial of Alacrity</a>
+phial_ec: <a href="https://www.wowhead.com/item=191357/phial-of-elemental-chaos" target="blank">Phial of Elemental Chaos</a>
+
+# DF Potions
+potion_frfa: <a href="https://www.wowhead.com/item=191351/potion-of-frozen-fatality" target="blank">Potion of Frozen Fatality</a>
+potion_frfo: <a href="https://www.wowhead.com/item=191363/potion-of-frozen-focus" target="blank">Potion of Frozen Focus</a>
+potion_cc: <a href="https://www.wowhead.com/item=191366/potion-of-chilled-clarity" target="blank">Potion of Chilled Clarity</a>
+potion_wv: <a href="https://www.wowhead.com/item=191369/potion-of-withering-vitality" target="blank">Potion of Withering Vitality</a>
+potion_rnca: <a href="https://www.wowhead.com/item=191372/residual-neural-channeling-agent" target="blank">Residual Neural Channeling Agent</a>
+potion_ss: <a href="https://www.wowhead.com/item=191375/delicate-suspension-of-spores" target="blank">Delicate Suspension of Spores</a>
+potion_rhp: <a href="https://www.wowhead.com/item=191378/refreshing-healing-potion" target="blank">Refreshing Healing Potion</a>
+potion_amp: <a href="https://www.wowhead.com/item=191384/aerated-mana-potion" target="blank">Aerated Mana Potion</a>
+potion_p: <a href="https://www.wowhead.com/item=191387/elemental-potion-of-power" target="blank">Elemental Potion of Power</a>
+potion_up: <a href="https://www.wowhead.com/item=191381/elemental-potion-of-ultimate-power" target="blank">Elemental Potion of Ultimate Power</a>
+potion_hz: <a href="https://www.wowhead.com/item=191393/potion-of-the-hushed-zephyr" target="blank">Potion of the Hushed Zephyr</a>
+potion_g: <a href="https://www.wowhead.com/item=191396/potion-of-gusts" target="blank">Potion of Gusts</a>
+potion_sd: <a href="https://www.wowhead.com/item=191399/potion-of-shocking-disclosure" target="blank">Potion of Shocking Disclosure</a>
+
+# DF Food
+food_int_stam_high: <a href="https://www.wowhead.com/item=197790/roast-duck-delight" target="blank">Roast Duck Delight</a>
+food_rdd: <a href="https://www.wowhead.com/item=197790/roast-duck-delight" target="blank">Roast Duck Delight</a>
+
+food_int_stam_low: <a href="https://www.wowhead.com/item=197776/thrice-spiced-mammoth-kabob" target="blank">Thrice-Spriced Mammoth Kabob</a>
+food_tsmk: <a href="https://www.wowhead.com/item=197776/thrice-spiced-mammoth-kabob" target="blank">Thrice-Spriced Mammoth Kabob</a>
+
+food_haste_vers: <a href="https://www.wowhead.com/item=197783/aromatic-seafood-platter" target="blank">Aromatic Seafood Platter</a>
+food_asp: <a href="https://www.wowhead.com/item=197783/aromatic-seafood-platter" target="blank">Aromatic Seafood Platter</a>
+
+food_haste_crit: <a href="https://www.wowhead.com/item=197782/feisty-fish-sticks" target="blank">Feisty Fish Sticks</a>
+food_ffs: <a href="https://www.wowhead.com/item=197782/feisty-fish-sticks" target="blank">Feisty Fish Sticks</a>
+
+food_vers_mast: <a href="https://www.wowhead.com/item=197787/great-cerulean-sea" target="blank">Great Cerulean Sea</a>
+food_gcs: <a href="https://www.wowhead.com/item=197787/great-cerulean-sea" target="blank">Great Cerulean Sea</a>
+
+food_crit_vers: <a href="https://www.wowhead.com/item=197785/revenge-served-cold" target="blank">Revenge, Served Cold</a>
+food_rsc: <a href="https://www.wowhead.com/item=197785/revenge-served-cold" target="blank">Revenge, Served Cold</a>
+
+food_haste_mast: <a href="https://www.wowhead.com/item=197784/sizzling-seafood-medley" target="blank">Sizzling Seafood Medley</a>
+food_ssm: <a href="https://www.wowhead.com/item=197784/sizzling-seafood-medley" target="blank">Sizzling Seafood Medley</a>
+
+food_crit_mast: <a href="https://www.wowhead.com/item=197786/thousandbone-tongueslicer" target="blank">Thousandbone Tongueslicer</a>
+food_tt: <a href="https://www.wowhead.com/item=197786/thousandbone-tongueslicer" target="blank">Thousandbone Tongueslicer</a>
+
+food_feast_kaluak: <a href="https://www.wowhead.com/item=197794/grand-banquet-of-the-kaluak" target="blank">Grand Banquet of the Kalu'ak</a>
+food_feast_draconic: <a href="https://www.wowhead.com/item=197795/hoard-of-draconic-delicacies" target="blank">Hoard of Draconic Delicacies</a>
+food_feast_yusa: <a href="https://www.wowhead.com/item=197793/yusas-hearty-stew" target="blank">Yusa's Hearty Stew</a>
+
+# DF Gems
+# Uncommon
+gem_uc_crit_haste: <a href="https://www.wowhead.com/item=192902/crafty-queens-ruby" target="blank">Crafty Queen's Ruby</a>
+gem_uc_vers_mast: <a href="https://www.wowhead.com/item=192905/zen-mystic-sapphire" target="blank">Zen Mystic Sapphire</a>
+gem_uc_haste_vers: <a href="https://www.wowhead.com/item=192908/energized-vibrant-emerald" target="blank">Energized Vibrant Emerald</a>
+gem_uc_mast_crit: <a href="https://www.wowhead.com/item=192912/senseis-sundered-onyx" target="blank">Sensei's Sundered Onyx</a>
+
+# Rare
+gem_crit_haste: <a href="https://www.wowhead.com/item=192919/crafty-alexstraszite" target="blank">Crafty Alexstraszite</a>
+gem_haste_crit: <a href="https://www.wowhead.com/item=192945/crafty-ysemerald" target="blank">Crafty Ysemerald</a>
+gem_vers_haste: <a href="https://www.wowhead.com/item=192935/energized-malygite" target="blank">Energized Malygite</a>
+gem_haste_vers: <a href="https://www.wowhead.com/item=192952/energized-ysemerald" target="blank">Energized Ysemerald</a>
+gem_mast_haste: <a href="https://www.wowhead.com/item=192961/keen-neltharite" target="blank">Keen Neltharite</a>
+gem_haste_mast: <a href="https://www.wowhead.com/item=192948/keen-ysemerald" target="blank">Keen Ysemerald</a>
+gem_crit_vers: <a href="https://www.wowhead.com/item=192925/radiant-alexstraszite" target="blank">Radiant Alexstraszite</a>
+gem_vers_crit: <a href="https://www.wowhead.com/item=192932/radiant-malygite" target="blank">Radiant Malygite</a>
+gem_crit_mast: <a href="https://www.wowhead.com/item=192922/senseis-alexstraszite" target="blank">Sensei's Alexstraszite</a>
+gem_mast_crit: <a href="https://www.wowhead.com/item=192958/senseis-neltharite" target="blank">Sensei's Neltharite</a>
+gem_vers_mast: <a href="https://www.wowhead.com/item=192938/zen-malygite" target="blank">Zen Malygite</a>
+gem_mast_vers: <a href="https://www.wowhead.com/item=192964/zen-neltharite" target="blank">Zen Neltharite</a>
+gem_crit: <a href="https://www.wowhead.com/item=192928/deadly-alexstraszite" target="blank">Deadly Alexstraszite</a>
+gem_mast: <a href="https://www.wowhead.com/item=192967/fractured-neltharite" target="blank">Fractured Neltharite</a>
+gem_haste: <a href="https://www.wowhead.com/item=192955/quick-ysemerald" target="blank">Quick Ysemerald</a>
+gem_vers: <a href="https://www.wowhead.com/item=192942/stormy-malygite" target="blank">Stormy Malygite</a>
+
+# Epic / Unique
+gem_p_crit: <a href="https://www.wowhead.com/item=192982/inscribed-illimited-diamond" target="blank">Inscribed Illimited Diamond</a>
+gem_p_haste: <a href="https://www.wowhead.com/item=192985/fierce-illimited-diamond" target="blank">Fierce Illimited Diamond</a>
+gem_p_mast: <a href="https://www.wowhead.com/item=192988/skillful-illimited-diamond" target="blank">Skillful Illimited Diamond</a>
+gem_p_vers: <a href="https://www.wowhead.com/item=192991/resplendent-illimited-diamond" target="blank">Resplendent Illimited Diamond</a>
+gem_p_speed: <a href="https://www.wowhead.com/item=194114/straddling-illimited-diamond" target="blank">Straddling Illimited Diamond</a>
+
+# DF Enchants
+ench_chest_int: <a href="https://www.wowhead.com/spell=389417/reserve-of-intellect" target="blank">Reserve of Intellect</a>
+ench_chest_stats: <a href="https://www.wowhead.com/spell=389410/waking-stats" target="blank">Waking Stats</a>
+ench_wep_crit: <a href="https://www.wowhead.com/spell=389537/burning-writ" target="blank">Burning Writ</a>
+ench_wep_mast: <a href="https://www.wowhead.com/spell=389540/earthen-writ" target="blank">Earthen Writ</a>
+ench_wep_intlower: <a href="https://www.wowhead.com/spell=389542/titanic-writ" target="blank">Titanic Writ</a>
+ench_wep_inthigher: <a href="https://www.wowhead.com/spell=389550/titanic-devotion" target="blank">Titanic Devotion</a>
+ench_wep_vers: <a href="https://www.wowhead.com/spell=389543/frozen-writ" target="blank">Frozen Writ</a>
+ench_wep_hastelower: <a href="https://www.wowhead.com/spell=389546/wafting-writ" target="blank">Wafting Writ</a>
+ench_wep_hastehigher: <a href="https://www.wowhead.com/spell=389558/wafting-devotion" target="blank">Wafting Devotion</a>
+ench_wri_av: <a href="https://www.wowhead.com/spell=389301/devotion-of-avoidance" target="blank">Devotion of Avoidance</a>
+ench_wri_le: <a href="https://www.wowhead.com/spell=389303/devotion-of-leech" target="blank">Devotion of Leech</a>
+ench_wri_sp: <a href="https://www.wowhead.com/spell=389304/devotion-of-speed" target="blank">Devotion of Speed</a>
+ench_ring_crit: <a href="https://www.wowhead.com/spell=389292/devotion-of-critical-strike" target="blank">Devotion of Critical Strike</a>
+ench_ring_haste: <a href="https://www.wowhead.com/spell=389293/devotion-of-haste" target="blank">Devotion of Haste</a>
+ench_ring_mast: <a href="https://www.wowhead.com/spell=389294/devotion-of-mastery" target="blank">Devotion of Mastery</a>
+ench_ring_vers: <a href="https://www.wowhead.com/spell=389295/devotion-of-versatility" target="blank">Devotion of Versatility</a>
+ench_back_av: <a href="https://www.wowhead.com/spell=389403/graceful-avoidance" target="blank">Graceful Avoidance</a>
+ench_back_sp: <a href="https://www.wowhead.com/spell=389405/homebound-speed" target="blank">Homebound Speed</a>
+ench_back_le: <a href="https://www.wowhead.com/spell=389404/regenerative-leech" target="blank">Regenerative Leech</a>
+ench_boots_stam: <a href="https://www.wowhead.com/spell=389484/watchers-loam" target="blank">Watcher's Loam</a>
+ench_boots_sp: <a href="https://www.wowhead.com/spell=389479/plainsrunners-breeze" target="blank">Plainsrunner's Breeze</a>
+
+# SL Flasks
 spectral_flask_of_stamina: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Spectral Flask of Power</a>
 stamina_flask: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Spectral Flask of Power</a>
-
 spectral_flask_of_power: <a href="https://shadowlands.wowhead.com/item=171276" target="blank">Spectral Flask of Power</a>
 mainstat_flask: <a href="https://shadowlands.wowhead.com/item=171276" target="blank">Spectral Flask of Power</a>
-
 eternal_cauldron: <a href="https://shadowlands.wowhead.com/item=171284" target="blank">Eternal Cauldron</a>
 
+# SL Potions
 spiritual_healing_potion: <a href="https://shadowlands.wowhead.com/item=171267" target="blank">Spiritual Healing Potion</a>
 cosmic_healing_potion:  <a href="https://shadowlands.wowhead.com/item=187802" target="blank">Cosmic Healing Potion</a>
-
 potion_of_concealment: <a href="https://shadowlands.wowhead.com/item=152503" target="blank">Potion of Concealment</a>
 potion_of_the_hidden_spirit: <a href="https://shadowlands.wowhead.com/item=261424" target="blank">Potion of the Hidden Spirit</a>
-
 potion_of_the_psychopomps_speed: <a href="https://shadowlands.wowhead.com/spell=344316" target="blank">Potion of the Psychopomp's Speed</a>
-
-sea_mist_potion: <a href="https://shadowlands.wowhead.com/item=152550" target="blank">Sea Mist Potion</a>
-
 potion_of_spectral_intellect: <a href="https://shadowlands.wowhead.com/item=171273" target="blank">Potion of Spectral Intellect</a>
 int_pot: <a href="https://shadowlands.wowhead.com/item=171273" target="blank">Potion of Spectral Intellect</a>
-
 potion_of_spectral_stamina: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Potion of Spectral Stamina</a>
-
 potion_of_deathly_fixation: <a href="https://shadowlands.wowhead.com/item=171351" target="blank">Potion of Deathly Fixation</a>
 potion_of_empowered_exorcisms: <a href="https://shadowlands.wowhead.com/item=171352" target="blank">Potion of Empowered Exorcisms</a>
 potion_of_phantom_fire: <a href="https://shadowlands.wowhead.com/item=171349" target="blank">Potion of Phantom Fire</a>
 potion_of_sacrificial_anima: <a href="https://shadowlands.wowhead.com/item=176811" target="blank">Potion of Sacrificial Anima</a>
 potion_of_divine_awakening: <a href="https://shadowlands.wowhead.com/item=171350" target="blank">Potion of Divine Awakening</a>
 
-surprisingly_palatable_feast: <a href="https://shadowlands.wowhead.com/item=172042" target="blank">Surprisingly Palatable Feast</a>
+# BFA Potions
+sea_mist_potion: <a href="https://shadowlands.wowhead.com/item=152550" target="blank">Sea Mist Potion</a>
 
+# SL Food
+surprisingly_palatable_feast: <a href="https://shadowlands.wowhead.com/item=172042" target="blank">Surprisingly Palatable Feast</a>
 feast_of_gluttonous_hedonism: <a href="https://shadowlands.wowhead.com/item=172043" target="blank">Feast of Gluttonous Hedonism</a>
 feast: <a href="https://shadowlands.wowhead.com/item=172043" target="blank">Feast of Gluttonous Hedonism</a>
-
 smothered_shank: <a href="https://shadowlands.wowhead.com/item=172062" target="blank">Smothered Shank</a>
-
 iridescent_ravioli_with_apple_sauce: <a href="https://shadowlands.wowhead.com/item=172049" target="blank">Iridescent Ravioli with Apple Sauce</a>
 mastery_food: <a href="https://shadowlands.wowhead.com/item=172049" target="blank">Iridescent Ravioli with Apple Sauce</a>
-
 steak_a_la_mode: <a href="https://shadowlands.wowhead.com/item=172051" target="blank">Steak a la Mode</a>
 vers_food: <a href="https://shadowlands.wowhead.com/item=172051" target="blank">Steak a la Mode</a>
-
 tenebrous_crown_roast_aspic: <a href="https://shadowlands.wowhead.com/item=172045" target="blank">Tenebrous Crown Roast Aspic</a>
 haste_food: <a href="https://shadowlands.wowhead.com/item=172045" target="blank">Tenebrous Crown Roast Aspic</a>
-
 spinefin_souffle_and_fries: <a href="https://shadowlands.wowhead.com/item=172041" target="blank">Spinefin Souffle and Fries</a>
 crit_food: <a href="https://shadowlands.wowhead.com/item=172041" target="blank">Spinefin Souffle and Fries</a>
-
 banana_beef_pudding: <a href="https://shadowlands.wowhead.com/item=172069/" target="blank">Banana Beef Pudding</a>
 stam_food: <a href="https://shadowlands.wowhead.com/item=172069/" target="blank">Banana Beef Pudding</a>
 
+# SL Gems
 insightful_rubellite: <a href="https://shadowlands.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
 exp_gem: <a href="https://shadowlands.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
-
 quick_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173128" target="blank">Quick Jewel Cluster</a>
 haste_gem: <a href="https://shadowlands.wowhead.com/item=173128" target="blank">Quick Jewel Cluster</a>
-
 masterful_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173130" target="blank">Masterful Jewel Cluster</a>
 mastery_gem: <a href="https://shadowlands.wowhead.com/item=173130" target="blank">Masterful Jewel Cluster</a>
-
 deadly_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173127" target="blank">Deadly Jewel Cluster</a>
 crit_gem: <a href="https://shadowlands.wowhead.com/item=173127" target="blank">Deadly Jewel Cluster</a>
-
 versatile_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173129" target="blank">Versatile Jewel Cluster</a>
 vers_gem: <a href="https://shadowlands.wowhead.com/item=173129" target="blank">Versatile Jewel Cluster</a>
 
+# SL Enchants
 eternal_insight: <a href=" https://shadowlands.wowhead.com/spell=342316" target="blank">Eternal Insight</a>
 celestial_guidance: <a href=" https://shadowlands.wowhead.com/spell=309627" target="blank">Celestial Guidance</a>
 lightless_force: <a href=" https://shadowlands.wowhead.com/spell=309620" target="blank">Lightless Force</a>
@@ -90,14 +189,12 @@ tenet_of_critical_strike: <a href="https://shadowlands.wowhead.com/spell=309616"
 tenet_of_versatility: <a href="https://shadowlands.wowhead.com/spell=309619" target="blank">Tenet of Versatility</a>
 tenet_of_haste: <a href="https://shadowlands.wowhead.com/spell=309617" target="blank">Tenet of Haste</a>
 tenet_of_mastery: <a href="https://shadowlands.wowhead.com/spell=309618" target="blank">Tenet of Mastery</a>
-
 fortified_speed: <a href="https://shadowlands.wowhead.com/spell=309528" target="blank">Fortified Speed</a>
 fortified_avoidance:  <a href="https://shadowlands.wowhead.com/item=172411" target="blank">Fortified Avoidance</a>
 fortified_leech:  <a href="https://shadowlands.wowhead.com/item=172412" target="blank">Fortified Leech</a>
 
+# SL oddities
 shadowcore_oil: <a href="https://shadowlands.wowhead.com/item=171285" target="blank">Shadowcore Oil</a>
-
 phial_of_serenity: <a href="https://shadowlands.wowhead.com/item=177278" target="blank">Phial of Serenity</a>
-
 t28_2: '<a href="https://shadowlands.wowhead.com/spell=364472" target="blank">T28: Fireheart 2p</a>'
 t28_4: '<a href="https://shadowlands.wowhead.com/spell=363671" target="blank">T28: Fireheart 4p</a>'
