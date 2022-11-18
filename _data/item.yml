@@ -137,6 +137,13 @@ ench_back_le: <a href="https://www.wowhead.com/spell=389404/regenerative-leech" 
 ench_boots_stam: <a href="https://www.wowhead.com/spell=389484/watchers-loam" target="blank">Watcher's Loam</a>
 ench_boots_sp: <a href="https://www.wowhead.com/spell=389479/plainsrunners-breeze" target="blank">Plainsrunner's Breeze</a>
 
+# DF Oddities
+rune_crit: <a href="https://www.wowhead.com/item=194823/buzzing-rune" target="blank">Buzzing Rune</a>
+rune_haste: <a href="https://www.wowhead.com/item=194820/howling-rune" target="blank">Howling Rune</a>
+spellthread: <a href="https://www.wowhead.com/item=194013/frozen-spellthread" target="blank">Frozen Spellthread</a>
+spellthread_lower: <a href="https://www.wowhead.com/item=194009/vibrant-spellthread" target="blank">Vibrant Spellthread</a>
+
+
 # SL Flasks
 spectral_flask_of_stamina: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Spectral Flask of Power</a>
 stamina_flask: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Spectral Flask of Power</a>
