@@ -12,102 +12,111 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-adaptation: <a href="https://shadowlands.wowhead.com/spell=214027" target="blank">Adaptation</a>
+# Spec Tree
 
-aftershock: <a href="https://shadowlands.wowhead.com/spell=273221" target="blank">Aftershock</a>
-afs: <a href="https://shadowlands.wowhead.com/spell=273221" target="blank">Aftershock</a>
+aftershock: <a href="https://www.wowhead.com/spell=273221" target="blank">Aftershock</a>
+afs: <a href="https://www.wowhead.com/spell=273221" target="blank">Aftershock</a>
 
-ancestral_guidance: <a href="https://shadowlands.wowhead.com/spell=108281" target="blank">Ancestral Guidance</a>
-ag: <a href="https://shadowlands.wowhead.com/spell=108281" target="blank">Ancestral Guidance</a>
+ascendance: <a href="https://www.wowhead.com/spell=114050" target="blank">Ascendance</a>
+asc: <a href="https://www.wowhead.com/spell=114050" target="blank">Ascendance</a>
 
-ascendance: <a href="https://shadowlands.wowhead.com/spell=114050" target="blank">Ascendance</a>
-asc: <a href="https://shadowlands.wowhead.com/spell=114050" target="blank">Ascendance</a>
+echo_of_the_elements: <a href="https://www.wowhead.com/spell=333919/echo-of-the-elements" target="blank">Echo of the Elements</a>
+eote: <a href="https://www.wowhead.com/spell=333919/echo-of-the-elements" target="blank">Echo of the Elements</a>
+echo: <a href="https://www.wowhead.com/spell=333919/echo-of-the-elements" target="blank">Echo of the Elements</a>
 
-call_the_thunder: <a href="https://ptr.wowhead.com/spell=260897/call-the-thunder" target="blank">Call the Thunder</a>
-ctt: <a href="https://ptr.wowhead.com/spell=260897/call-the-thunder" target="blank">Call the Thunder</a>
+elemental_blast: <a href="https://www.wowhead.com/spell=117014" target="blank">Elemental Blast</a>
+eb: <a href="https://www.wowhead.com/spell=117014" target="blank">Elemental Blast</a>
 
-control_of_lava: <a href="https://shadowlands.wowhead.com/spell=204393" target="blank">Control of Lava</a>
-col: <a href="https://shadowlands.wowhead.com/spell=204393" target="blank">Control of Lava</a>
+fire_elemental: <a href="https://www.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
+fe: <a href="https://www.wowhead.com/spell=198067" target="blank">Fire Elemental</a>
 
-counterstrike_totem: <a href="https://shadowlands.wowhead.com/spell=204331" target="blank">Counterstrike Totem</a>
+icefury: <a href="https://www.wowhead.com/spell=210714" target="blank">Icefury</a>
+if: <a href="https://www.wowhead.com/spell=210714" target="blank">Icefury</a>
 
-earth_shield: <a href="https://shadowlands.wowhead.com/spell=974" target="blank">Earth Shield</a>
+lava_surge: <a href="https://www.wowhead.com/spell=77756" target="blank">Lava Surge</a>
+lvs: <a href="https://www.wowhead.com/spell=77756" target="blank">Lava Surge</a>
 
-earthfury: <a href="https://shadowlands.wowhead.com/spell=204398" target="blank">Earthfury</a>
+liquid_magma_totem: <a href="https://www.wowhead.com/spell=192222" target="blank">Liquid Magma Totem</a>
+lmt: <a href="https://www.wowhead.com/spell=192222" target="blank">Liquid Magma Totem</a>
 
-earthen_rage: <a href="https://shadowlands.wowhead.com/spell=170374" target="blank">Earthen Rage</a>
-er: <a href="https://shadowlands.wowhead.com/spell=170374" target="blank">Earthen Rage</a>
+master_of_the_elements: <a href="https://www.wowhead.com/spell=16166" target="blank">Master of the Elements</a>
+mote: <a href="https://www.wowhead.com/spell=16166" target="blank">Master of the Elements</a>
 
-echo_of_the_elements: <a href="https://shadowlands.wowhead.com/spell=108283" target="blank">Echo of the Elements</a>
-eote: <a href="https://shadowlands.wowhead.com/spell=108283" target="blank">Echo of the Elements</a>
-echo: <a href="https://shadowlands.wowhead.com/spell=108283" target="blank">Echo of the Elements</a>
+primal_elementalist: <a href="https://www.wowhead.com/spell=117013" target="blank">Primal Elementalist</a>
+pe: <a href="https://www.wowhead.com/spell=117013" target="blank">Primal Elementalist</a>
 
-echoing_shock: <a href="https://shadowlands.wowhead.com/spell=320125" target="blank"> Echoing Shock</a>
-ecs: <a href="https://shadowlands.wowhead.com/spell=320125" target="blank"> Echoing Shock</a>
+primordial wave: <a href="https://www.wowhead.com/spell=375982/primordial-wave" target="blank">Primordial Wave</a>
+pw: <a href="https://www.wowhead.com/spell=375982/primordial-wave" target="blank">Primordial Wave</a>
 
-elemental_attunement: <a href="https://shadowlands.wowhead.com/spell=204385" target="blank">Elemental Attunement</a>
+storm_elemental: <a href="https://www.wowhead.com/spell=192249" target="blank">Storm Elemental</a>
+se: <a href="https://www.wowhead.com/spell=192249" target="blank">Storm Elemental</a>
 
-elemental_blast: <a href="https://shadowlands.wowhead.com/spell=117014" target="blank">Elemental Blast</a>
-eb: <a href="https://shadowlands.wowhead.com/spell=117014" target="blank">Elemental Blast</a>
+stormkeeper: <a href="https://www.wowhead.com/spell=191634" target="blank">Stormkeeper</a>
+sk: <a href="https://www.wowhead.com/spell=191634" target="blank">Stormkeeper</a>
 
-exposed_elements: <a href="https://shadowlands.wowhead.com/spell=260694" target="blank">Exposed Elements</a>
-ee: <a href="https://shadowlands.wowhead.com/spell=260694" target="blank">Exposed Elements</a>
+surge_of_power: <a href="https://www.wowhead.com/spell=262303/surge-of-power" target="blank">Surge of Power</a>
+sop: <a href="https://www.wowhead.com/spell=262303/surge-of-power" target="blank">Surge of Power</a>
 
-gladiators_medallion: <a href="https://shadowlands.wowhead.com/spell=208683" target="blank">Gladiator's Medallion</a>
-medallion: <a href="https://shadowlands.wowhead.com/spell=208683" target="blank">Gladiator's Medallion</a>
+swelling_maelstrom: <a href="https://www.wowhead.com/spell=381707/swelling-maelstrom" target="blank">Swelling Maelstrom</a>
 
-grounding_totem: <a href="https://shadowlands.wowhead.com/spell=204336" target="blank">Grounding Totem</a>
+# Class Tree
 
-high_voltage: <a href="https://shadowlands.wowhead.com/spell=260890" target="blank">High Voltage</a>
-hv: <a href="https://shadowlands.wowhead.com/spell=260890" target="blank">High Voltage</a>
+ancestral_guidance: <a href="https://www.wowhead.com/spell=108281" target="blank">Ancestral Guidance</a>
+ag: <a href="https://www.wowhead.com/spell=108281" target="blank">Ancestral Guidance</a>
 
-icefury: <a href="https://shadowlands.wowhead.com/spell=210714" target="blank">Icefury</a>
-if: <a href="https://shadowlands.wowhead.com/spell=210714" target="blank">Icefury</a>
+astral_shift: <a href="https://www.wowhead.com/spell=108271" target="blank">Astral Shift</a>
+as: <a href="https://www.wowhead.com/spell=108271" target="blank">Astral Shift</a>
 
-lightning_lasso: <a href="https://shadowlands.wowhead.com/spell=204437" target="blank">Lightning Lasso</a>
+capacitor_totem: <a href="https://www.wowhead.com/spell=192058" target="blank">Capacitor Totem</a>
 
-liquid_magma_totem: <a href="https://shadowlands.wowhead.com/spell=192222" target="blank">Liquid Magma Totem</a>
-lmt: <a href="https://shadowlands.wowhead.com/spell=192222" target="blank">Liquid Magma Totem</a>
+chain_heal: <a href="https://www.wowhead.com/spell=1064" target="blank">Chain Heal</a>
 
-master_of_the_elements: <a href="https://shadowlands.wowhead.com/spell=16166" rel="domain=bfa" target="blank">Master of the Elements</a>
-mote: <a href="https://shadowlands.wowhead.com/spell=16166" rel="domain=bfa" target="blank">Master of the Elements</a>
+cleanse_spirit: <a href="https://www.wowhead.com/spell=51886" target="blank">Cleanse Spirit</a>
 
-natures_guardian: <a href="https://shadowlands.wowhead.com/spell=30884" target="blank">Nature's Guardian</a>
+earth_elemental: <a href="https://www.wowhead.com/spell=198103" target="blank">Earth Elemental</a>
+ee: <a href="https://www.wowhead.com/spell=198103" target="blank">Earth Elemental</a>
 
-primal_elementalist: <a href="https://shadowlands.wowhead.com/spell=117013" target="blank">Primal Elementalist</a>
-pe: <a href="https://shadowlands.wowhead.com/spell=117013" target="blank">Primal Elementalist</a>
+earth_shield: <a href="https://www.wowhead.com/spell=974" target="blank">Earth Shield</a>
 
-purifying_waters: <a href="https://shadowlands.wowhead.com/spell=204247" target="blank">Purifying Waters</a>
+healing_stream_totem: <a href="https://www.wowhead.com/spell=5394" target="blank">Healing Stream Totem</a>
 
-spirit_wolf: <a href="https://shadowlands.wowhead.com/spell=260878" target="blank">Spirit Wolf</a>
-sw: <a href="https://shadowlands.wowhead.com/spell=260878" target="blank">Spirit Wolf</a>
+hex: <a href="https://www.wowhead.com/spell=51514" target="blank">Hex</a>
 
-relentless: <a href="https://shadowlands.wowhead.com/spell=196029" target="blank">Relentless</a>
+lightning_lasso: <a href="https://www.wowhead.com/spell=305483/lightning-lasso" target="blank">Lightning Lasso</a>
 
-skyfury_totem: <a href="https://shadowlands.wowhead.com/spell=204330" target="blank">Skyfury Totem</a>
+natures_guardian: <a href="https://www.wowhead.com/spell=30884" target="blank">Nature's Guardian</a>
 
-spectral_recovery: <a href="https://shadowlands.wowhead.com/spell=204261" target="blank">Spectral Recovery</a>
+purge: <a href="https://www.wowhead.com/spell=370" target="blank">Purge</a>
 
-static_charge: <a href="https://shadowlands.wowhead.com/spell=265046" target="blank">Static Charge</a>
+spirit_wolf: <a href="https://www.wowhead.com/spell=260878" target="blank">Spirit Wolf</a>
+sw: <a href="https://www.wowhead.com/spell=260878" target="blank">Spirit Wolf</a>
 
-static_discharge: <a href="https://shadowlands.wowhead.com/spell=342243" target="blank">Static Discharge</a>
-sd: <a href="https://shadowlands.wowhead.com/spell=342243" target="blank">Static Discharge</a>
+static_charge: <a href="https://www.wowhead.com/spell=265046" target="blank">Static Charge</a>
 
-storm_elemental: <a href="https://shadowlands.wowhead.com/spell=192249" rel="domain=bfa" target="blank">Storm Elemental</a>
-se: <a href="https://shadowlands.wowhead.com/spell=192249" rel="domain=bfa" target="blank">Storm Elemental</a>
+spiritwalkers_grace: <a href="https://www.wowhead.com/spell=79206" target="blank">Spiritwalker's Grace</a>
+swg: <a href="https://www.wowhead.com/spell=79206" target="blank">Spiritwalker's Grace</a>
 
-stormkeeper: <a href="https://shadowlands.wowhead.com/spell=191634" rel="domain=bfa" target="blank">Stormkeeper</a>
-sk: <a href="https://shadowlands.wowhead.com/spell=191634" rel="domain=bfa" target="blank">Stormkeeper</a>
+thunderstorm: <a href="https://www.wowhead.com/spell=51490" target="blank">Thunderstorm</a>
 
-surge_of_power: <a href="https://ptr.wowhead.com/spell=262303/surge-of-power" target="blank">Surge of Power</a>
-sop: <a href="https://ptr.wowhead.com/spell=262303/surge-of-power" target="blank">Surge of Power</a>
+tremor_totem: <a href="https://www.wowhead.com/spell=8143" target="blank">Tremor Totem</a>
 
-swelling_waves: <a href="https://shadowlands.wowhead.com/spell=204264" target="blank">Swelling Waves</a>
+wind_rush_totem: <a href="https://www.wowhead.com/spell=192077" target="blank">Wind Rush Totem</a>
+wrt: <a href="https://www.wowhead.com/spell=192077" target="blank">Wind Rush Totem</a>
 
-traveling_storms: <a href="https://shadowlands.wowhead.com/spell=204403" target="blank">Traveling Storms</a>
+# PvP
+control_of_lava: <a href="https://www.wowhead.com/spell=204393" target="blank">Control of Lava</a>
+col: <a href="https://www.wowhead.com/spell=204393" target="blank">Control of Lava</a>
 
-unlimited_power: <a href="https://shadowlands.wowhead.com/spell=260895" target="blank">Unlimited Power</a>
-up: <a href="https://shadowlands.wowhead.com/spell=260895" target="blank">Unlimited Power</a>
+counterstrike_totem: <a href="https://www.wowhead.com/spell=204331" target="blank">Counterstrike Totem</a>
 
-wind_rush_totem: <a href="https://shadowlands.wowhead.com/spell=192077" target="blank">Wind Rush Totem</a>
-wrt: <a href="https://shadowlands.wowhead.com/spell=192077" target="blank">Wind Rush Totem</a>
+grounding_totem: <a href="https://www.wowhead.com/spell=204336" target="blank">Grounding Totem</a>
+
+skyfury_totem: <a href="https://www.wowhead.com/spell=204330" target="blank">Skyfury Totem</a>
+
+spectral_recovery: <a href="https://www.wowhead.com/spell=204261" target="blank">Spectral Recovery</a>
+
+swelling_waves: <a href="https://www.wowhead.com/spell=204264" target="blank">Swelling Waves</a>
+
+traveling_storms: <a href="https://www.wowhead.com/spell=204403" target="blank">Traveling Storms</a>
+
+
