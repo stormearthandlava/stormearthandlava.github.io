@@ -75,7 +75,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Utilities:**
 
-* Use {{ site.data.talent.wind_shear }} to interrupt [Pyroblast](https://www.wowhead.com/spell=396040/pyroblast) from [Flamescale Captain](https://www.wowhead.com/npc=199233/flamescale-captain) (Mythic).
+* Use {{ site.data.spell.wind_shear }} to interrupt [Pyroblast](https://www.wowhead.com/spell=396040/pyroblast) from [Flamescale Captain](https://www.wowhead.com/npc=199233/flamescale-captain) (Mythic).
 * Use {{ site.data.talent.thunderstorm }} if necessary to keep distance when chased by [Kill Order](https://www.wowhead.com/spell=370597/kill-order) from [Flamescale Tarasek](https://www.wowhead.com/npc=187638/flamescale-tarasek).
 * Use {{ site.data.talent.capacitor_totem }} and {{ site.data.spell.earthbind_totem }} to keep [Flamescale Tarasek](https://www.wowhead.com/npc=187638/flamescale-tarasek) stacked as soon as they spawn.
 
@@ -167,7 +167,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Utilities:**
 
-* Use {{ site.data.talent.wind_shear }} to interrupt [Frost Spike](https://www.wowhead.com/spell=372315/frost-spike) from [Kadros Icewrath](https://www.wowhead.com/npc=187771/kadros-icewrath) and [Lightning Bolt](https://www.wowhead.com/spell=372394/lightning-bolt) from [Dathea Stormlash](https://www.wowhead.com/npc=187768/dathea-stormlash).
+* Use {{ site.data.spell.wind_shear }} to interrupt [Frost Spike](https://www.wowhead.com/spell=372315/frost-spike) from [Kadros Icewrath](https://www.wowhead.com/npc=187771/kadros-icewrath) and [Lightning Bolt](https://www.wowhead.com/spell=372394/lightning-bolt) from [Dathea Stormlash](https://www.wowhead.com/npc=187768/dathea-stormlash).
 * If talented, use {{ site.data.talent.wrt }} to help your raid dealing with [Meteor Axe](https://www.wowhead.com/spell=374043/meteor-axe) and [Conductive Mark](https://www.wowhead.com/spell=391686/conductive-mark).
 
 </div>
@@ -234,7 +234,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Utilities:**
 
-* Use {{ site.data.talent.wind_shear }} to interrupt [Diverted Essence](https://www.wowhead.com/spell=387943/diverted-essence) from [Volatile Infuser](https://www.wowhead.com/npc=197671/volatile-infuser) and [Storm Bolt](https://www.wowhead.com/spell=384292/storm-bolt) from [Thunder Caller](https://www.wowhead.com/npc=194647/thunder-caller).
+* Use {{ site.data.spell.wind_shear }} to interrupt [Diverted Essence](https://www.wowhead.com/spell=387943/diverted-essence) from [Volatile Infuser](https://www.wowhead.com/npc=197671/volatile-infuser) and [Storm Bolt](https://www.wowhead.com/spell=384292/storm-bolt) from [Thunder Caller](https://www.wowhead.com/npc=194647/thunder-caller).
 * Use {{ site.data.talent.capacitor_totem }} and {{ site.data.talent.thunderstorm }} to gather and stun [Thunder Caller](https://www.wowhead.com/npc=194647/thunder-caller) if necessary.
 * If talented, use {{ site.data.talent.wrt }} to help your raid dealing with [Cyclone](https://www.wowhead.com/spell=376943/cyclone).
 
@@ -277,7 +277,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Utilities:**
 
-* Use {{ site.data.talent.wind_shear }} to interrupt [Frost Binds](https://www.wowhead.com/spell=374623/frost-binds) from [Frozen Destroyer](https://www.wowhead.com/npc=190686/frozen-destroyer) and [Flame Bolt](https://www.wowhead.com/spell=376063/flame-bolt) from [Smoldering Hellion](https://www.wowhead.com/npc=191510/smoldering-hellion).
+* Use {{ site.data.spell.wind_shear }} to interrupt [Frost Binds](https://www.wowhead.com/spell=374623/frost-binds) from [Frozen Destroyer](https://www.wowhead.com/npc=190686/frozen-destroyer) and [Flame Bolt](https://www.wowhead.com/spell=376063/flame-bolt) from [Smoldering Hellion](https://www.wowhead.com/npc=191510/smoldering-hellion).
 * If talented, use {{ site.data.talent.wrt }} to help your raid repositioning whenever you are switching altars.
 
 **PTR PoVs:**
@@ -316,7 +316,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Utilities:**
 
-* Use {{ site.data.talent.wind_shear }} to interrupt [Ice Barrage](https://www.wowhead.com/spell=375716/ice-barrage) from [Primalist Mage](https://www.wowhead.com/npc=191206/primalist-mage) and [Static Jolt](https://www.wowhead.com/spell=375653/static-jolt) from [Drakonid Stormbringer](https://www.wowhead.com/npc=191232/drakonid-stormbringer).
+* Use {{ site.data.spell.wind_shear }} to interrupt [Ice Barrage](https://www.wowhead.com/spell=375716/ice-barrage) from [Primalist Mage](https://www.wowhead.com/npc=191206/primalist-mage) and [Static Jolt](https://www.wowhead.com/spell=375653/static-jolt) from [Drakonid Stormbringer](https://www.wowhead.com/npc=191232/drakonid-stormbringer).
 * Use {{ site.data.talent.capacitor_totem }} and {{ site.data.talent.thunderstorm }} to gather and stun adds waves if necessary.
 * Use {{ site.data.spell.ghost_wolf }} if {{ site.data.talent.thunderous_paws }} is talented to free yourself from [Frozen Shroud](https://www.wowhead.com/spell=388918/frozen-shroud) (not confirmed to work).
 * If talented, use {{ site.data.talent.wrt }} to help your raid repositioning when new add waves are about to spawn.
