@@ -3,7 +3,7 @@ layout: page
 title: Primordial Surge ST
 last_update: 12/12/2022
 game_version: 10.0.2 Dragonflight
-toc: true
+toc: false
 ---
 
 # What does this build do?
