@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Primordial Surge ST
-last_update: 24/11/2022
+last_update: 12/12/2022
 game_version: 10.0.2 Dragonflight
 toc: true
 ---
@@ -12,8 +12,9 @@ This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data
 As the name suggests this is predominately aimed at single target but due to taking {{ site.data.talent.lvs }}, {{ site.data.talent.magma_chamber }} and {{ site.data.talent.pw }} it will naturally benefit from a couple of additional targets.
 
 # What does it look like?
-
-https://www.raidbots.com/simbot/render/talents/DAMBBRBAFBEIgAgBANVRRRVFSJVAoQUDAAA
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/DAMBBRBAFBEIgAgBANVRRRVFSJVAoQUDAAA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  </div>
 
 # Stats
 
@@ -31,7 +32,7 @@ https://www.raidbots.com/simbot/render/talents/DAMBBRBAFBEIgAgBANVRRRVFSJVAoQUDA
 
 ## Key Notes
  - Straightfoward loop: cast your cooldowns, use {{ site.data.spell.lvb }}, use {{ site.data.talent.eb }}, {{ site.data.talent.if }} and {{ site.data.spell.frs}} become improved filler spells.
- - {{ site.data.talent.if }} and {{ site.data.spell.frs}} drop like a stone when you add a second target!
+ - {{ site.data.talent.if }} and {{ site.data.spell.frs}} become movement-enabling globals when more than one target is present.
  - Due to elements like {{ site.data.talent.ps }} and its supporting talents you should continue to utilise {{ site.data.talent.lvs }} procs even if you end up facing multiple targets.
  - {{ site.data.spell.eq }} replaces {{ site.data.talent.eb }} at 4 or more targets.
 
