@@ -1,7 +1,7 @@
 ---
 title: "Season Four, Raiding and YOU!"
 date: 06/08/2022
-game_version 9.2.5 Shadowlands
+game_version: 9.2.5 Shadowlands
 author: Eokira
 toc: false
 ---
