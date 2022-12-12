@@ -59,7 +59,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Talents:**
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSLJQCJNKBSSSAAAAAAAlAkSS0STUgUSSSLASSAA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-</div>
+  </div>
 
 **Damage**
 
