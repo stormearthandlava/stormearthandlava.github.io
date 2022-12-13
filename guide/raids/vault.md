@@ -24,8 +24,6 @@ The tips and recommendations listed here are based on educated opinions from PTR
 # Miscellaneous Tips
 - Recommendations that include {{ site.data.talent.if }} are written with the assumption that you have access to {{ site.data.spell.frs }}, the same applies to {{ site.data.talent.lmt }}, {{ site.data.talent.totemic_recall }} and {{ site.data.talent.call_of_the_elements }}.
 
-- Talent recommendations cover loadouts specifically built for their respective encounter profile. For general advice regarding talent builds take a look at the indepth discussion on our [Talents page](https://stormearthandlava.com/guide/general/talents.html).
-
 - The final boss (Raszageth) was not tested on PTR so no footage for those bosses exists.
 
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
