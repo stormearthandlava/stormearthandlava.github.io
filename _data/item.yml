@@ -120,24 +120,33 @@ gem_p_speed: <a href="https://www.wowhead.com/item=194114/straddling-illimited-d
 
 # DF Enchants
 ench_chest_int: <a href="https://www.wowhead.com/spell=389417/reserve-of-intellect" target="blank">Reserve of Intellect</a>
-ench_chest_stats: <a href="https://www.wowhead.com/spell=389410/waking-stats" target="blank">Waking Stats</a>
+ench_chest_stats: <a href="https://www.wowhead.com/item=200030/enchant-chest-waking-stats" target="blank">Waking Stats</a>
 ench_wep_crit: <a href="https://www.wowhead.com/spell=389537/burning-writ" target="blank">Burning Writ</a>
 ench_wep_mast: <a href="https://www.wowhead.com/spell=389540/earthen-writ" target="blank">Earthen Writ</a>
-ench_wep_intlower: <a href="https://www.wowhead.com/spell=389542/titanic-writ" target="blank">Titanic Writ</a>
-ench_wep_inthigher: <a href="https://www.wowhead.com/spell=389550/titanic-devotion" target="blank">Titanic Devotion</a>
+ench_wep_intlower: <a href="https://www.wowhead.com/item=200055/enchant-weapon-sophic-writ" target="blank">Sophic Writ</a>
+ench_wep_inthigher: <a href="https://www.wowhead.com/item=200054/enchant-weapon-sophic-devotion" target="blank">Sophic Devotion</a>
 ench_wep_vers: <a href="https://www.wowhead.com/spell=389543/frozen-writ" target="blank">Frozen Writ</a>
 ench_wep_hastelower: <a href="https://www.wowhead.com/spell=389546/wafting-writ" target="blank">Wafting Writ</a>
 ench_wep_hastehigher: <a href="https://www.wowhead.com/spell=389558/wafting-devotion" target="blank">Wafting Devotion</a>
 ench_wri_av: <a href="https://www.wowhead.com/spell=389301/devotion-of-avoidance" target="blank">Devotion of Avoidance</a>
-ench_wri_le: <a href="https://www.wowhead.com/spell=389303/devotion-of-leech" target="blank">Devotion of Leech</a>
+ench_wri_le: <a href="https://www.wowhead.com/item=200022/enchant-bracer-devotion-of-leech" target="blank">Devotion of Leech</a>
+ench_wri_le_low: <a href="https://www.wowhead.com/item=200025/enchant-bracer-writ-of-leech" target="blank">Writ of Leech</a>
 ench_wri_sp: <a href="https://www.wowhead.com/spell=389304/devotion-of-speed" target="blank">Devotion of Speed</a>
-ench_ring_crit: <a href="https://www.wowhead.com/spell=389292/devotion-of-critical-strike" target="blank">Devotion of Critical Strike</a>
-ench_ring_haste: <a href="https://www.wowhead.com/spell=389293/devotion-of-haste" target="blank">Devotion of Haste</a>
-ench_ring_mast: <a href="https://www.wowhead.com/spell=389294/devotion-of-mastery" target="blank">Devotion of Mastery</a>
-ench_ring_vers: <a href="https://www.wowhead.com/spell=389295/devotion-of-versatility" target="blank">Devotion of Versatility</a>
+
+ench_ring_crit: <a href="https://www.wowhead.com/item=200037/enchant-ring-devotion-of-critical-strike" target="blank">Devotion of Critical Strike</a>
+ench_ring_haste: <a href="https://www.wowhead.com/item=200038/enchant-ring-devotion-of-haste" target="blank">Devotion of Haste</a>
+ench_ring_mast: <a href="https://www.wowhead.com/item=200039/enchant-ring-devotion-of-mastery" target="blank">Devotion of Mastery</a>
+ench_ring_vers: <a href="https://www.wowhead.com/item=200040/enchant-ring-devotion-of-versatility" target="blank">Devotion of Versatility</a>
+
+ench_ring_crit_low: <a href="https://www.wowhead.com/item=200041/enchant-ring-writ-of-critical-strike" target="blank">Writ of Critical Strike</a>
+ench_ring_haste_low: <a href="https://www.wowhead.com/item=200042/enchant-ring-writ-of-haste" target="blank">Writ of Haste</a>
+ench_ring_mast_low: <a href="https://www.wowhead.com/item=200043/enchant-ring-writ-of-mastery" target="blank">Writ of Mastery</a>
+ench_ring_vers_low: <a href="https://www.wowhead.com/item=200044/enchant-ring-writ-of-versatility" target="blank">Writ of Versatility</a>
+
 ench_back_av: <a href="https://www.wowhead.com/spell=389403/graceful-avoidance" target="blank">Graceful Avoidance</a>
 ench_back_sp: <a href="https://www.wowhead.com/spell=389405/homebound-speed" target="blank">Homebound Speed</a>
-ench_back_le: <a href="https://www.wowhead.com/spell=389404/regenerative-leech" target="blank">Regenerative Leech</a>
+ench_back_le: <a href="https://www.wowhead.com/item=200033/enchant-cloak-regenerative-leech" target="blank">Regenerative Leech</a>
+ench_back_le_low: <a href="https://www.wowhead.com/item=200035/enchant-cloak-writ-of-leech" target="blank">Writ of Leech</a>
 ench_boots_stam: <a href="https://www.wowhead.com/spell=389484/watchers-loam" target="blank">Watcher's Loam</a>
 ench_boots_sp: <a href="https://www.wowhead.com/spell=389479/plainsrunners-breeze" target="blank">Plainsrunner's Breeze</a>
 
@@ -202,7 +211,7 @@ versatile_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173129" t
 vers_gem: <a href="https://shadowlands.wowhead.com/item=173129" target="blank">Versatile Jewel Cluster</a>
 
 # SL Enchants
-eternal_insight: <a href=" https://shadowlands.wowhead.com/spell=342316" target="blank">Eternal Insight</a>
+eternal_insight: <a href="https://www.wowhead.com/item=183738/enchant-chest-eternal-insight" target="blank">Eternal Insight</a>
 celestial_guidance: <a href=" https://shadowlands.wowhead.com/spell=309627" target="blank">Celestial Guidance</a>
 lightless_force: <a href=" https://shadowlands.wowhead.com/spell=309620" target="blank">Lightless Force</a>
 sinful_revelation: <a href="https://shadowlands.wowhead.com/spell=309623" target="blank">Sinful Revelation</a>
