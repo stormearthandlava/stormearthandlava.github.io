@@ -42,6 +42,9 @@ potion_g: <a href="https://www.wowhead.com/item=191396/potion-of-gusts" target="
 potion_sd: <a href="https://www.wowhead.com/item=191399/potion-of-shocking-disclosure" target="blank">Potion of Shocking Disclosure</a>
 
 # DF Food
+food_int: <a href="https://www.wowhead.com/item=197792/fated-fortune-cookie" target="blank">Fated Fortune Cookie</a>
+food_ffc: <a href="https://www.wowhead.com/item=197792/fated-fortune-cookie" target="blank">Fated Fortune Cookie</a>
+
 food_int_stam_high: <a href="https://www.wowhead.com/item=197790/roast-duck-delight" target="blank">Roast Duck Delight</a>
 food_rdd: <a href="https://www.wowhead.com/item=197790/roast-duck-delight" target="blank">Roast Duck Delight</a>
 
