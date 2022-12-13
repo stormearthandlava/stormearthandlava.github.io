@@ -10,12 +10,14 @@ categories:
       url: /guide/general/priority_list.html
     - title: Stats
       url: /guide/general/stats.html
+    - title: F.A.Q.
+      url: /guide/general/faq.html
+    - title: Macros
+      url: /guide/general/macros.html
     - title: Trinkets
       url: /guide/general/trinkets.html
     - title: Consumables
       url: /guide/general/consumables.html
-    - title: F.A.Q.
-      url: /guide/general/faq.html
 - title: Mythic+
   url: /guide/mythic_plus/mythic_plus.html
 - title: Raids
