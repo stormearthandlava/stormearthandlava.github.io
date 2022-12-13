@@ -22,7 +22,7 @@ toc: true
 ## Damage Potion
 1. {{ site.data.item.potion_up }} will be your choice where it is available.
 1. {{ site.data.item.potion_p }} will be your choice where {{ site.data.item.potion_up }} is not available.
-1. {{ site.data.item potion_bp }} and {{ site.data.item.potion_sd }} may be considered in specific circumstances that suit them, use at your own discretion. 
+1. {{ site.data.item potion_bp }} and {{ site.data.item.potion_sd }} may be considered in specific circumstances that suit them, use your best judgement!
 
 ## Health Potion
 1. {{ site.data.item.potion_rhp }}
