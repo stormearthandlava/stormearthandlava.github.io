@@ -132,7 +132,7 @@ ench_wri_av: <a href="https://www.wowhead.com/spell=389301/devotion-of-avoidance
 ench_wri_av_low: <a href="https://www.wowhead.com/item=200024/enchant-bracer-writ-of-avoidance" target="blank">Writ of Avoidance</a>
 ench_wri_le: <a href="https://www.wowhead.com/item=200022/enchant-bracer-devotion-of-leech" target="blank">Devotion of Leech</a>
 ench_wri_le_low: <a href="https://www.wowhead.com/item=200025/enchant-bracer-writ-of-leech" target="blank">Writ of Leech</a>
-ench_wri_sp: <a href="https://www.wowhead.com/spell=389304/devotion-of-speed" target="blank">Devotion of Speed</a>
+ench_wri_sp: <a href="https://www.wowhead.com/item=200023/enchant-bracer-devotion-of-speed" target="blank">Devotion of Speed</a>
 ench_wri_sp_low: <a href="https://www.wowhead.com/item=200026/enchant-bracer-writ-of-speed" target="blank">Writ of Speed</a>
 
 ench_ring_crit: <a href="https://www.wowhead.com/item=200037/enchant-ring-devotion-of-critical-strike" target="blank">Devotion of Critical Strike</a>
@@ -145,14 +145,14 @@ ench_ring_haste_low: <a href="https://www.wowhead.com/item=200042/enchant-ring-w
 ench_ring_mast_low: <a href="https://www.wowhead.com/item=200043/enchant-ring-writ-of-mastery" target="blank">Writ of Mastery</a>
 ench_ring_vers_low: <a href="https://www.wowhead.com/item=200044/enchant-ring-writ-of-versatility" target="blank">Writ of Versatility</a>
 
-ench_back_av: <a href="https://www.wowhead.com/spell=389403/graceful-avoidance" target="blank">Graceful Avoidance</a>
+ench_back_av: <a href="https://www.wowhead.com/item=200031/enchant-cloak-graceful-avoidance" target="blank">Graceful Avoidance</a>
 ench_back_av_low: <a href="https://www.wowhead.com/item=200034/enchant-cloak-writ-of-avoidance" target="blank">Writ of Avoidance</a>
-ench_back_sp: <a href="https://www.wowhead.com/spell=389405/homebound-speed" target="blank">Homebound Speed</a>
+ench_back_sp: <a href="https://www.wowhead.com/item=200032/enchant-cloak-homebound-speed" target="blank">Homebound Speed</a>
 ench_back_sp_low: <a href="https://www.wowhead.com/item=200036/enchant-cloak-writ-of-speed" target="blank">Writ of Speed</a>
 ench_back_le: <a href="https://www.wowhead.com/item=200033/enchant-cloak-regenerative-leech" target="blank">Regenerative Leech</a>
 ench_back_le_low: <a href="https://www.wowhead.com/item=200035/enchant-cloak-writ-of-leech" target="blank">Writ of Leech</a>
-ench_boots_stam: <a href="https://www.wowhead.com/spell=389484/watchers-loam" target="blank">Watcher's Loam</a>
-ench_boots_sp: <a href="https://www.wowhead.com/spell=389479/plainsrunners-breeze" target="blank">Plainsrunner's Breeze</a>
+ench_boots_stam: <a href="https://www.wowhead.com/item=200020/enchant-boots-watchers-loam" target="blank">Watcher's Loam</a>
+ench_boots_sp: <a href="https://www.wowhead.com/item=200018/enchant-boots-plainsrunners-breeze" target="blank">Plainsrunner's Breeze</a>
 
 # DF Oddities
 rune_crit: <a href="https://www.wowhead.com/item=194823/buzzing-rune" target="blank">Buzzing Rune</a>
