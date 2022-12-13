@@ -32,12 +32,12 @@ toc: true
 Gear slot | Enchant | Affordable Alternative
 --- | --- | ---
 Weapon | {{ site.data.item.ench_wep_inthigher }} | {{ site.data.item.ench_wep_intlower }}
-Cloak | {{ site.data.item.ench_back_av }} {{ site.data.item.ench_back_sp }} {{ site.data.item.ench_back_le }} | {{ site.data.item.ench_back_av_low }} {{ site.data.item.ench_back_sp_low }} {{ site.data.item.ench_bank_le_low }}
+Cloak | {{ site.data.item.ench_back_av }} or {{ site.data.item.ench_back_sp }} or {{ site.data.item.ench_back_le }} | {{ site.data.item.ench_back_av_low }} or {{ site.data.item.ench_back_sp_low }} or {{ site.data.item.ench_bank_le_low }}
 Chest | {{ site.data.item.ench_chest_stats }} | {{ site.data.item.eternal_insight }}
 Legs | {{ site.data.item.spellthread }} | {{ site.data.item.spellthread_lower }}
 Rings | {{ site.data.item.ench_ring_haste }} * | {{ site.data.item.ench_ring_haste_low }} *
-Bracers | {{ site.data.item.wri_av }} {{ site.data.item.ench_wri_le }} {{ site.data.item.ench_wri_sp }} | {{ site.data.item.ench_wri_av_low }} {{ site.data.item.ench_wri_le_low }} {{ site.data.item.ench_wri_sp_low }}
-Boots | {{ site.data.item.ench_boots_stam }} {{ site.data.item.ench_boots_sp }} | N/A 
+Bracers | {{ site.data.item.wri_av }} or {{ site.data.item.ench_wri_le }} or {{ site.data.item.ench_wri_sp }} | {{ site.data.item.ench_wri_av_low }} or {{ site.data.item.ench_wri_le_low }} or {{ site.data.item.ench_wri_sp_low }}
+Boots | {{ site.data.item.ench_boots_stam }} or {{ site.data.item.ench_boots_sp }} | N/A 
 
 Note: In addition to the Affordable Alternatives listed here, remember that prices will vary based on the consumable Quality also - use your best judgement!
 - Ring enchants can be optimised using Raidbots sims if desired, Haste is recommended here for its consistent value across most builds and content types.
