@@ -5,7 +5,29 @@ last_update: 13/12/2022
 game_version: 10.0.2 Dragonflight
 toc: true
 ---
+# Recommendations
+These trinkets are not displayed in any specific ranking order, but they are given notes that may be useful when deciding to use them. We do not have the ability to pick two trinkets and be optimal everywhere, the trinkets you use will be a result of what is available to you and what content you're currently tackling. The more options you have, generally, the better you can tailor your trinket use.
 
+## Raid
+* {{ site.data.item.ragefeather }} Solid proc trinket with good proc chance, the secondary effect helps ensure most procs result in their full damage eventually
+* {{ site.data.item.wii }} Strong passive trinket. Its sim values default to assume a tank and healer in your group also have this equipped which may not be true early on.
+* {{ site.data.item.hov }} Strong use trinket. If damage profiles require 2 minutes for a particular boss this trinket will be well suited for it.
+* {{ site.data.item.chillglobe }} Strong single-target damage trinket. Depending on how frequently you use your mana pool for utility/offhealing abilities, you may want a weakaura to help you not waste this trinket.
+
+
+## Mythic+
+* {{ site.data.item.wii }} Strong passive trinket. Its sim values default to assume a tank and healer in your group also have this equipped which may not be true early on.
+* {{ site.data.item.hov }} Strong use trinket. If using builds centered around burst windows for big pulls this trinket will be an excellent choice.
+* {{ site.data.item.writ }} Strong passive trinket. Crit is an excellent AoE stat for M+ use, it also drops from M+ making it a great early acquisition for M+ only players.
+* {{ site.data.item.shadowgem }} Strong use trinket. If using builds centered around burst windows for big pulls this trinket will be an excellent choice.
+
+## Special Mentions
+* Despite being capped at 372 due to how they are obtained, the following trinkets perform very well for their ilvl.
+    * {{ site.data.item.talon }}
+    * {{ site.data.item.spoils }}
+    * {{ site.data.item.fragment }}
+
+# Bloodmallet Charts
 The following charts present the best trinkets in Patchwerk (single
 target), Patchwerk 3 Targets, and Patchwerk 5 Targets.
 
