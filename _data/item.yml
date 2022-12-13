@@ -129,9 +129,11 @@ ench_wep_vers: <a href="https://www.wowhead.com/spell=389543/frozen-writ" target
 ench_wep_hastelower: <a href="https://www.wowhead.com/spell=389546/wafting-writ" target="blank">Wafting Writ</a>
 ench_wep_hastehigher: <a href="https://www.wowhead.com/spell=389558/wafting-devotion" target="blank">Wafting Devotion</a>
 ench_wri_av: <a href="https://www.wowhead.com/spell=389301/devotion-of-avoidance" target="blank">Devotion of Avoidance</a>
+ench_wri_av_low: <a href="https://www.wowhead.com/item=200024/enchant-bracer-writ-of-avoidance" target="blank">Writ of Avoidance</a>
 ench_wri_le: <a href="https://www.wowhead.com/item=200022/enchant-bracer-devotion-of-leech" target="blank">Devotion of Leech</a>
 ench_wri_le_low: <a href="https://www.wowhead.com/item=200025/enchant-bracer-writ-of-leech" target="blank">Writ of Leech</a>
 ench_wri_sp: <a href="https://www.wowhead.com/spell=389304/devotion-of-speed" target="blank">Devotion of Speed</a>
+ench_wri_sp_low: <a href="https://www.wowhead.com/item=200026/enchant-bracer-writ-of-speed" target="blank">Writ of Speed</a>
 
 ench_ring_crit: <a href="https://www.wowhead.com/item=200037/enchant-ring-devotion-of-critical-strike" target="blank">Devotion of Critical Strike</a>
 ench_ring_haste: <a href="https://www.wowhead.com/item=200038/enchant-ring-devotion-of-haste" target="blank">Devotion of Haste</a>
