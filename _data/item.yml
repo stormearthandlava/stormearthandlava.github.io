@@ -160,74 +160,15 @@ rune_haste: <a href="https://www.wowhead.com/item=194820/howling-rune" target="b
 spellthread: <a href="https://www.wowhead.com/item=194013/frozen-spellthread" target="blank">Frozen Spellthread</a>
 spellthread_lower: <a href="https://www.wowhead.com/item=194009/vibrant-spellthread" target="blank">Vibrant Spellthread</a>
 
-
-# SL Flasks
-spectral_flask_of_stamina: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Spectral Flask of Power</a>
-stamina_flask: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Spectral Flask of Power</a>
-spectral_flask_of_power: <a href="https://shadowlands.wowhead.com/item=171276" target="blank">Spectral Flask of Power</a>
-mainstat_flask: <a href="https://shadowlands.wowhead.com/item=171276" target="blank">Spectral Flask of Power</a>
-eternal_cauldron: <a href="https://shadowlands.wowhead.com/item=171284" target="blank">Eternal Cauldron</a>
-
 # SL Potions
-spiritual_healing_potion: <a href="https://shadowlands.wowhead.com/item=171267" target="blank">Spiritual Healing Potion</a>
-cosmic_healing_potion:  <a href="https://shadowlands.wowhead.com/item=187802" target="blank">Cosmic Healing Potion</a>
 potion_of_concealment: <a href="https://shadowlands.wowhead.com/item=152503" target="blank">Potion of Concealment</a>
 potion_of_the_hidden_spirit: <a href="https://shadowlands.wowhead.com/item=261424" target="blank">Potion of the Hidden Spirit</a>
-potion_of_the_psychopomps_speed: <a href="https://shadowlands.wowhead.com/spell=344316" target="blank">Potion of the Psychopomp's Speed</a>
-potion_of_spectral_intellect: <a href="https://shadowlands.wowhead.com/item=171273" target="blank">Potion of Spectral Intellect</a>
-int_pot: <a href="https://shadowlands.wowhead.com/item=171273" target="blank">Potion of Spectral Intellect</a>
-potion_of_spectral_stamina: <a href="https://shadowlands.wowhead.com/item=171278" target="blank">Potion of Spectral Stamina</a>
-potion_of_deathly_fixation: <a href="https://shadowlands.wowhead.com/item=171351" target="blank">Potion of Deathly Fixation</a>
-potion_of_empowered_exorcisms: <a href="https://shadowlands.wowhead.com/item=171352" target="blank">Potion of Empowered Exorcisms</a>
-potion_of_phantom_fire: <a href="https://shadowlands.wowhead.com/item=171349" target="blank">Potion of Phantom Fire</a>
-potion_of_sacrificial_anima: <a href="https://shadowlands.wowhead.com/item=176811" target="blank">Potion of Sacrificial Anima</a>
-potion_of_divine_awakening: <a href="https://shadowlands.wowhead.com/item=171350" target="blank">Potion of Divine Awakening</a>
 
 # BFA Potions
 sea_mist_potion: <a href="https://shadowlands.wowhead.com/item=152550" target="blank">Sea Mist Potion</a>
 
-# SL Food
-surprisingly_palatable_feast: <a href="https://shadowlands.wowhead.com/item=172042" target="blank">Surprisingly Palatable Feast</a>
-feast_of_gluttonous_hedonism: <a href="https://shadowlands.wowhead.com/item=172043" target="blank">Feast of Gluttonous Hedonism</a>
-feast: <a href="https://shadowlands.wowhead.com/item=172043" target="blank">Feast of Gluttonous Hedonism</a>
-smothered_shank: <a href="https://shadowlands.wowhead.com/item=172062" target="blank">Smothered Shank</a>
-iridescent_ravioli_with_apple_sauce: <a href="https://shadowlands.wowhead.com/item=172049" target="blank">Iridescent Ravioli with Apple Sauce</a>
-mastery_food: <a href="https://shadowlands.wowhead.com/item=172049" target="blank">Iridescent Ravioli with Apple Sauce</a>
-steak_a_la_mode: <a href="https://shadowlands.wowhead.com/item=172051" target="blank">Steak a la Mode</a>
-vers_food: <a href="https://shadowlands.wowhead.com/item=172051" target="blank">Steak a la Mode</a>
-tenebrous_crown_roast_aspic: <a href="https://shadowlands.wowhead.com/item=172045" target="blank">Tenebrous Crown Roast Aspic</a>
-haste_food: <a href="https://shadowlands.wowhead.com/item=172045" target="blank">Tenebrous Crown Roast Aspic</a>
-spinefin_souffle_and_fries: <a href="https://shadowlands.wowhead.com/item=172041" target="blank">Spinefin Souffle and Fries</a>
-crit_food: <a href="https://shadowlands.wowhead.com/item=172041" target="blank">Spinefin Souffle and Fries</a>
-banana_beef_pudding: <a href="https://shadowlands.wowhead.com/item=172069/" target="blank">Banana Beef Pudding</a>
-stam_food: <a href="https://shadowlands.wowhead.com/item=172069/" target="blank">Banana Beef Pudding</a>
-
-# SL Gems
-insightful_rubellite: <a href="https://shadowlands.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
-exp_gem: <a href="https://shadowlands.wowhead.com/item=153714" target="blank">Insightful Rubellite</a>
-quick_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173128" target="blank">Quick Jewel Cluster</a>
-haste_gem: <a href="https://shadowlands.wowhead.com/item=173128" target="blank">Quick Jewel Cluster</a>
-masterful_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173130" target="blank">Masterful Jewel Cluster</a>
-mastery_gem: <a href="https://shadowlands.wowhead.com/item=173130" target="blank">Masterful Jewel Cluster</a>
-deadly_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173127" target="blank">Deadly Jewel Cluster</a>
-crit_gem: <a href="https://shadowlands.wowhead.com/item=173127" target="blank">Deadly Jewel Cluster</a>
-versatile_jewel_cluster: <a href="https://shadowlands.wowhead.com/item=173129" target="blank">Versatile Jewel Cluster</a>
-vers_gem: <a href="https://shadowlands.wowhead.com/item=173129" target="blank">Versatile Jewel Cluster</a>
-
 # SL Enchants
 eternal_insight: <a href="https://www.wowhead.com/item=183738/enchant-chest-eternal-insight" target="blank">Eternal Insight</a>
-celestial_guidance: <a href=" https://shadowlands.wowhead.com/spell=309627" target="blank">Celestial Guidance</a>
-lightless_force: <a href=" https://shadowlands.wowhead.com/spell=309620" target="blank">Lightless Force</a>
-sinful_revelation: <a href="https://shadowlands.wowhead.com/spell=309623" target="blank">Sinful Revelation</a>
-eternal_stats: <a href="https://shadowlands.wowhead.com/spell=324773" target="blank">Eternal Stats</a>
-eternal_intellect: <a href="https://shadowlands.wowhead.com/spell=309609" target="blank">Eternal Intellect</a>
-tenet_of_critical_strike: <a href="https://shadowlands.wowhead.com/spell=309616" target="blank">Tenet of Critical Strike</a>
-tenet_of_versatility: <a href="https://shadowlands.wowhead.com/spell=309619" target="blank">Tenet of Versatility</a>
-tenet_of_haste: <a href="https://shadowlands.wowhead.com/spell=309617" target="blank">Tenet of Haste</a>
-tenet_of_mastery: <a href="https://shadowlands.wowhead.com/spell=309618" target="blank">Tenet of Mastery</a>
-fortified_speed: <a href="https://shadowlands.wowhead.com/spell=309528" target="blank">Fortified Speed</a>
-fortified_avoidance:  <a href="https://shadowlands.wowhead.com/item=172411" target="blank">Fortified Avoidance</a>
-fortified_leech:  <a href="https://shadowlands.wowhead.com/item=172412" target="blank">Fortified Leech</a>
 
 # SL oddities
 shadowcore_oil: <a href="https://shadowlands.wowhead.com/item=171285" target="blank">Shadowcore Oil</a>
