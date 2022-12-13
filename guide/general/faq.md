@@ -1,8 +1,8 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 2022-03-11 09:00:00
-game_version: 9.2 Shadowlands
+last_update: 13/12/2022
+game_version: 10.0.2 Dragonflight
 toc: true
 ---
 
@@ -10,8 +10,13 @@ This page has the answers to some frequently asked questions for Elemental Shama
 
 ### Q: "Will Elemental be viable in <Expansion name> <game version>?"
 Firstly, no spec in the game is unviable. Certain specs may be favoured for certain bosses in a raid, but this is only relevant to the very highest end of raiding (ie, competing for world first). Elemental (and every other spec) will remain competitive for 99.9% of the playerbase.
-### Q: "Is there a point where I don't cast {{site.data.spell.es}} with {{site.data.legendary.eogs}} equipped?"
-**No**, the value added by the {{site.data.legendary.eogs}} buff scales with additional targets so it is **always** worthwhile to alternate spenders with {{site.data.legendary.eogs}} equipped.
+### Q: "Is there a point where I don't cast {{site.data.spell.es}} with {{site.data.talent.eogs}} talented?"
+**No**, unless you have {{ site.data.talent.eb }} talented this part of the rotation remains the same as Shadowlands: always alternate!
+
+### Q: "Okay, so what about {{ site.data.talent.eb }} and/or {{ site.data.talent.eogs }} then?!"
+**Yes**, these talent choices do impact your spender use
+   - If you have taken {{ site.data.talent.eb }} and *not* {{ site.data.talent.eogs }} then you will use {{ site.data.talent.eb }} instead of {{ site.data.spell.eq }} until 4 targets are present.
+   - If you have taken {{ site.data.talent.eb }} *and* {{ site.data.talent.eogs }} then you will ignore {{ site.data.talent.eogs }}'s effect until 2 targets are present.
  
 ### Q: "What Pots/Food/Flasks should I use?"
 See the [Consumables]({{ site.baseurl }}{% link guide/general/consumables.md %}) section of the guide.
@@ -28,25 +33,20 @@ Yes, {{ site.data.spell.eq }} stacks and has no stack limit.
 ### Q: "When should I stop using {{ site.data.spell.es }} and use {{ site.data.spell.eq }}?"
 In general, stop using {{ site.data.spell.es }} against two targets or more. But check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) page for more information.
 
-### Q: "When is the best time to use Primal Fire Elemental's {{ site.data.spell.meteor }} and Storm Elemental's {{ site.data.spell.eye_of_the_storm }}?"
+### Q: "When is the best time to use Primal Fire Elemental's {{ site.data.spell.meteor }} and Primal Storm Elemental's {{ site.data.spell.tempest }}?"
+When they would hit the most targets, for {{ site.data.spell.tempest }} specifically you need to ensure it is also fully buffed by {{ site.data.spell.call_lightning }}.
 *Note: This only applies when talented into {{ site.data.talent.pe }}. Both abilities can be macro'd. See useful macros further down.*
-
-In 9.2 with [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) active, you will want to aim to keep your Elemental's abilities on cooldown to maximise uses. If delaying by a small amount will allow you to hit multiple targets then it is a gain to do so, be aware that {{ site.data.spell.eye_of_the_storm }} should also be buffed by {{ site.data.spell.call_lightning }}. 
-*Without* an active [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) you should aim to delay both {{ site.data.spell.meteor }} and {{ site.data.spell.eye_of_the_storm }} if they could hit multiple targets within the Elemental's duration. If there is no upcoming AoE, just ensure they are used before the Elemental fades. Binding these abilities to a key can be particularly helpful. Check out the macro section of this page, if you need help with that.
 
 ### Q: "Is there a way to enable/disable Earth Elemental taunt without screwing up my autocast settings of the DPS Elemental?"
 *Note: This only applies when talented into {{ site.data.talent.pe }}.*
 
-Not that we're aware of. The Elementals' autocast settings are shared between the Elemental pets. If you deactivate or activate it on one button, the matching button of the other Elementals will share that setting. We hope, that this will be changed.
+Not that we're aware of. The Elementals' autocast settings are shared between the Elemental pets. If you deactivate or activate it on one button, the matching button of the other Elementals will share that setting. We hope that this will be changed.
 
 ### Q: "Do I use {{ site.data.spell.lvb }} during {{ site.data.talent.se }}?"
-After the change to {{ site.data.spell.wind_gust }} it is **always** an increase in Single Target scenarios to hardcast {{ site.data.spell.lvb }} during {{ site.data.talent.se }}. This is true regardless of {{ site.data.item.t28_2 }} and {{ site.data.item.t28_4 }}. Check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) and special notes on that website for in depth information.
+{{ site.data.talent.se }} does not alter the rotation for the builds that use it during its duration, you will typically behave the same regardless of it being active.
 
 ### Q: "What is funnelling?"
 Funneling is the act of casting {{ site.data.spell.fs }} on multiple targets in order to generate {{ site.data.spell.ls }} procs with the intention of increasing your damage on one target.
- 
-### Q: "How does {{ site.data.talent.ecs }} interact with procs and abilities?"
-{{ site.data.talent.ecs }} does not interact with procs and abilities. It will only echo the base ability. Echoed casts may consume buffs. E.g. {{ site.data.talent.sk }} will be consumed by echoed {{ site.data.spell.lb }}.
 
 ### Q: "What are some useful Macros?"
 This Macro allows you to place an {{ site.data.spell.eq }} at your cursor:
