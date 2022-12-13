@@ -22,12 +22,9 @@ As the name suggests this is predominately aimed at single target but due to tak
  - For more information [link to updated sim guide post](blahblah)  
 
 ## Simplified
+This is quick and dirty, your sims will take priority in your gearing process.
  - Mastery >>> Haste > Versatility = Crit
 
-## Stat Ratio
- - if '100' was your entire stat budget ( i.e. 100%) and you could wish your gear into existence you may end up with something like
- (as a % of your total stat budget!) Mastery 60 : Haste 20 : Versatility 10 : Crit 10. These are not character sheet % amounts!
- 
 # Rotation
 
 ## Key Notes
@@ -37,11 +34,19 @@ As the name suggests this is predominately aimed at single target but due to tak
  - {{ site.data.spell.eq }} replaces {{ site.data.talent.eb }} at 4 or more targets.
 
 ## Opener
+Follow the cast sequences below for your chosen opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+
 ~3.5 seconds from pull
- - {{ site.data.talent.fe }}
- - {{ site.data.spell.lvb }}
- - {{ site.data.spell.fs }} Note: This ensures the {{ site.data.spell.lvb }} crits!
- - {{ site.data.talent.pw }}
+<div class="opener">
+    <div class="skill fe"><span>FE</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill pw"><span>PW</span></div>
+    <div class="arrow"></div>...
+</div>
 
 ## 1 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
