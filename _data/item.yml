@@ -121,6 +121,7 @@ gem_p_speed: <a href="https://www.wowhead.com/item=194114/straddling-illimited-d
 # DF Enchants
 ench_chest_int: <a href="https://www.wowhead.com/spell=389417/reserve-of-intellect" target="blank">Reserve of Intellect</a>
 ench_chest_stats: <a href="https://www.wowhead.com/item=200030/enchant-chest-waking-stats" target="blank">Waking Stats</a>
+
 ench_wep_crit: <a href="https://www.wowhead.com/spell=389537/burning-writ" target="blank">Burning Writ</a>
 ench_wep_mast: <a href="https://www.wowhead.com/spell=389540/earthen-writ" target="blank">Earthen Writ</a>
 ench_wep_intlower: <a href="https://www.wowhead.com/item=200055/enchant-weapon-sophic-writ" target="blank">Sophic Writ</a>
@@ -128,6 +129,7 @@ ench_wep_inthigher: <a href="https://www.wowhead.com/item=200054/enchant-weapon-
 ench_wep_vers: <a href="https://www.wowhead.com/spell=389543/frozen-writ" target="blank">Frozen Writ</a>
 ench_wep_hastelower: <a href="https://www.wowhead.com/spell=389546/wafting-writ" target="blank">Wafting Writ</a>
 ench_wep_hastehigher: <a href="https://www.wowhead.com/spell=389558/wafting-devotion" target="blank">Wafting Devotion</a>
+
 ench_wri_av: <a href="https://www.wowhead.com/item=200021/enchant-bracer-devotion-of-avoidance" target="blank">Devotion of Avoidance</a>
 ench_wri_av_low: <a href="https://www.wowhead.com/item=200024/enchant-bracer-writ-of-avoidance" target="blank">Writ of Avoidance</a>
 ench_wri_le: <a href="https://www.wowhead.com/item=200022/enchant-bracer-devotion-of-leech" target="blank">Devotion of Leech</a>
@@ -151,6 +153,7 @@ ench_back_sp: <a href="https://www.wowhead.com/item=200032/enchant-cloak-homebou
 ench_back_sp_low: <a href="https://www.wowhead.com/item=200036/enchant-cloak-writ-of-speed" target="blank">Writ of Speed</a>
 ench_back_le: <a href="https://www.wowhead.com/item=200033/enchant-cloak-regenerative-leech" target="blank">Regenerative Leech</a>
 ench_back_le_low: <a href="https://www.wowhead.com/item=200035/enchant-cloak-writ-of-leech" target="blank">Writ of Leech</a>
+
 ench_boots_stam: <a href="https://www.wowhead.com/item=200020/enchant-boots-watchers-loam" target="blank">Watcher's Loam</a>
 ench_boots_sp: <a href="https://www.wowhead.com/item=200018/enchant-boots-plainsrunners-breeze" target="blank">Plainsrunner's Breeze</a>
 
@@ -159,6 +162,17 @@ rune_crit: <a href="https://www.wowhead.com/item=194823/buzzing-rune" target="bl
 rune_haste: <a href="https://www.wowhead.com/item=194820/howling-rune" target="blank">Howling Rune</a>
 spellthread: <a href="https://www.wowhead.com/item=194013/frozen-spellthread" target="blank">Frozen Spellthread</a>
 spellthread_lower: <a href="https://www.wowhead.com/item=194009/vibrant-spellthread" target="blank">Vibrant Spellthread</a>
+
+# DF Trinkets
+chillglobe: <a href="https://www.wowhead.com/item=194300/conjured-chillglobe?bonus=7935" target="blank">Conjured Chillglobe</a>
+wii: <a href="https://www.wowhead.com/item=194301/whispering-incarnate-icon?bonus=7935" target="blank">Whispering Incarnate Icon</a>
+hov: <a href="https://www.wowhead.com/item=133642/horn-of-valor?bonus=8810" target="blank">Horn of Valor</a>
+ragefeather: <a href="https://www.wowhead.com/item=193677/furious-ragefeather?bonus=7974" target="blank">Furious Ragefeather</a>
+writ: <a href="https://www.wowhead.com/item=137485/infernal-writ?bonus=8810" target="blank">Infernal Writ</a>
+shadowgem: <a href="https://www.wowhead.com/item=110007/voidmenders-shadowgem?bonus=8810" target="blank">Voidmender's Shadowgem</a>
+fragment: <a href="https://www.wowhead.com/item=193743/irideus-fragment?bonus=7974" target="blank">Irideus Fragment</a>
+spoils: <a href="https://www.wowhead.com/item=193773/spoils-of-neltharus?bonus=7974" target="blank">Spoils of Neltharus</a>
+talon: <a href="https://www.wowhead.com/item=193791/time-breaching-talon?bonus=7974" target="blank">Time-Breaching Talon</a>
 
 # SL Potions
 potion_of_concealment: <a href="https://shadowlands.wowhead.com/item=152503" target="blank">Potion of Concealment</a>
