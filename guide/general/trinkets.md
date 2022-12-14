@@ -23,7 +23,7 @@ These trinkets are not displayed in any specific ranking order, but they are giv
 
 ## Special Mentions
 * Despite being capped at 372 due to how they are obtained, the following trinkets perform very well for their ilvl.
-    * {{ site.data.item.talon }}
+    * {{ site.data.item.talon }}  Note: this has been [nerfed as of 14/12](https://www.wowhead.com/news/uldaman-time-breaching-talon-trinket-nerfed-in-hotfix-330514?webhook)
     * {{ site.data.item.spoils }}
     * {{ site.data.item.fragment }}
 
