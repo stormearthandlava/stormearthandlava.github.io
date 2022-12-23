@@ -139,21 +139,13 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 
-*Lightning build:*
-
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAASrJJtkkUSSLSBBQiAAAAAAAlAkSSQTUgUSSSLEQSAB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-</div>
-
-*Fire build:*
-<div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrUSCAJtkUoEt0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/DARBFVFAFBBIokhEKAQQCEFOVRRRVFSJFQgkQQDAQV?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 **Damage**
 
-* *Lightning builds:* Maintain {{ site.data.spell.fs }} on one target to utilize {{ site.data.talent.lvs }} and therefore {{ site.data.talent.mote }} and {{ site.data.talent.potm }}.
-* *Fire builds:* Maintain {{ site.data.spell.fs }} on all targets to utilize {{ site.data.talent.splinter }}, {{ site.data.talent.magma_chamber }} and {{ site.data.talent.sfd }}.
+* Maintain {{ site.data.spell.fs }} on all targets to utilize {{ site.data.talent.splinter }}, {{ site.data.talent.magma_chamber }} and {{ site.data.talent.sfd }}.
 * There are no phases or timings that require you to plan your cooldowns around.
 * Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with [Primal Blizzard](https://www.wowhead.com/spell=371836/primal-blizzard)
 
