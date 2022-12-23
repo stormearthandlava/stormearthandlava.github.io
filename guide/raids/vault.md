@@ -140,7 +140,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Talents:**
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/DARBFVFAFBBIokhEKAQQCEFOVRRRVFSJFQgkQQDAQV?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAg0SpUSCASLJFK5At0SCRAAAAAAQJApkECJFIlEJtUSABQA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 **Damage**
