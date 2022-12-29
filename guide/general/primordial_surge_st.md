@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Primordial Surge
+title: Builds
 last_update: 29/12/2022
 game_version: 10.0.2 Dragonflight
 toc: false
 ---
-This page aims to display and discuss the {{ site.data.talent.ps }} build archetype and a few of its most commonly applicable variants. Please remember the actual number of variants you *could* run is extremely high, and this page will not cover all of them.
+This page aims to display and discuss the recommended and most widely-used Builds available to Elemental. This is not an exhaustive list of all options and does not imply that any build *not* shown here is automatically terrible/unplayable, in practical terms we cannot account for every build variation and effort has been largely focused on the highest performing / most popular builds. If you find something that you feel works or performs better than what is listed here feel free to contact the team on [Storm, Earth & Lava Discord](https://discord.gg/y5dUf3PWrU) or [Earthshrine #Elemental Channel](https://discord.gg/earthshrine)
 
 Note: As the builds need to be complete to display the class tree is also filled out, these are not required choices and will not suit every situation.
 
-# Builds
 <p style="color:red">Click on a build banner to expand it.</p>
+
+# Primordial Surge Builds
+
+Most notably aimed more at the Single Target profiles these variants are used when you need to focus on boss damage by using the inherent strength of combining {{ site.data.talent.ps }} and tools like {{ site.data.talent.dre }} and/or {{ site.data.talent.wlr }} to increase the value and frequency of {{ site.data.talent.lvs }}. Turning your {{ site.data.talent.eb }} and {{ site.data.spell.lvb }} into powerhouses.
 
 <hr>
 <div class="dungeon-accordion">
@@ -24,7 +27,7 @@ Note: As the builds need to be complete to display the class tree is also filled
 
 # What does this build do?
 
-This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.spell.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows' that combine well with {{ site.data.talent.if }} and {{ site.data.talent.flux_melting }}.
+This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.spell.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'.
 As the name suggests this is predominately aimed at single target but due to taking {{ site.data.talent.lvs }}, {{ site.data.talent.magma_chamber }} and {{ site.data.talent.pw }} it will naturally benefit from a couple of additional targets.
 
 # What does it look like?
@@ -50,6 +53,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - {{ site.data.talent.if }} and {{ site.data.spell.frs}} become movement-enabling globals when more than one target is present.
  - Due to elements like {{ site.data.talent.ps }} and its supporting talents you should continue to utilise {{ site.data.talent.lvs }} procs even if you end up facing multiple targets.
  - {{ site.data.spell.eq }} replaces {{ site.data.talent.eb }} at 4 or more targets.
+ - {{ site.data.talent.dre }} procs do not impact rotation priority and should be read the same regardless. In practice this means 'filler' spells like {{ site.data.talent.if }} and buffed {{ site.data.spell.frs }} are eliminated when {{ site.data.talent.dre }} procs happen *unless you have to move* because {{ site.data.spell.lvb }} will always be available during them. You will also continue to spend maelstrom on {{ site.data.talent.eb }} as usual.
 
 ## Opener
 Follow the cast sequences below for your chosen opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
@@ -132,7 +136,7 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 
 # What does this build do?
 
-This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.spell.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows' that combine well with {{ site.data.talent.if }} and {{ site.data.talent.flux_melting }}.
+This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.spell.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'.
 As this build takes {{ site.data.talent.dre }} and extends to {{ site.data.talent.fb }} a fair amount of its power comes from maximising {{ site.data.spell.lvb }} usage, particularly {{ site.data.talent.lvs }}, to have the most chances at gambling {{ site.data.talent.dre }} which {{ site.data.talent.ps }} naturally assists with.
 
 # What does it look like?
@@ -240,15 +244,15 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 <div class="dungeon-accordion">
 <div id="accordion">
 <div class="card">
-<div class="card-header" id="psfb">
-<div data-toggle="collapse" data-target="#psfb-collapse" aria-expanded="true" aria-controls="psfb-collapse"><h2>Primordial Surge with Further Beyond</h2></div>
+<div class="card-header" id="psmwf">
+<div data-toggle="collapse" data-target="#psmwf-collapse" aria-expanded="true" aria-controls="psmwf-collapse"><h2>Primordial Surge with Mountains will Fall</h2></div>
 </div>
-<div id="psfb-collapse" class="collapse" aria-labelledby="psfb" data-parent="#accordion">
+<div id="psmwf-collapse" class="collapse" aria-labelledby="psmwf" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
 # What does this build do?
 
-This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.spell.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows' that combine well with {{ site.data.talent.if }} and {{ site.data.talent.flux_melting }}.
+This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.spell.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'.
 This build effectively swaps {{ site.data.talent.wlr }} or {{ site.data.talent.fb }} for {{ site.data.talent.mwf }}, which reduces the perceived complexity from this build allowing you to focus more completely on the {{ site.data.talent.lvs }} provided by {{ site.data.talent.ps }} and effective spending of maelstrom.
 
 # What does it look like?
@@ -273,6 +277,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - {{ site.data.talent.if }} and {{ site.data.spell.frs}} become movement-enabling globals when more than one target is present.
  - Due to elements like {{ site.data.talent.ps }} and {{ site.data.talent.dre }} with its supporting talents you should continue to utilise {{ site.data.talent.lvs }} procs even if you end up facing multiple targets.
  - {{ site.data.spell.eq }} replaces {{ site.data.talent.eb }} at 4 or more targets.
+ - {{ site.data.talent.dre }} procs do not impact rotation priority and should be read the same regardless. In practice this means 'filler' spells like {{ site.data.talent.if }} and buffed {{ site.data.spell.frs }} are eliminated when {{ site.data.talent.dre }} procs happen *unless you have to move* because {{ site.data.spell.lvb }} will always be available during them. You will also continue to spend maelstrom on {{ site.data.talent.eb }} as usual.
 
 ## Opener
 Follow the cast sequences below for your chosen opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
