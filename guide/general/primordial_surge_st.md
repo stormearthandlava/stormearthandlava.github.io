@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Primordial Surge
-last_update: 12/12/2022
+last_update: 29/12/2022
 game_version: 10.0.2 Dragonflight
 toc: false
 ---
