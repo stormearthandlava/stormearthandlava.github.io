@@ -350,3 +350,123 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 </div>
 </div>
   
+
+# Wildfire Builds
+
+Predominately aimed at M+ content these build variants focus on the power of {{ site.data.spell.fs }} and its supporting talents to deal AoE damage, all variants include {{ site.data.talent.dre }} by default as the build spends a lot of its time using the {{ site.data.talent.lvs }} procs it generates so it provides a lot of value on average but is not the focus of the build - if desired you can swap this point to a more consistent option.
+  
+<hr>
+<div class="dungeon-accordion">
+<div id="accordion">
+<div class="card">
+<div class="card-header" id="wfecho">
+<div data-toggle="collapse" data-target="#wfecho-collapse" aria-expanded="true" aria-controls="wfecho-collapse"><h2>Wildfire with Echo Chamber</h2></div>
+</div>
+<div id="wfecho-collapse" class="collapse" aria-labelledby="wfecho" data-parent="#accordion">
+<div class="card-body" markdown="1">
+
+# What does this build do?
+
+We heard you like {{ site.data.spell.fs }} and {{ site.data.talent.lvs }} so this build is entirely committed to the idea of maintaining {{ site.data.spell.fs }} on multiple targets and utilising all the benefits associated with consuming {{ site.data.talent.lvs }}. 
+
+Staples of wildfire as a M+ include {{ site.data.talent.sfd }}, {{ site.data.talent.splinter }}, {{ site.data.talent.sk }}. There are more swaps you could make within this archetype like {{ site.data.talent.sop }} swapped for {{ site.data.talent.afs }} which significantly simplifies your perceived gameplay, but in reality is weaker in most ways so all the variants below use {{ site.data.talent.sop }}.
+
+# What does it look like?
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAg0SpIJlkACSjS0SLJOQOAAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  </div>
+
+# Stats
+
+## Always remember to sim your current options appropriately
+ - For more information [link to updated sim guide post](blahblah)  
+
+## Simplified
+This is quick and dirty, your sims will take priority in your gearing process.
+ - Haste / Crit > Mastery / Vers
+ - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+
+# Rotation
+
+## Key Notes
+ - If targets will survive for a while you will want {{ site.data.spell.fs }} ticking on them, don't forget to monitor this particularly on higher keys where you can get real value!
+ - Despite a lot of {{ site.data.talent.lmt }} use being to setup a pull, because it scales with Haste if you can manage to do so then having {{ site.data.talent.splinter }} active before placing {{ site.data.talent.lmt }} will increase its damage. Note: you can and should still use {{ site.data.talent.lmt }} to help setup a pull if you need to act fast, this is just something to keep in mind for value optimisation when you're comfortable.
+ - {{ site.data.talent.sop }} is there to amplify what you're already aiming to do at different target counts which can be quite handy
+    * 1-2 Targets = {{ site.data.spell.lb }}
+    * 3-5 Targets = {{ site.data.spell.fs }} if and only if you need to spread {{ site.data.spell.fs }}, otherwise ignore and waste {{ site.data.talent.sop }} buffs.
+    * 6+ Targets = {{ site.data.spell.cl }} whenever possible, if you have to move then using a buff on {{ site.data.spell.fs }} is fine too
+    * {{ site.data.talent.sop }} will also make you want to delay casting {{ site.data.talent.sk }} on 1-2 targets or 6+ targets in order to benefit from their combined effects.
+ - {{ site.data.talent.dre }} procs do not really change the priority of what you're doing, they mainly act to provide value from not having to manually refresh your current {{ site.data.spell.fs }} dots and that translates into more {{ site.data.spell.cl }} casts which leads to more {{ site.data.spell.eq }} casts. Note: {{ site.data.spell.lvbm }} replaces {{ site.data.spell.cl }} in the priority when {{ site.data.talent.dre }} procs are active but you should ensure you have enough time to finish the cast inside the {{ site.data.talent.dre }} buff otherwise the cast will cancel.
+ - It can be tempting to try and use every {{ site.data.talent.lvs }} proc during mass aoe but generally you're going to use them when you have to move when aoeing or when you'd have enough maelstrom to {{ site.data.spell.eq }} afterwards which benefits from {{ site.data.talent.mote }}. This strikes a better balance between fishing for {{ site.data.talent.dre }} procs and reliably good aoe damage. Feel free to prioritise {{ site.data.talent.lvs }} more if a priority target is up and needs to die fast!
+
+## Opener
+Follow the cast sequences below for your chosen opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+
+~3.5 seconds from boss pull
+<div class="opener">
+    <div class="skill fe"><span>FE</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill pw"><span>PW</span></div>
+    <div class="arrow"></div>...
+</div>
+  
+AoE openers are less rigid than boss openers. Keep in mind that these will change simply based by what cooldowns you have available on a pull-by-pull basis and you should aim to maximise the value from what is available at that time. Here are some general rules:
+     * Though spreading {{ site.data.spell.fs }} to multiple targets is good, it should not be viewed as a requirement to reach 6 before doing damage in all cases. In cases where you have {{ site.data.talent.lmt }} and {{ site.data.talent.totemic_recall }} available, this is quite achieveable, in cases where you don't you should be prepared to trigger {{ site.data.talent.splinter }}'s effect with 4-5 targets. If you have maelstrom left from a previous pack (and you should!) this process becomes more fluid and you can spread {{ site.data.spell.fs }} whilst the tank is gathering mobs.
+     * On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
+     * Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
+
+## 1 Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.sk }} if you have at least 83 maelstrom (without {{ site.data.talent.potm }} or 80 with {{ site.data.talent.potm }}
+ - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
+ - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.talent.es }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lb }}
+  
+## 2 Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - Maintain {{ site.data.spell.fs }} on both targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.pw }} if it is available
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.cl }}
+ - {{ site.data.spell.frs }} if you have {{ site.data.talent.if }} buff active *and* need to move
+ - {{ site.data.spell.if }} if you expect to move soon and {{ site.data.talent.swg }} is not available, otherwise do not use.
+
+## 3 Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.pw }} if it is available
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.cl }}
+
+## 4 Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.pw }} if it is available
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.dre }} proc is active and you will finish the cast (if you will not, revert to {{ site.data.spell.lvb }}
+ - {{ site.data.spell.cl }}
+
+## 5+ Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.pw }} if it is available
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.dre }} proc is active and you will finish the cast (if you will not, revert to {{ site.data.spell.lvb }}
+ - {{ site.data.spell.cl }}
+
+</div>
+</div>
+</div>
