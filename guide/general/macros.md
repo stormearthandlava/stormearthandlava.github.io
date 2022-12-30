@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Macros
-last_update: 13/12/2022 
+last_update: 30/12/2022 
 game_version: 10.0.2 Dragonflight
 toc: true
 ---
@@ -24,6 +24,13 @@ If you have suggestions to improve macros found on this page, or additional macr
 #showtooltip 
 /use [@mouseover,harm,nodead][]Frost Shock
 ```
+
+### {{ site.data.talent.pw }}
+```
+#showtooltip
+/use [@mouseover,harm,exists][harm]Primordial Wave
+```
+Note: if your Covenant is set to Necrolord from Shadowlands content you may need to add (Shadowlands) immediately after Primordial Wave, or shift-click the ability from your spellbook while editing the macro.
 
 ### {{ site.data.spell.eq }}
 ```
