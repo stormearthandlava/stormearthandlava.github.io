@@ -56,7 +56,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - {{ site.data.talent.dre }} procs do not impact rotation priority and should be read the same regardless. In practice this means 'filler' spells like {{ site.data.talent.if }} and buffed {{ site.data.spell.frs }} are eliminated when {{ site.data.talent.dre }} procs happen *unless you have to move* because {{ site.data.spell.lvb }} will always be available during them. You will also continue to spend maelstrom on {{ site.data.talent.eb }} as usual.
 
 ## Opener
-Follow the cast sequences below for your chosen opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
 
 ~3.5 seconds from pull
 <div class="opener">
@@ -166,7 +166,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - {{ site.data.talent.fb }} makes you value maelstrom generation very highly during aoe, which displaces regular {{ site.data.spell.lvb }} casts entirely at 4+ targets. This is predominately a single-target build so AoE is not its main function.
 
 ## Opener
-Follow the cast sequences below for your chosen opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
 
 ~3.5 seconds from pull
 <div class="opener">
@@ -280,7 +280,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - {{ site.data.talent.dre }} procs do not impact rotation priority and should be read the same regardless. In practice this means 'filler' spells like {{ site.data.talent.if }} and buffed {{ site.data.spell.frs }} are eliminated when {{ site.data.talent.dre }} procs happen *unless you have to move* because {{ site.data.spell.lvb }} will always be available during them. You will also continue to spend maelstrom on {{ site.data.talent.eb }} as usual.
 
 ## Opener
-Follow the cast sequences below for your chosen opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
 
 ~3.5 seconds from pull
 <div class="opener">
@@ -410,7 +410,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - It can be tempting to try and use every {{ site.data.talent.lvs }} proc during mass aoe but generally you're going to use them when you have to move when aoeing or when you'd have enough maelstrom to {{ site.data.spell.eq }} afterwards which benefits from {{ site.data.talent.mote }}. This strikes a better balance between fishing for {{ site.data.talent.dre }} procs and reliably good aoe damage. Feel free to prioritise {{ site.data.talent.lvs }} more if a priority target is up and needs to die fast!
 
 ## Opener
-Follow the cast sequences below for your chosen opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
 
 ~3.5 seconds from boss pull
 <div class="opener">
