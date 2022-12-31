@@ -1,7 +1,7 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 13/12/2022
+last_update: 31/12/2022
 game_version: 10.0.2 Dragonflight
 toc: true
 ---
@@ -26,7 +26,11 @@ See the [Consumables]({{ site.baseurl }}{% link guide/general/consumables.md %})
 See the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) section of the guide.
 
 ### Q: "When do I cast {{ site.data.spell.cl }}?"
-See the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) section of the guide.
+{{ site.data.spell.cl }} replaces {{ site.data.spell.lb }} as a filler from 2 or more targets.
+   
+### Q: "What about with {{ site.data.talent.sk }}?"
+1-2 targets = {{ site.data.spell.lb }} with {{ site.data.talent.sop }} buff active
+2 targets = {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} is not enabled, and you should aim to {{ site.data.talent.mote }} buff them in the majority of cases.
 
 ### Q: "Does {{ site.data.spell.eq }} stack?"
 Yes, {{ site.data.spell.eq }} stacks and has no stack limit.
