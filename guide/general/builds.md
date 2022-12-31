@@ -436,6 +436,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
  - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.dre }} proc is active. Note: if you have to move you will still cast {{ site.data.spell.es }} as below, and continue to follow the priorities above!
  - {{ site.data.talent.es }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.lb }}
@@ -460,39 +461,219 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
  - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
+ - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
 
 ## 4 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
- - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
+ - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
+ - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
+ - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvbm }} if {{ site.data.talent.dre }} proc is active and you will finish the cast (if you will not, revert to {{ site.data.spell.lvb }}
+ - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
+ - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
 
 ## 5+ Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
- - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
+ - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
+ - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
+ - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvbm }} if {{ site.data.talent.dre }} proc is active and you will finish the cast (if you will not, revert to {{ site.data.spell.lvb }}
+ - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
+ - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
   
 ## 6+ Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
- - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
- - {{ site.data.spell.cl }} if {{ site.data.talent.sop }} buff is active
- - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} buff is active
+ - {{ site.data.talent.sk }} if it is available and you have at least enough maelstrom to cast {{ site.data.spell.eq }} after to {{ site.data.talent.sop }} buff the charges!
+ - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} when {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.sop }} buff
+ - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} buff is active 
+ - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvbm }} if {{ site.data.talent.dre }} proc is active and you will finish the cast (if you will not, revert to {{ site.data.spell.lvb }}
+ - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
+ - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.cl }}
+
+</div>
+</div>
+</div>
+  
+<hr>
+<div class="dungeon-accordion">
+<div id="accordion">
+<div class="card">
+<div class="card-header" id="wfeb">
+<div data-toggle="collapse" data-target="#wfeb-collapse" aria-expanded="true" aria-controls="wfeb-collapse"><h2>Wildfire with Elemental Blast</h2></div>
+</div>
+<div id="wfeb-collapse" class="collapse" aria-labelledby="wfeb" data-parent="#accordion">
+<div class="card-body" markdown="1">
+
+# What does this build do?
+
+We heard you like {{ site.data.spell.fs }} and {{ site.data.talent.lvs }} so this build is entirely committed to the idea of maintaining {{ site.data.spell.fs }} on multiple targets and utilising all the benefits associated with consuming {{ site.data.talent.lvs }}. These variants of Wildfire also include {{ site.data.talent.eb }} for its high power in single target and low target scenarios with relatively minor impact on total AoE value.
+
+Staples of wildfire as a M+ include {{ site.data.talent.sfd }}, {{ site.data.talent.splinter }}, {{ site.data.talent.sk }}. There are more swaps you could make within this archetype like {{ site.data.talent.sop }} swapped for {{ site.data.talent.afs }} which significantly simplifies your perceived gameplay, but in reality is weaker in most ways so all the variants below use {{ site.data.talent.sop }}.
+
+# What does it look like?
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpIJlkAJINKRLtkQOAAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  </div>
+
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSSJJQCJNKRLkQEAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  </div>
+  
+Note: There are multiple possible variants of this build that do not include rotational priority changes, these will all play similarly and you can choose between them based on personal preference and/or sim results. The two variants shown above are, in my opinion, the 'standard' ways to include it in a Wildfire setup - this is not the only way. The structure is similar to the variants without {{ site.data.talent.eb }} so learning how it changes the rotation is the only real barrier. 
+You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
+  
+# Stats
+
+## Always remember to sim your current options appropriately
+ - For more information [link to updated sim guide post](blahblah)  
+
+## Simplified
+This is quick and dirty, your sims will take priority in your gearing process.
+ - Haste / Crit > Mastery / Vers
+ - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+
+# Rotation
+
+## Key Notes
+ - If targets will survive for a while you will want {{ site.data.spell.fs }} ticking on them, don't forget to monitor this particularly on higher keys where you can get real value!
+ - Despite a lot of {{ site.data.talent.lmt }} use being to setup a pull, because it scales with Haste if you can manage to do so then having {{ site.data.talent.splinter }} active before placing {{ site.data.talent.lmt }} will increase its damage. Note: you can and should still use {{ site.data.talent.lmt }} to help setup a pull if you need to act fast, this is just something to keep in mind for value optimisation when you're comfortable.
+ - {{ site.data.talent.sop }} is there to amplify what you're already aiming to do at different target counts which can be quite handy, whilst it is appreciable that {{ site.data.talent.eb }} reduces the value gained from {{ site.data.talent.sop }} due to being more expensive and producing less buffs overall - this is only true for the 1-4 target range and the value added is still positive, AoE value from {{ site.data.talent.sop }} is unaffected at 6+ targets.
+    * 1-2 Targets = {{ site.data.spell.lb }}
+    * 3-5 Targets = {{ site.data.spell.fs }} if and only if you need to spread {{ site.data.spell.fs }}, otherwise ignore and waste {{ site.data.talent.sop }} buffs.
+    * 6+ Targets = {{ site.data.spell.cl }} whenever possible, if you have to move then using a buff on {{ site.data.spell.fs }} is fine too
+    * {{ site.data.talent.sop }} will also make you want to delay casting {{ site.data.talent.sk }} on 1-2 targets or 6+ targets in order to benefit from their combined effects.
+ - {{ site.data.talent.dre }} procs do not really change the priority of what you're doing, they mainly act to provide value from not having to manually refresh your current {{ site.data.spell.fs }} dots and that translates into more {{ site.data.spell.cl }} casts which leads to more {{ site.data.spell.eq }} casts. Note: {{ site.data.spell.lvbm }} replaces {{ site.data.spell.cl }} in the priority when {{ site.data.talent.dre }} procs are active but you should ensure you have enough time to finish the cast inside the {{ site.data.talent.dre }} buff otherwise the cast will cancel.
+ - It can be tempting to try and use every {{ site.data.talent.lvs }} proc during mass aoe but generally you're going to use them when you have to move when aoeing or when you'd have enough maelstrom to {{ site.data.spell.eq }} afterwards which benefits from {{ site.data.talent.mote }}. This strikes a better balance between fishing for {{ site.data.talent.dre }} procs and reliably good aoe damage. Feel free to prioritise {{ site.data.talent.lvs }} more if a priority target is up and needs to die fast!
+
+## Opener
+Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+
+~3.5 seconds from boss pull
+<div class="opener">
+    <div class="skill fe"><span>FE</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill pw"><span>PW</span></div>
+    <div class="arrow"></div>...
+</div>
+  
+AoE openers are less rigid than boss openers. Keep in mind that these will change simply based by what cooldowns you have available on a pull-by-pull basis and you should aim to maximise the value from what is available at that time. Here are some general rules:
+     * Though spreading {{ site.data.spell.fs }} to multiple targets is good, it should not be viewed as a requirement to reach 6 before doing damage in all cases. In cases where you have {{ site.data.talent.lmt }} and {{ site.data.talent.totemic_recall }} available, this is quite achieveable, in cases where you don't you should be prepared to trigger {{ site.data.talent.splinter }}'s effect with 4-5 targets. If you have maelstrom left from a previous pack (and you should!) this process becomes more fluid and you can spread {{ site.data.spell.fs }} whilst the tank is gathering mobs.
+     * On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
+     * Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
+
+## 1 Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.sk }} if you have at least 75 maelstrom and did not take {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff. This will enable you to buff one of your {{ site.data.talent.sk }} charges.
+ - {{ site.data.talent.sk }} if you have at least 124 maelstrom with {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff and at least 46 maelstrom. This will enable you to buff both of your {{ site.data.talent.sk }} charges if you cast {{ site.data.spell.lvb }} before your second {{ site.data.talent.eb }} cast.
+ - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
+ - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
+ - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
+ - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active, to avoid overcapping
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.dre }} proc is active.
+ - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lb }}
+ - Refresh {{ site.data.spell.fs }} or cast {{ site.data.spell.frs }} when moving
+  
+  Note: You do not play around {{ site.data.talent.potm }} procs in single target.
+  
+## 2 Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - Maintain {{ site.data.spell.fs }} on both targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.sk }} if you have at least 75 maelstrom and did not take {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff. This will enable you to buff one of your {{ site.data.talent.sk }} charges.
+ - {{ site.data.talent.sk }} if you have at least 124 maelstrom with {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff and at least 46 maelstrom. This will enable you to buff both of your {{ site.data.talent.sk }} charges if you cast {{ site.data.spell.lvb }} before your second {{ site.data.talent.eb }} cast.
+ - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
+ - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
+ - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
+ - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active, to avoid overcapping
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} buff is active
+ - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.cl }}
+
+## 3 Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
+ - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
+ - {{ site.data.talent.pw }} if it is available
+ - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active, to avoid overcapping
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
+ - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.cl }}
+
+## 4 Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
+ - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
+ - {{ site.data.talent.pw }} if it is available
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
+ - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.cl }}
+
+## 5+ Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
+ - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
+ - {{ site.data.talent.pw }} if it is available
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
+ - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.cl }}
+  
+## 6+ Target Priority
+ - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.sk }} if it is available and you have at least enough maelstrom to cast {{ site.data.spell.eq }} after to {{ site.data.talent.sop }} buff the charges!
+ - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} when {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.sop }} buff
+ - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} buff is active 
+ - {{ site.data.talent.pw }} if it is available
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
+ - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
 
 </div>
