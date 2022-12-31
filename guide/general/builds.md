@@ -431,26 +431,35 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 
 ## 1 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
- - {{ site.data.talent.sk }} if you have at least 83 maelstrom (without {{ site.data.talent.potm }} or 80 with {{ site.data.talent.potm }}
+ - {{ site.data.talent.sk }} if you have at least 83 maelstrom (without {{ site.data.talent.potm }} or 80 with {{ site.data.talent.potm }}. This ensures you can buff both charges.
+ - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
  - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
  - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.talent.es }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.lb }}
+ - Refresh {{ site.data.spell.fs }} or cast {{ site.data.spell.frs }} when moving
+  
+  Note: You do not play around {{ site.data.talent.potm }} procs in single target.
   
 ## 2 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on both targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.sk }} if you have at least 83 maelstrom (without {{ site.data.talent.potm }} or 80 with {{ site.data.talent.potm }}. This ensures you can buff both charges.
+ - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
  - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
+ - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} buff is active
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
 
 ## 3 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
