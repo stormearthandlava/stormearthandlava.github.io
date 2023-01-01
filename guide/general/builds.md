@@ -591,6 +591,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 
 ## 1 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon
  - {{ site.data.talent.sk }} if you have at least 75 maelstrom and did not take {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff. This will enable you to buff one of your {{ site.data.talent.sk }} charges.
  - {{ site.data.talent.sk }} if you have at least 124 maelstrom with {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff and at least 46 maelstrom. This will enable you to buff both of your {{ site.data.talent.sk }} charges if you cast {{ site.data.spell.lvb }} before your second {{ site.data.talent.eb }} cast.
  - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
@@ -608,6 +609,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 ## 2 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on both targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon
  - {{ site.data.talent.sk }} if you have at least 75 maelstrom and did not take {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff. This will enable you to buff one of your {{ site.data.talent.sk }} charges.
  - {{ site.data.talent.sk }} if you have at least 124 maelstrom with {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff and at least 46 maelstrom. This will enable you to buff both of your {{ site.data.talent.sk }} charges if you cast {{ site.data.spell.lvb }} before your second {{ site.data.talent.eb }} cast.
  - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
@@ -622,6 +624,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 ## 3 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon
  - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
  - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
@@ -636,6 +639,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 ## 4 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon
  - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
  - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
@@ -650,6 +654,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 ## 5+ Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon
  - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
  - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
@@ -664,6 +669,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 ## 6+ Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon
  - {{ site.data.talent.sk }} if it is available and you have at least enough maelstrom to cast {{ site.data.spell.eq }} after to {{ site.data.talent.sop }} buff the charges!
  - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} when {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.sop }} buff
  - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} buff is active 
