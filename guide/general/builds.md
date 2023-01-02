@@ -15,25 +15,23 @@ Note: As the builds need to be complete to display the class tree is also filled
 
 Most notably aimed more at the Single Target profiles these variants are used when you need to focus on boss damage by using the inherent strength of combining {{ site.data.talent.ps }} and tools like {{ site.data.talent.dre }} and/or {{ site.data.talent.wlr }} to increase the value and frequency of {{ site.data.talent.lvs }}. Turning your {{ site.data.talent.eb }} and {{ site.data.spell.lvb }} into powerhouses.
 
-<hr>
-<div class="dungeon-accordion">
-<div id="accordion">
+<div class="accordion dungeon-accordion" id="accordion-psurge">
 <div class="card">
 <div class="card-header" id="pswlr">
-<div data-toggle="collapse" data-target="#pswlr-collapse" aria-expanded="true" aria-controls="pswlr-collapse"><h2>Primordial Surge with Windspeakers</h2></div>
+<div data-toggle="collapse" data-target="#pswlr-collapse" aria-expanded="false" aria-controls="pswlr-collapse"><h2 class="mb-1">Primordial Surge with Windspeakers</h2></div>
 </div>
-<div id="pswlr-collapse" class="collapse" aria-labelledby="pswlr" data-parent="#accordion">
+<div id="pswlr-collapse" class="collapse" aria-labelledby="pswlr" data-parent="#accordion-psurge">
 <div class="card-body" markdown="1">
 
 # What does this build do?
 
-This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.spell.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'.
+This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.talent.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'.
 As the name suggests this is predominately aimed at single target but due to taking {{ site.data.talent.lvs }}, {{ site.data.talent.magma_chamber }} and {{ site.data.talent.pw }} it will naturally benefit from a couple of additional targets.
 
 # What does it look like?
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAgUSpUSCAJlkUoElUSCRAAAAAAQJApkECJFiUSSSLEQAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-  </div>
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAgUSpUSCAJlkUoElUSCRAAAAAAQJApkECJFiUSSSLEQAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
 
 # Stats
 
@@ -124,20 +122,17 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 </div>
 </div>
 </div>
-  
-<hr>
-<div class="dungeon-accordion">
-<div id="accordion">
+
 <div class="card">
 <div class="card-header" id="psfb">
-<div data-toggle="collapse" data-target="#psfb-collapse" aria-expanded="true" aria-controls="psfb-collapse"><h2>Primordial Surge with Further Beyond</h2></div>
+<div data-toggle="collapse" data-target="#psfb-collapse" aria-expanded="false" aria-controls="psfb-collapse"><h2 class="mb-1">Primordial Surge with Further Beyond</h2></div>
 </div>
-<div id="psfb-collapse" class="collapse" aria-labelledby="psfb" data-parent="#accordion">
+<div id="psfb-collapse" class="collapse" aria-labelledby="psfb" data-parent="#accordion-psurge">
 <div class="card-body" markdown="1">
 
 # What does this build do?
 
-This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.spell.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'.
+This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.talent.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'.
 As this build takes {{ site.data.talent.dre }} and extends to {{ site.data.talent.fb }} a fair amount of its power comes from maximising {{ site.data.spell.lvb }} usage, particularly {{ site.data.talent.lvs }}, to have the most chances at gambling {{ site.data.talent.dre }} which {{ site.data.talent.ps }} naturally assists with.
 
 # What does it look like?
@@ -242,19 +237,16 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 </div>
 </div>
 
-<hr>
-<div class="dungeon-accordion">
-<div id="accordion">
 <div class="card">
 <div class="card-header" id="psmwf">
-<div data-toggle="collapse" data-target="#psmwf-collapse" aria-expanded="true" aria-controls="psmwf-collapse"><h2>Primordial Surge with Mountains will Fall</h2></div>
+<div data-toggle="collapse" data-target="#psmwf-collapse" aria-expanded="false" aria-controls="psmwf-collapse"><h2 class="mb-1">Primordial Surge with Mountains will Fall</h2></div>
 </div>
-<div id="psmwf-collapse" class="collapse" aria-labelledby="psmwf" data-parent="#accordion">
+<div id="psmwf-collapse" class="collapse" aria-labelledby="psmwf" data-parent="#accordion-psurge">
 <div class="card-body" markdown="1">
 
 # What does this build do?
 
-This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.spell.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'.
+This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.talent.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'.
 This build effectively swaps {{ site.data.talent.wlr }} or {{ site.data.talent.fb }} for {{ site.data.talent.mwf }}, which reduces the perceived complexity from this build allowing you to focus more completely on the {{ site.data.talent.lvs }} provided by {{ site.data.talent.ps }} and effective spending of maelstrom.
 
 # What does it look like?
@@ -352,20 +344,21 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 </div>
 </div>
 </div>
-  
+</div>
+
+<br/>
+<br/>
 
 # Wildfire Builds
 
 Predominately aimed at M+ content these build variants focus on the power of {{ site.data.spell.fs }} and its supporting talents to deal AoE damage, all variants include {{ site.data.talent.dre }} by default as the build spends a lot of its time using the {{ site.data.talent.lvs }} procs it generates so it provides a lot of value on average but is not the focus of the build - if desired you can swap this point to a more consistent option.
-  
-<hr>
-<div class="dungeon-accordion">
-<div id="accordion">
+
+<div class="accordion dungeon-accordion" id="accordion-wildfire">
 <div class="card">
 <div class="card-header" id="wfecho">
-<div data-toggle="collapse" data-target="#wfecho-collapse" aria-expanded="true" aria-controls="wfecho-collapse"><h2>Wildfire with Echo Chamber</h2></div>
+<div data-toggle="collapse" data-target="#wfecho-collapse" aria-expanded="false" aria-controls="wfecho-collapse"><h2 class="mb-1">Wildfire with Echo Chamber</h2></div>
 </div>
-<div id="wfecho-collapse" class="collapse" aria-labelledby="wfecho" data-parent="#accordion">
+<div id="wfecho-collapse" class="collapse" aria-labelledby="wfecho" data-parent="#accordion-wildfire">
 <div class="card-body" markdown="1">
 
 # What does this build do?
@@ -522,15 +515,12 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 </div>
 </div>
 </div>
-  
-<hr>
-<div class="dungeon-accordion">
-<div id="accordion">
+
 <div class="card">
 <div class="card-header" id="wfeb">
-<div data-toggle="collapse" data-target="#wfeb-collapse" aria-expanded="true" aria-controls="wfeb-collapse"><h2>Wildfire with Elemental Blast</h2></div>
+<div data-toggle="collapse" data-target="#wfeb-collapse" aria-expanded="false" aria-controls="wfeb-collapse"><h2 class="mb-1">Wildfire with Elemental Blast</h2></div>
 </div>
-<div id="wfeb-collapse" class="collapse" aria-labelledby="wfeb" data-parent="#accordion">
+<div id="wfeb-collapse" class="collapse" aria-labelledby="wfeb" data-parent="#accordion-wildfire">
 <div class="card-body" markdown="1">
 
 # What does this build do?
@@ -692,19 +682,23 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 </div>
 </div>
 </div>
+</div>
+
+
+<br/>
+<br/>
+
 
 # Lightning Builds
   
 Exactly what it says on the tin, for the friends with a penchant for Lightning!
-  
-<hr>
-<div class="dungeon-accordion">
-<div id="accordion">
+
+<div class="accordion dungeon-accordion" id="accordion-lightning">
 <div class="card">
 <div class="card-header" id="limwf">
-<div data-toggle="collapse" data-target="#limwf-collapse" aria-expanded="true" aria-controls="limwf-collapse"><h2>Lightning with Mountains will Fall</h2></div>
+<div data-toggle="collapse" data-target="#limwf-collapse" aria-expanded="false" aria-controls="limwf-collapse"><h2 class="mb-1">Lightning with Mountains will Fall</h2></div>
 </div>
-<div id="limwf-collapse" class="collapse" aria-labelledby="limwf" data-parent="#accordion">
+<div id="limwf-collapse" class="collapse" aria-labelledby="limwf" data-parent="#accordion-lightning">
 <div class="card-body" markdown="1">
 
 # What does this build do?
@@ -840,15 +834,13 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 </div>
 </div>
 </div>
-  
-<hr>
-<div class="dungeon-accordion">
-<div id="accordion">
+
+
 <div class="card">
 <div class="card-header" id="lisfd">
-<div data-toggle="collapse" data-target="#lisfd-collapse" aria-expanded="true" aria-controls="lisfd-collapse"><h2>Lightning with Skybreaker's Fiery Demise</h2></div>
+<div data-toggle="collapse" data-target="#lisfd-collapse" aria-expanded="false" aria-controls="lisfd-collapse"><h2 class="mb-1">Lightning with Skybreaker's Fiery Demise</h2></div>
 </div>
-<div id="lisfd-collapse" class="collapse" aria-labelledby="lisfd" data-parent="#accordion">
+<div id="lisfd-collapse" class="collapse" aria-labelledby="lisfd" data-parent="#accordion-lightning">
 <div class="card-body" markdown="1">
 
 # What does this build do?
@@ -984,8 +976,9 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.spell.cl }}
  
-Note: at these target counts ignoring {{ site.data.spell.fs }} was better than playing around it, given {{ site.data.talent.sop }} buffs are far stronger with {{ site.data.spell.cl }} - rely on {{ site.data.talent.lmt }} and movement globals to apply {{ site.data.spell fs }}. 
+Note: at these target counts ignoring {{ site.data.spell.fs }} was better than playing around it, given {{ site.data.talent.sop }} buffs are far stronger with {{ site.data.spell.cl }} - rely on {{ site.data.talent.lmt }} and movement globals to apply {{ site.data.spell.fs }}. 
   
+</div>
 </div>
 </div>
 </div>
