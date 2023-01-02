@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How does Elemental Sim?
-date: 2022-01-31
+date: 02/01/2023
 excerpt: Sim settings and you!
 author: Eokira
 ---
@@ -14,7 +14,6 @@ This post aims to discuss simming as it relates to Elemental, and will cover the
 - [Recommendations](#recommendations)
    - [Single Target](#single-target)
    - [M+](#m)
-   - [M+ Night Fae and Kyrian](#m-night-fae-and-kyrian)
 - [Additional Resources](#additional-resources)
     
 ### How to Sim?
@@ -32,13 +31,12 @@ We're going to be using [Raidbots](https://www.raidbots.com/simbot) as a way to 
          - Gear
          - Talents
          - Enchants / Gems / Consumables, make sure to tick the `Replace Existing Gems/Enchants' box if required!
-         - Create Legendary items at desired iLvl and stats to compare Legendaries you do not have yet, or see the impact up upgrading them
-         - Compare Conduits, different Soulbind choices including Soulbinds from other Covenants when `Unlock Soulbinds` is ticked!
          - Help inform your Great Vault decisions by opening your Great Vault before typing `/simc` and your input will now include and handle your Great Vault upgrades as if you had them in  your bags!
                 
    - [Droptimizer](https://www.raidbots.com/simbot/droptimizer)
       - Droptimizer allows you to compare your current gear with gear from content that you select at an iLvl that you select
          - This enables you to tailor gear recommendations to the level of content you do, per content type. Which can be useful if you do varying levels of content.
+         - This can make deciding which crafted gear to seek out much easier! Do not forget to cross-reference crafted and dungeon gear to see if you have farmable alternatives!
          - More straightforwardly Droptimizer allows you to view which Dungeons you might want to focus on first when gearing a new character or at the start of a new season.
          
    - [Gear Compare](https://www.raidbots.com/simbot/gear)
@@ -68,7 +66,7 @@ We're going to be using [Raidbots](https://www.raidbots.com/simbot) as a way to 
             
       - Hectic Add Cleave
          - Has one boss target by default, with waves of mobs that live for 15 seconds and spawn every 22 seconds
-         - In Shadowlands this has proven a useful metric when trying to account for the value of specific traits like {{ site.data.soulbinds.first_strike }}.
+         - In Dragonflight we have no real need to use this particular setting
       
    - Number of Bosses
       - Adjust how many boss-like targets are present
@@ -90,11 +88,6 @@ We're going to be using [Raidbots](https://www.raidbots.com/simbot) as a way to 
 #### `Patchwerk 4-6 Bosses 40 seconds`
 
 To make gear comparisons for the specific purpose of optimizing a difficult pull in a M+ Dungeon you can vary the target number and the duration for your group.<br/>
-
-### M+ Night Fae and Kyrian
-#### `Hectic Add Cleave 1 Boss varied durations`
-
-If you aren't optimizing a specific pull by using Patchwerk AoE then using Hectic Add Cleave can be useful to include because it gives you an approximation of the value gained by {{site.data.soulbinds.first_strike}} and {{site.data.soulbinds.hammer_of_genesis}}.
 
 ### Additional Resources
 
