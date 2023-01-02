@@ -767,7 +767,9 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.eb }} if {{ site.data.talent.mote }} buff is active
  - {{ site.data.spell.lb }}
   
-  Note: You do not play around {{ site.data.talent.potm }} procs in single target.
+  Note: 
+  You do not play around {{ site.data.talent.potm }} procs in single target.
+  You do not play around {{ site.data.talent.eogs }} buffs in single target.
   
 ## 2 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
