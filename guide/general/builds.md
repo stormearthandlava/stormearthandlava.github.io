@@ -39,7 +39,7 @@ As the name suggests this is predominately aimed at single target but due to tak
 
 ## Always remember to sim your current options appropriately
  - [Raidbots](https://www.raidbots.com/simbot/topgear)
- - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/simming.md %})
+ - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/2023-01-02-simming.md %})
 
 ## Simplified
 This is quick and dirty, your sims will take priority in your gearing process.
@@ -149,7 +149,7 @@ As this build takes {{ site.data.talent.dre }} and extends to {{ site.data.talen
 
 ## Always remember to sim your current options appropriately
  - [Raidbots](https://www.raidbots.com/simbot/topgear)
- - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/simming.md %})
+ - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/2023-01-02-simming.md %})
   
 ## Simplified
 This is quick and dirty, your sims will take priority in your gearing process.
@@ -266,7 +266,7 @@ This build effectively swaps {{ site.data.talent.wlr }} or {{ site.data.talent.f
 
 ## Always remember to sim your current options appropriately
  - [Raidbots](https://www.raidbots.com/simbot/topgear)
- - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/simming.md %})
+ - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/2023-01-02-simming.md %})
 
 ## Simplified
 This is quick and dirty, your sims will take priority in your gearing process.
@@ -393,7 +393,7 @@ Note: There are multiple possible variants of this build that do not include rot
 
 ## Always remember to sim your current options appropriately
  - [Raidbots](https://www.raidbots.com/simbot/topgear)
- - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/simming.md %})  
+ - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/2023-01-02-simming.md %})  
 
 ## Simplified
 This is quick and dirty, your sims will take priority in your gearing process.
@@ -555,7 +555,7 @@ You may also prefer to include {{ site.data.talent.ns }} in the class tree if th
 
 ## Always remember to sim your current options appropriately
  - [Raidbots](https://www.raidbots.com/simbot/topgear)
- - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/simming.md %})  
+ - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/2023-01-02-simming.md %})  
 
 ## Simplified
 This is quick and dirty, your sims will take priority in your gearing process.
@@ -723,7 +723,7 @@ Note:
 
 ## Always remember to sim your current options appropriately
  - [Raidbots](https://www.raidbots.com/simbot/topgear)
- - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/simming.md %})  
+ - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/2023-01-02-simming.md %})  
 
 ## Simplified
 This is quick and dirty, your sims will take priority in your gearing process.
@@ -867,7 +867,7 @@ Note:
 
 ## Always remember to sim your current options appropriately
  - [Raidbots](https://www.raidbots.com/simbot/topgear)
- - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/simming.md %})
+ - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/2023-01-02-simming.md %})
 
 ## Simplified
 This is quick and dirty, your sims will take priority in your gearing process.
