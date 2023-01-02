@@ -200,7 +200,7 @@ If you find yourself using this build on 2 or more targets it is less than ideal
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
  - {{ site.data.spell.frs }} if you have {{ site.data.talent.if }} buff active *and* need to move
- - {{ site.data.spell.if }} if you expect to move soon and {{ site.data.talent.swg }} is not available, otherwise do not use.
+ - {{ site.data.talent.if }} if you expect to move soon and {{ site.data.talent.swg }} is not available, otherwise do not use.
 
 ## 3 Target Priority
 If you find yourself using this build on 3 or more targets it is less than ideal
@@ -420,22 +420,22 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
     <div class="skill pw"><span>PW</span></div>
     <div class="arrow"></div>...
 </div>
-  
+
 AoE openers are less rigid than boss openers. Keep in mind that these will change simply based by what cooldowns you have available on a pull-by-pull basis and you should aim to maximise the value from what is available at that time. Here are some general rules:
-     * Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
-     * Though spreading {{ site.data.spell.fs }} to multiple targets is good, it should not be viewed as a requirement to reach 6 before doing damage in all cases. In cases where you have {{ site.data.talent.lmt }} and {{ site.data.talent.totemic_recall }} available, this is quite achieveable, in cases where you don't you should be prepared to trigger {{ site.data.talent.splinter }}'s effect with 4-5 targets. If you have maelstrom left from a previous pack (and you should!) this process becomes more fluid and you can spread {{ site.data.spell.fs }} whilst the tank is gathering mobs.
-     * On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
-     * Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
+   - Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
+   - Though spreading {{ site.data.spell.fs }} to multiple targets is good, it should not be viewed as a requirement to reach 6 before doing damage in all cases. In cases where you have {{ site.data.talent.lmt }} and {{ site.data.talent.totemic_recall }} available, this is quite achieveable, in cases where you don't you should be prepared to trigger {{ site.data.talent.splinter }}'s effect with 4-5 targets. If you have maelstrom left from a previous pack (and you should!) this process becomes more fluid and you can spread {{ site.data.spell.fs }} whilst the tank is gathering mobs.
+   - On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
+   - Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
 
 ## 1 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
- - {{ site.data.talent.sk }} if you have at least 83 maelstrom (without {{ site.data.talent.potm }} or 80 with {{ site.data.talent.potm }}. This ensures you can buff both charges.
+ - {{ site.data.talent.sk }} if you have at least 83 maelstrom (without {{ site.data.talent.potm }} or 80 with {{ site.data.talent.potm }}). This ensures you can buff both charges.
  - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
  - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
  - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.dre }} proc is active. Note: if you have to move you will still cast {{ site.data.spell.es }} as below, and continue to follow the priorities above!
- - {{ site.data.talent.es }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.es }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.lb }}
  - Refresh {{ site.data.spell.fs }} or cast {{ site.data.spell.frs }} when moving
@@ -450,7 +450,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
  - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} buff is active
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
@@ -462,7 +462,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
@@ -476,7 +476,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
@@ -490,7 +490,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
@@ -505,7 +505,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} buff is active 
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
@@ -581,10 +581,10 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
 </div>
   
 AoE openers are less rigid than boss openers. Keep in mind that these will change simply based by what cooldowns you have available on a pull-by-pull basis and you should aim to maximise the value from what is available at that time. Here are some general rules:
-     * Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
-     * Though spreading {{ site.data.spell.fs }} to multiple targets is good, it should not be viewed as a requirement to reach 6 before doing damage in all cases. In cases where you have {{ site.data.talent.lmt }} and {{ site.data.talent.totemic_recall }} available, this is quite achieveable, in cases where you don't you should be prepared to trigger {{ site.data.talent.splinter }}'s effect with 4-5 targets. If you have maelstrom left from a previous pack (and you should!) this process becomes more fluid and you can spread {{ site.data.spell.fs }} whilst the tank is gathering mobs.
-     * On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
-     * Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
+   - Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
+   - Though spreading {{ site.data.spell.fs }} to multiple targets is good, it should not be viewed as a requirement to reach 6 before doing damage in all cases. In cases where you have {{ site.data.talent.lmt }} and {{ site.data.talent.totemic_recall }} available, this is quite achieveable, in cases where you don't you should be prepared to trigger {{ site.data.talent.splinter }}'s effect with 4-5 targets. If you have maelstrom left from a previous pack (and you should!) this process becomes more fluid and you can spread {{ site.data.spell.fs }} whilst the tank is gathering mobs.
+   - On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
+   - Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
 
 ## 1 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
@@ -691,7 +691,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 
 # Lightning Builds
   
-Exactly what it says on the tin, for the friends with a penchant for Lightning!
+Exactly what it says on the tin, for the friends with a penchant for Lightning! Lightning offers a great way to cater to multiple damage profiles, rarely sacrificing single target for aoe. It also plays differently to the fire builds, placing much more emphasis on {{ site.data.spell.cl }} to generate quickly at high target counts.
 
 <div class="accordion dungeon-accordion" id="accordion-lightning">
 <div class="card">
@@ -711,10 +711,10 @@ This build focuses on the power of {{ site.data.spell.lb }}, {{ site.data.spell.
   </div>
   
 Note: 
-  You can build this without {{ site.data.talent.eb }} instead taking {{ site.data.talent.fol }}, if you do not like {{ site.data.talent.eb }}.
-  You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
-  {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target.
-  You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favour of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
+  - You can build this without {{ site.data.talent.eb }} instead taking {{ site.data.talent.fol }}, if you do not like {{ site.data.talent.eb }}.
+  - You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
+  - {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target.
+  - You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favour of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
   
 # Stats
 
@@ -755,14 +755,14 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
 </div>
   
 AoE openers are less rigid than boss openers. Keep in mind that these will change simply based by what cooldowns you have available on a pull-by-pull basis and you should aim to maximise the value from what is available at that time. Here are some general rules:
-     * {{ site.data.talent.lr }} is a rather significant buff to your aoe burst via {{ site.data.talent.sk }}, where possible try to ensure at least one {{ site.data.talent.lr }} buff is running on a target prior to using {{ site.data.talent.sk }} charges!
-     * Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
-     * On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
-     * Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
+   - {{ site.data.talent.lr }} is a rather significant buff to your aoe burst via {{ site.data.talent.sk }}, where possible try to ensure at least one {{ site.data.talent.lr }} buff is running on a target prior to using {{ site.data.talent.sk }} charges!
+   - Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
+   - On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
+   - Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
 
 ## 1 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
- - {{ site.data.talent.lmt }} if it is available and no additional targets soon. (using {{ site.data.talent.totemic_recall }} is dps neutral in single target, and could be considered a good movement global if none are available and it would not negatively impact the next use.
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon. (using {{ site.data.talent.totemic_recall }} is dps neutral in single target, and could be considered a good movement global if none are available and it would not negatively impact the next use)
  - {{ site.data.spell.fs }} if the debuff has faded or will in ~5 seconds
  - {{ site.data.talent.sk }} if you have at least 124 maelstrom with {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff and at least 46 maelstrom. This will enable you to buff both of your {{ site.data.talent.sk }} charges if you cast {{ site.data.spell.lvb }} before your second {{ site.data.talent.eb }} cast.
  - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
@@ -774,8 +774,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lb }}
   
   Note: 
-  You do not play around {{ site.data.talent.potm }} procs in single target.
-  You do not play around {{ site.data.talent.eogs }} buffs in single target.
+ - You do not play around {{ site.data.talent.potm }} procs in single target.
+ - You do not play around {{ site.data.talent.eogs }} buffs in single target.
   
 ## 2 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
@@ -792,7 +792,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.eb }} if {{ site.data.talent.mote }} buff is active and {{ site.data.talent.eogs }} is not
  - {{ site.data.spell.cl }}
   
-  Note: Playing around {{ site.data.talent.potm }} procs is dps neutral, but generally it will be easier and less likely to negatively impact your performance if you ignore them - sometimes you will get lucky and have one during your {{ site.data.talent.sk }} burst though!
+  Note: 
+ - Playing around {{ site.data.talent.potm }} procs is dps neutral, but generally it will be easier and less likely to negatively impact your performance if you ignore them - sometimes you will get lucky and have one during your {{ site.data.talent.sk }} burst though!
 
 ## 3 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
@@ -853,10 +854,10 @@ This build focuses on the power of {{ site.data.spell.lb }}, {{ site.data.spell.
   </div>
   
 Note: 
-  You can build this without {{ site.data.talent.eb }} instead taking {{ site.data.talent.searing_flames }}, {{ site.data.talent.pw }} or even {{ site.data.talent.eote }} (to improve its 1-2 target profile).
-  You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
-  {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target. Whilst this build does utilise more {{ site.data.spell.fs }} than other Lightning variants it will generally not be worthwhile to run {{ site.data.talent.pe }} simply because it is opportunity costed against {{ site.data.talent.lmt }}.
-  You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favour of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
+ - You can build this without {{ site.data.talent.eb }} instead taking {{ site.data.talent.searing_flames }}, {{ site.data.talent.pw }} or even {{ site.data.talent.eote }} (to improve its 1-2 target profile).
+ - You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
+ - {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target. Whilst this build does utilise more {{ site.data.spell.fs }} than other Lightning variants it will generally not be worthwhile to run {{ site.data.talent.pe }} simply because it is opportunity costed against {{ site.data.talent.lmt }}.
+ - You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favour of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
   
 # Stats
 
@@ -897,14 +898,14 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
 </div>
   
 AoE openers are less rigid than boss openers. Keep in mind that these will change simply based by what cooldowns you have available on a pull-by-pull basis and you should aim to maximise the value from what is available at that time. Here are some general rules:
-     * {{ site.data.talent.lr }} is a rather significant buff to your aoe burst via {{ site.data.talent.sk }}, where possible try to ensure at least one {{ site.data.talent.lr }} buff is running on a target prior to using {{ site.data.talent.sk }} charges!
-     * Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
-     * On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
-     * Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
+   - {{ site.data.talent.lr }} is a rather significant buff to your aoe burst via {{ site.data.talent.sk }}, where possible try to ensure at least one {{ site.data.talent.lr }} buff is running on a target prior to using {{ site.data.talent.sk }} charges!
+   - Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
+   - On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
+   - Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
 
 ## 1 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
- - {{ site.data.talent.lmt }} if it is available and no additional targets soon. (using {{ site.data.talent.totemic_recall }} is dps neutral in single target, and could be considered a good movement global if none are available and it would not negatively impact the next use.
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon. (using {{ site.data.talent.totemic_recall }} is dps neutral in single target, and could be considered a good movement global if none are available and it would not negatively impact the next use)
  - {{ site.data.talent.sk }} if you have at least 124 maelstrom with {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff and at least 46 maelstrom. This will enable you to buff both of your {{ site.data.talent.sk }} charges if you cast {{ site.data.spell.lvb }} before your second {{ site.data.talent.eb }} cast.
  - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
  - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
@@ -916,8 +917,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lb }}
   
   Note: 
-  You do not play around {{ site.data.talent.potm }} procs in single target.
-  You do not play around {{ site.data.talent.eogs }} buffs in single target.
+ - You do not play around {{ site.data.talent.potm }} procs in single target.
+ - You do not play around {{ site.data.talent.eogs }} buffs in single target.
   
 ## 2 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
@@ -934,7 +935,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.eb }} if {{ site.data.talent.mote }} buff is active and {{ site.data.talent.eogs }} is not
  - {{ site.data.spell.cl }}
   
-  Note: Playing around {{ site.data.talent.potm }} procs is dps neutral, but generally it will be easier and less likely to negatively impact your performance if you ignore them - sometimes you will get lucky and have one during your {{ site.data.talent.sk }} burst though!
+  Note: 
+ - Playing around {{ site.data.talent.potm }} procs is dps neutral, but generally it will be easier and less likely to negatively impact your performance if you ignore them - sometimes you will get lucky and have one during your {{ site.data.talent.sk }} burst though!
 
 ## 3 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
@@ -947,7 +949,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.if }}
  - {{ site.data.spell.cl }}
   
- Note: {{ site.data.spell.fs }} maintenance is dps neutral on 3 targets, and only when {{ site.data.talent.sop }} buffs are utitlised for it - the opportunity cost of not casting {{ site.data.talent.if }} buffed {{ site.data.spell.frs }} or {{ site.data.spell.cl }} is high!
+ Note: 
+ - {{ site.data.spell.fs }} maintenance is dps neutral on 3 targets, and only when {{ site.data.talent.sop }} buffs are utitlised for it - the opportunity cost of not casting {{ site.data.talent.if }} buffed {{ site.data.spell.frs }} or {{ site.data.spell.cl }} is high!
 
 ## 4 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
@@ -957,6 +960,9 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.spell.cl }}
+  
+  Note:
+ - {{ site.data.talent.if }} becomes a dps loss at 4 or more targets, you can use it when you know movement will be needed and it serves as a reduction in loss incurred by movement. Try to utilise {{ site.data.talent.swg }} where possible. 
 
 ## 5+ Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
@@ -976,7 +982,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.spell.cl }}
  
-Note: at these target counts ignoring {{ site.data.spell.fs }} was better than playing around it, given {{ site.data.talent.sop }} buffs are far stronger with {{ site.data.spell.cl }} - rely on {{ site.data.talent.lmt }} and movement globals to apply {{ site.data.spell.fs }}. 
+Note: 
+ - At these target counts ignoring {{ site.data.spell.fs }} was better than playing around it, given {{ site.data.talent.sop }} buffs are far stronger with {{ site.data.spell.cl }} - rely on {{ site.data.talent.lmt }} and movement globals to apply {{ site.data.spell.fs }}. 
   
 </div>
 </div>
