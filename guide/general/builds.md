@@ -694,6 +694,9 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 </div>
 
 # Lightning Builds
+  
+Exactly what it says on the tin, for the friends with a penchant for Lightning!
+  
 <hr>
 <div class="dungeon-accordion">
 <div id="accordion">
