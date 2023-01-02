@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Builds
-last_update: 29/12/2022
+last_update: 02/01/2023
 game_version: 10.0.2 Dragonflight
 toc: false
 ---
@@ -681,6 +681,150 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
+
+</div>
+</div>
+</div>
+
+# Lightning Builds
+<hr>
+<div class="dungeon-accordion">
+<div id="accordion">
+<div class="card">
+<div class="card-header" id="limwf">
+<div data-toggle="collapse" data-target="#limwf-collapse" aria-expanded="true" aria-controls="limwf-collapse"><h2>Lightning with Mountains will Fall</h2></div>
+</div>
+<div id="limwf-collapse" class="collapse" aria-labelledby="limwf" data-parent="#accordion">
+<div class="card-body" markdown="1">
+
+# What does this build do?
+
+This build focuses on the power of {{ site.data.spell.lb }}, {{ site.data.spell.cl }} and {{ site.data.talent.eb }} with {{ site.data.talent.eogs }}. It seeks to empower these effects with supporting talents like {{ site.data.talent.e_shocks }}, {{ site.data.talent.se }}, and {{ site.data.talent.lr }}. This build will be for you if you are not a fan of {{ site.data.spell.fs }} dot management or random effects that can swing your damage like {{ site.data.talent.dre }}, effectively being a solid and consistent way of dealing damage that is flexible to all target counts - the more targets the better!
+
+# What does it look like?
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAAoVSSJJSJJtENE0QiEAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  </div>
+  
+Note: 
+  You can build this without {{ site.data.talent.eb }} instead taking {{ site.data.talent.fol }}, if you do not like {{ site.data.talent.eb }}.
+  You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
+  {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target.
+  You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favour of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
+  
+# Stats
+
+## Always remember to sim your current options appropriately
+ - For more information [link to updated sim guide post](blahblah)  
+
+## Simplified
+This is quick and dirty, your sims will take priority in your gearing process.
+ - Haste / Crit > Mastery / Vers
+ - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+
+# Rotation
+
+## Key Notes
+ - {{ site.data.talent.mote }} is mainly to path to {{ site.data.talent.lmt }}, once you hit 3 targets any sort of gaming the {{ site.data.talent.mote }} buff becomes extremely bad in practice, this also makes the points spent in {{ site.data.talent.potm }} near worthless however they are also needed for {{ site.data.talent.echo_chamber }} & {{ site.data.talent.mwf }}
+ - {{ site.data.talent.lr }} applies to your current target when it does not have an active buff. {{ site.data.spell.eq }} has *some* 'smart' applications to apply to off-targets but results can vary. It is suggested *when you are comfortable enough to do so* to incorporate target swapping after each spender to increase the value gained from {{ site.data.talent.lr }}. If done poorly (i.e. too early in the learning process) this can produce negative results, master the basics then add complexity!
+ - {{ site.data.talent.lmt }} is included for its raw damage, don't start to spread {{ site.data.spell.fs }} unless you have to move - in which case it remains a good movement global when {{ site.data.talent.if }} buffed {{ site.data.spell.frs }} aren't available.
+ - {{ site.data.talent.sop }} is there to amplify what you're already aiming to do at different target counts which can be quite handy, whilst it is appreciable that {{ site.data.talent.eb }} reduces the value gained from {{ site.data.talent.sop }} due to being more expensive and producing less buffs overall - this is only true for the 1-4 target range and the value added is still positive, AoE value from {{ site.data.talent.sop }} is unaffected at 6+ targets.
+    * 1-2 Targets = {{ site.data.spell.lb }}
+    * 3-5 Targets = {{ site.data.spell.fs }} if and only if you need to move and {{ site.data.talent.sop }} buff happens to up and no {{ site.data.talent.if }} buffs remain
+    * 6+ Targets = {{ site.data.spell.cl }} whenever possible
+    * {{ site.data.talent.sop }} will also make you want to delay casting {{ site.data.talent.sk }} on 1-2 targets or 6+ targets in order to benefit from their combined effects.
+
+## Opener
+Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+
+~3.5 seconds from boss pull
+<div class="opener">
+    <div class="skill se"><span>SE</span></div>
+    <div class="arrow"></div>
+    <div class="skill if"><span>IF</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow"></div>...
+</div>
+  
+AoE openers are less rigid than boss openers. Keep in mind that these will change simply based by what cooldowns you have available on a pull-by-pull basis and you should aim to maximise the value from what is available at that time. Here are some general rules:
+     * {{ site.data.talent.lr }} is a rather significant buff to your aoe burst via {{ site.data.talent.sk }}, where possible try to ensure at least one {{ site.data.talent.lr }} buff is running on a target prior to using {{ site.data.talent.sk }} charges!
+     * Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
+     * On pulls that include 6+ targets it is ideal to have {{ site.data.talent.sop }} active for both charges of {{ site.data.talent.sk }} and given the maelstrom generated you can cast {{ site.data.spell.eq }} twice between them, this means that if you do not have maelstrom from a previous pack you may need to hold {{ site.data.talent.sk }} until slightly later in the pull or simply forego this value in favour of using {{ site.data.talent.sk }} without {{ site.data.talent.sop }}.
+     * Avoid placing {{ site.data.talent.lmt }} prematurely, if the tank does not have sufficient aggro then its possible for it to be killed directly by mobs which greatly reduces its value
+
+## 1 Target Priority
+ - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon. (using {{ site.data.talent.totemic_recall }} is dps neutral in single target, and could be considered a good movement global if none are available and it would not negatively impact the next use.
+ - {{ site.data.talent.sk }} if you have at least 124 maelstrom with {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff and at least 46 maelstrom. This will enable you to buff both of your {{ site.data.talent.sk }} charges if you cast {{ site.data.spell.lvb }} before your second {{ site.data.talent.eb }} cast.
+ - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
+ - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
+ - {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast
+ - {{ site.data.talent.if }}
+ - {{ site.data.spell.lvb }} if you have 63 or more maelstrom and {{ site.data.talent.mote }} buff is *not* active
+ - {{ site.data.talent.eb }} if {{ site.data.talent.mote }} buff is active
+ - {{ site.data.spell.lb }}
+  
+  Note: You do not play around {{ site.data.talent.potm }} procs in single target.
+  
+## 2 Target Priority
+ - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
+ - {{ site.data.talent.sk }} if you have at least 125 maelstrom with {{ site.data.talent.swelling_maelstrom }} *or* an active {{ site.data.talent.sop }} buff and at least 46 maelstrom. This will enable you to buff both of your {{ site.data.talent.sk }} charges if you cast {{ site.data.spell.lvb }} before your second {{ site.data.talent.eb }} cast.
+ - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
+ - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
+ - {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast
+ - {{ site.data.talent.if }}
+ - {{ site.data.spell.lvb }} if you have 50 or more maelstrom, {{ site.data.talent.eogs }} buff is active but {{ site.data.talent.mote }} buff is not
+ - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} and {{ site.data.talent.mote }} buffs are active
+ - {{ site.data.spell.lvb }} if you have 63 or more maelstrom, {{ site.data.talent.eogs }} and {{ site.data.talent.mote }} buffs are not active
+ - {{ site.data.talent.eb }} if {{ site.data.talent.mote }} buff is active and {{ site.data.talent.eogs }} is not
+ - {{ site.data.spell.cl }}
+  
+  Note: Playing around {{ site.data.talent.potm }} procs is dps neutral, but generally it will be easier and less likely to negatively impact your performance if you ignore them - sometimes you will get lucky and have one during your {{ site.data.talent.sk }} burst though!
+
+## 3 Target Priority
+ - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
+ - {{ site.data.talent.sk }} if it is available and no additional targets soon. 
+ - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
+ - {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast
+ - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
+ - {{ site.data.talent.if }}
+ - {{ site.data.spell.cl }}
+
+## 4 Target Priority
+ - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
+ - {{ site.data.talent.sk }} if it is available and no additional targets soon. 
+ - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
+ - {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast
+ - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
+ - {{ site.data.talent.if }}
+ - {{ site.data.spell.cl }}
+
+## 5+ Target Priority
+ - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
+ - {{ site.data.talent.sk }} if it is available and no additional targets soon. 
+ - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
+ - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
+ - {{ site.data.spell.cl }}
+  
+ Note: {{ site.data.talent.e_shocks }} is a substantial loss on 5 targets, the T29 profile as of 02/01/23 loses 8.5% dps by playing around it!
+  
+## 6+ Target Priority
+ - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
+ - {{ site.data.talent.sk }} if you have 50 maelstrom and {{ site.data.talent.eogs }} buff is active *or* 75 maelstrom and {{ site.data.talent.eogs }} is not active
+ - {{ site.data.spell.cl }} if {{ site.data.talent.sop }} is active
+ - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
+ - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
+ - {{ site.data.spell.cl }}
+  
+ Note: {{ site.data.talent.e_shocks }} is a substantial loss on 6 targets, the T29 profile as of 02/01/23 loses ~12% dps by playing around it!
 
 </div>
 </div>
