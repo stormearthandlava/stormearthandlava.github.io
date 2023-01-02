@@ -1,7 +1,7 @@
 ---
 layout: highcharts_page
 title: Trinkets
-last_update: 13/12/2022
+last_update: 02/01/2023
 game_version: 10.0.2 Dragonflight
 toc: true
 ---
@@ -20,6 +20,7 @@ These trinkets are not displayed in any specific ranking order, but they are giv
 * {{ site.data.item.hov }} Strong use trinket. If using builds centered around burst windows for big pulls this trinket will be an excellent choice.
 * {{ site.data.item.writ }} Strong passive trinket. Crit is an excellent AoE stat for M+ use, it also drops from M+ making it a great early acquisition for M+ only players.
 * {{ site.data.item.shadowgem }} Strong use trinket. If using builds centered around burst windows for big pulls this trinket will be an excellent choice.
+* {{ site.data.item.eye }} Strong passive trinket. 
 
 ## Special Mentions
 * Despite being capped at 372 due to how they are obtained, the following trinkets perform very well for their ilvl.
