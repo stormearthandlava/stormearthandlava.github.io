@@ -455,7 +455,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
 
-## 3 Target Priority
+## 3-5 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
  - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
@@ -469,34 +469,6 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
 
-## 4 Target Priority
- - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
- - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
- - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
- - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
- - {{ site.data.talent.pw }} if it is available
- - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
- - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
- - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
- - {{ site.data.spell.lvb }} 
- - {{ site.data.spell.cl }}
-
-## 5+ Target Priority
- - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
- - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
- - {{ site.data.talent.sk }} if it is available and there is no reason to hold its use
- - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
- - {{ site.data.talent.pw }} if it is available
- - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
- - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
- - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
- - {{ site.data.spell.lvb }} 
- - {{ site.data.spell.cl }}
-  
 ## 6+ Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
