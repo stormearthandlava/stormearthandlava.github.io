@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Vault of the Incarnates Guide"
-date: 12/12/2022
+date: 09/01/2023
 game_version: 10.0.2 Dragonflight
 author: Sheffy
 toc: false
@@ -308,8 +308,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 * Use {{ site.data.spell.wind_shear }} to interrupt [Ice Barrage](https://www.wowhead.com/spell=375716/ice-barrage) from [Primalist Mage](https://www.wowhead.com/npc=191206/primalist-mage) and [Static Jolt](https://www.wowhead.com/spell=375653/static-jolt) from [Drakonid Stormbringer](https://www.wowhead.com/npc=191232/drakonid-stormbringer).
 * Use {{ site.data.talent.capacitor_totem }} and {{ site.data.talent.thunderstorm }} to gather and stun adds waves if necessary.
-* Use {{ site.data.spell.ghost_wolf }} if {{ site.data.talent.thunderous_paws }} is talented to free yourself from [Frozen Shroud](https://www.wowhead.com/spell=388918/frozen-shroud) (not confirmed to work).
-* If talented, use {{ site.data.talent.wrt }} to help your raid repositioning when new add waves are about to spawn.
+* Use {{ site.data.talent.spirit_walk }} to free yourself from [Frozen Shroud](https://www.wowhead.com/spell=388918/frozen-shroud).
+* If talented, use {{ site.data.talent.wrt }} to help your raid reposition when new add waves are about to spawn.
 
 **PTR PoVs:**
 
