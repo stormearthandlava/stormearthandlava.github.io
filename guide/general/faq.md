@@ -1,7 +1,7 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 31/12/2022
+last_update: 23/01/2023
 game_version: 10.0.2 Dragonflight
 toc: true
 ---
@@ -10,6 +10,12 @@ This page has the answers to some frequently asked questions for Elemental Shama
 
 ### Q: "Will Elemental be viable in <Expansion name> <game version>?"
 Firstly, no spec in the game is unviable. Certain specs may be favoured for certain bosses in a raid, but this is only relevant to the very highest end of raiding (ie, competing for world first). Elemental (and every other spec) will remain competitive for 99.9% of the playerbase.
+
+### Q: "What do all these abbreviations mean? I can't understand other Elemental Shaman"
+It can be tough trying to learn all of them at once but there is a handy resource to help you! [Elemental Abbreviations]({{ site.baseurl }}{% link blog/_posts/2023-01-23-ele101.md %}).
+   
+### Q: "What does {{ site.data.talent.fol }} actually reduce?"
+For a complete list see [Flash of Lightning]({{ site.baseurl }}{%link blog/_posts/2023-01-23-fol.md %}).
    
 ### Q: "Is there a point where I don't cast {{site.data.spell.es}} with {{site.data.talent.eogs}} talented?"
 **No**, unless you have {{ site.data.talent.eb }} talented this part of the rotation remains the same as Shadowlands: always alternate!
