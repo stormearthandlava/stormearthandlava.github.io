@@ -336,10 +336,10 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Damage**
 * Use {{ site.data.talent.sk }} and {{ site.data.talent.lmt }} on adds during intermissions if talented.
 * Keep offensive CDs for [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) during P2.
-* Use {{ site.data.talent.spiritwalkers_grace }} and {{ site.data.talent.gust_of_wind }} to maintain uptime whilst dealing with [Static Charge](https://www.wowhead.com/spell=381615/static-charge)(P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge).
+* Use {{ site.data.talent.spiritwalkers_grace }} and {{ site.data.talent.gust_of_wind }} to maintain uptime whilst dealing with [Static Charge](https://www.wowhead.com/spell=381615/static-charge)(P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 Bomb).
 
 **Defensive**
-* {{ site.data.talent.as }} and healing consumables when away from the raid to drop [Static Charge](https://www.wowhead.com/spell=381615/static-charge)(P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge).
+* Use {{ site.data.talent.as }} and healing consumables when away from the raid to drop [Static Charge](https://www.wowhead.com/spell=381615/static-charge)(P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge).
 * Use {{ site.data.spell.healing_surge }} if necessary.
 * If talented, use {{ site.data.talent.ag }} to help healers during [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge)(P2).
 
