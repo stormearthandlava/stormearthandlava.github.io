@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Vault of the Incarnates Guide"
-date: 09/01/2023
+date: 15/02/2023
 game_version: 10.0.2 Dragonflight
-author: Sheffy
+author: Sheffy, Elivrio
 toc: false
 ---
 
@@ -18,6 +18,7 @@ This guide was made possible by:
 - HawkCorrigan (Discord: HawkCorrigan#1811)
 - Kaldeak (Discord: Kaldeak#1394)
 - Sheffy (Discord: Sheffy#4928 \| [Twitch](https://www.twitch.tv/sheffywow) \| [Twitter](https://twitter.com/SheffyWoW))
+- Elivrio (in-game : Tyrindra-Ysondre, Discord: Elivrio#1450)
 
 The tips and recommendations listed here are based on educated opinions from PTR raid testing and reviewing logs and videos, so strategies can change as we develop a better understanding of each fight or as the spec and bosses are tuned. If you have any disagreements, feedback, or questions, please feel welcome to reach out to the team.
 
@@ -326,10 +327,28 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="raszageth-collapse" class="collapse" aria-labelledby="raszageth" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-**Soon™**
+**Boss fight profile:** Single Target, occasional AoE
 
+**Talents:**
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
 
+**Damage**
+* Use {{ site.data.talent.sk }} and {{ site.data.talent.lmt }} on adds during intermissions if talented.
+* Keep offensive CDs for [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) during P2.
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gust_of_wind }} to maintain uptime whilst dealing with [Static Charge](https://www.wowhead.com/spell=381615/static-charge)(P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 Bomb).
 
+**Defensive**
+* Use {{ site.data.talent.as }} and healing consumables when away from the raid to drop [Static Charge](https://www.wowhead.com/spell=381615/static-charge)(P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge).
+* Use {{ site.data.spell.healing_surge }} if necessary.
+* If talented, use {{ site.data.talent.ag }} to help healers during [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge)(P2).
+
+**Utilities:**
+
+* Use {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.thunderstorm }}, {{ site.data.spell.wind_shear }} and {{ site.data.talent.purge }} to destroy [Volatile Spark](https://www.wowhead.com/npc=194999/volatile-spark) rapidly.
+* Use {{ site.data.talent.gust_of_wind }} to go through [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing), [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing) fast.
+* If talented, use {{ site.data.talent.wrt }} to help your raid repositioning during [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing), [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing) and intermissions.
 
 </div>
 </div>
