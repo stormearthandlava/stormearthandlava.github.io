@@ -133,6 +133,13 @@ putting spells with specific id in the guide to avoid wrong references
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
+## Fenryr Trash
+{{ site.data.mythic_plus.enrage_hov }}
+{{ site.data.mythic_plus.charge_hov }}
+
+## Odyn
+{{ site.data.mythic_plus.surge_hov }}
+
 </div>
 </div>
 </div>
