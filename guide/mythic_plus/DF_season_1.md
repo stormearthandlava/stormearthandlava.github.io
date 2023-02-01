@@ -229,16 +229,16 @@ putting spells with specific id in the guide to avoid wrong references
 
 # Useful WeakAuras
 
-* [Shadowlands Dungeons Pack](https://wago.io/SL-Dungeons)
-* [Shadowlands Dungeons Purgeable Buffs](https://wago.io/r2QBcOnlT)
-* [Mythic+ Auto Marker](https://wago.io/1ctv3b91K)
-* [Mythic+ Timer](https://wago.io/M+Timer)
+* [Dragonflight Season 1 Dungeons Pack by Jodsderechte](https://wago.io/DF-Dungeons)
+* [Thundering Helper by Ellesmere](https://wago.io/thunder)
+* [Quaking Helper by JackTheEgg](https://wago.io/QuakeInterrupt)
+* [Mythic+ Auto Marker by Megawatt](https://wago.io/1ctv3b91K)
+* [Mythic+ Timer by Reloe](https://wago.io/M+Timer)
 
 # Additional Resources
 
-* [Gistwiki's Wowhead Elemental Shaman Mythic+ Guide](https://www.wowhead.com/guides/elemental-shaman-basic-mythic-plus-keystone-dungeons)
-* [Stormy's Icy-Veins Elemental Shaman Mythic+ Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-mythic-plus-tips)
+* [Wowhead Elemental Shaman Mythic+ Guide by HawkCorrigan](https://www.wowhead.com/guide/classes/shaman/elemental/mythic-plus-dungeon-tips)
+* [Icy-Veins Elemental Shaman Mythic+ Tips by Stormy](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-mythic-plus-tips)
 * [Mythic+ Subcreation](https://mplus.subcreation.net/elemental-shaman.html)
-* [Mythic Trap](https://mythictrap.com/home)
-* [Tanknotes](https://tanknotes.com/)
+* [Mythic+ Murlok.io](https://murlok.io/shaman/elemental/mm+)
 </div>
