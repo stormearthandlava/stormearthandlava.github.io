@@ -90,6 +90,14 @@ The goal of this affix is to have high uptime on the debuff to benefit from the 
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
+putting spells with specific id in the guide to avoid wrong references
+
+{{ site.data.mythic_plus.arcane_missiles_si }}
+
+
+## Echo of Doragosa
+{{ site.data.mythic_plus.arcane_missiles_doragosa }}
+
 </div>
 </div>
 </div>
