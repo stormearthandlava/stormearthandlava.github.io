@@ -326,10 +326,28 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="raszageth-collapse" class="collapse" aria-labelledby="raszageth" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-**Soon™**
+**Boss fight profile:** Single Target, occasional AoE
 
+**Talents:**
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
 
+**Damage**
+* Use {{ site.data.talent.sk }} and {{ site.data.talent.lmt }} on adds during intermissions if talented.
+* Keep offensive CDs for [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) during P2.
+* Use {{ site.data.talent.spiritwalkers_grace }} and {{ site.data.talent.gust_of_wind }} to maintain uptime whilst dealing with [Static Charge](https://www.wowhead.com/spell=381615/static-charge)(P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 Bomb).
 
+**Defensive**
+* Use {{ site.data.talent.as }} and healing consumables when away from the raid to drop [Static Charge](https://www.wowhead.com/spell=381615/static-charge)(P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge).
+* Use {{ site.data.spell.healing_surge }} if necessary.
+* If talented, use {{ site.data.talent.ag }} to help healers during [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge)(P2).
+
+**Utilities:**
+
+* Use {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.thunderstorm }}, {{ site.data.spell.wind_shear }} and {{ site.data.spell.purge }} to destroy [Volatile Spark](https://www.wowhead.com/npc=194999/volatile-spark) rapidely.
+* Use {{ site.data.talent.gust_of_wind }} to go through [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing), [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing) fast.
+* If talented, use {{ site.data.talent.wrt }} to help your raid repositioning during [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing), [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing) and intermissions.
 
 </div>
 </div>
