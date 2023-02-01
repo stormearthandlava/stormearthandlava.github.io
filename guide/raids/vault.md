@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Vault of the Incarnates Guide"
-date: 09/01/2023
+date: 31/01/2023
 game_version: 10.0.2 Dragonflight
 author: Sheffy
 toc: false
