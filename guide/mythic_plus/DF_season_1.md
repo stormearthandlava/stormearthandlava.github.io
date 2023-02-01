@@ -114,6 +114,9 @@ putting spells with specific id in the guide to avoid wrong references
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
+## Talixae Flamewreath Trash
+{{ site.data.mythic_plus.crushing_leap_cos }}
+
 </div>
 </div>
 </div>
