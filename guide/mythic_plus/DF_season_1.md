@@ -114,6 +114,9 @@ putting spells with specific id in the guide to avoid wrong references
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
+##Patrol Captain Gerdo Trash
+{{ site.data.mythic_plus.throw_torch_cos }}
+
 ## Talixae Flamewreath Trash
 {{ site.data.mythic_plus.crushing_leap_cos }}
 
@@ -172,6 +175,11 @@ putting spells with specific id in the guide to avoid wrong references
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
+
+## Sadana Bloodfury
+{{ site.data.mythic_plus.dark_communion_sbg }}
+
+
 </div>
 </div>
 </div>
@@ -187,6 +195,10 @@ putting spells with specific id in the guide to avoid wrong references
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
+
+## Strife and Peril Trash
+{{ site.data.mythic_plus.throw_torch_tjs }}
+
 
 </div>
 </div>
