@@ -360,7 +360,7 @@ This build can be harder to play effectively as it requires you to play around b
 
 # What does it look like?
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAAlAkWSARBSJJJtUCQCSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAAlAkSSARBSJJJtUCQCSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
 # Stats
