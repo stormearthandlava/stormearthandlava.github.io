@@ -90,13 +90,49 @@ The goal of this affix is to have high uptime on the debuff to benefit from the 
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-putting spells with specific id in the guide to avoid wrong references
+---
 
+## Dungeon buffs
+{{ site.data.mythic_plus.bronze_dragonflight_pledge_pin }} will be the default choice for most runs. {{ site.data.mythic_plus.black_dragonflight_pledge_pin }} is the alternative if you want AoE damage. 
+Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives rating and as such will be impacted by Diminishing return.
+
+---
+
+## {{ site.data.mythic_plus.vexamus }} trash
+
+** {{ site.data.mythic_plus.spellbound_scepter }} **
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.mystic_blast }}.
+* Make sure to dodge {{ site.data.mythic_plus.arcane_rain }} swirlies.
+
+** {{ site.data.mythic_plus.unruly_textbook }} **
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.monotonous_lecture }}. You can also ignore the cast and just use {{ site.data.talent.tremor_totem }} to dispell its effects.
+
+** {{ site.data.mythic_plus.corrupted_manafiend }} **
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.mana_void }} in priority and {{ site.data.mythic_plus.surge }} if you have extra kicks.
+
+** {{ site.data.mythic_plus.arcane_ravager }} **
+* {{ site.data.mythic_plus.arcane_ravager }} will jump on a random player with {{ site.data.mythic_plus.vicious_ambush }} and cast a {{ site.data.mythic_plus.riftbreath }} frontal. Beware of its position at all times. 
+
+## {{ site.data.mythic_plus.vexamus }}
+* Soak the {{ site.data.mythic_plus.arcane_orbs }} but try to let the {{ site.data.mythic_plus.oversurge }} debuff fall off before soaking another. Use {{ site.data.spell.astral_shift }} at higher stacks.
+---
+
+## Crawth trash
+## Crawth
+
+## Overgrown Ancient trash
+## Overgrown Ancient
+Keep CDs for 
+## Echo of Doragosa trash
 {{ site.data.mythic_plus.arcane_missiles_si }}
-
-
 ## Echo of Doragosa
 {{ site.data.mythic_plus.arcane_missiles_doragosa }}
+
+
+** {{ site.data.mythic_plus.trash name }} **
+* Mechanic to do and how
+** {{ site.data.mythic_plus.trash name }} **
+* Mechanic to do and how
 
 </div>
 </div>
