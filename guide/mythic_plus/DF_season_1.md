@@ -111,13 +111,18 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.mana_void }} in priority and {{ site.data.mythic_plus.surge }} if you have extra kicks.
 
 ** {{ site.data.mythic_plus.arcane_ravager }} **
-* {{ site.data.mythic_plus.arcane_ravager }} will jump on a random player with {{ site.data.mythic_plus.vicious_ambush }} and cast a {{ site.data.mythic_plus.riftbreath }} frontal. Beware of its position at all times. 
+* {{ site.data.mythic_plus.arcane_ravager }} will jump on a random player with {{ site.data.mythic_plus.vicious_ambush }} and cast a {{ site.data.mythic_plus.riftbreath }} frontal. Beware of it at all times and use {{ site.data.spell.spiritwalkers_grace }} to reposition as needed. 
 
 ## {{ site.data.mythic_plus.vexamus }}
 * Soak the {{ site.data.mythic_plus.arcane_orbs }} but try to let the {{ site.data.mythic_plus.oversurge }} debuff fall off before soaking another. Use {{ site.data.spell.astral_shift }} at higher stacks.
+* Spread with {{ site.data.mythic_plus.mana_bombs }} and try to drop pools along the walls.
+* Beware of {{ site.data.mythic_plus.arcane_fissure }}, it does a lot of direct damage. Use {{ site.data.spell.astral_shift }} as needed. {{ site.data.spell.spiritwalkers_grace }} will allow you to keep uptime while dodging the swirlies.
+
 ---
 
 ## Crawth trash
+** {{ site.data.mythic_plus.trash name }} **
+* Mechanic to do and how
 ## Crawth
 
 ## Overgrown Ancient trash
@@ -130,9 +135,7 @@ Keep CDs for
 
 
 ** {{ site.data.mythic_plus.trash name }} **
-* Mechanic to do and how
-** {{ site.data.mythic_plus.trash name }} **
-* Mechanic to do and how
+* Dodge {{ site.data.mythic_plus.mechanic }} with {{ site.data.spell.astral_shift }} or {{ site.data.talent.tremor_totem }}
 
 </div>
 </div>
