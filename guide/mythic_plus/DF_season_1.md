@@ -64,7 +64,7 @@ The affixes [Necrotic](https://dragonflight.wowhead.com/affix=4/necrotic) and [I
 **Seasonal Affix:**
 
 * [Thundering](https://www.wowhead.com/guide/mythic-plus-dungeons/dragonflight-season-1/thundering-affix) is the new Seasonal Affix for Season one of Dragonflight!
-   - Every 60 seconds that your group is in combat, players will be marked with a debuff, either [Mark of Lightning](https://www.wowhead.com/spell=396369/mark-of-lightning) (+ debuff ) or [Mark of Wind](https://www.wowhead.com/spell=396364/mark-of-wind) (- debuff). 
+   - Every 60 seconds that your group is in combat, players will be marked with a debuff, either [Mark of Lightning](https://www.wowhead.com/spell=396369/mark-of-lightning) (+ debuff ) or [Mark of Wind](https://www.wowhead.com/spell=396364/mark-of-wind) (- debuff).
    - When the debuffs expire, you may be stunned for a long period of time and take a lot of damage, but you can neutralize these debuffs by running into a player with the opposite mark.
    - While the debuff is on you, you deal 30% bonus damage and healing.
    - The tank always gets a [Mark of Wind](https://www.wowhead.com/spell=396364/mark-of-wind). Don't pair with him during packs with many frontals.
@@ -93,7 +93,7 @@ The goal of this affix is to have high uptime on the debuff to benefit from the 
 ---
 
 ## Dungeon buffs
-{{ site.data.mythic_plus.bronze_dragonflight_pledge_pin }} will be the default choice for most runs. {{ site.data.mythic_plus.black_dragonflight_pledge_pin }} is the alternative if you want AoE damage. 
+{{ site.data.mythic_plus.bronze_dragonflight_pledge_pin }} will be the default choice for most runs. {{ site.data.mythic_plus.black_dragonflight_pledge_pin }} is the alternative if you want AoE damage.
 Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives rating and as such will be impacted by Diminishing return.
 
 ---
@@ -111,7 +111,7 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.mana_void }} in priority and {{ site.data.mythic_plus.surge }} if you have extra kicks.
 
 ** {{ site.data.mythic_plus.arcane_ravager }} **
-* {{ site.data.mythic_plus.arcane_ravager }} will jump on a random player with {{ site.data.mythic_plus.vicious_ambush }} and cast a {{ site.data.mythic_plus.riftbreath }} frontal. Beware of it at all times and use {{ site.data.spell.spiritwalkers_grace }} to reposition as needed. 
+* {{ site.data.mythic_plus.arcane_ravager }} will jump on a random player with {{ site.data.mythic_plus.vicious_ambush }} and cast a {{ site.data.mythic_plus.riftbreath }} frontal. Beware of it at all times and use {{ site.data.spell.spiritwalkers_grace }} to reposition as needed.
 
 ## {{ site.data.mythic_plus.vexamus }}
 * Soak the {{ site.data.mythic_plus.arcane_orbs }} but try to let the {{ site.data.mythic_plus.oversurge }} debuff fall off before soaking another. Use {{ site.data.spell.astral_shift }} at higher stacks.
@@ -120,19 +120,30 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 
 ---
 
-## Crawth trash
-** {{ site.data.mythic_plus.trash name }} **
-* Mechanic to do and how
-## Crawth
+## {{ site.data.mythic_plus.crawth }} trash
+** {{ site.data.mythic_plus.guardian_sentry }} **
+* Get out or line of sight the big {{ site.data.mythic_plus.expel_intruders }}.
+* Dodge {{ site.data.mythic_plus.deadly_winds }} AoE and Tornado. In higher keys, a single tick can kill you. Move straight away even if you have to cancel your cast.
+
+** {{ site.data.mythic_plus.alpha_eagle }} **
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.call_of_the_flock }}.
+* Dodge the {{ site.data.mythic_plus.gust }} frontal.
+
+## {{ site.data.mythic_plus.crawth }}
+* Try to keep your offensive CDs and lust for when you trigger {{ site.data.mythic_plus.firestorm }}. The boss will take 45% more damege.
+* Dodge the {{ site.data.mythic_plus.firestorm }} swirlies and the {{ site.data.mythic_plus.overpowering_gust}} frontal. {{ site.data.spell.spiritwalkers_grace }} will allow you to keep uptime while dodging.
+* During {{ }} you must pick up {{ }} for damage and uptime.
+* Try to be at full health before {{ site.data.mythic_plus.deafening_screech }} or use {{ site.data.mythic_plus.astral_shift }}, especially at high {{ site.data.mythic_plus.sonic_vulnerability }} stacks.
 
 ## Overgrown Ancient trash
+* The pulls in this area are usually pretty big. Use {{ site.data.spell.capacitor_totem}} or {{ site.data.spell.earthbind_totem }} to CC and kite mobs.
+
 ## Overgrown Ancient
-Keep CDs for 
+Keep CDs for
 ## Echo of Doragosa trash
 {{ site.data.mythic_plus.arcane_missiles_si }}
 ## Echo of Doragosa
 {{ site.data.mythic_plus.arcane_missiles_doragosa }}
-
 
 ** {{ site.data.mythic_plus.trash name }} **
 * Dodge {{ site.data.mythic_plus.mechanic }} with {{ site.data.spell.astral_shift }} or {{ site.data.talent.tremor_totem }}
@@ -146,7 +157,7 @@ Keep CDs for
 <div data-toggle="collapse" data-target="#cos-collapse" aria-expanded="true" aria-controls="cos-collapse" class="dungeon-header cos"><h2>Court of Stars</h2></div>
 </div>
 <div id="cos-collapse" class="collapse" aria-labelledby="cos" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Placeholder Talent Wildfire:**
 <div class="iframe-holder">
@@ -191,7 +202,7 @@ Keep CDs for
 <div data-toggle="collapse" data-target="#rlp-collapse" aria-expanded="true" aria-controls="rlp-collapse" class="dungeon-header rlp"><h2>Ruby Life Pools</h2></div>
 </div>
 <div id="rlp-collapse" class="collapse" aria-labelledby="rlp" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Placeholder Talent Wildfire:**
 <div class="iframe-holder">
@@ -207,7 +218,7 @@ Keep CDs for
 <div data-toggle="collapse" data-target="#sbg-collapse" aria-expanded="true" aria-controls="sbg-collapse" class="dungeon-header sbg"><h2>Shadowmoon Burial Grounds</h2></div>
 </div>
 <div id="sbg-collapse" class="collapse" aria-labelledby="sbg" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Placeholder Talent Wildfire:**
 <div class="iframe-holder">
@@ -228,7 +239,7 @@ Keep CDs for
 <div data-toggle="collapse" data-target="#tjs-collapse" aria-expanded="true" aria-controls="tjs-collapse" class="dungeon-header tjs"><h2>Temple of the Jade Serpent</h2></div>
 </div>
 <div id="tjs-collapse" class="collapse" aria-labelledby="tjs" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Placeholder Talent Wildfire:**
 <div class="iframe-holder">
@@ -248,7 +259,7 @@ Keep CDs for
 <div data-toggle="collapse" data-target="#av-collapse" aria-expanded="true" aria-controls="av-collapse" class="dungeon-header av"><h2>The Azure Vault</h2></div>
 </div>
 <div id="av-collapse" class="collapse" aria-labelledby="av" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Placeholder Talent Wildfire:**
 <div class="iframe-holder">
@@ -264,7 +275,7 @@ Keep CDs for
 <div data-toggle="collapse" data-target="#no-collapse" aria-expanded="true" aria-controls="no-collapse" class="dungeon-header no"><h2>The Nokhud Offensive</h2></div>
 </div>
 <div id="no-collapse" class="collapse" aria-labelledby="no" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Placeholder Talent Wildfire:**
 <div class="iframe-holder">
@@ -276,7 +287,7 @@ Keep CDs for
 </div>
 
 
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 # Useful WeakAuras
 
