@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Builds
-last_update: 02/01/2023
+last_update: 06/02/2023
 game_version: 10.0.2 Dragonflight
 toc: false
 ---
@@ -613,7 +613,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
@@ -644,7 +644,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} buff is active 
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
