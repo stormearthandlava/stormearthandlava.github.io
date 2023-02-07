@@ -87,7 +87,7 @@ The goal of this affix is to have high uptime on the debuff to benefit from the 
 
 **Placeholder Talent Wildfire:**
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINaRLtkQOAAAAAAAUCgWSi0EFgEJNlkAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 ---
@@ -101,7 +101,7 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 ## {{ site.data.mythic_plus.vexamus }} trash
 
 ** {{ site.data.mythic_plus.spellbound_scepter }} **
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.mystic_blast }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.mystic_blast }} in priority.
 * Make sure to dodge {{ site.data.mythic_plus.arcane_rain }} swirlies.
 
 ** {{ site.data.mythic_plus.unruly_textbook }} **
@@ -122,8 +122,8 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 
 ## {{ site.data.mythic_plus.crawth }} trash
 ** {{ site.data.mythic_plus.guardian_sentry }} **
-* Get out or line of sight the big {{ site.data.mythic_plus.expel_intruders }}.
-* Dodge {{ site.data.mythic_plus.deadly_winds }} AoE and Tornado. In higher keys, a single tick can kill you. Move straight away even if you have to cancel your cast.
+* Get out or line of sight the big {{ site.data.mythic_plus.expel_intruders }} cast.
+* Dodge {{ site.data.mythic_plus.deadly_winds }} swirlies and Tornado. In higher keys, a single tick can kill you. Move straight away even if you have to cancel your cast.
 
 ** {{ site.data.mythic_plus.alpha_eagle }} **
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.call_of_the_flock }}.
@@ -131,8 +131,8 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 
 ## {{ site.data.mythic_plus.crawth }}
 * Try to keep your offensive CDs and lust for when you trigger {{ site.data.mythic_plus.firestorm }}. The boss will take 45% more damege.
-* Dodge the {{ site.data.mythic_plus.firestorm }} swirlies and the {{ site.data.mythic_plus.overpowering_gust}} frontal. {{ site.data.spell.spiritwalkers_grace }} will allow you to keep uptime while dodging.
-* Fight back against the wind during {{ site.data.mythic_plus.gale_force }} and dodge the {{ site.data.mythic_plus.roving_cyclone }}. Pick up orbs for 45% haste and cast while moving buff for 20s.
+* Dodge the {{ site.data.mythic_plus.firestorm }} swirlies and the {{ site.data.mythic_plus.overpowering_gust}} frontal. 
+* Fight back against the wind during {{ site.data.mythic_plus.gale_force }} and dodge the {{ site.data.mythic_plus.roving_cyclone }}. Pick up orbs for 45% haste and cast while moving buff for 20s. Use {{ site.data.spell.spiritwalkers_grace }} to easily navigate in the fight.
 * Try to be at full health before {{ site.data.mythic_plus.deafening_screech }} or use {{ site.data.mythic_plus.astral_shift }}, especially at high {{ site.data.mythic_plus.sonic_vulnerability }} stacks.
 
 ## {{ site.data.mythic_plus.overgrown_ancient }} trash
@@ -141,7 +141,7 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 
 ## {{ site.data.mythic_plus.overgrown_ancient }}
 * The boss will use {{ site.data.mythic_plus.burst_forth }} after two {{ site.data.mythic_plus.germinate }} casts. Keep AoE CDs such as {{ site.data.talent.sk }} or {{ site.data.talent.lmt }} to quickly burst down the adds after the second {{ site.data.mythic_plus.germinate }} cast.
-* Move with your group during {{ site.data.mythic_plus.germinate }} to keep adds stacked for cleave. Use {{ site.data.spell.spiritwalkers_grace }} to start ramping when a burst forth is coming soon.
+* Move with your group during {{ site.data.mythic_plus.germinate }} to keep adds stacked for cleave. Use {{ site.data.spell.spiritwalkers_grace }} to start ramping when a {{ site.data.mythic_plus.burst_forth }} is coming soon.
 * Use CC such as {{ site.data.talent.capacitor_totem }} or {{ site.data.talent.thundershock }} to reduce the group damage while adds spawn. Use {{ site.data.talent.poison_cleansing_totem }} if talented to help the tank with the {{ site.data.mythic_plus.lasher_toxin }} stacks. 
 * Hard switch on the {{ site.data.mythic_plus.ancient_branch }} whenever it spawns.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.healing_touch }} from {{ site.data.mythic_plus.ancient_branch }}.
@@ -154,8 +154,8 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 * Don't be in melee range when {{ site.data.mythic_plus.algethar_echoknight }} uses {{ site.data.mythic_plus.astral_whirlwind }}.
 
 ** {{ site.data.mythic_plus.spectral_invoker }} **
-* Spread with {{ site.data.mythic_plus.astral_bomb }}. It does minor damage if it explodes on ennemies. Don't die from an {{ site.data.mythic_plus.astral_whirlwind }} while trying to use it on the pack.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.arcane_missiles_si }}
+* Spread with {{ site.data.mythic_plus.astral_bomb }}. It does minor damage if it explodes on ennemies. Don't die from an {{ site.data.mythic_plus.astral_whirlwind }} while trying to use it on the pack, it's not worth it.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.arcane_missiles_si }}.
 
 ** {{ site.data.mythic_plus.ethereal_restorer }} **
 * Purge {{ site.data.mythic_plus.celestial_shield }} as soon as possible.
