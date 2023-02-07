@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Builds
-last_update: 31/01/2023
-game_version: 10.0.5 Dragonflight
+last_update: 06/02/2023
+game_version: 10.0.2 Dragonflight
 toc: false
 ---
 This page aims to display and discuss the recommended and most widely-used Builds available to Elemental. This is not an exhaustive list of all options and does not imply that any build *not* shown here is automatically terrible/unplayable, in practical terms we cannot account for every build variation and effort has been largely focused on the highest performing / most popular builds. If you find something that you feel works or performs better than what is listed here feel free to contact the team on [Storm, Earth & Lava Discord](https://discord.gg/y5dUf3PWrU) or [Earthshrine #Elemental Channel](https://discord.gg/earthshrine)
@@ -458,7 +458,7 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
  - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }}, preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }}, preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} 
@@ -751,7 +751,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
@@ -782,7 +782,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} buff is active 
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
