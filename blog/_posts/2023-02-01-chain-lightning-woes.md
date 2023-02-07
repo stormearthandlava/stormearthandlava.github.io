@@ -9,9 +9,9 @@ author: Bloodmallet(EU)
 
 Greetings,
 
-did you ever wonder why Elemental Shamans damage against 2-4 targets feels like a slouth? The answer is pretty simple {{ site.data.spell.cl }}.
-On the surface this spell is pretty simple. Hit up to 5 targets. Deal damage to them and generate Maelstrom for each target hit.
-But this also means, that depending on target count the amount of Maelstrom generated varies.
+Have you ever wondered why Elemental Shamans' damage against 2-4 targets feels like a slog? The answer is pretty simple: {{ site.data.spell.cl }}.
+On the surface, this spell is simple. Hit up to 5 targets. Deal damage to them and generate Maelstrom for each target hit.
+However, this also means that, depending on target count, the amount of Maelstrom generated varies.
 
 
 ## Effects without Overloads
@@ -23,22 +23,22 @@ Maelstrom | 100% | 200% | 300% | 400% | 500%
 
 Why the above table? Because we'll add {{ site.data.spell.overload }} to it now.
 
-Like our other generator spells {{ site.data.spell.cl }} can overload.
+Like our other generator spells, {{ site.data.spell.cl }} can overload.
 While the tooltip states that there is a specific "chance to trigger **a second cast on the same target**", which can be understood as "one cast, one potential Overload", this is not the case for {{ site.data.spell.cl }}.
-Instead it has a 1/3 of the usual overload chance to overload on each target hit. Each rolled indepentently.
-This means if {{ site.data.spell.cl }} hits 5 targets, 1/3 of our mastery is rolled 5 times.
-If for example the first 4 target don't succeed the roll but the last one does, you'll see a {{ site.data.spell.cl_o }} with its primary target being your fifth hit.
-Of course {{ site.data.spell.cl_o }} hits up to 5 targets, too, which allows its damage and Maelstrom generation to scale like the base spell does.
+Instead, it has a 1/3 of the usual overload chance to overload on each target hit. Each rolled independently.
+This means that if {{ site.data.spell.cl }} hits 5 targets, 1/3 of our mastery is rolled 5 times.
+If, for example, the first 4 targets don't succeed on the roll but the last one does, you'll see a {{ site.data.spell.cl_o }} with its primary target being your fifth hit.
+Of course, {{ site.data.spell.cl_o }} hits up to 5 targets too, which allows its damage and Maelstrom generation to scale like the base spell's does.
 
 (The 1/3 multiplier is hidden and not communicated in game.
 It can be verified by excessive {{ site.data.spell.cl }} casting against different counts of target dummies.
 E.g. start with 1 target dummy for 3h, then add one, and so forth.
-After collecting data compare your Overload chances across different target dummy counts.)
+After collecting data, compare your Overload chances across different target dummy counts.)
 
 
 ## Calculating Overloads
 
-So what are the chances, assuming 50% {{ site.data.spell.overload }} to:
+So what are the chances, assuming 50% {{ site.data.spell.overload }}, to:
 
 Scenario | 1 target | 2 target | 3 target | 4 target | 5 target
 --- | :---: | :---: | :---: | :---: | :---:
@@ -70,26 +70,38 @@ Scenario | Formula
 Damage | `base_damage * (0.85 * average_overloads)`
 Maelstrom | `base_maelstrom * (3 / 4 * average_overloads)`
 
-As you can see the damage and Maelstrom generation different between 5 targets and 2 or 3 is quite big.
-Instead of 2/5 (40%) of dealing damage or generating Maelstrom against 2 targets instead of 5, this spell does ~3/10 (30%).
-Or in other words: our Maelstrom generation more than tripples going from 2 to 5 targets and more than doubles from 3 to 5 targets.
+As you can see, the damage and Maelstrom generation difference between 5 targets and 2 or 3 is quite big.
+With 2 targets, we would expect to generate 2/5 (40%) of the damage and Maelstrom that we would on 5 targets.
+However, we only do ~3/10 (30%).
+In other words: our Maelstrom generation more than triples going from 2 to 5 targets and more than doubles from 3 to 5 targets.
 
-Based on this increadible increase in Maelstrom generation I believe our spenders can't be tuned up.
-Otherwise we'd ramp up too much against 5+ targets. Therefore I believe {{ site.data.spell.cl }} Maelstrom generation or Overload  capabilities need to be changed.
+Based on this incredible increase in Maelstrom generation, I believe our spenders can't be tuned up, otherwise we'd ramp up too much against 5+ targets.
+Therefore, I believe {{ site.data.spell.cl }}'s Maelstrom generation or Overload capabilities need to be changed.
 
 
 ## Alternatives
 
-If {{ site.data.spell.cl }} would generate Maelstrom per cast like {{ site.data.spell.lb }} or {{ site.data.spell.lvb }} instead of per hit our generation during AoE would only scale of Overloads.
-This would tremendously reduce the frequency of spenders, which in turn would allow tuning those up. A drawback of this approach would be that {{ site.data.spell.cl }} and {{ site.data.spell.lb }} would become very similar. Which could pose the question why to keep both. One with slightly more single target damage, and one that hits multiple enemies and has a hidden Overload multiplier.
+If {{ site.data.spell.cl }} would generate Maelstrom per cast like {{ site.data.spell.lb }} or {{ site.data.spell.lvb }}, instead of per hit, our generation during AoE would only scale off Overloads.
+This would tremendously reduce the frequency of spenders, which in turn would allow tuning those up.
+A drawback of this approach would be that {{ site.data.spell.cl }} and {{ site.data.spell.lb }} would become very similar, which could raise the question of why do we even need both spells.
+One with slightly more single target damage, and one that hits multiple enemies and has a hidden Overload multiplier.
 
-Alternatively overloading {{ site.data.spell.cl }} could be changed to {{ site.data.spell.cl }} being allowed to only overload once.
-This would also reduce the amount of Maelstrom generated, but would keep the noticable ramp from 1 to 5 targets. This change would have a smaller impact on resource generation than the former. But it would be a noticable visual cut. Such a change would allow other sources to "unlock" Chain Lightning to once more overload multiple times. E.g. Stormkeeper, Power of the Maelstrom, or Surge of Power come to mind.
+Alternatively, overloading {{ site.data.spell.cl }} could be changed to {{ site.data.spell.cl }} being allowed to only overload once.
+This would also reduce the amount of Maelstrom generated, but would keep the noticable ramp from 1 to 5 targets.
+This change would have a smaller impact on resource generation than the former, but it would be a noticable visual cut.
+Such a change would allow other sources to "unlock" Chain Lightning to once more overload multiple times. E.g. Stormkeeper, Power of the Maelstrom or Surge of Power come to mind.
 
 
 ## Conclusion
 
-{{ site.data.spell.cl }} is a reason why our damage against 2-4 targets isn't great. Considering that a lot of time in m+ is spent fighting smaller groups now, this weakness is sorely felt. {{ site.data.talent.if }} with {{ site.data.talent.electrified_shocks }} might want to handle this problematic target count. But {{ site.data.talent.if }} is a single target (tickling) setup cast, which is terrible by itself. And {{ site.data.spell.frost_shock }} doesn't generate enough Maelstrom against multiple enemies. Additionally the debuff suggests the usage of {{ site.data.spell.cl }} which doesn't fit the {{ site.data.spell.lvb }} playstyle, which makes this talent combination not interesting for at least half the builds. The alternative {{ site.data.talent.flux_melting }} is only good enough as a fall-back cast during movement, or in the rare occurances if no {{ site.data.spell.lvb }}s are available. Furthermore using either {{ site.data.talent.electrified_shocks }} or {{ site.data.talent.flux_melting }} introduces two additional buttons and therfore complexity to the playstyle, which many don't enjoy. But I digress.
+{{ site.data.spell.cl }} is one of the reasons why our damage against 2-4 targets isn't great.
+Considering that a lot of time in M+ is spent fighting smaller groups now, this weakness is sorely felt.
+{{ site.data.talent.if }} with {{ site.data.talent.electrified_shocks }} could be a way to handle this problematic target count.
+However, {{ site.data.talent.if }} is a single target cast which is terrible by itself, and {{ site.data.spell.frost_shock }} doesn't generate enough Maelstrom against multiple enemies.
+Additionally, the debuff suggests you should use {{ site.data.spell.cl }} which doesn't fit the {{ site.data.spell.lvb }} playstyle, which makes this talent combination uninteresting for at least half the builds.
+The alternative {{ site.data.talent.flux_melting }} is only good enough as a fall-back cast during movement, or in the rare occurances of no {{ site.data.spell.lvb }}s being available.
+Furthermore, using either {{ site.data.talent.electrified_shocks }} or {{ site.data.talent.flux_melting }} introduces two additional buttons and therefore complexity to the playstyle, which many don't enjoy.
+But I digress.
 
 Yours sincerely,<br/>
 Bloodmallet(EU)
