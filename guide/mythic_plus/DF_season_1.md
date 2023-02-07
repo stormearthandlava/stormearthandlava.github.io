@@ -85,9 +85,7 @@ The goal of this affix is to have high uptime on the debuff to benefit from the 
 <div id="aa-collapse" class="collapse" aria-labelledby="aa" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Talent
-
-**Talent Wildfire:**
+**Placeholder Talent Wildfire:**
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINaRLtkQOAAAAAAAUCgWSi0EFgEJNlkAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
@@ -160,7 +158,7 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.mythic_plus.arcane_missiles_si }}.
 
 ** {{ site.data.mythic_plus.ethereal_restorer }} **
-* Use {{ site.data.talent.purge }} on {{ site.data.mythic_plus.celestial_shield }} as soon as possible.
+* Purge {{ site.data.mythic_plus.celestial_shield }} as soon as possible.
 
 ## {{ site.data.mythic_plus.echo_of_doragosa }}
 * When at two stacks of {{ site.data.mythic_plus.overwhelming_power }}, stand close to wall to create the {{ arcane_rift }} in a nice spot. 
@@ -178,53 +176,22 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 <div id="cos-collapse" class="collapse" aria-labelledby="cos" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Talent
-
 **Placeholder Talent Wildfire:**
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
----
-
-## {{ site.data.mythic_plus.patrol_captain_gerdo }} Trash
-
-** {{ site.data.mythic_plus.duskwatch_guard }} **
-* Dodge {{ site.data.mythic_plus.quelling_strike }} frontal.
-* Use {{ site.data.spell.wind_shear }} or {{ site.data.talent.purge }} on {{ site.data.mythic_plus.fortification }}
-
-** {{ site.data.mythic_plus.trash_name }} **
-* Dodge {{ site.data.mythic_plus.mechanic }} with  // {{ site.data.talent.tremor_totem }}
 
 ** {{ site.data.mythic_plus.trash_name }} **
 * Dodge {{ site.data.mythic_plus.mechanic }} with {{ site.data.spell.astral_shift }} or {{ site.data.talent.tremor_totem }}
 
-** {{ site.data.mythic_plus.trash_name }} **
-* Dodge {{ site.data.mythic_plus.mechanic }} with {{ site.data.spell.astral_shift }} or {{ site.data.talent.tremor_totem }}
 
+
+##Patrol Captain Gerdo Trash
 {{ site.data.mythic_plus.throw_torch_cos }}
 
----
-
-## {{ site.data.mythic_plus.patrol_captain_gerdo }}
-
-
-
----
-
-## {{ site.data.mythic_plus.talixae_flamewreath }} Trash
+## Talixae Flamewreath Trash
 {{ site.data.mythic_plus.crushing_leap_cos }}
-
----
-
-## {{ site.data.mythic_plus.talixae_flamewreath }}
-
----
-
-** {{ site.data.mythic_plus.gerenth_the_vile }} **
-* Dodge {{ site.data.mythic_plus.mechanic }} with {{ site.data.spell.astral_shift }} or {{ site.data.talent.tremor_totem }}
-
-## {{ site.data.mythic_plus.advisor_melandrus }}
 
 </div>
 </div>
@@ -360,10 +327,3 @@ Do not pick {{ site.data.mythic_plus.blue_dragonflight_pledge_pin }}. It gives r
 * [Mythic+ Subcreation](https://mplus.subcreation.net/elemental-shaman.html)
 * [Mythic+ Murlok.io](https://murlok.io/shaman/elemental/mm+)
 </div>
-
-
-** {{ site.data.mythic_plus.trash_name }} **
-* Dodge {{ site.data.mythic_plus.mechanic }} with {{ site.data.spell.astral_shift }} or {{ site.data.talent.tremor_totem }}
-{{ site.data.spell.wind_shear }}
-{{ site.data.spell.astral_shift }}
-{{ site.data.talent.tremor_totem }}
