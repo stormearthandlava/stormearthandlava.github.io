@@ -2,7 +2,7 @@
 layout: post
 title: The woes of Chain Lightning
 #            dd/mm/yyyy
-last_update: 01/02/2023 
+last_update: 06/02/2023 
 excerpt: Quadratic scaling is nice and bad
 author: Bloodmallet(EU)
 ---
