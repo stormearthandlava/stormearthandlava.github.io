@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Mythic+ DF Season 1"
-last_update: 31/01/2023
-game_version: 9.2.7 Shadowlands
-authors: Altenna, Eokira
+last_update: 07/02/2023
+game_version: 10.0.5 Shadowlands
+authors: 
 toc: false
 ---
 
