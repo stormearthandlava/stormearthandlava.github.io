@@ -1029,18 +1029,30 @@ figment_of_doubt: <a href="https://www.wowhead.com/npc=56792/figment-of-doubt" t
 gathering_doubt: <a href="https://www.wowhead.com/spell=117570/gathering-doubt" target="blank">Gathering Doubt</a>
 
 ## The Azure Vault
+# Dungeon Buffs
+scornful_haste: <a href="https://www.wowhead.com/spell=395495/scornful-haste" target="blank">Scornful Haste</a>
+viscous_toads: <a href="https://www.wowhead.com/spell=395440/viscous-toads" target="blank">Viscous Toads</a>
+sluggish_adoration: <a href="https://www.wowhead.com/spell=395532/sluggish-adoration" target="blank">Sluggish Adoration</a>
+shrinking_form: <a href="https://www.wowhead.com/spell=390300/shrinking-form" target="blank">Shrinking Form</a>
+hardening_scales: <a href="https://www.wowhead.com/spell=390301/hardening-scales" target="blank">Hardening Scales</a>
+
+
 # Leymor Trash
-blade_surge: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Blade Surge</a>
-blade_surge: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Blade Surge</a>
-blade_surge: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Blade Surge</a>
-blade_surge: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Blade Surge</a>
-blade_surge: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Blade Surge</a>
-blade_surge: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Blade Surge</a>
-blade_surge: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Blade Surge</a>
-blade_surge: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Blade Surge</a>
-blade_surge: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Blade Surge</a>
+conjured_lasher: <a href="https://www.wowhead.com/npc=196102/conjured-lasher" target="blank">Conjured Lasher</a>
+mystic_vapors: <a href="https://www.wowhead.com/spell=387564/mystic-vapors" target="blank">Mystic Vapors</a>
+shrieking_whelp: <a href="https://www.wowhead.com/npc=187159/shrieking-whelp" target="blank">Shrieking Whelp</a>
+shriek: <a href="https://www.wowhead.com/spell=370225/shriek" target="blank">Shriek</a>
+arcane_tender: <a href="https://www.wowhead.com/npc=196115/arcane-tender" target="blank">Arcane Tender</a>
+wild_eruption: <a href="https://www.wowhead.com/spell=375652/wild-eruption" target="blank">Wild Eruption</a>
+erratic_growth: <a href="https://www.wowhead.com/spell=375602/erratic-growth" target="blank">Erratic Growth</a>
+
 
 # Leymor
+leymor: <a href="https://www.wowhead.com/npc=186644/leymor" target="blank">Leymor</a>
+ley_line_sprouts: <a href="https://www.wowhead.com/spell=374364/ley-line-sprouts" target="blank">Ley-Line Sprouts</a>
+explosive_brand: <a href="https://www.wowhead.com/spell=374567/explosive-brand" target="blank">Explosive Brand</a>
+consuming_stomp: <a href="https://www.wowhead.com/spell=374720/consuming-stomp" target="blank">Consuming Stomp</a>
+bubbling_sapling: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Bubbling Sapling</a>
 
 # Azureblade Trash
 # Azureblade
