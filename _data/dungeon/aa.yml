@@ -1,0 +1,107 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Algeth'ar Academy
+# Dungeon buffs
+bronze_dragonflight_pledge_pin: <a href="https://www.wowhead.com/spell=389512/bronze-dragonflight-pledge-pin" target="blank">Bronze Dragonflight Pledge Pin</a>
+blue_dragonflight_pledge_pin: <a href="https://www.wowhead.com/spell=389521/blue-dragonflight-pledge-pin" target="blank">Blue Dragonflight Pledge Pin</a>
+green_dragonflight_pledge_pin: <a href="https://www.wowhead.com/spell=389536/green-dragonflight-pledge-pin" target="blank">Green Dragonflight Pledge Pin</a>
+red_dragonflight_pledge_pin: <a href="https://www.wowhead.com/spell=389501/red-dragonflight-pledge-pin" target="blank">Red Dragonflight Pledge Pin</a>
+black_dragonflight_pledge_pin: <a href="https://www.wowhead.com/spell=389516/black-dragonflight-pledge-pin" target="blank">Black Dragonflight Pledge Pin</a>
+
+# Vexamus trash
+spellbound_scepter: <a href="https://www.wowhead.com/npc=196576/spellbound-scepter" target="blank">Spellbound Scepter</a>
+mystic_blast: <a href="https://www.wowhead.com/spell=396812/mystic-blast" target="blank">Mystic Blast</a>
+arcane_rain: <a href="https://www.wowhead.com/spell=388886/arcane-rain" target="blank">Arcane Rain</a>
+unruly_textbook: <a href="https://www.wowhead.com/npc=196044/unruly-textbook" target="blank">Unruly Textbook</a>
+monotonous_lecture: <a href="https://www.wowhead.com/spell=388392/monotonous-lecture" target="blank">Monotonous Lecture</a>
+corrupted_manafiend: <a href="https://www.wowhead.com/npc=196045/corrupted-manafiend" target="blank">Corrupted Manafiend</a>
+mana_void: <a href="https://www.wowhead.com/spell=388863/mana-void" target="blank">Mana Void</a>
+surge: <a href="https://www.wowhead.com/spell=388862/surge" target="blank">Surge</a>
+spellbound_battleaxe: <a href="https://www.wowhead.com/npc=197904/spellbound-battleaxe" target="blank">Spellbound Battleaxe</a>
+severing_slash: <a href="https://www.wowhead.com/spell=388911/severing-slash" target="blank">Severing Slash</a>
+arcane_forager: <a href="https://www.wowhead.com/npc=196694/arcane-forager" target="blank">Arcane Forager</a>
+arcane_ravager: <a href="https://www.wowhead.com/npc=196671/arcane-ravager" target="blank">Arcane Ravager</a>
+vicious_ambush: <a href="https://www.wowhead.com/spell=388942/vicious-ambush" target="blank">Vicious Ambush</a>
+riftbreath: <a href="https://www.wowhead.com/spell=388976/riftbreath" target="blank">Riftbreath</a>
+
+# Vexamus
+vexamus: <a href="https://www.wowhead.com/npc=194181/vexamus" target="blank">Vexamus</a>
+arcane_orbs: <a href="https://www.wowhead.com/spell=387691/arcane-orbs" target="blank">Arcane Orbs</a>
+arcane_fissure: <a href="https://www.wowhead.com/spell=388537/arcane-fissure" target="blank">Arcane Fissure</a>
+arcane_expulsion: <a href="https://www.wowhead.com/spell=385958/arcane-expulsion" target="blank">Arcane Expulsion</a>
+mana_bombs: <a href="https://www.wowhead.com/spell=386173/mana-bombs" target="blank">Mana Bombs</a>
+oversurge: <a href="https://www.wowhead.com/spell=391977/oversurge" target="blank">Oversurge</a>
+
+# Crawth trash
+guardian_sentry: <a href="https://www.wowhead.com/npc=192680/guardian-sentry" target="blank">Guardian Sentry</a>
+deadly_winds: <a href="https://www.wowhead.com/spell=378011/deadly-winds" target="blank">Deadly Winds</a>
+expel_intruders: <a href="https://www.wowhead.com/spell=377912/expel-intruders" target="blank">Expel Intruders</a>
+storm_slash: <a href="https://www.wowhead.com/spell=377991/storm-slash" target="blank">Storm Slash</a>
+alpha_eagle: <a href="https://www.wowhead.com/npc=192333/alpha-eagle" target="blank">Alpha Eagle</a>
+dive_bomb: <a href="https://www.wowhead.com/spell=377524/dive-bomb" target="blank">Dive Bomb</a>
+call_of_the_flock: <a href="https://www.wowhead.com/spell=377389/call-of-the-flock" target="blank">Call of the Flock</a>
+gust: <a href="https://www.wowhead.com/spell=377383/gust" target="blank">Gust</a>
+territorial_eagle: <a href="https://www.wowhead.com/npc=192329/territorial-eagle" target="blank">Territorial Eagle</a>
+peck: <a href="https://www.wowhead.com/spell=377344/peck" target="blank">peck</a>
+
+# Crawth
+crawth: <a href="https://www.wowhead.com/npc=191736/crawth" target="blank">Crawth</a>
+play_ball: <a href="https://www.wowhead.com/spell=377182/play-ball" target="blank">Play Ball!</a>
+firestorm: <a href="https://www.wowhead.com/spell=376449/firestorm" target="blank">Firestorm</a>
+roving_cyclone: <a href="https://www.wowhead.com/spell=393122/roving-cyclone" target="blank">Roving Cyclone</a>
+gale_force: <a href="https://www.wowhead.com/spell=376760/gale-force" target="blank">Gale Force</a>
+deafening_screech: <a href="https://www.wowhead.com/spell=377004/deafening-screech" target="blank">Deafening Screech</a>
+sonic_vulnerability: <a href="https://www.wowhead.com/spell=397210/sonic-vulnerability" target="blank">Sonic Vulnerability</a>
+overpowering_gust: <a href="https://www.wowhead.com/spell=377034/overpowering-gust" target="blank">Overpowering Gust</a>
+savage_peck: <a href="https://www.wowhead.com/spell=376997/savage-peck" target="blank">Savage Peck</a>
+
+# Overgrown Ancient trash
+hungry_lasher: <a href="https://www.wowhead.com/npc=197398/hungry-lasher" target="blank">Hungry Lasher</a>
+lasher_toxin: <a href="https://www.wowhead.com/spell=389033/lasher-toxin" target="blank">Lasher Toxin</a>
+vile_lasher: <a href="https://www.wowhead.com/npc=197219/vile-lasher" target="blank">Vile Lasher</a>
+detonation_seeds: <a href="https://www.wowhead.com/spell=390912/detonation-seeds" target="blank">Detonation Seeds</a>
+aggravated_skitterfly: <a href="https://www.wowhead.com/npc=197406/aggravated-skitterfly" target="blank">Aggravated Skitterfly</a>
+agitation: <a href="https://www.wowhead.com/spell=390938/agitation" target="blank">Agitation</a>
+darting_sting: <a href="https://www.wowhead.com/spell=390942/darting-sting" target="blank">Darting Sting</a>
+
+# Overgrown Ancient
+overgrown_ancient: <a href="https://www.wowhead.com/npc=196482/overgrown-ancient" target="blank">Overgrown Ancient</a>
+germinate: <a href="https://www.wowhead.com/spell=388796/germinate" target="blank">Germinate</a>
+burst_forth: <a href="https://www.wowhead.com/spell=388923/burst-forth" target="blank">Burst Forth</a>
+branch_out: <a href="https://www.wowhead.com/spell=388623/branch-out" target="blank">Branch Out</a>
+ancient_branch: <a href="https://www.wowhead.com/npc=196548/ancient-branch" target="blank">Ancient Branch</a>
+healing_touch: <a href="https://www.wowhead.com/spell=396640/healing-touch" target="blank">Healing Touch</a>
+barkbreaker: <a href="https://www.wowhead.com/spell=388544/barkbreaker" target="blank">Barkbreaker</a>
+
+# Echo of Doragosa trash
+algethar_echoknight: <a href="https://www.wowhead.com/npc=196200/algethar-echoknight" target="blank">Algeth'ar Echoknight</a>
+astral_whirlwind: <a href="https://www.wowhead.com/spell=387910/astral-whirlwind" target="blank">Astral Whirlwind</a>
+spectral_invoker: <a href="https://www.wowhead.com/npc=196202/spectral-invoker" target="blank">Spectral Invoker</a>
+astral_bomb: <a href="https://www.wowhead.com/spell=387843/astral-bomb" target="blank">Astral Bomb</a>
+arcane_missiles: <a href="https://www.wowhead.com/spell=387975/arcane-missiles" target="blank">Arcane Missiles</a>
+ethereal_restorer: <a href="https://www.wowhead.com/npc=196203/ethereal-restorer" target="blank">Ethereal Restorer</a>
+celestial_shield: <a href="https://www.wowhead.com/spell=387955/celestial-shield" target="blank">Celestial Shield</a>
+
+# Echo of Doragosa
+echo_of_doragosa: <a href="https://www.wowhead.com/npc=190609/echo-of-doragosa" target="blank">Echo of Doragosa</a>
+overwhelming_power: <a href="https://www.wowhead.com/spell=389011/overwhelming-power" target="blank">Overwhelming Power</a>
+arcane_rift: <a href="https://www.wowhead.com/spell=388901/arcane-rift" target="blank">Arcane Rift</a>
+uncontrolled_energy: <a href="https://www.wowhead.com/spell=388951/uncontrolled-energy" target="blank">Uncontrolled Energy</a>
+astral_breath: <a href="https://www.wowhead.com/spell=374361/astral-breath" target="blank">Astral Breath</a>
+power_vacuum: <a href="https://www.wowhead.com/spell=388822/power-vacuum" target="blank">Power Vacuum</a>
+arcane_missiles_doragosa: <a href="https://www.wowhead.com/spell=373326/arcane-missiles" target="blank">Arcane Missiles</a>
+energy_bomb: <a href="https://www.wowhead.com/spell=374352/energy-bomb" target="blank">Energy Bomb</a>

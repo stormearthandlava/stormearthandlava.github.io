@@ -1,0 +1,97 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## The Azure Vault
+# Dungeon Buffs
+scornful_haste: <a href="https://www.wowhead.com/spell=395495/scornful-haste" target="blank">Scornful Haste</a>
+viscous_toads: <a href="https://www.wowhead.com/spell=395440/viscous-toads" target="blank">Viscous Toads</a>
+sluggish_adoration: <a href="https://www.wowhead.com/spell=395532/sluggish-adoration" target="blank">Sluggish Adoration</a>
+shrinking_form: <a href="https://www.wowhead.com/spell=390300/shrinking-form" target="blank">Shrinking Form</a>
+hardening_scales: <a href="https://www.wowhead.com/spell=390301/hardening-scales" target="blank">Hardening Scales</a>
+
+# Leymor Trash
+conjured_lasher: <a href="https://www.wowhead.com/npc=196102/conjured-lasher" target="blank">Conjured Lasher</a>
+mystic_vapors: <a href="https://www.wowhead.com/spell=387564/mystic-vapors" target="blank">Mystic Vapors</a>
+shrieking_whelp: <a href="https://www.wowhead.com/npc=187159/shrieking-whelp" target="blank">Shrieking Whelp</a>
+shriek: <a href="https://www.wowhead.com/spell=370225/shriek" target="blank">Shriek</a>
+arcane_tender: <a href="https://www.wowhead.com/npc=196115/arcane-tender" target="blank">Arcane Tender</a>
+wild_eruption: <a href="https://www.wowhead.com/spell=375652/wild-eruption" target="blank">Wild Eruption</a>
+erratic_growth: <a href="https://www.wowhead.com/spell=375602/erratic-growth" target="blank">Erratic Growth</a>
+
+# Leymor
+leymor: <a href="https://www.wowhead.com/npc=186644/leymor" target="blank">Leymor</a>
+ley_line_sprouts: <a href="https://www.wowhead.com/spell=374364/ley-line-sprouts" target="blank">Ley-Line Sprouts</a>
+erupting_fissure: <a href="https://www.wowhead.com/spell=386660/erupting-fissure" target="blank">Erupting Fissure</a>
+explosive_brand: <a href="https://www.wowhead.com/spell=374567/explosive-brand" target="blank">Explosive Brand</a>
+consuming_stomp: <a href="https://www.wowhead.com/spell=374720/consuming-stomp" target="blank">Consuming Stomp</a>
+bubbling_sapling: <a href="https://www.wowhead.com/npc=191313/bubbling-sapling" target="blank">Bubbling Sapling</a>
+
+# Azureblade Trash
+arcane_elemental: <a href="https://www.wowhead.com/npc=186741/arcane-elemental" target="blank">Arcane Elemental</a>
+arcane_bolt: <a href="https://www.wowhead.com/spell=371306/arcane-bolt" target="blank">Arcane Bolt</a>
+waking_bane: <a href="https://www.wowhead.com/spell=386546/waking-bane" target="blank">Waking Bane</a>
+unstable_curator: <a href="https://www.wowhead.com/npc=187154/unstable-curator" target="blank">Unstable Curator</a>
+heavy_tome: <a href="https://www.wowhead.com/spell=389804/heavy-tome" target="blank">Heavy Tome</a>
+forbidden_knowledge: <a href="https://www.wowhead.com/spell=371358/forbidden-knowledge" target="blank">Forbidden Knowledge</a>
+rune_seal_keeper: <a href="https://www.wowhead.com/npc=187155/rune-seal-keeper" target="blank">Rune Seal Keeper</a>
+icy_bindings: <a href="https://www.wowhead.com/spell=377488/icy-bindings" target="blank">Icy Bindings</a>
+condensed_frost: <a href="https://www.wowhead.com/spell=377503/condensed-frost" target="blank">Condensed Frost</a>
+crystal_fury: <a href="https://www.wowhead.com/npc=187160/crystal-fury" target="blank">Crystal Fury</a>
+piercing_shards: <a href="https://www.wowhead.com/spell=370764/piercing-shards" target="blank">Piercing Shards</a>
+crystal_thrasher: <a href="https://www.wowhead.com/npc=196117/crystal-thrasher" target="blank">Crystal Thrasher</a>
+splintering_shards: <a href="https://www.wowhead.com/spell=371005/splintering-shards" target="blank">Splintering Shards</a>
+arcane_construct: <a href="https://www.wowhead.com/npc=186740/arcane-construct" target="blank">Arcane Construct</a>
+arcane_bash: <a href="https://www.wowhead.com/spell=387067/arcane-bash" target="blank">Arcane Bash</a>
+astral_attendant: <a href="https://www.wowhead.com/npc=189555/astral-attendant" target="blank">Astral Attendant</a>
+unstable_power: <a href="https://www.wowhead.com/spell=374885/unstable-power" target="blank">Unstable Power</a>
+vault_guard: <a href="https://www.wowhead.com/npc=190510/vault-guard" target="blank">Vault Guard</a>
+ice_cutter: <a href="https://www.wowhead.com/spell=377105/ice-cutter" target="blank">Ice Cutter</a>
+scalebane_lieutenant: <a href="https://www.wowhead.com/npc=191739/scalebane-lieutenant" target="blank">Scalebane Lieutenant</a>
+spellfrost_breath: <a href="https://www.wowhead.com/spell=391118/spellfrost-breath" target="blank">Spellfrost Breath</a>
+
+# Azureblade
+azureblade: <a href="https://www.wowhead.com/npc=186739/azureblade" target="blank">Azureblade</a>
+summon_draconic_image: <a href="https://www.wowhead.com/spell=384223/summon-draconic-image" target="blank">Summon Draconic Image</a>
+draconic_image: <a href="https://www.wowhead.com/npc=190187/draconic-image" target="blank">Draconic Image</a>
+unstable_magic: <a href="https://www.wowhead.com/spell=389855/unstable-magic" target="blank">Unstable Magic</a>
+illusionary_bolt: <a href="https://www.wowhead.com/spell=373932/illusionary-bolt" target="blank">Illusionary Bolt</a>
+ancient_orb: <a href="https://www.wowhead.com/spell=385578/ancient-orb" target="blank">Ancient Orb</a>
+overwhelming_energy: <a href="https://www.wowhead.com/spell=384132/overwhelming-energy" target="blank">Overwhelming Energy</a>
+arcane_cleave: <a href="https://www.wowhead.com/spell=372222/arcane-cleave" target="blank">Arcane Cleave</a>
+
+# Telash Greywing Trash
+drakonid_breaker: <a href="https://www.wowhead.com/npc=187240/drakonid-breaker" target="blank">Drakonid Breaker</a>
+shoulder_slam: <a href="https://www.wowhead.com/spell=391136/shoulder-slam" target="blank">Shoulder Slam</a>
+bestial_roar: <a href="https://www.wowhead.com/spell=396991/bestial-roar" target="blank">Bestial Roar</a>
+nullmagic_hornswog: <a href="https://www.wowhead.com/npc=187246/nullmagic-hornswog" target="blank">Nullmagic Hornswog</a>
+null_stomp: <a href="https://www.wowhead.com/spell=386526/null-stomp" target="blank">Null Stomp</a>
+
+# Telash Greywing
+telash_greywing: <a href="https://www.wowhead.com/npc=197025/telash-greywing" target="blank">Telash Greywing</a>
+frost_bomb: <a href="https://www.wowhead.com/spell=386910/frost-bomb" target="blank">Frost Bomb</a>
+absolute_zero: <a href="https://www.wowhead.com/spell=388008/absolute-zero" target="blank">Absolute Zero</a>
+vault_rune: <a href="https://www.wowhead.com/spell=388072/vault-rune" target="blank">Vault Rune</a>
+icy_devastator: <a href="https://www.wowhead.com/spell=387151/icy-devastator" target="blank">Icy Devastator</a>
+
+# Umbrelskul
+umbrelskul: <a href="https://www.wowhead.com/npc=186738/umbrelskul" target="blank">Umbrelskul</a>
+oppressive_miasma: <a href="https://www.wowhead.com/spell=388777/oppressive-miasma" target="blank">Oppressive Miasma</a>
+crystalline_roar: <a href="https://www.wowhead.com/spell=384699/crystalline-roar" target="blank">Crystalline Roar</a>
+unleashed_destruction: <a href="https://www.wowhead.com/spell=385399/unleashed-destruction" target="blank">Unleashed Destruction</a>
+detonating_crystal: <a href="https://www.wowhead.com/npc=195138/detonating-crystal" target="blank">Detonating Crystal</a>
+fracture: <a href="https://www.wowhead.com/spell=385331/fracture" target="blank">Fracture</a>
+arcane_eruption: <a href="https://www.wowhead.com/spell=385075/arcane-eruption" target="blank">Arcane Eruption</a>
+crackling_vortex: <a href="https://www.wowhead.com/spell=385267/crackling-vortex" target="blank">Crackling Vortex</a>

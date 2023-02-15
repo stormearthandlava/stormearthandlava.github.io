@@ -1,0 +1,91 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Temple of the Jade Serpent
+# Wise Mari Trash
+fallen_waterspeaker: <a href="https://www.wowhead.com/npc=200126/fallen-waterspeaker" target="blank">Fallen Waterspeaker</a>
+hydrolance: <a href="https://www.wowhead.com/spell=397888/hydrolance" target="blank">Hydrolance</a>
+tidal_burst: <a href="https://www.wowhead.com/spell=397889/tidal-burst" target="blank">Tidal Burst</a>
+corrupt_droplet: <a href="https://www.wowhead.com/npc=62358/corrupt-droplet" target="blank">Corrupt Droplet</a>
+splash: <a href="https://www.wowhead.com/spell=397886/splash" target="blank">Splash</a>
+corrupt_living_water: <a href="https://www.wowhead.com/npc=59873/corrupt-living-water" target="blank">Corrupt Living Water</a>
+surging_deluge: <a href="https://www.wowhead.com/spell=397881/surging-deluge" target="blank">Surging Deluge</a>
+tainted_ripple: <a href="https://www.wowhead.com/spell=397878/tainted-ripple" target="blank">Tainted Ripple</a>
+
+# Wise Mari
+wise_mari: <a href="https://www.wowhead.com/npc=56448/wise-mari" target="blank">Wise Mari</a>
+wash_away: <a href="https://www.wowhead.com/spell=397785/wash-away" target="blank">Wash Away</a>
+corrupted_geyser: <a href="https://www.wowhead.com/spell=397793/corrupted-geyser" target="blank">Corrupted Geyser</a>
+corrupted_vortex: <a href="https://www.wowhead.com/spell=397797/corrupted-vortex" target="blank">Corrupted Vortex</a>
+
+# Strife and Peril Trash
+haunting_sha: <a href="https://www.wowhead.com/npc=59555/haunting-sha" target="blank">Haunting Sha</a>
+haunting_gaze: <a href="https://www.wowhead.com/spell=114646/haunting-gaze" target="blank">Haunting Gaze</a>
+haunting_scream: <a href="https://www.wowhead.com/spell=395859/haunting-scream" target="blank">Haunting Scream</a>
+jiang: <a href="https://www.wowhead.com/npc=59547/jiang" target="blank">Jiang</a>
+xiang: <a href="https://www.wowhead.com/npc=65317/xiang" target="blank">Xiang</a>
+throw_torch_tjs: <a href="https://www.wowhead.com/spell=114803/throw-torch" target="blank">Throw Torch</a>
+the_talking_fish: <a href="https://www.wowhead.com/npc=59546/the-talking-fish" target="blank">The Talking Fish</a>
+sleepy_soliloquy: <a href="https://www.wowhead.com/spell=395872/sleepy-soliloquy" target="blank">Sleepy Soliloquy</a>
+lesser_sha: <a href="https://www.wowhead.com/npc=59598/lesser-sha" target="blank">Lesser Sha</a>
+sha_eruption: <a href="https://www.wowhead.com/spell=397503/sha-eruption" target="blank">Sha Eruption</a>
+the_songbird_queen: <a href="https://www.wowhead.com/npc=59553/the-songbird-queen" target="blank">The Songbird Queen</a>
+territorial_display: <a href="https://www.wowhead.com/spell=396001/territorial-display" target="blank">Territorial Display</a>
+the_crybaby_hozen: <a href="https://www.wowhead.com/npc=59552/the-crybaby-hozen" target="blank">The Crybaby Hozen</a>
+fit_of_rage: <a href="https://www.wowhead.com/spell=396018/fit-of-rage" target="blank">Fit of Rage</a>
+tears_of_pain: <a href="https://www.wowhead.com/spell=396008/tears-of-pain" target="blank">Tears of Pain</a>
+the_golden_beetle: <a href="https://www.wowhead.com/npc=59545/the-golden-beetle" target="blank">The Golden Beetle</a>
+golden_barrier: <a href="https://www.wowhead.com/spell=396029/golden-barrier" target="blank">Golden Barrier</a>
+the_nodding_tiger: <a href="https://www.wowhead.com/npc=59544/the-nodding-tiger" target="blank">The Nodding Tiger</a>
+savage_leap: <a href="https://www.wowhead.com/spell=396093/savage-leap" target="blank">Savage Leap</a>
+cat_nap: <a href="https://www.wowhead.com/spell=396073/cat-nap" target="blank">Cat Nap</a>
+
+# Strife and Peril
+strife: <a href="https://www.wowhead.com/npc=59051/strife" target="blank">Strife</a>
+peril: <a href="https://www.wowhead.com/npc=59726/peril" target="blank">Peril</a>
+intensity: <a href="https://www.wowhead.com/spell=113394/intensity" target="blank">Intensity</a>
+feeling_of_superiority: <a href="https://www.wowhead.com/spell=396150/feeling-of-superiority" target="blank">Feeling of Superiority</a>
+dissipation: <a href="https://www.wowhead.com/spell=113379/dissipation" target="blank">Dissipation</a>
+agony: <a href="https://www.wowhead.com/spell=114571/agony" target="blank">Agony</a>
+
+# Liu Flameheart Trash
+shambling_infester: <a href="https://www.wowhead.com/npc=200387/shambling-infester" target="blank">Shambling Infester</a>
+flames_of_doubt: <a href="https://www.wowhead.com/spell=398300/flames-of-doubt" target="blank">Flames of Doubt</a>
+summon_sha: <a href="https://www.wowhead.com/spell=398296/summon-sha" target="blank">Summon Sha</a>
+sha_touched_guardian: <a href="https://www.wowhead.com/npc=200131/sha-touched-guardian" target="blank">Sha-Touched Guardian</a>
+leg_sweep: <a href="https://www.wowhead.com/spell=397899/leg-sweep" target="blank">Leg Sweep</a>
+depraved_mistweaver: <a href="https://www.wowhead.com/npc=200137/depraved-mistweaver" target="blank">Depraved Mistweaver</a>
+touch_of_ruin: <a href="https://www.wowhead.com/spell=397911/touch-of-ruin" target="blank">Touch of Ruin</a>
+defiling_mist: <a href="https://www.wowhead.com/spell=397914/defiling-mist" target="blank">Defiling Mist</a>
+minion_of_doubt: <a href="https://www.wowhead.com/npc=57109/minion-of-doubt" target="blank">Minion of Doubt</a>
+shattered_resolve: <a href="https://www.wowhead.com/spell=110125/shattered-resolve" target="blank">Shattered Resolve</a>
+
+# Liu Flameheart
+liu_flameheart: <a href="https://www.wowhead.com/npc=56732/liu-flameheart" target="blank">Liu Flameheart</a>
+serpent_strike: <a href="https://www.wowhead.com/spell=106823/serpent-strike" target="blank">Serpent Strike</a>
+serpent_kick: <a href="https://www.wowhead.com/spell=106856/serpent-kick" target="blank">Serpent Kick</a>
+jade_serpent_strike: <a href="https://www.wowhead.com/spell=106841/jade-serpent-strike" target="blank">Jade Serpent Strike</a>
+jade_serpent_kick: <a href="https://www.wowhead.com/spell=106864/jade-serpent-kick" target="blank">Jade Serpent Kick</a>
+yulon: <a href="https://www.wowhead.com/npc=56762/yulon" target="blank">Yu'lon</a>
+jade_fire: <a href="https://www.wowhead.com/spell=107045/jade-fire" target="blank">Jade Fire</a>
+jade_fire_breath: <a href="https://www.wowhead.com/spell=396907/jade-fire-breath" target="blank">Jade Fire Breath</a>
+
+# Sha of Doubt
+sha_of_doubt: <a href="https://www.wowhead.com/npc=56439/sha-of-doubt" target="blank">Sha of Doubt</a>
+touch_of_nothingness: <a href="https://www.wowhead.com/spell=106113/touch-of-nothingness" target="blank">Touch of Nothingness</a>
+bounds_of_reality: <a href="https://www.wowhead.com/spell=117665/bounds-of-reality" target="blank">Bounds of Reality</a>
+figment_of_doubt: <a href="https://www.wowhead.com/npc=56792/figment-of-doubt" target="blank">Figment of Doubt</a>
+gathering_doubt: <a href="https://www.wowhead.com/spell=117570/gathering-doubt" target="blank">Gathering Doubt</a>
