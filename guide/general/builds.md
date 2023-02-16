@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Builds
-last_update: 15/02/2023
+last_update: 16/02/2023
 game_version: 10.0.5 Dragonflight
 toc: false
 ---
@@ -354,9 +354,9 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 
 # What does this build do?
 
-This build is build with cleave in mind (a main target and permanent or regular adds spawn).
-This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.talent.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows', but also uses {{ site.data.talent.sk }} and {{ site.data.talent.sop }} to empower our cleave potential.
-This build can be harder to play effectively as it requires you to play around both {{ site.data.talent.pw }} 'windows' and {{ site.data.talent.sop }} empowered {{ site.data.spell.lb }}
+This is a Single Target build that allows Regular AoE Burst. It is best used on fights like Eranog or Dungeon like Court of Stars.
+This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.talent.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'. But it also uses {{ site.data.talent.sk }} and {{ site.data.talent.sop }} to empower our burst potential, both in ST and in AoE.
+This build can be harder to play effectively as it requires you to play around both {{ site.data.talent.pw }} 'windows' and the combination of  {{ site.data.talent.sop }} with {{ site.data.talent.sk }}.
 
 # What does it look like?
 <div class="iframe-holder">
@@ -373,12 +373,12 @@ This build can be harder to play effectively as it requires you to play around b
 This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Mastery > Versatility = Crit
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
- - Mastery is still valued over crit as our priority with this build is still Single Target
+ - Mastery has very good synergy with both {{ site.data.talent.mwf }} and {{ site.data.spell.lvb }}.
 
 # Rotation
 
 ## Key Notes
-- This build is best used on single target fights
+- This build is best used on single target fights with regular Adds spawns or burst windows.
 - {{ site.data.talent.sop }} is there to amplify what you're already aiming to do at different target counts which can be quite handy, whilst it is appreciable that {{ site.data.talent.eb }} reduces the value gained from {{ site.data.talent.sop }} due to being more expensive and producing less buffs overall - this is only true for the 1-4 target range and the value added is still positive, AoE value from {{ site.data.talent.sop }} is unaffected at 6+ targets.
     * 1-2 Targets = {{ site.data.spell.lb }} (or {{site.data.spell.lvb}} on {{ site.data.talent.dre }} procs)
     * 3-5 Targets = {{ site.data.spell.fs }} if and only if you need to move and {{ site.data.talent.sop }} buff happens to be up and no {{ site.data.talent.if }} buffs remain
@@ -391,7 +391,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
 ## Opener
 Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
 
-~3.5 seconds from pull
+~4.5 seconds from pull
 <div class="opener">
     <div class="skill sk"><span>SK</span></div>
     <div class="arrow"></div>
@@ -408,9 +408,9 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
 ## 1 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - {{ site.data.talent.lmt }} if it is available and no additional targets soon. (using {{ site.data.talent.totemic_recall }} is dps neutral in single target, and could be considered a good movement global if none are available and it would not negatively impact the next use)
- - {{ site.data.talent.pw }} if it is available, (maintain {{ site.data.spell.fs }} at all time)
  - {{ site.data.talent.sk }} if you have an active {{ site.data.talent.sop }} buff and at least 46 maelstrom. This will enable you to buff both of your {{ site.data.talent.sk }} charges if you cast {{ site.data.spell.lvb }} before your second {{ site.data.talent.eb }} cast.
  - {{ site.data.spell.lb }} if both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} buffs are active
+ - {{ site.data.talent.pw }} if it is available (maintain {{ site.data.spell.fs }} at all time)
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active, even if this would make you overcap maelstrom!
  - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buffs are active
  - {{ site.data.talent.eb }} if you are approaching ~85 maelstrom after your current cast to avoid overcapping
@@ -458,7 +458,7 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
  - {{ site.data.spell.cl }} if {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.mote }} buff active!
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
- - {{ site.data.talent.eq }}, preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.eq }}, preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }}
