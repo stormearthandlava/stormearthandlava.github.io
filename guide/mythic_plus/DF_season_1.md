@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mythic+ DF Season 1"
-last_update: 14/02/2023
+last_update: 16/02/2023
 game_version: 10.0.5 Dragonflight
 authors: Elivrio
 toc: false
@@ -60,7 +60,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * {{ site.data.affixes.fortified }}: Consider using {{ site.data.spell.bl }} on hard mob pulls.
 * {{ site.data.affixes.tyrannical }}: Boss fights turn into a battle of endurance.
 
-Note: Unlike many of the previous extensions, the balance between these two affixes is quite good. As normal mobs are generally easier to navigate than bosses, keys during {{ site.data.affixes.fortified }} weeks will usually be easier to finish but also harder to do in time, since 60% to 70% of the timer in a key is spent doing mobs. On the contrary, hard bosses during a {{ site.data.affixes.tyrannical }} week can be huge walls that will stop you from finishing the key. But the timer will often be more lenient.
+*Note:* Unlike many of the previous extensions, the balance between these two affixes is quite good. As normal mobs are generally easier to navigate than bosses, keys during {{ site.data.affixes.fortified }} weeks will usually be easier to finish but also harder to do in time, since 60% to 70% of the timer in a key is spent doing mobs. On the contrary, hard bosses during a {{ site.data.affixes.tyrannical }} week can be huge walls that will stop you from finishing the key. But the timer will often be more lenient.
 
 **Level 4:**
 
@@ -118,7 +118,7 @@ Note: Unlike many of the previous extensions, the balance between these two affi
 * {{ site.data.talent.poison_cleansing_totem }} can be used to help tank and healer in {{ site.data.dungeon.aa.overgrown_ancient }} area.
 * {{ site.data.talent.purge }} has some uses in the area before the last boss.
 
-### Talent Wildfire
+### Wildfire
 
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINaRLtkQOAAAAAAAUCQKJJCRBIRSTJJQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
@@ -292,7 +292,7 @@ A full AoE build is still a good option depending on your route and your party c
 ## {{ site.data.dungeon.cos.patrol_captain_gerdo }}
 
 * Don't forget to add poison to the {{ site.data.dungeon.cos.flask_of_the_solemn_night }} if you're an Alchemist, it will kill the boss at 25%.
-* Gerdo will cast {{ site.data.dungeon.cos.signal_beacon }} at 75%, spawning {{ site.data.dungeon.cos.duskwatch_reinforcement }} from the remaining active Arcane Beacons.
+* Gerdo will cast {{ site.data.dungeon.cos.signal_beacon }} at 75% HP, spawning {{ site.data.dungeon.cos.duskwatch_reinforcement }} from the remaining active Arcane Beacons.
 * {{ site.data.dungeon.cos.duskwatch_reinforcement }} will cast {{ site.data.dungeon.cos.subdue }} periodically. It needs to be interrupted at all cost. You can also use {{ site.data.talent.hex }} to CC them far away.
 * {{ site.data.dungeon.cos.arcane_lockdown }} is a 90% slow that can either be dispelled or removed by jumping 3 times. You can use {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }} to instantly dispel it, or use {{ site.data.talent.swg }} to keep uptime while jumping.
 * {{ site.data.dungeon.cos.streetsweeper }} will spawn orbs that do damage in a line after 3 seconds. Beware of {{ site.data.dungeon.cos.arcane_lockdown }} potentially slowing you.
@@ -365,11 +365,11 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 
 * Dodge {{ site.data.dungeon.cos.blade_surge }} swirlies. It will be casted on a player outside of melee if possible. This spell leaves a clone that will replicate {{ site.data.dungeon.cos.slicing_maelstrom }} and {{ site.data.dungeon.cos.piercing_gale }}.
 * Dodge the line on the ground from {{ site.data.dungeon.cos.piercing_gale }}. They come from both {{ site.data.dungeon.cos.advisor_melandrus }} and his clones.
-* {{ site.data.dungeon.cos.slicing_maelstrom }} does pulsing damage around {{ site.data.dungeon.cos.advisor_melandrus }} and his clones. You **need** to be away from them during this cast. Use {{ site.data.talent.as }} as needed and {{ site.data.talent.ag }} to help.
+* {{ site.data.dungeon.cos.slicing_maelstrom }} does pulsing damage around {{ site.data.dungeon.cos.advisor_melandrus }} and his clones. You **need** to be 7 yards away from them during the channel. Use {{ site.data.talent.as }} as needed and {{ site.data.talent.ag }} to help the healer.
 * Do not come into contact with a tornado from {{ site.data.dungeon.cos.enveloping_winds }}, it will stun you. You can be dispelled so soaking the tornadoes can be planned with your party.
 * Remember to use {{ site.data.talent.swg }} to keep uptime while dodging.
 
-Note: The fight is significantly easier if you stack all of {{ site.data.dungeon.cos.advisor_melandrus }}'s clones in the same area. Train yourself to always go back near his clones after {{ site.data.dungeon.cos.slicing_maelstrom }} and {{ site.data.dungeon.cos.piercing_gale }} to bait {{ site.data.dungeon.cos.blade_surge }} in the same area !
+*Note:* The fight is significantly easier if you stack all of {{ site.data.dungeon.cos.advisor_melandrus }}'s clones in the same area. Train yourself to always go back near his clones after {{ site.data.dungeon.cos.slicing_maelstrom }} and {{ site.data.dungeon.cos.piercing_gale }} to bait {{ site.data.dungeon.cos.blade_surge }} in the same area !
 
 </div>
 </div>
@@ -393,7 +393,7 @@ Note: The fight is significantly easier if you stack all of {{ site.data.dungeon
 * Halls of Valor is a really intensive healing dungeon, {{ site.data.talent.ag }} has a lot of value, notably on bosses.
 
 
-### Talent Wildfire
+### Wildfire
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJh0EFgkk0SJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
@@ -442,7 +442,7 @@ Note: The fight is significantly easier if you stack all of {{ site.data.dungeon
 **{{ site.data.dungeon.hov.stormforged_sentinel }}**
 * Dodge {{ site.data.dungeon.hov.crackle }} with a little side step.
 * Stay farther than 15 yards away to ignore {{ site.data.dungeon.hov.charged_pulse }}.
-* Be ready to instantly {{ site.data.talent.purge }} {{ site.data.dungeon.hov.protective_light }} when they reach 30% hp.
+* Be ready to instantly {{ site.data.talent.purge }} {{ site.data.dungeon.hov.protective_light }} when they reach 30% HP.
 
 **{{ site.data.dungeon.hov.valarjar_aspirant }}**
 * This mobs jumps on a player with {{ site.data.dungeon.hov.valkyras_advance }} then uses {{ site.data.dungeon.hov.blast_of_light }}, a frontal beam, on the tank. Always be aware of her position.
@@ -517,7 +517,7 @@ The 4 kings in the area must be defeated for {{ site.data.dungeon.hov.god_king_s
 
 * Focus target {{ site.data.dungeon.hov.stormforged_obliterator }} as soon as it spawns. Interrupt and CC it while kiting away from {{ site.data.dungeon.hov.radiant_tempest }}. Be careful not to be too far from {{ site.data.dungeon.hov.stormforged_obliterator }} or you will not be able to interrupt his {{ site.data.dungeon.hov.surge_hov }}.
 * Avoid {{ site.data.dungeon.hov.spear_of_light }} swirlies and {{ site.data.dungeon.hov.glowing_fragment }} orbs.
-* Run to the matching run when affected by {{ site.data.dungeon.hov.runic_brand }}. Use [this weekaura](https://wago.io/RunicBrandHelper)(by Jodsderechte) to find the matching run faster.
+* Run to the matching run when affected by {{ site.data.dungeon.hov.runic_brand }}. Use [this weekaura](https://wago.io/RunicBrandHelper) (by Jodsderechte) to find the matching run faster.
 * While running to your assigned rune, you will take heavy damage. Use {{ site.data.talent.as }} to survive. {{ site.data.talent.swg }} paired with {{ site.data.spell.healing_surge }} can be clutch while moving since your healer will also be running to their matching rune.
 * Keep offensive CDs for {{ site.data.dungeon.hov.branded }}. It's the best time for {{ site.data.spell.bl }} as well.
 
@@ -539,7 +539,7 @@ The 4 kings in the area must be defeated for {{ site.data.dungeon.hov.god_king_s
 * Ruby Life Pools is a really intensive healing dungeon, {{ site.data.talent.ag }} has a lot of value, notably on bosses and minibosses.
 
 
-### Talent Wildfire
+### Wildfire
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJh0EFgkk0SJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
@@ -571,7 +571,7 @@ The 4 kings in the area must be defeated for {{ site.data.dungeon.hov.god_king_s
 * Move away from the group to drop {{ site.data.dungeon.rlp.chillstorm }}. Use {{ site.data.talent.gust_of_wind }}
 to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while getting pulled.
 * Use {{ site.data.talent.as }} and {{ site.data.talent.ag }} during {{ site.data.dungeon.rlp.frost_overload }} to survive. Use CDs to quickly burst her shield.
-* The {{ site.data.dungeon.rlp.infused_whelp }} that spawned are not a priority DPS. It's important that they die so the tank doesn't get stunned by {{ site.data.dungeon.rlp.cold_claws }}. You can arrange with your group for a single person to do AoE and the other DPS to funnel damage into {{ site.data.dungeon.rlp.melidrussa_chillworn }}.
+* The {{ site.data.dungeon.rlp.infused_whelp }} that spawn are not a priority DPS, but it's important that they die so the tank doesn't get stunned by {{ site.data.dungeon.rlp.cold_claws }}. You can arrange with your group for a single person to do AoE and the other DPS to funnel damage into {{ site.data.dungeon.rlp.melidrussa_chillworn }}.
 
 ---
 
@@ -582,7 +582,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * You can use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.rlp.burning_ambition }}. But {{ site.data.dungeon.rlp.burning_ambition }} will also damage the caster while it's active so it's not mandatory. Make an educated choice with your group health in mind.
 
 **{{ site.data.dungeon.rlp.primalist_flamedancer }}**
-* Use {{ site.data.talent.purge }} on {{ site.data.dungeon.rlp.blaze_of_glory }} as soon as they reach 0 hp. Dodge the red swirlies that spawn while {{ site.data.dungeon.rlp.blaze_of_glory }} is active.
+* Use {{ site.data.talent.purge }} on {{ site.data.dungeon.rlp.blaze_of_glory }} as soon as they reach 0 HP. Dodge the red swirlies that spawn while {{ site.data.dungeon.rlp.blaze_of_glory }} is active.
 
 **{{ site.data.dungeon.rlp.blazebound_destroyer }}**
 * Use {{ site.data.dungeon.rlp.living_bomb }} on the enemies to bump them and deal some damage. Use {{ site.data.talent.as }} as needed.
@@ -595,7 +595,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 **{{ site.data.dungeon.rlp.flamegullet }}**
 * Move fast when targeted by the {{ site.data.dungeon.rlp.flame_breath }} frontal. Use {{ site.data.talent.swg }} to keep uptime while dodging.
-* {{ site.data.dungeon.rlp.molten_blood }} does ramping damage starting at 50% hp. Use {{ site.data.talent.ag }} to help the healer below that threshold.
+* {{ site.data.dungeon.rlp.molten_blood }} does ramping damage starting at 50% HP. Use {{ site.data.talent.ag }} to help the healer below that threshold.
 * Use {{ site.data.talent.as }} as required.
 
 ---
@@ -610,7 +610,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Move away from {{ site.data.dungeon.rlp.blazebound_firestorm }} as it dies to avoid {{ site.data.dungeon.rlp.burnout }}.
 * Use {{ site.data.talent.swg }} aggressively, it's very good on this fight and should be used as soon as you need to move for maximum uptime on it.
 
-Note: Learning the timings to correctly bait the {{ site.data.dungeon.rlp.molten_boulder }} and {{ site.data.dungeon.rlp.ritual_of_blazebinding }} will make this fight significantly easier.
+*Note:* Learning the timings to correctly bait the {{ site.data.dungeon.rlp.molten_boulder }} and {{ site.data.dungeon.rlp.ritual_of_blazebinding }} will make this fight significantly easier.
 
 ---
 
@@ -667,7 +667,7 @@ Note: Learning the timings to correctly bait the {{ site.data.dungeon.rlp.molten
 * {{ site.data.talent.purge }} has some good uses, allowing you dispel big shields notably.
 * {{ site.data.talent.tremor_totem }} can be used on the adds after the first boss.
 
-### Talent Wildfire
+### Wildfire
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJJCRBIJJNlEQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
@@ -675,8 +675,6 @@ Note: Learning the timings to correctly bait the {{ site.data.dungeon.rlp.molten
 ---
 
 ## {{ site.data.dungeon.sbg.sadana_bloodfury }} trash
-
-{{ site.data.dungeon.sbg.dark_communion_sbg }}
 
 **{{ site.data.dungeon.sbg.shadowmoon_bone_mender }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.sbg.shadow_mend }} in priority and {{ site.data.dungeon.sbg.shadow_bolt }} with extra kicks.
@@ -692,6 +690,7 @@ Note: Learning the timings to correctly bait the {{ site.data.dungeon.rlp.molten
 **{{ site.data.dungeon.sbg.defiled_spirit }}**
 * Get away from them when they teleport on you and cast {{ site.data.dungeon.sbg.cry_of_anguish }}.
 * Stay near the group so that they don't teleport too far.
+
 ---
 
 ## {{ site.data.dungeon.sbg.sadana_bloodfury }}
@@ -751,18 +750,20 @@ Note: Learning the timings to correctly bait the {{ site.data.dungeon.rlp.molten
 
 ---
 
-### {{ site.data.dungeon.sbg.nerzhul }}'s Elementals
+## {{ site.data.dungeon.sbg.nerzhul }}'s Elementals
 
-* The pack before {{ site.data.dungeon.sbg.nerzhul }} consists of two {{ site.data.dungeon.sbg.void_spawn }}. They can be quite deadly. You need to Line of Sight at least one of the {{ site.data.dungeon.sbg.void_pulse }} or you will likely die. You can do it with either the door at the entrance or the altars on the side, which have small corners to hide.
+* The pack before {{ site.data.dungeon.sbg.nerzhul }} consists of two {{ site.data.dungeon.sbg.void_spawn }}, making it super deadly. You need to Line of Sight at least one of the {{ site.data.dungeon.sbg.void_pulse }} or you will likely die. You can do it either with the door at the entrance or with the altars on the side, which have small corners to hide.
 * Use everything at your disposal to survive : {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.talent.ag }}, {{ site.data.item.potion_rhp }}.
+
+---
 
 ## {{ site.data.dungeon.sbg.nerzhul }}
 
 * {{ site.data.dungeon.sbg.nerzhul }} is a movement heavy fight that can be quite draining.
 * As ranged, you need to stay far away from the boss to bait {{ site.data.dungeon.sbg.omen_of_death }}.
 * Unless you preemptively move away from {{ site.data.dungeon.sbg.omen_of_death }}, you will take damage from it. Learning how to take 0 damage from it reduces the damage in the fight by a good margin.
-* {{ site.data.dungeon.sbg.malevolence }} is a frontal cone that has no range limit and will require you to move to lot when far away.
-* Try to spread {{ site.data.spell.fs }} on multiple skeletons {{ site.data.dungeon.sbg.ritual_of_bones }} for {{ site.data.talent.splinter }}, {{ site.data.talent.sfd }} and {{ site.data.dungeon.sbg.lvs }} value.
+* {{ site.data.dungeon.sbg.malevolence }} is a frontal cone that has no range limit and will require you to move a lot when far away.
+* Try to spread {{ site.data.spell.fs }} on multiple skeletons {{ site.data.dungeon.sbg.ritual_of_bones }} for {{ site.data.talent.splinter }}, {{ site.data.talent.sfd }} and {{ site.data.talent.lvs }} value.
 * It's possible for {{ site.data.talent.lmt }} to apply {{ site.data.spell.fs }} on two skeletons if placed correctly.
 * Once a skeleton is dead, quickly move through the {{ site.data.dungeon.sbg.ritual_of_bones }} to the other side of the room to bait {{ site.data.dungeon.sbg.omen_of_death }} far from melee. Do not stay on the skeleton side of the room or you will be pincered between {{ site.data.dungeon.sbg.omen_of_death }}, {{ site.data.dungeon.sbg.malevolence }} and {{ site.data.dungeon.sbg.ritual_of_bones }}.
 
@@ -783,7 +784,7 @@ Note: Learning the timings to correctly bait the {{ site.data.dungeon.rlp.molten
 * {{ site.data.talent.cleanse_spirit }} is a mandatory talent in Temple of the Jade Serpent, unless you have a curse dispel in your group.
 * {{ site.data.talent.tremor_totem }} has some uses but it isn't mandatory at all.
 
-### Talent Wildfire
+### Wildfire
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJJCJFgEJNlEQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
@@ -805,7 +806,7 @@ Note: Learning the timings to correctly bait the {{ site.data.dungeon.rlp.molten
 
 * Stay far away from the boss to easily drop {{ site.data.dungeon.tjs.corrupted_vortex }}. Use {{ site.data.talent.as }} as needed when dropping it.
 * Move around the boss to dodge {{ site.data.dungeon.tjs.wash_away }}. Use {{ site.data.talent.swg }} to keep uptime while moving.
-* Time your movement to avoid the pulsing water from {{ site.data.dungeon.tjs.corrupted_geyser }}. [This weekaura](https://wago.io/RaFUBlICM)(by Absence) will tell you when {{ site.data.dungeon.tjs.corrupted_geyser }} will burst.
+* Time your movement to avoid the pulsing water from {{ site.data.dungeon.tjs.corrupted_geyser }}. [This weekaura](https://wago.io/RaFUBlICM) (by Absence) will tell you when {{ site.data.dungeon.tjs.corrupted_geyser }} will burst.
 
 ---
 
@@ -828,7 +829,7 @@ Note: Learning the timings to correctly bait the {{ site.data.dungeon.rlp.molten
 * Stay farther than 6 yards away to ignore {{ site.data.dungeon.tjs.territorial_display }}.
 
 **{{ site.data.dungeon.tjs.the_crybaby_hozen }}**
-* Use hard CC {{ site.data.talent.capacitor_totem }} to interrupt {{ site.data.dungeon.tjs.tears_of_pain }}. Dodge the blue swirlies if you don't. Use {{ site.data.talent.swg }} to keep uptime while dodging.
+* Use hard CC ({{ site.data.talent.capacitor_totem }}) to interrupt {{ site.data.dungeon.tjs.tears_of_pain }}. Dodge the blue swirlies if you don't. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.tjs.fit_of_rage }}.
 
 **{{ site.data.dungeon.tjs.the_golden_beetle }}**
@@ -904,7 +905,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * {{ site.data.talent.thunderous_paws }} and {{ site.data.talent.gust_of_wind }} are quite useful in The Azure Vault.
 * {{ site.data.talent.tremor_totem }} can make some packs less heavy on interrupt requirements but it isn't mandatory at all.
 
-### Talent Wildfire
+### Wildfire
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKRLtkQOAAAAAAAUCgSSi0EFgkk0SJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
@@ -928,8 +929,8 @@ The mobs before the last boss were all already present in the dungeon so they do
 ## {{ site.data.dungeon.av.leymor }}
 
 * Stay spreaded in range and dodge {{ site.data.dungeon.av.ley_line_sprouts }}. You must use {{ site.data.dungeon.av.leymor }}'s other abilities to destroy them.
-* {{ site.data.dungeon.av.explosive_brand }} will knock you back and allow you transform nearby {{ site.data.dungeon.av.ley_line_sprouts }} into {{ site.data.dungeon.av.bubbling_sapling }}.
-* {{ site.data.dungeon.av.erupting_fissure }} is a frontal on the tank that will transform {{ site.data.dungeon.av.ley_line_sprouts }} into {{ site.data.dungeon.av.bubbling_sapling }}.
+* {{ site.data.dungeon.av.explosive_brand }} will knock you back and allow you transform nearby {{ site.data.dungeon.av.ley_line_sprouts }} into {{ site.data.dungeon.av.bubbling_sapling }}. Spread with your group to destroy as many as you can.
+* {{ site.data.dungeon.av.erupting_fissure }} is a frontal on the tank that will transform {{ site.data.dungeon.av.ley_line_sprouts }} into {{ site.data.dungeon.av.bubbling_sapling }}. Don't be on him.
 * {{ site.data.dungeon.av.consuming_stomp }} will deal huge damage, increased by the number of {{ site.data.dungeon.av.ley_line_sprouts }} active. Use {{ site.data.talent.as }} and {{ site.data.talent.ag }} as needed.
 
 ---
@@ -972,7 +973,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.av.illusionary_bolt }}.
 * Watch out for {{ site.data.dungeon.av.ancient_orb }} when the boss turns toward you.
 * Don't be on the tank, {{ site.data.dungeon.av.arcane_cleave }} cleaves.
-* During {{ site.data.dungeon.av.overwhelming_energy }}, use {{ site.data.talent.swg }} to dodge the {{ site.data.dungeon.av.arcane_orb }} and burst the {{ site.data.dungeon.av.draconic_image }} as fast as possible.
+* During {{ site.data.dungeon.av.overwhelming_energy }}, use {{ site.data.talent.swg }} to dodge the {{ site.data.dungeon.av.ancient_orb }} and burst the {{ site.data.dungeon.av.draconic_image }} as fast as possible.
 * Use offensive and defensive CDs during {{ site.data.dungeon.av.overwhelming_energy }}, this phase is the hardest by far.
 
 ---
@@ -984,14 +985,14 @@ The mobs before the last boss were all already present in the dungeon so they do
 * {{ site.data.dungeon.av.bestial_roar }} does a moderate amount of damage to the whole group, be ready to use {{ site.data.talent.as }} and {{ site.data.talent.ag }}.
 
 **{{ site.data.dungeon.av.nullmagic_hornswog }}**
-* {{ site.data.dungeon.av.null_stomp }} will make them jump to a random location, typically preferring to jump to farther players. Stay in melee as much as possible.
+* {{ site.data.dungeon.av.null_stomp }} will make them jump to a random location, typically preferring to jump to farther players. Stay close melee as much as possible.
 
 ---
 
 ## {{ site.data.dungeon.av.telash_greywing }}
 
 * Do not use CDs at the start of the battle, the boss will go immune after ~20 seconds.
-* {{ site.data.dungeon.av.frost_bomb }} will require players to spread and let space for your group to move after it drops. Use {{ site.data.talent.gust_of_wind }} to quickly go out of the patch of ice and {{ site.data.talent.swg }} to keep uptime.
+* {{ site.data.dungeon.av.frost_bomb }} will require players to spread and let space for the group to move after it drops. Use {{ site.data.talent.gust_of_wind }} to quickly go out of the patch of ice. Use {{ site.data.talent.swg }} to keep uptime.
 * Hide inside of a {{ site.data.dungeon.av.vault_rune }} during {{ site.data.dungeon.av.absolute_zero }}.
 * You should already be spreaded for {{ site.data.dungeon.av.icy_devastator }}, just use {{ site.data.talent.as }} if you are targeted.
 
@@ -1022,7 +1023,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * {{ site.data.talent.tremor_totem }} has some uses on the third boss but it isn't mandatory at all.
 * {{ site.data.talent.purge }} is very useful on the second boss, be sure to talent it if your group doesn't have one.
 
-### Talent Wildfire
+### Wildfire
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJJCRBIJJtUCQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
@@ -1054,7 +1055,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * Stay farther than 20 yards away to ignore {{ site.data.dungeon.no.tectonic_stomp }}.
 * Use {{ site.data.dungeon.no.dragonkiller_lance }} to interrupt {{ site.data.dungeon.no.eruption }}.
 
-Note: Using {{ site.data.dungeon.no.dragonkiller_lance }} early will prevent the second {{ site.data.dungeon.no.shards_of_stone }} and reduce party damage by a lot.
+*Note:* Using {{ site.data.dungeon.no.dragonkiller_lance }} early will prevent the second {{ site.data.dungeon.no.shards_of_stone }} and reduce party damage by a lot.
 
 ---
 
@@ -1133,7 +1134,7 @@ A common route skip most of the trash in Nokhudon Hold, as they are very innefic
 * Dodge the brown swirly made by {{ site.data.dungeon.no.ravaging_spear }}. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 
 **{{ site.data.dungeon.no.batak }}**
-* Dodge {{ site.data.dungeon.no.vehement_charge }} to interrupt {{ site.data.dungeon.no.mystic_vapors }}.
+* Dodge {{ site.data.dungeon.no.vehement_charge }}.
 * Don't be on the tank, {{ site.data.dungeon.no.broad_stomp }} is a frontal on him.
 
 ---
@@ -1143,19 +1144,19 @@ A common route skip most of the trash in Nokhudon Hold, as they are very innefic
 * When focused by {{ site.data.dungeon.no.iron_spear }}, be a bit away from the boss and use {{ site.data.talent.as }} if needed. Move as soon as the spear hits you to dodge {{ site.data.dungeon.no.iron_stampede }}.
 * Dodge the {{ site.data.dungeon.no.upheaval }} frontal.
 
-### Intermission - 60% hp
-* {{ site.data.dungeon.no.balakar_khan }} becomes immune to damge.
+### Intermission - 60% HP
+* {{ site.data.dungeon.no.balakar_khan }} becomes immune to damage.
 * The longer this phase lasts, the more damage {{ site.data.dungeon.no.stormwinds }} does, making this phase really hard in higher keys. You might want to plan offensive and defensive CDs for this.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.no.storm_bolt }}
 * Assign a {{ site.data.dungeon.no.nokhud_stormcaster }} to kick per person and quickly pack them. Depending on your group, you might be asked to {{ site.data.talent.hex }} one of them.
 * Dodge lightning blue swirlies during the phase.
 
 ### Phase 2
-* When focused by {{ site.data.dungeon.no.static_spear }}, be a bit away from the boss and use {{ site.data.talent.as }} if needed. Move as soon as the spear hits you to dodge {{ site.data.dungeon.no.iron_stampede }}. Your whole party will be pulled on your position, don't pull them into a wall !
+* The whole group will be pulled on the position of the target of {{ site.data.dungeon.no.static_spear }}. If targeted, be a bit away from the boss but don't pull your party into the wall. Use {{ site.data.talent.as }} if needed. Move as soon as the spear hits to dodge {{ site.data.dungeon.no.iron_stampede }}.
 * Dodge the {{ site.data.dungeon.no.crackling_upheaval }} frontal and drop the {{ site.data.dungeon.no.crackling_cloud }} out of the way.
 * Lightning blue swirlies will appear during the whole phase. You should have the time to finish your cast before moving in most cases.
 
-Note: You can use the rock in the boss arena to block {{ site.data.dungeon.no.iron_stampede }}. Check [this video](https://youtu.be/aDXompHHGbk) for a fast guide. Be careful about dropping {{ site.data.dungeon.no.crackling_cloud }} far from the rock if you are using it.
+*Note:* You can use the rock in the boss arena to block {{ site.data.dungeon.no.iron_stampede }}. Check [this video](https://youtu.be/aDXompHHGbk) for a fast guide. Be careful about dropping {{ site.data.dungeon.no.crackling_cloud }} far from the rock if you are using it.
 
 </div>
 </div>
