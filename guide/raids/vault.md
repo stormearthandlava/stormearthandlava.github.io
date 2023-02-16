@@ -327,28 +327,34 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="raszageth-collapse" class="collapse" aria-labelledby="raszageth" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-**Boss fight profile:** Single Target, occasional AoE
+**Boss fight profile:** Single Target, occasional Burst and AoE
 
 **Talents:**
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAAlAokESTUAlkk0SJAJkEA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 **Damage**
-* Use {{ site.data.talent.sk }} and {{ site.data.talent.lmt }} on adds during intermissions if talented.
-* Keep offensive CDs for [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) during P2.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gust_of_wind }} to maintain uptime whilst dealing with [Static Charge](https://www.wowhead.com/spell=381615/static-charge)(P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 Bomb).
+* During intermissions, use {{ site.data.talent.sk }} and {{ site.data.talent.lmt }} to burst the adds.
+* In P2, keep offensive CDs for [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge), notably {{ site.data.talent.sk }}.
+* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Static Charge](https://www.wowhead.com/spell=381615/static-charge) (P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 Bomb).
 
 **Defensive**
-* Use {{ site.data.talent.as }} and healing consumables when away from the raid to drop [Static Charge](https://www.wowhead.com/spell=381615/static-charge)(P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge).
+* Use {{ site.data.talent.as }}, or even {{ site.data.item.potion_rhp }} and {{ site.data.item.hs }} if needed, when away from the raid to drop [Static Charge](https://www.wowhead.com/spell=381615/static-charge) (P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 bomb).
 * Use {{ site.data.spell.healing_surge }} if necessary.
-* If talented, use {{ site.data.talent.ag }} to help healers during [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge)(P2).
+* If talented, use {{ site.data.talent.ag }} to help healers, notably during [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) (P2).
 
 **Utilities:**
 
 * Use {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.thunderstorm }}, {{ site.data.spell.wind_shear }} and {{ site.data.talent.purge }} to destroy [Volatile Spark](https://www.wowhead.com/npc=194999/volatile-spark) rapidly.
-* Use {{ site.data.talent.gust_of_wind }} to go through [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing), [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing) fast.
-* If talented, use {{ site.data.talent.wrt }} to help your raid repositioning during [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing), [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing) and intermissions.
+* In P2, {{ site.data.talent.thunderous_paws }} dispels [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) slow, allowing you to quickly move out. Try to not use {{ site.data.spell.ghost_wolf }} during P2 and P3, except if you get that debuff.
+* In P2, {{ site.data.item.demonic_gateway }} can be used to trivialize the 1st and the 4th [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing). Remember to buy {{ site.data.item.gateway_control_shard }} in Valdrakken.
+* In P2 and P3, use {{ site.data.talent.gust_of_wind }} to rapidly go through [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing).
+* If talented, use {{ site.data.talent.wrt }} to help your raid repositioning during intermissions, [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing) (P1) and [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing) (P2 & P3).
+* {{ site.data.spell.bl }} usage :
+  - During progress, consider using it on the 2nd [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) shield in P2.
+  - If your fight is longer than 10 minutes, use {{ site.data.spell.bl }} on pull and whenever available in P3.
+  - Otherwise, use it on the 2nd [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) shield in P2 (preferred) or on pull (fire and forget).
 
 </div>
 </div>
