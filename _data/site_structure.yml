@@ -16,6 +16,8 @@ categories:
       url: /guide/general/consumables.html
 - title: Mythic+
   subcategories:
+    - title : DF Season 2
+      url: /guide/mythic_plus/DF_season_2.html
     - title : DF Season 1
       url : /guide/mythic_plus/DF_season_1.html
     - title : SL Season 4

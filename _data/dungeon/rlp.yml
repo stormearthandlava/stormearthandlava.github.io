@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,7 +12,7 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
 ## Ruby Life Pools
 # Melidrussa Chillworn Trash
