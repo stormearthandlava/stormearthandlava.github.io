@@ -32,7 +32,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 - Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
 
-- When talenting {{ site.data.talent.pe }}, always remember that you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.spell.earth_elemental }}.
+- When talenting {{ site.data.talent.pe }}, always remember that you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.talent.earth_elemental }}.
 
 - Recall that [Stampeding Roar](https://www.wowhead.com/spell=106898/stampeding-roar) is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
 
@@ -94,13 +94,13 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Defensives:**
 
 * Use cooldowns as necessary throughout the fight, ensuring at least {{ site.data.spell.astral_shift }} is available for [Core Overload](https://ptr.wowhead.com/spell=364962/core-overload) once the boss reaches 15%. 
-* If required, consider using {{ site.data.spell.ee }} with {{ site.data.spell.harden_skin }}. This may feel worse with an active 4-piece bonus but **dying is worse**. 
+* If required, consider using {{ site.data.talent.ee }} with {{ site.data.spell.harden_skin }}. This may feel worse with an active 4-piece bonus but **dying is worse**. 
 * Depending on your group composition and positioning your group may not need {{ site.data.talent.wrt }}, in which case take {{ site.data.talent.natures_guardian }}.
        
 **Utilities:**
        
 * Using {{ site.data.spell.wind_shear }} to interrupt [Point Defense Drone](https://ptr.wowhead.com/npc=181856/point-defense-drone)
-* Using {{ site.data.spell.thunderstorm }} to help position Adds when necessary
+* Using {{ site.data.talent.thunderstorm }} to help position Adds when necessary
 * If talented, use {{ site.data.talent.wrt }} to help your raid reposition before [Exposed Core](https://ptr.wowhead.com/spell=360412/exposed-core)
 * If talented, use {{ site.data.talent.ancestral_guidance }} to help with incoming damage during Add spawns
        
@@ -158,7 +158,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Defensives:**
        
 * Use {{ site.data.spell.astral_shift }} and healing consumables as required to deal with additional stacks of [Ephemera Dust](https://ptr.wowhead.com/spell=359778/ephemera-dust).
-* Consider using {{ site.data.spell.ee }} as an additional defensive with {{ site.data.talent.icefury }} talented, or as required if using {{ site.data.talent.pe }} talented when 4-piece is active.
+* Consider using {{ site.data.talent.ee }} as an additional defensive with {{ site.data.talent.icefury }} talented, or as required if using {{ site.data.talent.pe }} talented when 4-piece is active.
 
 **Utilities:**
        
@@ -219,13 +219,13 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Defensives:**
        
 * Use {{ site.data.spell.astral_shift }} as needed when [Gylph of Relocation](https://ptr.wowhead.com/spell=362801/glyph-of-relocation) is about to explode
-* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
+* Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
        
 **Utilities:**
        
 * Use {{ site.data.spell.wind_shear }} to interrupt [Debilitating Ray](https://ptr.wowhead.com/spell=364030/debilitating-ray) from [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger)
-* Use {{ site.data.spell.thunderstorm }} to position [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger) if necessary
-* Use {{ site.data.spell.capacitor_totem }} to stun [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger)
+* Use {{ site.data.talent.thunderstorm }} to position [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger) if necessary
+* Use {{ site.data.talent.capacitor_totem }} to stun [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger)
 * If talented, use {{ site.data.talent.wrt }} to help your raid avoid [Genesis Rings](https://ptr.wowhead.com/spell=363413/genesis-rings)
        
 **Added Notes:**
@@ -290,7 +290,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Defensives:**
        
 * Use {{ site.data.spell.astral_shift }} as needed when [Staggering Barrage](https://ptr.wowhead.com/spell=360959/staggering-barrage), [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) or [Inevitable Dominion](https://ptr.wowhead.com/spell=361722/inevitable-dominion) happen
-* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
+* Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
 * {{ site.data.spell.soulshape }} is useful for dealing with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) overlaps when playing as Night Fae
        
 **Utilities:**
@@ -353,7 +353,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Defensives:**
        
 * Use {{ site.data.spell.astral_shift }} (and {{ site.data.spell.fleshcraft }} if Necrolord) as needed for [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings)
-* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }} 
+* Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }} 
 
 **Utilities:**
        
@@ -416,7 +416,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Defensives:**
        
 * Use {{ site.data.spell.astral_shift }} as needed for [Cosmic Shift](https://ptr.wowhead.com/spell=363088/cosmic-shift) or [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
-* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }} 
+* Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }} 
        
 **Utilities:**
 
@@ -540,9 +540,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Utilities:**
 
 * Use {{ site.data.spell.wind_shear }} to interrupt [Psychic Terror](https://ptr.wowhead.com/spell=365008/psychic-terror) from [Grim Reflections](https://ptr.wowhead.com/spell=365120/grim-reflections)        
-* Use {{ site.data.spell.tremor_totem }} before [Psychic Terror](https://ptr.wowhead.com/spell=365008/psychic-terror) cast finishes if it would finish
+* Use {{ site.data.talent.tremor_totem }} before [Psychic Terror](https://ptr.wowhead.com/spell=365008/psychic-terror) cast finishes if it would finish
 * Use {{ site.data.spell.fae_transfusion }} to assist with breaking [Befouled Barrier](https://ptr.wowhead.com/spell=365293/befouled-barrier)
-* Use {{ site.data.spell.capacitor_totem }} to assist with controlling Adds       
+* Use {{ site.data.talent.capacitor_totem }} to assist with controlling Adds       
 * If talented, use {{ site.data.talent.ancestral_guidance }} with {{ site.data.talent.sk }} for maximum effect        
        
 **PTR PoVs:**
@@ -604,9 +604,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
        
 **Utilities:**
        
-* {{ site.data.spell.tremor_totem }} can be used to remove [Bursting Dread Fears](https://www.wowhead.com/spell=360148/bursting-dread) in the event of a mistake. Be particularly mindful if your healers make this mistake, as it will typically be healers that dispel the fear from others! Can also be useful to clear [Unsettling Dreams](https://www.wowhead.com/spell=360241/unsettling-dreams)
+* {{ site.data.talent.tremor_totem }} can be used to remove [Bursting Dread Fears](https://www.wowhead.com/spell=360148/bursting-dread) in the event of a mistake. Be particularly mindful if your healers make this mistake, as it will typically be healers that dispel the fear from others! Can also be useful to clear [Unsettling Dreams](https://www.wowhead.com/spell=360241/unsettling-dreams)
 * {{ site.data.spell.wind_shear }} is excellent for the [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) but remember **do not interrupt the casts until the Add has reached 100% hp and their buff is removed**, doing so will cause more raid damage overall via  [Ravenous Hunger](https://www.wowhead.com/spell=361923/ravenous-hunger)
-* {{ site.data.spell.thunderstorm }} can be used to knock the [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) into the bosses to more efficiently cleave it down.
+* {{ site.data.talent.thunderstorm }} can be used to knock the [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) into the bosses to more efficiently cleave it down.
   
 </div>
 </div>
@@ -723,7 +723,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Utilities:**
        
 * {{ site.data.talent.wrt }} is very useful to help your group avoid [Oppression](https://www.wowhead.com/spell=362617/oppression)
-* {{ site.data.spell.tremor_totem }} can be used to break your own Mind Control by placing {{ site.data.spell.tremor_totem }} when you are targeted by [Rune of Compulsion](https://www.wowhead.com/spell=366285/rune-of-compulsion), it does not remove Mind Control from your allies and you cannot cast {{ site.data.spell.tremor_totem }} during the Mind Control itself. 
+* {{ site.data.talent.tremor_totem }} can be used to break your own Mind Control by placing {{ site.data.talent.tremor_totem }} when you are targeted by [Rune of Compulsion](https://www.wowhead.com/spell=366285/rune-of-compulsion), it does not remove Mind Control from your allies and you cannot cast {{ site.data.talent.tremor_totem }} during the Mind Control itself. 
        
 **Additional Notes:**
 
