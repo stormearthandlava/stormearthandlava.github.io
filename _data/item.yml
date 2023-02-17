@@ -14,6 +14,12 @@
 
 example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
+# Warlock Utilities
+healthstone: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healthstone</a>
+hs: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healthstone</a>
+demonic_gateway: <a href="https://www.wowhead.com/spell=111771/demonic-gateway" target="blank">Demonic Gateway</a>
+gateway_control_shard: <a href="https://www.wowhead.com/item=188152/gateway-control-shard" target="blank">Gateway Control Shard</a>
+
 # DF Phials
 phial_eits: <a href="https://www.wowhead.com/item=191320/phial-of-the-eye-in-the-storm" target="blank">Phial of the Eye in the Storm</a>
 phial_sa: <a href="https://www.wowhead.com/item=191321/phial-of-still-air" target="blank">Phial of Still Air</a>
