@@ -88,19 +88,19 @@ Basic Patchwerk fight with low – medium movement. Nothing you can really do to
 Don't try to pad damage on the boss without having the buff – damage that is healed is removed in [WarcraftLogs](https://www.warcraftlogs.com/). Other than that, this is another fight, especially on mythic, where funneling is most likely stronger than {{ site.data.azerite.vop }}/{{ site.data.talent.se }}. It can still work, especially if you used trinket/{{ site.data.talent.se }} shortly before you collect the buff, so you already have all buffs and stacks rolling.
 
 ### Ilgynoth
-DO NOT USE  {{ site.data.spell.thunderstorm }} WHILE MC IS ACTIVE! EVER!
+DO NOT USE  {{ site.data.talent.thunderstorm }} WHILE MC IS ACTIVE! EVER!
 
 Other than that, you can use {{ site.data.talent.se }} on pull and every P1 phase and still have it up for the last push phase. The free cleave from EotS is super nice to have, as well. {{ site.data.talent.wind_rush_totem }} is also pretty good at that fight.
 
 
 ### Vexiona
-Use {{ site.data.talent.se }} on boss exclusively. Adds die from passive cleave and tank mechanic. {{ site.data.spell.tremor_totem }} is handy in last phase.
+Use {{ site.data.talent.se }} on boss exclusively. Adds die from passive cleave and tank mechanic. {{ site.data.talent.tremor_totem }} is handy in last phase.
 
 ### Ra-Den
 This fight is one, that suits {{ site.data.azerite.vop }}/{{ site.data.talent.se }} really well. If you aren't really unlucky then not much movement is happening in first stage, and last stage either. Another great fight for {{ site.data.azerite.worldvein }}.
 
 ### Carapace of N'zoth
-Depending on your DPS you might want to hold on {{ site.data.talent.se }} for addspawns in P1, but normally just use {{ site.data.talent.se }} on CD. {{ site.data.talent.wind_rush_totem }} is again very handy in this fight, as well as {{ site.data.spell.tremor_totem }}. If your {{ site.data.talent.se }} comes up, safe it for last phase addspawn, that way you can utilize the free cleave on the adds the most, without losing boss-dps.
+Depending on your DPS you might want to hold on {{ site.data.talent.se }} for addspawns in P1, but normally just use {{ site.data.talent.se }} on CD. {{ site.data.talent.wind_rush_totem }} is again very handy in this fight, as well as {{ site.data.talent.tremor_totem }}. If your {{ site.data.talent.se }} comes up, safe it for last phase addspawn, that way you can utilize the free cleave on the adds the most, without losing boss-dps.
 
 ### N'zoth
 You can blast N'zoth, as you have {{ site.data.talent.se }} up basically every burn phase, where N'zoth is vulnerable. Your overall DPS will be lower than most others, as you don't have much to burst on Psychus, but that shouldn't be your goal – except if you are struggling to kill him with 5-7 stacks. Last phase is also pretty low movement if you position yourself properly, further enhancing your capabilities.

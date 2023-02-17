@@ -65,13 +65,13 @@ If you have suggestions to improve the information in this guide please contact 
 - Use {{ site.data.spell.astral_shift }} for {{ site.data.nathria.reverberating_scream }} as needed.
 
 **Healing:**
-- Phase 2 is a great opportunity to support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }} as needed.
+- Phase 2 is a great opportunity to support your raid with off-healing through {{ site.data.talent.healing_stream_totem }}, {{site.data.talent.chain_heal }}, and {{ site.data.spell.healing_surge }} as needed.
 
 **Utilities:**
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members with {{ site.data.nathria.echolocation }}, {{ site.data.nathria.echoing_screech }}, or throughout Phase 2.
 
 **Notes:**
-- Because {{ site.data.nathria.earsplitting_shriek }} is a Horrify and not a Fear, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
+- Because {{ site.data.nathria.earsplitting_shriek }} is a Horrify and not a Fear, you cannot use {{ site.data.talent.tremor_totem }} to dispel players.
         
 </div>
 </div>
@@ -102,7 +102,7 @@ If you have suggestions to improve the information in this guide please contact 
 - {{ site.data.legendary.dre }} the setup of the fight synergises well with this Legendary's requirements to perform better than our other options on average. 
 - {{ site.data.legendary.eogs }} a more consistent option if you dislike RNG.
 - {{ site.data.legendary.wlr }} is still a viable choice although the other options will outperform it in overall value.
-- {{ site.data.legendary.sfd }} if you have an active {{ site.data.item.t28_2 }} but **not** {{ site.data.item.t28_4 }}, the increase in {{ site.data.spell.fe }} uptime will be incredibly valuable for you. Similarly, consider using {{ site.data.talent.sop }} to further increase {{ site.data.spell.fe }} uptime.
+- {{ site.data.legendary.sfd }} if you have an active {{ site.data.item.t28_2 }} but **not** {{ site.data.item.t28_4 }}, the increase in {{ site.data.talent.fe }} uptime will be incredibly valuable for you. Similarly, consider using {{ site.data.talent.sop }} to further increase {{ site.data.talent.fe }} uptime.
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the active pet.
@@ -117,7 +117,7 @@ If you have suggestions to improve the information in this guide please contact 
 - On Mythic difficulty, utilize your healing abilities as needed to keep yourself and nearby members healthy for the impending {{ site.data.nathria.pierce_soul }} adds when soaking {{ site.data.nathria.sinseeker }} during {{ site.data.nathria.bargast }}.
 
 **Utilities:**
-- Use {{ site.data.spell.hex }} and {{ site.data.spell.capacitor_totem }} on {{ site.data.nathria.shades_of_bargast }} as assigned.
+- Use {{ site.data.talent.hex }} and {{ site.data.talent.capacitor_totem }} on {{ site.data.nathria.shades_of_bargast }} as assigned.
 
 </div>
 </div>
@@ -158,14 +158,14 @@ If you have suggestions to improve the information in this guide please contact 
 - If talented, {{ site.data.talent.spirit_wolf}} allows you to mitigate damage from {{ site.data.nathria.soul_pedestal }}.
 
 **Healing:**
-- If there is any downtime between add phases, support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }}. You can heal {{ site.data.nathria.essence_font }} as well.
+- If there is any downtime between add phases, support your raid with off-healing through {{ site.data.talent.healing_stream_totem }}, {{site.data.talent.chain_heal }}, and {{ site.data.spell.healing_surge }}. You can heal {{ site.data.nathria.essence_font }} as well.
 - If talented, you can use {{ site.data.talent.earth_shield}} on {{ site.data.nathria.kaelthas_sunstrider }} for additional healing.
 - On Mythic difficulty, support healing through {{ site.data.nathria.cloak_of_flames }} with {{ site.data.spell.healing_surge }} as needed.
 
 **Utilities:**
 - Interrupt {{ site.data.nathria.vulgar_brand }} and {{ site.data.nathria.scornful_blast }} from {{ site.data.nathria.vile_occultist }} as assigned.
-- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.thunderstorm }} on {{ site.data.nathria.reborn_phoenix }} as needed.
-- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.capacitor_totem}} on {{ site.data.nathria.soul_infuser }} as needed.
+- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.talent.thunderstorm }} on {{ site.data.nathria.reborn_phoenix }} as needed.
+- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.talent.capacitor_totem}} on {{ site.data.nathria.soul_infuser }} as needed.
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help kite away from {{ site.data.nathria.reborn_phoenix }}.
 
 **Notes:**
@@ -211,7 +211,7 @@ If you have suggestions to improve the information in this guide please contact 
 - If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help raid members place {{ site.data.nathria.dimensional_tear }}, move {{ site.data.nathria.seed_of_extinction }}, and avoid {{ site.data.nathria.edge_of_annihilation }}.
 
 **Notes:**
-- Because the {{ site.data.nathria.possession }} from {{ site.data.nathria.fleeting_spirit }} is a mind control and not a Charm, you cannot use {{ site.data.spell.tremor_totem }} to dispel players.
+- Because the {{ site.data.nathria.possession }} from {{ site.data.nathria.fleeting_spirit }} is a mind control and not a Charm, you cannot use {{ site.data.talent.tremor_totem }} to dispel players.
 
 </div>
 </div>
@@ -508,7 +508,7 @@ Phase 3:
 
 **Notes:**
 - Because of {{ site.data.spell.ghost_wolf }}, you will not be slowed during {{ site.data.nathria.march_of_the_penitent }} in Phase 1, but you **must** be in {{ site.data.spell.ghost_wolf }} form before the phase begins. Consider not clearing any {{ site.data.nathria.burden_of_sin }} stacks during this phase.
-- As P2 boss arena contains platforms, and {{ site.data.item.t28_4 }} bonuses cause our {{ site.data.spell.fe }} to be active ~100% of the time this has the potential to cause issues but perhaps not significant!
+- As P2 boss arena contains platforms, and {{ site.data.item.t28_4 }} bonuses cause our {{ site.data.talent.fe }} to be active ~100% of the time this has the potential to cause issues but perhaps not significant!
 
 </div>
 </div>
