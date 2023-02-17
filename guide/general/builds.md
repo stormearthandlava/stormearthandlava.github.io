@@ -309,7 +309,7 @@ If you find yourself using this build on 2 or more targets it is less than ideal
  - {{ site.data.spell.lvb }} 
  - {{ site.data.spell.cl }}
  - {{ site.data.spell.frs }} if you have {{ site.data.talent.if }} buff active *and* need to move
- - {{ site.data.spell.if }} if you expect to move soon and {{ site.data.talent.swg }} is not available, otherwise do not use.
+ - {{ site.data.talent.if }} if you expect to move soon and {{ site.data.talent.swg }} is not available, otherwise do not use.
 
 ## 3 Target Priority
 If you find yourself using this build on 3 or more targets it is less than ideal

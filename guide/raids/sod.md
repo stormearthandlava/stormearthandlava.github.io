@@ -79,7 +79,7 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Utilities:**
 
-* After [Predator's Howl](https://shadowlands.wowhead.com/spell=347283/predators-howl) is cast, be prepared to use {{ site.data.spell.tremor_totem }} to dispel any players with [Unshakeable Dread](https://shadowlands.wowhead.com/spell=347286/unshakeable-dread). {{ site.data.spell.tremor_totem }} is available for every other [Predator's Howl](https://shadowlands.wowhead.com/spell=347283/predators-howl) cast.
+* After [Predator's Howl](https://shadowlands.wowhead.com/spell=347283/predators-howl) is cast, be prepared to use {{ site.data.talent.tremor_totem }} to dispel any players with [Unshakeable Dread](https://shadowlands.wowhead.com/spell=347286/unshakeable-dread). {{ site.data.talent.tremor_totem }} is available for every other [Predator's Howl](https://shadowlands.wowhead.com/spell=347283/predators-howl) cast.
 * If talented, {{ site.data.talent.wind_rush_totem }} is best used during [Hungering Mist](https://shadowlands.wowhead.com/spell=347671/hungering-mist) and is available for every other [Hungering Mist](https://shadowlands.wowhead.com/spell=347671/hungering-mist) phase. {{ site.data.talent.wind_rush_totem }} can also be used to help players kite during Tarragrue's last 10%.
 
 </div>
@@ -133,7 +133,7 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Notes:**
 
-* If you are talented into {{ site.data.talent.primal_elementalist }}, you may have some trouble casting {{ site.data.spell.fire_elemental }}'s {{ site.data.spell.meteor }} on Eye of the Jailer, so target a friendly melee player with {{ site.data.spell.meteor }} instead.
+* If you are talented into {{ site.data.talent.primal_elementalist }}, you may have some trouble casting {{ site.data.talent.fire_elemental }}'s {{ site.data.spell.meteor }} on Eye of the Jailer, so target a friendly melee player with {{ site.data.spell.meteor }} instead.
 
 </div>
 </div>
@@ -179,8 +179,8 @@ If you have suggestions to improve the information in this guide please contact 
 **Utilities:**
 
 * Rotate interrupts between Signe's [Song of Dissolution](https://shadowlands.wowhead.com/spell=350287/song-of-dissolution) and [Soulful Blast](https://shadowlands.wowhead.com/spell=350283/soulful-blast) as well as [Formless Mass](https://shadowlands.wowhead.com/npc=177407/formless-mass)'s [Siphon Vitality](https://shadowlands.wowhead.com/spell=350339/siphon-vitality), prioritizing [Song of Dissolution](https://shadowlands.wowhead.com/spell=350287/song-of-dissolution). [Song of Dissolution](https://shadowlands.wowhead.com/spell=350287/song-of-dissolution) is cast approximately 20s apart.
-* Use {{ site.data.spell.thunderstorm }} as needed to knock back the [Formless Mass](https://shadowlands.wowhead.com/npc=177407/formless-mass) into melee to cleave down. Use {{ site.data.spell.capacitor_totem }} as needed to stun it.
-* Use {{ site.data.spell.tremor_totem }} as needed to dispel anyone feared by [Reverberating Refrain](https://shadowlands.wowhead.com/spell=350385/reverberating-refrain).
+* Use {{ site.data.talent.thunderstorm }} as needed to knock back the [Formless Mass](https://shadowlands.wowhead.com/npc=177407/formless-mass) into melee to cleave down. Use {{ site.data.talent.capacitor_totem }} as needed to stun it.
+* Use {{ site.data.talent.tremor_totem }} as needed to dispel anyone feared by [Reverberating Refrain](https://shadowlands.wowhead.com/spell=350385/reverberating-refrain).
 * If talented, use {{ site.data.talent.wind_rush_totem }} to help your raid navigate any of the [Call of the Val'kyr](https://shadowlands.wowhead.com/spell=350467/call-of-the-valkyr) abilities.
 
 </div>
@@ -217,7 +217,7 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Damage:**
 
-* Maintain {{ site.data.spell.flame_shock }} on [Orbs of Torment](https://shadowlands.wowhead.com/npc=177117/orb-of-torment) to enable funnel damage through {{ site.data.spell.lava_surge }} procs. {{ site.data.legendary.skybreaker }} (if equipped) will heavily capitalize on this despite [Eternal Torment](https://shadowlands.wowhead.com/spell=355790/eternal-torment).
+* Maintain {{ site.data.spell.flame_shock }} on [Orbs of Torment](https://shadowlands.wowhead.com/npc=177117/orb-of-torment) to enable funnel damage through {{ site.data.talent.lava_surge }} procs. {{ site.data.legendary.skybreaker }} (if equipped) will heavily capitalize on this despite [Eternal Torment](https://shadowlands.wowhead.com/spell=355790/eternal-torment).
 * Use {{ site.data.spell.spiritwalkers_grace }} to maintain DPS while airborne from [Malevolence](https://shadowlands.wowhead.com/spell=350469/malevolence) dispels or for avoiding volleys from [Shatter](https://shadowlands.wowhead.com/spell=351066/shatter). Otherwise, pool Maelstrom and utilize instant casts while you are airborne from [Malevolence](https://shadowlands.wowhead.com/spell=350469/malevolence) dispels.
 
 **Defensives:**
@@ -274,8 +274,8 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Utilities:**
 
-* Use {{ site.data.spell.thunderstorm }} as needed to help group together the [Mawsworn Agonizers](https://shadowlands.wowhead.com/npc=177594/mawsworn-agonizer). On Mythic difficulty, you may opt to {{ site.data.spell.thunderstorm }} to knock away [Mawsworn Agonizers](https://shadowlands.wowhead.com/npc=177594/mawsworn-agonizer) or {{ site.data.spell.hex }} to control them, depending on vicinity to [Mawsworn Overlord](https://shadowlands.wowhead.com/npc=179177/mawsworn-overlord).
-* Use {{ site.data.spell.capacitor_totem }} to stun [Mawsworn Agonizers](https://shadowlands.wowhead.com/npc=177594/mawsworn-agonizer) as needed.
+* Use {{ site.data.talent.thunderstorm }} as needed to help group together the [Mawsworn Agonizers](https://shadowlands.wowhead.com/npc=177594/mawsworn-agonizer). On Mythic difficulty, you may opt to {{ site.data.talent.thunderstorm }} to knock away [Mawsworn Agonizers](https://shadowlands.wowhead.com/npc=177594/mawsworn-agonizer) or {{ site.data.talent.hex }} to control them, depending on vicinity to [Mawsworn Overlord](https://shadowlands.wowhead.com/npc=179177/mawsworn-overlord).
+* Use {{ site.data.talent.capacitor_totem }} to stun [Mawsworn Agonizers](https://shadowlands.wowhead.com/npc=177594/mawsworn-agonizer) as needed.
 * If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help your raid move to a safe position from [Torment](https://shadowlands.wowhead.com/spell=350217/torment) and [Tormented Eruptions](https://shadowlands.wowhead.com/spell=349985/tormented-eruptions).
 
 </div>
@@ -410,8 +410,8 @@ If you have suggestions to improve the information in this guide please contact 
 **Utilities:**
 
 * Interrupt [Anomalous Blast](https://shadowlands.wowhead.com/spell=353398/anomalous-blast) from [Fatespawn Anomaly](https://shadowlands.wowhead.com/npc=179010/fatespawn-anomaly) as needed.
-* Use {{ site.data.spell.capacitor_totem }} as needed to stun [Fatespawn Anomaly](https://shadowlands.wowhead.com/npc=179010/fatespawn-anomaly) and [Burden of Destiny](https://shadowlands.wowhead.com/spell=353432/burden-of-destiny).
-* Use {{ site.data.spell.thunderstorm }} as needed to group [Fatespawn Anomaly](https://shadowlands.wowhead.com/npc=179010/fatespawn-anomaly) or to create more distance from [Burden of Destiny](https://shadowlands.wowhead.com/spell=353432/burden-of-destiny).
+* Use {{ site.data.talent.capacitor_totem }} as needed to stun [Fatespawn Anomaly](https://shadowlands.wowhead.com/npc=179010/fatespawn-anomaly) and [Burden of Destiny](https://shadowlands.wowhead.com/spell=353432/burden-of-destiny).
+* Use {{ site.data.talent.thunderstorm }} as needed to group [Fatespawn Anomaly](https://shadowlands.wowhead.com/npc=179010/fatespawn-anomaly) or to create more distance from [Burden of Destiny](https://shadowlands.wowhead.com/spell=353432/burden-of-destiny).
 * If talented, use {{ site.data.talent.wind_rush_totem }} as needed to help your raid avoid [Fated Conjunction](https://shadowlands.wowhead.com/spell=350355/fated-conjunction).
 
 </div>
@@ -460,9 +460,9 @@ If you are assigned to the Phylactery realm, you may opt for {{ site.data.legend
 
 **Utilities:**
 
-* Rotate {{ site.data.spell.wind_shear }} and {{ site.data.spell.capacitor_totem }} to interrupt [Piercing Wail](https://shadowlands.wowhead.com/spell=348428/piercing-wail) from [Soul Shard](https://shadowlands.wowhead.com/spell=357275/soul-shard). {{ site.data.spell.eq }} can also knock down the [Soul Shard](https://shadowlands.wowhead.com/spell=357275/soul-shard) and interrupt [Piercing Wail](https://shadowlands.wowhead.com/spell=348428/piercing-wail), but don't rely on it.
+* Rotate {{ site.data.spell.wind_shear }} and {{ site.data.talent.capacitor_totem }} to interrupt [Piercing Wail](https://shadowlands.wowhead.com/spell=348428/piercing-wail) from [Soul Shard](https://shadowlands.wowhead.com/spell=357275/soul-shard). {{ site.data.spell.eq }} can also knock down the [Soul Shard](https://shadowlands.wowhead.com/spell=357275/soul-shard) and interrupt [Piercing Wail](https://shadowlands.wowhead.com/spell=348428/piercing-wail), but don't rely on it.
 * Interrupt [Banshee's Cry](https://shadowlands.wowhead.com/spell=352144/banshees-cry) from [Soul Reaver](https://shadowlands.wowhead.com/npc=180474/soul-reaver) as needed.
-* Use {{ site.data.spell.earthbind_totem }}, {{ site.data.spell.capacitor_totem }}, and {{ site.data.spell.thunderstorm }} as needed to control [Frostbound Devoted](https://shadowlands.wowhead.com/npc=180840/frostbound-devoted).
+* Use {{ site.data.spell.earthbind_totem }}, {{ site.data.talent.capacitor_totem }}, and {{ site.data.talent.thunderstorm }} as needed to control [Frostbound Devoted](https://shadowlands.wowhead.com/npc=180840/frostbound-devoted).
 * If assigned to Phylactery realm, use {{ site.data.talent.wind_rush_totem }} if talented to help your raid avoid [Shadow Fissure](https://shadowlands.wowhead.com/spell=355136/shadow-fissure).
 
 </div>

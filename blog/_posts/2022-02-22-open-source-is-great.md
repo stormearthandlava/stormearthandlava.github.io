@@ -53,7 +53,7 @@ Each body has a story. Reconstructing it is necessary to figure out how to fix t
 Now. Are you aware about spell ranks? E.g.:
 - {{ site.data.spell.lvb }} autocrit effect is the result of {{ site.data.spell.lvb_2 }}. Introduced in 7.2.0.
 - {{ site.data.spell.cl }} hitting 5 targets instead of its baseline 3 is the result of {{ site.data.spell.cl_2 }}. Introduced in 7.2.0.
-- {{ site.data.spell.fe }} doubling the duration of freshly applied {{ site.data.spell.fs }} is the result of {{ site.data.spell.fe_2 }}. Introduced in 9.0.1.
+- {{ site.data.talent.fe }} doubling the duration of freshly applied {{ site.data.spell.fs }} is the result of {{ site.data.spell.fe_2 }}. Introduced in 9.0.1.
 
 What if I told you {{ site.data.spell.lb }} has a Rank 2, too?
 - It does. {{ site.data.spell.lb_2 }}. Introduced in 9.0.1.

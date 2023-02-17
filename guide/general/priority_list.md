@@ -36,7 +36,7 @@ Kyrian | Venthyr | Night Fae | Necrolords
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
         <li class="pe-apl" style="display: none;"> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.eye_of_the_storm }} if no multi-target will happen soon. Make sure {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.eye_of_the_storm }}.</li>
-        <li> Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} on cooldown.</li>
+        <li> Cast {{ site.data.talent.fe }} / {{ site.data.talent.se }} on cooldown.</li>
         <li> Cast {{ site.data.spell.fs }} when any of the following are true:
             <ul>
                 <li>It is not active on the target.</li>
@@ -49,7 +49,7 @@ Kyrian | Venthyr | Night Fae | Necrolords
         <li> Cast {{ site.data.spell.es }} if your next cast would take you above 100 Maelstrom and fighting 1 target.  Note: if {{ site.data.legendary.ws }} is equipped and {{ site.data.talent.asc }} is active, you should avoid overcapping Maelstrom. </li>
         </li>
         <!-- covenant abilities -->
-        <li class="pw-apl" style="display: list-item;">Cast {{ site.data.spell.primordial_wave}} on a target without {{ site.data.spell.fs }} or the target with the lowest duration remaining. Delay it if adds are gonna spawn, if it doesn't lead to you losing a use.</li>
+        <li class="pw-apl" style="display: list-item;">Cast {{ site.data.talent.primordial_wave}} on a target without {{ site.data.spell.fs }} or the target with the lowest duration remaining. Delay it if adds are gonna spawn, if it doesn't lead to you losing a use.</li>
         <li class="vt-apl" style="display: none;">Cast {{ site.data.spell.vesper_totem}} on cooldown. </li>
         <li class="ft-apl" style="display: none;">Cast {{ site.data.spell.fae_transfusion}} on cooldown (buff it with {{site.data.talent.master_of_the_elements}} if talented into that). </li>
         <!-- covenant abilities end -->
@@ -69,7 +69,7 @@ Kyrian | Venthyr | Night Fae | Necrolords
         <li>Cast {{ site.data.spell.es }}. But read the <a href="#master-of-the-elements">special cases about delaying</a> {{ site.data.spell.es }} casts because of {{ site.data.talent.mote }}.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff and {{ site.data.talent.mote }} buff active.</li>
         <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.talent.asc }} is active.</li>
-        <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lvb }} with {{ site.data.talent.sop }} if you could get another use out of {{ site.data.talent.se }}/{{ site.data.spell.fe }} or lengthen its last possible duration within the fight.</li>
+        <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lvb }} with {{ site.data.talent.sop }} if you could get another use out of {{ site.data.talent.se }}/{{ site.data.talent.fe }} or lengthen its last possible duration within the fight.</li>
         <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lb }} with {{ site.data.talent.sop }} buff active.</li>
         <li>Cast {{site.data.spell.lvb }}.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff active.</li>
@@ -89,26 +89,26 @@ Kyrian | Venthyr | Night Fae | Necrolords
     <ol>
         <li class="ch-apl" style="display:none;">Cast {{ site.data.spell.chain_harvest }} on cooldown.</li>
         <li class="vt-apl" style="display:none;">Cast {{ site.data.spell.vesper_totem }} on cooldown.</li>
-        <li class="pw-apl">Cast {{ site.data.spell.primordial_wave }} on cooldown. Making sure to apply a fresh {{ site.data.spell.fs }} to a target if possible. See Special Mention below for furher information. </li>
+        <li class="pw-apl">Cast {{ site.data.talent.primordial_wave }} on cooldown. Making sure to apply a fresh {{ site.data.spell.fs }} to a target if possible. See Special Mention below for furher information. </li>
         <li> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.eye_of_the_storm }} against as many targets as possible. Make sure {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.eye_of_the_storm }}.</li>
-        <li>Cast {{ site.data.spell.fe }} / {{ site.data.talent.se }} on cooldown.</li>
+        <li>Cast {{ site.data.talent.fe }} / {{ site.data.talent.se }} on cooldown.</li>
         <li class="ft-apl" style="display:none;">Cast {{ site.data.spell.fae_transfusion }} on any number of targets when {{ site.data.legendary.night_fae }} is equipped.</li>
         <li class="sk-apl">Cast {{ site.data.talent.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
         <li>Maintain 3 {{ site.data.spell.fs }}s if there are 3 targets, maintain 1 if there are 4 or more and you're forced to move.</li>
         <li>Cast {{ site.data.spell.eq }} when available. (On less than 5 targets try gaming {{ site.data.talent.mote }}.)</li>
-        <li>Cast {{ site.data.spell.lvb }} to consume {{ site.data.spell.lava_surge }} procs when either less than 3 targets present, or when moving and more than 4 targets present</li>
+        <li>Cast {{ site.data.spell.lvb }} to consume {{ site.data.talent.lava_surge }} procs when either less than 3 targets present, or when moving and more than 4 targets present</li>
         <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} if there are 3 targets.</li>
         <li class="ft-apl" style="display:none;">Cast {{ site.data.spell.fae_transfusion }} on 2 targets or less when {{ site.data.legendary.night_fae }} is not equipped.</li>
         <li>Cast {{ site.data.spell.cl }}.</li>
     </ol>
 </div>
 
-**Special mention** When playing **Necrolord** in AoE scenarios with {{ site.data.legendary.necrolord }} active, you should attempt to increase the number of {{ site.data.spell.fs }} active shortly before {{ site.data.spell.primordial_wave }} is available and for the duration of the {{ site.data.spell.primordial_wave }} buff ensuring to cast {{ site.data.spell.lvb }} before it runs out! This is not maintained otherwise.
+**Special mention** When playing **Necrolord** in AoE scenarios with {{ site.data.legendary.necrolord }} active, you should attempt to increase the number of {{ site.data.spell.fs }} active shortly before {{ site.data.talent.primordial_wave }} is available and for the duration of the {{ site.data.talent.primordial_wave }} buff ensuring to cast {{ site.data.spell.lvb }} before it runs out! This is not maintained otherwise.
 
-**Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. It is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply {{ site.data.spell.fs }} to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier. 
+**Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. It is generally worth using {{ site.data.talent.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply {{ site.data.spell.fs }} to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.talent.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier. 
 
-**Special mention** When {{ site.data.item.t28_4 }} is active using {{ site.data.spell.lvs }} procs in AoE becomes DPS neutral, this does assume that you will benefit from the extra duration provided however so the default behaviour remains the same as above - use {{ site.data.spell.lvs }} when you are forced to move, no active {{ site.data.spell.fs }} is required but it remains an excellent movement global when no {{ site.data.spell.ls }} is active!
+**Special mention** When {{ site.data.item.t28_4 }} is active using {{ site.data.talent.lvs }} procs in AoE becomes DPS neutral, this does assume that you will benefit from the extra duration provided however so the default behaviour remains the same as above - use {{ site.data.talent.lvs }} when you are forced to move, no active {{ site.data.spell.fs }} is required but it remains an excellent movement global when no {{ site.data.spell.ls }} is active!
 ## Openers
 ---
 
@@ -200,7 +200,7 @@ If you are using {{ site.data.talent.eb }}:
     <div class="arrow"></div>...
 </div>
 
-If you are using {{ site.data.talent.eb }} and {{ site.data.spell.primordial_wave }}:
+If you are using {{ site.data.talent.eb }} and {{ site.data.talent.primordial_wave }}:
 
 <div class="opener">
     <div class="skill sk"><span>SK</span></div>
@@ -320,7 +320,7 @@ No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if 
 
 > "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
 
-The change to {{ site.data.spell.wind_gust }} stacks means {{ site.data.spell.lvb }} is always stronger than {{ site.data.spell.lb }}, this means {{ site.data.talent.se }} does not interfere with the standard rotational priority at all in Single Target. In AoE with active {{ site.data.item.t28_4 }} using {{ site.data.spell.lvs }} procs even without an {{ site.data.spell.fs }} active is dps neutral so is an excellent movement global. See priority list and Special mentions above for more information.
+The change to {{ site.data.spell.wind_gust }} stacks means {{ site.data.spell.lvb }} is always stronger than {{ site.data.spell.lb }}, this means {{ site.data.talent.se }} does not interfere with the standard rotational priority at all in Single Target. In AoE with active {{ site.data.item.t28_4 }} using {{ site.data.talent.lvs }} procs even without an {{ site.data.spell.fs }} active is dps neutral so is an excellent movement global. See priority list and Special mentions above for more information.
 
 > "I should only cast {{ site.data.spell.es }} in single target or {{ site.data.spell.eq }} in high aoe counts even with  {{ site.data.legendary.eogs }} equipped!"
 
