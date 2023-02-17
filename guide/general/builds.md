@@ -29,8 +29,17 @@ This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data
 As the name suggests this is predominately aimed at single target but due to taking {{ site.data.talent.lvs }}, {{ site.data.talent.magma_chamber }} and {{ site.data.talent.pw }} it will naturally benefit from a couple of additional targets.
 
 # What does it look like?
+
+## PSurge WLR with EEq
+{{ site.data.talent.eeq }} is *usually* the best single point to get for a Single Target fight. Be sure to sim for your best option.
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAgUSpUSCAJlkUoElUSCRAAAAAAQJApkECJFiUSSSLEQAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSShSUikQEAAAAAAUCQKJBNRBSJJJtAQCJB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
+
+## PSurge WLR with LMT
+{{ site.data.talent.lmt }} can be used on fight with some adds to gain some cleave but where the only thing that matters is Single Target (such as Sennarth).
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJAKJBEFIlkk0SJAJkEA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 # Stats
@@ -53,6 +62,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Due to elements like {{ site.data.talent.ps }} and its supporting talents you should continue to utilise {{ site.data.talent.lvs }} procs even if you end up facing multiple targets.
  - {{ site.data.spell.eq }} replaces {{ site.data.talent.eb }} at 4 or more targets.
  - {{ site.data.talent.dre }} procs do not impact rotation priority and should be read the same regardless. In practice this means 'filler' spells like {{ site.data.talent.if }} and buffed {{ site.data.spell.frs }} are eliminated when {{ site.data.talent.dre }} procs happen *unless you have to move* because {{ site.data.spell.lvb }} will always be available during them. You will also continue to spend maelstrom on {{ site.data.talent.eb }} as usual.
+ - If talented, use {{ site.data.talent.lmt }} on CD if no adds are going to spawn soon.
 
 ## Opener
 Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
@@ -74,7 +84,7 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active, even if this would make you overcap maelstrom!
  - {{ site.data.talent.eb }} if you have {{ site.data.spell.lvb }} on at least one charge, preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.frs }} if you have {{ site.data.talent.if }} buff active
  - {{ site.data.talent.icefury }}
  - {{ site.data.spell.lb }}
@@ -86,7 +96,7 @@ If you find yourself using this build on 2 or more targets it is less than ideal
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.talent.eb }} if you have {{ site.data.spell.lvb }} on at least one charge, preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 ## 3 Target Priority
@@ -96,7 +106,7 @@ If you find yourself using this build on 3 or more targets it is less than ideal
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.talent.eb }} if you have {{ site.data.spell.lvb }} on at least one charge, preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 ## 4 Target Priority
@@ -106,7 +116,7 @@ If you find yourself using this build on 4 or more targets it is less than ideal
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 ## 5+ Target Priority
@@ -116,7 +126,7 @@ If you find yourself using this build on 5 or more targets it is less than ideal
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 </div>
@@ -136,16 +146,25 @@ This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data
 As this build takes {{ site.data.talent.dre }} and extends to {{ site.data.talent.fb }} a fair amount of its power comes from maximising {{ site.data.spell.lvb }} usage, particularly {{ site.data.talent.lvs }}, to have the most chances at gambling {{ site.data.talent.dre }} which {{ site.data.talent.ps }} naturally assists with.
 
 # What does it look like?
+
+## PSurge FB with EEq
+{{ site.data.talent.eeq }} is *usually* the best single point to get for a Single Target fight. Be sure to sim for your best option.
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAgUSpUSCAJlkUSKBlkQEAAAAAAUCQKJhQShIlkk0CBEAB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-  </div>
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSSJpEIJEBAAAAAAlAkSSQTUgUSSSLAkQSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
+
+## PSurge FB with LMT
+{{ site.data.talent.lmt }} can be used on fight with some adds to gain some cleave but where the only thing that matters is Single Target (such as Sennarth).
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUSKBtkQEAAAAAAUCgSSARBSJJJtUCQCJB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
 
 # Stats
 
 ## Always remember to sim your current options appropriately
  - [Raidbots](https://www.raidbots.com/simbot/topgear)
  - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/2023-01-02-simming.md %})
-  
+
 ## Simplified
 This is quick and dirty, your sims will take priority in your gearing process.
  - Haste >> Mastery > Versatility = Crit
@@ -159,8 +178,9 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - {{ site.data.talent.if }} and {{ site.data.spell.frs}} become movement-enabling globals when more than one target is present.
  - Due to elements like {{ site.data.talent.ps }} and {{ site.data.talent.dre }} with its supporting talents you should continue to utilise {{ site.data.talent.lvs }} procs even if you end up facing multiple targets.
  - {{ site.data.spell.eq }} replaces {{ site.data.talent.eb }} at 4 or more targets.
- - {{ site.data.spell.lvbm }} replaces {{ site.data.spell.lvb }} at 4 or more targets. 
+ - {{ site.data.spell.lvbm }} replaces {{ site.data.spell.lvb }} at 4 or more targets.
  - {{ site.data.talent.fb }} makes you value maelstrom generation very highly during aoe, which displaces regular {{ site.data.spell.lvb }} casts entirely at 4+ targets. This is predominately a single-target build so AoE is not its main function.
+ - If talented, use {{ site.data.talent.lmt }} on CD if no adds are going to spawn soon.
 
 ## Opener
 Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
@@ -183,12 +203,12 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active, even if this would make you overcap maelstrom!
  - {{ site.data.talent.eb }} if you have {{ site.data.talent.dre }} proc active to extend duration
  - {{ site.data.talent.eb }} if you are approaching ~135 maelstrom after your current cast to avoid overcapping
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.frs }} if you have {{ site.data.talent.if }} buff active
  - {{ site.data.talent.icefury }}
  - {{ site.data.spell.lb }}
     *  {{ site.data.talent.eb }} is only listed when {{ site.data.talent.dre }} proc or maelstrom overcap would happen because you want to enter these procs with as high maelstrom as possible due to {{ site.data.talent.fb }}, in an ideal world you would only spend during {{ site.data.talent.dre }} procs but inevitably you will need to avoid overcapping outside of these procs as well.
-  
+
 ## 2 Target Priority
 If you find yourself using this build on 2 or more targets it is less than ideal.
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
@@ -197,7 +217,7 @@ If you find yourself using this build on 2 or more targets it is less than ideal
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.talent.eb }} if you have {{ site.data.talent.dre }} proc active to extend duration
  - {{ site.data.talent.eb }} if you are approaching ~135 maelstrom after your current cast to avoid overcapping
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
  - {{ site.data.spell.frs }} if you have {{ site.data.talent.if }} buff active *and* need to move
  - {{ site.data.talent.if }} if you expect to move soon and {{ site.data.talent.swg }} is not available, otherwise do not use.
@@ -210,7 +230,7 @@ If you find yourself using this build on 3 or more targets it is less than ideal
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.talent.eb }} if you have {{ site.data.talent.dre }} proc active to extend duration
  - {{ site.data.talent.eb }} if you are approaching ~135 maelstrom after your current cast to avoid overcapping
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 ## 4 Target Priority
@@ -220,7 +240,7 @@ If you find yourself using this build on 4 or more targets it is less than ideal
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvbm }} if {{ site.data.talent.dre }} proc is active and you will finish the cast 
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.dre }} proc is active and you will finish the cast
  - {{ site.data.spell.cl }}
 
 ## 5+ Target Priority
@@ -230,7 +250,7 @@ If you find yourself using this build on 5 or more targets it is less than ideal
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvbm }} if {{ site.data.talent.dre }} proc is active and you will finish the cast 
+ - {{ site.data.spell.lvbm }} if {{ site.data.talent.dre }} proc is active and you will finish the cast
  - {{ site.data.spell.cl }}
 
 </div>
@@ -250,9 +270,18 @@ This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data
 This build effectively swaps {{ site.data.talent.wlr }} or {{ site.data.talent.fb }} for {{ site.data.talent.mwf }}, which reduces the perceived complexity from this build allowing you to focus more completely on the {{ site.data.talent.lvs }} provided by {{ site.data.talent.ps }} and effective spending of maelstrom.
 
 # What does it look like?
+
+## PSurge WLR with EEq
+{{ site.data.talent.eeq }} is *usually* the best single point to get for a Single Target fight. Be sure to sim for your best option.
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAgUSpUSCAJlkUoEUSSSEAAAAAAUCQKJhQShIlkk0CBEAB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-  </div>
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSShSgkkEBAAAAAAlAkSSQTUgUSSSLAkQSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
+
+## PSurge WLR with LMT
+{{ site.data.talent.lmt }} can be used on fight with some adds to gain some cleave but where the only thing that matters is Single Target (such as Sennarth).
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoE0SSSEAAAAAAUCgSSARBSJJJtUCQCJB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
 
 # Stats
 
@@ -273,6 +302,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Due to elements like {{ site.data.talent.ps }} and {{ site.data.talent.dre }} with its supporting talents you should continue to utilise {{ site.data.talent.lvs }} procs even if you end up facing multiple targets.
  - {{ site.data.spell.eq }} replaces {{ site.data.talent.eb }} at 4 or more targets.
  - {{ site.data.talent.dre }} procs do not impact rotation priority and should be read the same regardless. In practice this means 'filler' spells like {{ site.data.talent.if }} and buffed {{ site.data.spell.frs }} are eliminated when {{ site.data.talent.dre }} procs happen *unless you have to move* because {{ site.data.spell.lvb }} will always be available during them. You will also continue to spend maelstrom on {{ site.data.talent.eb }} as usual.
+ - If talented, use {{ site.data.talent.lmt }} on CD if no adds are going to spawn soon.
 
 ## Opener
 Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
@@ -294,11 +324,11 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active, even if this would make you overcap maelstrom!
  - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.frs }} if you have {{ site.data.talent.if }} buff active
  - {{ site.data.talent.icefury }}
  - {{ site.data.spell.lb }}
-  
+
 ## 2 Target Priority
 If you find yourself using this build on 2 or more targets it is less than ideal.
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
@@ -306,7 +336,7 @@ If you find yourself using this build on 2 or more targets it is less than ideal
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
  - {{ site.data.spell.frs }} if you have {{ site.data.talent.if }} buff active *and* need to move
  - {{ site.data.spell.if }} if you expect to move soon and {{ site.data.talent.swg }} is not available, otherwise do not use.
@@ -318,7 +348,7 @@ If you find yourself using this build on 3 or more targets it is less than ideal
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 ## 4 Target Priority
@@ -363,25 +393,30 @@ Predominately aimed at M+ content these build variants focus on the power of {{ 
 
 # What does this build do?
 
-We heard you like {{ site.data.spell.fs }} and {{ site.data.talent.lvs }} so this build is entirely committed to the idea of maintaining {{ site.data.spell.fs }} on multiple targets and utilising all the benefits associated with consuming {{ site.data.talent.lvs }}. 
+We heard you like {{ site.data.spell.fs }} and {{ site.data.talent.lvs }} so this build is entirely committed to the idea of maintaining {{ site.data.spell.fs }} on multiple targets and utilising all the benefits associated with consuming {{ site.data.talent.lvs }}.
 
 Staples of wildfire as a M+ include {{ site.data.talent.sfd }}, {{ site.data.talent.splinter }}, {{ site.data.talent.sk }}. There are more swaps you could make within this archetype like {{ site.data.talent.sop }} swapped for {{ site.data.talent.afs }} which significantly simplifies your perceived gameplay, but in reality is weaker in most ways so all the variants below use {{ site.data.talent.sop }}.
 
 # What does it look like?
+
+There are multiple possible variants of this build that do not include rotational priority changes, these will all play similarly and you can choose between them based on personal preference and/or sim results. The four linked below are, at least in my opinion, the 'standard' setups with one taking {{ site.data.talent.imp_ftw }} with {{ site.data.talent.potm }} another opting to go for {{ site.data.talent.flow_of_power }} and {{ site.data.talent.swelling_maelstrom }} and one simply taking {{ site.data.talent.searing_flames }} instead of {{ site.data.talent.echo_chamber }}
+
+## Wildfire with Echo Chamber
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAg0SpIJlkACSjS0SLJOQOAAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
+## Wildfire with Swerling Maelstrom
+More Maelstrom
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSSJJgQSjS0STCRAAAAAAQJApkECJFIlQSTJBEkEB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
-  
+
+## Wildfire with Searing Flames
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpIJlkACSjSOQLtkQOAAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
-  
-Note: There are multiple possible variants of this build that do not include rotational priority changes, these will all play similarly and you can choose between them based on personal preference and/or sim results. The three linked above are, at least in my opinion, the 'standard' setups with one taking {{ site.data.talent.imp_ftw }} with {{ site.data.talent.potm }} another opting to go for {{ site.data.talent.flow_of_power }} and {{ site.data.talent.swelling_maelstrom }}, and one simply taking {{ site.data.talent.searing_flames }} instead of {{ site.data.talent.echo_chamber }}.
-  
+
 # Stats
 
 ## Always remember to sim your current options appropriately
@@ -436,12 +471,12 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.dre }} proc is active. Note: if you have to move you will still cast {{ site.data.spell.es }} as below, and continue to follow the priorities above!
  - {{ site.data.spell.es }} preferably with {{ site.data.talent.mote }} buff active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.lb }}
  - Refresh {{ site.data.spell.fs }} or cast {{ site.data.spell.frs }} when moving
-  
+
   Note: You do not play around {{ site.data.talent.potm }} procs in single target.
-  
+
 ## 2 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on both targets at all times, don't forget {{ site.data.talent.pw }} applies one!
@@ -452,7 +487,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} buff is active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 ## 3-5 Target Priority
@@ -466,7 +501,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 ## 6+ Target Priority
@@ -474,14 +509,14 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
  - {{ site.data.talent.sk }} if it is available and you have at least enough maelstrom to cast {{ site.data.spell.eq }} after to {{ site.data.talent.sop }} buff the charges!
  - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} when {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.sop }} buff
- - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} buff is active 
+ - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} buff is active
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 </div>
@@ -509,10 +544,10 @@ Staples of wildfire as a M+ include {{ site.data.talent.sfd }}, {{ site.data.tal
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSSJJQCJNKRLkQEAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
-  
-Note: There are multiple possible variants of this build that do not include rotational priority changes, these will all play similarly and you can choose between them based on personal preference and/or sim results. The two variants shown above are, in my opinion, the 'standard' ways to include it in a Wildfire setup - this is not the only way. The structure is similar to the variants without {{ site.data.talent.eb }} so learning how it changes the rotation is the only real barrier. 
+
+Note: There are multiple possible variants of this build that do not include rotational priority changes, these will all play similarly and you can choose between them based on personal preference and/or sim results. The two variants shown above are, in my opinion, the 'standard' ways to include it in a Wildfire setup - this is not the only way. The structure is similar to the variants without {{ site.data.talent.eb }} so learning how it changes the rotation is the only real barrier.
 You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
-  
+
 # Stats
 
 ## Always remember to sim your current options appropriately
@@ -551,7 +586,7 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
     <div class="skill pw"><span>PW</span></div>
     <div class="arrow"></div>...
 </div>
-  
+
 AoE openers are less rigid than boss openers. Keep in mind that these will change simply based by what cooldowns you have available on a pull-by-pull basis and you should aim to maximise the value from what is available at that time. Here are some general rules:
    - Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
    - Though spreading {{ site.data.spell.fs }} to multiple targets is good, it should not be viewed as a requirement to reach 6 before doing damage in all cases. In cases where you have {{ site.data.talent.lmt }} and {{ site.data.talent.totemic_recall }} available, this is quite achieveable, in cases where you don't you should be prepared to trigger {{ site.data.talent.splinter }}'s effect with 4-5 targets. If you have maelstrom left from a previous pack (and you should!) this process becomes more fluid and you can spread {{ site.data.spell.fs }} whilst the tank is gathering mobs.
@@ -569,12 +604,12 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active, to avoid overcapping
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.dre }} proc is active.
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.lb }}
  - Refresh {{ site.data.spell.fs }} or cast {{ site.data.spell.frs }} when moving
-  
+
   Note: You do not play around {{ site.data.talent.potm }} procs in single target.
-  
+
 ## 2 Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on both targets at all times, don't forget {{ site.data.talent.pw }} applies one!
@@ -587,7 +622,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active, to avoid overcapping
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} buff is active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 ## 3 Target Priority
@@ -602,7 +637,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 ## 4 Target Priority
@@ -617,7 +652,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 ## 5+ Target Priority
@@ -632,23 +667,23 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
-  
+
 ## 6+ Target Priority
  - {{ site.data.talent.fe }} if it is available and there is no reason to hold its use.
  - Maintain {{ site.data.spell.fs }} on all targets at all times, don't forget {{ site.data.talent.pw }} applies one!
  - {{ site.data.talent.lmt }} if it is available and no additional targets soon
  - {{ site.data.talent.sk }} if it is available and you have at least enough maelstrom to cast {{ site.data.spell.eq }} after to {{ site.data.talent.sop }} buff the charges!
  - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} when {{ site.data.talent.sk }} buff is active, preferably with {{ site.data.talent.sop }} buff
- - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} buff is active 
+ - {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} if {{ site.data.talent.sop }} buff is active
  - {{ site.data.talent.pw }} if it is available
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
- - {{ site.data.spell.lvb }} 
+ - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
 </div>
@@ -662,7 +697,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 
 
 # Lightning Builds
-  
+
 Exactly what it says on the tin, for the friends with a penchant for Lightning! Lightning offers a great way to cater to multiple damage profiles, rarely sacrificing single target for aoe. It also plays differently to the fire builds, placing much more emphasis on {{ site.data.spell.cl }} to generate quickly at high target counts.
 
 <div class="accordion dungeon-accordion" id="accordion-lightning">
@@ -681,13 +716,13 @@ This build focuses on the power of {{ site.data.spell.lb }}, {{ site.data.spell.
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAAoVSSJJSJJtENE0QiEAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
-  
-Note: 
+
+Note:
   - You can build this without {{ site.data.talent.eb }} instead taking {{ site.data.talent.fol }}, if you do not like {{ site.data.talent.eb }}.
   - You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
   - {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target.
   - You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favour of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
-  
+
 # Stats
 
 ## Always remember to sim your current options appropriately
@@ -725,7 +760,7 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
     <div class="skill lb"><span>LB</span></div>
     <div class="arrow"></div>...
 </div>
-  
+
 AoE openers are less rigid than boss openers. Keep in mind that these will change simply based by what cooldowns you have available on a pull-by-pull basis and you should aim to maximise the value from what is available at that time. Here are some general rules:
    - {{ site.data.talent.lr }} is a rather significant buff to your aoe burst via {{ site.data.talent.sk }}, where possible try to ensure at least one {{ site.data.talent.lr }} buff is running on a target prior to using {{ site.data.talent.sk }} charges!
    - Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
@@ -744,11 +779,11 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lvb }} if you have 63 or more maelstrom and {{ site.data.talent.mote }} buff is *not* active
  - {{ site.data.talent.eb }} if {{ site.data.talent.mote }} buff is active
  - {{ site.data.spell.lb }}
-  
-  Note: 
+
+  Note:
  - You do not play around {{ site.data.talent.potm }} procs in single target.
  - You do not play around {{ site.data.talent.eogs }} buffs in single target.
-  
+
 ## 2 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
  - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
@@ -763,14 +798,14 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lvb }} if you have 63 or more maelstrom, {{ site.data.talent.eogs }} and {{ site.data.talent.mote }} buffs are not active
  - {{ site.data.talent.eb }} if {{ site.data.talent.mote }} buff is active and {{ site.data.talent.eogs }} is not
  - {{ site.data.spell.cl }}
-  
-  Note: 
+
+  Note:
  - Playing around {{ site.data.talent.potm }} procs is dps neutral, but generally it will be easier and less likely to negatively impact your performance if you ignore them - sometimes you will get lucky and have one during your {{ site.data.talent.sk }} burst though!
 
 ## 3 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
  - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
- - {{ site.data.talent.sk }} if it is available and no additional targets soon. 
+ - {{ site.data.talent.sk }} if it is available and no additional targets soon.
  - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
@@ -780,7 +815,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 ## 4 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
  - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
- - {{ site.data.talent.sk }} if it is available and no additional targets soon. 
+ - {{ site.data.talent.sk }} if it is available and no additional targets soon.
  - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.spell.cl }}
@@ -788,12 +823,12 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 ## 5+ Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
  - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
- - {{ site.data.talent.sk }} if it is available and no additional targets soon. 
+ - {{ site.data.talent.sk }} if it is available and no additional targets soon.
  - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.spell.cl }}
-  
-  
+
+
 ## 6+ Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
  - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
@@ -802,7 +837,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.spell.cl }}
-  
+
 
 </div>
 </div>
@@ -824,13 +859,13 @@ This build focuses on the power of {{ site.data.spell.lb }}, {{ site.data.spell.
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlk0S0Q0SD4ABAAAAAAlAkSSIkUgUCJNlEQQSE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
-  
-Note: 
+
+Note:
  - You can build this without {{ site.data.talent.eb }} instead taking {{ site.data.talent.searing_flames }}, {{ site.data.talent.pw }} or even {{ site.data.talent.eote }} (to improve its 1-2 target profile).
  - You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
  - {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target. Whilst this build does utilise more {{ site.data.spell.fs }} than other Lightning variants it will generally not be worthwhile to run {{ site.data.talent.pe }} simply because it is opportunity costed against {{ site.data.talent.lmt }}.
  - You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favour of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
-  
+
 # Stats
 
 ## Always remember to sim your current options appropriately
@@ -868,7 +903,7 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
     <div class="skill lb"><span>LB</span></div>
     <div class="arrow"></div>...
 </div>
-  
+
 AoE openers are less rigid than boss openers. Keep in mind that these will change simply based by what cooldowns you have available on a pull-by-pull basis and you should aim to maximise the value from what is available at that time. Here are some general rules:
    - {{ site.data.talent.lr }} is a rather significant buff to your aoe burst via {{ site.data.talent.sk }}, where possible try to ensure at least one {{ site.data.talent.lr }} buff is running on a target prior to using {{ site.data.talent.sk }} charges!
    - Pool maelstrom at the end of a current pull to have resources available at the start of the next pull, this dramatically improves the consistent performance from pull-to-pull and eases the feeling of 'ramp' time in the rotation.
@@ -887,11 +922,11 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lvb }} if you have 63 or more maelstrom and {{ site.data.talent.mote }} buff is *not* active
  - {{ site.data.talent.eb }} if {{ site.data.talent.mote }} buff is active
  - {{ site.data.spell.lb }}
-  
-  Note: 
+
+  Note:
  - You do not play around {{ site.data.talent.potm }} procs in single target.
  - You do not play around {{ site.data.talent.eogs }} buffs in single target.
-  
+
 ## 2 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
  - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
@@ -906,8 +941,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lvb }} if you have 63 or more maelstrom, {{ site.data.talent.eogs }} and {{ site.data.talent.mote }} buffs are not active
  - {{ site.data.talent.eb }} if {{ site.data.talent.mote }} buff is active and {{ site.data.talent.eogs }} is not
  - {{ site.data.spell.cl }}
-  
-  Note: 
+
+  Note:
  - Playing around {{ site.data.talent.potm }} procs is dps neutral, but generally it will be easier and less likely to negatively impact your performance if you ignore them - sometimes you will get lucky and have one during your {{ site.data.talent.sk }} burst though!
 
 ## 3 Target Priority
@@ -920,21 +955,21 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.talent.if }}
  - {{ site.data.spell.cl }}
-  
- Note: 
+
+ Note:
  - {{ site.data.spell.fs }} maintenance is dps neutral on 3 targets, and only when {{ site.data.talent.sop }} buffs are utitlised for it - the opportunity cost of not casting {{ site.data.talent.if }} buffed {{ site.data.spell.frs }} or {{ site.data.spell.cl }} is high!
 
 ## 4 Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
  - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
- - {{ site.data.talent.sk }} if it is available and no additional targets soon. 
- - {{ site.data.spell.fs }} if {{ site.data.talent.sop }} buff is up and you can refresh/apply two 
+ - {{ site.data.talent.sk }} if it is available and no additional targets soon.
+ - {{ site.data.spell.fs }} if {{ site.data.talent.sop }} buff is up and you can refresh/apply two
  - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.spell.cl }}
-  
+
   Note:
- - {{ site.data.talent.if }} becomes a dps loss at 4 or more targets, you can use it when you know movement will be needed and it serves as a reduction in loss incurred by movement. Try to utilise {{ site.data.talent.swg }} where possible. 
+ - {{ site.data.talent.if }} becomes a dps loss at 4 or more targets, you can use it when you know movement will be needed and it serves as a reduction in loss incurred by movement. Try to utilise {{ site.data.talent.swg }} where possible.
 
 ## 5+ Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
@@ -944,7 +979,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.spell.cl }}
-  
+
 ## 6+ Target Priority
  - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
  - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
@@ -953,10 +988,10 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.eq }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.talent.eb }} if {{ site.data.talent.eogs }} buff is active
  - {{ site.data.spell.cl }}
- 
-Note: 
- - At these target counts ignoring {{ site.data.spell.fs }} was better than playing around it, given {{ site.data.talent.sop }} buffs are far stronger with {{ site.data.spell.cl }} - rely on {{ site.data.talent.lmt }} and movement globals to apply {{ site.data.spell.fs }}. 
-  
+
+Note:
+ - At these target counts ignoring {{ site.data.spell.fs }} was better than playing around it, given {{ site.data.talent.sop }} buffs are far stronger with {{ site.data.spell.cl }} - rely on {{ site.data.talent.lmt }} and movement globals to apply {{ site.data.spell.fs }}.
+
 </div>
 </div>
 </div>
