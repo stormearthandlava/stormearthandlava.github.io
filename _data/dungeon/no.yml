@@ -1,0 +1,116 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## The Nokhud Offensive
+# Granyth Trash
+nokhud_longbow: <a href="https://www.wowhead.com/npc=192789/nokhud-longbow" target="blank">Nokhud Longbow</a>
+rain_of_arrows: <a href="https://www.wowhead.com/spell=384476/rain-of-arrows" target="blank">Rain of Arrows</a>
+multi_shot: <a href="https://www.wowhead.com/spell=384868/multi-shot" target="blank">Multi-Shot</a>
+nokhud_warspear: <a href="https://www.wowhead.com/npc=192791/nokhud-warspear" target="blank">Nokhud Warspear</a>
+pierce: <a href="https://www.wowhead.com/spell=384134/pierce" target="blank">Pierce</a>
+nokhud_hornsounder: <a href="https://www.wowhead.com/npc=192796/nokhud-hornsounder" target="blank">Nokhud Hornsounder</a>
+rally_the_clan: <a href="https://www.wowhead.com/spell=383823/rally-the-clan" target="blank">Rally the Clan</a>
+nokhud_lancemaster: <a href="https://www.wowhead.com/npc=192800/nokhud-lancemaster" target="blank">Nokhud Lancemaster</a>
+cleaving_strikes: <a href="https://www.wowhead.com/spell=384510/cleaving-strikes" target="blank">Cleaving Strikes</a>
+war_stomp: <a href="https://www.wowhead.com/spell=384336/war-stomp" target="blank">War Stomp</a>
+disruptive_shout: <a href="https://www.wowhead.com/spell=384365/disruptive-shout" target="blank">Disruptive Shout</a>
+
+# Granyth
+granyth: <a href="https://www.wowhead.com/npc=186616/granyth" target="blank">Granyth</a>
+shards_of_stone: <a href="https://www.wowhead.com/spell=388817/shards-of-stone" target="blank">Shards of Stone</a>
+tectonic_stomp: <a href="https://www.wowhead.com/spell=385916/tectonic-stomp" target="blank">Tectonic Stomp</a>
+eruption: <a href="https://www.wowhead.com/spell=388283/eruption" target="blank">Eruption</a>
+dragonkiller_lance: <a href="https://www.wowhead.com/spell=386530/dragonkiller-lance" target="blank">Dragonkiller Lance</a>
+nokhud_saboteur: <a href="https://www.wowhead.com/npc=195821/nokhud-saboteur" target="blank">Nokhud Saboteur</a>
+dismantle: <a href="https://www.wowhead.com/spell=386490/dismantle" target="blank">Dismantle</a>
+
+# The Raging Tempest Trash
+primalist_stormspeaker: <a href="https://www.wowhead.com/npc=194894/primalist-stormspeaker" target="blank">Primalist Stormspeaker</a>
+stormbolt: <a href="https://www.wowhead.com/spell=386012/stormbolt" target="blank">Stormbolt</a>
+tempest: <a href="https://www.wowhead.com/spell=386024/tempest" target="blank">Tempest</a>
+primalist_thunderbeast: <a href="https://www.wowhead.com/npc=195696/primalist-thunderbeast" target="blank">Primalist Thunderbeast</a>
+chain_lightning: <a href="https://www.wowhead.com/spell=387127/chain-lightning" target="blank">Chain Lightning</a>
+thunder_clap: <a href="https://www.wowhead.com/spell=386028/thunder-clap" target="blank">Thunder Clap</a>
+primal_stormshield: <a href="https://www.wowhead.com/npc=194896/primal-stormshield" target="blank">Primal Stormshield</a>
+stormshield: <a href="https://www.wowhead.com/spell=386223/stormshield" target="blank">Stormshield</a>
+primalist_arcblade: <a href="https://www.wowhead.com/npc=194898/primalist-arcblade" target="blank">Primalist Arcblade</a>
+arcing_strike: <a href="https://www.wowhead.com/spell=387135/arcing-strike" target="blank">Arcing Strike</a>
+stormcaller_boroo: <a href="https://www.wowhead.com/npc=194317/stormcaller-boroo" target="blank">Stormcaller Boroo</a>
+stormcaller_arynga: <a href="https://www.wowhead.com/npc=195265/stormcaller-arynga" target="blank">Stormcaller Arynga</a>
+stormcaller_solongo: <a href="https://www.wowhead.com/npc=194315/stormcaller-solongo" target="blank">Stormcaller Solongo</a>
+stormcaller_zarii: <a href="https://www.wowhead.com/npc=194316/stormcaller-zarii" target="blank">Stormcaller Zarii</a>
+totemic_overload: <a href="https://www.wowhead.com/spell=387145/totemic-overload" target="blank">Totemic Overload</a>
+stormsurge_totem: <a href="https://www.wowhead.com/npc=194897/stormsurge-totem" target="blank">Stormsurge Totem</a>
+
+# The Raging Tempest
+the_raging_tempest: <a href="https://www.wowhead.com/npc=186615/the-raging-tempest" target="blank">The Raging Tempest</a>
+electrical_storm: <a href="https://www.wowhead.com/spell=384620/electrical-storm" target="blank">Electrical Storm</a>
+energy_surge: <a href="https://www.wowhead.com/spell=384686/energy-surge" target="blank">Energy Surge</a>
+lightning_strike: <a href="https://www.wowhead.com/spell=384316/lightning-strike" target="blank">Lightning Strike</a>
+electrical_overload: <a href="https://www.wowhead.com/spell=391967/electrical-overload" target="blank">Electrical Overload</a>
+the_raging_tempest_aoe: <a href="https://www.wowhead.com/spell=386916/the-raging-tempest" target="blank">The Raging Tempest</a>
+uncontrollable_energy: <a href="https://www.wowhead.com/spell=382630/uncontrollable-energy" target="blank">Uncontrollable Energy</a>
+wind_burst: <a href="https://www.wowhead.com/spell=384761/wind-burst" target="blank">Wind Burst</a>
+
+# Teera and Maruuk Trash
+soulharvester_duuren: <a href="https://www.wowhead.com/npc=195928/soulharvester-duuren" target="blank">Soulharvester Duuren</a>
+soulharvester_galtmaa: <a href="https://www.wowhead.com/npc=195927/soulharvester-galtmaa" target="blank">Soulharvester Galtmaa</a>
+soulharvester_tumen: <a href="https://www.wowhead.com/npc=195929/soulharvester-tumen" target="blank">Soulharvester Tumen</a>
+soulharvester_mandakh: <a href="https://www.wowhead.com/npc=195930/soulharvester-mandakh" target="blank">Soulharvester Mandakh</a>
+death_bolt_volley: <a href="https://www.wowhead.com/spell=387411/death-bolt-volley" target="blank">Death Bolt Volley</a>
+shatter_soul: <a href="https://www.wowhead.com/spell=395035/shatter-soul" target="blank">Shatter Soul</a>
+ukhel_deathspeaker: <a href="https://www.wowhead.com/npc=195851/ukhel-deathspeaker" target="blank">Ukhel Deathspeaker</a>
+chant_of_the_dead: <a href="https://www.wowhead.com/spell=387614/chant-of-the-dead" target="blank">Chant of the Dead</a>
+ukhel_beastcaller: <a href="https://www.wowhead.com/npc=195878/ukhel-beastcaller" target="blank">Ukhel Beastcaller</a>
+heavy_slash: <a href="https://www.wowhead.com/spell=387826/heavy-slash" target="blank">Heavy Slash</a>
+desecrating_roar: <a href="https://www.wowhead.com/spell=387440/desecrating-roar" target="blank">Desecrating Roar</a>
+ukhel_corruptor: <a href="https://www.wowhead.com/npc=195842/ukhel-corruptor" target="blank">Ukhel Corruptor</a>
+death_bolt: <a href="https://www.wowhead.com/spell=387613/death-bolt" target="blank">Death Bolt</a>
+necrotic_eruption: <a href="https://www.wowhead.com/spell=387608/necrotic-eruption" target="blank">Necrotic Eruption</a>
+ukhel_willcrusher: <a href="https://www.wowhead.com/npc=195847/ukhel-willcrusher" target="blank">Ukhel Willcrusher</a>
+desecrated_ohuna: <a href="https://www.wowhead.com/npc=195876/desecrated-ohuna" target="blank">Desecrated Ohuna</a>
+rotting_wind: <a href="https://www.wowhead.com/spell=387629/rotting-wind" target="blank">Rotting Wind</a>
+
+# Teera and Maruuk
+teera: <a href="https://www.wowhead.com/npc=195723/teera" target="blank">Teera</a>
+maruuk: <a href="https://www.wowhead.com/npc=186338/maruuk" target="blank">Maruuk</a>
+gale_arrow: <a href="https://www.wowhead.com/spell=382670/gale-arrow" target="blank">Gale Arrow</a>
+earthsplitter: <a href="https://www.wowhead.com/spell=385339/earthsplitter" target="blank">Earthsplitter</a>
+spirit_leap: <a href="https://www.wowhead.com/spell=385412/spirit-leap" target="blank">Spirit Leap</a>
+quick_shot: <a href="https://www.wowhead.com/spell=386411/quick-shot" target="blank">Quick Shot</a>
+frightful_roar: <a href="https://www.wowhead.com/spell=386063/frightful-roar" target="blank">Frightful Roar</a>
+repel: <a href="https://www.wowhead.com/spell=386547/repel" target="blank">Repel</a>
+guardian_wind: <a href="https://www.wowhead.com/spell=384808/guardian-wind" target="blank">Guardian Wind</a>
+ancestral_bond: <a href="https://www.wowhead.com/spell=392198/ancestral-bond" target="blank">Ancestral Bond</a>
+
+# Balakar Khan Trash
+balara: <a href="https://www.wowhead.com/npc=193457/balara" target="blank">Balara</a>
+batak: <a href="https://www.wowhead.com/npc=193462/batak" target="blank">Batak</a>
+ravaging_spear: <a href="https://www.wowhead.com/spell=372147/ravaging-spear" target="blank">Ravaging Spear</a>
+broad_stomp: <a href="https://www.wowhead.com/spell=382233/broad-stomp" target="blank">Broad Stomp</a>
+vehement_charge: <a href="https://www.wowhead.com/spell=382277/vehement-charge" target="blank">Vehement Charge</a>
+
+# Balakar Khan
+balakar_khan: <a href="https://www.wowhead.com/npc=186151/balakar-khan" target="blank">Balakar Khan</a>
+iron_spear: <a href="https://www.wowhead.com/spell=376634/iron-spear" target="blank">Iron Spear</a>
+iron_stampede: <a href="https://www.wowhead.com/spell=376683/iron-stampede" target="blank">Iron Stampede</a>
+upheaval: <a href="https://www.wowhead.com/spell=375943/upheaval" target="blank">Upheaval</a>
+nokhud_stormcaster: <a href="https://www.wowhead.com/npc=190294/nokhud-stormcaster" target="blank">Nokhud Stormcaster</a>
+storm_bolt: <a href="https://www.wowhead.com/spell=376725/storm-bolt" target="blank">Storm Bolt</a>
+stormwinds: <a href="https://www.wowhead.com/spell=376730/stormwinds" target="blank">Stormwinds</a>
+static_spear: <a href="https://www.wowhead.com/spell=376864/static-spear" target="blank">Static Spear</a>
+crackling_upheaval: <a href="https://www.wowhead.com/spell=376892/crackling-upheaval" target="blank">Crackling Upheaval</a>
+crackling_cloud: <a href="https://www.wowhead.com/spell=376899/crackling-cloud" target="blank">Crackling Cloud</a>

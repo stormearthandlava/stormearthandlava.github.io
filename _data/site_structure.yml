@@ -15,7 +15,11 @@ categories:
     - title: Consumables
       url: /guide/general/consumables.html
 - title: Mythic+
-  url: /guide/mythic_plus/mythic_plus.html
+  subcategories:
+    - title : DF Season 1
+      url : /guide/mythic_plus/DF_season_1.html
+    - title : SL Season 4
+      url: /guide/mythic_plus/mythic_plus.html
 - title: Raids
   subcategories:
     - title: Vault of the Incarnates

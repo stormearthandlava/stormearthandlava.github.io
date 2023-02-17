@@ -1,0 +1,106 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Court of Stars
+# Dungeon buffs
+arcane_power_conduit: <a href="https://www.wowhead.com/npc=105157/arcane-power-conduit" target="blank">Arcane Power Conduit</a>
+flask_of_the_solemn_night: <a href="https://www.wowhead.com/spell=207815/flask-of-the-solemn-night" target="blank">Flask of the Solemn Night</a>
+bazaar_goods: <a href="https://www.wowhead.com/npc=106018/bazaar-goods" target="blank">Bazaar Goods</a>
+lifesized_nightborne_statue: <a href="https://www.wowhead.com/npc=106113/lifesized-nightborne-statue" target="blank">Lifesized Nightborne Statue</a>
+discarded_junk: <a href="https://www.wowhead.com/npc=105215/discarded-junk" target="blank">Discarded Junk</a>
+wounded_nightborne_civilian: <a href="https://www.wowhead.com/npc=106112/wounded-nightborne-civilian" target="blank">Wounded Nightborne Civilian</a>
+fel_orb: <a href="https://www.wowhead.com/npc=105160/fel-orb" target="blank">Fel Orb</a>
+infernal_tome: <a href="https://www.wowhead.com/npc=105831/infernal-tome" target="blank">Infernal Tome</a>
+magical_lantern: <a href="https://www.wowhead.com/npc=106024/magical-lantern" target="blank">Magical Lantern</a>
+starlight_rose_brew: <a href="https://www.wowhead.com/npc=106108/starlight-rose-brew" target="blank">Starlight Rose Brew</a>
+nightshade_refreshments: <a href="https://www.wowhead.com/npc=105249/nightshade-refreshments" target="blank">Nightshade Refreshments</a>
+umbral_bloom: <a href="https://www.wowhead.com/npc=105340/umbral-bloom" target="blank">Umbral Bloom</a>
+waterlogged_scroll: <a href="https://www.wowhead.com/npc=106110/waterlogged-scroll" target="blank">Waterlogged Scroll</a>
+
+# Patrol Captain Gerdo Trash
+duskwatch_guard: <a href="https://www.wowhead.com/npc=111563/duskwatch-guard" target="blank">Duskwatch Guard</a>
+quelling_strike: <a href="https://www.wowhead.com/spell=209027/quelling-strike" target="blank">Quelling Strike</a>
+fortification: <a href="https://www.wowhead.com/spell=209033/fortification" target="blank">Fortification</a>
+mana_wyrm: <a href="https://www.wowhead.com/npc=105703/mana-wyrm" target="blank">Mana Wyrm</a>
+wild_detonation: <a href="https://www.wowhead.com/spell=209477/wild-detonation" target="blank">Wild Detonation</a>
+guardian_construct: <a href="https://www.wowhead.com/npc=104270/guardian-construct" target="blank">Guardian Construct</a>
+suppress: <a href="https://www.wowhead.com/spell=209413/suppress" target="blank">Suppress</a>
+charging_station: <a href="https://www.wowhead.com/spell=225100/charging-station" target="blank">Charging Station</a>
+duskwatch_sentry: <a href="https://www.wowhead.com/npc=104251/duskwatch-sentry" target="blank">Duskwatch Sentry</a>
+sound_alarm: <a href="https://www.wowhead.com/spell=210261/sound-alarm" target="blank">Sound Alarm</a>
+throw_torch_cos: <a href="https://www.wowhead.com/spell=209036/throw-torch" target="blank">Throw Torch</a>
+mana_saber: <a href="https://www.wowhead.com/npc=105699/mana-saber" target="blank">Mana Saber</a>
+mana_fang: <a href="https://www.wowhead.com/spell=209516/mana-fang" target="blank">Mana Fang</a>
+bound_energy: <a href="https://www.wowhead.com/npc=105705/bound-energy" target="blank">Bound Energy</a>
+charged_blast: <a href="https://www.wowhead.com/spell=212031/charged-blast" target="blank">Charged Blast</a>
+arcane_manifestation: <a href="https://www.wowhead.com/npc=105704/arcane-manifestation" target="blank">Arcane Manifestation</a>
+drain_magic: <a href="https://www.wowhead.com/spell=209485/drain-magic" target="blank">Drain Magic</a>
+duskwatch_arcanist: <a href="https://www.wowhead.com/npc=104247/duskwatch-arcanist" target="blank">Duskwatch Arcanist</a>
+nightfall_orb: <a href="https://www.wowhead.com/spell=209410/nightfall-orb" target="blank">Nightfall Orb</a>
+seal_magic: <a href="https://www.wowhead.com/spell=209404/seal-magic" target="blank">Seal Magic</a>
+duskwatch_reinforcement: <a href="https://www.wowhead.com/npc=107073/duskwatch-reinforcement" target="blank">Duskwatch Reinforcement</a>
+subdue: <a href="https://www.wowhead.com/spell=212773/subdue" target="blank">Subdue</a>
+
+# Patrol Captain Gerdo
+patrol_captain_gerdo: <a href="https://www.wowhead.com/npc=104215/patrol-captain-gerdo" target="blank">Patrol Captain Gerdo</a>
+streetsweeper: <a href="https://www.wowhead.com/spell=219488/streetsweeper" target="blank">Streetsweeper</a>
+signal_beacon: <a href="https://www.wowhead.com/spell=207806/signal-beacon" target="blank">Signal Beacon</a>
+arcane_lockdown: <a href="https://www.wowhead.com/spell=207278/arcane-lockdown" target="blank">Arcane Lockdown</a>
+resonant_slash: <a href="https://www.wowhead.com/spell=207261/resonant-slash" target="blank">Resonant Slash</a>
+
+# Talixae Flamewreath Trash
+watchful_inquisitor: <a href="https://www.wowhead.com/npc=105715/watchful-inquisitor" target="blank">Watchful Inquisitor</a>
+eye_storm: <a href="https://www.wowhead.com/spell=212784/eye-storm" target="blank">Eye Storm</a>
+searing_glare: <a href="https://www.wowhead.com/spell=211299/searing-glare" target="blank">Searing Glare</a>
+blazing_imp: <a href="https://www.wowhead.com/npc=104295/blazing-imp" target="blank">Blazing Imp</a>
+firebolt: <a href="https://www.wowhead.com/spell=211406/firebolt" target="blank">Firebolt</a>
+drifting_embers: <a href="https://www.wowhead.com/spell=211401/drifting-embers" target="blank">Drifting Embers</a>
+legion_hound: <a href="https://www.wowhead.com/npc=104277/legion-hound" target="blank">Legion Hound</a>
+felblaze_leap: <a href="https://www.wowhead.com/spell=211384/felblaze-leap" target="blank">Felblaze Leap</a>
+shadow_mistress: <a href="https://www.wowhead.com/npc=104300/shadow-mistress" target="blank">Shadow Mistress</a>
+bewitch: <a href="https://www.wowhead.com/spell=211470/bewitch" target="blank">Bewitch</a>
+shadow_slash: <a href="https://www.wowhead.com/spell=211473/shadow-slash" target="blank">Shadow Slash</a>
+felbound_enforcer: <a href="https://www.wowhead.com/npc=104278/felbound-enforcer" target="blank">Felbound Enforcer</a>
+fel_detonation: <a href="https://www.wowhead.com/spell=211464/fel-detonation" target="blank">Fel Detonation</a>
+
+imacutya: <a href="https://www.wowhead.com/npc=104275/imacutya" target="blank">Imacu'tya</a>
+whirling_blades: <a href="https://www.wowhead.com/spell=209378/whirling-blades" target="blank">Whirling Blades</a>
+scream_of_pain: <a href="https://www.wowhead.com/spell=397892/scream-of-pain" target="blank">Scream of Pain</a>
+baalgar_the_watchful: <a href="https://www.wowhead.com/npc=104274/baalgar-the-watchful" target="blank">Baalgar the Watchful</a>
+disintegration_beam: <a href="https://www.wowhead.com/spell=207980/disintegration-beam" target="blank">Disintegration Beam</a>
+impending_doom: <a href="https://www.wowhead.com/spell=397907/impending-doom" target="blank">Impending Doom</a>
+jazshariu: <a href="https://www.wowhead.com/npc=104273/jazshariu" target="blank">Jazshariu</a>
+shockwave: <a href="https://www.wowhead.com/spell=207979/shockwave" target="blank">Shockwave</a>
+crushing_leap_cos: <a href="https://www.wowhead.com/spell=397903/crushing-leap" target="blank">Crushing Leap</a>
+
+# Talixae Flamewreath
+talixae_flamewreath: <a href="https://www.wowhead.com/npc=104217/talixae-flamewreath" target="blank">Talixae Flamewreath</a>
+infernal_eruption: <a href="https://www.wowhead.com/spell=207881/infernal-eruption" target="blank">Infernal Eruption</a>
+withering_soul: <a href="https://www.wowhead.com/spell=208165/withering-soul" target="blank">Withering Soul</a>
+burning_intensity: <a href="https://www.wowhead.com/spell=207907/burning-intensity" target="blank">Burning Intensity</a>
+
+# Advisor Melandrus mini-boss
+gerenth_the_vile: <a href="https://www.wowhead.com/npc=108151/gerenth-the-vile" target="blank">Gerenth the Vile</a>
+shadow_bolt_volley: <a href="https://www.wowhead.com/spell=214692/shadow-bolt-volley" target="blank">Shadow Bolt Volley</a>
+vampiric_Claws: <a href="https://www.wowhead.com/spell=373364/vampiric-claws" target="blank">Vampiric Claws</a>
+hypnosis_bat: <a href="https://www.wowhead.com/spell=373552/hypnosis-bat" target="blank">Hypnosis Bat</a>
+
+# Advisor Melandrus
+advisor_melandrus: <a href="https://www.wowhead.com/npc=104218/advisor-melandrus" target="blank">Advisor Melandrus</a>
+enveloping_winds: <a href="https://www.wowhead.com/spell=224333/enveloping-winds" target="blank">Enveloping Winds</a>
+blade_surge: <a href="https://www.wowhead.com/spell=209667/blade-surge" target="blank">Blade Surge</a>
+slicing_maelstrom: <a href="https://www.wowhead.com/spell=209676/slicing-maelstrom" target="blank">Slicing Maelstrom</a>
+piercing_gale: <a href="https://www.wowhead.com/spell=209628/piercing-gale" target="blank">Piercing Gale</a>
