@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mythic+ DF Season 1"
+title: "Mythic+ DF Season 2"
 last_update: 16/02/2023
 game_version: 10.0.5 Dragonflight
 authors: Elivrio
@@ -155,6 +155,11 @@ There are two main build that will be used in Dragonflight Season Two : Wildfire
 
 ---
 
+## {{ site.data.dungeon.bh.gutshot }} trash
+
+---
+
+## {{ site.data.dungeon.bh.gutshot }}
 
 </div>
 </div>
