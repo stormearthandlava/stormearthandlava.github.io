@@ -1,0 +1,126 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Halls of Valor
+# Dungeon Buffs
+odyns_favor: <a href="https://www.wowhead.com/spell=396909/odyns-favor" target="blank">Odyn's Favor</a>
+odyns_blessing: <a href="https://www.wowhead.com/spell=202160/odyns-blessing" target="blank">Odyn's Blessing</a>
+mug_of_mead: <a href="https://www.wowhead.com/spell=202298/mug-of-mead" target="blank">Mug of Mead</a>
+
+# Hymdall Trash
+valarjar_champion: <a href="https://www.wowhead.com/npc=97087/valarjar-champion" target="blank">Valarjar Champion</a>
+power_attack: <a href="https://www.wowhead.com/spell=199772/power-attack" target="blank">Power Attack</a>
+enraged_regeneration: <a href="https://www.wowhead.com/spell=397410/enraged-regeneration" target="blank">Enraged Regeneration</a>
+valarjar_thundercaller: <a href="https://www.wowhead.com/npc=95842/valarjar-thundercaller" target="blank">Valarjar Thundercaller</a>
+thunderstrike: <a href="https://www.wowhead.com/spell=198599/thunderstrike" target="blank">Thunderstrike</a>
+thunderous_bolt: <a href="https://www.wowhead.com/spell=198595/thunderous-bolt" target="blank">Thunderous Bolt</a>
+storm_drake: <a href="https://www.wowhead.com/npc=97068/storm-drake" target="blank">Storm Drake</a>
+crackling_storm: <a href="https://www.wowhead.com/spell=198892/crackling-storm" target="blank">Crackling Storm</a>
+lightning_breath: <a href="https://www.wowhead.com/spell=198888/lightning-breath" target="blank">Lightning Breath</a>
+
+# Hymdall
+hymdall: <a href="https://www.wowhead.com/npc=94960/hymdall" target="blank">Hymdall</a>
+dancing_blade: <a href="https://www.wowhead.com/spell=193235/dancing-blade" target="blank">Dancing Blade</a>
+horn_of_valor: <a href="https://www.wowhead.com/spell=191284/horn-of-valor" target="blank">Horn of Valor</a>
+static_field: <a href="https://www.wowhead.com/spell=193260/static-field" target="blank">Static Field</a>
+ball_lightning: <a href="https://www.wowhead.com/spell=188395/ball-lightning" target="blank">Ball Lightning</a>
+bloodletting_sweep: <a href="https://www.wowhead.com/spell=193092/bloodletting-sweep" target="blank">Bloodletting Sweep</a>
+
+# Hyrja Trash
+valarjar_runecarver: <a href="https://www.wowhead.com/npc=96664/valarjar-runecarver" target="blank">Valarjar Runecarver</a>
+etch: <a href="https://www.wowhead.com/spell=198959/etch" target="blank">Etch</a>
+shattered_rune: <a href="https://www.wowhead.com/spell=198962/shattered-rune" target="blank">Shattered Rune</a>
+valarjar_mystic: <a href="https://www.wowhead.com/npc=95834/valarjar-mystic" target="blank">Valarjar Mystic</a>
+holy_radiance: <a href="https://www.wowhead.com/spell=215433/holy-radiance" target="blank">Holy Radiance</a>
+rune_of_healing: <a href="https://www.wowhead.com/spell=198934/rune-of-healing" target="blank">Rune of Healing</a>
+valarjar_marksman: <a href="https://www.wowhead.com/npc=96640/valarjar-marksman" target="blank">Valarjar Marksman</a>
+snap_shot: <a href="https://www.wowhead.com/spell=191401/snap-shot" target="blank">Snap Shot</a>
+penetrating_shot: <a href="https://www.wowhead.com/spell=199210/penetrating-shot" target="blank">Penetrating Shot</a>
+leap_to_safety: <a href="https://www.wowhead.com/spell=199247/leap-to-safety" target="blank">Leap to Safety</a>
+valarjar_shieldmaiden: <a href="https://www.wowhead.com/npc=95832/valarjar-shieldmaiden" target="blank">Valarjar Shieldmaiden</a>
+breach_armor: <a href="https://www.wowhead.com/spell=198944/breach-armor" target="blank">Breach Armor</a>
+mortal_hew: <a href="https://www.wowhead.com/spell=199050/mortal-hew" target="blank">Mortal Hew</a>
+stormforged_sentinel: <a href="https://www.wowhead.com/npc=96574/stormforged-sentinel" target="blank">Stormforged Sentinel</a>
+charged_pulse: <a href="https://www.wowhead.com/spell=210875/charged-pulse" target="blank">Charged Pulse</a>
+crackle: <a href="https://www.wowhead.com/spell=199805/crackle" target="blank">Crackle</a>
+protective_light: <a href="https://www.wowhead.com/spell=198745/protective-light" target="blank">Protective Light</a>
+valarjar_aspirant: <a href="https://www.wowhead.com/npc=101637/valarjar-aspirant" target="blank">Valarjar Aspirant</a>
+blast_of_light: <a href="https://www.wowhead.com/spell=191508/blast-of-light" target="blank">Blast of Light</a>
+valkyras_advance: <a href="https://www.wowhead.com/spell=199033/valkyras-advance" target="blank">Valkyra's Advance</a>
+solsten: <a href="https://www.wowhead.com/npc=102558/solsten" target="blank">Solsten</a>
+olmyr_the_Enlightened: <a href="https://www.wowhead.com/npc=97202/olmyr-the-enlightened" target="blank">Olmyr the Enlightened</a>
+searing_light: <a href="https://www.wowhead.com/spell=192288/searing-light" target="blank">Searing Light</a>
+
+# Hyrja
+hyrja: <a href="https://www.wowhead.com/npc=95833/hyrja" target="blank">Hyrja</a>
+arcing_bolt: <a href="https://www.wowhead.com/spell=191976/arcing-bolt" target="blank">Arcing Bolt</a>
+expel_light: <a href="https://www.wowhead.com/spell=192044/expel-light" target="blank">Expel Light</a>
+eye_of_the_storm: <a href="https://www.wowhead.com/spell=200901/eye-of-the-storm" target="blank">Eye of the Storm</a>
+mystic_empowerment_holy: <a href="https://www.wowhead.com/spell=192133/mystic-empowerment-holy" target="blank">Mystic Empowerment Holy</a>
+mystic_empowerment_thunder: <a href="https://www.wowhead.com/spell=192132/mystic-empowerment-thunder" target="blank">Mystic Empowerment Thunder</a>
+sanctify: <a href="https://www.wowhead.com/spell=192307/sanctify" target="blank">Sanctify</a>
+shield_of_light: <a href="https://www.wowhead.com/spell=192018/shield-of-light" target="blank">Shield of Light</a>
+
+# Fenryr Trash
+angerhoof_bull: <a href="https://www.wowhead.com/npc=96611/angerhoof-bull" target="blank">Angerhoof Bull</a>
+rumbling_stomp: <a href="https://www.wowhead.com/spell=199090/rumbling-stomp" target="blank">Rumbling Stomp</a>
+enrage_hov: <a href="https://www.wowhead.com/spell=190225/enrage" target="blank">Enrage</a>
+steeljaw_grizzly: <a href="https://www.wowhead.com/npc=96677/steeljaw-grizzly" target="blank">Steeljaw Grizzly</a>
+crunch_armor: <a href="https://www.wowhead.com/spell=196194/crunch-armor" target="blank">Crunch Armor</a>
+rending_claws: <a href="https://www.wowhead.com/spell=185425/rending-claws" target="blank">Rending Claws</a>
+charge_hov: <a href="https://www.wowhead.com/spell=320679/charge" target="blank">Charge</a>
+ebonclaw_worg: <a href="https://www.wowhead.com/npc=96608/ebonclaw-worg" target="blank">Ebonclaw Worg</a>
+leap_for_the_throat: <a href="https://www.wowhead.com/spell=199179/leap-for-the-throat" target="blank">Leap for the Throat</a>
+
+# Fenryr
+fenryr: <a href="https://www.wowhead.com/npc=99868/fenryr" target="blank">Fenryr</a>
+claw_frenzy: <a href="https://www.wowhead.com/spell=196512/claw-frenzy" target="blank">Claw Frenzy</a>
+unnerving_howl: <a href="https://www.wowhead.com/spell=196543/unnerving-howl" target="blank">Unnerving Howl</a>
+scent_of_blood: <a href="https://www.wowhead.com/spell=196838/scent-of-blood" target="blank">Scent of Blood</a>
+ravenous_leap: <a href="https://www.wowhead.com/spell=197556/ravenous-leap" target="blank">Ravenous Leap</a>
+
+# God-King Skovald Trash
+king_ranulf: <a href="https://www.wowhead.com/npc=97083/king-ranulf" target="blank">King Ranulf</a>
+unruly_yell: <a href="https://www.wowhead.com/spell=199726/unruly-yell" target="blank">Unruly Yell</a>
+king_haldor: <a href="https://www.wowhead.com/npc=95843/king-haldor" target="blank">King Haldor</a>
+sever: <a href="https://www.wowhead.com/spell=199652/sever" target="blank">Sever</a>
+king_bjorn: <a href="https://www.wowhead.com/npc=97081/king-bjorn" target="blank">King Bjorn</a>
+wicked_dagger: <a href="https://www.wowhead.com/spell=199674/wicked-dagger" target="blank">Wicked Dagger</a>
+king_tor: <a href="https://www.wowhead.com/npc=97084/king-tor" target="blank">King Tor</a>
+call_ancestor: <a href="https://www.wowhead.com/spell=200969/call-ancestor" target="blank">Call Ancestor</a>
+
+# God-King Skovald
+god_king_skovald: <a href="https://www.wowhead.com/npc=95675/god-king-skovald" target="blank">God-King Skovald</a>
+savage_blade: <a href="https://www.wowhead.com/spell=193668/savage-blade" target="blank">Savage Blade</a>
+felblaze_rush: <a href="https://www.wowhead.com/spell=193659/felblaze-rush" target="blank">Felblaze Rush</a>
+ragnarok: <a href="https://www.wowhead.com/spell=193826/ragnarok" target="blank">Ragnarok</a>
+aegis_of_aggramar: <a href="https://www.wowhead.com/spell=193983/aegis-of-aggramar" target="blank">Aegis of Aggramar</a>
+flame_of_woe: <a href="https://www.wowhead.com/npc=104822/flame-of-woe" target="blank">Flame of Woe</a>
+consuming_flame: <a href="https://www.wowhead.com/spell=221093/consuming-flame" target="blank">Consuming Flame</a>
+infernal_flames: <a href="https://www.wowhead.com/spell=193702/infernal-flames" target="blank">Infernal Flames</a>
+
+# Odyn
+odyn: <a href="https://www.wowhead.com/npc=114263/odyn" target="blank">Odyn</a>
+runic_brand: <a href="https://www.wowhead.com/spell=197961/runic-brand" target="blank">Runic Brand</a>
+draw_power: <a href="https://www.wowhead.com/spell=227974/draw-power" target="blank">Draw Power</a>
+branded: <a href="https://www.wowhead.com/spell=197996/branded" target="blank">Branded</a>
+summon_stormforged_obliterator: <a href="https://www.wowhead.com/spell=201215/summon-stormforged-obliterator" target="blank">Summon Stormforged Obliterator</a>
+stormforged_obliterator: <a href="https://www.wowhead.com/npc=102019/stormforged-obliterator" target="blank">Stormforged Obliterator</a>
+surge_hov: <a href="https://www.wowhead.com/spell=198750/surge" target="blank">Surge</a>
+spear_of_light: <a href="https://www.wowhead.com/spell=198072/spear-of-light" target="blank">Spear of Light</a>
+glowing_fragment: <a href="https://www.wowhead.com/spell=198078/glowing-fragment" target="blank">Glowing Fragment</a>
+shatter_spears: <a href="https://www.wowhead.com/spell=198077/shatter-spears" target="blank">Shatter Spears</a>
+radiant_tempest: <a href="https://www.wowhead.com/spell=198263/radiant-tempest" target="blank">Radiant Tempest</a>

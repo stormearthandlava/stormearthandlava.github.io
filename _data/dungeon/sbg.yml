@@ -1,0 +1,77 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Shadowmoon Burial Grounds
+# Sadana Bloodfury Trash
+shadowmoon_bone_mender: <a href="https://www.wowhead.com/npc=75713/shadowmoon-bone-mender" target="blank">Shadowmoon Bone-Mender</a>
+shadow_mend: <a href="https://www.wowhead.com/spell=152818/shadow-mend" target="blank">Shadow Mend</a>
+shadow_bolt: <a href="https://www.wowhead.com/spell=152814/shadow-bolt" target="blank">Shadow Bolt</a>
+void_spawn: <a href="https://www.wowhead.com/npc=75652/void-spawn" target="blank">Void Spawn</a>
+void_pulse: <a href="https://www.wowhead.com/spell=152964/void-pulse" target="blank">Void Pulse</a>
+void_eruptions: <a href="https://www.wowhead.com/spell=394512/void-eruptions" target="blank">Void Eruptions</a>
+defiled_spirit: <a href="https://www.wowhead.com/npc=75966/defiled-spirit" target="blank">Defiled Spirit</a>
+cry_of_anguish: <a href="https://www.wowhead.com/spell=398154/cry-of-anguish" target="blank">Cry of Anguish</a>
+shadowmoon_loyalist: <a href="https://www.wowhead.com/npc=75506/shadowmoon-loyalist" target="blank">Shadowmoon Loyalist</a>
+sinister_focus: <a href="https://www.wowhead.com/spell=398151/sinister-focus" target="blank">Sinister Focus</a>
+
+# Sadana Bloodfury
+sadana_bloodfury: <a href="https://www.wowhead.com/npc=75509/sadana-bloodfury" target="blank">Sadana Bloodfury</a>
+daggerfall: <a href="https://www.wowhead.com/spell=153240/daggerfall" target="blank">Daggerfall</a>
+whispers_of_the_dark_star: <a href="https://www.wowhead.com/spell=153094/whispers-of-the-dark-star" target="blank">Whispers of the Dark Star</a>
+dark_communion_sbg: <a href="https://www.wowhead.com/spell=153153/dark-communion" target="blank">Dark Communion</a>
+dark_eclipse: <a href="https://www.wowhead.com/spell=164974/dark-eclipse" target="blank">Dark Eclipse</a>
+lunar_purity: <a href="https://www.wowhead.com/spell=162652/lunar-purity" target="blank">Lunar Purity</a>
+
+# Nhallish Trash
+subjugated_soul: <a href="https://www.wowhead.com/npc=76444/subjugated-soul" target="blank">Subjugated Soul</a>
+shadowmoon_dominator: <a href="https://www.wowhead.com/npc=76446/shadowmoon-dominator" target="blank">Shadowmoon Dominator</a>
+domination: <a href="https://www.wowhead.com/spell=154327/domination" target="blank">Domination</a>
+rending_voidlash: <a href="https://www.wowhead.com/spell=156776/rending-voidlash" target="blank">Rending Voidlash</a>
+shadowmoon_exhumer: <a href="https://www.wowhead.com/npc=77700/shadowmoon-exhumer" target="blank">Shadowmoon Exhumer</a>
+exhume_the_crypts: <a href="https://www.wowhead.com/spell=153268/exhume-the-crypts" target="blank">Exhume the Crypts</a>
+void_bolt: <a href="https://www.wowhead.com/spell=156722/void-bolt" target="blank">Void Bolt</a>
+exhumed_spirit: <a href="https://www.wowhead.com/npc=75979/exhumed-spirit" target="blank">Exhumed Spirit</a>
+incorporeal: <a href="https://www.wowhead.com/spell=398205/incorporeal" target="blank">Incorporeal</a>
+death_blast: <a href="https://www.wowhead.com/spell=398206/death-blast" target="blank">Death Blast</a>
+
+# Nhallish
+nhallish: <a href="https://www.wowhead.com/npc=75829/nhallish" target="blank">Nhallish</a>
+planar_shift: <a href="https://www.wowhead.com/spell=153623/planar-shift" target="blank">Planar Shift</a>
+void_vortex: <a href="https://www.wowhead.com/spell=152800/void-vortex" target="blank">Void Vortex</a>
+soul_steal: <a href="https://www.wowhead.com/spell=152962/soul-steal" target="blank">Soul Steal</a>
+soul_shred: <a href="https://www.wowhead.com/spell=152979/soul-shred" target="blank">Soul Shred</a>
+returned_soul: <a href="https://www.wowhead.com/spell=153033/returned-soul" target="blank">Returned Soul</a>
+void_devastation: <a href="https://www.wowhead.com/spell=153070/void-devastation" target="blank">Void Devastation</a>
+void_blast: <a href="https://www.wowhead.com/spell=152792/void-blast" target="blank">Void Blast</a>
+
+# Bonemaw Trash
+monstrous_corpse_spider: <a href="https://www.wowhead.com/npc=76104/monstrous-corpse-spider" target="blank">Monstrous Corpse Spider</a>
+necrotic_burst: <a href="https://www.wowhead.com/spell=156718/necrotic-burst" target="blank">Necrotic Burst</a>
+plagued_bat: <a href="https://www.wowhead.com/npc=75459/plagued-bat" target="blank">Plagued Bat</a>
+plague_spit: <a href="https://www.wowhead.com/spell=153524/plague-spit" target="blank">Plague Spit</a>
+carrion_worm: <a href="https://www.wowhead.com/npc=76057/carrion-worm" target="blank">Carrion Worm</a>
+
+# Bonemaw
+bonemaw: <a href="https://www.wowhead.com/npc=75452/bonemaw" target="blank">Bonemaw</a>
+necrotic_pitch: <a href="https://www.wowhead.com/spell=153692/necrotic-pitch" target="blank">Necrotic Pitch</a>
+inhale: <a href="https://www.wowhead.com/spell=153804/inhale" target="blank">Inhale</a>
+body_slam: <a href="https://www.wowhead.com/spell=154175/body-slam" target="blank">Body Slam</a>
+
+# Ner'zhul
+nerzhul: <a href="https://www.wowhead.com/npc=76407/nerzhul" target="blank">Ner'zhul</a>
+omen_of_death: <a href="https://www.wowhead.com/spell=175988/omen-of-death" target="blank">Omen of Death</a>
+malevolence: <a href="https://www.wowhead.com/spell=154442/malevolence" target="blank">Malevolence</a>
+ritual_of_bones: <a href="https://www.wowhead.com/spell=154469/ritual-of-bones" target="blank">Ritual of Bones</a>

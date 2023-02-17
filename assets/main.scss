@@ -368,6 +368,22 @@ div.raid-header h2 {
     cursor: pointer;
 }
 
+div.dungeon-header.tjs {
+    background-image: url('/assets/img/guide/dungeons_mop/temple_of_the_jade_serpent.jpg')
+}
+
+div.dungeon-header.sbg {
+    background-image: url('/assets/img/guide/dungeons_wod/shadowmoon_burial_grounds.jpg')
+}
+
+div.dungeon-header.cos {
+    background-image: url('/assets/img/guide/dungeons_legion/court_of_stars.jpg')
+}
+
+div.dungeon-header.hov {
+    background-image: url('/assets/img/guide/dungeons_legion/halls_of_valor.jpg')
+}
+
 div.dungeon-header.ataldazar {
   background-image: url('/assets/img/guide/dungeons_bfa/ataldazar.png')
 }
@@ -444,6 +460,38 @@ div.dungeon-header.mots {
   background-image: url('/assets/img/guide/dungeons_sl/mists_of_tirna_scithe.png')
 }
 
+div.dungeon-header.aa {
+    background-image: url('/assets/img/guide/dungeons_df/algethar_academy.jpg')
+}
+
+div.dungeon-header.bh {
+    background-image: url('/assets/img/guide/dungeons_df/brackenhide_hollow.jpg')
+}
+
+div.dungeon-header.hoi {
+    background-image: url('/assets/img/guide/dungeons_df/halls_of_infusion.jpg')
+}
+
+div.dungeon-header.neltharus {
+    background-image: url('/assets/img/guide/dungeons_df/neltharus.jpg')
+}
+
+div.dungeon-header.rlp {
+    background-image: url('/assets/img/guide/dungeons_df/ruby_life_pools.jpg')
+}
+
+div.dungeon-header.av {
+    background-image: url('/assets/img/guide/dungeons_df/the_azure_vault.jpg')
+}
+
+div.dungeon-header.no {
+    background-image: url('/assets/img/guide/dungeons_df/the_nokhud_offensive.jpg')
+}
+
+div.dungeon-header.uldaman {
+    background-image: url('/assets/img/guide/dungeons_df/uldaman.jpg')
+}
+
 div.raid-header.castle_nathria {
   background-image: url('/assets/img/guide/nathria/castle_nathria.png')
 }
@@ -488,7 +536,9 @@ div.raid-header.sanctum_of_domination10 {
   background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner10.PNG')
 }
 
-
+div.raid-header.vault_of_the_incarnates {
+    background-image: url('/assets/img/guide/vault_of_the_incarnates/vault_of_the_incarnates.png')
+}
 
 div.dungeon-accordion div.card-header {
   padding: 0px;

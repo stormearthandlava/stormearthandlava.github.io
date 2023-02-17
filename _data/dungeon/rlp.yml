@@ -1,0 +1,94 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Ruby Life Pools
+# Melidrussa Chillworn Trash
+flashfrost_chillweaver: <a href="https://www.wowhead.com/npc=188067/flashfrost-chillweaver" target="blank">Flashfrost Chillweaver</a>
+ice_shield: <a href="https://www.wowhead.com/spell=372749/ice-shield" target="blank">Ice Shield</a>
+flashfrost_earthshaper: <a href="https://www.wowhead.com/npc=187969/flashfrost-earthshaper" target="blank">Flashfrost Earthshaper</a>
+tectonic_slam: <a href="https://www.wowhead.com/spell=372735/tectonic-slam" target="blank">Tectonic Slam</a>
+primal_juggernaut: <a href="https://www.wowhead.com/npc=188244/primal-juggernaut" target="blank">Primal Juggernaut</a>
+excavating_blast: <a href="https://www.wowhead.com/spell=372696/excavating-blast" target="blank">Excavating Blast</a>
+primal_terrasentry: <a href="https://www.wowhead.com/npc=188011/primal-terrasentry" target="blank">Primal Terrasentry</a>
+stone_missile: <a href="https://www.wowhead.com/spell=371956/stone-missile" target="blank">Stone Missile</a>
+defier_draghar: <a href="https://www.wowhead.com/npc=187897/defier-draghar" target="blank">Defier Draghar</a>
+steel_barrage: <a href="https://www.wowhead.com/spell=372047/steel-barrage" target="blank">Steel Barrage</a>
+blazing_rush: <a href="https://www.wowhead.com/spell=372087/blazing-rush" target="blank">Blazing Rush</a>
+
+# Melidrussa Chillworn
+melidrussa_chillworn: <a href="https://www.wowhead.com/npc=188252/melidrussa-chillworn" target="blank">Melidrussa Chillworn</a>
+hailbombs: <a href="https://www.wowhead.com/spell=384022/hailbombs" target="blank">Hailbombs</a>
+chillstorm: <a href="https://www.wowhead.com/spell=372851/chillstorm" target="blank">Chillstorm</a>
+frost_overload: <a href="https://www.wowhead.com/spell=373688/frost-overload" target="blank">Frost Overload</a>
+infused_whelp: <a href="https://www.wowhead.com/npc=189893/infused-whelp" target="blank">Infused Whelp</a>
+cold_claws: <a href="https://www.wowhead.com/spell=373803/cold-claws" target="blank">Cold Claws</a>
+primal_chill: <a href="https://www.wowhead.com/spell=372682/primal-chill" target="blank">Primal Chill</a>
+
+# Kokia Blazehoof Trash
+primalist_cinderweaver: <a href="https://www.wowhead.com/npc=190207/primalist-cinderweaver" target="blank">Primalist Cinderweaver</a>
+cinderbolt: <a href="https://www.wowhead.com/spell=384194/cinderbolt" target="blank">Cinderbolt</a>
+burning_ambition: <a href="https://www.wowhead.com/spell=385063/burning-ambition" target="blank">Burning Ambition</a>
+primalist_flamedancer: <a href="https://www.wowhead.com/npc=190206/primalist-flamedancer" target="blank">Primalist Flamedancer</a>
+blaze_of_glory: <a href="https://www.wowhead.com/spell=373972/blaze-of-glory" target="blank">Blaze of Glory</a>
+blazebound_destroyer: <a href="https://www.wowhead.com/npc=190034/blazebound-destroyer" target="blank">Blazebound Destroyer</a>
+living_bomb: <a href="https://www.wowhead.com/spell=373693/living-bomb" target="blank">Living Bomb</a>
+thunderhead: <a href="https://www.wowhead.com/npc=197698/thunderhead" target="blank">Thunderhead</a>
+storm_breath: <a href="https://www.wowhead.com/spell=391726/storm-breath" target="blank">Storm Breath</a>
+rolling_thunder: <a href="https://www.wowhead.com/spell=392640/rolling-thunder" target="blank">Rolling Thunder</a>
+flamegullet: <a href="https://www.wowhead.com/npc=197697/flamegullet" target="blank">Flamegullet</a>
+flame_breath: <a href="https://www.wowhead.com/spell=391723/flame-breath" target="blank">Flame Breath</a>
+molten_blood: <a href="https://www.wowhead.com/spell=392569/molten-blood" target="blank">Molten Blood</a>
+primalist_shockcaster: <a href="https://www.wowhead.com/npc=195119/primalist-shockcaster" target="blank">Primalist Shockcaster</a>
+lightning_bolt: <a href="https://www.wowhead.com/spell=385310/lightning-bolt" target="blank">Lightning Bolt</a>
+thunderstorm: <a href="https://www.wowhead.com/spell=385311/thunderstorm" target="blank">Thunderstorm</a>
+unlucky_strike: <a href="https://www.wowhead.com/spell=385313/unlucky-strike" target="blank">Unlucky Strike</a>
+
+# Kokia Blazehoof
+kokia_blazehoof: <a href="https://www.wowhead.com/npc=189232/kokia-blazehoof" target="blank">Kokia Blazehoof</a>
+molten_boulder: <a href="https://www.wowhead.com/spell=372107/molten-boulder" target="blank">Molten Boulder</a>
+searing_blows: <a href="https://www.wowhead.com/spell=372858/searing-blows" target="blank">Searing Blows</a>
+searing_wounds: <a href="https://www.wowhead.com/spell=372860/searing-wounds" target="blank">Searing Wounds</a>
+ritual_of_blazebinding: <a href="https://www.wowhead.com/spell=372863/ritual-of-blazebinding" target="blank">Ritual of Blazebinding</a>
+blazebound_firestorm: <a href="https://www.wowhead.com/npc=189886/blazebound-firestorm" target="blank">Blazebound Firestorm</a>
+roaring_blaze: <a href="https://www.wowhead.com/spell=373017/roaring-blaze" target="blank">Roaring Blaze</a>
+inferno: <a href="https://www.wowhead.com/spell=384823/inferno" target="blank">Inferno</a>
+burnout: <a href="https://www.wowhead.com/spell=373614/burnout" target="blank">Burnout</a>
+
+# Kyrakka/Erkhart Stormvein Trash
+storm_warrior: <a href="https://www.wowhead.com/npc=197982/storm-warrior" target="blank">Storm Warrior</a>
+primal_thundercloud: <a href="https://www.wowhead.com/npc=197509/primal-thundercloud" target="blank">Primal Thundercloud</a>
+tempest_barrier: <a href="https://www.wowhead.com/spell=391031/tempest-barrier" target="blank">Tempest Barrier</a>
+crackling_detonation: <a href="https://www.wowhead.com/spell=392398/crackling-detonation" target="blank">Crackling Detonation</a>
+tempest_channeler: <a href="https://www.wowhead.com/npc=198047/tempest-channeler" target="blank">Tempest Channeler</a>
+summon_primal_thundercloud: <a href="https://www.wowhead.com/spell=392574/summon-primal-thundercloud" target="blank">Summon Primal Thundercloud</a>
+lightning_storm: <a href="https://www.wowhead.com/spell=392486/lightning-storm" target="blank">Lightning Storm</a>
+flame_channeler: <a href="https://www.wowhead.com/npc=197985/flame-channeler" target="blank">Flame Channeler</a>
+burning_veins: <a href="https://www.wowhead.com/spell=392454/burning-veins" target="blank">Burning Veins</a>
+flashfire: <a href="https://www.wowhead.com/spell=392451/flashfire" target="blank">Flashfire</a>
+high_channeler_ryvati: <a href="https://www.wowhead.com/npc=197535/high-channeler-ryvati" target="blank">High Channeler Ryvati</a>
+shock_blast: <a href="https://www.wowhead.com/spell=392924/shock-blast" target="blank">Shock Blast</a>
+tempest_stormshield: <a href="https://www.wowhead.com/spell=391050/tempest-stormshield" target="blank">Tempest Stormshield</a>
+
+# Kyrakka/Erkhart Stormvein
+erkhart_stormvein: <a href="https://www.wowhead.com/npc=190485/erkhart-stormvein" target="blank">Erkhart Stormvein</a>
+interrupting_cloudburst: <a href="https://www.wowhead.com/spell=381516/interrupting-cloudburst" target="blank">Interrupting Cloudburst</a>
+stormslam: <a href="https://www.wowhead.com/spell=381512/stormslam" target="blank">Stormslam</a>
+winds_of_change: <a href="https://www.wowhead.com/spell=381517/winds-of-change" target="blank">Winds of Change</a>
+kyrakka: <a href="https://www.wowhead.com/npc=190484/kyrakka" target="blank">Kyrakka</a>
+roaring_firebreath: <a href="https://www.wowhead.com/spell=381525/roaring-firebreath" target="blank">Roaring Firebreath</a>
+infernocore: <a href="https://www.wowhead.com/spell=381862/infernocore" target="blank">Infernocore</a>
+flaming_embers: <a href="https://www.wowhead.com/spell=384773/flaming-embers" target="blank">Flaming Embers</a>
+flamespit: <a href="https://www.wowhead.com/spell=381602/flamespit" target="blank">Flamespit</a>

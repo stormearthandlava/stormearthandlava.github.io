@@ -90,24 +90,22 @@ water_walking: <a href="https://www.wowhead.com/spell=546" target="blank">Water 
 
 wind_shear: <a href="https://www.wowhead.com/spell=57994" target="blank">Wind Shear</a>
 
+## Fire Ele
 fire_blast: <a href="https://www.wowhead.com/spell=57984/fire-blast" target="blank">Fire Blast</a>
-
 immolate: <a href="https://www.wowhead.com/spell=118297/immolate" target="blank">Immolate</a>
-
 meteor:  <a href="https://www.wowhead.com/spell=117588/meteor" target="blank">Meteor</a>
 
-pulverise: <a href="https://www.wowhead.com/spell=118345/pulverize" target="blank">Pulverize</a>
-
+## Earth Ele
+pulverize: <a href="https://www.wowhead.com/spell=118345/pulverize" target="blank">Pulverize</a>
 angered_earth: <a href="https://www.wowhead.com/spell=36213/angered-earth" target="blank">Angered Earth</a>
-
 harden_skin: <a href="https://www.wowhead.com/spell=118337/harden-skin" target="blank">Harden Skin</a>
 
+## Storm Ele
 call_lightning: <a href="https://www.wowhead.com/spell=157348/call-lightning" target="blank">Call Lightning</a>
-
 wind_gust: <a href="https://www.wowhead.com/spell=263806/wind-gust" target="blank">Wind Gust</a>
-
 tempest: <a href="https://www.wowhead.com/spell=157375/tempest" target="blank">Tempest</a>
 
+## SL Covenants
 door_of_shadows: <a href="https://www.wowhead.com/spell=300728" target="blank">Door Of Shadows</a>
 chain_harvest: <a href="https://www.wowhead.com/spell=320674" target="blank">Chain Harvest</a>
 lavish_harvest: <a href="https://www.wowhead.com/spell=339185" target="blank">Lavish Harvest</a>
