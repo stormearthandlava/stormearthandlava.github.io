@@ -132,34 +132,133 @@ There are two main build that will be used in Dragonflight Season Two : Wildfire
 * Quickly nuke {{ site.data.dungeon.bh.rotchanting_totem }} whenever it's summoned or it will buff nearby {{ site.data.dungeon.bh.trickclaw_mystic }}.
 
 **{{ site.data.dungeon.bh.bracken_warscourge }}**
-* {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do it in large pulls or kill it quickly.
+* {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.hideous_cackle }}. Use {{ site.data.talent.tremor_totem }} if a cast is going through to avoid a catastrophe.
 * Stay farther than 5 yards away to ignore {{ site.data.dungeon.bh.ragestorm }}.
 
 ---
 
 ## {{ site.data.dungeon.bh.rira_hackclaw }}'s War Band
+* Have {{ site.data.spell.fs }} active on all targets for {{ site.data.talent.splinter }} and {{ site.data.talent.sfd }} value.
 * Cleave them down at the same time, they will gain {{ site.data.dungeon.bh.bloodfrenzy }} whenever one of them drops below 15% HP.
-* The bosses gain haste with {{ site.data.dungeon.bh.prey_on_the_weak }} whenever players are below 90% HP. Use {{ site.data.talent.ag }} and even {{ site.data.talent.hst }} and {{ site.data.spell.healing_surge }} to help the healer remove their {{ site.data.dungeon.bh.predatory_instincts }} stacks.
-* Each Gnoll also has 3 abilities, making this fight hard to learn.
+* The bosses gain haste with {{ site.data.dungeon.bh.prey_on_the_weak }} whenever players are below 90% HP. If needed, use {{ site.data.talent.ag }}, or even {{ site.data.talent.hst }} and {{ site.data.spell.healing_surge }} to help the healer remove the {{ site.data.dungeon.bh.predatory_instincts }} stacks.
+* Each Gnoll also its own abilities, making this fight hard to learn.
 * {{ site.data.dungeon.bh.rira_hackclaw }}
-  - Never be on the tank, {{ site.data.dungeon.bh.rira_hackclaw }}'s {{ site.data.dungeon.bh.cleave }} cleaves (duh).
-  - Hide behind the Tank when targeted by {{ site.data.dungeon.bh.rira_hackclaw }}'s {{ site.data.dungeon.bh.savage_charge }}.
-  - Kite and stay farther than 8 yards away during  {{ site.data.dungeon.bh.rira_hackclaw }}'s {{ site.data.dungeon.bh.bladestorm }}. Use {{ site.data.talent.swg }} to keep uptime while kiting.
+  - Never be on the tank, {{ site.data.dungeon.bh.cleave }} cleaves (duh).
+  - Hide behind the Tank when targeted by {{ site.data.dungeon.bh.savage_charge }}.
+  - Kite and stay farther than 8 yards away during {{ site.data.dungeon.bh.bladestorm }}. Use {{ site.data.talent.swg }} to keep uptime while kiting.
 * {{ site.data.dungeon.bh.tricktotem }}
-  - Assign a party member to always interrupt {{ site.data.dungeon.bh.tricktotem }}'s {{ site.data.dungeon.bh.greater_healing_rapids }}. Interrupt {{ site.data.dungeon.bh.tricktotem }}'s {{ site.data.dungeon.bh.earth_bolt_boss }} with the group other kicks.
-  - Nuke {{ site.data.dungeon.bh.tricktotem }}'s {{ site.data.dungeon.bh.hextrick_totem }} to help your critterised party members.
+  - Assign a party member to always interrupt {{ site.data.dungeon.bh.greater_healing_rapids }}. Interrupt {{ site.data.dungeon.bh.earth_bolt_boss }} with the group other kicks.
+  - Nuke {{ site.data.dungeon.bh.hextrick_totem }} to help your critterised party members.
 * {{ site.data.dungeon.bh.gashtooth }}
-  - Use {{ site.data.talent.ag }} to help your healer during {{ site.data.dungeon.bh.gashtooth }}'s {{ site.data.dungeon.bh.gash_frenzy}}.
-  - Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.item.hs }} as needed to survive {{ site.data.dungeon.bh.gashtooth }}'s {{ site.data.dungeon.bh.marked_for_butchery}}.
+  - Use {{ site.data.talent.ag }} to help your healer during {{ site.data.dungeon.bh.gash_frenzy}}.
+  - Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.item.hs }} as needed to survive {{ site.data.dungeon.bh.marked_for_butchery}}.
 
 ---
 
 ## {{ site.data.dungeon.bh.gutshot }} trash
 
+**{{ site.data.dungeon.bh.fleshripper_vulture }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.screech }}.
+
+**{{ site.data.dungeon.bh.gutchewer_bear }}**
+* Just does tank Damage.
+
+**{{ site.data.dungeon.bh.rotbow_stalker }}**
+* {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
+* They do a lot of unavoidable damage with {{ site.data.dungeon.bh.shoot }} and {{ site.data.dungeon.bh.bone_bolt}}. Be ready to use {{ site.data.talent.as }} as needed.
+* Get out of their {{ site.data.dungeon.bh.bone_bolt_volley }} frontal.
+* {{ site.data.dungeon.bh.scented_meat }} is a debuff that will make any {{ site.data.dungeon.bh.vicious_hyena }}, {{ site.data.dungeon.bh.fleshripper_vulture }} and {{ site.data.dungeon.bh.gutchewer_bear }} in the area attack the targeted player. Stay attentive on who the debuff goes, use {{ site.data.spell.earthbind_totem }} and {{ site.data.talent.capacitor_totem }} to help the focused player kite. Use {{ site.data.talent.swg }} to keep uptime while kiting.
+
+**{{ site.data.dungeon.bh.gutstabber }}**
+* This mobs use {{ site.data.dungeon.bh.stealth }} and are scattered in the area. Try to learn their position to avoid running randomly into them.
+* Be ready to use {{ site.data.talent.as }} if you body pull or are targeted by {{ site.data.dungeon.bh.withering_poison }}.
+
 ---
 
 ## {{ site.data.dungeon.bh.gutshot }}
+* Have {{ site.data.spell.fs }} active on all targets for {{ site.data.talent.splinter }} and {{ site.data.talent.sfd }} value.
+* Dodge {{ site.data.dungeon.bh.bounding_leap }} brown swirly and {{ site.data.dungeon.bh.ensnaring_trap }} grey swirly.
+* Kill the {{ site.data.dungeon.bh.rotfang_hyena }} as soon as possible.
+* {{ site.data.dungeon.bh.meat_toss }} will make the {{ site.data.dungeon.bh.rotfang_hyena }} attack the targeted player. Kite them into the {{ site.data.dungeon.bh.ensnaring_trap }} for free damage and CC. Use {{ site.data.talent.swg }} to keep uptime while kiting.
+* Beware of {{ site.data.dungeon.bh.masters_call }} freeing the trapped {{ site.data.dungeon.bh.rotfang_hyena }} and giving them movement speed. Be ready to get away.
+* Do not bait {{ site.data.dungeon.bh.ensnaring_trap }} behind the tank, they will get knocked back by {{ site.data.dungeon.bh.gut_shot }}.
+
+---
+
+## {{ site.data.dungeon.bh.treemouth }} trash
+
+Going straight from {{ site.data.dungeon.bh.gutshot }} to {{ site.data.dungeon.bh.treemouth }} area, you should only encounter one new type of mob (a mini-boss).
+
+### {{ site.data.dungeon.bh.stinkbreath }}
+* Stay relatively close, but not closer than 7 yards to ignore {{ site.data.dungeon.bh.violent_whirlwind }}.
+* Quickly move to the side when targeted by the {{ site.data.dungeon.bh.stink_breath }} frontal or you will be {{ site.data.dungeon.bh.disoriented }}. Be careful, the cast time is short. Use {{ site.data.talent.swg }} to keep uptime while dodging.
+* Be careful not to fall off the bridge if you plan to use {{ site.data.talent.gust_of_wind }} to dodge {{ site.data.dungeon.bh.stink_breath }}.
+
+Taking a detour, it's also possible to encounter new mobs. They shouldn't be in most route, but here are some advices on how to handle them.
+
+### {{ site.data.dungeon.bh.treemouth }} optional trash
+
+**{{ site.data.dungeon.bh.decaying_slime }}**
+* It will {{ site.data.dungeon.bh.burst }} on death, move out of it.
+
+**{{ site.data.dungeon.bh.infected_lasher }}**
+* Just does tank damage.
+
+**{{ site.data.dungeon.bh.brackenhide_shaper }}**
+* use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.touch_of_decay }}.
+* Don't pull aggro on the new {{ site.data.dungeon.bh.infected_lasher }} summoned by {{ site.data.dungeon.bh.summon_lashers }}.
+
+**{{ site.data.dungeon.bh.decayed_elder }}**
+* Don't pull aggro on the new {{ site.data.dungeon.bh.infected_lasher }} summoned by {{ site.data.dungeon.bh.summon_lasher }}.
+* Use {{ site.data.talent.thunderous_paws }} to get out of {{ site.data.dungeon.bh.decaying_roots }}.
+
+**{{ site.data.dungeon.bh.wilted_oak }}**
+* This is the most dangerous enemy in the area, be sure to focus it.
+* Don't pull aggro on the new {{ site.data.dungeon.bh.infected_lasher }} summoned by {{ site.data.dungeon.bh.essence_of_decay }}.
+* Stay away from it to ignore {{ site.data.dungeon.bh.stomp }}.
+* Dodge the {{ site.data.dungeon.bh.necrotic_breath }} frontal.
+
+---
+
+## {{ site.data.dungeon.bh.treemouth }}
+* Don't be on the tank, {{ site.data.dungeon.bh.vine_whip }} and {{ site.data.dungeon.bh.decay_spray }} cleave!
+* {{ site.data.dungeon.bh.decay_spray }} will summon 4 {{ site.data.dungeon.bh.decaying_slime }}. Cleave them and use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.gushing_ooze }}.
+* Spread {{ site.data.spell.fs }} to all targets for {{ site.data.talent.splinter }} value!
+* Use {{ site.data.talent.swg }} to kite away while {{ site.data.dungeon.bh.grasping_vines }} is pulling you. Don't walk into {{ site.data.dungeon.bh.withering_away }} puddles.
+* {{ site.data.dungeon.bh.treemouth }} will {{ site.data.dungeon.bh.consume }} any target within 10 yards after casting {{ site.data.dungeon.bh.grasping_vines }}.
+If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }}. You need to rotate one player to be eaten.
+* You can still cast while consumed. Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.spell.healing_surge }} to stay alive at all cost.
+
+---
+
+## {{ site.data.dungeon.bh.decatriarch_wratheye }} trash
+
+**{{ site.data.dungeon.bh.filth_caller }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.decay_surge }}.
+* Move out of {{ site.data.dungeon.bh.rotting_surge }} green swirly. Use {{ site.data.talent.swg }} to keep uptime while moving.
+
+**{{ site.data.dungeon.bh.disease_slasher }} and {{ site.data.dungeon.bh.wither_biter }}**
+* They just do tank damage.
+
+**{{ site.data.dungeon.bh.fetid_rotsinger }}**
+* {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.burst_of_decay}}.
+* **IMMMEDIATELY** swap on the {{ site.data.dungeon.bh.decay_totem }} whenever it's spawned by {{ site.data.dungeon.bh.summon_totem }}.
+
+**{{ site.data.dungeon.bh.vile_rothexer }}**
+* Stay spreaded at 5 yards to avoid spreading {{ site.data.dungeon.bh.withering_contagion }} to your party.
+* If you can, stay farther than 30 yards to avoid {{ site.data.dungeon.bh.siphon_decay }}.
+* {{ site.data.spell.wind_shear }} has a 30 yards range. You might want to sit at 25-30 yards to be able to interrupt spells and move out when {{ site.data.dungeon.bh.siphon_decay }} is being casted. Use {{ site.data.talent.swg }} to keep uptime while moving.
+
+---
+
+## {{ site.data.dungeon.bh.decatriarch_wratheye }}
+* The room is really small and there are many area denials in the fight. Be ready to move at all time and use {{ site.data.talent.swg }} when needed.
+* {{ site.data.dungeon.bh.choking_rotcloud }} is an AoE that rotates around the room. You want to dodge it at all cost to avoid getting {{ site.data.dungeon.bh.withering_rot }} stacks.
+* Instantly swap on the {{ site.data.dungeon.bh.rotburst_totem }} whenever it spawns. Use {{ site.data.talent.ag }} to help the healer as needed.
+* {{ site.data.dungeon.bh.decaying_strength }} will apply {{ site.data.dungeon.bh.withered_eruption }} to everyone on your team. The more stacks of {{ site.data.dungeon.bh.withering_rot }} you have, the larger the size of the bomb you get. Make sure to spread accordingly!
+Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 </div>
 </div>
