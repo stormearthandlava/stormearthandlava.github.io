@@ -106,6 +106,12 @@ There are two main build that will be used in Dragonflight Season Two : Wildfire
 
 ---
 
+## Dungeon buffs
+
+Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the dungeon. A player with at least 25 skill in Dragon isles {{ site.data.item.alchemy }} can interact with it to purify it. This will allow players to get a {{ site.data.dungeon.bh.cleansed_rot }} buff by clicking on it. {{ site.data.dungeon.bh.cleansed_rot }} dispels one disease on the player when used as an extra button.
+
+---
+
 ## {{ site.data.dungeon.bh.rira_hackclaw }}'s War Band trash
 
 **{{ site.data.dungeon.bh.claw_fighter }}**

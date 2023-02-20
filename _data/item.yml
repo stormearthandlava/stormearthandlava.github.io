@@ -20,6 +20,22 @@ hs: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healt
 demonic_gateway: <a href="https://www.wowhead.com/spell=111771/demonic-gateway" target="blank">Demonic Gateway</a>
 gateway_control_shard: <a href="https://www.wowhead.com/item=188152/gateway-control-shard" target="blank">Gateway Control Shard</a>
 
+# Professions
+alchemy: <a href="https://www.wowhead.com/skill=171/alchemy" target="blank">Alchemy</a>
+blacksmithing: <a href="https://www.wowhead.com/skill=164/blacksmithing" target="blank">Blacksmithing</a>
+enchanting: <a href="https://www.wowhead.com/skill=333/enchanting" target="blank">Enchanting</a>
+engineering: <a href="https://www.wowhead.com/skill=202/engineering" target="blank">Engineering</a>
+herbalism: <a href="https://www.wowhead.com/skill=182/herbalism" target="blank">Herbalism</a>
+inscription: <a href="https://www.wowhead.com/skill=773/inscription" target="blank">Inscription</a>
+jewelcrafting: <a href="https://www.wowhead.com/skill=755/jewelcrafting" target="blank">Jewelcrafting</a>
+leatherworking: <a href="https://www.wowhead.com/skill=165/leatherworking" target="blank">Leatherworking</a>
+mining: <a href="https://www.wowhead.com/skill=186/mining" target="blank">Mining</a>
+skinning: <a href="https://www.wowhead.com/skill=393/skinning" target="blank">Skinning</a>
+tailoring: <a href="https://www.wowhead.com/skill=197/tailoring" target="blank">Tailoring</a>
+archaeology: <a href="https://www.wowhead.com/skill=794/archaeology" target="blank">Archaeology</a>
+cooking: <a href="https://www.wowhead.com/skill=185/cooking" target="blank">Cooking</a>
+fishing: <a href="https://www.wowhead.com/skill=356/fishing" target="blank">Fishing</a>
+
 # DF Phials
 phial_eits: <a href="https://www.wowhead.com/item=191320/phial-of-the-eye-in-the-storm" target="blank">Phial of the Eye in the Storm</a>
 phial_sa: <a href="https://www.wowhead.com/item=191321/phial-of-still-air" target="blank">Phial of Still Air</a>
