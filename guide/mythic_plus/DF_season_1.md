@@ -121,7 +121,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 ### Wildfire
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINaRLtkQOAAAAAAAUCQKJJCRBIRSTJJQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJJCRBIRSTJJQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 ---
@@ -250,13 +250,13 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 
 ### SK MwF PSurge
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINaBtkkkDAAAAAAAlAokESTUIIJJlUCQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAAlAokESTUIIJJlUCQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 ### Wildfire
 A full AoE build is still a good option depending on your route and your party composition.
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINaRLtkQOAAAAAAAUCgSSINRhgkkUSJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCgSSINRhgkkUSJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 ---
@@ -669,7 +669,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 ### Wildfire
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJJCRBIJJNlEQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJJCRBIJJtUCQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 ---
@@ -786,7 +786,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 ### Wildfire
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJJCJFgEJNlEQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJJCJFgEJtUCQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 ---
@@ -907,7 +907,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 
 ### Wildfire
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKRLtkQOAAAAAAAUCgSSi0EFgkk0SJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCgSSi0EFgkk0SJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 ---
