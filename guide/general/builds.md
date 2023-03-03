@@ -13,7 +13,7 @@ Note: As the builds need to be complete to display the class tree is also filled
 This includes but is not limited to:
    - {{ site.data.talent.icefury }} buffed {{ site.data.spell.frs }}s in AoE and Single target, for the builds that take {{ site.data.talent.flux_melting }} you should continue to treat it like a filler only. (Note: when playing {{ site.data.talent.e_shocks }} it produces the same result in single target to care or not care about {{ site.data.talent.icefury }} buffs, this was consistent across the most popular build types that include it) 
    - {{ site.data.talent.sk }} usage. Despite the buff to {{ site.data.spell.lb }} there has been no change to how we consume {{ site.data.talent.sk }} buffs on varying target counts.
-   - for those using {{ site.data.talent.mwf }} builds remember the priority has not changed, the build just has less sources of {{ site.data.talent.lvs }} procs relative to the alternative {{ site.data.talent.wlr }} build.
+   - For those using {{ site.data.talent.mwf }} builds remember the priority has not changed, the build just has less sources of {{ site.data.talent.lvs }} procs relative to the alternative {{ site.data.talent.wlr }} build.
    - Some players were already including {{ site.data.talent.icefury }} with {{ site.data.talent.e_shocks }} into the Wildfire builds (trading {{ site.data.talent.fop }} for them), this choice gained some ground with the buff to baseline {{ site.data.spell.frs }} damage and the maelstrom gains of {{ site.data.talent.if }} buffs.
 
 <p style="color:red">Click on a build banner to expand it.</p>
