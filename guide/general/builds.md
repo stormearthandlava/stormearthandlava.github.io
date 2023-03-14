@@ -1,13 +1,20 @@
 ---
 layout: page
 title: Builds
-last_update: 16/02/2023
+last_update: 03/03/2023
 game_version: 10.0.5 Dragonflight
 toc: false
 ---
 This page aims to display and discuss the recommended and most widely-used Builds available to Elemental. This is not an exhaustive list of all options and does not imply that any build *not* shown here is automatically terrible/unplayable, in practical terms we cannot account for every build variation and effort has been largely focused on the highest performing / most popular builds. If you find something that you feel works or performs better than what is listed here feel free to contact the team on [Storm, Earth & Lava Discord](https://discord.gg/y5dUf3PWrU) or [Earthshrine #Elemental Channel](https://discord.gg/earthshrine)
 
 Note: As the builds need to be complete to display the class tree is also filled out, these are not required choices and will not suit every situation.
+
+# The hotfixes applied on 28/02/23 (NA) and 01/03/23 (EU) do not appear to have any impact on rotational priority from initial testing.
+This includes but is not limited to:
+   - {{ site.data.talent.icefury }} buffed {{ site.data.spell.frs }}s in AoE and Single target, for the builds that take {{ site.data.talent.flux_melting }} you should continue to treat it like a filler only. (Note: when playing {{ site.data.talent.e_shocks }} it produces the same result in single target to care or not care about {{ site.data.talent.icefury }} buffs, this was consistent across the most popular build types that include it) 
+   - {{ site.data.talent.sk }} usage. Despite the buff to {{ site.data.spell.lb }} there has been no change to how we consume {{ site.data.talent.sk }} buffs on varying target counts.
+   - For those using {{ site.data.talent.mwf }} builds remember the priority has not changed, the build just has less sources of {{ site.data.talent.lvs }} procs relative to the alternative {{ site.data.talent.wlr }} build.
+   - Some players were already including {{ site.data.talent.icefury }} with {{ site.data.talent.e_shocks }} into the Wildfire builds (trading {{ site.data.talent.fop }} for them), this choice gained some ground with the buff to baseline {{ site.data.spell.frs }} damage and the maelstrom gains of {{ site.data.talent.if }} buffs.
 
 <p style="color:red">Click on a build banner to expand it.</p>
 
@@ -517,6 +524,10 @@ Staples of wildfire as a M+ include {{ site.data.talent.sfd }}, {{ site.data.tal
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpIJlkACSjSOQLtkQOAAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
+  
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkASLSjSOQLNJEAAAAAAQJAKJhQUgUSk0SJARSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  </div>
 
 Note: There are multiple possible variants of this build that do not include rotational priority changes, these will all play similarly and you can choose between them based on personal preference and/or sim results. The three linked above are, at least in my opinion, the 'standard' setups with one taking {{ site.data.talent.imp_ftw }} with {{ site.data.talent.potm }} another opting to go for {{ site.data.talent.flow_of_power }} and {{ site.data.talent.swelling_maelstrom }}, and one simply taking {{ site.data.talent.searing_flames }} instead of {{ site.data.talent.echo_chamber }}.
 
@@ -572,8 +583,10 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.pw }} if it is available and no additional targets will be available soon
  - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.spell.frs }} if {{ site.data.talent.icefury }} buff is active and {{ site.data.talent.e_shocks }} debuff is not
  - {{ site.data.spell.lvb }} if {{ site.data.talent.dre }} proc is active. Note: if you have to move you will still cast {{ site.data.spell.es }} as below, and continue to follow the priorities above!
  - {{ site.data.spell.es }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.talent.if }} 
  - {{ site.data.spell.lvb }}
  - {{ site.data.spell.lb }}
  - Refresh {{ site.data.spell.fs }} or cast {{ site.data.spell.frs }} when moving
@@ -589,7 +602,9 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
+ - {{ site.data.spell.frs }} if {{ site.data.talent.icefury }} buff is active and {{ site.data.talent.e_shocks }} debuff is not
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} buff is active
+ - {{ site.data.talent.if }} 
  - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
 
@@ -603,6 +618,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.frs }} if {{ site.data.talent.icefury }} buff is active and {{ site.data.talent.e_shocks }} debuff is not (Note: do not do this against 5 or more targets unless moving)
+ - {{ site.data.talent.if }} (Note: do not do this against 5 or more targets unless moving soon)
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
  - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
@@ -646,6 +663,10 @@ Staples of wildfire as a M+ include {{ site.data.talent.sfd }}, {{ site.data.tal
 
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSSJJQCJNKRLkQEAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  </div>
+  
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJtINKRLNJEAAAAAAQJAKJhQUgUSk0SJARSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
 Note: There are multiple possible variants of this build that do not include rotational priority changes, these will all play similarly and you can choose between them based on personal preference and/or sim results. The two variants shown above are, in my opinion, the 'standard' ways to include it in a Wildfire setup - this is not the only way. The structure is similar to the variants without {{ site.data.talent.eb }} so learning how it changes the rotation is the only real barrier.
@@ -707,6 +728,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active, to avoid overcapping
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.lvb }} if {{ site.data.talent.dre }} proc is active.
+ - {{ site.data.spell.frs }} if {{ site.data.talent.icefury }} buff is active and {{ site.data.talent.e_shocks }} debuff is not
+ - {{ site.data.talent.if }}
  - {{ site.data.spell.lvb }}
  - {{ site.data.spell.lb }}
  - Refresh {{ site.data.spell.fs }} or cast {{ site.data.spell.frs }} when moving
@@ -724,6 +747,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active
  - {{ site.data.talent.eb }} preferably with {{ site.data.talent.mote }} buff active, to avoid overcapping
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
+ - {{ site.data.spell.frs }} if {{ site.data.talent.icefury }} buff is active and {{ site.data.talent.e_shocks }} debuff is not
+ - {{ site.data.talent.if }}
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} buff is active
  - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
@@ -739,6 +764,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.lvb }} if {{ site.data.talent.lvs }} buff is active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.frs }} if {{ site.data.talent.icefury }} buff is active and {{ site.data.talent.e_shocks }} debuff is not
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
  - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
@@ -754,6 +780,8 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
  - {{ site.data.spell.eq }} preferably with {{ site.data.talent.mote }} buff active
  - {{ site.data.spell.cl }} if {{ site.data.talent.potm }} and {{ site.data.talent.mote }} buffs are active
  - {{ site.data.spell.lvbm }} if {{ site.data.talent.mote }} buff is active and you will finish the cast
+ - {{ site.data.spell.frs }} if {{ site.data.talent.icefury }} buff is active and {{ site.data.talent.e_shocks }} debuff is not
+ - {{ site.data.talent.if }}
  - {{ site.data.spell.lvb }} if {{ site.data.talent.mote }} buff is not active
  - {{ site.data.spell.lvb }}
  - {{ site.data.spell.cl }}
