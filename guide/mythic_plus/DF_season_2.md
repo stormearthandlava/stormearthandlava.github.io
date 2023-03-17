@@ -291,7 +291,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 ### Notable talent choices
 * {{ site.data.talent.purge }} has some uses but could be skipped for other utilities.
 * {{ site.data.talent.spirit_walk }} has some uses but could be skipped for other utilities.
-* {{ site.data.talent.earthgrab_totem }} could be used in the frog area.
+* {{ site.data.talent.earthgrab_totem }} could be used in the frog area, but {{ site.data.talent.wrt }} is quite useful with the long corridors of the dungeon.
 
 ### Wildfire
 <div class="iframe-holder">
@@ -413,10 +413,36 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 ![Line Break](/assets/img/blog/bluelinebreak.png)
 
 ## Big Elemental dude's trash
+The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.crashing_tsunami }} will constantly come into you. {{ site.data.talent.swg }} is very potent in that area to dodge the incoming waves.
+
+**{{ site.data.dungeon.hoi.aqua_rager }}**
+* Mostly does tank damage.
+* At 20% hp, it will cast {{ site.data.dungeon.hoi.tidal_divergence }} that must be interrupted with {{ site.data.spell.wind_gust }} or it will spawn 4 {{ site.data.dungeon.hoi.aqualing }}.
+
+**{{ site.data.dungeon.hoi.aqualing }}**
+* Use {{ site.data.spell.wind_gust }} to interrupt {{ site.data.dungeon.hoi.water_bolt }}. It is not a priority to get these.
+
+**{{ site.data.dungeon.hoi.infuser_sariya }}**
+* When you engage this mini-boss, the {{ site.data.dungeon.hoi.crashing_tsunami }} gauntlet will stop.
+* {{ site.data.dungeon.hoi.inundate }} does party-wide unavoidable damage. Use {{ site.data.talent.ag }} to help your healer.
+* Use {{ site.data.spell.wind_gust }} to interrupt {{ site.data.dungeon.hoi.aqueous_barrier }}.
+* Stay farther than 12 yards away to ignore {{ site.data.dungeon.hoi.flash_flood }}.
 
 ![Line Break](/assets/img/blog/bluelinebreak.png)
 
 ## {{ site.data.dungeon.hoi.primal_tsunami }}
+
+### Phase 1
+* Avoid the swirlies and spheres created by {{ site.data.dungeon.hoi.infused_globules }}. Use {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }} to remove the {{ site.data.dungeon.hoi.waterlogged }} debuff if you ever run into one.
+* Avoid the incoming {{ site.data.dungeon.hoi.rogue_waves }}.
+* Help your healer with {{ site.data.talent.ag }} during {{ site.data.dungeon.hoi.tempests_fury }}.
+
+### Phase 2
+* You will be sent at the end of the bridge by {{ site.data.dungeon.hoi.cast_away }}.
+* Dodge the incoming {{ site.data.dungeon.hoi.crashing_tsunami }} and {{ site.data.dungeon.hoi.infused_globules }} to quickly run back. This is great time to use {{ site.data.talent.wrt }} and {{ site.data.talent.spirit_walk }}.
+* Kill the {{ site.data.dungeon.hoi.primalist_infuser }} to end this phase.
+* Use {{ site.data.spell.wind_gust }} to interrupt {{ site.data.dungeon.hoi.infuse }} from {{ site.data.dungeon.hoi.primalist_infuser }}.
+* {{ site.data.dungeon.hoi.inundate }} does party-wide unavoidable damage. Use {{ site.data.talent.ag }} to help your healer.
 
 </div>
 </div>

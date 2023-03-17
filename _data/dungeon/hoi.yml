@@ -41,6 +41,7 @@ tailwind: <a href="https://www.wowhead.com/spell=374149/tailwind" target="blank"
 blasting_gust: <a href="https://www.wowhead.com/spell=374080/blasting-gust" target="blank">Blasting Gust</a>
 
 # Old Keeper
+# Phase 1
 watcher_irideus: <a href="https://www.wowhead.com/npc=189719/watcher-irideus" target="blank">Watcher Irideus</a>
 spark_volley: <a href="https://www.wowhead.com/spell=383935/spark-volley" target="blank">Spark Volley</a>
 reactive_spark: <a href="https://www.wowhead.com/spell=383952/reactive-spark" target="blank">Reactive Spark</a>
@@ -48,6 +49,7 @@ titanic_fist: <a href="https://www.wowhead.com/spell=384524/titanic-fist" target
 static_surge: <a href="https://www.wowhead.com/spell=384014/static-surge" target="blank">Static Surge</a>
 power_overload: <a href="https://www.wowhead.com/spell=389179/power-overload" target="blank">Power Overload</a>
 power_field: <a href="https://www.wowhead.com/spell=389181/power-field" target="blank">Power Field</a>
+# Phase 2
 ablative_barrier: <a href="https://www.wowhead.com/spell=383840/ablative-barrier" target="blank">Ablative Barrier</a>
 siphon_power: <a href="https://www.wowhead.com/spell=389056/siphon-power" target="blank">Siphon Power</a>
 nullification_device: <a href="https://www.wowhead.com/npc=196712/nullification-device" target="blank">Nullification Device</a>
@@ -153,6 +155,8 @@ tempests_fury: <a href="https://www.wowhead.com/spell=388424/tempests-fury" targ
 squall_buffet: <a href="https://www.wowhead.com/spell=387504/squall-buffet" target="blank">Squall Buffet</a>
 focused_deluge: <a href="https://www.wowhead.com/spell=387571/focused-deluge" target="blank">Focused Deluge</a>
 undertow: <a href="https://www.wowhead.com/spell=389872/undertow" target="blank">Undertow</a>
+rogue_waves: <a href="https://www.wowhead.com/spell=388760/rogue-waves" target="blank">Rogue Waves</a>
+
 #P2
 cast_away: <a href="https://www.wowhead.com/spell=388420/cast-away" target="blank">Cast Away</a>
 crashing_tsunami: <a href="https://www.wowhead.com/spell=383204/crashing-tsunami" target="blank">Crashing Tsunami</a>
