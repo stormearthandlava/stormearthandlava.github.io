@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Vault of the Incarnates Guide"
-date: 15/02/2023
-game_version: 10.0.2 Dragonflight
+date: 15/03/2023
+game_version: 10.0.5 Dragonflight
 author: Sheffy, Elivrio
 toc: false
 ---
@@ -18,7 +18,7 @@ This guide was made possible by:
 - HawkCorrigan (Discord: HawkCorrigan#1811)
 - Kaldeak (Discord: Kaldeak#1394)
 - Sheffy (Discord: Sheffy#4928 \| [Twitch](https://www.twitch.tv/sheffywow) \| [Twitter](https://twitter.com/SheffyWoW))
-- Elivrio (in-game : Tyrindra-Ysondre, Discord: Elivrio#1450)
+- Elivrio (Discord: Elivrio#1450, in-game : Tyrindra-Ysondre)
 
 The tips and recommendations listed here are based on educated opinions from PTR raid testing and reviewing logs and videos, so strategies can change as we develop a better understanding of each fight or as the spec and bosses are tuned. If you have any disagreements, feedback, or questions, please feel welcome to reach out to the team.
 
@@ -60,7 +60,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSLJQCJNKBSSSAAAAAAAlAkSS0STUgUSSSLASSAA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
-**Damage**
+**Damage:**
 
 * Maintain {{ site.data.spell.flame_shock }} on multiple targets.
 * Use {{ site.data.talent.stormkeeper }} when [Flamescale Tarasek](https://www.wowhead.com/npc=187638/flamescale-tarasek) are spawning, consider having a {{ site.data.talent.sop }} buff active!
@@ -101,7 +101,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSShSUikQEAAAAAAUCQKJQTUgUSSSLAkkIE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-**Damage**
+**Damage:**
 
 * There are no phases or timings that require you to plan your cooldowns around.
 * Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst repositioning for either [Rock Blast](https://www.wowhead.com/spell=380487/rock-blast) or [Infused Fallout](https://www.wowhead.com/spell=391592/infused-fallout) (Mythic).
@@ -144,7 +144,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAg0SpUSCASLJFK5At0SCRAAAAAAQJApkECJFIlEJtUSABQA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-**Damage**
+**Damage:**
 
 * Maintain {{ site.data.spell.fs }} on all targets to utilize {{ site.data.talent.splinter }}, {{ site.data.talent.magma_chamber }} and {{ site.data.talent.sfd }}.
 * There are no phases or timings that require you to plan your cooldowns around.
@@ -179,7 +179,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSShSUikQEAAAAAAUCQKJhUEFIlkk0Co0SCA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
-**Damage**
+**Damage:**
 
 * Always focus down [Frostbreath Arachnids](https://www.wowhead.com/npc=199333/frostbreath-arachnid) as fast as possible to limit the damage income by [Chilling Aura](https://www.wowhead.com/spell=373817/chilling-aura).
 * Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with [Gossamer Burst](https://www.wowhead.com/spell=373405/gossamer-burst) and other movement heavy portions of the fight.
@@ -213,7 +213,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSLJQCJNKBSSSAAAAAAAlAkSS0STUgUSSSLASSAA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
-**Damage**
+**Damage:**
 
 * Use {{ site.data.talent.sk }} optimally with {{ site.data.talent.sop }} active to burst down [Thunder Caller](https://www.wowhead.com/npc=194647/thunder-caller).
 * Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with [Conductive Mark](https://www.wowhead.com/spell=391686/conductive-mark) and [Cyclone](https://www.wowhead.com/spell=376943/cyclone).
@@ -255,7 +255,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
-**Damage**
+**Damage:**
 
 * If talented, use {{ site.data.talent.sk }} when [Earth Breakers](https://www.wowhead.com/npc=190586/earth-breaker) are spawning.
 * Focus down [Flamewrought Eradicator](https://www.wowhead.com/npc=198311/flamewrought-eradicator) (Mythic), [Frostwrought Dominator](https://www.wowhead.com/npc=198308/frostwrought-dominator) (Mythic), [Earthwrought Smasher](https://www.wowhead.com/npc=197595/earthwrought-smasher) (Mythic) and [Stormwrought Despoiler](https://www.wowhead.com/npc=198326/stormwrought-despoiler) (Mythic) whenever they are active.
@@ -293,7 +293,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJtIFKBSSSAAAAAAAlAkSSINRBSJJJtAIJBE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
-**Damage**
+**Damage:**
 
 * Use {{ site.data.talent.sk }} to burst down add waves during Phase 1.
 * Focus down [Juvenile Frost Proto-Dragon](https://www.wowhead.com/npc=191222/juvenile-frost-proto-dragon) whenever they are active.
@@ -322,7 +322,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 <div class="card">
 <div class="card-header" id="raszageth">
-<div data-toggle="collapse" data-target="#raszageth-collapse" aria-expanded="true" aria-controls="raszageth-collapse" class="raid-header vault_of_the_incarnates8"><h2>Raszageth</h2></div>
+<div data-toggle="collapse" data-target="#raszageth-collapse" aria-expanded="true" aria-controls="raszageth-collapse" class="raid-header vault_of_the_incarnates8"><h2>Raszageth, the Storm-Eater</h2></div>
+<div class=""></div>
 </div>
 <div id="raszageth-collapse" class="collapse" aria-labelledby="raszageth" data-parent="#accordion">
 <div class="card-body" markdown="1">
@@ -334,12 +335,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAAlAokESTUAlkk0SJAJkEA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-**Damage**
+**Damage:**
 * During intermissions, use {{ site.data.talent.sk }} and {{ site.data.talent.lmt }} to burst the adds.
 * In P2, keep offensive CDs for [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge), notably {{ site.data.talent.sk }}.
 * Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Static Charge](https://www.wowhead.com/spell=381615/static-charge) (P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 Bomb).
 
-**Defensive**
+**Defensives:**
 * Use {{ site.data.talent.as }}, or even {{ site.data.item.potion_rhp }} and {{ site.data.item.hs }} if needed, when away from the raid to drop [Static Charge](https://www.wowhead.com/spell=381615/static-charge) (P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 bomb).
 * Use {{ site.data.spell.healing_surge }} if necessary.
 * If talented, use {{ site.data.talent.ag }} to help healers, notably during [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) (P2).
@@ -352,10 +353,22 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * In P2 and P3, use {{ site.data.talent.gust_of_wind }} to rapidly go through [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing).
 * If talented, use {{ site.data.talent.wrt }} to help your raid repositioning during intermissions, [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing) (P1) and [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing) (P2 & P3).
 * {{ site.data.spell.bl }} usage :
-  - During progress, consider using it on the 2nd [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) shield in P2.
+  - During Normal and Heroic progress, consider using it on the 2nd [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) shield in P2.
   - If your fight is longer than 10 minutes, use {{ site.data.spell.bl }} on pull and whenever available in P3.
   - Otherwise, use it on the 2nd [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) shield in P2 (preferred) or on pull (fire and forget).
 
+**How to deal with [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing) in Mythic**
+
+In mythic mode, [Static Charge](https://www.wowhead.com/spell=381615/static-charge) does not drop a thunder pool that can be used to counter the push back of [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing). It means that you need to counter the winds yourself. Here is a way to counter the mechanic.  
+*Note: {{ site.data.talent.gust_of_wind }} is best used once the wind is over to quickly come back into melee range or even to jump back onto the platform.*
+1. {{ site.data.talent.swg }} before, {{ site.data.talent.gust_of_wind }} after.
+2. {{ site.data.item.demonic_gateway }} during, {{ site.data.talent.gust_of_wind }} after.
+3. - With an Evoker's {{ site.data.item.time_spiral }}: {{ site.data.talent.swg }} before, {{ site.data.spell.ghost_wolf }} if needed during, {{ site.data.talent.gust_of_wind }} after.
+   - Without {{ site.data.item.time_spiral }}: {{ site.data.spell.ghost_wolf }} before, {{ site.data.talent.gust_of_wind }} after.
+4. {{ site.data.talent.swg }} and {{ site.data.spell.ghost_wolf }} before, {{ site.data.talent.gust_of_wind }} after.
+5. {{ site.data.spell.ghost_wolf }} before, {{ site.data.item.demonic_gateway }} during, {{ site.data.talent.gust_of_wind }} after.
+
+Of course, this is just a way to do it. Feel free to experiment with your movement CDs to find the most suitable way to beat it.
 </div>
 </div>
 </div>
