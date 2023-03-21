@@ -466,7 +466,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 ![Line Break](/assets/img/blog/bluelinebreak.png)
 
-## {{ site.data.dungeon.ntr.example }} trash
+## Magma Mammoth's trash
 
 **{{ site.data.dungeon.ntr.example }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
