@@ -142,12 +142,20 @@ lava_spawn: <a href="https://www.wowhead.com/npc=194389/lava-spawn" target="blan
 # Lava Spill - pool on death
 
 ## Warlord Sargha
-warlord_sargha: <a href="https://www.wowhead.com/npc=189901/warlord-sargha" target="blank">Warlord Sargha</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+warlord_sargha: <a href="https://www.wowhead.com/npc=189901/warlord-sargha" target="blank">Warlord Sargha</a>
+magma_shield: <a href="https://www.wowhead.com/spell=376780/magma-shield" target="blank">Magma Shield</a> # must be broken with pile of gold treasures
+flame_eruption: <a href="https://www.wowhead.com/spell=376783/flame-eruption" target="blank">Flame Eruption</a> # periodic big dam during magma shield
+flame_vulnerability: <a href="https://www.wowhead.com/spell=376784/flame-vulnerability" target="blank">Flame Vulnerability</a> # scales big dam
+the_dragons_eruption: <a href="https://www.wowhead.com/spell=391773/the-dragons-eruption" target="blank">The Dragon's Eruption</a> # Swirl during shield
+burning_ember: <a href="https://www.wowhead.com/spell=377477/burning-ember" target="blank">Burning Ember</a> # swirl
+burning_ground: <a href="https://www.wowhead.com/spell=377542/burning-ground" target="blank">Burning Ground</a> # puddle
+raging_ember: <a href="https://www.wowhead.com/npc=192464/raging-ember" target="blank">Raging Ember</a> # extra add, focus random target
+the_dragons_kiln: <a href="https://www.wowhead.com/spell=377204/the-dragons-kiln" target="blank">The Dragon's Kiln</a> # frontal
+molten_gold: <a href="https://www.wowhead.com/spell=377018/molten-gold" target="blank">Molten Gold</a> # Big DoT
+
+curse_of_the_dragon_hoard: <a href="https://www.wowhead.com/spell=391762/curse-of-the-dragon-hoard" target="blank">Curse of the Dragon Hoard</a> # DECURSE !! Soft enrage
+wand_of_negation: <a href="https://www.wowhead.com/spell=379020/wand-of-negation" target="blank">Wand of Negation</a> # target
+anti_magic_bomb: <a href="https://www.wowhead.com/spell=384601/anti-magic-bomb" target="blank">Anti-Magic Bomb</a> # target reticule (eq)
+azure_stone_of_might: <a href="https://www.wowhead.com/spell=392166/azure-stone-of-might" target="blank">Azure Stone of Might</a> # Targeted heroic leap
+rose_of_the_vale: <a href="https://www.wowhead.com/spell=392171/rose-of-the-vale" target="blank">Rose of the Vale</a> # must be within 12 yds
+seismic_boots: <a href="https://www.wowhead.com/spell=392260/seismic-boots" target="blank">Seismic Boots</a> # must be within 30 yds
