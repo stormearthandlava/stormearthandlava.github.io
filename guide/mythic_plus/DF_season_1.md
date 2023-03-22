@@ -13,10 +13,10 @@ This guide was made possible by:
 
 * Altenna (Discord: JudgeJames#0001 \| [Twitch](https://www.twitch.tv/judgejames) \| [Twitter](https://twitter.com/_judgejames_))
 * Amani (Discord: Amani#0001 \| [Discord Server](https://discordapp.com/invite/zTQhBn8) \| [YouTube](https://www.youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg))
+* Elivrio (Discord: Elivrio#1450, in-game: Tyrindra [EU-Ysondre])
 * Eokira (Discord: Eokira#7823)
 * Gaka (Discord: Gaka#7410)
 * HawkCorrigan (Discord: HawkCorrigan#1811)
-* Tyrindra [EU-Ysondre] (Discord: Elivrio#1450)
 
 Information on this page is written with the assumption that you understand the new priority list and talents in Dragonflight Season 1. If you have not done so, we highly recommend reading our other resources to learn about them!
 

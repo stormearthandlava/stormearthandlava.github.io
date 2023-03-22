@@ -14,4 +14,54 @@
 
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
-## Neltharus
+## Environnement
+
+## Magmatusk's Trash
+qalashi_warden: <a href="https://www.wowhead.com/npc=193293/qalashi-warden" target="blank">Qalashi Warden</a>
+volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+blazing_slash: <a href="https://www.wowhead.com/spell=397011/blazing-slash" target="blank">Blazing Slash</a> # tank damage
+
+qalashi_spinecrusher: <a href="https://www.wowhead.com/npc=192787/qalashi-spinecrusher" target="blank">Qalashi Spinecrusher</a>
+brutal_strike: <a href="https://www.wowhead.com/spell=378847/brutal-strike" target="blank">Brutal Strike</a> # tank damage
+
+qalashi_thaumaturge: <a href="https://www.wowhead.com/npc=192788/qalashi-thaumaturge" target="blank">Qalashi Thaumaturge</a>
+magma_conflagration: <a href="https://www.wowhead.com/spell=378818/magma-conflagration" target="blank">Magma Conflagration</a> # Party damage, Hard CC interrupt
+molten_core: <a href="https://www.wowhead.com/spell=378282/molten-core" target="blank">Molten Core</a> # Interrupt, transforms nearby Ore elemental to Molten Elemental
+
+ore_elemental: <a href="https://www.wowhead.com/npc=192781/ore-elemental" target="blank">Ore Elemental</a>
+granite_shell: <a href="https://www.wowhead.com/spell=378149/granite-shell" target="blank">Granite Shell</a> # Magic dispel
+
+molten_elemental: <a href="https://www.wowhead.com/npc=192782/molten-elemental" target="blank">Molten Elemental</a>
+molten_core_buff: <a href="https://www.wowhead.com/spell=378172/molten-core" target="blank">Molten Core</a> # triggers Molten explosion every 3s
+molten_explosion: <a href="https://www.wowhead.com/spell=378202/molten-explosion" target="blank">Molten Explosion</a> # AoE damage, applies Molten vulnerability
+molten_vulnerability: <a href="https://www.wowhead.com/spell=378221/molten-vulnerability" target="blank">Molten Vulnerability</a> # Molten explosion does more damage, stacking debuff
+
+qalashi_plunderer: <a href="https://www.wowhead.com/npc=192786/qalashi-plunderer" target="blank">Qalashi Plunderer</a>
+explosive_concoction: <a href="https://www.wowhead.com/spell=378827/explosive-concoction" target="blank">Explosive Concoction</a> # orange swirl
+
+## Magmatusk
+magmatusk: <a href="https://www.wowhead.com/npc=181861/magmatusk" target="blank">Magmatusk</a>
+magma_tentacle: <a href="https://www.wowhead.com/spell=374410/magma-tentacle" target="blank">Magma Tentacle</a> # Soft enrage: Longer fight => More mechanics
+magma_lob: <a href="https://www.wowhead.com/spell=375068/magma-lob" target="blank">Magma Lob</a> # 4y red swirls, spawn magma pools
+liquid_hot_magma: <a href="https://www.wowhead.com/spell=375204/liquid-hot-magma" target="blank">Liquid Hot Magma</a> # magma pool
+lava_empowerment: <a href="https://www.wowhead.com/spell=391457/lava-empowerment" target="blank">Lava Empowerment</a> # Boss buffed in magma pools
+lava_spray: <a href="https://www.wowhead.com/spell=375251/lava-spray" target="blank">Lava Spray</a> # Frontal
+blazing_charge: <a href="https://www.wowhead.com/spell=375439/blazing-charge" target="blank">Blazing Charge</a> # Charge a player, spawning magma pools on the way and Lava wave in the end. Do not bait in the wall
+lava_wave: <a href="https://www.wowhead.com/spell=375535/lava-wave" target="blank">Lave Wave</a> # Dodge
+
+## Chargath's Trash
+volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+
+## Chargath, Bane of Scales
+
+## Forgemaster's Trash
+
+## Forgemaster Gorek
+
+## Warlord Sargha's Trash
+
+## Warlord Sargha
