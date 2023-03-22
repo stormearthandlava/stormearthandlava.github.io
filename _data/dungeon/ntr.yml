@@ -91,6 +91,7 @@ dragon_strike: <a href="https://www.wowhead.com/spell=373733/dragon-strike" targ
 qalashi_lavabearer: <a href="https://www.wowhead.com/npc=189472/qalashi-lavabearer" target="blank">Qalashi Lavabearer</a>
 lava_drip: <a href="https://www.wowhead.com/spell=372211/lava-drip" target="blank">Lava Drip</a> # many pools, kited, great EQ
 throw_lava: <a href="https://www.wowhead.com/spell=394972/throw-lava" target="blank">Throw Lava</a> # swirl & pools
+lava_spill: <a href="https://www.wowhead.com/spell=372213/lava-spill" target="blank">Lava Spill</a> # pool on death
 
 lava_flare: <a href="https://www.wowhead.com/npc=189470/lava-flare" target="blank">Lava Flare</a>
 melt: <a href="https://www.wowhead.com/spell=372538/melt" target="blank">Melt</a> # interrupt
@@ -115,21 +116,35 @@ forgewrought_monstrosity: <a href="https://www.wowhead.com/npc=194816/forgewroug
 forgewrought_fury: <a href="https://www.wowhead.com/spell=384662/forgewrought-fury" target="blank">Forgewrought Fury</a> # Party damage
 blazing_detonation: <a href="https://www.wowhead.com/spell=376200/blazing-detonation" target="blank">Blazing Detonation</a> # On death damage?
 
+qalashi_goulash: <a href="https://www.wowhead.com/spell=383376/qalashi-goulash" target="blank">Qalashi Goulash</a> # cooking buff => Run back
+blazing_aegis_blacksmith: <a href="https://www.wowhead.com/spell=377170/blazing-aegis" target="blank">Blazing Aegis</a> # Blacksmith buff => Available after boss
+
 ## Forgemaster Gorek
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+forgemaster_gorek: <a href="https://www.wowhead.com/npc=189478/forgemaster-gorek" target="blank">Forgemaster Gorek</a>
+might_of_the_forge: <a href="https://www.wowhead.com/spell=374594/might-of-the-forge" target="blank">Might of the Forge</a> # Don't be on Anvil
+blazing_hammer: <a href="https://www.wowhead.com/spell=374640/blazing-hammer" target="blank">Blazing Hammer</a> # Deals party damage
+blazing_aegis: <a href="https://www.wowhead.com/spell=374812/blazing-aegis" target="blank">Blazing Aegis</a> # bounce on 3 players and cross swirls around each player
+blazing_eruption: <a href="https://www.wowhead.com/spell=375059/blazing-eruption" target="blank">Blazing Eruption</a> # Cross Swirl
+forgestorm: <a href="https://www.wowhead.com/spell=375244/forgestorm" target="blank">Forgestorm</a> # random swirl to dodge
+heated_swings: <a href="https://www.wowhead.com/spell=374535/heated-swings" target="blank">Heated Swings</a> # tank damage
+forgefire: <a href="https://www.wowhead.com/spell=381482/forgefire" target="blank">Forgefire</a> # magma pool after tank damage
 
 ## Warlord Sargha's Trash
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+apex_blazewing: <a href="https://www.wowhead.com/npc=193291/apex-blazewing" target="blank">Apex Blazewing</a>
+scalding_chomp: <a href="https://www.wowhead.com/spell=382002/scalding-chomp" target="blank">Scalding Chomp</a> # Tank Damage
+candescent_tempest: <a href="https://www.wowhead.com/spell=381663/candescent-tempest" target="blank">Candescent Tempest</a> # party damage (can be LoS) and knockback (cannot)
+
+qalashi_lavamancer: <a href="https://www.wowhead.com/npc=193944/qalashi-lavamancer" target="blank">Qalashi Lavamancer</a> # priority target
+lava_bolt: <a href="https://www.wowhead.com/spell=396925/lava-bolt" target="blank">Lava Bolt</a> # Interrupt, tank damage
+molten_barrier: <a href="https://www.wowhead.com/spell=382795/molten-barrier" target="blank">Molten Barrier</a> # Switch and focus when shielded. Does Party damage when destroyed
+molten_army: <a href="https://www.wowhead.com/spell=383656/molten-army" target="blank">Molten Army</a> # channel, interrupt
+lava_spawn: <a href="https://www.wowhead.com/npc=194389/lava-spawn" target="blank">Lava Spawn</a> # Add tank damage
+# Lava Spill - pool on death
 
 ## Warlord Sargha
+warlord_sargha: <a href="https://www.wowhead.com/npc=189901/warlord-sargha" target="blank">Warlord Sargha</a> # frontal
+volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
 volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
 volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
 volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
