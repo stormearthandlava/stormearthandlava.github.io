@@ -67,116 +67,89 @@ tremor: <a href="https://www.wowhead.com/spell=369660/tremor" target="blank">Tre
 bloodlust: <a href="https://www.wowhead.com/spell=369754/bloodlust" target="blank">Bloodlust</a> # interrupt with tremor or disenrage, nothing else to do
 
 # Serpentine Keeper's trash
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+earthen_custodian: <a href="https://www.wowhead.com/npc=184130/earthen-custodian" target="blank">Earthen Custodian</a>
+cleave: <a href="https://www.wowhead.com/spell=369409/cleave" target="blank">Cleave</a> # frontal
+rending_slash: <a href="https://www.wowhead.com/spell=369408/rending-slash" target="blank">Rending Slash</a> # tank damage
 
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+refti_custodian: <a href="https://www.wowhead.com/npc=184319/refti-custodian" target="blank">Refti Custodian</a>
+ancient_power: <a href="https://www.wowhead.com/spell=377738/ancient-power" target="blank">Ancient Power</a> # Scaling buff, purgeable?
 
 # Sentinel Talondras
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+sentinel_talondras: <a href="https://www.wowhead.com/npc=184124/sentinel-talondras" target="blank">Sentinel Talondras</a>
+resonating_orb: <a href="https://www.wowhead.com/spell=372623/resonating-orb" target="blank">Resonating Orb</a> # Orbs that stun
+ancient_dynamo: <a href="https://www.wowhead.com/spell=372716/ancient-dynamo" target="blank">Ancient Dynamo</a> # enrage at 100energy, stun to drain
+inexorable: <a href="https://www.wowhead.com/spell=372600/inexorable" target="blank">Inexorable</a> # 2 stun immunity
+unrelenting: <a href="https://www.wowhead.com/spell=386332/unrelenting" target="blank">Unrelenting</a> # Scales after stun
+titanic_empowerment: <a href="https://www.wowhead.com/spell=372719/titanic-empowerment" target="blank">Titanic Empowerment</a> # Enrage, you lost
+crushing_stomp: <a href="https://www.wowhead.com/spell=372701/crushing-stomp" target="blank">Crushing Stomp</a> # AoE and Knock
+earthen_shards: <a href="https://www.wowhead.com/spell=372718/earthen-shards" target="blank">Earthen Shards</a> # random ST DoT
+
+# Fire Keeper trash
+earthen_weaver: <a href="https://www.wowhead.com/npc=186420/earthen-weaver" target="blank">Earthen Weaver</a>
+stone_bolt: <a href="https://www.wowhead.com/spell=369399/stone-bolt" target="blank">Stone Bolt</a> # kick
+hail_of_stone: <a href="https://www.wowhead.com/spell=369465/hail-of-stone" target="blank">Hail of Stone</a> # channeled AoE, must be hard CCed
+
+runic_protector: <a href="https://www.wowhead.com/npc=184107/runic-protector" target="blank">Runic Protector</a>
+earthquake: <a href="https://www.wowhead.com/spell=369328/earthquake" target="blank">Earthquake</a> # unavoidable AoE dam channeled
+fissuring_slam: <a href="https://www.wowhead.com/spell=369335/fissuring-slam" target="blank">Fissuring Slam</a> # puddle on players
+difficult_terrain: <a href="https://www.wowhead.com/spell=369337/difficult-terrain" target="blank">Difficult Terrain</a> # Tank debuff
+
+earthen_warder: <a href="https://www.wowhead.com/npc=184132/earthen-warder" target="blank">Earthen Warder</a>
+earthen_ward: <a href="https://www.wowhead.com/spell=369400/earthen-ward" target="blank">Earthen Ward</a> # kick or purge
+curse_of_stone: <a href="https://www.wowhead.com/spell=369365/curse-of-stone" target="blank">Curse of Stone</a> # Kick or decurse
+trapped_in_stone: <a href="https://www.wowhead.com/spell=369366/trapped-in-stone" target="blank">Trapped in Stone</a> # decurse
+stone_eruption: <a href="https://www.wowhead.com/spell=369368/stone-eruption" target="blank">Stone Eruption</a> # explodes 6yds aoe
+
+skittering_crawler: <a href="https://www.wowhead.com/npc=184303/skittering-crawler" target="blank">Skittering Crawler</a>
+pounce: <a href="https://www.wowhead.com/spell=369423/pounce" target="blank">Pounce</a> # jump on random target for damage, unavoidable
+venomous_fangs: <a href="https://www.wowhead.com/spell=369419/venomous-fangs" target="blank">Venomous Fangs</a> # Poison debuff on tank
+
+cavern_seeker: <a href="https://www.wowhead.com/npc=184301/cavern-seeker" target="blank">Cavern Seeker</a>
+sonic_burst: <a href="https://www.wowhead.com/spell=369411/sonic-burst" target="blank">Sonic Burst</a> # Spell lock aoe at 10yds. Hard CC or outrange
+
+# Emberon
+emberon: <a href="https://www.wowhead.com/npc=184422/emberon" target="blank">Emberon</a>
+activate_keepers: <a href="https://www.wowhead.com/spell=369033/activate-keepers" target="blank">Activate Keepers</a> # spawns untargeteable adds that send magma balls
+vault_keeper: <a href="https://www.wowhead.com/npc=186107/vault-keeper" target="blank">Vault Keeper</a> # Adds
+seeking_flame: <a href="https://www.wowhead.com/spell=369049/seeking-flame" target="blank">Seeking Flame</a> # balls of fire sent by the add to dodge
+volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+unstable_embers: <a href="https://www.wowhead.com/spell=369110/unstable-embers" target="blank">Unstable Embers</a> # Bomb spread 7yds all players
+searing_clap: <a href="https://www.wowhead.com/spell=369061/searing-clap" target="blank">Searing Clap</a> # frontal
+burning_heat: <a href="https://www.wowhead.com/spell=369006/burning-heat" target="blank">Burning Heat</a> # DoT on the party, magic dispeleable
+#P2 Use WRT to travel between adds
+# kill adds to end the phase
+infusion: <a href="https://www.wowhead.com/spell=369043/infusion" target="blank">Infusion</a> # channeled by the vault keeper during P2
+fire_wave: <a href="https://www.wowhead.com/spell=369025/fire-wave" target="blank">Fire Wave</a> # pulsing fire damage
+purging_flames: <a href="https://www.wowhead.com/spell=368990/purging-flames" target="blank">Purging Flames</a> # Rotating beam
+sacred_barrier: <a href="https://www.wowhead.com/spell=369031/sacred-barrier" target="blank">Sacred Barrier</a> # boss immunity
+heat_engine: <a href="https://www.wowhead.com/spell=369029/heat-engine" target="blank">Heat Engine</a> # prevents going to the boss
+
+# Retcon Dragonfligh Herald's Trash
+ebonstone_golem: <a href="https://www.wowhead.com/npc=184300/ebonstone-golem" target="blank">Ebonstone Golem</a>
+thunderous_clap: <a href="https://www.wowhead.com/spell=381593/thunderous-clap" target="blank">Thunderous Clap</a> # Heavy AoE, might be outranged?
+
+earthen_guardian: <a href="https://www.wowhead.com/npc=184131/earthen-guardian" target="blank">Earthen Guardian</a>
+blessing_of_tyr: <a href="https://www.wowhead.com/spell=382578/blessing-of-tyr" target="blank">Blessing of Tyr</a> # Amp dome, damage players, thunderstorm?
+bulwark_slam: <a href="https://www.wowhead.com/spell=382696/bulwark-slam" target="blank">Bulwark Slam</a> # Tank Damage
+
+infinite_agent: <a href="https://www.wowhead.com/npc=184335/infinite-agent" target="blank">Infinite Agent</a>
+hasten: <a href="https://www.wowhead.com/spell=377500/hasten" target="blank">Hasten</a> # purge // let to mage if any
+time_blade: <a href="https://www.wowhead.com/spell=377486/time-blade" target="blank">Time Blade</a> # tank damage
+
+infinite_timereaver: <a href="https://www.wowhead.com/npc=184331/infinite-timereaver" target="blank">Infinite Timereaver</a>
+stolen_time: <a href="https://www.wowhead.com/spell=377510/stolen-time" target="blank">Stolen Time</a>
+# Stacking DoT that you get while in combat with it, don't engage too many at once.
+# Worth nothing that stun prevent the DoT from being applied, can give a window to reset stacks
+
+# Chrono-Lord Deios
+chrono_lord_deios: <a href="https://www.wowhead.com/npc=184125/chrono-lord-deios" target="blank">Chrono-Lord Deios</a> # frontal
+eternity_orb: <a href="https://www.wowhead.com/spell=376292/eternity-orb" target="blank">Eternity Orb</a> # swirl to dodge
+eternity_zone: <a href="https://www.wowhead.com/spell=376325/eternity-zone" target="blank">Eternity Zone</a> # puddle after swirl
+wing_buffet: <a href="https://www.wowhead.com/spell=376049/wing-buffet" target="blank">Wing Buffet</a> # Damage & knockback
+sand_breath: <a href="https://www.wowhead.com/spell=375727/sand-breath" target="blank">Sand Breath</a> # frontal on tank
+time_sink: <a href="https://www.wowhead.com/spell=377405/time-sink" target="blank">Time Sink</a> # DoT, trigger eruption when removed
+time_eruption: <a href="https://www.wowhead.com/spell=377561/time-eruption" target="blank">Time Eruption</a> # Damage and knockback
+
+rewind_timeflow: <a href="https://www.wowhead.com/spell=376208/rewind-timeflow" target="blank">Rewind Timeflow</a> #intermission 12s
+temporal_orb: <a href="https://www.wowhead.com/spell=376329/temporal-orb" target="blank">Temporal Orb</a> # orbs going up, doesn't matter
+temporal_zone: <a href="https://www.wowhead.com/spell=376333/temporal-zone" target="blank">Temporal Zone</a> # Haste puddle ! 

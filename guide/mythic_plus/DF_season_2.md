@@ -22,13 +22,13 @@ Information on this page is written with the assumption that you understand the 
 
 This guide is intended to help you identify critical mobs and abilities as well as improve your mechanical literacy in using your toolkit as an Elemental Shaman in each dungeon. If you have suggestions to improve the information in this guide please contact Eokira#7823 using the [Earthshrine Elemental channel](https://discord.gg/pGkPDzh7rP) or the [Storm, Earth & Lava discord](https://discord.gg/y5dUf3PWrU).
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
 
 # Talents
 
 There are two main build that will be used in Dragonflight Season Two : Wildfire and Lightning. You can find variation on each of them in the [build page](https://stormearthandlava.com/guide/general/builds.html).
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
 
 # Miscellaneous Tips
 
@@ -56,7 +56,7 @@ There are two main build that will be used in Dragonflight Season Two : Wildfire
 
 * [Learn to log your dungeon runs!](https://www.warcraftlogs.com/help/start) Warcraft Logs filters dungeons with pull-by-pull analyses and records replays of dungeon runs. Having logs available to share is helpful for you to receive actionable feedback.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
 
 # Affixes
 
@@ -86,10 +86,11 @@ There are two main build that will be used in Dragonflight Season Two : Wildfire
 * {{ site.data.affixes.storming }}: Maintain your distance from mobs to avoid {{ site.data.affixes.storming }}. Use {{ site.data.talent.swg }} as needed in tight spaces or when maneuvering any mechanics.
 * {{ site.data.affixes.volcanic }}: Watch your feet. Use {{ site.data.talent.swg }} as needed to maintain your damage uptime while avoiding {{ site.data.affixes.volcanic_plume }}.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
 
 # Dungeons
-<p style="color:red">Click on a dungeon banner to expand it.</p>
+
+<p style="color:red" align="center">Click on a dungeon banner to expand it.</p>
 
 <hr>
 <div class="dungeon-accordion">
@@ -113,13 +114,13 @@ There are two main build that will be used in Dragonflight Season Two : Wildfire
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINaRLtkQOAAAAAAAUCQKJJCRBIRSTJJQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Dungeon buffs
 
 Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the dungeon. A player with at least 25 skill in Dragon isles {{ site.data.item.alchemy }} can interact with it to purify it. This will allow players to get a {{ site.data.dungeon.bh.cleansed_rot }} buff by clicking on it. {{ site.data.dungeon.bh.cleansed_rot }} dispels one disease on the player when used as an extra button.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Gnoll troupe's trash
 
@@ -151,7 +152,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.hideous_cackle }}. Use {{ site.data.talent.tremor_totem }} if a cast is going through to avoid a catastrophe.
 * Stay farther than 5 yards away to ignore {{ site.data.dungeon.bh.ragestorm }}.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.bh.rira_hackclaw }}'s War Band
 * Have {{ site.data.spell.fs }} active on all targets for {{ site.data.talent.splinter }} and {{ site.data.talent.sfd }} value.
@@ -169,7 +170,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
   - Use {{ site.data.talent.ag }} to help your healer during {{ site.data.dungeon.bh.gash_frenzy}}.
   - Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.item.hs }} as needed to survive {{ site.data.dungeon.bh.marked_for_butchery}}.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Hyena Lover's trash
 
@@ -189,7 +190,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 * This mobs use {{ site.data.dungeon.bh.stealth }} and are scattered in the area. Try to learn their position to avoid running randomly into them.
 * Be ready to use {{ site.data.talent.as }} if you body pull or are targeted by {{ site.data.dungeon.bh.withering_poison }}.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.bh.gutshot }}
 * Have {{ site.data.spell.fs }} active on all targets for {{ site.data.talent.splinter }} and {{ site.data.talent.sfd }} value.
@@ -199,7 +200,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 * Beware of {{ site.data.dungeon.bh.masters_call }} freeing the trapped {{ site.data.dungeon.bh.rotfang_hyena }} and giving them movement speed. Be ready to get away.
 * Do not bait {{ site.data.dungeon.bh.ensnaring_trap }} behind the tank, they will get knocked back by {{ site.data.dungeon.bh.gut_shot }}.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Rotten Tree's trash
 
@@ -234,7 +235,7 @@ Taking a detour, it's also possible to encounter new mobs. They shouldn't be in 
 * Stay away from it to ignore {{ site.data.dungeon.bh.stomp }}.
 * Dodge the {{ site.data.dungeon.bh.necrotic_breath }} frontal.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.bh.treemouth }}
 * Don't be on the tank, {{ site.data.dungeon.bh.vine_whip }} and {{ site.data.dungeon.bh.decay_spray }} cleave!
@@ -245,7 +246,7 @@ Taking a detour, it's also possible to encounter new mobs. They shouldn't be in 
 If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }}. You need to rotate one player to be eaten.
 * You can still cast while consumed. Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.spell.healing_surge }} to stay alive at all cost.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Old Gnoll Witch's trash
 
@@ -266,7 +267,7 @@ If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }
 * If you can, stay farther than 30 yards to avoid {{ site.data.dungeon.bh.siphon_decay }}.
 * {{ site.data.spell.wind_shear }} has a 30 yards range. You might want to sit at 25-30 yards to be able to interrupt spells and move out when {{ site.data.dungeon.bh.siphon_decay }} is being casted. Use {{ site.data.talent.swg }} to keep uptime while moving.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.bh.decatriarch_wratheye }}
 * The room is really small and there are many area denials in the fight. Be ready to move at all time and use {{ site.data.talent.swg }} when needed.
@@ -298,7 +299,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINaRLtkQOAAAAAAAUCgSSINRhgkkUSJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Old Keeper Guy's trash
 
@@ -319,7 +320,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * {{ site.data.dungeon.hoi.tailwind }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.blasting_gust }}. Assign a player to always kick this, it is a priority interrupt.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.hoi.watcher_irideus }}
 #### Stage 1
@@ -333,7 +334,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.purifying_blast }}.
 * The boss will be more deadly after its transition. Be ready to help your healer with your defensives and off-healing.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Big Frog's trash
 
@@ -364,7 +365,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * {{ site.data.dungeon.hoi.squallbringer_cyraz }} will charge and random target with {{ site.data.dungeon.hoi.gale_force_charge }} and channel {{ site.data.dungeon.hoi.whirling_fury }} that will do damage 8 yards around him. Quickly move out if you are targeted.
 * Be careful not to pull aggro on {{ site.data.dungeon.hoi.zephyrling }} whenever they are spawned by {{ site.data.dungeon.hoi.zephyrs_call }} (mind your {{ site.data.talent.sk }} timings).
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.hoi.gulping_goliath }}
 * Be ready to use defensives (such as {{ site.data.talent.as }}) when {{ site.data.dungeon.hoi.gulping_goliath }} casts {{ site.data.dungeon.hoi.overpowering_croak }}. Dodge the following {{ site.data.dungeon.hoi.cave_in }} swirlies.
@@ -372,7 +373,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * Move away from {{ site.data.dungeon.hoi.belly_slam }} swirly.
 * Once the boss casts {{ site.data.dungeon.hoi.gulp }}, select one player from your party to be deliberately "consumed" to prevent him from getting {{ site.data.dungeon.hoi.hangry }} Buff (cannot be dispelled). Keep in mind once you get {{ site.data.dungeon.hoi.gulp }} you will take initial damage and get 3 applications of {{ site.data.dungeon.hoi.gulp_swog_toxin }}!
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Fanatic Elementalist's trash
 
@@ -401,7 +402,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * if a {{ site.data.dungeon.hoi.primalist_earthshaker }} is within 15yrds, {{ site.data.dungeon.hoi.primal_affinity_earth }} will allow the {{ site.data.dungeon.hoi.subterranean_proto_dragon }} to cast {{ site.data.dungeon.hoi.creeping_mold }}.
 * Be mindful of your health if you get the {{ site.data.dungeon.hoi.creeping_mold }} debuff, use defensives as needed to survive.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.hoi.khajin_the_unyielding }}
 * Hide behind an {{ site.data.dungeon.hoi.ice_boulder }} during {{ site.data.dungeon.hoi.hailstorm }}. They don't break Line of Sight so be sure to keep uptime on the boss.
@@ -410,7 +411,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * Be ready to use defensive if you are targeted by {{ site.data.dungeon.hoi.frost_shock }}.
 * Dodge the rings from {{ site.data.dungeon.hoi.glacial_surge }}.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Big Elemental dude's trash
 The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.crashing_tsunami }} will constantly come into you. {{ site.data.talent.swg }} is very potent in that area to dodge the incoming waves.
@@ -428,7 +429,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Use {{ site.data.spell.wind_gust }} to interrupt {{ site.data.dungeon.hoi.aqueous_barrier }}.
 * Stay farther than 12 yards away to ignore {{ site.data.dungeon.hoi.flash_flood }}.
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.hoi.primal_tsunami }}
 
@@ -464,7 +465,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJh0EFgkk0SJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Magma Mammoth's trash
 
@@ -492,7 +493,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJJCRBIJJtUCQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-![Line Break](/assets/img/blog/bluelinebreak.png)
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.udm.example }} trash
 
