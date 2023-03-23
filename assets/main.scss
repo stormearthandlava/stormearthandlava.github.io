@@ -328,6 +328,24 @@ span.blue {
   color: $brand-color;
 }
 
+div.builds-header {
+    width: 100%;
+    min-height: 80px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    padding-bottom: 10px;
+    border: 1px solid #828282;
+    cursor: pointer;
+}
+
+div.builds-header h2 {
+    text-align: center;
+    color: $brand-color;
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+    cursor: pointer;
+}
+
 div.dungeon-header {
     width: 100%;
     min-height: 100px;
@@ -342,7 +360,7 @@ div.dungeon-header {
 
 div.dungeon-header h2 {
     text-align: center;
-    color: white;
+    color: $brand-color;
     font-weight: bold;
     -webkit-text-stroke: 1px black;
     cursor: pointer;
@@ -353,8 +371,8 @@ div.raid-header {
     min-height: 100px;
     max-height: 150px;
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: 100%;
+    background-position: right;
+    background-size: 30%;
     padding-bottom: 10px;
     border: 1px solid #828282;
     cursor: pointer;
@@ -362,12 +380,51 @@ div.raid-header {
 
 div.raid-header h2 {
     text-align: center;
-    color: white;
+    color: $brand-color;
     font-weight: bold;
     -webkit-text-stroke: 1px black;
     cursor: pointer;
 }
 
+div.builds-header.pswlr {
+  background-image: url('/assets/img/guide/builds/PSurge_WLR.png');
+  background-size: 10%;
+}
+
+div.builds-header.psfb {
+  background-image: url('/assets/img/guide/builds/PSurge_FB.png');
+  background-size: 10%;
+}
+
+div.builds-header.psmwf {
+  background-image: url('/assets/img/guide/builds/PSurge_MwF.png');
+  background-size: 10%;
+}
+
+div.builds-header.pssk {
+  background-image: url('/assets/img/guide/builds/PSurge_SK.png');
+  background-size: 10%;
+}
+
+div.builds-header.wfaoe {
+  background-image: url('/assets/img/guide/builds/Wildfire_AoE.png');
+  background-size: 15%;
+}
+
+div.builds-header.wfeb {
+  background-image: url('/assets/img/guide/builds/Wildfire_EB.png');
+  background-size: 20%;
+}
+
+div.builds-header.limwf {
+  background-image: url('/assets/img/guide/builds/Lightning_MwF.png');
+  background-size: 20%;
+}
+
+div.builds-header.lisfd {
+  background-image: url('/assets/img/guide/builds/Lightning_SFD.png');
+  background-size: 20%;
+}
 
 // MoP Dungeons
 div.dungeon-header.tjs {
@@ -546,50 +603,34 @@ div.raid-header.sanctum_of_domination10 {
 
 div.raid-header.vault_of_the_incarnates1 {
     background-image: url('/assets/img/guide/vault_of_the_incarnates/eranog.png');
-    background-position: right;
-    background-size: 30%;
 }
 
 div.raid-header.vault_of_the_incarnates2 {
     background-image: url('/assets/img/guide/vault_of_the_incarnates/terros.png');
-    background-position: right;
-    background-size: 30%;
 }
 
 div.raid-header.vault_of_the_incarnates3 {
     background-image: url('/assets/img/guide/vault_of_the_incarnates/the_primal_council.png');
-    background-position: right;
-    background-size: 30%;
 }
 
 div.raid-header.vault_of_the_incarnates4 {
     background-image: url('/assets/img/guide/vault_of_the_incarnates/sennarth_the_cold_breath.png');
-    background-position: right;
-    background-size: 30%;
 }
 
 div.raid-header.vault_of_the_incarnates5 {
     background-image: url('/assets/img/guide/vault_of_the_incarnates/dathea_ascended.png');
-    background-position: right;
-    background-size: 30%;
 }
 
 div.raid-header.vault_of_the_incarnates6 {
     background-image: url('/assets/img/guide/vault_of_the_incarnates/kurog_grimtotem.png');
-    background-position: right;
-    background-size: 30%;
 }
 
 div.raid-header.vault_of_the_incarnates7 {
     background-image: url('/assets/img/guide/vault_of_the_incarnates/broodkeeper_diurna.png');
-    background-position: right;
-    background-size: 30%;
 }
 
 div.raid-header.vault_of_the_incarnates8 {
     background-image: url('/assets/img/guide/vault_of_the_incarnates/raszageth_the_storm_eater.png');
-    background-position: right;
-    background-size: 30%;
 }
 
 div.dungeon-accordion div.card-header {

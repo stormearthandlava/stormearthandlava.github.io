@@ -1,20 +1,60 @@
 ---
 layout: page
 title: Builds
-last_update: 14/03/2023
-game_version: 10.0.5 Dragonflight
+last_update: 22/03/2023
+game_version: 10.0.7 Dragonflight
 toc: false
 ---
-This page aims to display and discuss the recommended and most widely-used Builds available to Elemental. This is not an exhaustive list of all options and does not imply that any build *not* shown here is automatically terrible/unplayable, in practical terms we cannot account for every build variation and effort has been largely focused on the highest performing / most popular builds. If you find something that you feel works or performs better than what is listed here feel free to contact the team on [Storm, Earth & Lava Discord](https://discord.gg/y5dUf3PWrU) or [Earthshrine #Elemental Channel](https://discord.gg/earthshrine)
 
-Note: As the builds need to be complete to display the class tree is also filled out, these are not required choices and will not suit every situation.
+# Welcome, read First
 
-# The hotfixes applied on 28/02/23 (NA) and 01/03/23 (EU) do not appear to have any impact on rotational priority from initial testing.
-This includes but is not limited to:
+This page aims to display and discuss the recommended and most widely-used Builds available to Elemental. This is not an exhaustive list of all options and *does not imply that any build **not** shown here is automatically terrible/unplayable*.  
+In practical terms we cannot account for every build variation and effort has been largely focused on the highest performing / most popular builds. If you find something that you feel works or performs better than what is listed here feel free to contact the team on [Storm, Earth & Lava Discord](https://discord.gg/y5dUf3PWrU) or [Earthshrine #Elemental Channel](https://discord.gg/earthshrine)
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
+
+# Class Tree
+
+It is also important to note that Shamans's class tree does not include DPS increase except for:
+- {{ site.data.talent.fire_and_ice }} and {{ site.data.talent.natures_fury }}
+- {{ site.data.talent.totemic_recall }} and {{ site.data.talent.call_of_the_elements }} with {{ site.data.talent.lmt }} talented in the spec tree.
+- {{ site.data.spell.frs }} with {{ site.data.talent.if }} talented in the spec tree. {{ site.data.spell.frs }} is recommended in all builds anyway just as a movement global.
+
+That's it. All other talent are purely defensively and utility oriented, making our tree very flexible in the actual choices we get.
+
+Here is a list of some talents that are recommended to get in every situation :
+- {{ site.data.talent.as }} and {{ site.data.talent.planes_traveler }}, our defensive CD.
+- {{ site.data.talent.swg }} and {{ site.data.talent.graceful_spirit }} for movement.
+- {{ site.data.talent.gust_of_wind }} or {{ site.data.talent.spirit_walk }} for movement.
+- {{ site.data.talent.ag }} for party wide healing support.
+
+More situational talents picks:
+* Defensive:
+  - {{ site.data.talent.natures_guardian }} and {{ site.data.talent.ancestral_defence }} and {{ site.data.talent.elemental_warding }} are good sustain passives.
+  - {{ site.data.talent.ee }} is a bad defensive since its CD is so long, but it's a defensive CD nonetheless and has good value in many situation.
+  - {{ site.data.talent.earth_shield }} is a good sustain talent, just remember to refresh it when it falls off. It's also annoying to get since we almost never press {{ site.data.talent.chain_heal}}.
+  - {{ site.data.talent.brimming_with_life }} is a terribly designed talent that incites us to save {{ site.data.spell.ankh }} for more max HP. It is still better than nothing for an increase in survivability and overall ankh uses.
+  - {{ site.data.talent.healing_stream_totem }}, paired with {{ site.data.talent.swirling_currents }}, is a fire and forget heal assistance on the GCD. It's not bad but certainly not great.
+* Movement:
+  - {{ site.data.talent.thunderous_paws }} is great for small burst of mobility and slow dispel, {{ site.data.talent.spirit_wolf }} is a great "long-distance" movement tool.
+  - {{ site.data.talent.wind_rush_totem }} is a good group movement talent.
+  - {{ site.data.talent.natures_swiftness }} is great to get an extra movement Global. Best used on {{ site.data.talent.eb }} in ST, {{ site.data.spell.cl }} in AoE and {{ site.data.spell.healing_surge }} when low on health.
+* Utility:
+  - {{ site.data.talent.totemic_focus }} is great for both {{ site.data.talent.wrt }} duration and {{ site.data.talent.lmt }} width.
+  - {{ site.data.talent.mana_spring_totem }} is better in raid content than it is in party, but good nonetheless.
+  - {{ site.data.talent.purge }} and {{ site.data.talent.cleanse_spirit }} are perfect examples of good talents that are purely situational and can be skipped in many builds, and picked only when needed.
+  - {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, {{ site.data.talent.earthgrab_totem }} or {{ site.data.talent.thunderstorm }} are situational Crowd Control talents.
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
+
+# Hotfixes applied on 28/02/23 (NA) and 01/03/23 (EU):
+First and foremost, they do not appear to have any impact on rotational priority from initial testing. This includes but is not limited to:
    - {{ site.data.talent.icefury }} buffed {{ site.data.spell.frs }}s in AoE and Single target, for the builds that take {{ site.data.talent.flux_melting }} you should continue to treat it like a filler only. (Note: when playing {{ site.data.talent.e_shocks }} it produces the same result in single target to care or not care about {{ site.data.talent.icefury }} buffs, this was consistent across the most popular build types that include it)
    - {{ site.data.talent.sk }} usage. Despite the buff to {{ site.data.spell.lb }} there has been no change to how we consume {{ site.data.talent.sk }} buffs on varying target counts.
    - For those using {{ site.data.talent.mwf }} builds remember the priority has not changed, the build just has less sources of {{ site.data.talent.lvs }} procs relative to the alternative {{ site.data.talent.wlr }} build.
    - Some players were already including {{ site.data.talent.icefury }} with {{ site.data.talent.e_shocks }} into the Wildfire builds (trading {{ site.data.talent.fop }} for them), this choice gained some ground with the buff to baseline {{ site.data.spell.frs }} damage and the maelstrom gains of {{ site.data.talent.if }} buffs.
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 <p style="color:red">Click on a build banner to expand it.</p>
 
@@ -25,7 +65,7 @@ Most notably aimed more at the Single Target profiles these variants are used wh
 <div class="accordion dungeon-accordion" id="accordion-psurge">
 <div class="card">
 <div class="card-header" id="pswlr">
-<div data-toggle="collapse" data-target="#pswlr-collapse" aria-expanded="false" aria-controls="pswlr-collapse"><h2 class="mb-1">Primordial Surge with Windspeakers</h2></div>
+<div data-toggle="collapse" data-target="#pswlr-collapse" aria-expanded="false" aria-controls="pswlr-collapse" class="builds-header pswlr"><h2>Primordial Surge with Windspeakers</h2></div>
 </div>
 <div id="pswlr-collapse" class="collapse" aria-labelledby="pswlr" data-parent="#accordion-psurge">
 <div class="card-body" markdown="1">
@@ -37,17 +77,19 @@ As the name suggests this is predominately aimed at single target but due to tak
 
 # What does it look like?
 
-## PSurge WLR with EEq
+## Standard build
 {{ site.data.talent.eeq }} is *usually* the best single point to get for a Single Target fight. Be sure to sim for your best option.
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSShSUikQEAAAAAAUCQKJBNRBSJJJtAQCJB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCgDkUSShSUikQEAAAAAgSAJlkgmASLJpBCCJJBC?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-## PSurge WLR with LMT
+## LMT Variant
 {{ site.data.talent.lmt }} can be used on fight with some adds to gain some cleave but where the only thing that matters is Single Target (such as Sennarth).
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJAKJBEFIlkk0SJAJkEA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCAJlkUoEl0SCRAAAAAAKBIlkgmASLJppECSkEgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Stats
 
@@ -59,6 +101,8 @@ As the name suggests this is predominately aimed at single target but due to tak
 This is quick and dirty, your sims will take priority in your gearing process.
  - Mastery / Haste >> Versatility = Crit
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+
+ ![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Rotation
 
@@ -142,7 +186,7 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 
 <div class="card">
 <div class="card-header" id="psfb">
-<div data-toggle="collapse" data-target="#psfb-collapse" aria-expanded="false" aria-controls="psfb-collapse"><h2 class="mb-1">Primordial Surge with Further Beyond</h2></div>
+<div data-toggle="collapse" data-target="#psfb-collapse" aria-expanded="false" aria-controls="psfb-collapse" class="builds-header psfb"><h2>Primordial Surge with Further Beyond</h2></div>
 </div>
 <div id="psfb-collapse" class="collapse" aria-labelledby="psfb" data-parent="#accordion-psurge">
 <div class="card-body" markdown="1">
@@ -154,17 +198,19 @@ As this build takes {{ site.data.talent.dre }} and extends to {{ site.data.talen
 
 # What does it look like?
 
-## PSurge FB with EEq
+## Standard build
 {{ site.data.talent.eeq }} is *usually* the best single point to get for a Single Target fight. Be sure to sim for your best option.
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSSJpEIJEBAAAAAAlAkSSQTUgUSSSLAkQSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCgDkUSSJpEIJEBAAAAAoEQSJJoJg0SSaggQSSgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-## PSurge FB with LMT
+## LMT Variant
 {{ site.data.talent.lmt }} can be used on fight with some adds to gain some cleave but where the only thing that matters is Single Target (such as Sennarth).
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUSKBtkQEAAAAAAUCgSSARBSJJJtUCQCJB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCAJlkUSKBtkQEAAAAAgSASJJoJg0SSaKhgEJBI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Stats
 
@@ -176,6 +222,8 @@ As this build takes {{ site.data.talent.dre }} and extends to {{ site.data.talen
 This is quick and dirty, your sims will take priority in your gearing process.
  - Haste >> Mastery > Versatility = Crit
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Rotation
 
@@ -266,7 +314,7 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 
 <div class="card">
 <div class="card-header" id="psmwf">
-<div data-toggle="collapse" data-target="#psmwf-collapse" aria-expanded="false" aria-controls="psmwf-collapse"><h2 class="mb-1">Primordial Surge with Mountains will Fall</h2></div>
+<div data-toggle="collapse" data-target="#psmwf-collapse" aria-expanded="false" aria-controls="psmwf-collapse" class="builds-header psmwf"><h2>Primordial Surge with Mountains will Fall</h2></div>
 </div>
 <div id="psmwf-collapse" class="collapse" aria-labelledby="psmwf" data-parent="#accordion-psurge">
 <div class="card-body" markdown="1">
@@ -278,17 +326,19 @@ This build effectively swaps {{ site.data.talent.wlr }} or {{ site.data.talent.f
 
 # What does it look like?
 
-## PSurge WLR with EEq
+## Standard build
 {{ site.data.talent.eeq }} is *usually* the best single point to get for a Single Target fight. Be sure to sim for your best option.
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSShSgkkEBAAAAAAlAkSSQTUgUSSSLAkQSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCgDkUSShSgkkEBAAAAAoEQSJJoJg0SSaggQSSgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-## PSurge WLR with LMT
+## LMT Variant
 {{ site.data.talent.lmt }} can be used on fight with some adds to gain some cleave but where the only thing that matters is Single Target (such as Sennarth).
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoE0SSSEAAAAAAUCgSSARBSJJJtUCQCJB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCAJlkUoE0SSSEAAAAAgSASJJoJg0SSaKhgEJBI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Stats
 
@@ -300,6 +350,8 @@ This build effectively swaps {{ site.data.talent.wlr }} or {{ site.data.talent.f
 This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Mastery > Versatility = Crit
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+
+ ![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Rotation
 
@@ -385,7 +437,7 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 
 <div class="card">
 <div class="card-header" id="pssk">
-<div data-toggle="collapse" data-target="#pssk-collapse" aria-expanded="false" aria-controls="pssk-collapse"><h2 class="mb-1">Primordial Surge with Stormkeeper</h2></div>
+<div data-toggle="collapse" data-target="#pssk-collapse" aria-expanded="false" aria-controls="pssk-collapse" class="builds-header pssk"><h2>Primordial Surge with Stormkeeper</h2></div>
 </div>
 <div id="pssk-collapse" class="collapse" aria-labelledby="pssk" data-parent="#accordion-psurge">
 <div class="card-body" markdown="1">
@@ -398,8 +450,10 @@ This build can be harder to play effectively as it requires you to play around b
 
 # What does it look like?
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAAlAkWSARBSJJJtUCQCSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkEkg0oE0kkkDAAAAAAoEgUSCaCItkkmSIIRSAC?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Stats
 
@@ -412,6 +466,8 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Mastery > Versatility = Crit
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
  - Mastery has very good synergy with both {{ site.data.talent.mwf }} and {{ site.data.spell.lvb }}.
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Rotation
 
@@ -525,16 +581,18 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
 <br/>
 <br/>
 
+![Line Break](/assets/img/blog/bluelinebreak.png)
+
 # Wildfire Builds
 
 Predominately aimed at M+ content these build variants focus on the power of {{ site.data.spell.fs }} and its supporting talents to deal AoE damage, all variants include {{ site.data.talent.dre }} by default as the build spends a lot of its time using the {{ site.data.talent.lvs }} procs it generates so it provides a lot of value on average but is not the focus of the build - if desired you can swap this point to a more consistent option.
 
 <div class="accordion dungeon-accordion" id="accordion-wildfire">
 <div class="card">
-<div class="card-header" id="wfecho">
-<div data-toggle="collapse" data-target="#wfecho-collapse" aria-expanded="false" aria-controls="wfecho-collapse"><h2 class="mb-1">Wildfire with Echo Chamber</h2></div>
+<div class="card-header" id="wfaoe">
+<div data-toggle="collapse" data-target="#wfaoe-collapse" aria-expanded="false" aria-controls="wfaoe-collapse" class="builds-header wfaoe"><h2>Wildfire "Full" AoE</h2></div>
 </div>
-<div id="wfecho-collapse" class="collapse" aria-labelledby="wfecho" data-parent="#accordion-wildfire">
+<div id="wfaoe-collapse" class="collapse" aria-labelledby="wfaoe" data-parent="#accordion-wildfire">
 <div class="card-body" markdown="1">
 
 # What does this build do?
@@ -545,29 +603,33 @@ Staples of wildfire as a M+ include {{ site.data.talent.sfd }}, {{ site.data.tal
 
 # What does it look like?
 
-There are multiple possible variants of this build that do not include rotational priority changes, these will all play similarly and you can choose between them based on personal preference and/or sim results. The 3 builds linked below are, at least in my opinion, the 'standard' setups with one taking {{ site.data.talent.imp_ftw }} with {{ site.data.talent.potm }} another opting to go for {{ site.data.talent.flow_of_power }} and {{ site.data.talent.swelling_maelstrom }} and the last one simply taking {{ site.data.talent.searing_flames }} instead of {{ site.data.talent.echo_chamber }}
+There are multiple possible variants of this build that do not include rotational priority changes, these will all play similarly and you can choose between them based on personal preference and/or sim results. The 4 builds linked below are, at least in my opinion, the 'standard' setups with one taking {{ site.data.talent.imp_ftw }} with {{ site.data.talent.potm }}, another opting to go for {{ site.data.talent.flow_of_power }} and {{ site.data.talent.swelling_maelstrom }}, another one playing {{ site.data.talent.searing_flames }} instead of {{ site.data.talent.echo_chamber }} and the last one simply taking {{ site.data.talent.if }} and {{ site.data.talent.electrified_shocks }}.
 
-## Wildfire with Echo Chamber
-The standard build for a non {{ site.data.talent.eb }} build.
+## Standard build without Elemental Blast
+The standard build for a non-{{ site.data.talent.eb }} build.
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAg0SpIJlkACSjS0SLJOQOAAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkACSjS0SLJOQOAAAAAAgSASJJKpJg0SSaKhgQEgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
-## Wildfire with Swerling Maelstrom
-More Maelstrom in Single Target.
+## Swelling Maelstrom Variant
+{{ site.data.talent.swelling_maelstrom }} will give you more room to effectively use your {{ site.data.talent.sop }} and pool Maelstrom.
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSSJJgQSjS0STCRAAAAAAQJApkECJFIlQSTJBEkEB?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0Sr0SSLJgQSjS0STCRAAAAAAKBIlkokmASLJppECCRAC?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
-## Wildfire with Searing Flames
-More Maelstrom in Single Target in AoE.
+## Searing Flames Variant
+For better overall Maelstrom generation.
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpIJlkACSjSOQLtkQOAAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkACSjSOQLtkQOAAAAAAgSASJJKpJg0SSaKhgQEgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
+## Icefury Variant
+{{ site.data.talent.if }} gives use some cleave in low target count and flows nicely for Maelstrom generation.
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkASLSjSOQLNJEAAAAAAQJAKJhQUgUSk0SJARSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkASLSjS0STiDEAAAAAAKBIlkokmASLJppECCRAC?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Stats
 
@@ -579,6 +641,8 @@ More Maelstrom in Single Target in AoE.
 This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Crit > Mastery / Vers
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Rotation
 
@@ -683,7 +747,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 
 <div class="card">
 <div class="card-header" id="wfeb">
-<div data-toggle="collapse" data-target="#wfeb-collapse" aria-expanded="false" aria-controls="wfeb-collapse"><h2 class="mb-1">Wildfire with Elemental Blast</h2></div>
+<div data-toggle="collapse" data-target="#wfeb-collapse" aria-expanded="false" aria-controls="wfeb-collapse" class="builds-header wfeb"><h2>Wildfire with Elemental Blast</h2></div>
 </div>
 <div id="wfeb-collapse" class="collapse" aria-labelledby="wfeb" data-parent="#accordion-wildfire">
 <div class="card-body" markdown="1">
@@ -695,20 +759,25 @@ We heard you like {{ site.data.spell.fs }} and {{ site.data.talent.lvs }} so thi
 Staples of wildfire as a M+ include {{ site.data.talent.sfd }}, {{ site.data.talent.splinter }}, {{ site.data.talent.sk }}. There are more swaps you could make within this archetype like {{ site.data.talent.sop }} swapped for {{ site.data.talent.afs }} which significantly simplifies your perceived gameplay, but in reality is weaker in most ways so all the variants below use {{ site.data.talent.sop }}.
 
 # What does it look like?
-<div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpIJlkAJINKRLtkQOAAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-  </div>
+
+There are multiple possible variants of this build that do not include rotational priority changes. They will all play similarly and you can choose between them based on personal preference and/or sim results. The two variants shown above are the common builds that include {{ site.data.talent.eb }} in a Wildfire setup - this is not the only way. The structure is similar to the variants without {{ site.data.talent.eb }} so learning how {{ site.data.talent.eb }} changes the rotation is the only real barrier.
+You might also want to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
+
+## Standard build
+The standard {{ site.data.dungeon.eb }} build.
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSSJJQCJNKRLkQEAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-  </div>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAgSASJJKpJg0SSaKhgQEgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
+
+## Icefury Variant
+{{ site.data.talent.if }} gives use some cleave in low target count and flows nicely for Maelstrom generation.
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJtINKRLNJEAAAAAAQJAKJhQUgUSk0SJARSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-  </div>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJtINKRLNJEAAAAAAKBIlkokmASLJppECCRAC?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
 
-Note: There are multiple possible variants of this build that do not include rotational priority changes, these will all play similarly and you can choose between them based on personal preference and/or sim results. The two variants shown above are, in my opinion, the 'standard' ways to include it in a Wildfire setup - this is not the only way. The structure is similar to the variants without {{ site.data.talent.eb }} so learning how it changes the rotation is the only real barrier.
-You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Stats
 
@@ -720,6 +789,8 @@ You may also prefer to include {{ site.data.talent.ns }} in the class tree if th
 This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Crit > Mastery / Vers
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Rotation
 
@@ -860,10 +931,10 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 </div>
 </div>
 
-
 <br/>
 <br/>
 
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Lightning Builds
 
@@ -872,7 +943,7 @@ Exactly what it says on the tin, for the friends with a penchant for Lightning! 
 <div class="accordion dungeon-accordion" id="accordion-lightning">
 <div class="card">
 <div class="card-header" id="limwf">
-<div data-toggle="collapse" data-target="#limwf-collapse" aria-expanded="false" aria-controls="limwf-collapse"><h2 class="mb-1">Lightning with Mountains will Fall</h2></div>
+<div data-toggle="collapse" data-target="#limwf-collapse" aria-expanded="false" aria-controls="limwf-collapse" class="builds-header limwf"><h2>Lightning with Mountains will Fall</h2></div>
 </div>
 <div id="limwf-collapse" class="collapse" aria-labelledby="limwf" data-parent="#accordion-lightning">
 <div class="card-body" markdown="1">
@@ -883,7 +954,7 @@ This build focuses on the power of {{ site.data.spell.lb }}, {{ site.data.spell.
 
 # What does it look like?
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAAoVSSJJSJJtENE0QiEAAAAAAUCQKJhQSBSJk0USABJRA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSJJtENE0QiEAAAAAgSASJJKpJg0SSaKhgQEgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
 Note:
@@ -891,6 +962,8 @@ Note:
   - You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
   - {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target.
   - You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favor of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Stats
 
@@ -902,6 +975,8 @@ Note:
 This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Crit > Mastery / Vers
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Rotation
 
@@ -1006,7 +1081,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 
 <div class="card">
 <div class="card-header" id="lisfd">
-<div data-toggle="collapse" data-target="#lisfd-collapse" aria-expanded="false" aria-controls="lisfd-collapse"><h2 class="mb-1">Lightning with Skybreaker's Fiery Demise</h2></div>
+<div data-toggle="collapse" data-target="#lisfd-collapse" aria-expanded="false" aria-controls="lisfd-collapse" class="builds-header lisfd"><h2>Lightning with Skybreaker's Fiery Demise</h2></div>
 </div>
 <div id="lisfd-collapse" class="collapse" aria-labelledby="lisfd" data-parent="#accordion-lightning">
 <div class="card-body" markdown="1">
@@ -1017,7 +1092,7 @@ This build focuses on the power of {{ site.data.spell.lb }}, {{ site.data.spell.
 
 # What does it look like?
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlk0S0Q0SD4ABAAAAAAlAkSSIkUgUCJNlEQQSE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJJlk0S0Q0SD4ABAAAAAoEgUSiSaCItkkmSIIEBI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
 Note:
@@ -1025,6 +1100,8 @@ Note:
  - You may also prefer to include {{ site.data.talent.ns }} in the class tree if the cast time of {{ site.data.talent.eb }} is a hindrance to you.
  - {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target. Whilst this build does utilize more {{ site.data.spell.fs }} than other Lightning variants it will generally not be worthwhile to run {{ site.data.talent.pe }} simply because it is opportunity costed against {{ site.data.talent.lmt }}.
  - You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favor of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Stats
 
@@ -1036,6 +1113,8 @@ Note:
 This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Crit > Mastery / Vers
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+
+![Line Break](/assets/img/blog/bluelinebreak.png)
 
 # Rotation
 
