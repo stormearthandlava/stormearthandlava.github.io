@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Vault of the Incarnates Guide"
-date: 15/03/2023
-game_version: 10.0.5 Dragonflight
+date: 22/03/2023
+game_version: 10.0.7 Dragonflight
 author: Sheffy, Elivrio
 toc: false
 ---
@@ -57,7 +57,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSLJQCJNKBSSSAAAAAAAlAkSS0STUgUSSSLASSAA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAoEQSJJgASLJppECCJRgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
 **Damage:**
@@ -98,7 +98,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Talents:**
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSShSUikQEAAAAAAUCQKJQTUgUSSSLAkkIE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCgDkUSShSUikQEAAAAAgSAJlkACItkkWggQSEI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 **Damage:**
@@ -141,7 +141,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Talents:**
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAfcj78nJtvjmejSqe5Zhm9AAAAAAg0SpUSCASLJFK5At0SCRAAAAAAQJApkECJFIlEJtUSABQA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkASLSjS0SLJEAAAAAAKBkUSCIg0SSaKhgQSEI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 **Damage:**
@@ -172,12 +172,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="sennarth-collapse" class="collapse" aria-labelledby="sennarth" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-**Boss Fight Profile:** Single-Target, with limited Cleave
+**Boss Fight Profile:** Single-Target, with priority target focus
 
 **Talents:**
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDkUSShSUikQEAAAAAAUCQKJhUEFIlkk0Co0SCA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCAJlkUoEl0SCRAAAAAAKBkUSCIg0SSaKhgQSEI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 **Damage:**
 
@@ -211,7 +211,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Talents:**
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSSLJQCJNKBSSSAAAAAAAlAkSS0STUgUSSSLASSAA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAoEQSJJECItkkmSgSQSEI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 **Damage:**
 
@@ -253,7 +253,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Talents:**
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJlkUoEl0SCRAAAAAAQJApkE0EFIlkk0SJHAkAE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCAJtk0oEt0SCRAAAAAAKBkUSCIg0SSaKhgQSEI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 **Damage:**
 
@@ -286,13 +286,20 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="broodkeeper_diurna-collapse" class="collapse" aria-labelledby="broodkeeper_diurna" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-**Boss Fight Profile:** Single-Target with AoE
+**Boss Fight Profile:** Single-Target or AoE, depending on assignment
 
-**Talents:**
+**Talents for boss damage:**
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJtIFKBSSSAAAAAAAlAkSSINRBSJJJtAIJBE?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCAJlkUoEl0SCRAAAAAAKBkUSCaCItkkSKhAkQgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
+
+**Talents for Adds damage:**
+
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJtINKRLNJEAAAAAAKBkUSCaCItkkSKhAkQgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
+
 **Damage:**
 
 * Use {{ site.data.talent.sk }} to burst down add waves during Phase 1.
@@ -332,7 +339,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents:**
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAAlAokESTUAlkk0SJAJkEA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAoEQSJJoJg0SSapEQCJEI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
 **Damage:**
