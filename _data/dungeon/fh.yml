@@ -103,60 +103,64 @@ blackout_barrel: <a href="https://www.wowhead.com/spell=258338/blackout-barrel" 
 barrel_smash: <a href="https://www.wowhead.com/spell=256589/barrel-smash" target="blank">Barrel Smash</a> # don't be in melee
 tapped_keg: <a href="https://www.wowhead.com/spell=272900/tapped-keg" target="blank">Tapped Keg</a> # Stand near for 15% damage buff
 
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+captain_eudora: <a href="https://www.wowhead.com/npc=126848/captain-eudora" target="blank">Captain Eudora</a>
+powder_shot: <a href="https://www.wowhead.com/spell=256979/powder-shot" target="blank">Powder Shot</a> # Random ST dam
+grapeshot: <a href="https://www.wowhead.com/spell=258381/grapeshot" target="blank">Grapeshot</a> # fan fire
+chain_shot: <a href="https://www.wowhead.com/spell=272902/chain-shot" target="blank">Chain Shot</a> # Stuns another Captain
 
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+captain_jolly: <a href="https://www.wowhead.com/npc=126845/captain-jolly" target="blank">Captain Jolly</a>
+cutting_surge: <a href="https://www.wowhead.com/spell=267523/cutting-surge" target="blank">Cutting Surge</a> # charge to a 5yds swirl
+whirlpool_of_blades: <a href="https://www.wowhead.com/spell=272397/whirlpool-of-blades" target="blank">Whirlpool of Blades</a> # Pool that will move toward the boss
+trade_winds_vigor: <a href="https://www.wowhead.com/spell=281329/trade-winds-vigor" target="blank">Trade Wind's Vigor</a> # 40% MS for the party
+
+rummy_mancomb: <a href="https://www.wowhead.com/npc=133219/rummy-mancomb" target="blank">Rummy Mancomb</a> # Barman => FIND WA
+confidence_boosting_freehold_brew: <a href="https://www.wowhead.com/spell=265088/confidence-boosting-freehold-brew" target="blank">Confidence-Boosting Freehold Brew</a> # swirl crit
+invigorating_freehold_brew: <a href="https://www.wowhead.com/spell=265056/invigorating-freehold-brew" target="blank">Invigorating Freehold Brew</a> # swirl haste
+caustic_freehold_brew: <a href="https://www.wowhead.com/spell=278467/caustic-freehold-brew" target="blank">Caustic Freehold Brew</a> # DoT swirl
 
 # zzz RP Trash
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+cutwater_harpooner: <a href="https://www.wowhead.com/npc=129601/cutwater-harpooner" target="blank">Cutwater Harpooner</a>
+dragging_harpoon: <a href="https://www.wowhead.com/spell=272413/dragging-harpoon" target="blank">Dragging Harpoon</a> # grabs to melee => Care fixate and aoe effects
+
+irontide_crusher: <a href="https://www.wowhead.com/npc=130400/irontide-crusher" target="blank">Irontide Crusher</a>
+boulder_throw: <a href="https://www.wowhead.com/spell=258181/boulder-throw" target="blank">Boulder Throw</a> # Big Swirl
+ground_shatter: <a href="https://www.wowhead.com/spell=258199/ground-shatter" target="blank">Ground Shatter</a> # Frontal
 
 # Ring of booty
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+lightning: <a href="https://www.wowhead.com/npc=130099/lightning" target="blank">Lightning</a> # GW is great
 
-# Greedy dude
+ludwig-von-tortollan: <a href="https://www.wowhead.com/npc=129699/ludwig-von-tortollan" target="blank">Ludwig Von Tortollana> # will bully the tank (stoneskin?)
+shell_bounce: <a href="https://www.wowhead.com/spell=257904/shell-bounce" target="blank">Shell Bounce</a> # just open eyes and dodge
 
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+Trothak: <a href="https://www.wowhead.com/npc=126969/trothak" target="blank">trothak</a>
+ripper_punch: <a href="https://www.wowhead.com/spell=256363/ripper-punch" target="blank">Ripper Punch</a> # random melee bleed
+shark_tornado: <a href="https://www.wowhead.com/spell=256405/shark-tornado" target="blank">Shark Tornado</a> # Stay away from melee
+shark_toss: <a href="https://www.wowhead.com/spell=256477/shark-toss" target="blank">Shark Toss</a> # Kite
+flailing_shark: <a href="https://www.wowhead.com/spell=256551/flailing-shark" target="blank">Flailing Shark</a> # kite
+rearm: <a href="https://www.wowhead.com/spell=256706/rearm" target="blank">Rearm</a> # kiting done
+throw_chum: <a href="https://www.wowhead.com/spell=272548/throw-chum" target="blank">Throw Chum</a> # Slows the shark
 
-# Harlan Sweet
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+# Male Ashvane trash
+irontide_officer: <a href="https://www.wowhead.com/npc=127106/irontide-officer" target="blank">Irontide Officer</a>
+oiled_blade: <a href="https://www.wowhead.com/spell=257908/oiled-blade" target="blank">Oiled Blade</a> # Tank dam
+
+irontide_stormcaller: <a href="https://www.wowhead.com/npc=126919/irontide-stormcaller" target="blank">Irontide Stormcaller</a>
+lightning_bolt: <a href="https://www.wowhead.com/spell=259092/lightning-bolt" target="blank">Lightning Bolt</a> # kick
+thundering_squall: <a href="https://www.wowhead.com/spell=257736/thundering-squall" target="blank">Thundering Squall</a> # kick, AoE melee
+
+irontide_ravager: <a href="https://www.wowhead.com/npc=130012/irontide-ravager" target="blank">Irontide Ravager</a>
+painful_motivation: <a href="https://www.wowhead.com/spell=257899/painful-motivation" target="blank">Painful Motivation</a> # don't kick, kills an enemy
+
+irontide_buccaneer: <a href="https://www.wowhead.com/npc=130011/irontide-buccaneer" target="blank">Irontide Buccaneer</a>
+blade_barrage: <a href="https://www.wowhead.com/spell=257870/blade-barrage" target="blank">Blade Barrage</a> # Frontal
+
+# Harlan Sweete
+harlan_sweete: <a href="https://www.wowhead.com/npc=129440/harlan-sweete" target="blank">Harlan Sweete</a>
+cannon_barrage: <a href="https://www.wowhead.com/spell=257305/cannon-barrage" target="blank">Cannon Barrage</a> # kite away (together?)
+flaming_shrapnel: <a href="https://www.wowhead.com/spell=257308/flaming-shrapnel" target="blank">Flaming Shrapnel</a> # DoT from cannonballs
+fiery_debris: <a href="https://www.wowhead.com/spell=257460/fiery-debris" target="blank">Fiery Debris</a> # pool
+swiftwind-saber: <a href="https://www.wowhead.com/spell=257454/swiftwind-saber" target="blank">Swiftwind Saber</a> # stand back to the wall
+irontide_grenadier: <a href="https://www.wowhead.com/npc=129758/irontide-grenadier" target="blank">Irontide Grenadier</a>
+black_powder_bomb: <a href="https://www.wowhead.com/spell=257315/black-powder-bomb" target="blank">Black Powder Bomb</a> # Kamikaze
+loaded_dice_all_hands: <a href="https://www.wowhead.com/spell=257402/loaded-dice-all-hands" target="blank">Loaded Dice, All Hands</a> # now targets 3 people
+loaded_dice_man_o_war: <a href="https://www.wowhead.com/spell=257458/loaded-dice-man-o-war" target="blank">Loaded Dice, Man-O-War</a> # 100% more dam but 100% as
