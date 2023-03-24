@@ -45,48 +45,75 @@ pistol_shot: <a href="https://www.wowhead.com/spell=255966/pistol-shot" target="
 # P2, sharkbait shitting on us again, bait far
 azerite_powder_shot: <a href="https://www.wowhead.com/spell=256106/azerite-powder-shot" target="blank">Azerite Powder Shot</a> # 30yds frontal, outrange as much as possible while baiting
 revitalizing_brew: <a href="https://www.wowhead.com/spell=256060/revitalizing-brew" target="blank">Revitalizing Brew</a> # kick ( with gust being 30yds limited, let your melee/tank do it)
+dive_bomb: <a href="https://www.wowhead.com/spell=272046/dive-bomb" target="blank">Dive Bomb</a> # dodge charge
 
 # Captains betraying each other each week Trash
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+blacktooth_brute: <a href="https://www.wowhead.com/npc=129548/blacktooth-brute" target="blank">Blacktooth Brute</a>
+earth_shaker: <a href="https://www.wowhead.com/spell=257747/earth-shaker" target="blank">Earth Shaker</a> # 5 Yds AoE
+
+cutwater_duelist: <a href="https://www.wowhead.com/npc=129559/cutwater-duelist" target="blank">Cutwater Duelist</a>
+duelist_dash: <a href="https://www.wowhead.com/spell=274400/duelist-dash" target="blank">Duelist Dash</a> # Charge to a swirl, stunning in between
+
+irontide_oarsman: <a href="https://www.wowhead.com/npc=127111/irontide-oarsman" target="blank">Irontide Oarsman</a>
+sea_spout: <a href="https://www.wowhead.com/spell=258777/sea-spout" target="blank">Sea Spout</a> # kick, dodge swirls if not
+
+bilge_rat_padfoot: <a href="https://www.wowhead.com/npc=129550/bilge-rat-padfoot" target="blank">Bilge Rat Padfoot</a>
+plague_step: <a href="https://www.wowhead.com/spell=257775/plague-step" target="blank">Plague Step</a> # Shadowstep, stay around melee
+
+bilge_rat_brinescale: <a href="https://www.wowhead.com/npc=129600/bilge-rat-brinescale" target="blank">Bilge Rat Brinescale</a> # Frontal
+frost-blast: <a href="https://www.wowhead.com/spell=257784/frost-blast" target="blank">Frost Blast</a> # Kick, Frontal
+water_bolt: <a href="https://www.wowhead.com/spell=281420/water-bolt" target="blank">Water Bolt</a> # Kick
+
+bilge_rat_buccaneer: <a href="https://www.wowhead.com/npc=129527/bilge-rat-buccaneer" target="blank">Bilge Rat Buccaneer</a>
+going_bananas: <a href="https://www.wowhead.com/spell=257756/goin-bananas" target="blank">Goin' Bananas</a> # 5 yds aoe
+
+bilge_rat_swabby: <a href="https://www.wowhead.com/npc=129526/bilge-rat-swabby" target="blank">Bilge Rat Swabby</a>
+slippery_suds: <a href="https://www.wowhead.com/spell=274507/slippery-suds" target="blank">Slippery Suds</a> # Worst mob ever
+
+cutwater_knife_juggler: <a href="https://www.wowhead.com/npc=129599/cutwater-knife-juggler" target="blank">Cutwater Knife Juggler</a>
+ricocheting_throw: <a href="https://www.wowhead.com/spell=272402/ricocheting-throw" target="blank">Ricocheting Throw</a> # Spread
+
+vermin_trapper: <a href="https://www.wowhead.com/npc=130404/vermin-trapper" target="blank">Vermin Trapper</a>
+rat_traps: <a href="https://www.wowhead.com/spell=274383/rat-traps" target="blank">Rat Traps</a> # dodge traps, use TP to escape?
+
+soggy_shiprat: <a href="https://www.wowhead.com/npc=130024/soggy-shiprat" target="blank">Soggy Shiprat</a>
+scabrous_bite: <a href="https://www.wowhead.com/spell=274555/scabrous-bite" target="blank">Scabrous Bite</a> # tank debuff, blast rats
+
+blacktooth_knuckleduster: <a href="https://www.wowhead.com/npc=129547/blacktooth-knuckleduster" target="blank">Blacktooth Knuckleduster</a>
+shattering_bellow: <a href="https://www.wowhead.com/spell=257732/shattering-bellow" target="blank">Shattering Bellow</a> # kick, beware spelllock
+
+blacktooth_scrapper: <a href="https://www.wowhead.com/npc=129529/blacktooth-scrapper" target="blank">Blacktooth Scrapper</a>
+blind_rage: <a href="https://www.wowhead.com/spell=257739/blind-rage" target="blank">Blind Rage</a> # Fixate
+
+# Joining a crew
+# chase dog
+murphy: <a href="https://www.wowhead.com/npc=130467/murphy" target="blank">Murphy</a> # Dog to follow
+otis: <a href="https://www.wowhead.com/npc=129441/otis" target="blank">Otis</a> # Dude to free
+cutwater_regalia: <a href="https://www.wowhead.com/spell=257800/cutwater-regalia" target="blank">Cutwater Regalia</a> # Jolly is your friend
+# Drink
+bilge_rat_brew: <a href="https://www.wowhead.com/spell=281357/bilge-rat-brew" target="blank">Bilge Rat Brew</a> # Drink by talking to vulperra
+bilge_rat_regalia: <a href="https://www.wowhead.com/spell=266952/bilge-rat-regalia" target="blank">Bilge Rat Regalia</a> # Eudora is your friend
+# kill mobs
+blacktooth_regalia: <a href="https://www.wowhead.com/spell=266950/blacktooth-regalia" target="blank">Blacktooth Regalia</a> # Frontal
+
+# Council of Captain
+# Each boss has two abilities against and one friendly ability
+captain_raoul: <a href="https://www.wowhead.com/npc=126847/captain-raoul" target="blank">Captain Raoul</a>
+blackout_barrel: <a href="https://www.wowhead.com/spell=258338/blackout-barrel" target="blank">Blackout Barrel</a> # Free your ally fast
+barrel_smash: <a href="https://www.wowhead.com/spell=256589/barrel-smash" target="blank">Barrel Smash</a> # don't be in melee
+tapped_keg: <a href="https://www.wowhead.com/spell=272900/tapped-keg" target="blank">Tapped Keg</a> # Stand near for 15% damage buff
+
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 
-# Council of Captain
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 
 # zzz RP Trash
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
@@ -106,12 +133,6 @@ example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel
 
 # Greedy dude
 
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
