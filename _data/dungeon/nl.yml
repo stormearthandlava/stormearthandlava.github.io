@@ -86,79 +86,57 @@ sunder: <a href="https://www.wowhead.com/spell=198496/sunder" target="blank">Sun
 stance_of_the_mountain: <a href="https://www.wowhead.com/spell=198510/stance-of-the-mountain" target="blank">Stance of the Mountain</a> # Find the right totem (5)
 
 # Bonemaw 2
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+stoneclaw_grubmaster: <a href="https://www.wowhead.com/npc=102404/stoneclaw-grubmaster" target="blank">Stoneclaw Grubmaster</a>
+leech: <a href="https://www.wowhead.com/spell=202231/leech" target="blank">Leech</a> # random ST DoT
+stone_shatter: <a href="https://www.wowhead.com/spell=226347/stone-shatter" target="blank">Stone Shatter</a> # 10 Yds AoE
+worm_call: <a href="https://www.wowhead.com/spell=183548/worm-call" target="blank">Worm Call</a> # Summons a grub
+
+tarspitter_grub: <a href="https://www.wowhead.com/npc=94869/tarspitter-grub" target="blank">Tarspitter Grub</a> # => CC
+metamorphosis: <a href="https://www.wowhead.com/spell=193803/metamorphosis" target="blank">Metamorphosis</a> # Must kill before cast is over
+
+rotdrool_grabber: <a href="https://www.wowhead.com/npc=91002/rotdrool-grabber" target="blank">Rotdrool Grabber</a> # Spawned by Metamorphosis
+barbed_tongue: <a href="https://www.wowhead.com/spell=183539/barbed-tongue" target="blank">Barbed Tongue</a> # Random pull toward melee
+rancid_pool: <a href="https://www.wowhead.com/spell=183560/rancid-pool" target="blank">Rancid Pool</a> # pool around worm
 
 # Naraxas
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+naraxas: <a href="https://www.wowhead.com/npc=91005/naraxas" target="blank">Naraxas</a>
+
+wormspeaker-devout: <a href="https://www.wowhead.com/npc=101075/wormspeaker-devout" target="blank">Wormspeaker Devout</a> # Switch//Funnel => Consider letting them live when boss is at low health
+Fanatic's Sacrifice: <a href="https://www.wowhead.com/spell=209902/fanatics-sacrifice" target="blank">Fanatic's Sacrifice</a> # Suicide => CC if needed
+ravenous: <a href="https://www.wowhead.com/spell=199246/ravenous" target="blank">Ravenous</a> # soft enrage
+rancid-maw: <a href="https://www.wowhead.com/spell=205549/rancid-maw" target="blank">Rancid Maw</a> # Slowing Puddle, place them far
+toxic-retch: <a href="https://www.wowhead.com/spell=217851/toxic-retch" target="blank">Toxic Retch</a> # Swirl
+spiked-tongue: <a href="https://www.wowhead.com/spell=199176/spiked-tongue" target="blank">Spiked Tongue</a> # Grab on Tank
+putrid_skies: <a href="https://www.wowhead.com/spell=198963/putrid-skies" target="blank">Putrid Skies</a> # Party damage if tank doesn't come back fast enough
+frenzy: <a href="https://www.wowhead.com/spell=199775/frenzy" target="blank">Frenzy</a> # Enrage at 20%, will cancel spiked Tongue if it's channeled
+angry-crowd: <a href="https://www.wowhead.com/npc=109137/angry-crowd" target="blank">Angry Crowd</a> # Crowd
+hurling-rocks: <a href="https://www.wowhead.com/spell=217011/hurling-rocks" target="blank">Hurling Rocks</a> # Random ST damage
 
 # Big hammer to compensate
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+emberhusk-dominator: <a href="https://www.wowhead.com/npc=102295/emberhusk-dominator" target="blank">Emberhusk Dominator</a>
+crystal-spike: <a href="https://www.wowhead.com/spell=201953/crystal-spike" target="blank">Crystal Spike</a> # Will deal damage to you everytime
+ember-swipe: <a href="https://www.wowhead.com/spell=226406/ember-swipe" target="blank">Ember Swipe</a> # Frontal
+frenzy: <a href="https://www.wowhead.com/spell=201983/frenzy" target="blank">Frenzy</a> # need soothe, missiles will destroy you
+
+understone-demolisher: <a href="https://www.wowhead.com/npc=102253/understone-demolisher" target="blank">Understone Demolisher</a> # just melee except
+charskin: <a href="https://www.wowhead.com/spell=188587/charskin" target="blank">Charskin</a> # Metamorphosis
+
+colossal-charskin: <a href="https://www.wowhead.com/npc=101652/colossal-charskin" target="blank">Colossal Charskin</a> # The new mob
+burning_hatred: <a href="https://www.wowhead.com/spell=200154/burning-hatred" target="blank">Burning Hatred</a> # Fixates, need Kite
+
+rockbound-trapper: <a href="https://www.wowhead.com/npc=102232/rockbound-trapper" target="blank">Rockbound Trapper</a> # immobile
+bound: <a href="https://www.wowhead.com/spell=193585/bound" target="blank">Bound</a>
+#jagged-disc
 
 # Dargrul the Underking
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+dargrul: <a href="https://www.wowhead.com/npc=107704/dargrul" target="blank">Dargrul</a>
+molten-crash: <a href="https://www.wowhead.com/spell=200732/molten-crash" target="blank">Molten Crash</a> # Tank Burst
+landslide: <a href="https://www.wowhead.com/spell=200700/landslide" target="blank">Landslide</a> # Frontal / creates swirlies
+crystal-spikes: <a href="https://www.wowhead.com/spell=200551/crystal-spikes" target="blank">Crystal Spikes</a> # Swirl that creates a crystal
+magma-wave: <a href="https://www.wowhead.com/spell=200404/magma-wave" target="blank">Magma Wave</a> # Hide behind Crystal at 100 energy
+
+magma-sculptor: <a href="https://www.wowhead.com/spell=200637/magma-sculptor" target="blank">Magma Sculptor</a> # Summons add
+molten-charskin: <a href="https://www.wowhead.com/npc=101476/molten-charskin" target="blank">Molten Charskin</a> # Add
+burning-hatred: <a href="https://www.wowhead.com/spell=200154/burning-hatred" target="blank">Burning Hatred</a> # Fixates
+magma-breaker: <a href="https://www.wowhead.com/spell=209920/magma-breaker" target="blank">Magma Breaker</a> # Each step does an AoE
+crystal-cracked: <a href="https://www.wowhead.com/spell=200672/crystal-cracked" target="blank">Crystal Cracked</a> # Kite them through the pillars for stun and Damage amp, switch on it when stunned
