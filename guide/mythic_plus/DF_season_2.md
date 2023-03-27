@@ -471,12 +471,84 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Magma Mammoth Notable Trash Mobs
+## Magma Squid Mammoth Notable Trash Mobs
+
+**{{ site.data.dungeon.ntr.qalashi_warden }}**
+* Don't be on the tank, {{ site.data.dungeon.ntr.volcanic_guard }} is a frontal on them.
+
+**{{ site.data.dungeon.ntr.qalashi_spinecrusher }}**
+* Only does tank damage
+
+**{{ site.data.dungeon.ntr.qalashi_thaumaturge }}**
+* Use {{ site.data.talent.capacitor_totem }} or another CC to hard-interrupt {{ site.data.dungeon.ntr.magma_conflagration }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.molten_core }}.
+* if {{ site.data.dungeon.ntr.molten_core }} isn't interrupted, hard focus the {{ site.data.dungeon.ntr.molten_elemental }} that spawns.
+
+**{{ site.data.dungeon.ntr.ore_elemental }}**
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.granite_shell }}.
+
+**{{ site.data.dungeon.ntr.molten_elemental }}**
+* **This mob is a priority to kill at all cost**.
+* {{ site.data.dungeon.ntr.molten_core_buff }} will trigger a {{ site.data.dungeon.ntr.molten_explosion }} every 3s, dealing ramping damage on the party. Use {{ site.data.talent.ag }} to help your healer and {{ site.data.talent.as }} to survive.
+
+**{{ site.data.dungeon.ntr.qalashi_plunderer }}**
+* Dodge the {{ site.data.dungeon.ntr.explosive_concoction }} orange swirly !
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## Magmatusk
 
 **{{ site.data.dungeon.ntr.example }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
 
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## Drake Hunter Notable Trash Mobs
+
+**{{ site.data.dungeon.ntr.example }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## Chargath, Bane of Scales
+
+**{{ site.data.dungeon.ntr.example }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## Wannabee Paladin Notable Trash Mobs
+
+**{{ site.data.dungeon.ntr.example }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## Forgemaster Gorek
+
+**{{ site.data.dungeon.ntr.example }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## Smaug Treasure Hoarder Notable Trash Mobs
+
+**{{ site.data.dungeon.ntr.example }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## Warlord Sargha
+
+**{{ site.data.dungeon.ntr.example }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
 </div>
 </div>
 </div>
