@@ -1170,8 +1170,12 @@ A common route skip most of the trash in Nokhudon Hold, as they are very innefic
 </div>
 </div>
 </div>
+</div>
+</div>
 
-<div class="card-body" markdown="1">
+<br>
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
 
 # Useful WeakAuras
 
@@ -1181,10 +1185,11 @@ A common route skip most of the trash in Nokhudon Hold, as they are very innefic
 * [Mythic+ Auto Marker](https://wago.io/1ctv3b91K) by Megawatt
 * [Mythic+ Timer](https://wago.io/M+Timer) by Reloe
 
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+
 # Additional Resources
 
 * [Wowhead Elemental Shaman Mythic+ Guide](https://www.wowhead.com/guide/classes/shaman/elemental/mythic-plus-dungeon-tips) by HawkCorrigan
 * [Icy-Veins Elemental Shaman Mythic+ Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-mythic-plus-tips) by Stormy
 * [Mythic+ Subcreation](https://mplus.subcreation.net/elemental-shaman.html)
 * [Mythic+ Murlok.io](https://murlok.io/shaman/elemental/mm+)
-</div>

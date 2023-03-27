@@ -280,6 +280,8 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 </div>
 </div>
 
+# Freehold
+
 <div class="card">
 <div class="card-header" id="hoi">
 <div data-toggle="collapse" data-target="#hoi-collapse" aria-expanded="true" aria-controls="hoi-collapse" class="dungeon-header hoi"><h2>Halls of Infusion</h2></div>
@@ -449,6 +451,8 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 </div>
 </div>
 
+# Neltharion's Lair
+
 <div class="card">
 <div class="card-header" id="ntr">
 <div data-toggle="collapse" data-target="#ntr-collapse" aria-expanded="true" aria-controls="ntr-collapse" class="dungeon-header ntr"><h2>Neltharus</h2></div>
@@ -476,6 +480,8 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 </div>
 </div>
 </div>
+
+# The Vortex Pinnacle
 
 <div class="card">
 <div class="card-header" id="udm">
@@ -505,7 +511,14 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 </div>
 </div>
 
-<div class="card-body" markdown="1">
+# Underrot
+
+</div>
+</div>
+
+<br>
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
 
 # Useful WeakAuras
 
@@ -515,10 +528,11 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * [Mythic+ Auto Marker](https://wago.io/1ctv3b91K) by Megawatt
 * [Mythic+ Timer](https://wago.io/M+Timer) by Reloe
 
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+
 # Additional Resources
 
 * [Wowhead Elemental Shaman Mythic+ Guide](https://www.wowhead.com/guide/classes/shaman/elemental/mythic-plus-dungeon-tips) by HawkCorrigan
 * [Icy-Veins Elemental Shaman Mythic+ Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-mythic-plus-tips) by Stormy
 * [Mythic+ Subcreation](https://mplus.subcreation.net/elemental-shaman.html)
 * [Mythic+ Murlok.io](https://murlok.io/shaman/elemental/mm+)
-</div>
