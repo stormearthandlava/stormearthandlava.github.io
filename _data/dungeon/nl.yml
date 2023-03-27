@@ -1,4 +1,4 @@
-    # Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
@@ -14,7 +14,7 @@
 
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 
-# Big Rock trash
+# Big Rock Notable Trash Mobs
 rockback_gnasher: <a href="https://www.wowhead.com/npc=91006/rockback-gnasher" target="blank">Rockback Gnasher</a>
 stone_gaze: <a href="https://www.wowhead.com/spell=202181/stone-gaze" target="blank">Stone Gaze</a> # kick
 bone_chomp: <a href="https://www.wowhead.com/spell=193639/bone-chomp" target="blank">Bone Chomp</a> # Tank Damage
@@ -50,7 +50,7 @@ crystalline_ground: <a href="https://www.wowhead.com/spell=198028/crystalline-gr
 rupturing_skitter: <a href="https://www.wowhead.com/spell=215929/rupturing-skitter" target="blank">Rupturing Skitter</a> # living adds explodes
 razor_shards: <a href="https://www.wowhead.com/spell=188169/razor-shards" target="blank">Razor Shards</a> # Frontal
 
-# Drogbar Sorcerer
+# Drogbar Sorcerer Notable Trash Mobs
 understone_drummer: <a href="https://www.wowhead.com/npc=92351/understone-drummer" target="blank">Understone Drummer</a> # patrol (hex?)
 war_drums: <a href="https://www.wowhead.com/spell=183526/war-drums" target="blank">War Drums</a> # Must CC or kill the drum
 drums_of_war: <a href="https://www.wowhead.com/npc=92387/drums-of-war" target="blank">Drums of War</a> # Drum to kill
@@ -85,7 +85,7 @@ strike_of_the_mountain: <a href="https://www.wowhead.com/spell=216290/strike-of-
 sunder: <a href="https://www.wowhead.com/spell=198496/sunder" target="blank">Sunder</a> # Tank Damage
 stance_of_the_mountain: <a href="https://www.wowhead.com/spell=198510/stance-of-the-mountain" target="blank">Stance of the Mountain</a> # Find the right totem (5)
 
-# Bonemaw 2
+# Bonemaw 2 Notable Trash Mobs
 stoneclaw_grubmaster: <a href="https://www.wowhead.com/npc=102404/stoneclaw-grubmaster" target="blank">Stoneclaw Grubmaster</a>
 leech: <a href="https://www.wowhead.com/spell=202231/leech" target="blank">Leech</a> # random ST DoT
 stone_shatter: <a href="https://www.wowhead.com/spell=226347/stone-shatter" target="blank">Stone Shatter</a> # 10 Yds AoE
@@ -101,42 +101,41 @@ rancid_pool: <a href="https://www.wowhead.com/spell=183560/rancid-pool" target="
 # Naraxas
 naraxas: <a href="https://www.wowhead.com/npc=91005/naraxas" target="blank">Naraxas</a>
 
-wormspeaker-devout: <a href="https://www.wowhead.com/npc=101075/wormspeaker-devout" target="blank">Wormspeaker Devout</a> # Switch//Funnel => Consider letting them live when boss is at low health
-Fanatic's Sacrifice: <a href="https://www.wowhead.com/spell=209902/fanatics-sacrifice" target="blank">Fanatic's Sacrifice</a> # Suicide => CC if needed
+wormspeaker_devout: <a href="https://www.wowhead.com/npc=101075/wormspeaker-devout" target="blank">Wormspeaker Devout</a> # Switch//Funnel => Consider letting them live when boss is at low health
+fanatics_sacrifice: <a href="https://www.wowhead.com/spell=209902/fanatics-sacrifice" target="blank">Fanatic's Sacrifice</a> # Suicide => CC if needed
 ravenous: <a href="https://www.wowhead.com/spell=199246/ravenous" target="blank">Ravenous</a> # soft enrage
-rancid-maw: <a href="https://www.wowhead.com/spell=205549/rancid-maw" target="blank">Rancid Maw</a> # Slowing Puddle, place them far
-toxic-retch: <a href="https://www.wowhead.com/spell=217851/toxic-retch" target="blank">Toxic Retch</a> # Swirl
-spiked-tongue: <a href="https://www.wowhead.com/spell=199176/spiked-tongue" target="blank">Spiked Tongue</a> # Grab on Tank
+rancid_maw: <a href="https://www.wowhead.com/spell=205549/rancid-maw" target="blank">Rancid Maw</a> # Slowing Puddle, place them far
+toxic_retch: <a href="https://www.wowhead.com/spell=217851/toxic-retch" target="blank">Toxic Retch</a> # Swirl
+spiked_tongue: <a href="https://www.wowhead.com/spell=199176/spiked-tongue" target="blank">Spiked Tongue</a> # Grab on Tank
 putrid_skies: <a href="https://www.wowhead.com/spell=198963/putrid-skies" target="blank">Putrid Skies</a> # Party damage if tank doesn't come back fast enough
 frenzy: <a href="https://www.wowhead.com/spell=199775/frenzy" target="blank">Frenzy</a> # Enrage at 20%, will cancel spiked Tongue if it's channeled
-angry-crowd: <a href="https://www.wowhead.com/npc=109137/angry-crowd" target="blank">Angry Crowd</a> # Crowd
-hurling-rocks: <a href="https://www.wowhead.com/spell=217011/hurling-rocks" target="blank">Hurling Rocks</a> # Random ST damage
+angry_crowd: <a href="https://www.wowhead.com/npc=109137/angry-crowd" target="blank">Angry Crowd</a> # Crowd
+hurling_rocks: <a href="https://www.wowhead.com/spell=217011/hurling-rocks" target="blank">Hurling Rocks</a> # Random ST damage
 
-# Big hammer to compensate
-emberhusk-dominator: <a href="https://www.wowhead.com/npc=102295/emberhusk-dominator" target="blank">Emberhusk Dominator</a>
-crystal-spike: <a href="https://www.wowhead.com/spell=201953/crystal-spike" target="blank">Crystal Spike</a> # Will deal damage to you everytime
-ember-swipe: <a href="https://www.wowhead.com/spell=226406/ember-swipe" target="blank">Ember Swipe</a> # Frontal
+# Big hammer to compensate Notable Trash Mobs
+emberhusk_dominator: <a href="https://www.wowhead.com/npc=102295/emberhusk-dominator" target="blank">Emberhusk Dominator</a>
+crystal_spike: <a href="https://www.wowhead.com/spell=201953/crystal-spike" target="blank">Crystal Spike</a> # Will deal damage to you everytime
+ember_swipe: <a href="https://www.wowhead.com/spell=226406/ember-swipe" target="blank">Ember Swipe</a> # Frontal
 frenzy: <a href="https://www.wowhead.com/spell=201983/frenzy" target="blank">Frenzy</a> # need soothe, missiles will destroy you
 
-understone-demolisher: <a href="https://www.wowhead.com/npc=102253/understone-demolisher" target="blank">Understone Demolisher</a> # just melee except
+understone_demolisher: <a href="https://www.wowhead.com/npc=102253/understone-demolisher" target="blank">Understone Demolisher</a> # just melee except
 charskin: <a href="https://www.wowhead.com/spell=188587/charskin" target="blank">Charskin</a> # Metamorphosis
 
-colossal-charskin: <a href="https://www.wowhead.com/npc=101652/colossal-charskin" target="blank">Colossal Charskin</a> # The new mob
+colossal_charskin: <a href="https://www.wowhead.com/npc=101652/colossal-charskin" target="blank">Colossal Charskin</a> # The new mob
 burning_hatred: <a href="https://www.wowhead.com/spell=200154/burning-hatred" target="blank">Burning Hatred</a> # Fixates, need Kite
 
-rockbound-trapper: <a href="https://www.wowhead.com/npc=102232/rockbound-trapper" target="blank">Rockbound Trapper</a> # immobile
+rockbound_trapper: <a href="https://www.wowhead.com/npc=102232/rockbound-trapper" target="blank">Rockbound Trapper</a> # immobile
 bound: <a href="https://www.wowhead.com/spell=193585/bound" target="blank">Bound</a>
 #jagged-disc
 
 # Dargrul the Underking
 dargrul: <a href="https://www.wowhead.com/npc=107704/dargrul" target="blank">Dargrul</a>
-molten-crash: <a href="https://www.wowhead.com/spell=200732/molten-crash" target="blank">Molten Crash</a> # Tank Burst
+molten_crash: <a href="https://www.wowhead.com/spell=200732/molten-crash" target="blank">Molten Crash</a> # Tank Burst
 landslide: <a href="https://www.wowhead.com/spell=200700/landslide" target="blank">Landslide</a> # Frontal / creates swirlies
-crystal-spikes: <a href="https://www.wowhead.com/spell=200551/crystal-spikes" target="blank">Crystal Spikes</a> # Swirl that creates a crystal
-magma-wave: <a href="https://www.wowhead.com/spell=200404/magma-wave" target="blank">Magma Wave</a> # Hide behind Crystal at 100 energy
-
-magma-sculptor: <a href="https://www.wowhead.com/spell=200637/magma-sculptor" target="blank">Magma Sculptor</a> # Summons add
-molten-charskin: <a href="https://www.wowhead.com/npc=101476/molten-charskin" target="blank">Molten Charskin</a> # Add
-burning-hatred: <a href="https://www.wowhead.com/spell=200154/burning-hatred" target="blank">Burning Hatred</a> # Fixates
-magma-breaker: <a href="https://www.wowhead.com/spell=209920/magma-breaker" target="blank">Magma Breaker</a> # Each step does an AoE
-crystal-cracked: <a href="https://www.wowhead.com/spell=200672/crystal-cracked" target="blank">Crystal Cracked</a> # Kite them through the pillars for stun and Damage amp, switch on it when stunned
+crystal_spikes: <a href="https://www.wowhead.com/spell=200551/crystal-spikes" target="blank">Crystal Spikes</a> # Swirl that creates a crystal
+magma_wave: <a href="https://www.wowhead.com/spell=200404/magma-wave" target="blank">Magma Wave</a> # Hide behind Crystal at 100 energy
+magma_sculptor: <a href="https://www.wowhead.com/spell=200637/magma-sculptor" target="blank">Magma Sculptor</a> # Summons add
+molten_charskin: <a href="https://www.wowhead.com/npc=101476/molten-charskin" target="blank">Molten Charskin</a> # Add
+burning_hatred: <a href="https://www.wowhead.com/spell=200154/burning-hatred" target="blank">Burning Hatred</a> # Fixates
+magma_breaker: <a href="https://www.wowhead.com/spell=209920/magma-breaker" target="blank">Magma Breaker</a> # Each step does an AoE
+crystal_cracked: <a href="https://www.wowhead.com/spell=200672/crystal-cracked" target="blank">Crystal Cracked</a> # Kite them through the pillars for stun and Damage amp, switch on it when stunned

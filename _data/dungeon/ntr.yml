@@ -16,7 +16,7 @@ example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel
 
 ## Environnement
 
-## Magmatusk's Trash
+## Magmatusk Notable Trash Mobs
 qalashi_warden: <a href="https://www.wowhead.com/npc=193293/qalashi-warden" target="blank">Qalashi Warden</a>
 volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
 blazing_slash: <a href="https://www.wowhead.com/spell=397011/blazing-slash" target="blank">Blazing Slash</a> # tank damage
@@ -50,7 +50,7 @@ blazing_charge: <a href="https://www.wowhead.com/spell=375439/blazing-charge" ta
 lava_wave: <a href="https://www.wowhead.com/spell=375535/lava-wave" target="blank">Lave Wave</a> # Dodge
 magma_eruption: <a href="https://www.wowhead.com/spell=375890/magma-eruption" target="blank">Magma Eruption</a> # group wide damage
 
-## Chargath's Trash
+## Chargath Notable Trash Mobs
 tamed_phoenix: <a href="https://www.wowhead.com/npc=189247/tamed-phoenix" target="blank">Tamed Phoenix</a> # imps in CoS
 ember_reach: <a href="https://www.wowhead.com/spell=372615/ember-reach" target="blank">Ember Reach</a> # interrupt
 
@@ -87,7 +87,7 @@ magma_wave: <a href="https://www.wowhead.com/spell=373767/magma-wave" target="bl
 dragon_strike: <a href="https://www.wowhead.com/spell=373733/dragon-strike" target="blank">Dragon Strike</a> # random bleed
 
 
-## Forgemaster's Trash
+## Forgemaster Notable Trash Mobs
 qalashi_lavabearer: <a href="https://www.wowhead.com/npc=189472/qalashi-lavabearer" target="blank">Qalashi Lavabearer</a>
 lava_drip: <a href="https://www.wowhead.com/spell=372211/lava-drip" target="blank">Lava Drip</a> # many pools, kited, great EQ
 throw_lava: <a href="https://www.wowhead.com/spell=394972/throw-lava" target="blank">Throw Lava</a> # swirl & pools
@@ -129,7 +129,7 @@ forgestorm: <a href="https://www.wowhead.com/spell=375244/forgestorm" target="bl
 heated_swings: <a href="https://www.wowhead.com/spell=374535/heated-swings" target="blank">Heated Swings</a> # tank damage
 forgefire: <a href="https://www.wowhead.com/spell=381482/forgefire" target="blank">Forgefire</a> # magma pool after tank damage
 
-## Warlord Sargha's Trash
+## Warlord Sargha Notable Trash Mobs
 apex_blazewing: <a href="https://www.wowhead.com/npc=193291/apex-blazewing" target="blank">Apex Blazewing</a>
 scalding_chomp: <a href="https://www.wowhead.com/spell=382002/scalding-chomp" target="blank">Scalding Chomp</a> # Tank Damage
 candescent_tempest: <a href="https://www.wowhead.com/spell=381663/candescent-tempest" target="blank">Candescent Tempest</a> # party damage (can be LoS) and knockback (cannot)

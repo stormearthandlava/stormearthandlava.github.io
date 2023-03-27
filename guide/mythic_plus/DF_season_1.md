@@ -143,7 +143,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.aa.vexamus }} trash
+## {{ site.data.dungeon.aa.vexamus }} Notable Trash Mobs
 
 **{{ site.data.dungeon.aa.spellbound_scepter }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.aa.mystic_blast }} in priority.
@@ -168,7 +168,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.aa.crawth }} trash
+## {{ site.data.dungeon.aa.crawth }} Notable Trash Mobs
 
 **{{ site.data.dungeon.aa.guardian_sentry }}**
 * Get out or line of sight the big {{ site.data.dungeon.aa.expel_intruders }} cast.
@@ -191,7 +191,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.aa.overgrown_ancient }} trash
+## {{ site.data.dungeon.aa.overgrown_ancient }} Notable Trash Mobs
 
 **{{ site.data.dungeon.aa.hungry_lasher }}**
 * Use {{ site.data.talent.poison_cleansing_totem }} if talented to help the tank with the {{ site.data.dungeon.aa.lasher_toxin }} stacks.
@@ -216,7 +216,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.aa.echo_of_doragosa }} trash
+## {{ site.data.dungeon.aa.echo_of_doragosa }} Notable Trash Mobs
 
 **{{ site.data.dungeon.aa.algethar_echoknight }}**
 * Don't be in melee range when {{ site.data.dungeon.aa.algethar_echoknight }} uses {{ site.data.dungeon.aa.astral_whirlwind }}.
@@ -270,7 +270,7 @@ A full AoE build is still a good option depending on your route and your party c
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.cos.patrol_captain_gerdo }} trash
+## {{ site.data.dungeon.cos.patrol_captain_gerdo }} Notable Trash Mobs
 
 **{{ site.data.dungeon.cos.duskwatch_guard }}**
 * Dodge the {{ site.data.dungeon.cos.quelling_strike }} frontal.
@@ -317,7 +317,7 @@ You can find a complete list of all of the accessible items and buff on [this li
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.cos.talixae_flamewreath }} trash
+## {{ site.data.dungeon.cos.talixae_flamewreath }} Notable Trash Mobs
 
 **{{ site.data.dungeon.cos.watchful_inquisitor }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.cos.searing_glare }}.
@@ -409,7 +409,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.hov.hymdall }} trash
+## {{ site.data.dungeon.hov.hymdall }} Notable Trash Mobs
 
 **{{ site.data.dungeon.hov.valarjar_champion }}**
 * Don't be on the tank, {{ site.data.dungeon.hov.power_attack }} cleaves.
@@ -432,7 +432,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.hov.hyrja }} trash
+## {{ site.data.dungeon.hov.hyrja }} Notable Trash Mobs
 
 **{{ site.data.dungeon.hov.valarjar_runecarver }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hov.etch }} in priority and {{ site.data.dungeon.hov.shattered_rune }} if possible.
@@ -477,7 +477,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.hov.fenryr }} trash
+## {{ site.data.dungeon.hov.fenryr }} Notable Trash Mobs
 
 **{{ site.data.dungeon.hov.angerhoof_bull }}**
 * Stay farther than 12 yards away to ignore {{ site.data.dungeon.hov.rumbling_stomp }}.
@@ -499,7 +499,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.hov.god_king_skovald }} trash
+## {{ site.data.dungeon.hov.god_king_skovald }} Notable Trash Mobs
 
 The 4 kings in the area must be defeated for {{ site.data.dungeon.hov.god_king_skovald }} to spawn. They each have a unique ability and defeating one grants his ability to the other ones. You must engage one, then another, then the last two will attack together. It's possible to speed up this proccess by picking up a {{ site.data.dungeon.hov.mug_of_mead }} in the banquet's hall. Throw the {{ site.data.dungeon.hov.mug_of_mead }} on a king, then talk to another one then kite it over the king spreaded with mead. They will start to fight allowing you to engage the second king. [This video](https://youtu.be/CdZvi8jKUMc) explains the method and [this one](https://youtu.be/eQx4c8FyrcA) explains an advanced version with all 4 kings.
 
@@ -555,7 +555,7 @@ The 4 kings in the area must be defeated for {{ site.data.dungeon.hov.god_king_s
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.rlp.melidrussa_chillworn }} trash
+## {{ site.data.dungeon.rlp.melidrussa_chillworn }} Notable Trash Mobs
 
 **{{ site.data.dungeon.rlp.flashfrost_chillweaver }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.rlp.ice_shield }}.
@@ -584,7 +584,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.rlp.kokia_blazehoof }} trash
+## {{ site.data.dungeon.rlp.kokia_blazehoof }} Notable Trash Mobs
 
 **{{ site.data.dungeon.rlp.primalist_cinderweaver }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.rlp.cinderbolt }}.
@@ -623,7 +623,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.rlp.kyrakka }} and {{ site.data.dungeon.rlp.erkhart_stormvein }} trash
+## {{ site.data.dungeon.rlp.kyrakka }} and {{ site.data.dungeon.rlp.erkhart_stormvein }} Notable Trash Mobs
 
 **{{ site.data.dungeon.rlp.storm_warrior }}**
 * One of the only mobs that does nothing but tank damage this season. Worth noting.
@@ -683,7 +683,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.sbg.sadana_bloodfury }} trash
+## {{ site.data.dungeon.sbg.sadana_bloodfury }} Notable Trash Mobs
 
 **{{ site.data.dungeon.sbg.shadowmoon_bone_mender }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.sbg.shadow_mend }} in priority and {{ site.data.dungeon.sbg.shadow_bolt }} with extra kicks.
@@ -711,7 +711,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.sbg.nhallish }} trash
+## {{ site.data.dungeon.sbg.nhallish }} Notable Trash Mobs
 
 **{{ site.data.dungeon.sbg.shadowmoon_dominator }}**
 * Try to not interrupt their initial {{ site.data.dungeon.sbg.domination }} cast as it will prevent them from casting anything else. While the initial cast is still going, {{ site.data.dungeon.sbg.subjugated_soul }} will do bonus damage and potentially target random players. Interrupt the cast with {{ site.data.spell.wind_shear }} as needed before anyone dies.
@@ -736,7 +736,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.sbg.bonemaw }} trash
+## {{ site.data.dungeon.sbg.bonemaw }} Notable Trash Mobs
 
 **{{ site.data.dungeon.sbg.monstrous_corpse_spider }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.sbg.necrotic_burst }}.
@@ -800,7 +800,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.tjs.wise_mari }} trash
+## {{ site.data.dungeon.tjs.wise_mari }} Notable Trash Mobs
 
 **{{ site.data.dungeon.tjs.fallen_waterspeaker }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.tjs.tidal_burst }} and {{ site.data.dungeon.tjs.hydrolance }}.
@@ -819,7 +819,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.tjs.strife }} and {{ site.data.dungeon.tjs.peril }} trash
+## {{ site.data.dungeon.tjs.strife }} and {{ site.data.dungeon.tjs.peril }} Notable Trash Mobs
 
 **{{ site.data.dungeon.tjs.haunting_sha }}**
 * Don't be on the tank, {{ site.data.dungeon.tjs.haunting_gaze }} cleaves.
@@ -859,7 +859,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.tjs.liu_flameheart }} trash
+## {{ site.data.dungeon.tjs.liu_flameheart }} Notable Trash Mobs
 
 **{{ site.data.dungeon.tjs.shambling_infester }}**
 * It will periodically summon {{ site.data.dungeon.tjs.lesser_sha }} with {{ site.data.dungeon.tjs.summon_sha }}. As before, beware of their {{ site.data.dungeon.tjs.sha_eruption }} on death.
@@ -886,7 +886,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.tjs.sha_of_doubt }} trash
+## {{ site.data.dungeon.tjs.sha_of_doubt }} Notable Trash Mobs
 
 The mobs before the last boss were all already present in the dungeon so they don't need additional explanations. The packs are nonetheless really difficult because of the mobs arrangement. They notably require a lot of interrupt and have many deadly mechanics. In {{ site.data.affixes.fortified }} weeks, you might want to keep {{ site.data.spell.bl }} for the last pack of the dungeon.
 
@@ -921,7 +921,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.av.leymor }} trash
+## {{ site.data.dungeon.av.leymor }} Notable Trash Mobs
 
 **{{ site.data.dungeon.av.conjured_lasher }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.av.mystic_vapors }}.
@@ -944,7 +944,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.av.azureblade }} trash
+## {{ site.data.dungeon.av.azureblade }} Notable Trash Mobs
 
 **{{ site.data.dungeon.av.arcane_elemental }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.av.waking_bane }} in priority and {{ site.data.dungeon.av.arcane_bolt }} if possible.
@@ -987,7 +987,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.av.telash_greywing }} trash
+## {{ site.data.dungeon.av.telash_greywing }} Notable Trash Mobs
 
 **{{ site.data.dungeon.av.drakonid_breaker }}**
 * {{ site.data.dungeon.av.shoulder_slam }} will knock you back. Be careful about your position at all time.
@@ -1039,7 +1039,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.no.granyth }} trash
+## {{ site.data.dungeon.no.granyth }} Notable Trash Mobs
 **{{ site.data.dungeon.no.nokhud_longbow }}**
 * Watch your feet to dodge {{ site.data.dungeon.no.rain_of_arrows }}. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 
@@ -1068,7 +1068,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.no.the_raging_tempest }} trash
+## {{ site.data.dungeon.no.the_raging_tempest }} Notable Trash Mobs
 
 **{{ site.data.dungeon.no.primalist_stormspeaker }}**
 * Always interrupt {{ site.data.dungeon.no.tempest }}. Assign a player to always and only kick it.
@@ -1100,7 +1100,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.no.teera }} and {{ site.data.dungeon.no.maruuk }} trash
+## {{ site.data.dungeon.no.teera }} and {{ site.data.dungeon.no.maruuk }} Notable Trash Mobs
 
 **{{ site.data.dungeon.no.ukhel_deathspeaker }}**
 * Stay farther than 10 yards away to ignore {{ site.data.dungeon.no.chant_of_the_dead }}.
@@ -1135,7 +1135,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.no.balakar_khan }} trash
+## {{ site.data.dungeon.no.balakar_khan }} Notable Trash Mobs
 
 A common route skip most of the trash in Nokhudon Hold, as they are very inneficient. You can find this route [here](https://youtu.be/0tIJAU-qA4M).
 

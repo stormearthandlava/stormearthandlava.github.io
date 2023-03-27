@@ -14,7 +14,7 @@
 
 example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
 
-# Shitting Parrot Trash
+# Shitting Parrot Notable Trash Mobs
 sharkbait: <a href="https://www.wowhead.com/npc=129743/sharkbait" target="blank">Sharkbait</a>
 vile_bombardment: <a href="https://www.wowhead.com/spell=256005/vile-bombardment" target="blank">Vile Bombardment</a> # Puddles until first boss
 
@@ -47,7 +47,7 @@ azerite_powder_shot: <a href="https://www.wowhead.com/spell=256106/azerite-powde
 revitalizing_brew: <a href="https://www.wowhead.com/spell=256060/revitalizing-brew" target="blank">Revitalizing Brew</a> # kick ( with gust being 30yds limited, let your melee/tank do it)
 dive_bomb: <a href="https://www.wowhead.com/spell=272046/dive-bomb" target="blank">Dive Bomb</a> # dodge charge
 
-# Captains betraying each other each week Trash
+# Captains betraying each other each week Notable Trash Mobs
 blacktooth_brute: <a href="https://www.wowhead.com/npc=129548/blacktooth-brute" target="blank">Blacktooth Brute</a>
 earth_shaker: <a href="https://www.wowhead.com/spell=257747/earth-shaker" target="blank">Earth Shaker</a> # 5 Yds AoE
 
@@ -118,7 +118,7 @@ confidence_boosting_freehold_brew: <a href="https://www.wowhead.com/spell=265088
 invigorating_freehold_brew: <a href="https://www.wowhead.com/spell=265056/invigorating-freehold-brew" target="blank">Invigorating Freehold Brew</a> # swirl haste
 caustic_freehold_brew: <a href="https://www.wowhead.com/spell=278467/caustic-freehold-brew" target="blank">Caustic Freehold Brew</a> # DoT swirl
 
-# zzz RP Trash
+# zzz RP Notable Trash Mobs
 cutwater_harpooner: <a href="https://www.wowhead.com/npc=129601/cutwater-harpooner" target="blank">Cutwater Harpooner</a>
 dragging_harpoon: <a href="https://www.wowhead.com/spell=272413/dragging-harpoon" target="blank">Dragging Harpoon</a> # grabs to melee => Care fixate and aoe effects
 
@@ -140,7 +140,7 @@ flailing_shark: <a href="https://www.wowhead.com/spell=256551/flailing-shark" ta
 rearm: <a href="https://www.wowhead.com/spell=256706/rearm" target="blank">Rearm</a> # kiting done
 throw_chum: <a href="https://www.wowhead.com/spell=272548/throw-chum" target="blank">Throw Chum</a> # Slows the shark
 
-# Male Ashvane trash
+# Male Ashvane Notable Trash Mobs
 irontide_officer: <a href="https://www.wowhead.com/npc=127106/irontide-officer" target="blank">Irontide Officer</a>
 oiled_blade: <a href="https://www.wowhead.com/spell=257908/oiled-blade" target="blank">Oiled Blade</a> # Tank dam
 

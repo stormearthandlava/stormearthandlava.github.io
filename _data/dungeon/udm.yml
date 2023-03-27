@@ -16,7 +16,7 @@ example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel
 
 ## Uldaman: Legacy of Tyr
 
-# Blizzard's Viking's Trash
+# Blizzard's Viking Notable Trash Mobs
 stonevault_geomancer: <a href="https://www.wowhead.com/npc=186658/stonevault-geomancer" target="blank">Stonevault Geomancer</a>
 stone_pike: <a href="https://www.wowhead.com/spell=369674/stone-spike" target="blank">Stone Pike</a> # kick
 chain_lightning: <a href="https://www.wowhead.com/spell=369675/chain-lightning" target="blank">Chain Lightning</a> # prio kick
@@ -49,7 +49,7 @@ fiery_surge: <a href="https://www.wowhead.com/spell=395647/fiery-surge" target="
 burning_pitch: <a href="https://www.wowhead.com/spell=377825/burning-pitch" target="blank">Burning Pitch</a> # puddles for 30s
 hasty_rearming: <a href="https://www.wowhead.com/spell=375398/hasty-rearming" target="blank">Hasty Rearming</a> # Focus a dwarf
 
-# Another Trogg King's Trash
+# Another Trogg King Notable Trash Mobs
 burly_rock_thrower: <a href="https://www.wowhead.com/npc=184019/burly-rock-thrower" target="blank">Burly Rock-Thrower</a> # immobile, shoud LoS
 throw_rock: <a href="https://www.wowhead.com/spell=369853/throw-rock" target="blank">Throw Rock</a> # Swirl
 
@@ -66,7 +66,7 @@ shocking_quake: <a href="https://www.wowhead.com/spell=369610/shocking-quake" ta
 tremor: <a href="https://www.wowhead.com/spell=369660/tremor" target="blank">Tremor</a> # kite troggs on totem for damage amp (8yds)
 bloodlust: <a href="https://www.wowhead.com/spell=369754/bloodlust" target="blank">Bloodlust</a> # interrupt with tremor or disenrage, nothing else to do
 
-# Serpentine Keeper's trash
+# Serpentine Keeper Notable Trash Mobs
 earthen_custodian: <a href="https://www.wowhead.com/npc=184130/earthen-custodian" target="blank">Earthen Custodian</a>
 cleave: <a href="https://www.wowhead.com/spell=369409/cleave" target="blank">Cleave</a> # frontal
 rending_slash: <a href="https://www.wowhead.com/spell=369408/rending-slash" target="blank">Rending Slash</a> # tank damage
@@ -84,7 +84,7 @@ titanic_empowerment: <a href="https://www.wowhead.com/spell=372719/titanic-empow
 crushing_stomp: <a href="https://www.wowhead.com/spell=372701/crushing-stomp" target="blank">Crushing Stomp</a> # AoE and Knock
 earthen_shards: <a href="https://www.wowhead.com/spell=372718/earthen-shards" target="blank">Earthen Shards</a> # random ST DoT
 
-# Fire Keeper trash
+# Fire Keeper Notable Trash Mobs
 earthen_weaver: <a href="https://www.wowhead.com/npc=186420/earthen-weaver" target="blank">Earthen Weaver</a>
 stone_bolt: <a href="https://www.wowhead.com/spell=369399/stone-bolt" target="blank">Stone Bolt</a> # kick
 hail_of_stone: <a href="https://www.wowhead.com/spell=369465/hail-of-stone" target="blank">Hail of Stone</a> # channeled AoE, must be hard CCed
@@ -124,7 +124,7 @@ purging_flames: <a href="https://www.wowhead.com/spell=368990/purging-flames" ta
 sacred_barrier: <a href="https://www.wowhead.com/spell=369031/sacred-barrier" target="blank">Sacred Barrier</a> # boss immunity
 heat_engine: <a href="https://www.wowhead.com/spell=369029/heat-engine" target="blank">Heat Engine</a> # prevents going to the boss
 
-# Retcon Dragonfligh Herald's Trash
+# Retcon Dragonfligh Herald Notable Trash Mobs
 ebonstone_golem: <a href="https://www.wowhead.com/npc=184300/ebonstone-golem" target="blank">Ebonstone Golem</a>
 thunderous_clap: <a href="https://www.wowhead.com/spell=381593/thunderous-clap" target="blank">Thunderous Clap</a> # Heavy AoE, might be outranged?
 
@@ -152,4 +152,4 @@ time_eruption: <a href="https://www.wowhead.com/spell=377561/time-eruption" targ
 
 rewind_timeflow: <a href="https://www.wowhead.com/spell=376208/rewind-timeflow" target="blank">Rewind Timeflow</a> #intermission 12s
 temporal_orb: <a href="https://www.wowhead.com/spell=376329/temporal-orb" target="blank">Temporal Orb</a> # orbs going up, doesn't matter
-temporal_zone: <a href="https://www.wowhead.com/spell=376333/temporal-zone" target="blank">Temporal Zone</a> # Haste puddle ! 
+temporal_zone: <a href="https://www.wowhead.com/spell=376333/temporal-zone" target="blank">Temporal Zone</a> # Haste puddle !

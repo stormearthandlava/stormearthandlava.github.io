@@ -122,7 +122,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Gnoll troupe's trash
+## Gnolls Gang Bosses Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.claw_fighter }}**
 * Use {{ site.data.talent.swg }} to kite {{ site.data.dungeon.bh.vicious_clawmangle }}. Be ready to use {{ site.data.talent.as }} if needed.
@@ -172,7 +172,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Hyena Lover's trash
+## Hyena Lover Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.fleshripper_vulture }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.screech }}.
@@ -202,7 +202,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Rotten Tree's trash
+## Rotten Tree Notable Trash Mobs
 
 Going straight from {{ site.data.dungeon.bh.gutshot }} to {{ site.data.dungeon.bh.treemouth }} area, you should only encounter one new type of mob (a mini-boss).
 
@@ -248,7 +248,7 @@ If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Old Gnoll Witch's trash
+## Old Gnoll Witch Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.filth_caller }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.decay_surge }}.
@@ -301,7 +301,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Old Keeper Guy's trash
+## Old Keeper Guy Notable Trash Mobs
 
 **{{ site.data.dungeon.hoi.primalist_geomancer }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.earth_shield }}. Use {{ site.data.talent.purge }} to dispel it if the cast goes through.
@@ -336,7 +336,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Big Frog's trash
+## Big Frog Notable Trash Mobs
 
 **{{ site.data.dungeon.hoi.primalist_shocktrooper }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.lightning_blast }} with extra kick.
@@ -375,7 +375,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Fanatic Elementalist's trash
+## Fanatic Elementalist Notable Trash Mobs
 
 **{{ site.data.dungeon.hoi.primalist_galesinger }}**
 * Use {{ site.data.spell.wind_gust }} to interrupt {{ site.data.dungeon.hoi.thunderstorm }} in priority, {{ site.data.dungeon.hoi.wind_buffet }} with extra kicks.
@@ -413,7 +413,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Big Elemental dude's trash
+## Big Elemental Dude Notable Trash Mobs
 The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.crashing_tsunami }} will constantly come into you. {{ site.data.talent.swg }} is very potent in that area to dodge the incoming waves.
 
 **{{ site.data.dungeon.hoi.aqua_rager }}**
@@ -467,7 +467,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Magma Mammoth's trash
+## Magma Mammoth Notable Trash Mobs
 
 **{{ site.data.dungeon.ntr.example }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
@@ -495,7 +495,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.udm.example }} trash
+## {{ site.data.dungeon.udm.example }} Notable Trash Mobs
 
 **{{ site.data.dungeon.udm.example }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.example }}.
