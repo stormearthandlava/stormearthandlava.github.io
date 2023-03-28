@@ -24,12 +24,11 @@ If you have suggestions to improve the information in this guide please contact 
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
 - Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilizing {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
-- Any Single Target orientated fights where you choose to use {{ site.data.legendary.wlr }} please note that using {{ site.data.spell.eq }} on 2 or more targets is **still a net damage gain** despite ignoring your Legendary's effect. So if adds are present for short periods of time and you are not fully committed to single target then using {{ site.data.spell.eq }} for those short periods is preferred. 
+- Any Single Target orientated fights where you choose to use {{ site.data.legendary.wlr }} please note that using {{ site.data.spell.eq }} on 2 or more targets is **still a net damage gain** despite ignoring your Legendary's effect. So if adds are present for short periods of time and you are not fully committed to single target then using {{ site.data.spell.eq }} for those short periods is preferred.
 
 # Bosses
 <p style="color:red">Click on a boss banner to expand it.</p>
 
-<hr>
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
@@ -72,7 +71,7 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Notes:**
 - Because {{ site.data.nathria.earsplitting_shriek }} is a Horrify and not a Fear, you cannot use {{ site.data.talent.tremor_totem }} to dispel players.
-        
+
 </div>
 </div>
 </div>
@@ -82,7 +81,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#altimor-collapse" aria-expanded="true" aria-controls="altimor-collapse" class="raid-header castle_nathria"><h2>Huntsman Altimor</h2></div>
 </div>
 <div id="altimor-collapse" class="collapse" aria-labelledby="altimor" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** Cleave / Spread Cleave
 
@@ -94,12 +93,12 @@ If you have suggestions to improve the information in this guide please contact 
 * **40**: {{ site.data.talent.natures_guardian }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
-  
+
 **Recommended Covenant**
 - Necrolord with Plague-Deviser Marileth, if **not** using {{ site.data.legendary.eogs }} the value of {{ site.data.conduit.shake_the_foundations }} rises considerably.
 
 **Recommended Legendaries:**
-- {{ site.data.legendary.dre }} the setup of the fight synergises well with this Legendary's requirements to perform better than our other options on average. 
+- {{ site.data.legendary.dre }} the setup of the fight synergises well with this Legendary's requirements to perform better than our other options on average.
 - {{ site.data.legendary.eogs }} a more consistent option if you dislike RNG.
 - {{ site.data.legendary.wlr }} is still a viable choice although the other options will outperform it in overall value.
 - {{ site.data.legendary.sfd }} if you have an active {{ site.data.item.t28_2 }} but **not** {{ site.data.item.t28_4 }}, the increase in {{ site.data.talent.fe }} uptime will be incredibly valuable for you. Similarly, consider using {{ site.data.talent.sop }} to further increase {{ site.data.talent.fe }} uptime.
@@ -128,7 +127,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#salvation-collapse" aria-expanded="true" aria-controls="salvation-collapse" class="raid-header castle_nathria"><h2>Sun King's Salvation</h2></div>
 </div>
 <div id="salvation-collapse" class="collapse" aria-labelledby="salvation" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** Single-Target / AoE / Cleave
 
@@ -140,7 +139,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
-  
+
 **Recommended Covenants**
 - Night Fae with Korayn for {{ site.data.soulbinds.first_strike }} for overall value.
 - Necrolord with Plague-Deviser Marileth for {{ site.data.soulbinds.preemptive_strike }} for value on [Rockbound Vanquishers](https://www.wowhead.com/npc=165764/rockbound-vanquisher)
@@ -180,7 +179,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#artificer-collapse" aria-expanded="true" aria-controls="artificer-collapse" class="raid-header castle_nathria"><h2>Artificer Xy'mox</h2></div>
 </div>
 <div id="artificer-collapse" class="collapse" aria-labelledby="artificer" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** Single-Target
 
@@ -192,7 +191,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40**: {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
-  
+
 **Recommended Covenants**
 - Night Fae with Dreamweaver (Note: some players may find Niya more forgiving as the fight contains a lot of movement)
 - Necrolord with Plague-Deviser Marileth
@@ -222,7 +221,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#destroyer-collapse" aria-expanded="true" aria-controls="destroyer-collapse" class="raid-header castle_nathria"><h2>Hungering Destroyer</h2></div>
 </div>
 <div id="destroyer-collapse" class="collapse" aria-labelledby="destroyer" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** Single-Target
 
@@ -234,7 +233,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
-  
+
 **Recommended Covenants**
 - Night Fae with Dreamweaver
 - Necrolord with Plague-Deviser Marileth
@@ -267,7 +266,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#darkvein-collapse" aria-expanded="true" aria-controls="darkvein-collapse" class="raid-header castle_nathria"><h2>Lady Inerva Darkvein</h2></div>
 </div>
 <div id="darkvein-collapse" class="collapse" aria-labelledby="darkvein" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** Single-Target / AoE / Funnel
 
@@ -279,10 +278,10 @@ If you have suggestions to improve the information in this guide please contact 
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
-  
+
 **Recommended Covenants**
 - Necrolord with Plague-Deviser Marileth, particularly if you choose to use {{ site.data.legendary.dre }}
-- Night Fae with Dreamweaver 
+- Night Fae with Dreamweaver
 
 **Potential Legendaries:**
 - {{ site.data.legendary.windspeaker }}
@@ -313,7 +312,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#council-collapse" aria-expanded="true" aria-controls="council-collapse" class="raid-header castle_nathria"><h2>Council Of Blood</h2></div>
 </div>
 <div id="council-collapse" class="collapse" aria-labelledby="council" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** Single-Target / Funnel
 
@@ -325,7 +324,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
-  
+
 **Recommended Covenants**
 - Necrolord with Plague-Deviser Marileth
 
@@ -356,7 +355,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#sludgefist-collapse" aria-expanded="true" aria-controls="sludgefist-collapse" class="raid-header castle_nathria"><h2>Sludgefist</h2></div>
 </div>
 <div id="sludgefist-collapse" class="collapse" aria-labelledby="sludgefist" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** Single-Target
 
@@ -368,7 +367,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }}
-  
+
 **Recommended Covenants**
 - Necrolord with Plague-Deviser Marileth
 - Night Fae with Dreamweaver or Niya
@@ -401,7 +400,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#generals-collapse" aria-expanded="true" aria-controls="generals-collapse" class="raid-header castle_nathria"><h2>Stone Legion Generals</h2></div>
 </div>
 <div id="generals-collapse" class="collapse" aria-labelledby="ataldazar" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** AoE / Cleave
 
@@ -413,7 +412,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40**: {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45**: {{ site.data.talent.primal_elementalist }}
 * **50**: {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
-  
+
 **Recommended Covenants**
 - Night Fae with Korayn for {{ site.data.soulbinds.first_strike }} particularly if you choose to use {{ site.data.legendary.eogs }}
 - Necrolord with Plague-Deviser Marileth particularly if you choose to use {{ site.data.legendary.dre }}
@@ -443,7 +442,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#denathrius-collapse" aria-expanded="true" aria-controls="denathrius-collapse" class="raid-header castle_nathria"><h2>Sire Denathrius</h2></div>
 </div>
 <div id="denathrius-collapse" class="collapse" aria-labelledby="denathrius" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** ST / Cleave / Spread Cleave
 
@@ -459,7 +458,7 @@ If you have suggestions to improve the information in this guide please contact 
 **Recommended Covenants**
 - Necrolord with Plague-Deviser Marileth (Note: {{ site.data.spell.fleshcraft }} provides an additional defensive which may benefit players during progression here)
 - Night Fae with Dreamweaver or Niya (Note: As Sire uses abilities that require movement management players may benefit from having access to {{ site.data.spell.soulshape }} ).
-  
+
 **Recommended Legendaries:**
 - {{ site.data.legendary.windspeaker }}
 - {{ site.data.legendary.dre }} (Note: this is mostly relevant in P2 of the encounter, where multiple targets are available to help funnel damage into the one most relevant at the time! In other phases due to the lack of sustained targets, it will fall behind on average).

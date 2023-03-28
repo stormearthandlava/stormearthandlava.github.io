@@ -28,17 +28,16 @@ If you have suggestions to improve the information in this guide please contact 
 
 - Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
 
-- Any Single Target orientated fights where you choose to use {{ site.data.legendary.wlr }} please note that using {{ site.data.spell.eq }} on 2 or more targets is **still a net damage gain** despite ignoring your Legendary's effect. So if adds are present for short periods of time and you are not fully committed to single target then using {{ site.data.spell.eq }} for those short periods is preferred. 
+- Any Single Target orientated fights where you choose to use {{ site.data.legendary.wlr }} please note that using {{ site.data.spell.eq }} on 2 or more targets is **still a net damage gain** despite ignoring your Legendary's effect. So if adds are present for short periods of time and you are not fully committed to single target then using {{ site.data.spell.eq }} for those short periods is preferred.
 
 - Additional Resources:
 	- [Elemental Shaman Sanctum of Domination Logs (WacraftLogs)](https://www.warcraftlogs.com/zone/reports?zone=28&boss=0&difficulty=0&class=Shaman&spec=Elemental&kills=0&keystone0&duration=0&server=0)
 	- [Sanctum of Domination Loot Table (Wowhead)](https://www.wowhead.com/guides/sanctum-of-domination-raid-loot-chains-of-domination-9-1)
-	
+
 
 # Bosses
 <p style="color:red">Click on a boss banner to expand it.</p>
 
-<hr>
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
@@ -59,7 +58,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-		  
+
 **Recommended Covenants**
 
 * Necrolord with Plague-Deviser Marileth
@@ -91,7 +90,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#eye_of_the_jailer-collapse" aria-expanded="true" aria-controls="eye_of_the_jailer-collapse" class="raid-header sanctum_of_domination2"><h2>Eye of the Jailer</h2></div>
 </div>
 <div id="eye_of_the_jailer-collapse" class="collapse" aria-labelledby="eye_of_the_jailer" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** Single-Target / Cleave
 
@@ -104,9 +103,9 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
-	
+
 * Necrolord with Plague-Deviser Marileth
 * Night Fae with Dreamweaver or Niya (Note: this is mainly if some players struggle dealing with the style of movement on the fight where {{ site.data.spell.soulshape }} can be useful to them).
 
@@ -157,9 +156,9 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
-	
+
 **Recommended Covenants**
-	
+
 * Necrolord with Plague-Deviser Marileth. (Note: as the suggestion is to use {{ site.data.legendary.dre }} you can consider swapping {{ site.data.soulbinds.preemptive_strike }} for {{ site.data.conduit.shake_the_foundations }}).
 
 **Recommended Legendaries:**
@@ -205,7 +204,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
-	
+
 **Recommended Covenants**
 
 * Necrolord with Plague-Deviser Marileth (Note: structure of the fight prefers funnelling into the boss from the orbs when they are shielded, and nuking the orbs when they are not shielded so {{ site.data.conduit.shake_the_foundations }} might not suit this style of play as relatively few {{ site.data.spell.eq }}s will be cast.
@@ -250,9 +249,9 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
-	
+
 * Night Fae with Korayn for {{ site.data.soulbinds.first_strike }}. (Note: for Mythic difficulty managing the adds is very important, if you find yourself needing to do AoE damage on this fight Night Fae with {{ site.data.legendary.eogs }} remains the best option).
 * Necrolord with Plague-Deviser Marileth. (Note: if you want to play the fight as {{ site.data.legendary.dre }} then this remains the best Covenant option to support it, you should swap {{ site.data.soulbinds.preemptive_strike }} for {{ site.data.conduit.shake_the_foundations }} here).
 * If you intend to play {{ site.data.legendary.ws }} then either of the above choices will produce similar results, with Necrolord relying less on being able to stand still during burst windows to achieve maximum potential.
@@ -300,9 +299,9 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
-	
+
 * Necrolord with Plague-Deviser Marileth. (Note: The additional defensive from {{ site.data.spell.fleshcraft }} can be very valuable on higher difficulties).
 * Night Fae with Dreamweaver or Niya. (Note: Some players may find {{ site.data.spell.soulshape }} helps greatly when dealing with [Shadowsteel Chains](https://shadowlands.wowhead.com/spell=355504/shadowsteel-chains) and [Spiked Balls](https://www.wowhead.com/spell=352052/spiked-balls) simultaneously.
 
@@ -344,7 +343,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
 
 * Necrolord with Plague-Deviser Marileth.
@@ -388,7 +387,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
 
 * Night Fae with Korayn for {{ site.data.soulbinds.first_strike }}
@@ -441,7 +440,7 @@ If you have suggestions to improve the information in this guide please contact 
 
 * {{ site.data.legendary.eogs }}
 * {{ site.data.legendary.windspeaker }}
-* Note on why {{ site.data.legendary.dre }} is not recommended here but may still see use: This fight on higher difficulties requires you to reliably hit DPS checks in all phases, adding RNG choices to this mix may not be the best solution during progress for your group - particularly when the fight structure does not suit the type of damage brought very well. It may still see use simply because people enjoy using it, but having control over your damage is also very important here so make the decision that best suits you, your playstyle, and your group. 
+* Note on why {{ site.data.legendary.dre }} is not recommended here but may still see use: This fight on higher difficulties requires you to reliably hit DPS checks in all phases, adding RNG choices to this mix may not be the best solution during progress for your group - particularly when the fight structure does not suit the type of damage brought very well. It may still see use simply because people enjoy using it, but having control over your damage is also very important here so make the decision that best suits you, your playstyle, and your group.
 
 There are different ways to approach this fight based on various target priorities in each phase.
 
@@ -487,7 +486,7 @@ If you are assigned to the Phylactery realm, you may opt for {{ site.data.legend
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
 
 * Night Fae with Korayn for {{ site.data.soulbinds.first_strike }}. (Note: this is mostly effective in Phase 1 and Phase 2 to provide very efficient AoE damage whilst maintaining decent damage on Sylvanas herself).

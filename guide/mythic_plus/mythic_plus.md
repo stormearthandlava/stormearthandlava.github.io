@@ -118,7 +118,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 * [Shrouded](https://www.wowhead.com/guides/shrouded-affix-shadowlands-mythic-plus-season-4-disguised-dreadlords) is the new Seasonal Affix for Season Four of Shadowlands!
    - Pick between [Critical Strike](https://www.wowhead.com/spell=373108/bounty-critical-strike), [Haste](https://www.wowhead.com/spell=373113/bounty-haste), [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility), or [Mastery](https://www.wowhead.com/spell=373116/bounty-mastery) by talking to an NPC at the beginning of each dungeon, gaining one stack of the appropriate buff. Note: If no choice is made the default buff is [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility).
       - Using [Haste](https://www.wowhead.com/spell=373113/bounty-haste) is more universally valuable as it maintains high contribution in all fight profiles (Single Target, Funnel, and AoE).
-      - If you *only* desire AoE damage then [Critical Strike](https://www.wowhead.com/spell=373108/bounty-critical-strike) would offer the most for that particular scenario but is notably worse on Single Target. 
+      - If you *only* desire AoE damage then [Critical Strike](https://www.wowhead.com/spell=373108/bounty-critical-strike) would offer the most for that particular scenario but is notably worse on Single Target.
       - Due to only really impacting single target and funnel via {{ site.data.spell.lvb }}, and {{ site.data.spell.cl }} benefits from 33% of your character sheet Mastery value, it is not recommended to choose [Mastery](https://www.wowhead.com/spell=373116/bounty-mastery). In addition, the rating granted by this buff is subject to [Diminishing Returns](https://www.wowhead.com/guides/diminishing-returns-on-secondary-stats-in-world-of-warcraft).
       - If you reach a point in your key pushes where you require additional defensive value, you may consider [Versatility](https://www.wowhead.com/spell=373121/bounty-versatility) - it is not generally recommended as the stacks provide 1% as opposed to the other stats providing 2%.
    - Stacks are gained by finding and defeating Dreadlords!
@@ -140,7 +140,6 @@ Don't forget to check out Additional Resources at the bottom of this page!
 # Dungeons
 <p style="color:red">Click on a dungeon banner to expand it.</p>
 
-<hr>
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
@@ -164,7 +163,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 * Use {{ site.data.spell.wind_shear }} to interrupt [Statis Beam](https://www.wowhead.com/spell=356031/stasis-beam)
 
 **[Support Officer](https://www.wowhead.com/npc=177817/support-officer)**
-  
+
 * Either use {{ site.data.spell.wind_shear }} to interrupt the cast of [Hard Light Barrier](https://www.wowhead.com/spell=355934/hard-light-barrier) or use {{ site.data.talent.purge }} to remove it!
 
 ## [Zo'Phex the Sentinel](https://www.wowhead.com/npc=175616/zophex)
@@ -173,7 +172,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to adjust to [Rotary Body Armor](https://www.wowhead.com/spell=347992/rotary-body-armor).
 * Move away from [Zo'Phex](https://www.wowhead.com/npc=175616/zophex) if [Interrogation](https://www.wowhead.com/spell=348350/interrogation) is cast on you; if you are a Necrolord with Plague-Deviser Marileth you can use {{ site.data.spell.fleshcraft }} to immune this mechanic as the cast finishes. If [Interrogation](https://www.wowhead.com/spell=348350/interrogation) is cast on a party member, make sure you are not stood between them and [Zo'Phex](https://www.wowhead.com/npc=175616/zophex), DPS the cage to break them out!
 * [Impound Contraband](https://www.wowhead.com/spell=345770/impound-contraband) causes your weapon to drop to the floor, run over the weapon to pick it up again!
-             
+
 ---
 
 **[Ancient Core Hound](https://www.wowhead.com/npc=180091/ancient-core-hound#drops;mode:heroic)**
@@ -191,14 +190,14 @@ Don't forget to check out Additional Resources at the bottom of this page!
 * These mobs have two damaging spells:
    - [Hyperlight Salvo](https://www.wowhead.com/spell=355642/hyperlight-salvo) is the most important to prevent, make sure to coordinate with your group to prevent these!
    - [Scintillate](https://www.wowhead.com/spell=355641/scintillate) deals damage and leaves an increased arcane damage taken debuff so multiple casts going through should be prevented!
-   
+
 ## The Grand Menagerie
 
 * When afflicted with [Gluttony](https://www.wowhead.com/spell=349627/gluttony) you can soak the [Volatile Anima](https://www.wowhead.com/spell=349989/volatile-anima) created by [Venting Protocol](https://www.wowhead.com/spell=349987/venting-protocol), try not to stand next to your party members as [Gluttony](https://www.wowhead.com/spell=349627/gluttony) also causes you to pulse AoE damage around you in a small circle.
 * [Flagellation Protocol](https://www.wowhead.com/spell=349933/flagellation-protocol) is easily stopped by using {{ site.data.talent.purge }} to remove the shield and {{ site.data.spell.wind_shear }} to instantly interrupt the cast!
 * [Whirling Annihilation](https://www.wowhead.com/spell=350086/whirling-annihilation) run away from [Venza](https://www.wowhead.com/npc=176705/venza-goldfuse)
 * When afflicted by [Chains of Damnation](https://www.wowhead.com/spell=350101/chains-of-damnation) it must be either killed or removed by effects like [Hand of Freedom](https://www.wowhead.com/spell=66115/hand-of-freedom) or [Tiger's Lust](https://www.wowhead.com/spell=116841/tigers-lust).
-      
+
 ---
 
 ## Myza's Oasis
@@ -209,38 +208,38 @@ Don't forget to check out Additional Resources at the bottom of this page!
 **[Disruptive Patrons](https://www.wowhead.com/npc=176565/disruptive-patron)**
    - Aim to kill these before they reach 100 rage to avoid [Rowdy](https://www.wowhead.com/spell=353706/rowdy)
    - Use {{ site.data.spell.wind_shear }} to interrupt [Teleport](https://www.wowhead.com/spell=353783/teleport), [Hyperlight Bolt](https://www.wowhead.com/spell=353836/hyperlight-bolt), and [Suppression](https://www.wowhead.com/spell=353835/suppression)
-             
+
 **[Oasis Security](https://www.wowhead.com/npc=179269/oasis-security)**
    - Aim to kill these before they reach 100 rage to avoid [Rowdy](https://www.wowhead.com/spell=353706/rowdy)
    - Use {{ site.data.spell.wind_shear }} to interrupt [Menacing Shout](https://www.wowhead.com/spell=350922/menacing-shout)
 
 * Make sure to avoid the green swirly from [Rotten Food](https://www.wowhead.com/spell=356482/rotten-food), it hurts!
-             
+
 **[Zo'gron](https://www.wowhead.com/npc=176564/zogron)**
    - Run away from [Suppression Spark](https://www.wowhead.com/spell=355438/suppression-spark) when cast. {{ site.data.spell.ghost_wolf }} or the Extra Action Button from your instrument can be useful!
    - Use {{ site.data.spell.wind_shear }} to interrupt [Menacing Shout](https://www.wowhead.com/spell=350922/menacing-shout)
    - Avoid standing in-front of [Zo'gron](https://www.wowhead.com/npc=176564/zogron) when they are casting [Crowd Control](https://www.wowhead.com/spell=350919/crowd-control) as it deflects damage and the end of the cast is a frontal attack!
-           
+
 ---
-            
+
 **[Overloaded Mailemental](https://www.wowhead.com/npc=176395/overloaded-mailemental)**
 
 * Interrupt or dispel [Spam Filter](https://www.wowhead.com/spell=347775/spam-filter)
 * When [Overloaded Mailementals](https://www.wowhead.com/npc=176395/overloaded-mailemental) die they leave behind a purple zone of Haste you can stand in!
-             
+
 **[Defective Sorter](https://www.wowhead.com/npc=176396/defective-sorter)**
- 
+
 * Prevent these enemies from casting [Open Cage](https://www.wowhead.com/spell=347721/open-cage) by using {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }}.
-             
+
 ## [P.O.S.T. Master](https://www.wowhead.com/npc=175646/p-o-s-t-master)
 
 * [Unstable Goods[(https://www.wowhead.com/spell=346947/unstable-goods)
    - Pick up the Unstable Goods and throw them into an active Delivery Chute (Denoted by the wind animation!). {{ site.data.spell.ghost_wolf }} can make this easier.
-             
+
 * Use {{ site.data.spell.astral_shift }} as needed when [Fan Mail](https://www.wowhead.com/spell=346742/fan-mail) or [Money Order](https://www.wowhead.com/spell=346962/money-order) are cast.
-             
+
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to position for soaking [Hazardous Liquids](https://www.wowhead.com/spell=346286/hazardous-liquids) or [Money Order](https://www.wowhead.com/spell=346962/money-order).
-            
+
 ---
 
 **[Commander Zo'far](https://www.wowhead.com/npc=179821/commander-zofar)**
@@ -251,9 +250,9 @@ Don't forget to check out Additional Resources at the bottom of this page!
 ## [So'azmi](https://www.wowhead.com/npc=175806/soazmi)
 
 * Surviving is more important than dealing damage, if you are going to struggle moving to the correct [Relocator](https://www.wowhead.com/spell=347392/deploy-relocators) then do not hesitate to use {{ site.data.spell.ghost_wolf }} or {{ site.data.spell.soulshape }} to successfully avoid [Shuri](https://www.wowhead.com/spell=347610/shuri).
-             
+
 * Two interrupts are required to deal with [Double Technique](https://www.wowhead.com/spell=357188/double-technique), the first can be done near instantly, the second should wait until close to the end of the cast to buy time to dps.
-     
+
 * Staying loosely spread can help reduce the group damage taken from [Quickblade](https://www.wowhead.com/spell=347623/quickblade), but be aware of remaining in the same section as your group when [Divide](https://www.wowhead.com/spell=347414/divide) is being cast.
 
 </div>
@@ -265,7 +264,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 <div data-toggle="collapse" data-target="#sg-collapse" aria-expanded="true" aria-controls="sg-collapse" class="dungeon-header sg"><h2>Soleah's Gambit</h2></div>
 </div>
 <div id="sg-collapse" class="collapse" aria-labelledby="sg" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **[Murkbrine Scalebinder](https://www.wowhead.com/npc=178141/murkbrine-scalebinder)**
 
@@ -294,11 +293,11 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 **[Hourglass Tidesage](https://www.wowhead.com/npc=179388/hourglass-tidesage)**
 
-* Interrupt [Brackish Bolt](https://www.wowhead.com/spell=356843/brackish-bolt). 
+* Interrupt [Brackish Bolt](https://www.wowhead.com/spell=356843/brackish-bolt).
 * Sidestep [Tidal Burst](https://www.wowhead.com/spell=356260/tidal-burst) allowing more interrupts for [Brackish Bolt](https://www.wowhead.com/spell=356843/brackish-bolt)
-   
+
 **[Burly Deckhand](https://www.wowhead.com/npc=180015/burly-deckhand)**
-   
+
 * Stop [Super Saison](https://www.wowhead.com/spell=356133/super-saison) where possible, particularly if your group comp does not carry an Enrage Dispel!
 * Avoid being close to them during [Haymaker](https://www.wowhead.com/spell=368662/haymaker) casts, this can hit non-tank targets if they are out of range!
 
@@ -312,19 +311,19 @@ Don't forget to check out Additional Resources at the bottom of this page!
 **[Devoted Accomplice](https://www.wowhead.com/npc=180432/devoted-accomplice)**
 
 * Interrupt [Reinvigorate](https://www.wowhead.com/spell=357284/reinvigorate)
-   
+
 **[Focused Ritualist](https://www.wowhead.com/npc=180431/focused-ritualist)
-   
+
 * Interrupt [Unstable Rift](https://www.wowhead.com/spell=357260/unstable-rift). If no intterupts are available, Stopping the ability via other CC abilities like {{ site.data.spell.capactior_totem }}, {{ site.data.talent.hex }} will also put this cast on cooldown.
 
 **[Adorned Starseer](https://www.wowhead.com/npc=180429/adorned-starseer]
-   
+
 * Pay attention to which direction they are facing when [Drifting Star](https://www.wowhead.com/spell=357226/drifting-star) is cast.
 * Ensuring {{ site.data.spell.fs }} is available to use when [Wandering Pulsar](https://www.wowhead.com/spell=357238/wandering-pulsar) is cast can help facilitate quick swapping!
 
 ## [So'leah](https://www.wowhead.com/npc=177269/soleah)
 
-* Use {{ site.data.spell.astral_shift }} for [Hyperlight Jolt](https://www.wowhead.com/spell=350875/hyperlight-jolt) as needed. 
+* Use {{ site.data.spell.astral_shift }} for [Hyperlight Jolt](https://www.wowhead.com/spell=350875/hyperlight-jolt) as needed.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to help trigger controlled soaks of [Collapsing Stars](https://www.wowhead.com/spell=353635/collapsing-star). As key level increases this can be very beneficial for your healer for you to assist with, but soaking more than one stack at a time can be deadly so communicate prior to pulling if you intend to do this and keep an eye on how others are positioning!
 
 </div>
@@ -389,7 +388,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 ## Tred'ova
 
 * Rotate interrupts for {{ site.data.mythic_plus.parasitic_pacification }}, {{ site.data.mythic_plus.parasitic_incapacitation }}, and {{ site.data.mythic_plus.parasitic_domination }}.
-* {{ site.data.mythic_plus.consumption }} can also be interrupted after the {{ site.data.mythic_plus.gorging_shield }} is broken, but your party may opt to not interrupt so the boss doesn't cast any other mechanics. 
+* {{ site.data.mythic_plus.consumption }} can also be interrupted after the {{ site.data.mythic_plus.gorging_shield }} is broken, but your party may opt to not interrupt so the boss doesn't cast any other mechanics.
 * Use {{ site.data.spell.earthbind_totem }}, {{ site.data.talent.capacitor_totem }}, and potentially {{ site.data.talent.hex }} as needed to control the Gormling Larvae.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.acid_expulsion }}, {{ site.data.mythic_plus.consumption }}, {{ site.data.mythic_plus.mind_link }}, or for kiting away from Gormling Larvae.
 
@@ -402,7 +401,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 <div data-toggle="collapse" data-target="#pf-collapse" aria-expanded="true" aria-controls="pf-collapse" class="dungeon-header pf"><h2>Plaguefall</h2></div>
 </div>
 <div id="pf-collapse" class="collapse" aria-labelledby="pf" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Decaying Flesh Giant**
 
@@ -505,7 +504,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 <div data-toggle="collapse" data-target="#sd-collapse" aria-expanded="true" aria-controls="sd-collapse" class="dungeon-header sd"><h2>Sanguine Depths</h2></div>
 </div>
 <div id="sd-collapse" class="collapse" aria-labelledby="sd" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Gluttonous Tick**
 
@@ -579,7 +578,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 <div data-toggle="collapse" data-target="#soa-collapse" aria-expanded="true" aria-controls="soa-collapse" class="dungeon-header soa"><h2>Spires of Ascension</h2></div>
 </div>
 <div id="soa-collapse" class="collapse" aria-labelledby="soa" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Forsworn Castigator**
 
@@ -658,7 +657,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 <div data-toggle="collapse" data-target="#nw-collapse" aria-expanded="true" aria-controls="nw-collapse" class="dungeon-header nw"><h2>The Necrotic Wake</h2></div>
 </div>
 <div id="nw-collapse" class="collapse" aria-labelledby="nw" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Patchwerk Soldier**
 
@@ -737,7 +736,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 **Stitching Assistant, Separation Assistant**
 
 * Interrupt Stitching Assistant's {{ site.data.mythic_plus.drain_fluids }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to ensure {{ site.data.mythic_plus.throw_cleaver }} is targeted at the other mob or to kite away from Separation Assistant's {{ site.data.mythic_plus.morbid_fixation }}. 
+* Use {{ site.data.spell.spiritwalkers_grace }} as needed to ensure {{ site.data.mythic_plus.throw_cleaver }} is targeted at the other mob or to kite away from Separation Assistant's {{ site.data.mythic_plus.morbid_fixation }}.
 
 ## Surgeon Stitchflesh
 
@@ -761,7 +760,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 <div data-toggle="collapse" data-target="#top-collapse" aria-expanded="true" aria-controls="top-collapse" class="dungeon-header top"><h2>Theater of Pain</h2></div>
 </div>
 <div id="top-collapse" class="collapse" aria-labelledby="top" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Battlefield Ritualist**
 
@@ -905,7 +904,7 @@ When Advent Nevermore is active:
 </div>
 
 
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 # Useful WeakAuras
 

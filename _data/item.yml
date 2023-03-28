@@ -14,15 +14,6 @@
 
 example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
-#Evoker Utilities
-time_spiral: <a href="https://www.wowhead.com/spell=374968/time-spiral" target="blank">Time Spiral</a>
-
-# Warlock Utilities
-healthstone: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healthstone</a>
-hs: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healthstone</a>
-demonic_gateway: <a href="https://www.wowhead.com/spell=111771/demonic-gateway" target="blank">Demonic Gateway</a>
-gateway_control_shard: <a href="https://www.wowhead.com/item=188152/gateway-control-shard" target="blank">Gateway Control Shard</a>
-
 # Professions
 alchemy: <a href="https://www.wowhead.com/skill=171/alchemy" target="blank">Alchemy</a>
 blacksmithing: <a href="https://www.wowhead.com/skill=164/blacksmithing" target="blank">Blacksmithing</a>
@@ -44,12 +35,12 @@ phial_eits: <a href="https://www.wowhead.com/item=191320/phial-of-the-eye-in-the
 phial_sa: <a href="https://www.wowhead.com/item=191321/phial-of-still-air" target="blank">Phial of Still Air</a>
 phial_ip: <a href="https://www.wowhead.com/item=191325/phial-of-icy-preservation" target="blank">Phial of Icy Preservation</a>
 phial_cr: <a href="https://www.wowhead.com/item=191327/iced-phial-of-corrupting-rage" target="blank">Iced Phial of Corrupting Rage</a>
-phial_ci: <a href="https://www.wowhead.com/item=191330/phial-of-charged-isolation" target="blank">Phial of Charged Isolation</a>
-phial_gf: <a href="https://www.wowhead.com/item=191333/phial-of-glacial-fury" target="blank">Phial of Glacial Fury</a>
-phial_se: <a href="https://www.wowhead.com/item=191336/phial-of-static-empowerment" target="blank">Phial of Static Empowerment</a>
-phial_tv: <a href="https://www.wowhead.com/item=191339/phial-of-tepid-versatility" target="blank">Phial of Tepid Versatility</a>
+phial_ci: <a href="https://www.wowhead.com/item=191332/phial-of-charged-isolation" target="blank">Phial of Charged Isolation</a>
+phial_gf: <a href="https://www.wowhead.com/item=191335/phial-of-glacial-fury" target="blank">Phial of Glacial Fury</a>
+phial_se: <a href="https://www.wowhead.com/item=191338/phial-of-static-empowerment" target="blank">Phial of Static Empowerment</a>
+phial_tv: <a href="https://www.wowhead.com/item=191341/phial-of-tepid-versatility" target="blank">Phial of Tepid Versatility</a>
 phial_a: <a href="https://www.wowhead.com/item=191348/charged-phial-of-alacrity" target="blank">Charged Phial of Alacrity</a>
-phial_ec: <a href="https://www.wowhead.com/item=191357/phial-of-elemental-chaos" target="blank">Phial of Elemental Chaos</a>
+phial_ec: <a href="https://www.wowhead.com/item=191359/phial-of-elemental-chaos" target="blank">Phial of Elemental Chaos</a>
 
 # DF Potions
 potion_bp: <a href="https://www.wowhead.com/item=191362/bottled-putrescence" target="blank">Bottled Putrescence</a>
@@ -59,13 +50,13 @@ potion_cc: <a href="https://www.wowhead.com/item=191366/potion-of-chilled-clarit
 potion_wv: <a href="https://www.wowhead.com/item=191369/potion-of-withering-vitality" target="blank">Potion of Withering Vitality</a>
 potion_rnca: <a href="https://www.wowhead.com/item=191372/residual-neural-channeling-agent" target="blank">Residual Neural Channeling Agent</a>
 potion_ss: <a href="https://www.wowhead.com/item=191375/delicate-suspension-of-spores" target="blank">Delicate Suspension of Spores</a>
-potion_rhp: <a href="https://www.wowhead.com/item=191378/refreshing-healing-potion" target="blank">Refreshing Healing Potion</a>
+potion_rhp: <a href="https://www.wowhead.com/item=191380/refreshing-healing-potion" target="blank">Refreshing Healing Potion</a>
 potion_amp: <a href="https://www.wowhead.com/item=191384/aerated-mana-potion" target="blank">Aerated Mana Potion</a>
-potion_p: <a href="https://www.wowhead.com/item=191387/elemental-potion-of-power" target="blank">Elemental Potion of Power</a>
-potion_up: <a href="https://www.wowhead.com/item=191381/elemental-potion-of-ultimate-power" target="blank">Elemental Potion of Ultimate Power</a>
+potion_p: <a href="https://www.wowhead.com/item=191389/elemental-potion-of-power" target="blank">Elemental Potion of Power</a>
+potion_up: <a href="https://www.wowhead.com/item=191383/elemental-potion-of-ultimate-power" target="blank">Elemental Potion of Ultimate Power</a>
 potion_hz: <a href="https://www.wowhead.com/item=191393/potion-of-the-hushed-zephyr" target="blank">Potion of the Hushed Zephyr</a>
 potion_g: <a href="https://www.wowhead.com/item=191396/potion-of-gusts" target="blank">Potion of Gusts</a>
-potion_sd: <a href="https://www.wowhead.com/item=191399/potion-of-shocking-disclosure" target="blank">Potion of Shocking Disclosure</a>
+potion_sd: <a href="https://www.wowhead.com/item=191401/potion-of-shocking-disclosure" target="blank">Potion of Shocking Disclosure</a>
 
 # DF Food
 food_int: <a href="https://www.wowhead.com/item=197792/fated-fortune-cookie" target="blank">Fated Fortune Cookie</a>

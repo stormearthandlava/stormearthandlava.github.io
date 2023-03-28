@@ -115,6 +115,7 @@ forgewrought_monstrosity: <a href="https://www.wowhead.com/npc=194816/forgewroug
 forgewrought_fury: <a href="https://www.wowhead.com/spell=384662/forgewrought-fury" target="blank">Forgewrought Fury</a> # Party damage
 blazing_detonation: <a href="https://www.wowhead.com/spell=376200/blazing-detonation" target="blank">Blazing Detonation</a> # On death damage?
 
+#Dungeon buffs
 qalashi_goulash: <a href="https://www.wowhead.com/spell=383376/qalashi-goulash" target="blank">Qalashi Goulash</a> # cooking buff => Run back
 blazing_aegis_blacksmith: <a href="https://www.wowhead.com/spell=377170/blazing-aegis" target="blank">Blazing Aegis</a> # Blacksmith buff => Available after boss
 

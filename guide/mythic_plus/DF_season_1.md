@@ -108,7 +108,6 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 
 <p style="color:red" align="center">Click on a dungeon banner to expand it.</p>
 
-<hr>
 <div class="dungeon-accordion">
 
 <div id="accordion">
@@ -469,7 +468,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 
 ## {{ site.data.dungeon.hov.hyrja }}
 
-* This is a very intense fight healing wise. Be ready to pop {{ site.data.talent.as }}, {{ site.data.talent.ee }} or even {{ site.data.item.potion_rhp }} and {{ site.data.item.hs }}.
+* This is a very intense fight healing wise. Be ready to pop {{ site.data.talent.as }}, {{ site.data.talent.ee }} or even {{ site.data.item.potion_rhp }} and {{ site.data.externals.hs }}.
 * Hide under the dome during {{ site.data.dungeon.hov.eye_of_the_storm }}. This is a great place to use {{ site.data.talent.ag }} and {{ site.data.talent.as }}.
 * Spread fast after {{ site.data.dungeon.hov.eye_of_the_storm }} ends to avoid sharing {{ site.data.dungeon.hov.arcing_bolt }} with multiple players.
 * Dodge the orbs of light during {{ site.data.dungeon.hov.sanctify }}. Use {{ site.data.talent.swg }} to keep uptime while dodging.

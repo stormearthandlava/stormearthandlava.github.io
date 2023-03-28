@@ -2,8 +2,8 @@
 layout: page
 title: "Mythic+ DF Season 2"
 last_update: 16/02/2023
-game_version: 10.0.5 Dragonflight
-authors: Elivrio
+game_version: 10.0.7 Dragonflight
+author: Elivrio
 toc: false
 ---
 
@@ -92,7 +92,6 @@ There are two main build that will be used in Dragonflight Season Two : Wildfire
 
 <p style="color:red" align="center">Click on a dungeon banner to expand it.</p>
 
-<hr>
 <div class="dungeon-accordion">
 
 <div id="accordion">
@@ -168,7 +167,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
   - Nuke {{ site.data.dungeon.bh.hextrick_totem }} to help your critterised party members.
 * {{ site.data.dungeon.bh.gashtooth }}
   - Use {{ site.data.talent.ag }} to help your healer during {{ site.data.dungeon.bh.gash_frenzy}}.
-  - Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.item.hs }} as needed to survive {{ site.data.dungeon.bh.marked_for_butchery}}.
+  - Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.externals.hs }} as needed to survive {{ site.data.dungeon.bh.marked_for_butchery}}.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
@@ -380,10 +379,10 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 ## Fanatic Elementalist Notable Trash Mobs
 
 **{{ site.data.dungeon.hoi.primalist_galesinger }}**
-* Use {{ site.data.spell.wind_gust }} to interrupt {{ site.data.dungeon.hoi.thunderstorm }} in priority, {{ site.data.dungeon.hoi.wind_buffet }} with extra kicks.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.thunderstorm }} in priority, {{ site.data.dungeon.hoi.wind_buffet }} with extra kicks.
 
 **{{ site.data.dungeon.hoi.primalist_icecaller }}**
-* Use {{ site.data.spell.wind_gust }} to interrupt {{ site.data.dungeon.hoi.ice_shards }} with spares kicks.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.ice_shards }} with spares kicks.
 
 **{{ site.data.dungeon.hoi.primalist_earthshaker }}**
 * Stay farther than 8 yards to ignore {{ site.data.dungeon.hoi.rumbling_earth }}
@@ -420,15 +419,15 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 **{{ site.data.dungeon.hoi.aqua_rager }}**
 * Mostly does tank damage.
-* At 20% hp, it will cast {{ site.data.dungeon.hoi.tidal_divergence }} that must be interrupted with {{ site.data.spell.wind_gust }} or it will spawn 4 {{ site.data.dungeon.hoi.aqualing }}.
+* At 20% hp, it will cast {{ site.data.dungeon.hoi.tidal_divergence }} that must be interrupted with {{ site.data.spell.wind_shear }} or it will spawn 4 {{ site.data.dungeon.hoi.aqualing }}.
 
 **{{ site.data.dungeon.hoi.aqualing }}**
-* Use {{ site.data.spell.wind_gust }} to interrupt {{ site.data.dungeon.hoi.water_bolt }}. It is not a priority to get these.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.water_bolt }}. It is not a priority to get these.
 
 **{{ site.data.dungeon.hoi.infuser_sariya }}**
 * When you engage this mini-boss, the {{ site.data.dungeon.hoi.crashing_tsunami }} gauntlet will stop.
 * {{ site.data.dungeon.hoi.inundate }} does party-wide unavoidable damage. Use {{ site.data.talent.ag }} to help your healer.
-* Use {{ site.data.spell.wind_gust }} to interrupt {{ site.data.dungeon.hoi.aqueous_barrier }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.aqueous_barrier }}.
 * Stay farther than 12 yards away to ignore {{ site.data.dungeon.hoi.flash_flood }}.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
@@ -444,7 +443,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * You will be sent at the end of the bridge by {{ site.data.dungeon.hoi.cast_away }}.
 * Dodge the incoming {{ site.data.dungeon.hoi.crashing_tsunami }} and {{ site.data.dungeon.hoi.infused_globules }} to quickly run back. This is great time to use {{ site.data.talent.wrt }} and {{ site.data.talent.spirit_walk }}.
 * Kill the {{ site.data.dungeon.hoi.primalist_infuser }} to end this phase.
-* Use {{ site.data.spell.wind_gust }} to interrupt {{ site.data.dungeon.hoi.infuse }} from {{ site.data.dungeon.hoi.primalist_infuser }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.infuse }} from {{ site.data.dungeon.hoi.primalist_infuser }}.
 * {{ site.data.dungeon.hoi.inundate }} does party-wide unavoidable damage. Use {{ site.data.talent.ag }} to help your healer.
 
 </div>
@@ -463,6 +462,8 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 ## Talents
 
 ### Notable Talent Choices
+* {{ site.data.talent.cleanse_spirit }} is a mandatory talent for the last boss if your group doesn't have a curse dispel.
+*
 
 ### Wildfire
 <div class="iframe-holder">
@@ -477,7 +478,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Don't be on the tank, {{ site.data.dungeon.ntr.volcanic_guard }} is a frontal on them.
 
 **{{ site.data.dungeon.ntr.qalashi_spinecrusher }}**
-* Only does tank damage
+* Only does tank damage.
 
 **{{ site.data.dungeon.ntr.qalashi_thaumaturge }}**
 * Use {{ site.data.talent.capacitor_totem }} or another CC to hard-interrupt {{ site.data.dungeon.ntr.magma_conflagration }}.
@@ -496,43 +497,95 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Magmatusk
-
-**{{ site.data.dungeon.ntr.example }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+## {{ site.data.dungeon.ntr.magmatusk }}
+* The number of {{ site.data.dungeon.ntr.magma_tentacle }} on its back will increase whenever it reaches 100 energy, empowering every other mechanics of the fight.
+* Use {{ site.data.talent.ag }} to help your healer during {{ site.data.dungeon.ntr.magma_eruption }} as needed. This is also the best time to use your defensives ({{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }}, ...).
+* Bait {{ site.data.dungeon.ntr.blazing_charge }} into a wall for uptime purposes.
+* Dodge {{ site.data.dungeon.ntr.magma_lob }} red swirlies, {{ site.data.dungeon.ntr.lava_spray }} frontal cone and {{ site.data.dungeon.ntr.lava_wave }}s. Use {{ site.data.talent.swg }} as needed to keep uptime while dodging.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Drake Hunter Notable Trash Mobs
 
-**{{ site.data.dungeon.ntr.example }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+**{{ site.data.dungeon.ntr.tamed_phoenix }}**
+* This mobs are similar to the {{ site.data.dungeon.cos.blazing_imp }} in Court of Stars.
+* They will be in packs of 8-10 mobs and constantly cast {{ site.data.dungeon.ntr.ember_reach }}.
+* Use {{ site.data.talent.capacitor_totem }} or {{ site.data.talent.thundershock }} to disrupt them.
+* Use {{ site.data.spell.wind_shear }} to interrupt as many as possible.
+
+**{{ site.data.dungeon.ntr.qalashi_hunter }}**
+* Dodge the {{ site.data.dungeon.ntr.binding_spear }} brown swirly at all cost. Target swap to the {{ site.data.dungeon.ntr.binding_spear_npc }} add that spawns to free your ally fast if they get hit.
+* Move out of the {{ site.data.dungeon.ntr.burning_chain }} traps.
+* {{ site.data.dungeon.ntr.bold_ambush }} will leave a bleed on you if you're targeted, use {{ site.data.talent.as }} as needed.
+
+**{{ site.data.dungeon.ntr.qalashi_trainee }}**
+* Don't be on the tank, {{ site.data.dungeon.ntr.magma_fist }} is a frontal on them.
+
+**{{ site.data.dungeon.ntr.qalashi_bonetender }}**
+* Will remain stationary and use {{ site.data.dungeon.ntr.bone_toss }} on random targets. Be ready to pop a defensive when you are targeted at low HP.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.mending_clay }}.
+* Move out of the {{ site.data.dungeon.ntr.burning_chain }} traps.
+
+**{{ site.data.dungeon.ntr.overseer_lahar }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.burning_roar }}.
+* Stay farther than 15yds away to dodge most of his AoE and dodge the swirlies created by {{ site.data.dungeon.ntr.eruptive_crash }}.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Chargath, Bane of Scales
-
-**{{ site.data.dungeon.ntr.example }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+## {{ site.data.dungeon.ntr.chargath }}
+* {{ site.data.dungeon.ntr.grounding_spear }} is the main mechanic of the fight. You will get chained to a spear and will need to run away to avoid getting pulled into {{ site.data.dungeon.ntr.erupted_ground }}. The tank needs to kite the boss through the chains to break them and eventually stun the boss and make him take 50% more damage.
+* Breaking a chain will apply the {{ site.data.dungeon.ntr.slag_eruption }} to all group members. Assist the heal with {{ site.data.talent.ag }} as needed.
+* {{ site.data.dungeon.ntr.dragon_strike }} will leave a bleed on you if you're targeted, use {{ site.data.talent.as }} as needed.
+* Use {{ site.data.talent.swg }} to keep uptime while running from chain, dodging {{ site.data.dungeon.ntr.lava_splash }} swirlies and {{ site.data.dungeon.ntr.magma_wave }}s.
+* Don't be on the tank, {{ site.data.dungeon.ntr.fiery_focus }} cleaves on them.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## Wannabee Paladin Notable Trash Mobs
 
+**{{ site.data.dungeon.ntr.qalashi_lavabearer }}**
+* Dodge the red swirlies from {{ site.data.dungeon.ntr.throw_lava }} and the following magma puddles.
+* Pools of magma will also be created by {{ site.data.dungeon.ntr.lava_drip }} on each melee, enjoy the tank running out of {{ site.data.spell.eq }}.
+
+**{{ site.data.dungeon.ntr.lava_flare }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.melt }}.
+
+**{{ site.data.dungeon.ntr.qalashi_irontorch }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.mote_of_combustion }} in priority.
+* Don't be on the tank, {{ site.data.dungeon.ntr.scorching_breath }} cleaves on them.
+
+**{{ site.data.dungeon.ntr.qalashi_bonesplitter }}**
+* This mob does a lot of random Single target party damage with {{ site.data.dungeon.ntr.pierce_marrow }} and {{ site.data.dungeon.ntr.dragonbone_axe }}. Stay aware of your current HP and use {{ site.data.talent.as }} as needed to survive.
+
+**{{ site.data.dungeon.ntr.irontorch_commander }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+
+**{{ site.data.dungeon.ntr.qalashi_blacksmith }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+
+**{{ site.data.dungeon.ntr.forgewrought_monstrosity }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## {{ site.data.dungeon.ntr.forgemaster_gorek }}
+
 **{{ site.data.dungeon.ntr.example }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Forgemaster Gorek
+## Profession buffs
 
-**{{ site.data.dungeon.ntr.example }}**
+**{{ site.data.dungeon.ntr.qalashi_goulash }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+
+**{{ site.data.dungeon.ntr.blazing_aegis_blacksmith }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
@@ -544,7 +597,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Warlord Sargha
+## {{ site.data.dungeon.ntr.warlord_sargha }}
 
 **{{ site.data.dungeon.ntr.example }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.

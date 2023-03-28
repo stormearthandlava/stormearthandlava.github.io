@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Vault of the Incarnates Guide"
-date: 22/03/2023
+last_update: 22/03/2023
 game_version: 10.0.7 Dragonflight
 author: Sheffy, Elivrio
 toc: false
@@ -45,7 +45,6 @@ The tips and recommendations listed here are based on educated opinions from PTR
 # Bosses
 <p style="color:red" align="center">Click on a boss banner to expand it.</p>
 
-<hr>
 <div class="dungeon-accordion">
 <div id="accordion">
 <div class="card">
@@ -350,7 +349,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Static Charge](https://www.wowhead.com/spell=381615/static-charge) (P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 Bomb).
 
 **Defensives:**
-* Use {{ site.data.talent.as }}, or even {{ site.data.item.potion_rhp }} and {{ site.data.item.hs }} if needed, when away from the raid to drop [Static Charge](https://www.wowhead.com/spell=381615/static-charge) (P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 bomb).
+* Use {{ site.data.talent.as }}, or even {{ site.data.item.potion_rhp }} and {{ site.data.externals.hs }} if needed, when away from the raid to drop [Static Charge](https://www.wowhead.com/spell=381615/static-charge) (P1 bomb) and [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) (P2 & P3 bomb).
 * Use {{ site.data.spell.healing_surge }} if necessary.
 * If talented, use {{ site.data.talent.ag }} to help healers, notably during [Stormsurge](https://www.wowhead.com/spell=387261/stormsurge) (P2).
 
@@ -358,7 +357,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 * Use {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.thunderstorm }}, {{ site.data.spell.wind_shear }} and {{ site.data.talent.purge }} to destroy [Volatile Spark](https://www.wowhead.com/npc=194999/volatile-spark) rapidly.
 * In P2, {{ site.data.talent.thunderous_paws }} dispels [Fulminating Charge](https://www.wowhead.com/spell=377467/fulminating-charge) slow, allowing you to quickly move out. Try to not use {{ site.data.spell.ghost_wolf }} during P2 and P3, except if you get that debuff.
-* In P2, {{ site.data.item.demonic_gateway }} can be used to trivialize the 1st and the 4th [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing). Remember to buy {{ site.data.item.gateway_control_shard }} in Valdrakken.
+* In P2, {{ site.data.externals.demonic_gateway }} can be used to trivialize the 1st and the 4th [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing). Remember to buy {{ site.data.externals.gateway_control_shard }} in Valdrakken.
 * In P2 and P3, use {{ site.data.talent.gust_of_wind }} to rapidly go through [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing).
 * If talented, use {{ site.data.talent.wrt }} to help your raid repositioning during intermissions, [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing) (P1) and [Tempest Wing](https://www.wowhead.com/spell=385574/tempest-wing) (P2 & P3).
 * {{ site.data.spell.bl }} usage :
@@ -371,11 +370,11 @@ The tips and recommendations listed here are based on educated opinions from PTR
 In mythic mode, [Static Charge](https://www.wowhead.com/spell=381615/static-charge) does not drop a thunder pool that can be used to counter the push back of [Hurricane Wing](https://www.wowhead.com/spell=377612/hurricane-wing). It means that you need to counter the winds yourself. Here is a way to counter the mechanic.  
 *Note: {{ site.data.talent.gust_of_wind }} is best used once the wind is over to quickly come back into melee range or even to jump back onto the platform.*
 1. {{ site.data.talent.swg }} before, {{ site.data.talent.gust_of_wind }} after.
-2. {{ site.data.item.demonic_gateway }} during, {{ site.data.talent.gust_of_wind }} after.
-3. - With an Evoker's {{ site.data.item.time_spiral }}: {{ site.data.talent.swg }} before, {{ site.data.spell.ghost_wolf }} if needed during, {{ site.data.talent.gust_of_wind }} after.
-   - Without {{ site.data.item.time_spiral }}: {{ site.data.spell.ghost_wolf }} before, {{ site.data.talent.gust_of_wind }} after.
+2. {{ site.data.externals.demonic_gateway }} during, {{ site.data.talent.gust_of_wind }} after.
+3. - With an Evoker's {{ site.data.externals.time_spiral }}: {{ site.data.talent.swg }} before, {{ site.data.spell.ghost_wolf }} if needed during, {{ site.data.talent.gust_of_wind }} after.
+   - Without {{ site.data.externals.time_spiral }}: {{ site.data.spell.ghost_wolf }} before, {{ site.data.talent.gust_of_wind }} after.
 4. {{ site.data.talent.swg }} and {{ site.data.spell.ghost_wolf }} before, {{ site.data.talent.gust_of_wind }} after.
-5. {{ site.data.spell.ghost_wolf }} before, {{ site.data.item.demonic_gateway }} during, {{ site.data.talent.gust_of_wind }} after.
+5. {{ site.data.spell.ghost_wolf }} before, {{ site.data.externals.demonic_gateway }} during, {{ site.data.talent.gust_of_wind }} after.
 
 Of course, this is just a way to do it. Feel free to experiment with your movement CDs to find the most suitable way to beat it.
 </div>

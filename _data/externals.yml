@@ -1,0 +1,75 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+# DK
+# AMZ
+
+# DH
+# Darkness
+# Chaos brand
+
+# Druid
+# Stampeding roar
+# Mark of the wild
+# Ironbark
+
+# Evoker Utilities
+time_spiral: <a href="https://www.wowhead.com/spell=374968/time-spiral" target="blank">Time Spiral</a>
+# Blessing of the bronze
+# Time Dilation
+
+# Hunter
+
+# Mage
+# Arcane intellect
+
+# Monk
+# Mystic touch
+# Life cocoon
+# Avoidance
+# leech
+# speed ?
+
+# Paladin
+# Devo Aura
+# Ret Aura
+# Aura mastery
+# Sac
+# BoP
+# BoSW
+
+# Priest
+# Fortitude
+# Pain Sup
+# guardian Angel
+# Barrier
+
+# Shaman (enh & resto)
+# windfury
+# SLT
+
+# Rogue
+# Shroud
+
+# Warlock Utilities
+healthstone: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healthstone</a>
+hs: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healthstone</a>
+demonic_gateway: <a href="https://www.wowhead.com/spell=111771/demonic-gateway" target="blank">Demonic Gateway</a>
+gateway_control_shard: <a href="https://www.wowhead.com/item=188152/gateway-control-shard" target="blank">Gateway Control Shard</a>
+
+# Warrior
+# Battle Shout
+# Rally
