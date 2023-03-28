@@ -558,12 +558,11 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * This mob does a lot of random Single target party damage with {{ site.data.dungeon.ntr.pierce_marrow }} and {{ site.data.dungeon.ntr.dragonbone_axe }}. Stay aware of your current HP and use {{ site.data.talent.as }} as needed to survive.
 
 **{{ site.data.dungeon.ntr.irontorch_commander }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+* Stay spreaded at 6 yds to avoid clipping your party with {{ site.data.dungeon.ntr.scorching_fusillade }}.
+* Dodge the many swirls from {{ site.data.dungeon.ntr.conflagrant_battery }}.
 
 **{{ site.data.dungeon.ntr.qalashi_blacksmith }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+* Beware of {{ site.data.dungeon.ntr.forgestomp }} as it will spell-lock you if you cast during it.
 
 **{{ site.data.dungeon.ntr.forgewrought_monstrosity }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
