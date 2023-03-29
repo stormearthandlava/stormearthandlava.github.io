@@ -5,6 +5,7 @@ last_update: 22/03/2023
 game_version: 10.0.7 Dragonflight
 author: Sheffy, Elivrio
 toc: false
+big_article: false
 ---
 
 # Introduction
@@ -43,6 +44,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 
 # Bosses
+
 <p style="color:red" align="center">Click on a boss banner to expand it.</p>
 
 <div class="dungeon-accordion">

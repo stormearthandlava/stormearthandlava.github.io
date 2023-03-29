@@ -1,15 +1,16 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 22/03/2023
+last_update: 29/03/2023
 game_version: 10.0.7 Dragonflight
 toc: true
+big_article: false
 ---
 
 This page has the answers to some frequently asked questions for Elemental Shamans.
 
 ### Q: "Will Elemental be viable in Dragonflight 10.0.7?"
-* Firstly, no spec in the game is unviable. Certain specs may be favoured for certain bosses in a raid, but this is only relevant to the very highest end of raiding (ie, competing for world first). Elemental (and every other spec) will remain competitive for 99.9% of the playerbase.
+* Firstly, no spec in the game is unviable. Certain specs may be favored for certain bosses in a raid, but this is only relevant to the very highest end of raiding (ie, competing for world first). Elemental (and every other spec) will remain competitive for 99.9% of the player base.
 
 ### Q: "What do all these abbreviations mean? I can't understand other Elemental Shaman!"
 * It can be tough trying to learn all of them at once but there is a handy resource to help you! [Elemental Abbreviations]({{ site.baseurl }}{% link blog/_posts/2023-01-23-ele101.md %}).
@@ -21,7 +22,7 @@ This page has the answers to some frequently asked questions for Elemental Shama
 * **No**, unless you have {{ site.data.talent.eb }} talented this part of the rotation remains the same as Shadowlands: always alternate!
 
 ### Q: "Okay, so what about {{ site.data.talent.eb }} and/or {{ site.data.talent.eogs }} then?!"
-* **Yes**, these talent choices do impact your spender:
+* **Yes**, these talent choices do impact your spender use:
    - If you have taken {{ site.data.talent.eb }} and *not* {{ site.data.talent.eogs }} then you will use {{ site.data.talent.eb }} instead of {{ site.data.spell.eq }} until 4 targets are present.
    - If you have taken {{ site.data.talent.eb }} *and* {{ site.data.talent.eogs }} then you will ignore {{ site.data.talent.eogs }}'s effect until 2 targets are present.
 
@@ -39,13 +40,12 @@ This page has the answers to some frequently asked questions for Elemental Shama
   - 1-2 targets = {{ site.data.spell.lb }} with {{ site.data.talent.sop }} buff active.
   - 3-5 targets = {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} with {{ site.data.talent.mote }} buff active.
   - 6+ targets = {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} with {{ site.data.talent.sop }} buff active.
-
 * Without {{ site.data.talent.sop }}:
   - 1 target = {{ site.data.spell.lb }} with {{ site.data.talent.mote }} buff active.
   - 2+ targets {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} with {{ site.data.talent.mote }} buff active.
 
 ### Q: "Does {{ site.data.spell.eq }} stack?"
-* Yes, {{ site.data.spell.eq }} stacks and has no active limit.
+* Yes, {{ site.data.spell.eq }} stacks and has no stack limit. Also Haste doesn't affect its tick rate.
 
 ### Q: "When should I stop using {{ site.data.spell.es }} and use {{ site.data.spell.eq }}?"
 * In general, stop using {{ site.data.spell.es }} against two targets or more. But check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) page for more information.
@@ -69,6 +69,3 @@ This page has the answers to some frequently asked questions for Elemental Shama
 
 ### Q: "What are some useful Macros?"
 * See the [Macros]({{ site.baseurl }}{% link guide/general/macros.md %}) section of the guide.
-
-### Q: "Who are Steve, Sean and Fred?"
-* Those are the names of our Elementals! Hunter can name their pets, why couldn't we name ours? Fred is {{ site.data.talent.fe }}, Sean is {{ site.data.talent.se }} and Steve (the best boy) is {{ site.data.talent.ee }}!
