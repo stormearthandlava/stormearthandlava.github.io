@@ -27,9 +27,12 @@ layout: default
     {%- include side_menu.html -%}
     {%- if page.toc == true -%}
       <h3>Table of Contents</h3>
-      {%- include toc.html html=content class="toc" h_max=3 -%}
-      <hr>
-      <br>
+      {%- if page.big_article == true -%}
+        {%- include toc.html html=content class="toc" h_max=1 -%}
+      {%- else -%}
+        {%- include toc.html html=content class="toc" h_max=3 -%}
+      {%- endif -%}
+      <p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
     {%- endif -%}
     {{ content }}
   </div>
