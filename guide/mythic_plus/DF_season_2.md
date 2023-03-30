@@ -27,27 +27,67 @@ This guide is intended to help you identify critical mobs and abilities as well 
 
 # Talents
 
-There are two main build that will be used in Dragonflight Season Two : Wildfire and Lightning. You can find variation on each of them in the [build page](https://stormearthandlava.com/guide/general/builds.html).
+There are two main build that will be used in Dragonflight Season one : Wildfire and Lightning. You can find variation on each of them in the [build page](https://stormearthandlava.com/guide/general/builds.html).
+
+This page will only note the important utility options that are available to you as an Elemental Shaman. Those remain suggestions and depending on your group, you might not need some of the talent suggested in this guide.
+
+### Standard Class tree for S1 Dungeons:
+
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoEgUSChog0ikmSACRAC?width=530&level=70" frameborder="0" width="800px" height="100%"></iframe>
+</div>
+
+### A few remarks on this tree:
+- It has {{ site.data.talent.totemic_recall }} and points leading up to it. This is due to {{ site.data.talent.lmt }} being a staple in dungeon builds, making {{ site.data.talent.totemic_recall }} a required DPS node. If you are not playing {{ site.data.talent.lmt }}, you can remove the 4 points below {{ site.data.talent.gust_of_wind }} and allocate them elsewhere.
+- {{ site.data.talent.ee }} could be flexed around into another utility option but I believe it is the best single all rounder node to get to 20 points.
+- {{ site.data.talent.purge }} is recommended in all dungeon because of its high value this season.
+- Some people spec out of {{ site.data.spell.frs }}. It is still a very useful movement global, even without {{ site.data.talent.if }}.
+
+### The Last 4 Points
+Depending on the dungeon you are running and the group you're in, here is a list of good options to pick from:
+- {{ site.data.talent.earth_shield }} is a 2 points investments as you have to pick {{ site.data.talent.chain_heal }} to get it but it gives pretty good sustain.
+- {{ site.data.talent.thunderous_paws }} gives you a slow dispel and a burst of mobility that is often useful.
+- {{ site.data.talent.spirit_wolf }} is better mobility on a long distance, and can be used as a defensive.
+- {{ site.data.talent.healing_stream_totem }} and {{ site.data.talent.swirling_currents }} are good off-healing CDs. But the fact that you cannot predict who it will heal, paired with the GCD loss each time you use it make it very suboptimal and situational.
+- {{ site.data.talent.tremor_totem }} has a lot of minor uses this season but nothing... groundbreaking.
+- {{ site.data.talent.static_charge }} will allow you to have {{ site.data.talent.capacitor_totem }} on every packs. Very useful to complement another Class AoE CC.
+- {{ site.data.talent.guardians_cudgel }} on the other hand, will be best used when you are the only AoE CC of the group, or if you need successive interrupts on a pack ({{ site.data.dungeon.cos.blazing_imp }} in Court of Stars for example).
+- {{ site.data.talent.brimming_with_life }} is still a 8% max HP, even if it has the worst design in our whole tree.
+- {{ site.data.talent.cleanse_spirit }} is used only in Temple of the Jade Serpent this season, you can spend that point elsewhere when you're not in it. Note that the healers that cannot remove Curses are: Discipline Priest, Holy Priest, Holy Paladin, and Mistweaver Monk.
+- {{ site.data.talent.hex }} can be used to control Patrol's pathing and as a hard CC in general.
+- {{ site.data.talent.thunderstorm }} has some niche uses to gather pulls or deal with {{ site.data.affixes.sanguine }}. It can also be used as a Hard CC but {{ site.data.talent.thundershock }} will be better in that case. It’s also not that easy to utilize for less experienced players as it requires good positioning and awareness of timings to actually interrupt casts.
+- {{ site.data.talent.totemic_focus }} is a nice passive that will make it less likely for your tank to kite out of {{ site.data.talent.lmt }}'s range. The duration and width on {{ site.data.talent.wrt }} can also be nice.
+- {{ site.data.talent.spirit_walk }} is sometimes used as a slow dispel instead of {{ site.data.talent.gust_of_wind }}.
+- {{ site.data.talent.mana_spring_totem }} is less potent in dungeon than it is in raid. It's nice to have but doesn't really provide a lot either.
+- {{ site.data.talent.poison_cleansing_totem }} has a lot of minor uses this season but nothing... incurable.
+- {{ site.data.talent.stoneskin_totem }} is a very situational talent which gains a lot of value in higher keys, saving your tank and your party from big physical attacks and bleeds.
+
+### 24 keys and higher:
+When pushing in higher keys, some talents become mandatory to survive:
+- {{ site.data.talent.spirit_wolf }} is used as a defensive talent, requiring you to sit and tank the damage in wolf form until it's safe to switch back.
+- {{ site.data.talent.brimming_with_life }} is required for the 8% max HP. In certain dungeons at this key level, if you lose {{ site.data.spell.ankh }}, it can instantly be a deplete because you will die on other abilities later on.  
+
+*Note: Again, these become mandatory only in higher keys and can be skipped when you are not in the hardest version of m+.*
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
 
 # Miscellaneous Tips
 
-* Although strategies are listed for mobs and bosses, communicating with your group how each pull should be executed is more important. Some suggestions may not be applicable depending on your group's strategy.
+* Although strategies are listed for mobs and bosses, communicating with your group how each pull should be executed is more important. Some suggestions may not be applicable depending on your group's strategy. For example, plan with your group in advance on where to use {{ site.data.spell.bl }}.
+
+* **Stop cast**, or **Hard CC**, refers to cancelling enemy casts using hard Crowd Control abilities. While some casts cannot be interrupted, they can be cancelled by other means. Regularly be mindful of lethal trash abilities. Also know what you can do to stop a cast and look for alternative ways to interrupt casts if no interrupts are available. Elemental Shaman may stop casts with {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, {{ site.data.talent.thunderstorm }} (or {{ site.data.talent.thundershock }}), {{ site.data.talent.lightning_lasso }} and {{ site.data.spell.eq }}'s knockdowns.
+
+* **Line of Sight**, or LoS, refers to hiding behind a wall to stop an enemy's ability from hitting you. Similar to player casting, mobs needs to see their target for their spell to hit. Hiding behind a wall breaks their line of sight and essentially negates the ability. There are many powerful application of this mechanic in dungeon, notably to cancel mobs dashing around.
+
+* Routinely support your healer and your group with healing abilities such as {{ site.data.talent.ag }}, {{ site.data.talent.healing_stream_totem }} or even {{ site.data.talent.cleanse_spirit }}.
+
+* Often times, your tank may need to kite. Remember the kiting tools at your disposal ({{ site.data.spell.earthbind_totem }}, {{ site.data.spell.frs }}, {{ site.data.talent.capacitor_totem }}, etc.) to distance trash packs away from your tank.
+
+* Use your CDs. {{ site.data.talent.fe }}, {{ site.data.talent.se }}, {{ site.data.talent.sk }}, {{ site.data.talent.lmt }} or even {{ site.data.talent.ee }}, {{ site.data.talent.swg }} and {{ site.data.talent.ag }} are useless if you never press them cause you are waiting for "the right moment". Planning CDs is even better but learn to press them first and foremost.
+
+* Try to setup pulls in advance. In Wildfire builds, try to keep maelstrom at the end of a pack to get {{ site.data.spell.eq }}, {{ site.data.talent.sop }} and {{ site.data.spell.fs }} spreading at the start of the next pull. In Lightning builds, try to get an {{ site.data.talent.eogs }} buff ready when the pull is being setup by the tank. Try to cast {{ site.data.talent.sk }} before pulls to keep uptime during it, etc.
 
 * {{ site.data.talent.ee }} is a potent ability best used to soak damage away from the tank or as an emergency button to avoid a party wipe. Communicate with your tank on using {{ site.data.talent.ee }} for challenging trash packs as well as remind your healer to keep the {{ site.data.talent.ee }} healthy as needed. Remember that with {{ site.data.talent.primal_elementalist }}, you can manually move the pet and single-target stun with {{ site.data.spell.pulverize }}. However, keep in mind that you cannot have {{ site.data.talent.ee }} and {{ site.data.talent.fe }} summoned at the same time with {{ site.data.talent.primal_elementalist }}.
-
-* Often times, your tank may need to kite. Remember the kiting tools at your disposal ({{ site.data.spell.earthbind_totem }}, {{ site.data.spell.frs }}, {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.thunderstorm }}, {{ site.data.talent.thundershock }}, {{ site.data.talent.earthgrab_totem }}) to distance trash packs away from your tank.
-
-* Routinely support your healer and your group with healing abilities and {{ site.data.talent.cleanse_spirit }}. Note that the healers that cannot remove Curses are: Discipline Priest, Holy Priest, Holy Paladin, and Mistweaver Monk.
-
-* Plan with your group in advance on where to use {{ site.data.spell.bl }}.
-
-* Some dungeons do not require {{ site.data.talent.purge }} or {{ site.data.talent.cleanse_spirit }}. You can spend that talent point somewhere else in the tree.
-
-* Try to keep maelstrom at the end of a pack to get {{ site.data.spell.eq }}, {{ site.data.talent.sop }} and {{ site.data.spell.fs }} spreading at the start of the next pull.
-
-* Use your CDs. {{ site.data.talent.fe }}, {{ site.data.talent.se }}, {{ site.data.talent.sk }}, {{ site.data.talent.lmt }} or even {{ site.data.talent.ee }}, {{ site.data.talent.swg }} and {{ site.data.talent.ag }} are useless if you never press them cause you are waiting for "the right moment". Planning CDs is even better but learn to press them first.
 
 * Die and retry. You need to experience a lot of death and bad keys to know when a key is good.
 
@@ -103,26 +143,18 @@ There are two main build that will be used in Dragonflight Season Two : Wildfire
 <div id="bh-collapse" class="collapse" aria-labelledby="bh" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Talent
-
-### Notable talent choices
+### Notable Talent Choices
 * {{ site.data.talent.tremor_totem }} can be very useful to prevent catastrophic situations with {{ site.data.dungeon.bh.hideous_cackle }}. It is recommended but not mandatory.
-
-### Wildfire
-
-<div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINaRLtkQOAAAAAAAUCQKJJCRBIRSTJJQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-</div>
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Dungeon buffs
+### Dungeon buffs
 
 Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the dungeon. A player with at least 25 skill in Dragon isles {{ site.data.item.alchemy }} can interact with it to purify it. This will allow players to get a {{ site.data.dungeon.bh.cleansed_rot }} buff by clicking on it. {{ site.data.dungeon.bh.cleansed_rot }} dispels one disease on the player when used as an extra button.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Gnolls Gang Bosses Notable Trash Mobs
+### Gnolls Gang Bosses Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.claw_fighter }}**
 * Use {{ site.data.talent.swg }} to kite {{ site.data.dungeon.bh.vicious_clawmangle }}. Be ready to use {{ site.data.talent.as }} if needed.
@@ -172,7 +204,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Hyena Lover Notable Trash Mobs
+### Hyena Lover Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.fleshripper_vulture }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.screech }}.
@@ -202,18 +234,18 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Rotten Tree Notable Trash Mobs
+### Rotten Tree Notable Trash Mobs
 
 Going straight from {{ site.data.dungeon.bh.gutshot }} to {{ site.data.dungeon.bh.treemouth }} area, you should only encounter one new type of mob (a mini-boss).
 
-### {{ site.data.dungeon.bh.stinkbreath }}
+## {{ site.data.dungeon.bh.stinkbreath }}
 * Stay relatively close, but not closer than 7 yards to ignore {{ site.data.dungeon.bh.violent_whirlwind }}.
 * Quickly move to the side when targeted by the {{ site.data.dungeon.bh.stink_breath }} frontal or you will be {{ site.data.dungeon.bh.disoriented }}. Be careful, the cast time is short. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 * Be careful not to fall off the bridge if you plan to use {{ site.data.talent.gust_of_wind }} to dodge {{ site.data.dungeon.bh.stink_breath }}.
 
 Taking a detour, it's also possible to encounter new mobs. They shouldn't be in most route, but here are some advices on how to handle them.
 
-### {{ site.data.dungeon.bh.treemouth }} optional trash
+## {{ site.data.dungeon.bh.treemouth }} optional trash
 
 **{{ site.data.dungeon.bh.decaying_slime }}**
 * It will {{ site.data.dungeon.bh.burst }} on death, move out of it.
@@ -248,7 +280,7 @@ If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Old Gnoll Witch Notable Trash Mobs
+### Old Gnoll Witch Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.filth_caller }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.decay_surge }}.
@@ -289,21 +321,14 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 <div id="hoi-collapse" class="collapse" aria-labelledby="hoi" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Talent
-
-### Notable talent choices
+### Notable Talent Choices
 * {{ site.data.talent.purge }} has some uses but could be skipped for other utilities.
 * {{ site.data.talent.spirit_walk }} has some uses but could be skipped for other utilities.
 * {{ site.data.talent.earthgrab_totem }} could be used in the frog area, but {{ site.data.talent.wrt }} is quite useful with the long corridors of the dungeon.
 
-### Wildfire
-<div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINaRLtkQOAAAAAAAUCgSSINRhgkkUSJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-</div>
-
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Old Keeper Guy Notable Trash Mobs
+### Old Keeper Guy Notable Trash Mobs
 
 **{{ site.data.dungeon.hoi.primalist_geomancer }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.earth_shield }}. Use {{ site.data.talent.purge }} to dispel it if the cast goes through.
@@ -325,20 +350,20 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.hoi.watcher_irideus }}
-#### Stage 1
+### Stage 1
 * Dodge the {{ site.data.dungeon.hoi.spark_volley }} blue swirlies. Use {{ site.data.talent.swg }} when needed to keep uptime while dodging.
 * Stay spreaded with {{ site.data.dungeon.hoi.power_overload }} debuff. Use {{ site.data.talent.as }} as needed to survive the DoT. Move out of the {{ site.data.dungeon.hoi.power_field }} that it leaves on the ground when removed.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.static_surge }}.  
 *TODO: Only the dungeon journal says that {{ site.data.dungeon.hoi.static_surge }} is interrupteable, must be checked.*
 
-#### Stage 2
+### Stage 2
 * Wait until {{ site.data.dungeon.hoi.nullification_device }} are dragged onto {{ site.data.dungeon.hoi.watcher_irideus }} to kill them. Stay away from their {{ site.data.dungeon.hoi.nullifying_pulse }} on death explosion.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.purifying_blast }}.
 * The boss will be more deadly after its transition. Be ready to help your healer with your defensives and off-healing.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Big Frog Notable Trash Mobs
+### Big Frog Notable Trash Mobs
 
 **{{ site.data.dungeon.hoi.primalist_shocktrooper }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.lightning_blast }} with extra kick.
@@ -377,7 +402,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Fanatic Elementalist Notable Trash Mobs
+### Fanatic Elementalist Notable Trash Mobs
 
 **{{ site.data.dungeon.hoi.primalist_galesinger }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.thunderstorm }} in priority, {{ site.data.dungeon.hoi.wind_buffet }} with extra kicks.
@@ -415,7 +440,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Big Elemental Dude Notable Trash Mobs
+### Big Elemental Dude Notable Trash Mobs
 The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.crashing_tsunami }} will constantly come into you. {{ site.data.talent.swg }} is very potent in that area to dodge the incoming waves.
 
 **{{ site.data.dungeon.hoi.aqua_rager }}**
@@ -464,16 +489,10 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 ### Notable Talent Choices
 * {{ site.data.talent.cleanse_spirit }} is a mandatory talent for the last boss if your group doesn't have a curse dispel.
-*
-
-### Wildfire
-<div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJh0EFgkk0SJAJJBA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-</div>
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Magma Squid Mammoth Notable Trash Mobs
+### Magma Squid Mammoth Notable Trash Mobs
 
 **{{ site.data.dungeon.ntr.qalashi_warden }}**
 * Don't be on the tank, {{ site.data.dungeon.ntr.volcanic_guard }} is a frontal on them.
@@ -506,7 +525,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Drake Hunter Notable Trash Mobs
+### Drake Hunter Notable Trash Mobs
 
 **{{ site.data.dungeon.ntr.tamed_phoenix }}**
 * This mobs are similar to the {{ site.data.dungeon.cos.blazing_imp }} in Court of Stars.
@@ -542,7 +561,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Wannabee Paladin Notable Trash Mobs
+### Wannabee Paladin Notable Trash Mobs
 
 **{{ site.data.dungeon.ntr.qalashi_lavabearer }}**
 * Dodge the red swirlies from {{ site.data.dungeon.ntr.throw_lava }} and the following magma puddles.
@@ -572,36 +591,49 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.ntr.forgemaster_gorek }}
-
-**{{ site.data.dungeon.ntr.example }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+* Never be near the Anvil at the center of the room and stay spreaded.
+* While channeling {{ site.data.dungeon.ntr.might_of_the_forge }}, {{ site.data.dungeon.ntr.blazing_hammer }} will deal Party-wide damage that you can mitigate with {{ site.data.talent.ag }}.
+* Use a defensive or top yourself at the end of {{ site.data.dungeon.ntr.might_of_the_forge }} to survive if {{ site.data.dungeon.ntr.blazing_aegis }} hits you.
+* Dodge the orange swirlies around the room created by {{ site.data.dungeon.ntr.blazing_eruption }} and {{ site.data.dungeon.ntr.forgestorm }}.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Profession buffs
+### Profession buffs
 
 **{{ site.data.dungeon.ntr.qalashi_goulash }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* This is a {{ site.data.item.cooking }}'s buff, that will likely be used to run to the next boss once {{ site.data.dungeon.ntr.forgemaster_gorek }} dies.
 
 **{{ site.data.dungeon.ntr.blazing_aegis_blacksmith }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
+* This is a {{ site.data.item.blacksmithing }}'s buff that is available on the Anvil of {{ site.data.dungeon.ntr.forgemaster_gorek }}'s room after the fight ends. It can be used on a big pack to deal massive damage.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## Smaug Treasure Hoarder Notable Trash Mobs
+### Smaug Treasure Hoarder Notable Trash Mobs
 
-**{{ site.data.dungeon.ntr.example }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+**{{ site.data.dungeon.ntr.apex_blazewing }}**
+* {{ site.data.dungeon.ntr.candescent_tempest }} will deal party wide damage and push you back. You can LoS the damage portion of the ability, but it will still push you back if you do. Use {{ site.data.talent.swg }} to counter it.
+
+**{{ site.data.dungeon.ntr.qalashi_lavamancer }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.lava_bolt }}.
+* Hard focus the {{ site.data.dungeon.ntr.molten_barrier }} as soon as possible. It will deal party-wide damage upon breaking. Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.molten_army }} as soon as shield drops.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.ntr.warlord_sargha }}
+* {{ site.data.dungeon.ntr.molten_gold }} is a huge DoT on a random target. Be sure to use {{ site.data.talent.as }} if you get it.
+* Dodge the {{ site.data.dungeon.ntr.the_dragons_kiln }} frontal cone.
+* Dodge the swirly from {{ site.data.dungeon.ntr.burning_ember }}. Use {{ site.data.talent.swg }} to kite the {{ site.data.dungeon.ntr.raging_ember }} that spawns if it focuses on you.
+* While {{ site.data.dungeon.ntr.magma_shield }} is active, {{ site.data.dungeon.ntr.flame_eruption }} will deal party wide ramping damage.
 
-**{{ site.data.dungeon.ntr.example }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+### Intermission
+* {{ site.data.dungeon.ntr.magma_shield }} is the main mechanic of the fight. After the boss casts it, multiple piles of gold will spawn around the room.
+* Clicking on those piles will apply the {{ site.data.dungeon.ntr.curse_of_the_dragon_hoard }} curse that you need to dispel as soon as possible with {{ site.data.talent.cleanse_spirit }}.
+* You will gain an item usable with an extra button that will deal huge damage to {{ site.data.dungeon.ntr.magma_shield }}. Here's a list of them:
+  - {{ site.data.dungeon.ntr.wand_of_negation }}: Target the boss and use it.
+  - {{ site.data.dungeon.ntr.anti_magic_bomb }}: Using it will give you a reticule (similar to {{ site.data.spell.eq }}) that you need to put on the boss.
+  - {{ site.data.dungeon.ntr.azure_stone_of_might }}: Using it will give you a reticule and make you jump to the reticule's position. /// OR Target the boss and use it, you will be launched into the boss in the process.
+  - {{ site.data.dungeon.ntr.rose_of_the_vale }}: Use within 30yds of the boss.
+  - {{ site.data.dungeon.ntr.seismic_boots }}: Use within 30yds of the boss.
 </div>
 </div>
 </div>
@@ -615,22 +647,21 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <div id="udm-collapse" class="collapse" aria-labelledby="udm" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Talents
-
 ### Notable Talent Choices
-
-### Wildfire
-<div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJINKRLtkQOAAAAAAAUCQKJJCRBIJJtUCQSSA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
-</div>
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.udm.example }} Notable Trash Mobs
+### {{ site.data.dungeon.udm.example }} Notable Trash Mobs
 
 **{{ site.data.dungeon.udm.example }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.example }}.
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.example }} on the buffed enemy.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## {{ site.data.dungeon.udm.example }}
+*
+*
 
 </div>
 </div>

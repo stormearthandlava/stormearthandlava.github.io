@@ -77,6 +77,8 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 * **Stop cast**, or **Hard CC**, refers to cancelling enemy casts using hard Crowd Control abilities. While some casts cannot be interrupted, they can be cancelled by other means. Regularly be mindful of lethal trash abilities. Also know what you can do to stop a cast and look for alternative ways to interrupt casts if no interrupts are available. Elemental Shaman may stop casts with {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, {{ site.data.talent.thunderstorm }} (or {{ site.data.talent.thundershock }}), {{ site.data.talent.lightning_lasso }} and {{ site.data.spell.eq }}'s knockdowns.
 
+* **Line of Sight**, or LoS, refers to hiding behind a wall to stop an enemy's ability from hitting you. Similar to player casting, mobs needs to see their target for their spell to hit. Hiding behind a wall breaks their line of sight and essentially negates the ability. There are many powerful application of this mechanic in dungeon, notably to cancel mobs dashing around.
+
 * Routinely support your healer and your group with healing abilities such as {{ site.data.talent.ag }}, {{ site.data.talent.healing_stream_totem }} or even {{ site.data.talent.cleanse_spirit }}.
 
 * Often times, your tank may need to kite. Remember the kiting tools at your disposal ({{ site.data.spell.earthbind_totem }}, {{ site.data.spell.frs }}, {{ site.data.talent.capacitor_totem }}, etc.) to distance trash packs away from your tank.
