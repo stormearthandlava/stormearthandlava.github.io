@@ -28,7 +28,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 # Miscellaneous Tips
 - Recommendations that include {{ site.data.talent.if }} are written with the assumption that you have access to {{ site.data.spell.frs }}, the same applies to {{ site.data.talent.lmt }}, {{ site.data.talent.totemic_recall }} and {{ site.data.talent.call_of_the_elements }}.
 
-- The final boss (Raszageth) was not tested on PTR so no footage for those bosses exists.
+- The final boss [Raszageth](https://www.wowhead.com/npc=199031/raszageth) was not tested on PTR so no footage for those bosses exists.
 
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
