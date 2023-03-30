@@ -35,7 +35,7 @@ olaf: <a href="https://www.wowhead.com/npc=184580/olaf" target="blank">Olaf</a>
 ricocheting_shield: <a href="https://www.wowhead.com/spell=369677/ricocheting-shield" target="blank">Ricocheting Shield</a> # stay spread, jumps at 5yds
 defensive_bulwark: <a href="https://www.wowhead.com/spell=369603/defensive-bulwark" target="blank">Defensive Bulwark</a> # kick => Big annoying defensive dome
 
-eric_the_swift: <a href="https://www.wowhead.com/npc=184582/eric-the-swift" target="blank">Eric, The Swift</a>
+eric_the_swift: <a href="https://www.wowhead.com/npc=184582/eric-the-swift" target="blank">Eric The Swift</a>
 skullcracker: <a href="https://www.wowhead.com/spell=369791/skullcracker" target="blank">Skullcracker</a> # 5yds swirl that disorient
 dagger_throw: <a href="https://www.wowhead.com/spell=369781/dagger-throw" target="blank">Dagger Throw</a> # random target damage
 
@@ -124,7 +124,7 @@ purging_flames: <a href="https://www.wowhead.com/spell=368990/purging-flames" ta
 sacred_barrier: <a href="https://www.wowhead.com/spell=369031/sacred-barrier" target="blank">Sacred Barrier</a> # boss immunity
 heat_engine: <a href="https://www.wowhead.com/spell=369029/heat-engine" target="blank">Heat Engine</a> # prevents going to the boss
 
-# Retcon Dragonfligh Herald Notable Trash Mobs
+# Retcon Dragonflight Herald Notable Trash Mobs
 ebonstone_golem: <a href="https://www.wowhead.com/npc=184300/ebonstone-golem" target="blank">Ebonstone Golem</a>
 thunderous_clap: <a href="https://www.wowhead.com/spell=381593/thunderous-clap" target="blank">Thunderous Clap</a> # Heavy AoE, might be outranged?
 

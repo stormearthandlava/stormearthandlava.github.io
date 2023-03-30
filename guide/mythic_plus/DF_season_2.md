@@ -14,7 +14,7 @@ This guide was made possible by:
 
 * Altenna (Discord: JudgeJames#0001 \| [Twitch](https://www.twitch.tv/judgejames) \| [Twitter](https://twitter.com/_judgejames_))
 * Amani (Discord: Amani#0001 \| [Discord Server](https://discordapp.com/invite/zTQhBn8) \| [YouTube](https://www.youtube.com/channel/UC5IikzgR1TeED-DxPLqISHg))
-* Elivrio (Discord: Elivrio#1450, in-game: Tyrindra [EU-Ysondre])
+* Elivrio (Discord: Elivrio#1450, in-game: Tyrindra-Ysondre[EU])
 * Eokira (Discord: Eokira#7823)
 * Gaka (Discord: Gaka#7410)
 * HawkCorrigan (Discord: HawkCorrigan#1811)
@@ -31,7 +31,7 @@ There are two main build that will be used in Dragonflight Season one : Wildfire
 
 This page will only note the important utility options that are available to you as an Elemental Shaman. Those remain suggestions and depending on your group, you might not need some of the talent suggested in this guide.
 
-### Standard Class tree for S1 Dungeons:
+### Standard Class tree for S2 Dungeons:
 
 <div class="iframe-holder">
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoEgUSChog0ikmSACRAC?width=530&level=70" frameborder="0" width="800px" height="100%"></iframe>
@@ -42,6 +42,7 @@ This page will only note the important utility options that are available to you
 - {{ site.data.talent.ee }} could be flexed around into another utility option but I believe it is the best single all rounder node to get to 20 points.
 - {{ site.data.talent.purge }} is recommended in all dungeon because of its high value this season.
 - Some people spec out of {{ site.data.spell.frs }}. It is still a very useful movement global, even without {{ site.data.talent.if }}.
+- {{ site.data.talent.ns }} could be dropped for another utility node, its value is high but isn't mandatory by any means.
 
 ### The Last 4 Points
 Depending on the dungeon you are running and the group you're in, here is a list of good options to pick from:
@@ -191,14 +192,17 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 * Cleave them down at the same time, they will gain {{ site.data.dungeon.bh.bloodfrenzy }} whenever one of them drops below 15% HP.
 * The bosses gain haste with {{ site.data.dungeon.bh.prey_on_the_weak }} whenever players are below 90% HP. If needed, use {{ site.data.talent.ag }}, or even {{ site.data.talent.hst }} and {{ site.data.spell.healing_surge }} to help the healer remove the {{ site.data.dungeon.bh.predatory_instincts }} stacks.
 * Each Gnoll also its own abilities, making this fight hard to learn.
-* {{ site.data.dungeon.bh.rira_hackclaw }}
+
+### {{ site.data.dungeon.bh.rira_hackclaw }}
   - Never be on the tank, {{ site.data.dungeon.bh.cleave }} cleaves (duh).
   - Hide behind the Tank when targeted by {{ site.data.dungeon.bh.savage_charge }}.
   - Kite and stay farther than 8 yards away during {{ site.data.dungeon.bh.bladestorm }}. Use {{ site.data.talent.swg }} to keep uptime while kiting.
-* {{ site.data.dungeon.bh.tricktotem }}
+
+### {{ site.data.dungeon.bh.tricktotem }}
   - Assign a party member to always interrupt {{ site.data.dungeon.bh.greater_healing_rapids }}. Interrupt {{ site.data.dungeon.bh.earth_bolt_boss }} with the group other kicks.
   - Nuke {{ site.data.dungeon.bh.hextrick_totem }} to help your critterised party members.
-* {{ site.data.dungeon.bh.gashtooth }}
+
+### {{ site.data.dungeon.bh.gashtooth }}
   - Use {{ site.data.talent.ag }} to help your healer during {{ site.data.dungeon.bh.gash_frenzy}}.
   - Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.externals.hs }} as needed to survive {{ site.data.dungeon.bh.marked_for_butchery}}.
 
@@ -653,7 +657,41 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-### {{ site.data.dungeon.udm.example }} Notable Trash Mobs
+### Blizzard's Vikings Notable Trash Mobs
+
+**{{ site.data.dungeon.udm.stonevault_geomancer }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.chain_lightning }} in priority, and {{ site.data.dungeon.udm.stone_pike }} with extra kicks.
+
+**{{ site.data.dungeon.udm.vicious_basilisk }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.spiked_carapace }} but it isn't a priority.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.spiked_carapace }} if the cast goes through.
+
+**{{ site.data.dungeon.udm.hulking_berserker }}**
+* Stay farther than 7 yds away to passively dodge {{ site.data.dungeon.udm.brutal_slam }}.
+* At 40% hp, it will cast {{ site.data.dungeon.udm.reckless_rage }}, buffing all nearby enemies. Be ready to use your crowd control to help the tank kite as needed.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## The Lost Vikings
+* {{ site.data.dungeon.udm.longboat_raid }} gradually fills the room with {{ site.data.dungeon.udm.searing_cannonfire }} swirls and {{ site.data.dungeon.udm.burning_pitch }} puddles. This is the best time to use {{ site.data.talent.swg }}.
+* {{ site.data.dungeon.udm.fiery_surge }} will deal party-wide damage each time a cannon fires. Aid your healer with {{ site.data.talent.ag }} as needed. Focusing down one of the Dwarves is a good idea to reduce the potency of {{ site.data.dungeon.udm.hasty_rearming }}.
+* Each Dwarf "dies" at 10%hp.
+
+### {{ site.data.dungeon.udm.baelog }}
+* Don't be in front of him, {{ site.data.dungeon.udm.heavy_arrow }}'s a frontal and {{ site.data.dungeon.udm.wild_cleave }} cleaves (duh).
+
+### {{ site.data.dungeon.udm.eric_the_swift }}
+* Dodge {{ site.data.dungeon.udm.skullcracker }}'s swirly or you will be disoriented.
+* {{ site.data.dungeon.udm.dagger_throw }} targets a random player, try to stay outside of killing range or use defensives when needed.
+
+### {{ site.data.dungeon.udm.olaf }}
+* Stay spreaded 5yds away from your teamate to avoid the bounces from {{ site.data.dungeon.udm.ricocheting_shield }}.
+* use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.defensive_bulwark }}.
+
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+### Another Trogg King Notable Trash Mobs
 
 **{{ site.data.dungeon.udm.example }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.example }}.
@@ -661,7 +699,49 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
-## {{ site.data.dungeon.udm.example }}
+## {{ site.data.dungeon.udm.bromach }}
+*
+*
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+### Serpentine Keeper Notable Trash Mobs
+
+**{{ site.data.dungeon.udm.example }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.example }} on the buffed enemy.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## {{ site.data.dungeon.udm.sentinel_talondras }}
+*
+*
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+### Fire Keeper Notable Trash Mobs
+
+**{{ site.data.dungeon.udm.example }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.example }} on the buffed enemy.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## {{ site.data.dungeon.udm.emberon }}
+*
+*
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+### Retcon Dragonflight Herald Notable Trash Mobs
+
+**{{ site.data.dungeon.udm.example }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.example }} on the buffed enemy.
+
+<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+
+## {{ site.data.dungeon.udm.chrono_lord_deios }}
 *
 *
 
