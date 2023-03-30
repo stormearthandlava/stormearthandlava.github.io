@@ -489,6 +489,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 ### Notable Talent Choices
 * {{ site.data.talent.cleanse_spirit }} is a mandatory talent for the last boss if your group doesn't have a curse dispel.
+* {{ site.data.talent.purge }} has some decent uses.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
@@ -623,7 +624,8 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * {{ site.data.dungeon.ntr.molten_gold }} is a huge DoT on a random target. Be sure to use {{ site.data.talent.as }} if you get it.
 * Dodge the {{ site.data.dungeon.ntr.the_dragons_kiln }} frontal cone.
 * Dodge the swirly from {{ site.data.dungeon.ntr.burning_ember }}. Use {{ site.data.talent.swg }} to kite the {{ site.data.dungeon.ntr.raging_ember }} that spawns if it focuses on you.
-* While {{ site.data.dungeon.ntr.magma_shield }} is active, {{ site.data.dungeon.ntr.flame_eruption }} will deal party wide ramping damage.
+* While {{ site.data.dungeon.ntr.magma_shield }} is active, {{ site.data.dungeon.ntr.flame_eruption }} will deal party wide ramping damage.  
+*To Test: Does {{ site.data.talent.ag }} work with the curse items.*
 
 ### Intermission
 * {{ site.data.dungeon.ntr.magma_shield }} is the main mechanic of the fight. After the boss casts it, multiple piles of gold will spawn around the room.

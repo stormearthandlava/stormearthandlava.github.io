@@ -72,7 +72,7 @@ bone_toss: <a href="https://www.wowhead.com/spell=372226/bone-toss" target="blan
 overseer_lahar: <a href="https://www.wowhead.com/npc=189235/overseer-lahar" target="blank">Overseer Lahar</a> # miniboss
 burning_roar: <a href="https://www.wowhead.com/spell=395427/burning-roar" target="blank">Burning Roar</a> # interrupt, 13yds AoE
 imbued_magma: <a href="https://www.wowhead.com/spell=372461/imbued-magma" target="blank">Imbued Magma</a> # tank damage, heal dispel
-eruptive_crash: <a href="https://www.wowhead.com/spell=376186/eruptive-crush" target="blank">Volcanic Guard</a> # swirl then magma waves to dodge
+eruptive_crash: <a href="https://www.wowhead.com/spell=376186/eruptive-crush" target="blank">Eruptive Crush</a> # swirl then magma waves to dodge
 
 ## Chargath, Bane of Scales
 chargath: <a href="https://www.wowhead.com/npc=189340/chargath-bane-of-scales" target="blank">Chargath, Bane of Scales</a>
