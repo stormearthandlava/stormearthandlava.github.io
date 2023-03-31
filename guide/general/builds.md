@@ -12,7 +12,7 @@ big_article: true
 This page aims to display and discuss the recommended and most widely-used Builds available to Elemental. This is not an exhaustive list of all options and *does not imply that any build **not** shown here is automatically terrible/unplayable*.  
 In practical terms we cannot account for every build variation and effort has been largely focused on the highest performing / most popular builds. If you find something that you feel works or performs better than what is listed here feel free to contact the team on [Storm, Earth & Lava Discord](https://discord.gg/y5dUf3PWrU) or [Earthshrine #Elemental Channel](https://discord.gg/earthshrine)
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Class Tree
 
@@ -46,7 +46,7 @@ More situational talents picks:
   - {{ site.data.talent.purge }} and {{ site.data.talent.cleanse_spirit }} are perfect examples of good talents that are purely situational and can be skipped in many builds, and picked only when needed.
   - {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, {{ site.data.talent.earthgrab_totem }} or {{ site.data.talent.thunderstorm }} are situational Crowd Control talents.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Hotfixes applied on 28/02/23 (NA) and 01/03/23 (EU):
 First and foremost, they do not appear to have any impact on rotational priority from initial testing. This includes but is not limited to:
@@ -55,7 +55,7 @@ First and foremost, they do not appear to have any impact on rotational priority
    - For those using {{ site.data.talent.mwf }} builds remember the priority has not changed, the build just has less sources of {{ site.data.talent.lvs }} procs relative to the alternative {{ site.data.talent.wlr }} build.
    - Some players were already including {{ site.data.talent.icefury }} with {{ site.data.talent.e_shocks }} into the Wildfire builds (trading {{ site.data.talent.fop }} for them), this choice gained some ground with the buff to baseline {{ site.data.spell.frs }} damage and the maelstrom gains of {{ site.data.talent.if }} buffs.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Primordial Surge Builds
 
@@ -90,7 +90,7 @@ As the name suggests this is predominately aimed at single target but due to tak
   <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCAJlkUoEl0SCRAAAAAAKBIlkgmASLJppECSkEgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Stats
 
@@ -103,7 +103,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Mastery / Haste >> Versatility = Crit
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Rotation
 
@@ -211,7 +211,7 @@ As this build takes {{ site.data.talent.dre }} and extends to {{ site.data.talen
   <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCAJlkUSKBtkQEAAAAAgSASJJoJg0SSaKhgEJBI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Stats
 
@@ -224,7 +224,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Haste >> Mastery > Versatility = Crit
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Rotation
 
@@ -339,7 +339,7 @@ This build effectively swaps {{ site.data.talent.wlr }} or {{ site.data.talent.f
   <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSr0SCAJlkUoE0SSSEAAAAAgSASJJoJg0SSaKhgEJBI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Stats
 
@@ -352,7 +352,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Mastery > Versatility = Crit
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
 
- <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+ <hr>
 
 ## Rotation
 
@@ -454,7 +454,7 @@ This build can be harder to play effectively as it requires you to play around b
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkEkg0oE0kkkDAAAAAAoEgUSCaCItkkmSIIRSAC?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
   </div>
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Stats
 
@@ -468,7 +468,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
  - Mastery has very good synergy with both {{ site.data.talent.mwf }} and {{ site.data.spell.lvb }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Rotation
 
@@ -582,7 +582,7 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
 <br/>
 <br/>
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Wildfire Builds
 
@@ -632,7 +632,7 @@ For better overall Maelstrom generation.
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkASLSjS0STiDEAAAAAAKBIlkokmASLJppECCRAC?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Stats
 
@@ -645,7 +645,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Crit > Mastery / Vers
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
 
- <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+ <hr>
 
 ## Rotation
 
@@ -780,7 +780,7 @@ The standard {{ site.data.dungeon.eb }} build.
 <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkAJtINKRLNJEAAAAAAKBIlkokmASLJppECCRAC?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
 </div>
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Stats
 
@@ -793,7 +793,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Crit > Mastery / Vers
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
 
- <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+ <hr>
 
 ## Rotation
 
@@ -937,7 +937,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 <br/>
 <br/>
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Lightning Builds
 
@@ -968,7 +968,7 @@ Note:
   - {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target.
   - You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favor of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Stats
 
@@ -981,7 +981,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Crit > Mastery / Vers
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Rotation
 
@@ -1106,7 +1106,7 @@ Note:
  - {{ site.data.talent.lmt }} is preferred over {{ site.data.spell.tempest }} (gained via {{ site.data.talent.pe }}) because of its overall value being far higher over the course of a key, {{ site.data.talent.pe }} is only preferable on single target. Whilst this build does utilize more {{ site.data.spell.fs }} than other Lightning variants it will generally not be worthwhile to run {{ site.data.talent.pe }} simply because it is opportunity costed against {{ site.data.talent.lmt }}.
  - You may substitute {{ site.data.talent.sop }} for {{ site.data.talent.afs }} for comfort but it is substantially worse on single target (which is still relevant on bosses in M+!) and worse on 6+ (reliability is key, the gap alters as you add more targets in favor of {{ site.data.talent.afs }}. If you make this substitution simply ignore any line that shows {{ site.data.talent.sop }}; {{ site.data.talent.afs }} has no impact upon priority!
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ## Stats
 
@@ -1119,7 +1119,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
  - Haste / Crit > Mastery / Vers
  - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 
 ## Rotation
