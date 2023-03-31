@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Vault of the Incarnates Guide"
-date: 22/03/2023
+last_update: 22/03/2023
 game_version: 10.0.7 Dragonflight
 author: Sheffy, Elivrio
 toc: false
+big_article: false
 ---
 
 # Introduction
@@ -13,14 +14,16 @@ This guide was made possible by:
 - Altenna (Discord: JudgeJames#0001 \| [Twitch](https://www.twitch.tv/judgejames) \| [Twitter](https://twitter.com/_judgejames_))
 - Amani (Discord: Amani#0001 \| [Discord Server (RU)](https://discord.gg/vodovorot) \| [Twitch](https://www.twitch.tv/amanizandalari))
 - Bloodmallet (Discord: Bloodmallet(EU)#8246 \| [Website](https://bloodmallet.com/))
+- Elivrio (Discord: Elivrio#1450, in-game : Tyrindra-Ysondre)
 - Eokira (Discord: Eokira#7823)
 - Gaka (Discord: Gaka#7410)
 - HawkCorrigan (Discord: HawkCorrigan#1811)
 - Kaldeak (Discord: Kaldeak#1394)
 - Sheffy (Discord: Sheffy#4928 \| [Twitch](https://www.twitch.tv/sheffywow) \| [Twitter](https://twitter.com/SheffyWoW))
-- Elivrio (Discord: Elivrio#1450, in-game : Tyrindra-Ysondre)
 
 The tips and recommendations listed here are based on educated opinions from PTR raid testing and reviewing logs and videos, so strategies can change as we develop a better understanding of each fight or as the spec and bosses are tuned. If you have any disagreements, feedback, or questions, please feel welcome to reach out to the team.
+
+<hr>
 
 # Miscellaneous Tips
 - Recommendations that include {{ site.data.talent.if }} are written with the assumption that you have access to {{ site.data.spell.frs }}, the same applies to {{ site.data.talent.lmt }}, {{ site.data.talent.totemic_recall }} and {{ site.data.talent.call_of_the_elements }}.
@@ -41,9 +44,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 
 # Bosses
-<p style="color:red">Click on a boss banner to expand it.</p>
 
-<hr>
+<p style="color:red" align="center">Click on a boss banner to expand it.</p>
+
 <div class="dungeon-accordion">
 <div id="accordion">
 <div class="card">

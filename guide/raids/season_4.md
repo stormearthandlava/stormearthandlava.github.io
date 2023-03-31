@@ -1,6 +1,6 @@
 ---
 title: "Season Four, Raiding and YOU!"
-date: 06/08/2022
+last_update: 06/08/2022
 game_version: 9.2.5 Shadowlands
 author: Eokira
 toc: false
@@ -27,7 +27,7 @@ toc: false
 
 - Broadly, no. The most significant difference Elemental will have in Season Four compared to what we had when clearing the previous raids is carrying the {{ site.data.item.t28_4 }} bonus with us, which results in our build choices remaining largely the same as they were in Season 3 just applied to previous content bosses.
 
-# Where can I find boss-specific information? or information about M+? 
+# Where can I find boss-specific information? or information about M+?
 
 - Raids:
     - [Castle Nathria](https://stormearthandlava.com/guide/raids/nathria.html)

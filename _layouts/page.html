@@ -27,9 +27,12 @@ layout: default
     {%- include side_menu.html -%}
     {%- if page.toc == true -%}
       <h3>Table of Contents</h3>
-      {%- include toc.html html=content class="toc" h_max=3 -%}
+      {%- if page.big_article == true -%}
+        {%- include toc.html html=content class="toc" h_max=1 -%}
+      {%- else -%}
+        {%- include toc.html html=content class="toc" h_max=3 -%}
+      {%- endif -%}
       <hr>
-      <br>
     {%- endif -%}
     {{ content }}
   </div>
