@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Macros
-last_update: 30/12/2022 
-game_version: 10.0.2 Dragonflight
+last_update: 31/03/2023 
+game_version: 10.0.7 Dragonflight
 toc: true
 ---
 
