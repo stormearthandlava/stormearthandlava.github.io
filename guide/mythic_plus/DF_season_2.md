@@ -52,7 +52,7 @@ Depending on the dungeon you are running and the group you're in, here is a list
 - {{ site.data.talent.healing_stream_totem }} and {{ site.data.talent.swirling_currents }} are good off-healing CDs. But the fact that you cannot predict who it will heal, paired with the GCD loss each time you use it make it very suboptimal and situational.
 - {{ site.data.talent.tremor_totem }} has a lot of minor uses this season but nothing... groundbreaking.
 - {{ site.data.talent.static_charge }} will allow you to have {{ site.data.talent.capacitor_totem }} on every packs. Very useful to complement another Class AoE CC.
-- {{ site.data.talent.guardians_cudgel }} on the other hand, will be best used when you are the only AoE CC of the group, or if you need successive interrupts on a pack ({{ site.data.dungeon.cos.blazing_imp }} in Court of Stars for example).
+- {{ site.data.talent.guardians_cudgel }} on the other hand, will be best used when you are the only AoE CC of the group, or if you need successive interrupts on a pack ({{ site.data.dungeon.cos.blazing_imp }} in {{ site.data.dungeon.cos.cos }} for example).
 - {{ site.data.talent.brimming_with_life }} is still a 8% max HP, even if it has the worst design in our whole tree.
 - {{ site.data.talent.cleanse_spirit }} is used only in Temple of the Jade Serpent this season, you can spend that point elsewhere when you're not in it. Note that the healers that cannot remove Curses are: Discipline Priest, Holy Priest, Holy Paladin, and Mistweaver Monk.
 - {{ site.data.talent.hex }} can be used to control Patrol's pathing and as a hard CC in general.
@@ -78,7 +78,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 * **Stop cast**, or **Hard CC**, refers to cancelling enemy casts using hard Crowd Control abilities. While some casts cannot be interrupted, they can be cancelled by other means. Regularly be mindful of lethal trash abilities. Also know what you can do to stop a cast and look for alternative ways to interrupt casts if no interrupts are available. Elemental Shaman may stop casts with {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, {{ site.data.talent.thunderstorm }} (or {{ site.data.talent.thundershock }}), {{ site.data.talent.lightning_lasso }} and {{ site.data.spell.eq }}'s knockdowns.
 
-* **Line of Sight**, or LoS, refers to hiding behind a wall to stop an enemy's ability from hitting you. Similar to player casting, mobs needs to see their target for their spell to hit. Hiding behind a wall breaks their line of sight and essentially negates the ability. There are many powerful application of this mechanic in dungeon, notably to cancel mobs dashing around.
+* **Line of Sight**, or **LoS**, refers to hiding behind a wall or structure to prevent an enemy's ability from targeting or damaging you. Like player casting, mobs must see their target for their spell to cast. Positioning behind a wall or structure breaks their line of sight and stops an enemy from casting; in other words, if you are not within line of sight of a mob, the mob is not within line of sight of you. There are many strategic uses for line of sighting mechanics, such as ({{ site.data.dungeon.cos.fel_detonation }} from {{ site.data.dungeon.cos.felbound_enforcer }} in {{ site.data.dungeon.cos.cos }} in Season 1). As you practice new dungeons, be mindful of your environmental surroundings and identify opportunities to utilize nearby structures to line of sight mobs.
 
 * Routinely support your healer and your group with healing abilities such as {{ site.data.talent.ag }}, {{ site.data.talent.healing_stream_totem }} or even {{ site.data.talent.cleanse_spirit }}.
 
@@ -533,7 +533,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 ### Drake Hunter Notable Trash Mobs
 
 **{{ site.data.dungeon.ntr.tamed_phoenix }}**
-* This mobs are similar to the {{ site.data.dungeon.cos.blazing_imp }} in Court of Stars.
+* These mobs are similar to the {{ site.data.dungeon.cos.blazing_imp }} in {{ site.data.dungeon.cos.cos }}.
 * They will be in packs of 8-10 mobs and constantly cast {{ site.data.dungeon.ntr.ember_reach }}.
 * Use {{ site.data.talent.capacitor_totem }} or {{ site.data.talent.thundershock }} to disrupt them.
 * Use {{ site.data.spell.wind_shear }} to interrupt as many as possible.
@@ -693,15 +693,21 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 ### Another Trogg King Notable Trash Mobs
 
-**{{ site.data.dungeon.udm.example }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.example }} on the buffed enemy.
+**{{ site.data.dungeon.udm.burly_rock_thrower }}**
+* This mobs are immobile. They are often LoS by parties to pack them up.
+* Watch your feet and dodge the {{ site.data.dungeon.udm.throw_rock }} swirlies.
+
+**{{ site.data.dungeon.udm.stonevault_ambusher }}**
+* They will jump on a random target with {{ site.data.dungeon.udm.ambush }}. Stay close to melee for cleave purposes.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 
 ## {{ site.data.dungeon.udm.bromach }}
-*
-*
+* {{ site.data.dungeon.udm.call_of_the_deep }} will spawn {{ site.data.dungeon.udm.stonevault_geomancer }} in the room. Try to interrupt them with {{ site.data.spell.wind_shear }} to pack them up on the boss.
+* Stay farther than 12 yds away from melee to ignore {{ site.data.dungeon.udm.thundering_slam }}.
+* Immediately switch on {{ site.data.dungeon.udm.quaking_totem }} whenever it spawns.
+* {{ site.data.dungeon.udm.shocking_quake }} will deal party-wide damage. It's the best time to use {{ site.data.talent.ag }} and defensives.
+* Wait for the boss and adds to be kited on the {{ site.data.dungeon.udm.quaking_totem_npc }} to kill it as it will apply {{ site.data.dungeon.udm.tremor }} on death.
 
 <p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
 

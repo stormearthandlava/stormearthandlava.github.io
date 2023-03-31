@@ -12,7 +12,7 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+cos: <a href="https://www.wowhead.com/zone=8079/court-of-stars" target="blank">Court of Stars</a>
 
 ## Court of Stars
 # Dungeon buffs

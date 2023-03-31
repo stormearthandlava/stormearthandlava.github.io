@@ -445,7 +445,7 @@ If you find yourself using this build on 5 or more targets it is less than ideal
 
 ## What does this build do?
 
-This is a Single Target build that allows Regular AoE Burst. It is best used on fights like Eranog or Dungeon like Court of Stars.
+This is a Single Target build that allows Regular AoE Burst. It is best used on fights like Eranog or Dungeon like {{ site.data.dungeon.cos.cos }}.
 This build works around the damage of {{ site.data.spell.lvb }} and {{ site.data.talent.eb }}, supported by the idea of {{ site.data.talent.pw }} 'windows'. But it also uses {{ site.data.talent.sk }} and {{ site.data.talent.sop }} to empower our burst potential, both in ST and in AoE.
 This build can be harder to play effectively as it requires you to play around both {{ site.data.talent.pw }} 'windows' and the combination of  {{ site.data.talent.sop }} with {{ site.data.talent.sk }}.
 

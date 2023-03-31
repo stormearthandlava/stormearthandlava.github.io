@@ -51,7 +51,7 @@ Depending on the dungeon you are running and the group you're in, here is a list
 - {{ site.data.talent.healing_stream_totem }} and {{ site.data.talent.swirling_currents }} are good off-healing CDs. But the fact that you cannot predict who it will heal, paired with the GCD loss each time you use it make it very suboptimal and situational.
 - {{ site.data.talent.tremor_totem }} has a lot of minor uses this season but nothing... groundbreaking.
 - {{ site.data.talent.static_charge }} will allow you to have {{ site.data.talent.capacitor_totem }} on every packs. Very useful to complement another Class AoE CC.
-- {{ site.data.talent.guardians_cudgel }} on the other hand, will be best used when you are the only AoE CC of the group, or if you need successive interrupts on a pack ({{ site.data.dungeon.cos.blazing_imp }} in Court of Stars for example).
+- {{ site.data.talent.guardians_cudgel }} on the other hand, will be best used when you are the only AoE CC of the group, or if you need successive interrupts on a pack ({{ site.data.dungeon.cos.blazing_imp }} in {{ site.data.dungeon.cos.cos }} for example).
 - {{ site.data.talent.brimming_with_life }} is still a 8% max HP, even if it has the worst design in our whole tree.
 - {{ site.data.talent.cleanse_spirit }} is used only in Temple of the Jade Serpent this season, you can spend that point elsewhere when you're not in it. Note that the healers that cannot remove Curses are: Discipline Priest, Holy Priest, Holy Paladin, and Mistweaver Monk.
 - {{ site.data.talent.hex }} can be used to control Patrol's pathing and as a hard CC in general.
@@ -77,7 +77,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 * **Stop cast**, or **Hard CC**, refers to cancelling enemy casts using hard Crowd Control abilities. While some casts cannot be interrupted, they can be cancelled by other means. Regularly be mindful of lethal trash abilities. Also know what you can do to stop a cast and look for alternative ways to interrupt casts if no interrupts are available. Elemental Shaman may stop casts with {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, {{ site.data.talent.thunderstorm }} (or {{ site.data.talent.thundershock }}), {{ site.data.talent.lightning_lasso }} and {{ site.data.spell.eq }}'s knockdowns.
 
-* **Line of Sight**, or LoS, refers to hiding behind a wall to stop an enemy's ability from hitting you. Similar to player casting, mobs needs to see their target for their spell to hit. Hiding behind a wall breaks their line of sight and essentially negates the ability. There are many powerful application of this mechanic in dungeon, notably to cancel mobs dashing around.
+* **Line of Sight**, or **LoS**, refers to hiding behind a wall or structure to prevent an enemy's ability from targeting or damaging you. Like player casting, mobs must see their target for their spell to cast. Positioning behind a wall or structure breaks their line of sight and stops an enemy from casting; in other words, if you are not within line of sight of a mob, the mob is not within line of sight of you. There are many strategic uses for line of sighting mechanics, such as ({{ site.data.dungeon.cos.fel_detonation }} from {{ site.data.dungeon.cos.felbound_enforcer }} in {{ site.data.dungeon.cos.cos }}). As you practice new dungeons, be mindful of your environmental surroundings and identify opportunities to utilize nearby structures to line of sight mobs.
 
 * Routinely support your healer and your group with healing abilities such as {{ site.data.talent.ag }}, {{ site.data.talent.healing_stream_totem }} or even {{ site.data.talent.cleanse_spirit }}.
 
@@ -284,7 +284,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 
 ### Notable Talent Choices
 
-* Court of Stars is a dungeon with many small packs and many mini-bosses. Depending your group composition, Single Target Oriented build that does good on demand AoE will perform better on average than a full AoE build. I recommend using the "Primordial Surge with Stormkeeper" from the [Build Page](https://stormearthandlava.com/guide/general/builds.html#primordial-surge-builds).
+* {{ site.data.dungeon.cos.cos }} is a dungeon with many small packs and many mini-bosses. Depending your group composition, Single Target Oriented build that does good on demand AoE will perform better on average than a full AoE build. I recommend using the "Primordial Surge with Stormkeeper" from the [Build Page](https://stormearthandlava.com/guide/general/builds.html#primordial-surge-builds).
 * {{ site.data.talent.hex }} is a good option in this dungeon to control patrols, adds on first boss and hard CC breaks in general.
 * {{ site.data.talent.spirit_walk }} and {{ site.data.talent.thunderous_paws }} can be used to cleanse the debuff on the first boss.
 * {{ site.data.talent.purge }} has some uses in the area before the first boss.
