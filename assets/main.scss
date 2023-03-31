@@ -169,7 +169,12 @@ ul {
 
 // adjust hr to match the page dark theme
 hr {
-  border-top: 1px solid $grey-color;
+  // border-top: 1px solid $grey-color;
+  display: block;
+  border: 0px;
+  height: 26px;
+  background-image: url('/assets/img/blog/bluelinebreak.png');
+  background-repeat: no-repeat;
 }
 
 // APL list spacing
