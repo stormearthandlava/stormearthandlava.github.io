@@ -12,107 +12,107 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+the_underrot: <a href="https://www.wowhead.com/zone=9391/the-underrot" target="blank">The Underrot</a>
 
 # Blood Witch Notable Trash Mobs
-underrot-tick: <a href="https://www.wowhead.com/npc=131402/underrot-tick" target="blank">Underrot Tick</a> # smallies, very dangerous (lesser shas)
-blood-maw: <a href="https://www.wowhead.com/spell=265533/blood-maw" target="blank">Blood Maw</a> # tank dam
-blood-burst: <a href="https://www.wowhead.com/spell=278641/blood-burst" target="blank">Blood Burst</a> # explodes on death
+underrot_tick: <a href="https://www.wowhead.com/npc=131402/underrot-tick" target="blank">Underrot Tick</a> # smallies, very dangerous (lesser shas)
+blood_maw: <a href="https://www.wowhead.com/spell=265533/blood-maw" target="blank">Blood Maw</a> # tank dam
+blood_burst: <a href="https://www.wowhead.com/spell=278641/blood-burst" target="blank">Blood Burst</a> # explodes on death
 
-fetid-maggot: <a href="https://www.wowhead.com/npc=130909/fetid-maggot" target="blank">Fetid Maggot</a>
-rotten-bile: <a href="https://www.wowhead.com/spell=265540/rotten-bile" target="blank">Rotten Bile</a> # Frontal, can be hard CC
+fetid_maggot: <a href="https://www.wowhead.com/npc=130909/fetid-maggot" target="blank">Fetid Maggot</a>
+rotten_bile: <a href="https://www.wowhead.com/spell=265540/rotten-bile" target="blank">Rotten Bile</a> # Frontal, can be hard CC
 
-chosen-blood-matron: <a href="https://www.wowhead.com/npc=131436/chosen-blood-matron" target="blank">Chosen Blood Matron</a> # Prio target
-savage-cleave: <a href="https://www.wowhead.com/spell=265019/savage-cleave" target="blank">Savage Cleave</a> # Dash then Frontal
+chosen_blood_matron: <a href="https://www.wowhead.com/npc=131436/chosen-blood-matron" target="blank">Chosen Blood Matron</a> # Prio target
+savage_cleave: <a href="https://www.wowhead.com/spell=265019/savage-cleave" target="blank">Savage Cleave</a> # Dash then Frontal
 warcry: <a href="https://www.wowhead.com/spell=265081/warcry" target="blank">Warcry</a> # => applies soothable enrages in 25yds,
 
-fanatical-headhunter: <a href="https://www.wowhead.com/npc=133663/fanatical-headhunter" target="blank">Fanatical Headhunter</a> # sort of immobile
-hooked-snare: <a href="https://www.wowhead.com/spell=265377/hooked-snare" target="blank">Hooked Snare</a> # root removal to dodge savage cleave
-barbed-spear: <a href="https://www.wowhead.com/spell=265376/barbed-spear" target="blank">Barbed Spear</a> # Random ST damage
+fanatical_headhunter: <a href="https://www.wowhead.com/npc=133663/fanatical-headhunter" target="blank">Fanatical Headhunter</a> # sort of immobile
+hooked_snare: <a href="https://www.wowhead.com/spell=265377/hooked-snare" target="blank">Hooked Snare</a> # root removal to dodge savage cleave
+barbed_spear: <a href="https://www.wowhead.com/spell=265376/barbed-spear" target="blank">Barbed Spear</a> # Random ST damage
 
-devout-blood-priest: <a href="https://www.wowhead.com/npc=131492/devout-blood-priest" target="blank">Devout Blood Priest</a>
-blood-bolt: <a href="https://www.wowhead.com/spell=265084/blood-bolt" target="blank">Blood Bolt</a> # extra Kick
-dark-reconstitution: <a href="https://www.wowhead.com/spell=265089/dark-reconstitution" target="blank">Dark Reconstitution</a> # Must kick
-gift-of-ghuun: <a href="https://www.wowhead.com/spell=265091/gift-of-ghuun" target="blank">Gift of G'huun</a> # extra Kick or purge
+devout_blood_priest: <a href="https://www.wowhead.com/npc=131492/devout-blood-priest" target="blank">Devout Blood Priest</a>
+blood_bolt: <a href="https://www.wowhead.com/spell=265084/blood-bolt" target="blank">Blood Bolt</a> # extra Kick
+dark_reconstitution: <a href="https://www.wowhead.com/spell=265089/dark-reconstitution" target="blank">Dark Reconstitution</a> # Must kick
+gift_of_ghuun: <a href="https://www.wowhead.com/spell=265091/gift-of-ghuun" target="blank">Gift of G'huun</a> # extra Kick or purge
 
-befouled-spirit: <a href="https://www.wowhead.com/npc=133685/befouled-spirit" target="blank">Befouled Spirit</a> # Prio target
-dark-omen: <a href="https://www.wowhead.com/spell=265625/dark-omen" target="blank">Dark Omen</a> # Hard CC interrupt
-harrowing-despair: <a href="https://www.wowhead.com/spell=278755/harrowing-despair" target="blank">Harrowing Despair</a> # Must kick
+befouled_spirit: <a href="https://www.wowhead.com/npc=133685/befouled-spirit" target="blank">Befouled Spirit</a> # Prio target
+dark_omen: <a href="https://www.wowhead.com/spell=265625/dark-omen" target="blank">Dark Omen</a> # Hard CC interrupt
+harrowing_despair: <a href="https://www.wowhead.com/spell=278755/harrowing-despair" target="blank">Harrowing Despair</a> # Must kick
 
 # Elder Leaxa
-elder-leaxa: <a href="https://www.wowhead.com/npc=131318/elder-leaxa" target="blank">Elder Leaxa</a>
-taint-of-ghuun: <a href="https://www.wowhead.com/spell=260685/taint-of-ghuun" target="blank">Taint of G'huun</a> # DoT everytime a spell hits
-blood-bolt-boss: <a href="https://www.wowhead.com/spell=260879/blood-bolt" target="blank">Blood Bolt</a> # Kick
-creeping-rot: <a href="https://www.wowhead.com/spell=261498/creeping-rot" target="blank">Creeping Rot</a> # Frontal, be aware
-blood-mirror: <a href="https://www.wowhead.com/spell=264603/blood-mirror" target="blank">Blood Mirror</a> # Adds that mirrors the boss ability
-blood-effigy: <a href="https://www.wowhead.com/npc=134701/blood-effigy" target="blank">Blood Effigy</a> # The add => Splinter value // focus target
-sanguine-feast: <a href="https://www.wowhead.com/spell=264757/sanguine-feast" target="blank">Sanguine Feast</a> # TP and 4.5Yds swirl on a player location, move
+elder_leaxa: <a href="https://www.wowhead.com/npc=131318/elder-leaxa" target="blank">Elder Leaxa</a>
+taint_of_ghuun: <a href="https://www.wowhead.com/spell=260685/taint-of-ghuun" target="blank">Taint of G'huun</a> # DoT everytime a spell hits
+blood_bolt_boss: <a href="https://www.wowhead.com/spell=260879/blood-bolt" target="blank">Blood Bolt</a> # Kick
+creeping_rot: <a href="https://www.wowhead.com/spell=261498/creeping-rot" target="blank">Creeping Rot</a> # Frontal, be aware
+blood_mirror: <a href="https://www.wowhead.com/spell=264603/blood-mirror" target="blank">Blood Mirror</a> # Adds that mirrors the boss ability
+blood_effigy: <a href="https://www.wowhead.com/npc=134701/blood-effigy" target="blank">Blood Effigy</a> # The add => Splinter value // focus target
+sanguine_feast: <a href="https://www.wowhead.com/spell=264757/sanguine-feast" target="blank">Sanguine Feast</a> # TP and 4.5Yds swirl on a player location, move
 
 # Tantruming Puppy Notable Trash Mobs
-feral-bloodswarmer: <a href="https://www.wowhead.com/npc=133835/feral-bloodswarmer" target="blank">Feral Bloodswarmer</a>
-thirst-for-blood: <a href="https://www.wowhead.com/spell=266107/thirst-for-blood" target="blank">Thirst For Blood</a> # Fixate
-sonic-screech: <a href="https://www.wowhead.com/spell=266106/sonic-screech" target="blank">Sonic Screech</a> # Kick // careful spell lock
+feral_bloodswarmer: <a href="https://www.wowhead.com/npc=133835/feral-bloodswarmer" target="blank">Feral Bloodswarmer</a>
+thirst_for_blood: <a href="https://www.wowhead.com/spell=266107/thirst-for-blood" target="blank">Thirst For Blood</a> # Fixate
+sonic_screech: <a href="https://www.wowhead.com/spell=266106/sonic-screech" target="blank">Sonic Screech</a> # Kick // careful spell lock
 
-living-rot: <a href="https://www.wowhead.com/npc=133852/living-rot" target="blank">Living Rot</a>
-wave-of-decay: <a href="https://www.wowhead.com/spell=265668/wave-of-decay" target="blank">Wave of Decay</a> # Low Priority kick
-foul-sludge: <a href="https://www.wowhead.com/spell=265665/foul-sludge" target="blank">Foul Sludge</a> # 4yds green swirl
+living_rot: <a href="https://www.wowhead.com/npc=133852/living-rot" target="blank">Living Rot</a>
+wave_of_decay: <a href="https://www.wowhead.com/spell=265668/wave-of-decay" target="blank">Wave of Decay</a> # Low Priority kick
+foul_sludge: <a href="https://www.wowhead.com/spell=265665/foul-sludge" target="blank">Foul Sludge</a> # 4yds green swirl
 
-diseased-lasher: <a href="https://www.wowhead.com/npc=133870/diseased-lasher" target="blank">Diseased Lasher</a>
-decaying-mind: <a href="https://www.wowhead.com/spell=278961/decaying-mind" target="blank">Decaying Mind</a> # Must kick or disease dispel
+diseased_lasher: <a href="https://www.wowhead.com/npc=133870/diseased-lasher" target="blank">Diseased Lasher</a>
+decaying_mind: <a href="https://www.wowhead.com/spell=278961/decaying-mind" target="blank">Decaying Mind</a> # Must kick or disease dispel
 
 # Cragmaw the Infested
 cragmaw: <a href="https://www.wowhead.com/npc=131817/cragmaw-the-infested" target="blank">Cragmaw the Infested</a>
 infested: <a href="https://www.wowhead.com/spell=260477/infested" target="blank">Infested</a> # Makes ticks spawn
-blood-tick-larva: <a href="https://www.wowhead.com/npc=132080/blood-tick-larva" target="blank">Blood Tick Larva</a> # Must step on them
+blood_tick_larva: <a href="https://www.wowhead.com/npc=132080/blood-tick-larva" target="blank">Blood Tick Larva</a> # Must step on them
 metamorphosis: <a href="https://www.wowhead.com/spell=260416/metamorphosis" target="blank">Metamorphosis</a> # Stop cast by stepping on them
-blood-tick: <a href="https://www.wowhead.com/npc=132051/blood-tick" target="blank">Blood Tick</a> # Spawn by meta
-serrated-fangs: <a href="https://www.wowhead.com/spell=260455/serrated-fangs" target="blank">Serrated Fangs</a> # Tank Bleed
+blood_tick: <a href="https://www.wowhead.com/npc=132051/blood-tick" target="blank">Blood Tick</a> # Spawn by meta
+serrated_fangs: <a href="https://www.wowhead.com/spell=260455/serrated-fangs" target="blank">Serrated Fangs</a> # Tank Bleed
 #blood_burst => On death explosion
 indigestion: <a href="https://www.wowhead.com/spell=260793/indigestion" target="blank">Indigestion</a> # Cone on tank
 charge: <a href="https://www.wowhead.com/spell=260292/charge" target="blank">Charge</a> # Bait into wall then dodge
 tantrum: <a href="https://www.wowhead.com/spell=260333/tantrum" target="blank">tantrum</a> # Goes for a walk in the room, set out to crush all larvaes
 
 # Shroomed troll Notable Trash Mobs
-reanimated-guardian: <a href="https://www.wowhead.com/npc=133836/reanimated-guardian" target="blank">Reanimated Guardian</a>
-bone-shield: <a href="https://www.wowhead.com/spell=266201/bone-shield" target="blank">Bone Shield</a> # Kick or Purge
+reanimated_guardian: <a href="https://www.wowhead.com/npc=133836/reanimated-guardian" target="blank">Reanimated Guardian</a>
+bone_shield: <a href="https://www.wowhead.com/spell=266201/bone-shield" target="blank">Bone Shield</a> # Kick or Purge
 
-fallen-deathspeaker: <a href="https://www.wowhead.com/npc=134284/fallen-deathspeaker" target="blank">Fallen Deathspeaker</a>
-raise-dead: <a href="https://www.wowhead.com/spell=272183/raise-dead" target="blank">Raise Dead</a> # Must Kick
-wicked-frenzy: <a href="https://www.wowhead.com/spell=266209/wicked-frenzy" target="blank">wicked-frenzy</a> # Hard CC delay or Soothe
+fallen_deathspeaker: <a href="https://www.wowhead.com/npc=134284/fallen-deathspeaker" target="blank">Fallen Deathspeaker</a>
+raise_dead: <a href="https://www.wowhead.com/spell=272183/raise-dead" target="blank">Raise Dead</a> # Must Kick
+wicked_frenzy: <a href="https://www.wowhead.com/spell=266209/wicked-frenzy" target="blank">Wicked Frenzy</a> # Hard CC delay or Soothe
 
-grotesque-horror: <a href="https://www.wowhead.com/npc=138187/grotesque-horror" target="blank">Grotesque Horror</a> # Immobile
-death-bolt: <a href="https://www.wowhead.com/spell=272180/death-bolt" target="blank">Death Bolt</a> # Must Kick
+grotesque_horror: <a href="https://www.wowhead.com/npc=138187/grotesque-horror" target="blank">Grotesque Horror</a> # Immobile
+death_bolt: <a href="https://www.wowhead.com/spell=272180/death-bolt" target="blank">Death Bolt</a> # Must Kick
 
-bloodsworn-defiler: <a href="https://www.wowhead.com/npc=133912/bloodsworn-defiler" target="blank">Bloodsworn Defiler</a>
-shadow-bolt-volley: <a href="https://www.wowhead.com/spell=265487/shadow-bolt-volley" target="blank">Shadow Bolt Volley</a> # Must Kick
-summon-spirit-drain-totem: <a href="https://www.wowhead.com/spell=265523/summon-spirit-drain-totem" target="blank">Summon Spirit Drain Totem</a> # 6Yds Move out of it and ignore, careful body pull
-withering-curse: <a href="https://www.wowhead.com/spell=265468/withering-curse" target="blank">Withering Curse</a> # Must Kick
+bloodsworn_defiler: <a href="https://www.wowhead.com/npc=133912/bloodsworn-defiler" target="blank">Bloodsworn Defiler</a>
+shadow_bolt_volley: <a href="https://www.wowhead.com/spell=265487/shadow-bolt-volley" target="blank">Shadow Bolt Volley</a> # Must Kick
+summon_spirit_drain_totem: <a href="https://www.wowhead.com/spell=265523/summon-spirit-drain-totem" target="blank">Summon Spirit Drain Totem</a> # 6Yds Move out of it and ignore, careful body pull
+withering_curse: <a href="https://www.wowhead.com/spell=265468/withering-curse" target="blank">Withering Curse</a> # Must Kick
 
 # Sporecaller Zancha
-sporecaller-zancha: <a href="https://www.wowhead.com/npc=131383/sporecaller-zancha" target="blank">Sporecaller Zancha</a>
-festering-harvest: <a href="https://www.wowhead.com/spell=259732/festering-harvest" target="blank">Festering Harvest</a> # AoE dam scaling with shrooms alive, clear if needed
-boundless-rot: <a href="https://www.wowhead.com/spell=259830/boundless-rot" target="blank">Boundless Rot</a> # summons shrooms
-spore-pod: <a href="https://www.wowhead.com/npc=131597/spore-pod" target="blank">Spore Pod</a> # Said shrooms
-decaying-spores: <a href="https://www.wowhead.com/spell=259714/decaying-spores" target="blank">Decaying Spores</a> # DoT From shroom explosion on walking into them
+sporecaller_zancha: <a href="https://www.wowhead.com/npc=131383/sporecaller-zancha" target="blank">Sporecaller Zancha</a>
+festering_harvest: <a href="https://www.wowhead.com/spell=259732/festering-harvest" target="blank">Festering Harvest</a> # AoE dam scaling with shrooms alive, clear if needed
+boundless_rot: <a href="https://www.wowhead.com/spell=259830/boundless-rot" target="blank">Boundless Rot</a> # summons shrooms
+spore_pod: <a href="https://www.wowhead.com/npc=131597/spore-pod" target="blank">Spore Pod</a> # Said shrooms
+decaying_spores: <a href="https://www.wowhead.com/spell=259714/decaying-spores" target="blank">Decaying Spores</a> # DoT From shroom explosion on walking into them
 shockwave: <a href="https://www.wowhead.com/spell=272457/shockwave" target="blank">Shockwave</a> # Frontal, use to destroy shrooms
 upheaval: <a href="https://www.wowhead.com/spell=259720/upheaval" target="blank">Upheaval</a> # 8yds AoE, use to destroy shrooms
-volatile-pods: <a href="https://www.wowhead.com/spell=273285/volatile-pods" target="blank">Volatile Pods</a> # Dodge balls
+volatile_pods: <a href="https://www.wowhead.com/spell=273285/volatile-pods" target="blank">Volatile Pods</a> # Dodge balls
 
 # Kiting hell Boss Notable Trash Mobs
-faceless-corruptor: <a href="https://www.wowhead.com/npc=138281/faceless-corruptor" target="blank">Faceless Corruptor</a>
-maddening-gaze: <a href="https://www.wowhead.com/spell=272609/maddening-gaze" target="blank">Maddening Gaze</a> # 4s cast Frontal, Tremor if somebody gets hit
-abyssal-reach: <a href="https://www.wowhead.com/spell=272592/abyssal-reach" target="blank">Abyssal Reach</a> # Summons Tendrils that do a frontal, move away
+faceless_corruptor: <a href="https://www.wowhead.com/npc=138281/faceless-corruptor" target="blank">Faceless Corruptor</a>
+maddening_gaze: <a href="https://www.wowhead.com/spell=272609/maddening-gaze" target="blank">Maddening Gaze</a> # 4s cast Frontal, Tremor if somebody gets hit
+abyssal_reach: <a href="https://www.wowhead.com/spell=272592/abyssal-reach" target="blank">Abyssal Reach</a> # Summons Tendrils that do a frontal, move away
 
 # Unbound Abomination
-unbound-abomination: <a href="https://www.wowhead.com/npc=133007/unbound-abomination" target="blank">Unbound Abomination</a>
-blood-barrier: <a href="https://www.wowhead.com/spell=269185/blood-barrier" target="blank">Blood Barrier</a> # Damage is converted into energy
-blood-visage: <a href="https://www.wowhead.com/npc=137103/blood-visage" target="blank">Blood Visage</a> # 2 Spawn at 100 energy,
-fatal-link: <a href="https://www.wowhead.com/spell=269692/fatal-link" target="blank">Fatal Link</a> # Only way to damage the boss HP
-vile-expulsion: <a href="https://www.wowhead.com/spell=269843/vile-expulsion" target="blank">Vile Expulsion</a> # Cone on Random player. Should be baited into the walls, leaves puddles
-rotting-spore: <a href="https://www.wowhead.com/npc=137458/rotting-spore" target="blank">Rotting Spore</a> # Kiting / passive cleave the blobs
-putrid-blood: <a href="https://www.wowhead.com/spell=269301/putrid-blood" target="blank">Putrid Blood</a> # Magic DoT, stacking infinitely (heal dispel or yellow zone)
+unbound_abomination: <a href="https://www.wowhead.com/npc=133007/unbound-abomination" target="blank">Unbound Abomination</a>
+blood_barrier: <a href="https://www.wowhead.com/spell=269185/blood-barrier" target="blank">Blood Barrier</a> # Damage is converted into energy
+blood_visage: <a href="https://www.wowhead.com/npc=137103/blood-visage" target="blank">Blood Visage</a> # 2 Spawn at 100 energy,
+fatal_link: <a href="https://www.wowhead.com/spell=269692/fatal-link" target="blank">Fatal Link</a> # Only way to damage the boss HP
+vile_expulsion: <a href="https://www.wowhead.com/spell=269843/vile-expulsion" target="blank">Vile Expulsion</a> # Cone on Random player. Should be baited into the walls, leaves puddles
+rotting_spore: <a href="https://www.wowhead.com/npc=137458/rotting-spore" target="blank">Rotting Spore</a> # Kiting / passive cleave the blobs
+putrid_blood: <a href="https://www.wowhead.com/spell=269301/putrid-blood" target="blank">Putrid Blood</a> # Magic DoT, stacking infinitely (heal dispel or yellow zone)
 
-titan-keeper-hezrel: <a href="https://www.wowhead.com/npc=134419/titan-keeper-hezrel" target="blank">Titan Keeper Hezrel</a>
-purge-corruption: <a href="https://www.wowhead.com/spell=269406/purge-corruption" target="blank">Purge Corruption</a> # Can be good and bad. Will focus a blood visage and melt it but won't case anything else during the channel
-cleansing-light: <a href="https://www.wowhead.com/spell=269310/cleansing-light" target="blank">Cleansing Light</a> # On a player, AoE used to remove debuff and destroy grey puddles. Stack in it.
-holy-bolt: <a href="https://www.wowhead.com/spell=269312/holy-bolt" target="blank">Holy Bolt</a> # Random ST damage
+titan_keeper_hezrel: <a href="https://www.wowhead.com/npc=134419/titan-keeper-hezrel" target="blank">Titan Keeper Hezrel</a>
+purge_corruption: <a href="https://www.wowhead.com/spell=269406/purge-corruption" target="blank">Purge Corruption</a> # Can be good and bad. Will focus a blood visage and melt it but won't case anything else during the channel
+cleansing_light: <a href="https://www.wowhead.com/spell=269310/cleansing-light" target="blank">Cleansing Light</a> # On a player, AoE used to remove debuff and destroy grey puddles. Stack in it.
+holy_bolt: <a href="https://www.wowhead.com/spell=269312/holy-bolt" target="blank">Holy Bolt</a> # Random ST damage

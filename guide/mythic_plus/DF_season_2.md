@@ -23,7 +23,7 @@ Information on this page is written with the assumption that you understand the 
 
 This guide is intended to help you identify critical mobs and abilities as well as improve your mechanical literacy in using your toolkit as an Elemental Shaman in each dungeon. If you have suggestions to improve the information in this guide please contact Eokira#7823 using the [Earthshrine Elemental channel](https://discord.gg/pGkPDzh7rP) or the [Storm, Earth & Lava discord](https://discord.gg/y5dUf3PWrU).
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Talents
 
@@ -54,7 +54,7 @@ Depending on the dungeon you are running and the group you're in, here is a list
 - {{ site.data.talent.static_charge }} will allow you to have {{ site.data.talent.capacitor_totem }} on every packs. Very useful to complement another Class AoE CC.
 - {{ site.data.talent.guardians_cudgel }} on the other hand, will be best used when you are the only AoE CC of the group, or if you need successive interrupts on a pack ({{ site.data.dungeon.cos.blazing_imp }} in {{ site.data.dungeon.cos.cos }} for example).
 - {{ site.data.talent.brimming_with_life }} is still a 8% max HP, even if it has the worst design in our whole tree.
-- {{ site.data.talent.cleanse_spirit }} is used only in Temple of the Jade Serpent this season, you can spend that point elsewhere when you're not in it. Note that the healers that cannot remove Curses are: Discipline Priest, Holy Priest, Holy Paladin, and Mistweaver Monk.
+- {{ site.data.talent.cleanse_spirit }} is used only in Temple of the Jade Serpent this season, you can spend that point elsewhere when you're not in it. Note that the healers that cannot remove Curses are: {{ site.data.externals.monk }}, {{ site.data.externals.paladin }} and {{ site.data.externals.priest }}
 - {{ site.data.talent.hex }} can be used to control Patrol's pathing and as a hard CC in general.
 - {{ site.data.talent.thunderstorm }} has some niche uses to gather pulls or deal with {{ site.data.affixes.sanguine }}. It can also be used as a Hard CC but {{ site.data.talent.thundershock }} will be better in that case. It’s also not that easy to utilize for less experienced players as it requires good positioning and awareness of timings to actually interrupt casts.
 - {{ site.data.talent.totemic_focus }} is a nice passive that will make it less likely for your tank to kite out of {{ site.data.talent.lmt }}'s range. The duration and width on {{ site.data.talent.wrt }} can also be nice.
@@ -70,7 +70,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 *Note: Again, these become mandatory only in higher keys and can be skipped when you are not in the hardest version of m+.*
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Miscellaneous Tips
 
@@ -98,7 +98,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 * [Learn to log your dungeon runs!](https://www.warcraftlogs.com/help/start) Warcraft Logs filters dungeons with pull-by-pull analyses and records replays of dungeon runs. Having logs available to share is helpful for you to receive actionable feedback.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Affixes
 
@@ -128,7 +128,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 * {{ site.data.affixes.storming }}: Maintain your distance from mobs to avoid {{ site.data.affixes.storming }}. Use {{ site.data.talent.swg }} as needed in tight spaces or when maneuvering any mechanics.
 * {{ site.data.affixes.volcanic }}: Watch your feet. Use {{ site.data.talent.swg }} as needed to maintain your damage uptime while avoiding {{ site.data.affixes.volcanic_plume }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Dungeons
 
@@ -799,14 +799,111 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 </div>
 </div>
 
-# Underrot
+<div class="card">
+<div class="card-header" id="ur">
+<div data-toggle="collapse" data-target="#ur-collapse" aria-expanded="true" aria-controls="ur-collapse" class="dungeon-header ur"><h2>The Underrot</h2></div>
+</div>
+<div id="ur-collapse" class="collapse" aria-labelledby="ur" data-parent="#accordion">
+<div class="card-body" markdown="1">
 
+## Notable Talent choices
+* {{ site.data.talent.purge }}, as always, has some really good uses, notably to remove shields.
+* {{ site.data.talent.spirit_walk }} and {{ site.data.talent.thunderous_paws }} have some value to dispel slows and roots.
+
+<hr>
+
+### Blood Witch Notable Trash Mobs
+
+**{{ site.data.dungeon.ur.underrot_tick }}**
+* They will use {{ site.data.dungeon.ur.blood_burst }} on death. Be prepared to use {{ site.data.talent.as }} or {{ site.data.item.potion_rhp }} if you are going to die.
+
+**{{ site.data.dungeon.ur.fetid_maggot }}**
+* Dodge or hard-CC the {{ site.data.dungeon.ur.rotten_bile }} frontal.
+
+**{{ site.data.dungeon.ur.chosen_blood_matron }}**
+* Dodge the {{ site.data.dungeon.ur.savage_cleave }} frontal when she dashes near you.
+* {{ site.data.dungeon.ur.warcry }} will buff the nearby allies, making this mob a priority target.
+
+**{{ site.data.dungeon.ur.fanatical_headhunter }}**
+* Use {{ site.data.talent.spirit_walk }} or {{ site.data.talent.thunderous_paws }} to dispel {{ site.data.dungeon.ur.hooked_snare }}. This is important to be able to dodge {{ site.data.dungeon.ur.chosen_blood_matron }}'s {{ site.data.dungeon.ur.savage_cleave }}.
+* {{ site.data.dungeon.ur.barbed_spear}} does damage to a random target, be ready to use a defensive if you drop low.
+
+**{{ site.data.dungeon.ur.devout_blood_priest }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.dark_reconstitution }} in priority.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.blood_bolt }} and {{ site.data.dungeon.ur.gift_of_ghuun }} when possible.
+* Use {{ site.data.talent.purge}} to dispel {{ site.data.dungeon.ur.gift_of_ghuun }} when needed.
+
+**{{ site.data.dungeon.ur.befouled_spirit }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.harrowing_despair }} in priority.
+* Hard-CC to interrupt the {{ site.data.dungeon.ur.dark_omen }} channel. Use defensives and spread from your party if you cannot.
+
+<hr>
+
+## {{ site.data.dungeon.ur.elder_leaxa }}
+* {{ site.data.dungeon.ur.taint_of_ghuun }} will be applied whenever an ability hits you. Use defensives if you have many stacks on you.
+* At 100 energy, a {{ site.data.dungeon.ur.blood_effigy }} will be summoned by {{ site.data.dungeon.ur.blood_mirror }}. The {{ site.data.dungeon.ur.blood_effigy }} will cast the same spells as {{ site.data.dungeon.ur.elder_leaxa }}. Burst it down fast to make the fight easier.
+* Keep {{ site.data.spell.fs }} active on all targets at all times.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.blood_bolt_boss }}.
+* Dodge the {{ site.data.dungeon.ur.creeping_rot }} frontal and the {{ site.data.dungeon.ur.sanguine_feast }} that will be cast after she teleports to a new location.
+
+<hr>
+
+### Tantruming Puppy Notable Trash Mobs
+
+**{{ site.data.dungeon.ur.diseased_lasher }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.decaying_mind }} in top priority, especially if you don't have a disease dispel ({{ site.data.externals.monk }}, {{ site.data.externals.paladin }} and {{ site.data.externals.priest }}). Try to help healing the stunned player if a cast goes through.
+
+**{{ site.data.dungeon.ur.feral_bloodswarmer }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.sonic_screech }} when possible. Be sure to stop casting if you see the cast going through or you will get spell locked.
+* Use {{ site.data.talent.swg }} and your CC to kite when you're fixated by {{ site.data.dungeon.ur.thirst_for_blood }}.
+
+**{{ site.data.dungeon.ur.living_rot }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.wave_of_decay }} in lowest priority.
+* Dodge {{ site.data.dungeon.ur.foul_sludge }} swirlies.
+
+<hr>
+
+## {{ site.data.dungeon.ur.cragmaw }}
+* {{ site.data.dungeon.ur.taint_of_ghuun }}
+* {{ site.data.dungeon.ur.taint_of_ghuun }}
+
+<hr>
+
+### Shroomed Troll Notable Trash Mobs
+
+**{{ site.data.dungeon.ur.reanimated_guardian }}**
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge}}.
+
+<hr>
+
+## {{ site.data.dungeon.ur.sporecaller_zancha }}
+* {{ site.data.dungeon.ur.taint_of_ghuun }}
+* {{ site.data.dungeon.ur.taint_of_ghuun }}
+
+<hr>
+
+### Kiting hell Boss Notable Trash Mobs
+
+**{{ site.data.dungeon.ur.faceless_corruptor }}**
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge}}.
+
+<hr>
+
+## {{ site.data.dungeon.ur.unbound_abomination }}
+* {{ site.data.dungeon.ur.taint_of_ghuun }}
+* {{ site.data.dungeon.ur.taint_of_ghuun }}
+
+</div>
+</div>
+</div>
 </div>
 </div>
 
 <br>
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Useful WeakAuras
 
@@ -816,7 +913,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * [Mythic+ Auto Marker](https://wago.io/1ctv3b91K) by Megawatt
 * [Mythic+ Timer](https://wago.io/M+Timer) by Reloe
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Additional Resources
 
