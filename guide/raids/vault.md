@@ -23,7 +23,7 @@ This guide was made possible by:
 
 The tips and recommendations listed here are based on educated opinions from PTR raid testing and reviewing logs and videos, so strategies can change as we develop a better understanding of each fight or as the spec and bosses are tuned. If you have any disagreements, feedback, or questions, please feel welcome to reach out to the team.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Miscellaneous Tips
 - Recommendations that include {{ site.data.talent.if }} are written with the assumption that you have access to {{ site.data.spell.frs }}, the same applies to {{ site.data.talent.lmt }}, {{ site.data.talent.totemic_recall }} and {{ site.data.talent.call_of_the_elements }}.

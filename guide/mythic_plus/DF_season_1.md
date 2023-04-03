@@ -23,7 +23,7 @@ Information on this page is written with the assumption that you understand the 
 
 This guide is intended to help you identify critical mobs and abilities as well as improve your mechanical literacy in using your toolkit as an Elemental Shaman in each dungeon. If you have suggestions to improve the information in this guide please contact Eokira#7823 using the [Earthshrine Elemental channel](https://discord.gg/pGkPDzh7rP) or the [Storm, Earth & Lava discord](https://discord.gg/y5dUf3PWrU).
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Talents
 
@@ -69,7 +69,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 *Note: Again, these become mandatory only in higher keys and can be skipped when you are not in the hardest version of m+.*
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Miscellaneous Tips
 
@@ -97,7 +97,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 * [Learn to log your dungeon runs!](https://www.warcraftlogs.com/help/start) Warcraft Logs filters dungeons with pull-by-pull analyses and records replays of dungeon runs. Having logs available to share is helpful for you to receive actionable feedback.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Affixes
 
@@ -143,7 +143,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * During high stress situation, it might be best to clear the marks as soon as possible to avoid bad overlaps.
 * When running back after dying, consider waiting a bit before entering the 100 yards range of your party if they are still in battle. If you have the debuff on you, you would most likely kill your party and yourself.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Dungeons
 
@@ -166,7 +166,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * {{ site.data.talent.purge }} has some uses in the area before the last boss.
 * {{ site.data.talent.stoneskin_totem }} can be used in higher key for {{ site.data.dungeon.aa.crawth }}'s {{ site.data.dungeon.aa.savage_peck }} and {{ site.data.dungeon.aa.overgrown_ancient }}'s {{ site.data.dungeon.aa.splinterbark }} and {{ site.data.dungeon.aa.barkbreaker }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### Dungeon buffs
 
@@ -175,7 +175,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * {{ site.data.dungeon.aa.red_dragonfligh_pledge_pin }} is also an option in higher keys for survivability gain.
 * Do not pick {{ site.data.dungeon.aa.blue_dragonflight_pledge_pin }}. It gives rating and as such, it will be impacted by diminishing return.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.aa.vexamus }} Notable Trash Mobs
 
@@ -192,7 +192,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 **{{ site.data.dungeon.aa.arcane_ravager }}**
 * {{ site.data.dungeon.aa.arcane_ravager }} will jump on a random player with {{ site.data.dungeon.aa.vicious_ambush }} and cast a {{ site.data.dungeon.aa.riftbreath }} frontal. Beware of it at all times and use {{ site.data.talent.swg }} to reposition as needed.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.aa.vexamus }}
 
@@ -200,7 +200,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * Spread with {{ site.data.dungeon.aa.mana_bombs }} and try to drop pools along the walls.
 * Beware of {{ site.data.dungeon.aa.arcane_fissure }}, it does a lot of direct damage. Use {{ site.data.talent.as }} as needed. {{ site.data.talent.swg }} will allow you to keep uptime while dodging the swirlies.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.aa.crawth }} Notable Trash Mobs
 
@@ -213,7 +213,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.aa.call_of_the_flock }}.
 * Dodge the {{ site.data.dungeon.aa.gust }} frontal.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.aa.crawth }}
 
@@ -223,7 +223,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * Pick up wind orbs for 45% haste and a "cast while moving" buff for 20s. Do not overlap the orb buff with {{ site.data.talent.swg }}.
 * Try to be at full health before {{ site.data.dungeon.aa.deafening_screech }} or use {{ site.data.talent.as }}, especially at high {{ site.data.dungeon.aa.sonic_vulnerability }} stacks.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.aa.overgrown_ancient }} Notable Trash Mobs
 
@@ -237,7 +237,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * These mobs will charge on you with {{ site.data.dungeon.aa.darting_sting }}, do not be at max range to keep them near melees for uptime.
 * Consider using {{ site.data.talent.as }} at low health.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.aa.overgrown_ancient }}
 
@@ -248,7 +248,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * Hard switch on the {{ site.data.dungeon.aa.ancient_branch }} whenever it spawns.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.aa.healing_touch }} from {{ site.data.dungeon.aa.ancient_branch }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.aa.echo_of_doragosa }} Notable Trash Mobs
 
@@ -262,7 +262,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 **{{ site.data.dungeon.aa.ethereal_restorer }}**
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.aa.celestial_shield }} as soon as possible.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.aa.echo_of_doragosa }}
 
@@ -291,9 +291,9 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * {{ site.data.talent.guardians_cudgel }} and {{ site.data.talent.thunderstorm }} are very good hard CC to deal with the {{ site.data.dungeon.cos.blazing_imp }} packs.
 * {{ site.data.talent.stoneskin_totem }} can be used in higher key for {{ site.data.dungeon.cos.imacutya }}'s damage on the tank and {{ site.data.dungeon.cos.advisor_melandrus }}'s {{ site.data.dungeon.cos.slicing_maelstrom }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
-### {{ site.data.dungeon.cos.patrol_captain_gerdo }} Notable Trash Mobs
+### {{ site.data.dungeon.cos.patrol_captain_gerdo }} trash
 
 **{{ site.data.dungeon.cos.duskwatch_guard }}**
 * Dodge the {{ site.data.dungeon.cos.quelling_strike }} frontal.
@@ -319,7 +319,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 **{{ site.data.dungeon.cos.arcane_manifestation }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.cos.drain_magic }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.cos.patrol_captain_gerdo }}
 
@@ -330,7 +330,7 @@ The affixes {{ site.data.affixes.necrotic }} and {{ site.data.affixes.inspiring 
 * {{ site.data.dungeon.cos.streetsweeper }} will spawn orbs that do damage in a line after 3 seconds. Beware of {{ site.data.dungeon.cos.arcane_lockdown }} potentially slowing you.
 * Stay farther than 20 yards away to ignore {{ site.data.dungeon.cos.resonant_slash }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### Dungeon Buffs
 
@@ -338,7 +338,7 @@ The area before the second boss is full of items that players can interact with 
 Shamans can interact with the {{ site.data.dungeon.cos.waterlogged_scroll }} that is accessible near the fountain to give 35% movement speed to their party.
 You can find a complete list of all of the accessible items and buff on [this link](https://www.wowhead.com/guide/mythic-plus-dungeons/court-of-stars-strategy#overview-dungeon-buffs).
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.cos.talixae_flamewreath }} Notable Trash Mobs
 
@@ -372,7 +372,7 @@ You can find a complete list of all of the accessible items and buff on [this li
 **{{ site.data.dungeon.cos.jazshariu }}**
 * Dodge the {{ site.data.dungeon.cos.crushing_leap_cos }} swirlies and the following {{ site.data.dungeon.cos.shockwave }} frontal.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.cos.talixae_flamewreath }}
 
@@ -380,7 +380,7 @@ You can find a complete list of all of the accessible items and buff on [this li
 * You can solo kick {{ site.data.dungeon.cos.withering_soul }}! Notify your group to avoid over-kicking. Your party will have more kicks for the {{ site.data.dungeon.cos.blazing_imp }} if needed.
 * Dodge the {{ site.data.dungeon.cos.infernal_eruption }} swirlies then blast the group of {{ site.data.dungeon.cos.blazing_imp }}. Use {{ site.data.talent.capacitor_totem }} if they are about to cast.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### Hide and Seek minigame
 
@@ -391,7 +391,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.cos.shadow_bolt_volley }}.
 * Use {{ site.data.talent.capacitor_totem }} or {{ site.data.talent.hex }} to interrupt the {{ site.data.dungeon.cos.hypnosis_bat }} cast.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.cos.advisor_melandrus }}
 
@@ -424,7 +424,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 * The bosses are pretty dangerous, notably in {{ site.data.affixes.tyrannical }}. Consider running {{ site.data.talent.spirit_wolf }} and {{ site.data.talent.brimming_with_life }} for extra survivability.
 * {{ site.data.talent.stoneskin_totem }} can be used in higher key for {{ site.data.dungeon.hov.hymdall }}'s {{ site.data.dungeon.hov.horn_of_valor }} and {{ site.data.dungeon.hov.fenryr }}'s {{ site.data.dungeon.hov.claw_frenzy }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.hov.hymdall }} Notable Trash Mobs
 
@@ -438,7 +438,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 * Watch out for the {{ site.data.dungeon.hov.lightning_breath }} frontal.
 * Dodge the {{ site.data.dungeon.hov.crackling_storm }} swirly and the following tornado. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.hov.hymdall }}
 
@@ -447,7 +447,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 * {{ site.data.dungeon.hov.horn_of_valor }} will call 3 drakes that will fill with lightning the 3 sections of the room one after the other. Always pay attention to these drakes and move to the correct spot to dodge the {{ site.data.dungeon.hov.static_field }} and the following {{ site.data.dungeon.hov.ball_lightning }}. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 * {{ site.data.dungeon.hov.horn_of_valor }} also does a lot of initial damage. Use {{ site.data.talent.as }} before it if you are not confident in your current HP.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.hov.hyrja }} Notable Trash Mobs
 
@@ -482,7 +482,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 * Dodge the orbs of light during {{ site.data.dungeon.hov.sanctify }}. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hov.searing_light }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.hov.hyrja }}
 
@@ -492,7 +492,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 * Dodge the orbs of light during {{ site.data.dungeon.hov.sanctify }}. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 * Don't be near your tank after {{ site.data.dungeon.hov.eye_of_the_storm }} and {{ site.data.dungeon.hov.sanctify }}, she will use {{ site.data.dungeon.hov.shield_of_light }}, a frontal beam on him.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.hov.fenryr }} Notable Trash Mobs
 
@@ -505,7 +505,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 **{{ site.data.dungeon.hov.ebonclaw_worg }}**
 * These mobs are super deadly. They buff themselves while pulled together then jump on ranged players with {{ site.data.dungeon.hov.leap_for_the_throat }}. Stay close to melee but spreaded and use {{ site.data.talent.as }} as required.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.hov.fenryr }}
 
@@ -514,7 +514,7 @@ Good luck for the mini-game ! Remember to pick up all of the clues, especially i
 * Kite the boss if you are targeted by {{ site.data.dungeon.hov.scent_of_blood }}. Be careful not to run into the remaining {{ site.data.dungeon.hov.ebonclaw_worg }} in the area. Use {{ site.data.talent.swg }} to keep uptime while kiting.
 * Spread when targeted with {{ site.data.dungeon.hov.ravenous_leap }}. Quickly come back to help soak {{ site.data.dungeon.hov.claw_frenzy }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.hov.god_king_skovald }} Notable Trash Mobs
 
@@ -564,7 +564,7 @@ The 4 kings in the area must be defeated for {{ site.data.dungeon.hov.god_king_s
 * The bosses are pretty dangerous, notably in {{ site.data.affixes.tyrannical }}. Consider running {{ site.data.talent.spirit_wolf }} and {{ site.data.talent.brimming_with_life }} for extra survivability.
 * {{ site.data.talent.stoneskin_totem }} can be used in higher key to reduce tank damage on the second and third boss.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.rlp.melidrussa_chillworn }} Notable Trash Mobs
 
@@ -583,7 +583,7 @@ The 4 kings in the area must be defeated for {{ site.data.dungeon.hov.god_king_s
 * Dodge his {{ site.data.dungeon.rlp.blazing_rush }} charge on a random player. Don't make him charge into the eggs in the area or {{ site.data.dungeon.rlp.infused_whelp }} will spawn.
 * Dodge the red swirlies created by {{ site.data.dungeon.rlp.steel_barrage }}. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.rlp.melidrussa_chillworn }}
 
@@ -593,7 +593,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Use {{ site.data.talent.as }} and {{ site.data.talent.ag }} during {{ site.data.dungeon.rlp.frost_overload }} to survive. Use CDs to quickly burst her shield.
 * The {{ site.data.dungeon.rlp.infused_whelp }} that spawn are not a priority DPS, but it's important that they die so the tank doesn't get stunned by {{ site.data.dungeon.rlp.cold_claws }}. You can arrange with your group for a single person to do AoE and the other DPS to funnel damage into {{ site.data.dungeon.rlp.melidrussa_chillworn }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.rlp.kokia_blazehoof }} Notable Trash Mobs
 
@@ -618,7 +618,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * {{ site.data.dungeon.rlp.molten_blood }} does ramping damage starting at 50% HP. Use {{ site.data.talent.ag }} to help the healer below that threshold.
 * Use {{ site.data.talent.as }} as required.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.rlp.kokia_blazehoof }}
 
@@ -632,7 +632,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 
 *Note:* Learning the timings to correctly bait the {{ site.data.dungeon.rlp.molten_boulder }} and {{ site.data.dungeon.rlp.ritual_of_blazebinding }} will make this fight significantly easier.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.rlp.kyrakka }} and {{ site.data.dungeon.rlp.erkhart_stormvein }} Notable Trash Mobs
 
@@ -657,7 +657,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * You want to use {{ site.data.talent.purge }} on {{ site.data.dungeon.rlp.primal_thundercloud }} **in priority** to remove as many {{ site.data.dungeon.rlp.tempest_barrier }} as possible.
 * Use {{ site.data.talent.ag }} and {{ site.data.talent.as }} to mitigate {{ site.data.dungeon.rlp.lightning_storm }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.rlp.kyrakka }} and {{ site.data.dungeon.rlp.erkhart_stormvein }}
 
@@ -685,7 +685,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * {{ site.data.talent.purge }} has some good uses, allowing you dispel big shields after the first boss notably.
 * {{ site.data.talent.tremor_totem }} can be used on the adds after the first boss.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.sbg.sadana_bloodfury }} Notable Trash Mobs
 
@@ -704,7 +704,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Get away from them when they teleport on you and cast {{ site.data.dungeon.sbg.cry_of_anguish }}.
 * Stay near the group so that they don't teleport too far.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.sbg.sadana_bloodfury }}
 
@@ -713,7 +713,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Immediately switch on the Defiled Soul when {{ site.data.dungeon.sbg.dark_communion_sbg }} starts. Remember to use {{ site.data.spell.fs }} on both targets. It's a good moment to gain extra value from {{ site.data.talent.splinter }}.
 * Enter a {{ site.data.dungeon.sbg.lunar_purity }} rune to reduce the damage of {{ site.data.dungeon.sbg.dark_eclipse }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.sbg.nhallish }} Notable Trash Mobs
 
@@ -729,7 +729,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.sbg.incorporeal }}.
 * {{ site.data.dungeon.sbg.death_blast }} will one-shot a party member in higher keys. It's a must interrupt !!
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.sbg.nhallish }}
 
@@ -738,7 +738,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * During {{ site.data.dungeon.sbg.soul_steal }}, you will be separated from your healer and take moderate damage. Use {{ site.data.talent.as }} and {{ site.data.item.potion_rhp }} as needed.
 * Use offensive CDs when you get the {{ site.data.dungeon.sbg.returned_soul }} buff after {{ site.data.dungeon.sbg.soul_steal }}.  If it's available, wait for your whole group to be back before using {{ site.data.spell.bl }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.sbg.bonemaw }} Notable Trash Mobs
 
@@ -752,7 +752,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * They will disappear at 20% health, don't use CDs at a bad timing.
 * Dodge {{ site.data.dungeon.sbg.body_slam }}. Use {{ site.data.talent.swg }} if needed.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.sbg.bonemaw }}
 
@@ -761,14 +761,14 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Beware of the additional {{ site.data.dungeon.sbg.body_slam }} coming from behind after the first {{ site.data.dungeon.sbg.inhale }}.
 * Use {{ site.data.spell.fs }} on all three targets when the {{ site.data.dungeon.sbg.carrion_worm }} come back. Try to use them for {{ site.data.talent.splinter }} value.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.sbg.nerzhul }}'s Elementals
 
 * The pack before {{ site.data.dungeon.sbg.nerzhul }} consists of two {{ site.data.dungeon.sbg.void_spawn }}, making it super deadly. You need to Line of Sight at least one of the {{ site.data.dungeon.sbg.void_pulse }} or you will likely die. You can do it either with the door at the entrance or with the altars on the side, which have small corners to hide.
 * Use everything at your disposal to survive : {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.talent.ag }}, {{ site.data.item.potion_rhp }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.sbg.nerzhul }}
 
@@ -796,7 +796,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * {{ site.data.talent.tremor_totem }} has some uses, notably to counter the fear sha if people do not kick, but it could be skipped.
 * {{ site.data.talent.purge }} has can be used a single time in the dungeon. Probably the best moment to drop it.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.tjs.wise_mari }} Notable Trash Mobs
 
@@ -807,7 +807,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Get out of the huge {{ site.data.dungeon.tjs.surging_deluge }} blue swirly.
 * Try to line of sight {{ site.data.dungeon.tjs.tainted_ripple }}. Use {{ site.data.talent.as }} if you get the debuff. Use {{ site.data.talent.ag }} to help your party member if any get the debuff.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.tjs.wise_mari }}
 
@@ -815,7 +815,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Move around the boss to dodge {{ site.data.dungeon.tjs.wash_away }}. Use {{ site.data.talent.swg }} to keep uptime while moving.
 * Time your movement to avoid the pulsing water from {{ site.data.dungeon.tjs.corrupted_geyser }}. [This weekaura](https://wago.io/RaFUBlICM) (by Absence) will tell you when {{ site.data.dungeon.tjs.corrupted_geyser }} will burst.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.tjs.strife }} and {{ site.data.dungeon.tjs.peril }} Notable Trash Mobs
 
@@ -846,7 +846,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.tjs.cat_nap }}.
 * Use {{ site.data.talent.as }} if you get targeted by {{ site.data.dungeon.tjs.savage_leap }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.tjs.strife }} and {{ site.data.dungeon.tjs.peril }}
 
@@ -855,7 +855,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Switch between {{ site.data.dungeon.tjs.strife }} and {{ site.data.dungeon.tjs.peril }} when {{ site.data.dungeon.tjs.intensity }} reaches 7 stacks.
 * {{ site.data.dungeon.tjs.feeling_of_superiority }} is a damage buff received randomly that can be exchanged by going on the current wearer of the buff. Use {{ site.data.talent.as }} when at high stack of {{ site.data.dungeon.tjs.feeling_of_superiority }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.tjs.liu_flameheart }} Notable Trash Mobs
 
@@ -873,7 +873,7 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 **{{ site.data.dungeon.tjs.minion_of_doubt }}**
 * Dodge the {{ site.data.dungeon.tjs.shattered_resolve }} black swirlies. Use {{ site.data.talent.cleanse_spirit }} to remove the curse it casts on anyone touched.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.tjs.liu_flameheart }}
 
@@ -882,13 +882,13 @@ to quickly leave the AoE.  Use {{ site.data.talent.swg }} to keep uptime while g
 * Don't be in front of the boss when she takes {{ site.data.dungeon.tjs.yulon }}'s form to passively dodge {{ site.data.dungeon.tjs.jade_fire_breath }}.
 * Dodge the green {{ site.data.dungeon.tjs.jade_fire }} swirly.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.tjs.sha_of_doubt }} Notable Trash Mobs
 
 The mobs before the last boss were all already present in the dungeon so they don't need additional explanations. The packs are nonetheless really difficult because of the mobs arrangement. They notably require a lot of interrupt and have many deadly mechanics. In {{ site.data.affixes.fortified }} weeks, you might want to keep {{ site.data.spell.bl }} for the last pack of the dungeon.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.tjs.sha_of_doubt }}
 
@@ -911,7 +911,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * {{ site.data.talent.gust_of_wind }} gives you extra mobility in the long corridors of the dungeon and allows you to execute the jump down skips without dying.
 * {{ site.data.talent.tremor_totem }} can make some packs less heavy on interrupt requirements but it isn't mandatory at all.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.av.leymor }} Notable Trash Mobs
 
@@ -925,7 +925,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.av.erratic_growth }}.
 * Dodge {{ site.data.dungeon.av.wild_eruption }} purple swirlies and puddles. Use {{ site.data.talent.swg }} to keep uptime while moving.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.av.leymor }}
 
@@ -934,7 +934,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * {{ site.data.dungeon.av.erupting_fissure }} is a frontal on the tank that will transform {{ site.data.dungeon.av.ley_line_sprouts }} into {{ site.data.dungeon.av.bubbling_sapling }}. Don't be on him.
 * {{ site.data.dungeon.av.consuming_stomp }} will deal huge damage, increased by the number of {{ site.data.dungeon.av.ley_line_sprouts }} active. Use {{ site.data.talent.as }} and {{ site.data.talent.ag }} as needed.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.av.azureblade }} Notable Trash Mobs
 
@@ -965,7 +965,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 **{{ site.data.dungeon.av.scalebane_lieutenant }}**
 * Don't be on the tank, {{ site.data.dungeon.av.spellfrost_breath }} cleaves.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.av.azureblade }}
 
@@ -977,7 +977,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * During {{ site.data.dungeon.av.overwhelming_energy }}, use {{ site.data.talent.swg }} to dodge the {{ site.data.dungeon.av.ancient_orb }} and burst the {{ site.data.dungeon.av.draconic_image }} as fast as possible.
 * Use offensive and defensive CDs during {{ site.data.dungeon.av.overwhelming_energy }}, this phase is the hardest by far.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.av.telash_greywing }} Notable Trash Mobs
 
@@ -988,7 +988,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 **{{ site.data.dungeon.av.nullmagic_hornswog }}**
 * {{ site.data.dungeon.av.null_stomp }} will make them jump to a random location, typically preferring to jump to farther players. Stay close melee as much as possible.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.av.telash_greywing }}
 
@@ -997,7 +997,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * Hide inside of a {{ site.data.dungeon.av.vault_rune }} during {{ site.data.dungeon.av.absolute_zero }}.
 * You should already be spreaded for {{ site.data.dungeon.av.icy_devastator }}, just use {{ site.data.talent.as }} if you are targeted.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.av.umbrelskul }}
 
@@ -1023,7 +1023,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * {{ site.data.talent.purge }} is very useful on the second boss, be sure to talent it if your group doesn't have one.
 * {{ site.data.talent.stoneskin_totem }} can be used in higher key for {{ site.data.dungeon.no.teera }}'s {{ site.data.dungeon.no.quick_shot }} and {{ site.data.dungeon.no.balakar_khan }}'s {{ site.data.dungeon.no.iron_spear }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.no.granyth }} Notable Trash Mobs
 
@@ -1042,7 +1042,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.no.disruptive_shout }}, stop casting if the cast is going through or you will be spell locked.
 * Stay farther than 8 yards away to ignore {{ site.data.dungeon.no.war_stomp }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.no.granyth }}
 * Have {{ site.data.spell.fs }} on all targets at all time.
@@ -1053,7 +1053,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 
 *Note:* Using {{ site.data.dungeon.no.dragonkiller_lance }} early will prevent the second {{ site.data.dungeon.no.shards_of_stone }} and reduce party damage by a lot.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.no.the_raging_tempest }} Notable Trash Mobs
 
@@ -1075,7 +1075,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * {{ site.data.dungeon.no.totemic_overload }} will deal party-wide damage and a few {{ site.data.dungeon.no.uncontrollable_energy }} will spawn. Step on the lightning orbs to get a 5% damage increase stacking.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.no.stormbolt }} if you are not kicking {{ site.data.dungeon.no.tempest }}.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.no.the_raging_tempest }}
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.no.energy_surge }}.
@@ -1085,7 +1085,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * Use {{ site.data.talent.as }} and {{ site.data.talent.ag }} to survive {{ site.data.dungeon.no.electrical_storm }}.
 * Don't go under the boss or {{ site.data.dungeon.no.the_raging_tempest_aoe }} will kill you.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.no.teera }} and {{ site.data.dungeon.no.maruuk }} Notable Trash Mobs
 
@@ -1110,7 +1110,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.no.death_bolt_volley }}. Assign a player to them if you have to.
 * Pick up your sould when targeted by {{ site.data.dungeon.no.shatter_soul }}. Use {{ site.data.talent.swg }} to keep uptime while doing it.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.no.teera }} and {{ site.data.dungeon.no.maruuk }}
 * Have {{ site.data.spell.fs }} up on both bosses at all times.
@@ -1120,7 +1120,7 @@ The mobs before the last boss were all already present in the dungeon so they do
 * Get ready to instantly use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.no.guardian_wind }} right after {{ site.data.dungeon.no.repel }}.
 * Dodge the brown swirlies during {{ site.data.dungeon.no.earthsplitter }}. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.no.balakar_khan }} Notable Trash Mobs
 
@@ -1133,7 +1133,7 @@ A common route skip most of the trash in Nokhudon Hold, as they are very innefic
 * Dodge {{ site.data.dungeon.no.vehement_charge }}.
 * Don't be on the tank, {{ site.data.dungeon.no.broad_stomp }} is a frontal on him.
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png"/></p>
+<hr>
 
 ### {{ site.data.dungeon.no.balakar_khan }}
 ### Phase 1
@@ -1162,7 +1162,7 @@ A common route skip most of the trash in Nokhudon Hold, as they are very innefic
 
 <br>
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Useful WeakAuras
 
@@ -1172,7 +1172,7 @@ A common route skip most of the trash in Nokhudon Hold, as they are very innefic
 * [Mythic+ Auto Marker](https://wago.io/1ctv3b91K) by Megawatt
 * [Mythic+ Timer](https://wago.io/M+Timer) by Reloe
 
-<p align="center"><img src="/assets/img/blog/bluelinebreak.png" width="130%"/></p>
+<hr>
 
 # Additional Resources
 
