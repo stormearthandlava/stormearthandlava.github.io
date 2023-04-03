@@ -112,7 +112,6 @@ emberon: <a href="https://www.wowhead.com/npc=184422/emberon" target="blank">Emb
 activate_keepers: <a href="https://www.wowhead.com/spell=369033/activate-keepers" target="blank">Activate Keepers</a> # spawns untargeteable adds that send magma balls
 vault_keeper: <a href="https://www.wowhead.com/npc=186107/vault-keeper" target="blank">Vault Keeper</a> # Adds
 seeking_flame: <a href="https://www.wowhead.com/spell=369049/seeking-flame" target="blank">Seeking Flame</a> # balls of fire sent by the add to dodge
-volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
 unstable_embers: <a href="https://www.wowhead.com/spell=369110/unstable-embers" target="blank">Unstable Embers</a> # Bomb spread 7yds all players
 searing_clap: <a href="https://www.wowhead.com/spell=369061/searing-clap" target="blank">Searing Clap</a> # frontal
 burning_heat: <a href="https://www.wowhead.com/spell=369006/burning-heat" target="blank">Burning Heat</a> # DoT on the party, magic dispeleable
@@ -142,7 +141,7 @@ stolen_time: <a href="https://www.wowhead.com/spell=377510/stolen-time" target="
 # Worth nothing that stun prevent the DoT from being applied, can give a window to reset stacks
 
 # Chrono-Lord Deios
-chrono_lord_deios: <a href="https://www.wowhead.com/npc=184125/chrono-lord-deios" target="blank">Chrono-Lord Deios</a> # frontal
+chrono_lord_deios: <a href="https://www.wowhead.com/npc=184125/chrono-lord-deios" target="blank">Chrono-Lord Deios</a>
 eternity_orb: <a href="https://www.wowhead.com/spell=376292/eternity-orb" target="blank">Eternity Orb</a> # swirl to dodge
 eternity_zone: <a href="https://www.wowhead.com/spell=376325/eternity-zone" target="blank">Eternity Zone</a> # puddle after swirl
 wing_buffet: <a href="https://www.wowhead.com/spell=376049/wing-buffet" target="blank">Wing Buffet</a> # Damage & knockback

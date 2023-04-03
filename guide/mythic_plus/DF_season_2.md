@@ -354,13 +354,13 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 <hr>
 
 ## {{ site.data.dungeon.hoi.watcher_irideus }}
-### Stage 1
+### Phase 1
 * Dodge the {{ site.data.dungeon.hoi.spark_volley }} blue swirlies. Use {{ site.data.talent.swg }} when needed to keep uptime while dodging.
 * Stay spreaded with {{ site.data.dungeon.hoi.power_overload }} debuff. Use {{ site.data.talent.as }} as needed to survive the DoT. Move out of the {{ site.data.dungeon.hoi.power_field }} that it leaves on the ground when removed.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.static_surge }}.  
 *TODO: Only the dungeon journal says that {{ site.data.dungeon.hoi.static_surge }} is interrupteable, must be checked.*
 
-### Stage 2
+### Intermission - Kill adds on shield
 * Wait until {{ site.data.dungeon.hoi.nullification_device }} are dragged onto {{ site.data.dungeon.hoi.watcher_irideus }} to kill them. Stay away from their {{ site.data.dungeon.hoi.nullifying_pulse }} on death explosion.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.purifying_blast }}.
 * The boss will be more deadly after its transition. Be ready to help your healer with your defensives and off-healing.
@@ -463,13 +463,12 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <hr>
 
 ## {{ site.data.dungeon.hoi.primal_tsunami }}
-
 ### Phase 1
 * Avoid the swirlies and spheres created by {{ site.data.dungeon.hoi.infused_globules }}. Use {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }} to remove the {{ site.data.dungeon.hoi.waterlogged }} debuff if you ever run into one.
 * Avoid the incoming {{ site.data.dungeon.hoi.rogue_waves }}.
 * Help your healer with {{ site.data.talent.ag }} during {{ site.data.dungeon.hoi.tempests_fury }}.
 
-### Phase 2
+### Intermission - Run back to the boss
 * You will be sent at the end of the bridge by {{ site.data.dungeon.hoi.cast_away }}.
 * Dodge the incoming {{ site.data.dungeon.hoi.crashing_tsunami }} and {{ site.data.dungeon.hoi.infused_globules }} to quickly run back. This is great time to use {{ site.data.talent.wrt }} and {{ site.data.talent.spirit_walk }}.
 * Kill the {{ site.data.dungeon.hoi.primalist_infuser }} to end this phase.
@@ -625,13 +624,14 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <hr>
 
 ## {{ site.data.dungeon.ntr.warlord_sargha }}
+### Phase 1
 * {{ site.data.dungeon.ntr.molten_gold }} is a huge DoT on a random target. Be sure to use {{ site.data.talent.as }} if you get it.
 * Dodge the {{ site.data.dungeon.ntr.the_dragons_kiln }} frontal cone.
 * Dodge the swirly from {{ site.data.dungeon.ntr.burning_ember }}. Use {{ site.data.talent.swg }} to kite the {{ site.data.dungeon.ntr.raging_ember }} that spawns if it focuses on you.
 * While {{ site.data.dungeon.ntr.magma_shield }} is active, {{ site.data.dungeon.ntr.flame_eruption }} will deal party wide ramping damage.  
 *To Test: Does {{ site.data.talent.ag }} work with the curse items.*
 
-### Intermission
+### Intermission - Break shield with Items
 * {{ site.data.dungeon.ntr.magma_shield }} is the main mechanic of the fight. After the boss casts it, multiple piles of gold will spawn around the room.
 * Clicking on those piles will apply the {{ site.data.dungeon.ntr.curse_of_the_dragon_hoard }} curse that you need to dispel as soon as possible with {{ site.data.talent.cleanse_spirit }}.
 * You will gain an item usable with an extra button that will deal huge damage to {{ site.data.dungeon.ntr.magma_shield }}. Here's a list of them:
@@ -713,43 +713,87 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 ### Serpentine Keeper Notable Trash Mobs
 
-**{{ site.data.dungeon.udm.example }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.example }} on the buffed enemy.
+**{{ site.data.dungeon.udm.earthen_custodian }}**
+* Don't be on the tank, {{ site.data.dungeon.udm.cleave }} cleaves (duh).
+
+**{{ site.data.dungeon.udm.refti_custodian }}**
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.ancient_power }}.
+*TODO: Check if this is indeed purgeable. Wowhead says "remove the debuff" in their guide but doesn't say how and the spell isn't flagged as a magic buff*
 
 <hr>
 
 ## {{ site.data.dungeon.udm.sentinel_talondras }}
-*
-*
+* Due to {{ site.data.dungeon.udm.ancient_dynamo }}, the boss must be stunned to counter {{ site.data.dungeon.udm.titanic_empowerment }} at 100 energy.
+* The tank must kite the boss through {{ site.data.dungeon.udm.resonating_orb }} to get rid of {{ site.data.dungeon.udm.inexorable }} and eventually stun it.
+* You must dodge {{ site.data.dungeon.udm.resonating_orb }} at all cost or you will be unable to stun the boss. Try to stay close to the tank to bait the orbs close enough.
+* {{ site.data.dungeon.udm.crushing_stomp }} will deal physical damage and knock you back. Stay clear of {{ site.data.dungeon.udm.resonating_orb }} and use a defensive as needed. This is a good place to use {{ site.data.talent.stoneskin_totem }} if talented. *TODO: Check if this spelllocks or is just a knockback.*
+* {{ site.data.dungeon.udm.unrelenting }} makes the fight scaling over time each time you stun the boss, be sure to use your defensives on {{ site.data.dungeon.udm.crushing_stomp }} at higher stack.
 
 <hr>
 
 ### Fire Keeper Notable Trash Mobs
 
-**{{ site.data.dungeon.udm.example }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.example }} on the buffed enemy.
+**{{ site.data.dungeon.udm.earthen_weaver }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.stone_bolt }}.
+* Use a hard CC to block cast {{ site.data.dungeon.udm.hail_of_stone }}, a channel that will do a lot of damage on the group.
+
+**{{ site.data.dungeon.udm.runic_protector }}**
+* {{ site.data.dungeon.udm.earthquake }} will deal unavoidable party wide damage. Use {{ site.data.talent.as }} as needed and {{ site.data.talent.ag }} or {{ site.data.talent.stoneskin_totem }} to support your party.
+* Sidestep {{ site.data.dungeon.udm.fissuring_slam }} swirlies and puddles.
+
+**{{ site.data.dungeon.udm.earthen_warder }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.earthen_ward }}. You can also {{ site.data.talent.purge }} it off.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.curse_of_stone }}. You must use {{ site.data.talent.cleanse_spirit }} to remove it off from your party if needed.
+
+**{{ site.data.dungeon.udm.skittering_crawler }}**
+* They will jump on a random target with {{ site.data.dungeon.udm.ambush }}. Stay close to melee for cleave purposes, but not in melee (see below).
+
+**{{ site.data.dungeon.udm.cavern_seeker }}**
+* Stay farther than 10 yds away to avoid {{ site.data.dungeon.data.udm.sonic_burst }} passively. Beware, it will spelllock you if you get hit while casting.
 
 <hr>
 
 ## {{ site.data.dungeon.udm.emberon }}
-*
-*
+### Phase 1
+* Dodge the {{ site.data.dungeon.udm.seeking_flame }} orbs flying around the room and the {{ site.data.dungeon.udm.searing_clap }} frontal.
+* Spread at 7yds with the {{ site.data.dungeon.udm.unstable_embers }} debuff.
+* Be ready to use a defensive when you get the {{ site.data.dungeon.udm.burning_heat }} DoT and your healer doesn't dispel you.
+
+### Intermission - Shield and rotating beam
+* Kill the 4 {{ site.data.dungeon.udm.vault_keeper }} to end the phase.
+* Boss goes immune in the middle of the room, creates a big {{ site.data.dungeon.udm.sacred_barrier }} around him.
+* Rotate around the room to dodge the {{ site.data.dungeon.udm.purging_flames }} rotating beam.
+* Be sure to not outrange your healer while going to the adds. {{ site.data.dungeon.udm.fire_wave }} will deal party wide damage, use {{ site.data.talent.ag }} as needed to help your party.
 
 <hr>
 
 ### Retcon Dragonflight Herald Notable Trash Mobs
 
-**{{ site.data.dungeon.udm.example }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.example }} on the buffed enemy.
+**{{ site.data.dungeon.udm.ebonstone_golem }}**
+* {{ site.data.dungeon.udm.thunderous_clap }} will deal unavoidable party wide damage. Use {{ site.data.talent.as }} as needed and {{ site.data.talent.ag }} to support your party. *TO DO: check if this can be outranged by being at 40 yds, wowhead says it probably can*
+
+**{{ site.data.dungeon.udm.earthen_guardian }}**
+* Get out of the dome created by {{ site.data.dungeon.udm.blessing_of_tyr }} as it will deal damage to you. Your tank should kite the mobs out of it as they will get buffed. You can use {{ site.data.talent.thunderstorm }} if talented to help.
+
+**{{ site.data.dungeon.udm.infinite_agent }}**
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.udm.hasten }}.
+
+**{{ site.data.dungeon.udm.infinite_timereaver }}**
+* {{ site.data.dungeon.udm.stolen_time }} is a stacking DoT that you get while in combat with an {{ site.data.dungeon.udm.infinite_timereaver }}. Don't engage too many of them at once. Use {{ site.data.talent.as }} and assist your healer with {{ site.data.talent.ag }} when needed. Also, stuns prevent the DoT from being applied and can give you a window to reset stacks.
 
 <hr>
 
 ## {{ site.data.dungeon.udm.chrono_lord_deios }}
-*
-*
+### Phase 1
+* Dodge {{ site.data.dungeon.udm.eternity_orb }} swirlies and the following {{ site.data.dungeon.udm.eternity_zone }} puddles.
+* Be prepared for {{ site.data.dungeon.udm.wing_buffet }}'s damage and knockback. Make sure that you aren't knocked into an {{ site.data.dungeon.udm.eternity_zone }}.
+* Don't be on the tank, {{ site.data.dungeon.udm.sand_breath }} is a frontal on him.
+* {{ site.data.dungeon.udm.time_sink }} is a DoT that will trigger {{ site.data.dungeon.udm.time_eruption }} when dispelled or on expiration. Use {{ site.data.talent.as }} as needed and make sure that you aren't knocked into an {{ site.data.dungeon.udm.eternity_zone }}.
+
+### Intermission - Burn phase
+* The boss will cast {{ site.data.dungeon.udm.rewind_timeflow }} for 12s, dealing party damage and transforming {{ site.data.dungeon.udm.eternity_orb }}s and {{ site.data.dungeon.udm.eternity_zone }}s into {{ site.data.dungeon.udm.temporal_orb }}s and {{ site.data.dungeon.udm.temporal_zone }}s.
+* While {{ site.data.dungeon.udm.temporal_orb }}s do nothing, {{ site.data.dungeon.udm.temporal_zone }}s give you a 50% haste buff so be sure to stand in them as much as possible.
+* This phase is the best moment to use {{ site.data.talent.ag }}.
 
 </div>
 </div>
