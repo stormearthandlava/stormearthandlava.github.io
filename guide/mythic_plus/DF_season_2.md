@@ -146,6 +146,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 ### Notable Talent Choices
 * {{ site.data.talent.tremor_totem }} can be very useful to prevent catastrophic situations with {{ site.data.dungeon.bh.hideous_cackle }}. It is recommended but not mandatory.
+* {{ site.data.talent.purge }} is good as always in dungeon.
 
 <hr>
 
@@ -316,7 +317,79 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 </div>
 </div>
 
-# Freehold
+<div class="card">
+<div class="card-header" id="fh">
+<div data-toggle="collapse" data-target="#fh-collapse" aria-expanded="true" aria-controls="fh-collapse" class="dungeon-header fh"><h2>Freehold</h2></div>
+</div>
+<div id="fh-collapse" class="collapse" aria-labelledby="fh" data-parent="#accordion">
+<div class="card-body" markdown="1">
+
+### Notable Talent Choices
+* {{ site.data.talent.purge }} has some uses but could be skipped for other utilities..
+
+<hr>
+
+### Shitting Parrot Notable Trash Mobs
+
+**{{ site.data.dungeon.fh.irontide_enforcer }}**
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge }}.
+
+<hr>
+
+## {{ site.data.dungeon.fh.skycapn_kragg }}
+* {{ site.data.dungeon.fh.irontide_enforcer }}
+* {{ site.data.dungeon.fh.irontide_enforcer }}
+
+<hr>
+
+### Captains betraying each other each week Notable Trash Mobs
+
+**{{ site.data.dungeon.fh.irontide_enforcer }}**
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge }}.
+
+<hr>
+
+## Council of Captains
+* {{ site.data.dungeon.fh.irontide_enforcer }}
+* {{ site.data.dungeon.fh.irontide_enforcer }}
+
+<hr>
+
+### ZZZ... Roleplay... Notable Trash Mobs
+
+**{{ site.data.dungeon.fh.irontide_enforcer }}**
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge }}.
+
+### Ring of Booty
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge }}.
+
+<hr>
+
+## {{ site.data.dungeon.fh.Trothak }}
+* {{ site.data.dungeon.fh.irontide_enforcer }}
+* {{ site.data.dungeon.fh.irontide_enforcer }}
+
+<hr>
+
+### Male Ashvane Notable Trash Mobs
+
+**{{ site.data.dungeon.fh.irontide_enforcer }}**
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge }}.
+
+<hr>
+
+## {{ site.data.dungeon.fh.harlan_sweete }}
+* {{ site.data.dungeon.fh.irontide_enforcer }}
+* {{ site.data.dungeon.fh.irontide_enforcer }}
+
+</div>
+</div>
+</div>
 
 <div class="card">
 <div class="card-header" id="hoi">
@@ -654,6 +727,10 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <div class="card-body" markdown="1">
 
 ### Notable Talent Choices
+* {{ site.data.talent.purge }}
+* {{ site.data.talent.stoneskin_totem }}
+* {{ site.data.talent.cleanse_spirit }}
+* {{ site.data.talent.hex }} on the second boss?
 
 <hr>
 
@@ -685,7 +762,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * {{ site.data.dungeon.udm.dagger_throw }} targets a random player, try to stay outside of killing range or use defensives when needed.
 
 ### {{ site.data.dungeon.udm.olaf }}
-* Stay spreaded 5yds away from your teamate to avoid the bounces from {{ site.data.dungeon.udm.ricocheting_shield }}.
+* Stay spreaded 5yds away from your party to avoid the bounces from {{ site.data.dungeon.udm.ricocheting_shield }}.
 * use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.defensive_bulwark }}.
 
 
@@ -807,8 +884,9 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <div class="card-body" markdown="1">
 
 ## Notable Talent choices
-* {{ site.data.talent.purge }}, as always, has some really good uses, notably to remove shields.
+* {{ site.data.talent.purge }}, as always, has some really good uses.
 * {{ site.data.talent.spirit_walk }} and {{ site.data.talent.thunderous_paws }} have some value to dispel slows and roots.
+* {{ site.data.talent.cleanse_spirit }} can be used to help your party if case some kicks are missed.
 
 <hr>
 
@@ -864,36 +942,56 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <hr>
 
 ## {{ site.data.dungeon.ur.cragmaw }}
-* {{ site.data.dungeon.ur.taint_of_ghuun }}
-* {{ site.data.dungeon.ur.taint_of_ghuun }}
+* Each and every of his abilities will spawn some {{ site.data.dungeon.ur.blood_tick_larva }} that will drop on the ground. You need to step on them before they finish their {{ site.data.dungeon.ur.metamorphosis }} cast. Otherwise, be prepared to use a defensive when they die because of their {{ site.data.dungeon.ur.blood_burst }} ability.
+* Don't be on the tank, {{ site.data.dungeon.ur.indigestion }} is a frontal cone on them (they can side step it).
+* Stand close to a wall to bait {{ site.data.dungeon.ur.charge }} into it, dropping {{ site.data.dungeon.ur.blood_tick_larva }} close to your party.
+* During {{ site.data.dungeon.ur.tantrum }}, the boss will run around in the room, doing big damage on the party and dropping {{ site.data.dungeon.ur.blood_tick_larva }} everywhere in the room. Use a defensive, aid your healer with {{ site.data.talent.ag }} combined with {{ site.data.talent.swg }} and be sure to help your party stepping on the {{ site.data.dungeon.ur.blood_tick }}s.
 
 <hr>
 
 ### Shroomed Troll Notable Trash Mobs
 
 **{{ site.data.dungeon.ur.reanimated_guardian }}**
-* Use {{ site.data.spell.wind_shear }}.
-* Use {{ site.data.talent.purge}}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.bone_shield }} and {{ site.data.talent.purge}} to remove it.
+
+**{{ site.data.dungeon.ur.fallen_deathspeaker }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.raise_dead }} at all cost or you will get an extra add.
+* Use hard CC to delay the cast of {{ site.data.dungeon.ur.wicked_frenzy }}.
+
+**{{ site.data.dungeon.ur.grotesque_horror }}**
+* These worms hide in the blood puddles and will be body pulled whenever somebody walks near them. Be sure to follow your group to not aggro extra count.
+* This mob is immobile.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.death_bolt }}.
+
+**{{ site.data.dungeon.ur.reanimated_guardian }}**
+* Move 7 yds away from the totem the totem summoned by {{ site.data.dungeon.ur.summon_spirit_drain_totem }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.withering_curse }} and {{ site.data.dungeon.ur.shadow_bolt_volley }}. Both of those cast must be interrupt so try to communicate with your team to make it more consistent. Use {{ site.data.talent.cleanse_spirit }} to remove {{ site.data.dungeon.ur.withering_curse }} when needed.
 
 <hr>
 
 ## {{ site.data.dungeon.ur.sporecaller_zancha }}
-* {{ site.data.dungeon.ur.taint_of_ghuun }}
-* {{ site.data.dungeon.ur.taint_of_ghuun }}
+* {{ site.data.dungeon.ur.boundless_rot }} will summon {{ site.data.dungeon.ur.spore_pod }}'s mushrooms around the arena. Use the boss' abilities to destroy them before they detonate with {{ site.data.dungeon.ur.festering_harvest }}.
+* Use a defensive for {{ site.data.dungeon.ur.festering_harvest }}
+* Don't be on the tank, {{ site.data.dungeon.ur.shockwave }} cleaves.
+* Use {{ site.data.dungeon.ur.upheaval }}'s AoE to destroy mushrooms, try to destroy as much as possible.
+* Dodge the {{ site.data.dungeon.ur.volatile_pods }}' spore flying around the room.
 
 <hr>
 
 ### Kiting hell Boss Notable Trash Mobs
 
 **{{ site.data.dungeon.ur.faceless_corruptor }}**
-* Use {{ site.data.spell.wind_shear }}.
-* Use {{ site.data.talent.purge}}.
+* {{ site.data.dungeon.ur.abyssal_reach }} will summon tendrils that do a frontal in front of them. Look around you and move out when required.
+* {{ site.data.dungeon.ur.abyssal_reach }} is a frontal that fear.
 
 <hr>
 
 ## {{ site.data.dungeon.ur.unbound_abomination }}
-* {{ site.data.dungeon.ur.taint_of_ghuun }}
-* {{ site.data.dungeon.ur.taint_of_ghuun }}
+* Due to {{ site.data.dungeon.ur.blood_barrier}}, damaging {{ site.data.dungeon.ur.unbound_abomination }} will fill it's energy bar until it gains 100 energy. It will then spawn 2 {{ site.data.dungeon.ur.blood_visage }}, hitting for the boss for 17% of his health on death with {{ site.data.dungeon.ur.fatal_link }}.
+* Bait {{ site.data.dungeon.ur.vile_expulsion }} then move through the boss to dodge the breath. You might get a puddle under your feets but it doesn't really matter, only the breath will heavily damage you.
+* The grey puddles created by {{ site.data.dungeon.ur.vile_expulsion }} will transform into {{ site.data.dungeon.ur.rotting_spore }} and will fly toward the party. You can use anything to keep them at bay, they will die in 1 hit. Dropping one {{ site.data.spell.eq }} when their number spiral out of control can be a good idea.
+* {{ site.data.dungeon.ur.putrid_blood }} will be a DoT applied over time to the whole party and is the soft enrage of the boss. You need to periodically dispel it, either with your heal's dispel or with {{ site.data.dungeon.ur.cleansing_light }} that will be cast on a random party member. Use defensives and {{ site.data.talent.ag }} when the stacks start ramping up.
+* If you get the {{ site.data.dungeon.ur.cleansing_light }} buff, be sure to stack in melee to help your party. Be careful, there will be no {{ site.data.dungeon.ur.cleansing_light }} cast while a {{ site.data.dungeon.ur.blood_visage }} is alive.
 
 </div>
 </div>

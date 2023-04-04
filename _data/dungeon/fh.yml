@@ -61,7 +61,7 @@ bilge_rat_padfoot: <a href="https://www.wowhead.com/npc=129550/bilge-rat-padfoot
 plague_step: <a href="https://www.wowhead.com/spell=257775/plague-step" target="blank">Plague Step</a> # Shadowstep, stay around melee
 
 bilge_rat_brinescale: <a href="https://www.wowhead.com/npc=129600/bilge-rat-brinescale" target="blank">Bilge Rat Brinescale</a> # Frontal
-frost-blast: <a href="https://www.wowhead.com/spell=257784/frost-blast" target="blank">Frost Blast</a> # Kick, Frontal
+frost_blast: <a href="https://www.wowhead.com/spell=257784/frost-blast" target="blank">Frost Blast</a> # Kick, Frontal
 water_bolt: <a href="https://www.wowhead.com/spell=281420/water-bolt" target="blank">Water Bolt</a> # Kick
 
 bilge_rat_buccaneer: <a href="https://www.wowhead.com/npc=129527/bilge-rat-buccaneer" target="blank">Bilge Rat Buccaneer</a>
@@ -129,10 +129,10 @@ ground_shatter: <a href="https://www.wowhead.com/spell=258199/ground-shatter" ta
 # Ring of booty
 lightning: <a href="https://www.wowhead.com/npc=130099/lightning" target="blank">Lightning</a> # GW is great
 
-ludwig-von-tortollan: <a href="https://www.wowhead.com/npc=129699/ludwig-von-tortollan" target="blank">Ludwig Von Tortollana> # will bully the tank (stoneskin?)
+ludwig_von_tortollan: <a href="https://www.wowhead.com/npc=129699/ludwig-von-tortollan" target="blank">Ludwig Von Tortollana> # will bully the tank (stoneskin?)
 shell_bounce: <a href="https://www.wowhead.com/spell=257904/shell-bounce" target="blank">Shell Bounce</a> # just open eyes and dodge
 
-Trothak: <a href="https://www.wowhead.com/npc=126969/trothak" target="blank">trothak</a>
+Trothak: <a href="https://www.wowhead.com/npc=126969/trothak" target="blank">Trothak</a>
 ripper_punch: <a href="https://www.wowhead.com/spell=256363/ripper-punch" target="blank">Ripper Punch</a> # random melee bleed
 shark_tornado: <a href="https://www.wowhead.com/spell=256405/shark-tornado" target="blank">Shark Tornado</a> # Stay away from melee
 shark_toss: <a href="https://www.wowhead.com/spell=256477/shark-toss" target="blank">Shark Toss</a> # Kite
@@ -159,7 +159,7 @@ harlan_sweete: <a href="https://www.wowhead.com/npc=129440/harlan-sweete" target
 cannon_barrage: <a href="https://www.wowhead.com/spell=257305/cannon-barrage" target="blank">Cannon Barrage</a> # kite away (together?)
 flaming_shrapnel: <a href="https://www.wowhead.com/spell=257308/flaming-shrapnel" target="blank">Flaming Shrapnel</a> # DoT from cannonballs
 fiery_debris: <a href="https://www.wowhead.com/spell=257460/fiery-debris" target="blank">Fiery Debris</a> # pool
-swiftwind-saber: <a href="https://www.wowhead.com/spell=257454/swiftwind-saber" target="blank">Swiftwind Saber</a> # stand back to the wall
+swiftwind_saber: <a href="https://www.wowhead.com/spell=257454/swiftwind-saber" target="blank">Swiftwind Saber</a> # stand back to the wall
 irontide_grenadier: <a href="https://www.wowhead.com/npc=129758/irontide-grenadier" target="blank">Irontide Grenadier</a>
 black_powder_bomb: <a href="https://www.wowhead.com/spell=257315/black-powder-bomb" target="blank">Black Powder Bomb</a> # Kamikaze
 loaded_dice_all_hands: <a href="https://www.wowhead.com/spell=257402/loaded-dice-all-hands" target="blank">Loaded Dice, All Hands</a> # now targets 3 people
