@@ -432,211 +432,221 @@ div.builds-header.lisfd {
   background-size: 20%;
 }
 
+// Cataclysm Dungeons
+div.dungeon-header.vp{
+  background-image: url('/assets/img/guide/cataclysm/vortex_pinnacle.png')
+}
+
+
 // MoP Dungeons
 div.dungeon-header.tjs {
-    background-image: url('/assets/img/guide/dungeons_mop/temple_of_the_jade_serpent.jpg')
+    background-image: url('/assets/img/guide/dungeons/mists_of_pandaria/temple_of_the_jade_serpent.jpg')
 }
 
 div.dungeon-header.sbg {
-    background-image: url('/assets/img/guide/dungeons_wod/shadowmoon_burial_grounds.jpg')
+    background-image: url('/assets/img/guide/dungeons/warlords_of_draenor/shadowmoon_burial_grounds.jpg')
 }
 
 // legion Dungeons
 div.dungeon-header.cos {
-    background-image: url('/assets/img/guide/dungeons_legion/court_of_stars.jpg')
+    background-image: url('/assets/img/guide/dungeons/legion/court_of_stars.jpg')
 }
 
 div.dungeon-header.hov {
-    background-image: url('/assets/img/guide/dungeons_legion/halls_of_valor.jpg')
+    background-image: url('/assets/img/guide/dungeons/legion/halls_of_valor.jpg')
+}
+
+div.dungeon-header.nl {
+    background-image: url('/assets/img/guide/dungeons/legion/neltharions_lair.png')
 }
 
 // BfA Dungeons
 div.dungeon-header.ad {
-  background-image: url('/assets/img/guide/dungeons_bfa/ataldazar.png')
+  background-image: url('/assets/img/guide/dungeons/battle_for_azeroth/ataldazar.png')
 }
 
 div.dungeon-header.fh {
-  background-image: url('/assets/img/guide/dungeons_bfa/freehold.png')
+  background-image: url('/assets/img/guide/dungeons/battle_for_azeroth/freehold.png')
 }
 
 div.dungeon-header.kr {
-  background-image: url('/assets/img/guide/dungeons_bfa/kingsrest.png')
+  background-image: url('/assets/img/guide/dungeons/battle_for_azeroth/kingsrest.png')
 }
 
 div.dungeon-header.sob {
-  background-image: url('/assets/img/guide/dungeons_bfa/siege_of_boralus.png')
+  background-image: url('/assets/img/guide/dungeons/battle_for_azeroth/siege_of_boralus.png')
 }
 
 div.dungeon-header.ml {
-  background-image: url('/assets/img/guide/dungeons_bfa/motherlode.png')
+  background-image: url('/assets/img/guide/dungeons/battle_for_azeroth/motherlode.png')
 }
 
 div.dungeon-header.sots {
-  background-image: url('/assets/img/guide/dungeons_bfa/shrine.png')
+  background-image: url('/assets/img/guide/dungeons/battle_for_azeroth/shrine.png')
 }
 
 div.dungeon-header.tos {
-  background-image: url('/assets/img/guide/dungeons_bfa/temple.png')
+  background-image: url('/assets/img/guide/dungeons/battle_for_azeroth/temple.png')
 }
 
 div.dungeon-header.td {
-  background-image: url('/assets/img/guide/dungeons_bfa/toldagor.png')
+  background-image: url('/assets/img/guide/dungeons/battle_for_azeroth/toldagor.png')
 }
 
 div.dungeon-header.ur {
-  background-image: url('/assets/img/guide/dungeons_bfa/underrot.png')
+  background-image: url('/assets/img/guide/dungeons/battle_for_azeroth/underrot.png')
 }
 
 div.dungeon-header.wm {
-  background-image: url('/assets/img/guide/dungeons_bfa/waycrest.png')
+  background-image: url('/assets/img/guide/dungeons/battle_for_azeroth/waycrest.png')
 }
 
 // SL Dungeons
 div.dungeon-header.top {
-  background-image: url('/assets/img/guide/dungeons_sl/theater_of_pain.png')
+  background-image: url('/assets/img/guide/dungeons/shadowlands/theater_of_pain.png')
 }
 
 div.dungeon-header.dos {
-  background-image: url('/assets/img/guide/dungeons_sl/de_other_side.png')
+  background-image: url('/assets/img/guide/dungeons/shadowlands/de_other_side.png')
 }
 
 div.dungeon-header.pf {
-  background-image: url('/assets/img/guide/dungeons_sl/plaguefall.png')
+  background-image: url('/assets/img/guide/dungeons/shadowlands/plaguefall.png')
 }
 
 div.dungeon-header.nw {
-  background-image: url('/assets/img/guide/dungeons_sl/necrotic_wake.png')
+  background-image: url('/assets/img/guide/dungeons/shadowlands/necrotic_wake.png')
 }
 
 div.dungeon-header.sd {
-  background-image: url('/assets/img/guide/dungeons_sl/sanguine_depths.png')
+  background-image: url('/assets/img/guide/dungeons/shadowlands/sanguine_depths.png')
 }
 
 div.dungeon-header.hoa {
-  background-image: url('/assets/img/guide/dungeons_sl/halls_of_atonement.png')
+  background-image: url('/assets/img/guide/dungeons/shadowlands/halls_of_atonement.png')
 }
 
 div.dungeon-header.soa {
-  background-image: url('/assets/img/guide/dungeons_sl/spires_of_ascension.png')
+  background-image: url('/assets/img/guide/dungeons/shadowlands/spires_of_ascension.png')
 }
 
 div.dungeon-header.mots {
-  background-image: url('/assets/img/guide/dungeons_sl/mists_of_tirna_scithe.png')
+  background-image: url('/assets/img/guide/dungeons/shadowlands/mists_of_tirna_scithe.png')
 }
 
 // DF Dungeons
 div.dungeon-header.aa {
-    background-image: url('/assets/img/guide/dungeons_df/algethar_academy.jpg')
+    background-image: url('/assets/img/guide/dungeons/dragonflight/algethar_academy.jpg')
 }
 
 div.dungeon-header.bh {
-    background-image: url('/assets/img/guide/dungeons_df/brackenhide_hollow.jpg')
+    background-image: url('/assets/img/guide/dungeons/dragonflight/brackenhide_hollow.jpg')
 }
 
 div.dungeon-header.hoi {
-    background-image: url('/assets/img/guide/dungeons_df/halls_of_infusion.png')
+    background-image: url('/assets/img/guide/dungeons/dragonflight/halls_of_infusion.png')
 }
 
 div.dungeon-header.ntr {
-    background-image: url('/assets/img/guide/dungeons_df/neltharus.jpg');
+    background-image: url('/assets/img/guide/dungeons/dragonflight/neltharus.jpg');
 }
 
 div.dungeon-header.rlp {
-    background-image: url('/assets/img/guide/dungeons_df/ruby_life_pools.jpg')
+    background-image: url('/assets/img/guide/dungeons/dragonflight/ruby_life_pools.jpg')
 }
 
 div.dungeon-header.av {
-    background-image: url('/assets/img/guide/dungeons_df/the_azure_vault.jpg')
+    background-image: url('/assets/img/guide/dungeons/dragonflight/the_azure_vault.jpg')
 }
 
 div.dungeon-header.no {
-    background-image: url('/assets/img/guide/dungeons_df/the_nokhud_offensive.jpg')
+    background-image: url('/assets/img/guide/dungeons/dragonflight/the_nokhud_offensive.jpg')
 }
 
 div.dungeon-header.udm {
-    background-image: url('/assets/img/guide/dungeons_df/uldaman.png')
+    background-image: url('/assets/img/guide/dungeons/dragonflight/uldaman.png')
 }
 
 // BfA raids
 div.raid-header.uldir {
-  background-image: url('/assets/img/guide/dungeons_bfa/uldir.png')
+  background-image: url('/assets/img/guide/raids/uldir/uldir.png')
 }
 
 // SL raids
 div.raid-header.castle_nathria {
-  background-image: url('/assets/img/guide/nathria/castle_nathria.png')
+  background-image: url('/assets/img/guide/raids/nathria/castle_nathria.png')
 }
 
 div.raid-header.sanctum_of_domination1 {
-  background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner01.PNG')
+  background-image: url('/assets/img/guide/raids/sanctum_of_domination/sodbanner01.PNG')
 }
 
 div.raid-header.sanctum_of_domination2 {
-  background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner02.PNG')
+  background-image: url('/assets/img/guide/raids/sanctum_of_domination/sodbanner02.PNG')
 }
 
 div.raid-header.sanctum_of_domination3 {
-  background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner03.PNG')
+  background-image: url('/assets/img/guide/raids/sanctum_of_domination/sodbanner03.PNG')
 }
 
 div.raid-header.sanctum_of_domination4 {
-  background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner04.PNG')
+  background-image: url('/assets/img/guide/raids/sanctum_of_domination/sodbanner04.PNG')
 }
 
 div.raid-header.sanctum_of_domination5 {
-  background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner05.PNG')
+  background-image: url('/assets/img/guide/raids/sanctum_of_domination/sodbanner05.PNG')
 }
 
 div.raid-header.sanctum_of_domination6 {
-  background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner06.PNG')
+  background-image: url('/assets/img/guide/raids/sanctum_of_domination/sodbanner06.PNG')
 }
 
 div.raid-header.sanctum_of_domination7 {
-  background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner07.PNG')
+  background-image: url('/assets/img/guide/raids/sanctum_of_domination/sodbanner07.PNG')
 }
 
 div.raid-header.sanctum_of_domination8 {
-  background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner08.PNG')
+  background-image: url('/assets/img/guide/raids/sanctum_of_domination/sodbanner08.PNG')
 }
 
 div.raid-header.sanctum_of_domination9 {
-  background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner09.PNG')
+  background-image: url('/assets/img/guide/raids/sanctum_of_domination/sodbanner09.PNG')
 }
 
 div.raid-header.sanctum_of_domination10 {
-  background-image: url('/assets/img/guide/sanctum_of_domination/sodbanner10.PNG')
+  background-image: url('/assets/img/guide/raids/sanctum_of_domination/sodbanner10.PNG')
 }
 
 div.raid-header.vault_of_the_incarnates1 {
-    background-image: url('/assets/img/guide/vault_of_the_incarnates/eranog.png');
+    background-image: url('/assets/img/guide/raids/vault_of_the_incarnates/eranog.png');
 }
 
 div.raid-header.vault_of_the_incarnates2 {
-    background-image: url('/assets/img/guide/vault_of_the_incarnates/terros.png');
+    background-image: url('/assets/img/guide/raids/vault_of_the_incarnates/terros.png');
 }
 
 div.raid-header.vault_of_the_incarnates3 {
-    background-image: url('/assets/img/guide/vault_of_the_incarnates/the_primal_council.png');
+    background-image: url('/assets/img/guide/raids/vault_of_the_incarnates/the_primal_council.png');
 }
 
 div.raid-header.vault_of_the_incarnates4 {
-    background-image: url('/assets/img/guide/vault_of_the_incarnates/sennarth_the_cold_breath.png');
+    background-image: url('/assets/img/guide/raids/vault_of_the_incarnates/sennarth_the_cold_breath.png');
 }
 
 div.raid-header.vault_of_the_incarnates5 {
-    background-image: url('/assets/img/guide/vault_of_the_incarnates/dathea_ascended.png');
+    background-image: url('/assets/img/guide/raids/vault_of_the_incarnates/dathea_ascended.png');
 }
 
 div.raid-header.vault_of_the_incarnates6 {
-    background-image: url('/assets/img/guide/vault_of_the_incarnates/kurog_grimtotem.png');
+    background-image: url('/assets/img/guide/raids/vault_of_the_incarnates/kurog_grimtotem.png');
 }
 
 div.raid-header.vault_of_the_incarnates7 {
-    background-image: url('/assets/img/guide/vault_of_the_incarnates/broodkeeper_diurna.png');
+    background-image: url('/assets/img/guide/raids/vault_of_the_incarnates/broodkeeper_diurna.png');
 }
 
 div.raid-header.vault_of_the_incarnates8 {
-    background-image: url('/assets/img/guide/vault_of_the_incarnates/raszageth_the_storm_eater.png');
+    background-image: url('/assets/img/guide/raids/vault_of_the_incarnates/raszageth_the_storm_eater.png');
 }
 
 div.dungeon-accordion div.card-header {
