@@ -707,7 +707,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 ## {{ site.data.dungeon.nl.rokmora }}
 * {{ site.data.dungeon.nl.brittle }} will cause {{ site.data.dungeon.nl.blightshard_skitter }} to spawn periodically. They will drop a {{ site.data.dungeon.nl.choking_dust }} on death, try to kill them out of way.
-* {{ site.data.dungeon.nl.shatter }} is a party wide AoE that will also cause {{ site.data.dungeon.nl.rupturing_skitter }}, meaning you have to kill the {{ site.data.dungeon.nl.blightshard_skitter }}s before it is cast.
+* {{ site.data.dungeon.nl.shatter }} is a party wide AoE that will also cause {{ site.data.dungeon.nl.rupturing_skitter }}, meaning you have to kill the {{ site.data.dungeon.nl.blightshard_skitter }}s before it is cast. Use {{ site.data.talent.as }} (and {{ site.data.}})
 * After each {{ site.data.dungeon.nl.shatter }}, the ground will be covered by {{ site.data.dungeon.nl.crystalline_ground }} for a few seconds, damaging you on movement.
 * Sidestep the {{ site.data.dungeon.nl.razor_shards }} frontal. It's a 45 yds frontal cone and that must be dodged to the side.
 
