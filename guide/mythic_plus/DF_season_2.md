@@ -666,7 +666,76 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 </div>
 </div>
 
-# Neltharion's Lair
+
+<div class="card">
+<div class="card-header" id="nl">
+<div data-toggle="collapse" data-target="#nl-collapse" aria-expanded="true" aria-controls="nl-collapse" class="dungeon-header nl"><h2>Neltharion's Lair</h2></div>
+</div>
+<div id="nl-collapse" class="collapse" aria-labelledby="nl" data-parent="#accordion">
+<div class="card-body" markdown="1">
+
+## Notable Talent Choices
+*
+
+<hr>
+
+### Rocky Dude Notable Trash Mobs
+**{{ site.data.dungeon.nl.rockback_gnasher }}**
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge }}.
+* Dodge {{ site.data.dungeon.nl.crush }}
+
+<hr>
+
+## {{ site.data.dungeon.nl.rokmora }}
+* Use {{ site.data.talent.ag }}
+* Dodge {{ site.data.dungeon.nl.crush }}
+
+<hr>
+
+### Drogbar Sorcerer Notable Trash Mobs
+**{{ site.data.dungeon.nl.rockback_gnasher }}**
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge }}.
+* Dodge {{ site.data.dungeon.nl.crush }}
+
+<hr>
+
+## {{ site.data.dungeon.nl.ularogg_cragshaper }}
+* Use {{ site.data.talent.ag }}
+* Dodge {{ site.data.dungeon.nl.crush }}
+
+<hr>
+
+### Bonemaw 2 Notable Trash Mobs
+**{{ site.data.dungeon.nl.rockback_gnasher }}**
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge }}.
+* Dodge {{ site.data.dungeon.nl.crush }}
+
+<hr>
+
+## {{ site.data.dungeon.nl.naraxas }}
+* Use {{ site.data.talent.ag }}
+* Dodge {{ site.data.dungeon.nl.crush }}
+
+<hr>
+
+# Big hammer to compensate Notable Trash Mobs
+**{{ site.data.dungeon.nl.rockback_gnasher }}**
+* Use {{ site.data.spell.wind_shear }}.
+* Use {{ site.data.talent.purge }}.
+* Dodge {{ site.data.dungeon.nl.crush }}
+
+<hr>
+
+## {{ site.data.dungeon.nl.dargrul }}
+* Use {{ site.data.talent.ag }}
+* Dodge {{ site.data.dungeon.nl.crush }}
+
+</div>
+</div>
+</div>
 
 <div class="card">
 <div class="card-header" id="ntr">
@@ -675,9 +744,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <div id="ntr-collapse" class="collapse" aria-labelledby="ntr" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Talents
-
-### Notable Talent Choices
+## Notable Talent Choices
 * {{ site.data.talent.cleanse_spirit }} is a mandatory talent for the last boss if your group doesn't have a curse dispel.
 * {{ site.data.talent.purge }} has some decent uses.
 
