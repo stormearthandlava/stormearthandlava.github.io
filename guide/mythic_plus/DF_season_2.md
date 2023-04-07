@@ -680,20 +680,41 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <hr>
 
 ### Rocky Dude Notable Trash Mobs
+
 **{{ site.data.dungeon.nl.rockback_gnasher }}**
-* Use {{ site.data.spell.wind_shear }}.
-* Use {{ site.data.talent.purge }}.
-* Dodge {{ site.data.dungeon.nl.crush }}
+* Use {{ site.data.spell.wind_shear }} to interrupt { site.data.dungeon.nl.stone_gaze }}.
+
+**{{ site.data.dungeon.nl.embershard_scorpion }}**
+* Just does Tank damage!
+
+**{{ site.data.dungeon.nl.understone_drudge }}**
+* These can easily be skipped by running in the water to the side (see this video). They only do tank damage anyway.
+
+**{{ site.data.dungeon.nl.vileshard_crawler }}**
+* {{ site.data.dungeon.nl.acid_splatter }} will spawn an acid pool on death.
+
+**{{ site.data.dungeon.nl.vileshard_chunk }}**
+* Stay farther than 10 yds away to passively dodge {{ site.data.dungeon.nl.crush }}, but don't be too far out of melee if a {{ site.data.dungeon.nl.tarspitter_lurker }} is in the pack (see below).
+
+**{{ site.data.dungeon.nl.tarspitter_lurker }}**
+* They will teleport behind a random player with {{ site.data.dungeon.nl.submerge }} then cast the {{ site.data.dungeon.nl.viscid_bile }} frontal. Don't be too far from melee for cleave purposes.
+* {{ site.data.dungeon.nl.rancid_ooze }} will spawn an acid pool on death.
+
+**{{ site.data.dungeon.nl.vileshard_hulk }}**
+* Sidestep the {{ site.data.dungeon.nl.piercing_shards }} frontal. It's a 45 yds frontal and that must be dodged to the side.
 
 <hr>
 
 ## {{ site.data.dungeon.nl.rokmora }}
-* Use {{ site.data.talent.ag }}
-* Dodge {{ site.data.dungeon.nl.crush }}
+* {{ site.data.dungeon.nl.brittle }} will cause {{ site.data.dungeon.nl.blightshard_skitter }} to spawn periodically. They will drop a {{ site.data.dungeon.nl.choking_dust }} on death, try to kill them out of way.
+* {{ site.data.dungeon.nl.shatter }} is a party wide AoE that will also cause {{ site.data.dungeon.nl.rupturing_skitter }}, meaning you have to kill the {{ site.data.dungeon.nl.blightshard_skitter }}s before it is cast.
+* After each {{ site.data.dungeon.nl.shatter }}, the ground will be covered by {{ site.data.dungeon.nl.crystalline_ground }} for a few seconds, damaging you on movement.
+* Sidestep the {{ site.data.dungeon.nl.razor_shards }} frontal. It's a 45 yds frontal cone and that must be dodged to the side.
 
 <hr>
 
 ### Drogbar Sorcerer Notable Trash Mobs
+
 **{{ site.data.dungeon.nl.rockback_gnasher }}**
 * Use {{ site.data.spell.wind_shear }}.
 * Use {{ site.data.talent.purge }}.
