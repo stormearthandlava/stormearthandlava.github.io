@@ -707,7 +707,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 ## {{ site.data.dungeon.nl.rokmora }}
 * {{ site.data.dungeon.nl.brittle }} will cause {{ site.data.dungeon.nl.blightshard_skitter }} to spawn periodically. They will drop a {{ site.data.dungeon.nl.choking_dust }} on death, try to kill them out of way.
-* {{ site.data.dungeon.nl.shatter }} is a party wide AoE that will also cause {{ site.data.dungeon.nl.rupturing_skitter }}, meaning you have to kill the {{ site.data.dungeon.nl.blightshard_skitter }}s before it is cast. Use {{ site.data.talent.as }} (and {{ site.data.}})
+* {{ site.data.dungeon.nl.shatter }} is a party wide AoE that will also cause {{ site.data.dungeon.nl.rupturing_skitter }}, meaning you have to kill the {{ site.data.dungeon.nl.blightshard_skitter }}s before it is cast. Use {{ site.data.talent.as }} (and {{ site.data.talent.stoneskin_totem }}) to survive the initial hit.
 * After each {{ site.data.dungeon.nl.shatter }}, the ground will be covered by {{ site.data.dungeon.nl.crystalline_ground }} for a few seconds, damaging you on movement.
 * Sidestep the {{ site.data.dungeon.nl.razor_shards }} frontal. It's a 45 yds frontal cone and that must be dodged to the side.
 
@@ -728,16 +728,16 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * In addition to being immobile, it will not stay still once packed, using {{ site.data.dungeon.nl.retreat }} to disengage.
 
 **{{ site.data.dungeon.nl.stoneclaw_hunter }}**
-* Stay farther than 10 yds away to ignore {{ site.data.dungeon.nl.stone_shatter }}.
+* Stay farther than 10 yds away to ignore {{ site.data.dungeon.nl.stone_shatter }}.
 * Whenever it uses {{ site.data.dungeon.nl.kill_command }}, a nearby {{ site.data.dungeon.nl.rockback_gnasher }} will use {{ site.data.dungeon.nl.stone_gaze }}. Be ready to interrupt it.
 
 **{{ site.data.dungeon.nl.blightshard_shaper }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.nl.stone_bolt }}.
-* It will summon a {{ site.data.dungeon.nl.petrifying_totem }} that will create a {{ site.data.dungeon.nl.petrifying_cloud }} around it. Touching the cloud once will affect you with a stacking debuff that will inflict you with {{ site.data.dungeon.nl.petrified }} at 10 stacks.
+* It will summon a {{ site.data.dungeon.nl.petrifying_totem }} that will create a {{ site.data.dungeon.nl.petrifying_cloud }} around it. Touching the cloud once will affect you with a stacking debuff that will inflict you with {{ site.data.dungeon.nl.petrified }} at 10 stacks. You need the healer to dispel you before it happens.
 
 **{{ site.data.dungeon.nl.burning_geode }}**
 * {{ site.data.dungeon.nl.blightshard_shaper }} are always accompagnied by a {{ site.data.dungeon.nl.burning_geode }}.
-* It will often cast {{ site.data.dungeon.nl.scorch }}, creating a swirl in the room that must be dodged.
+* It will often cast {{ site.data.dungeon.nl.scorch }}, creating a swirl that must be dodged.
 
 <hr>
 
