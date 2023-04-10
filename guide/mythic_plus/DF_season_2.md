@@ -406,10 +406,10 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <hr>
 ## Join a Crew
-* Depending on the week, one of the three captains will be your ally. Be sure to do the event in the area before the bossess or they will be buffed by {{ site.data.dungeon.fh.under_one_banner }}.
+* Depending on the week, one of the three captains will be your ally. Be sure to do the event in the area before the bosses or they will be buffed by {{ site.data.dungeon.fh.under_one_banner }}.
 
 ### Joining the Cutwater
-* You will need to get a key by clicking 4 times on {{ site.data.dungeon.fh.murphy }}, a dog pug. A stealthed player can solo this event, or you will need to do packs in the area to be able to click on {{ site.data.dungeon.fh.murphy }}.
+* You will need to get a key by clicking 4 times on {{ site.data.dungeon.fh.murphy }}, a dog pug. A player with stealth can solo this event, or you will need to do packs in the area to be able to click on {{ site.data.dungeon.fh.murphy }}.
 * You will gain {{ site.data.dungeon.fh.cutwater_regalia }} by freing {{ site.data.dungeon.fh.otis }} from his cage with the key {{ site.data.dungeon.fh.murphy }} gives you.
 * {{ site.data.dungeon.fh.cutwater_knife_juggler }}, {{ site.data.dungeon.fh.cutwater_duelist }}, {{ site.data.dungeon.fh.cutwater_harpooner }} and {{ site.data.dungeon.fh.captain_jolly }} will become friendly toward you.
 
@@ -682,7 +682,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 ### Rocky Dude Notable Trash Mobs
 
 **{{ site.data.dungeon.nl.rockback_gnasher }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt { site.data.dungeon.nl.stone_gaze }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.nl.stone_gaze }}.
 
 **{{ site.data.dungeon.nl.embershard_scorpion }}**
 * Just does Tank damage!
@@ -715,10 +715,29 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 ### Drogbar Sorcerer Notable Trash Mobs
 
-**{{ site.data.dungeon.nl.rockback_gnasher }}**
-* Use {{ site.data.spell.wind_shear }}.
-* Use {{ site.data.talent.purge }}.
-* Dodge {{ site.data.dungeon.nl.crush }}
+**{{ site.data.dungeon.nl.understone_drummer }}**
+* This enemy patrols the area. Whenever it enters combat, it will run to the nearest {{ site.data.dungeon.nl.drums_of_war }} and channel {{ site.data.dungeon.nl.war_drums }}, aggroing the nearby enemies and spawning additional ones.
+* Use {{ site.data.talent.hex }} to help your group staying undetected, and quickly kill this mob when engaged.
+
+**{{ site.data.dungeon.nl.mightstone_breaker }}**
+* Dodge {{ site.data.dungeon.nl.avalanche }}'s frontal and the following swirlies. Use {{ site.data.talent.swg }} to keep uptime while dodging.
+
+**{{ site.data.dungeon.nl.rockbound_pelter }}**
+* This is the most annoying mob of the area. It is both very immobile and very deadly.
+* Be prepared for the incoming damage of {{ site.data.dungeon.nl.jagged_disc }}, constantly dealing moderate damage to random group member. When in packs of 2 or 3 mobs, {{ site.data.dungeon.nl.jagged_disc }} going on the same person multiple times becomes deadly very fast.
+* In addition to being immobile, it will not stay still once packed, using {{ site.data.dungeon.nl.retreat }} to disengage.
+
+**{{ site.data.dungeon.nl.stoneclaw_hunter }}**
+* Stay farther than 10 yds away to ignore {{ site.data.dungeon.nl.stone_shatter }}.
+* Whenever it uses {{ site.data.dungeon.nl.kill_command }}, a nearby {{ site.data.dungeon.nl.rockback_gnasher }} will use {{ site.data.dungeon.nl.stone_gaze }}. Be ready to interrupt it.
+
+**{{ site.data.dungeon.nl.blightshard_shaper }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.nl.stone_bolt }}.
+* It will summon a {{ site.data.dungeon.nl.petrifying_totem }} that will create a {{ site.data.dungeon.nl.petrifying_cloud }} around it. Touching the cloud once will affect you with a stacking debuff that will inflict you with {{ site.data.dungeon.nl.petrified }} at 10 stacks.
+
+**{{ site.data.dungeon.nl.burning_geode }}**
+* {{ site.data.dungeon.nl.blightshard_shaper }} are always accompagnied by a {{ site.data.dungeon.nl.burning_geode }}.
+* It will often cast {{ site.data.dungeon.nl.scorch }}, creating a swirl in the room that must be dodged.
 
 <hr>
 
