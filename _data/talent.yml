@@ -210,8 +210,8 @@ lightning_lasso: <a href="https://www.wowhead.com/spell=305483/lightning-lasso" 
 maelstrom_weapon: <a href="https://www.wowhead.com/spell=187880/maelstrom-weapon" target="blank">Maelstrom Weapon</a>
 msw: <a href="https://www.wowhead.com/spell=187880/maelstrom-weapon" target="blank">Maelstrom Weapon</a>
 
-mana_spring_totem: <a href="https://www.wowhead.com/spell=381930/mana-spring-totem" target="blank">Mana Spring Totem</a>
-mst: <a href="https://www.wowhead.com/spell=381930/mana-spring-totem" target="blank">Mana Spring Totem</a>
+mana_spring: <a href="https://www.wowhead.com/spell=381930/mana-spring-totem" target="blank">Mana Spring</a>
+ms: <a href="https://www.wowhead.com/spell=381930/mana-spring-totem" target="blank">Mana Spring</a>
 
 natures_fury: <a href="https://www.wowhead.com/spell=381655/natures-fury" target="blank">Nature's Fury</a>
 
@@ -271,6 +271,8 @@ wrt: <a href="https://www.wowhead.com/spell=192077" target="blank">Wind Rush Tot
 winds_of_alakir: <a href="https://www.wowhead.com/spell=382215/winds-of-alakir" target="blank">Winds of Al'Alkir</a>
 
 # PvP
+burrow: <a href="https://www.wowhead.com/ptr/spell=409293/burrow" target="blank">Burrow</a>
+
 control_of_lava: <a href="https://www.wowhead.com/spell=204393" target="blank">Control of Lava</a>
 col: <a href="https://www.wowhead.com/spell=204393" target="blank">Control of Lava</a>
 
@@ -295,3 +297,5 @@ tidebringer: <a href="https://www.wowhead.com/spell=236501/tidebringer" target="
 traveling_storms: <a href="https://www.wowhead.com/spell=204403" target="blank">Traveling Storms</a>
 
 unleash_shield: <a href="https://www.wowhead.com/spell=356736/unleash-shield" target="blank">Unleash Shield</a>
+
+volcanic_surge: <a href="https://www.wowhead.com/ptr/spell=408572/volcanic-surge" target="blank">Volcanic Surge</a>
