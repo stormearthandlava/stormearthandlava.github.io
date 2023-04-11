@@ -675,7 +675,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <div class="card-body" markdown="1">
 
 ## Notable Talent Choices
-*
+* {{ site.data.talent.stoneskin_totem }} has value in higher keys. Many of the Party-wide damage spells and random ST damage spells are physical.
 
 <hr>
 
@@ -737,13 +737,14 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 **{{ site.data.dungeon.nl.burning_geode }}**
 * {{ site.data.dungeon.nl.blightshard_shaper }} are always accompagnied by a {{ site.data.dungeon.nl.burning_geode }}.
-* It will often cast {{ site.data.dungeon.nl.scorch }}, creating a swirl that must be dodged.
+* Dodge {{ site.data.dungeon.nl.scorch }} swirly.
 
 <hr>
 
 ## {{ site.data.dungeon.nl.ularogg_cragshaper }}
-* Use {{ site.data.talent.ag }}
-* Dodge {{ site.data.dungeon.nl.crush }}
+* {{ site.data.dungeon.nl.bellow_of_the_deeps }} will summon a {{ site.data.dungeon.nl.bellowing_idol }} that will cause {{ site.data.dungeon.nl.falling_debris }}, dealing party wide damage and swirls in the room. Quickly kill the totem whenever it spawns.
+* Dodge {{ site.data.dungeon.nl.strike_of_the_mountain }} hands by strafing out of it.
+* During {{ site.data.dungeon.nl.stance_of_the_mountain }}, the boss will hide in a totem among five and you need to follow the correct one to quickly end the phase. {{ site.data.dungeon.nl.falling_debris }} will happen until the boss is found. This is the best time to use {{ site.data.talent.ag }} to assist your group.
 
 <hr>
 
