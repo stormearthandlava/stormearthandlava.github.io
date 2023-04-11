@@ -749,10 +749,14 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <hr>
 
 ### Bonemaw 2 Notable Trash Mobs
-**{{ site.data.dungeon.nl.rockback_gnasher }}**
-* Use {{ site.data.spell.wind_shear }}.
-* Use {{ site.data.talent.purge }}.
-* Dodge {{ site.data.dungeon.nl.crush }}
+**{{ site.data.dungeon.nl.stoneclaw_grubmaster }}**
+* Stay farther than 10 yds away to ignore {{ site.data.dungeon.nl.stone_shatter }}.
+* Use {{ site.data.talent.as }} as needed to mitigate the damage of {{ site.data.dungeon.nl.leech }}.
+* Quickly CC and kill the {{ site.data.dungeon.nl.tarspitter_grub }} summoned by {{ site.data.dungeon.nl.worm_call }} before it finished its {{ site.data.dungeon.nl.metamorphosis }} cast, or it will transform into a {{ site.data.dungeon.nl.rotdrool_grabber }}.
+
+**{{ site.data.dungeon.nl.rotdrool_grabber }}**
+* Kite away when you are dragged in by {{ site.data.dungeon.nl.barbed_tongue }}. Use {{ site.data.talent.swg }} to keep uptime while kiting.
+* Use a defensive if you get dragged into {{ site.data.dungeon.nl.rancid_pool }}.
 
 <hr>
 
@@ -762,7 +766,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-# Big hammer to compensate Notable Trash Mobs
+### Big hammer to compensate Notable Trash Mobs
 **{{ site.data.dungeon.nl.rockback_gnasher }}**
 * Use {{ site.data.spell.wind_shear }}.
 * Use {{ site.data.talent.purge }}.
