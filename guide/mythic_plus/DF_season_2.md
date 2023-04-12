@@ -144,7 +144,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 <div id="bh-collapse" class="collapse" aria-labelledby="bh" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-### Notable Talent Choices
+## Notable Talent Choices
 * {{ site.data.talent.tremor_totem }} can be very useful to prevent catastrophic situations with {{ site.data.dungeon.bh.hideous_cackle }}. It is recommended but not mandatory.
 * {{ site.data.talent.purge }} is good as always in dungeon.
 
@@ -324,7 +324,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 <div id="fh-collapse" class="collapse" aria-labelledby="fh" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-### Notable Talent Choices
+## Notable Talent Choices
 * {{ site.data.talent.purge }} has some uses but could be skipped for other utilities..
 * {{ site.data.talent.hex }} has some uses for patrol control, hard CC break and add control on the last boss.
 
@@ -512,7 +512,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 <div id="hoi-collapse" class="collapse" aria-labelledby="hoi" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-### Notable Talent Choices
+## Notable Talent Choices
 * {{ site.data.talent.purge }} has some uses but could be skipped for other utilities.
 * {{ site.data.talent.spirit_walk }} has some uses but could be skipped for other utilities.
 * {{ site.data.talent.earthgrab_totem }} could be used in the frog area, but {{ site.data.talent.wrt }} is quite useful with the long corridors of the dungeon.
@@ -676,6 +676,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 ## Notable Talent Choices
 * {{ site.data.talent.stoneskin_totem }} has value in higher keys. Many of the Party-wide damage spells and random ST damage spells are physical.
+* {{ site.data.talent.purge }} is skippable in this dungeon, having no dispel available in the whole dungeon.
 
 <hr>
 
@@ -761,22 +762,39 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <hr>
 
 ## {{ site.data.dungeon.nl.naraxas }}
-* Use {{ site.data.talent.ag }}
-* Dodge {{ site.data.dungeon.nl.crush }}
+* Each time {{ site.data.dungeon.nl.naraxas }} devours a target, she gains a stack of {{ site.data.dungeon.nl.ravenous }}. But while she is devouring a target, she loses uptime. When the boss is low, you can intentionally let her devour a target to kill her faster.
+* Periodically, {{ site.data.dungeon.nl.wormspeaker_devout }} walk toward the boss and try to use {{ site.data.dungeon.nl.fanatics_sacrifice }} to grant a {{ site.data.dungeon.nl.ravenous }} stack to the boss. CC and use them as funnel targets as long as possible, only switch on them when necessary.
+* Stand far from the boss to drop the {{ site.data.dungeon.nl.rancid_maw }} puddles. The tank will use them to counter the grip from {{ site.data.dungeon.nl.spiked_tongue }}.
+* Use {{ site.data.talent.ag }} to stabilize the group when needed as the {{ site.data.dungeon.nl.angry_crowd }} will use {{ site.data.dungeon.nl.hurling_rocks }} throughout the fight.
 
 <hr>
 
 ### Big hammer to compensate Notable Trash Mobs
-**{{ site.data.dungeon.nl.rockback_gnasher }}**
-* Use {{ site.data.spell.wind_shear }}.
-* Use {{ site.data.talent.purge }}.
-* Dodge {{ site.data.dungeon.nl.crush }}
+**{{ site.data.dungeon.nl.emberhusk_dominator }}**
+* Be prepared for the incoming damage of {{ site.data.dungeon.nl.crystal_spike }}, constantly dealing moderate damage to you. When in packs of 2 or 3 mobs, {{ site.data.dungeon.nl.crystal_spike }} be sure to use a defensive to counter it.
+* Dodge the {{ site.data.dungeon.nl.ember_swipe }} frontal.
+
+**{{ site.data.dungeon.nl.understone_demolisher }}**
+* They will only melee the tank until they transform into a {{ site.data.dungeon.nl.colossal_charskin }} with {{ site.data.dungeon.nl.charskin }}.
+
+*TODO: Check if a demolisher and a charskin are the same mob count. I remember that you can delay the transformation and even kill the mob before it transforms. But I don't remember if it fucks up count.*
+
+**{{ site.data.dungeon.nl.colossal_charskin }}**
+* Kite away from it if you're targeted by {{ site.data.dungeon.nl.burning_hatred }}.
+
+**{{ site.data.dungeon.nl.rockbound_trapper }}**
+* Be prepared for the incoming damage of {{ site.data.dungeon.nl.jagged_disc }}, constantly dealing moderate damage to random group member. When in packs of 2 or 3 mobs, {{ site.data.dungeon.nl.jagged_disc }} going on the same person multiple times becomes deadly very fast.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.nl.bound }}.
+
+**Packs composed of {{ site.data.dungeon.nl.rockbound_trapper }} and {{ site.data.dungeon.nl.emberhusk_dominator }} combined will most likely kill you if your healer falls behind or if you don't help him.**
 
 <hr>
 
 ## {{ site.data.dungeon.nl.dargrul }}
-* Use {{ site.data.talent.ag }}
-* Dodge {{ site.data.dungeon.nl.crush }}
+* Don't be behind the tank, {{ site.data.dungeon.nl.landslide }} cleaves.
+* Move out of {{ site.data.dungeon.nl.crystal_spikes }} swirly, don't bait it behind the tank or {{ site.data.dungeon.nl.landslide }} will destroy the pillar.
+* Hide behind a {{ site.data.dungeon.nl.crystal_spikes }} during {{ site.data.dungeon.nl.magma_wave }}.
+* Kite behind a {{ site.data.dungeon.nl.crystal_spikes }} when targeted by {{ site.data.dungeon.nl.burning_hatred }} to bait the {{ site.data.dungeon.nl.molten_charskin }} into it. It will trigger {{ site.data.dungeon.nl.crystal_cracked }}, at which point you should focus the add.
 
 </div>
 </div>
@@ -1064,7 +1082,61 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 </div>
 </div>
 
-# The Vortex Pinnacle
+<div class="card">
+<div class="card-header" id="vp">
+<div data-toggle="collapse" data-target="#vp-collapse" aria-expanded="true" aria-controls="vp-collapse" class="dungeon-header vp"><h2>The Vortex Pinnacle</h2></div>
+</div>
+<div id="vp-collapse" class="collapse" aria-labelledby="vp" data-parent="#accordion">
+<div class="card-body" markdown="1">
+
+## Notable Talent Choices
+* {{ site.data.talent.purge }} has some very good uses.
+
+<hr>
+
+### Tornado Vizier Notable Trash Mobs
+
+**{{ site.data.dungeon.vp.armored_mistral }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.example }}.
+* Dodge {{ site.data.dungeon.vp.example }}.
+<hr>
+
+## {{ site.data.dungeon.vp.grand_vizier_ertan }}
+* Dodge {{ site.data.dungeon.vp.example }}.
+* Dodge {{ site.data.dungeon.vp.example }}.
+
+<hr>
+
+### No Uptime Drake Notable Trash Mobs
+
+**{{ site.data.dungeon.vp.armored_mistral }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.example }}.
+* Dodge {{ site.data.dungeon.vp.example }}.
+<hr>
+
+## {{ site.data.dungeon.vp.altairus }}
+* Dodge {{ site.data.dungeon.vp.example }}.
+* Dodge {{ site.data.dungeon.vp.example }}.
+
+<hr>
+
+### Wind Jinni Notable Trash Mobs
+
+**{{ site.data.dungeon.vp.armored_mistral }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.example }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.example }}.
+* Dodge {{ site.data.dungeon.vp.example }}.
+<hr>
+
+## {{ site.data.dungeon.vp.asaad }}
+* Dodge {{ site.data.dungeon.vp.example }}.
+* Dodge {{ site.data.dungeon.vp.example }}.
+
+</div>
+</div>
+</div>
 
 <div class="card">
 <div class="card-header" id="udm">
@@ -1073,11 +1145,11 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <div id="udm-collapse" class="collapse" aria-labelledby="udm" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-### Notable Talent Choices
-* {{ site.data.talent.purge }}
-* {{ site.data.talent.stoneskin_totem }}
-* {{ site.data.talent.cleanse_spirit }}
-* {{ site.data.talent.hex }} on the second boss?
+## Notable Talent Choices
+* {{ site.data.talent.purge }}, has some really good uses, notably on shields.
+* {{ site.data.talent.stoneskin_totem }} has value in higher keys. Many of the Party-wide damage spells and random ST damage spells are physical.
+* {{ site.data.talent.cleanse_spirit }} is sort of mandatory for the thrashes after the third boss.
+* {{ site.data.talent.hex }} has value to control the adds on the second boss.
 
 <hr>
 

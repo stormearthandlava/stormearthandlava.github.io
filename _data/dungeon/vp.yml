@@ -41,69 +41,69 @@ lightning_bolt_smallies: <a href="https://www.wowhead.com/spell=88080/lightning-
 lurking_tempest: <a href="https://www.wowhead.com/npc=45704/lurking-tempest" target="blank">Lurking Tempest</a> # Immobile
 lurk: <a href="https://www.wowhead.com/spell=85467/lurk" target="blank">Lurk</a> # Will attack if nobody is looking at it
 feign_death: <a href="https://www.wowhead.com/spell=85267/feign-death" target="blank">Feign Death</a> # Regen when faking death, never worth to kill
-lightning-bolt_lurking: <a href="https://www.wowhead.com/spell=89105/lightning-bolt" target="blank">Lightning Bolt</a> # Random or Tank ST damage
+lightning_bolt_lurking: <a href="https://www.wowhead.com/spell=89105/lightning-bolt" target="blank">Lightning Bolt</a> # Random or Tank ST damage
 
 # Grand Vizier Ertan
-grand-vizier-ertan: <a href="https://www.wowhead.com/npc=43878/grand-vizier-ertan" target="blank">Grand Vizier Ertan</a>
-lightning-bolt_vizier: <a href="https://www.wowhead.com/spell=86331/lightning-bolt" target="blank">Lightning Bolt</a> # Random or Tank ST damage
-summon-tempest: <a href="https://www.wowhead.com/spell=86340/summon-tempest" target="blank">Summon Tempest</a> # Summons a Lurking Tempest => must look at it
-cyclone-shield: <a href="https://www.wowhead.com/spell=86292/cyclone-shield" target="blank">Cyclone Shield</a> # Don't get hit by nadoes or big ms and spell casting debuff. Try TP or SW to dispel?
-storms-edge: <a href="https://www.wowhead.com/spell=86309/storms-edge" target="blank">Storm's Edge</a> # Must be inside the shield or deals damage. Knock back when the shield are attracted to the boss. (stack for "transistion") ?
+grand_vizier_ertan: <a href="https://www.wowhead.com/npc=43878/grand-vizier-ertan" target="blank">Grand Vizier Ertan</a>
+lightning_bolt_vizier: <a href="https://www.wowhead.com/spell=86331/lightning-bolt" target="blank">Lightning Bolt</a> # Random or Tank ST damage
+summon_tempest: <a href="https://www.wowhead.com/spell=86340/summon-tempest" target="blank">Summon Tempest</a> # Summons a Lurking Tempest => must look at it
+cyclone_shield: <a href="https://www.wowhead.com/spell=86292/cyclone-shield" target="blank">Cyclone Shield</a> # Don't get hit by nadoes or big ms and spell casting debuff. Try TP or SW to dispel?
+storms_edge: <a href="https://www.wowhead.com/spell=86309/storms-edge" target="blank">Storm's Edge</a> # Must be inside the shield or deals damage. Knock back when the shield are attracted to the boss. (stack for "transistion") ?
 
 # No Uptime Drake Notable Trash Mobs
-turbulent-squall: <a href="https://www.wowhead.com/npc=45924/turbulent-squall" target="blank">Turbulent Squall</a>
+turbulent_squall: <a href="https://www.wowhead.com/npc=45924/turbulent-squall" target="blank">Turbulent Squall</a>
 asphyxiate: <a href="https://www.wowhead.com/spell=88175/asphyxiate" target="blank">Asphyxiate</a> # Magic dispeleable, Interrupt?
 hurricane: <a href="https://www.wowhead.com/spell=88171/hurricane" target="blank">Hurricane</a> # Swirl that slows and increase cast time => Try TP and SW to dispel
 cloudburst: <a href="https://www.wowhead.com/spell=88170/cloudburst" target="blank">Cloudburst</a> # Kick? Random ST damage
 
-empyrean-assassin: <a href="https://www.wowhead.com/npc=45922/empyrean-assassin" target="blank">Empyrean Assassin</a>
-lethargic-poison: <a href="https://www.wowhead.com/spell=88182/lethargic-poison" target="blank">Lethargic Poison</a> # Poison on melees
-vapor-form: <a href="https://www.wowhead.com/spell=88186/vapor-form" target="blank">Vapor Form</a> # kick or purge, 75% DR => Purge is damage
+empyrean_assassin: <a href="https://www.wowhead.com/npc=45922/empyrean-assassin" target="blank">Empyrean Assassin</a>
+lethargic_poison: <a href="https://www.wowhead.com/spell=88182/lethargic-poison" target="blank">Lethargic Poison</a> # Poison on melees
+vapor_form: <a href="https://www.wowhead.com/spell=88186/vapor-form" target="blank">Vapor Form</a> # kick or purge, 75% DR => Purge is damage
 
-young-storm-dragon: <a href="https://www.wowhead.com/npc=45919/young-storm-dragon" target="blank">Young Storm Dragon</a>
-brutal-strikes: <a href="https://www.wowhead.com/spell=88192/brutal-strikes" target="blank">Brutal Strikes</a> # melees share with target within 6 yds => Help soak or outrange, depending on tuning
-chilling-blast: <a href="https://www.wowhead.com/spell=88194/chilling-blast" target="blank">Chilling Blast</a> # Frontal Breath
-healing-well: <a href="https://www.wowhead.com/spell=88201/healing-well" target="blank">Healing Well</a> # Stand in it for free heal
+young_storm_dragon: <a href="https://www.wowhead.com/npc=45919/young-storm-dragon" target="blank">Young Storm Dragon</a>
+brutal_strikes: <a href="https://www.wowhead.com/spell=88192/brutal-strikes" target="blank">Brutal Strikes</a> # melees share with target within 6 yds => Help soak or outrange, depending on tuning
+chilling_blast: <a href="https://www.wowhead.com/spell=88194/chilling-blast" target="blank">Chilling Blast</a> # Frontal Breath
+healing_well: <a href="https://www.wowhead.com/spell=88201/healing-well" target="blank">Healing Well</a> # Stand in it for free heal
 
-howling-gale: <a href="https://www.wowhead.com/npc=45572/howling-gale" target="blank">Howling Gale</a> # hit it to pass through (FrS) & avoid the Knockback
+howling_gale: <a href="https://www.wowhead.com/npc=45572/howling-gale" target="blank">Howling Gale</a> # hit it to pass through (FrS) & avoid the Knockback
 
 # Altairus
 altairus: <a href="https://www.wowhead.com/npc=43873/altairus" target="blank">Altairus</a>
-call-the-wind: <a href="https://www.wowhead.com/spell=88244/call-the-wind" target="blank">Call the Wind</a> # Main gimmick, permanent pushback. going in the same direction as the wind buffs you, debuffs you otherwise
-upwind-of-altairus: <a href="https://www.wowhead.com/spell=88282/upwind-of-altairus" target="blank">Upwind of Altairus</a> # Good wind direction buff
-downwind-of-altairus: <a href="https://www.wowhead.com/spell=88286/downwind-of-altairus" target="blank">Downwind of Altairus</a> # Wrong wind direction debuff
-chilling-breath: <a href="https://www.wowhead.com/spell=88308/chilling-breath" target="blank">Chilling Breath</a> # Frontal Breath
-lightning-blast: <a href="https://www.wowhead.com/spell=88357/lightning-blast" target="blank">Lightning Blast</a> # Strikes any who leave the platform, one shoting them
-twisting-winds: <a href="https://www.wowhead.com/spell=88314/twisting-winds" target="blank">Twisting Winds</a> # Knockup from tornadoes roaming the room
+call_the_wind: <a href="https://www.wowhead.com/spell=88244/call-the-wind" target="blank">Call the Wind</a> # Main gimmick, permanent pushback. going in the same direction as the wind buffs you, debuffs you otherwise
+upwind_of_altairus: <a href="https://www.wowhead.com/spell=88282/upwind-of-altairus" target="blank">Upwind of Altairus</a> # Good wind direction buff
+downwind_of_altairus: <a href="https://www.wowhead.com/spell=88286/downwind-of-altairus" target="blank">Downwind of Altairus</a> # Wrong wind direction debuff
+chilling_breath: <a href="https://www.wowhead.com/spell=88308/chilling-breath" target="blank">Chilling Breath</a> # Frontal Breath
+lightning_blast: <a href="https://www.wowhead.com/spell=88357/lightning-blast" target="blank">Lightning Blast</a> # Strikes any who leave the platform, one shoting them
+twisting_winds: <a href="https://www.wowhead.com/spell=88314/twisting-winds" target="blank">Twisting Winds</a> # Knockup from tornadoes roaming the room
 
 # Wind Jinni Notable Trash Mobs
-executor-of-the-caliph: <a href="https://www.wowhead.com/npc=45928/executor-of-the-caliph" target="blank">Executor of the Caliph</a>
+executor_of_the_caliph: <a href="https://www.wowhead.com/npc=45928/executor-of-the-caliph" target="blank">Executor of the Caliph</a>
 devastate: <a href="https://www.wowhead.com/spell=78660/devastate" target="blank">Devastate</a> # Tank Damage
-sunder-armor: <a href="https://www.wowhead.com/spell=76622/sunder-armor" target="blank">Sunder Armor</a> # Tank debuff
+sunder_armor: <a href="https://www.wowhead.com/spell=76622/sunder-armor" target="blank">Sunder Armor</a> # Tank debuff
 rally: <a href="https://www.wowhead.com/spell=87761/rally" target="blank">Rally</a> # Buffs physically nearby allies for 6sec
 shockwave: <a href="https://www.wowhead.com/spell=87759/shockwave" target="blank">Shockwave</a> # Frontal 10yds
 
-servant-of-asaad: <a href="https://www.wowhead.com/npc=45926/servant-of-asaad" target="blank">Servant of Asaad</a>
-crusader-strike: <a href="https://www.wowhead.com/spell=87771/crusader-strike" target="blank">Crusader Strike</a> # Tank damage and Magic debuff
-divine-storm: <a href="https://www.wowhead.com/spell=58127/divine-storm" target="blank">Divine Storm</a> # 8 yds melee AoE
-hand-of-protection: <a href="https://www.wowhead.com/spell=87772/hand-of-protection" target="blank">Hand of Protection</a> # BoP an enemy, Purge
+servant_of_asaad: <a href="https://www.wowhead.com/npc=45926/servant-of-asaad" target="blank">Servant of Asaad</a>
+crusader_strike: <a href="https://www.wowhead.com/spell=87771/crusader-strike" target="blank">Crusader Strike</a> # Tank damage and Magic debuff
+divine_storm: <a href="https://www.wowhead.com/spell=58127/divine-storm" target="blank">Divine Storm</a> # 8 yds melee AoE
+hand_of_protection: <a href="https://www.wowhead.com/spell=87772/hand-of-protection" target="blank">Hand of Protection</a> # BoP an enemy, Purge
 
-minister-of-air: <a href="https://www.wowhead.com/npc=45930/minister-of-air" target="blank">Minister of Air</a>
-lightning-lash: <a href="https://www.wowhead.com/spell=87762/lightning-lash" target="blank">Lightning Lash</a> # Channels lightning into a random ST, kick
-lightning-nova: <a href="https://www.wowhead.com/spell=87768/lightning-nova" target="blank">Lightning Nova</a> # melee 10yds AoE Knockback
+minister_of_air: <a href="https://www.wowhead.com/npc=45930/minister-of-air" target="blank">Minister of Air</a>
+lightning_lash: <a href="https://www.wowhead.com/spell=87762/lightning-lash" target="blank">Lightning Lash</a> # Channels lightning into a random ST, kick
+lightning_nova: <a href="https://www.wowhead.com/spell=87768/lightning-nova" target="blank">Lightning Nova</a> # melee 10yds AoE Knockback
 
-temple-adept: <a href="https://www.wowhead.com/npc=45935/temple-adept" target="blank">Temple Adept</a>
-desperate-speed: <a href="https://www.wowhead.com/spell=87780/desperate-speed" target="blank">Desperate Speed</a> # 12s casting speed buff (non purge)
-holy-smite: <a href="https://www.wowhead.com/spell=88959/holy-smite" target="blank">Holy Smite</a> # kick random ST dam
-greater-heal: <a href="https://www.wowhead.com/spell=87779/greater-heal" target="blank">Greater Heal</a> # Must Kick
+temple_adept: <a href="https://www.wowhead.com/npc=45935/temple-adept" target="blank">Temple Adept</a>
+desperate_speed: <a href="https://www.wowhead.com/spell=87780/desperate-speed" target="blank">Desperate Speed</a> # 12s casting speed buff (non purge)
+holy_smite: <a href="https://www.wowhead.com/spell=88959/holy-smite" target="blank">Holy Smite</a> # kick random ST dam
+greater_heal: <a href="https://www.wowhead.com/spell=87779/greater-heal" target="blank">Greater Heal</a> # Must Kick
 
-skyfall-star: <a href="https://www.wowhead.com/npc=45932/skyfall-star" target="blank">Skyfall Star</a>
-arcane-barrage: <a href="https://www.wowhead.com/spell=87854/arcane-barrage" target="blank">Arcane Barrage</a> # random ST damage, lot of them
+skyfall_star: <a href="https://www.wowhead.com/npc=45932/skyfall-star" target="blank">Skyfall Star</a>
+arcane_barrage: <a href="https://www.wowhead.com/spell=87854/arcane-barrage" target="blank">Arcane Barrage</a> # random ST damage, lot of them
 
 # Asaad
 asaad: <a href="https://www.wowhead.com/npc=43875/asaad" target="blank">Asaad</a>
-unstable-grounding-field: <a href="https://www.wowhead.com/spell=86911/unstable-grounding-field" target="blank">Unstable Grounding Field</a> # Triangle to hide in
-supremacy-of-the-storm: <a href="https://www.wowhead.com/spell=86715/supremacy-of-the-storm" target="blank">Supremacy of the Storm</a> # tp on triangle and blast everywhere
-chain-lightning: <a href="https://www.wowhead.com/spell=87622/chain-lightning" target="blank">Chain Lightning</a> # random ST damage that jumps with 50% effectiveness
+unstable_grounding_field: <a href="https://www.wowhead.com/spell=86911/unstable-grounding-field" target="blank">Unstable Grounding Field</a> # Triangle to hide in
+supremacy_of_the_storm: <a href="https://www.wowhead.com/spell=86715/supremacy-of-the-storm" target="blank">Supremacy of the Storm</a> # tp on triangle and blast everywhere
+chain_lightning: <a href="https://www.wowhead.com/spell=87622/chain-lightning" target="blank">Chain Lightning</a> # random ST damage that jumps with 50% effectiveness
 # random untargeteable skyfall star will join the fight and blast player randomly
-static-cling: <a href="https://www.wowhead.com/spell=87618/static-cling" target="blank">Static Cling</a> # Jump to dodge the root or use TP/SW to dispel it
+static_cling: <a href="https://www.wowhead.com/spell=87618/static-cling" target="blank">Static Cling</a> # Jump to dodge the root or use TP/SW to dispel it
