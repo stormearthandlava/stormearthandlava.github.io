@@ -1097,9 +1097,23 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 ### Tornado Vizier Notable Trash Mobs
 
 **{{ site.data.dungeon.vp.armored_mistral }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.example }}.
-* Dodge {{ site.data.dungeon.vp.example }}.
+* Stay farther than 15 yds away to passively dodge {{ site.data.dungeon.vp.pressurized_blast }}.
+* {{ site.data.dungeon.vp.cloud_guard }} will block and reflect all spells from a direction. Move to be able to hit the mob.
+
+**{{ site.data.dungeon.vp.gust_soldier }}**
+* They will use {{ site.data.dungeon.vp.rushing_wind }} on a random ranged target. Use a defensive as needed if you're low.
+
+**{{ site.data.dungeon.vp.wild_vortex }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.cyclone }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.wind_bolt }} with extra kicks.
+
+**{{ site.data.dungeon.vp.cloud_prince }}**
+* Don't get pushed off the platform by {{ site.data.dungeon.vp.turbulence }}. The channel will also deal constant party damage. Use {{ site.data.talent.ag }} to help your party as needed to help your healer and {{ site.data.talent.swg }} to reposition.
+* Get out of the big Swirl created by {{ site.data.dungeon.vp.bomb_cyclone }}. It will knock you up if you get hit.
+
+**{{ site.data.dungeon.vp.lurking_tempest }}**
+* A party member needs to always be looking at this mob to force it to {{ site.data.dungeon.vp.feign_death }}. Otherwise, it will cast {{ site.data.dungeon.vp.lethal_current }}, dealing heavy damage to the whole party.
+
 <hr>
 
 ## {{ site.data.dungeon.vp.grand_vizier_ertan }}
@@ -1110,10 +1124,21 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 ### No Uptime Drake Notable Trash Mobs
 
-**{{ site.data.dungeon.vp.armored_mistral }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.example }}.
+**{{ site.data.dungeon.vp.turbulent_squall }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.cloudburst }}.
+
+**{{ site.data.dungeon.vp.empyrean_assassin }}**
+* Their melees will apply {{ site.data.dungeon.vp.lethargic_poison }}. Maybe consider using {{ site.data.talent.poison_cleansing_totem }} to help your tank.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.vapor_form }}. You can also interrupt the cast but it might be worth to keep your kick.
+
+**{{ site.data.dungeon.vp.young_storm_dragon }}**
+* Move away when targeted by the {{ site.data.dungeon.vp.chilling_breath }} frontal.
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.example }}.
 * Dodge {{ site.data.dungeon.vp.example }}.
+
+**{{ site.data.dungeon.vp.howling_gale }}**
+* Use {{ site.data.spell.fs }} and {{ site.data.spell.frs }} to remove their pushback and move through.
+
 <hr>
 
 ## {{ site.data.dungeon.vp.altairus }}
@@ -1128,6 +1153,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.example }}.
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.example }}.
 * Dodge {{ site.data.dungeon.vp.example }}.
+
 <hr>
 
 ## {{ site.data.dungeon.vp.asaad }}
@@ -1266,7 +1292,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 ### Retcon Dragonflight Herald Notable Trash Mobs
 
 **{{ site.data.dungeon.udm.ebonstone_golem }}**
-* {{ site.data.dungeon.udm.thunderous_clap }} will deal unavoidable party wide damage. Use {{ site.data.talent.as }} as needed and {{ site.data.talent.ag }} to support your party. *TO DO: check if this can be outranged by being at 40 yds, wowhead says it probably can*
+* {{ site.data.dungeon.udm.thunderous_clap }} will deal unavoidable party wide damage. Use {{ site.data.talent.as }} as needed and {{ site.data.talent.ag }} to support your party. *TODO: check if this can be outranged by being at 40 yds, wowhead says it probably can*
 
 **{{ site.data.dungeon.udm.earthen_guardian }}**
 * Get out of the dome created by {{ site.data.dungeon.udm.blessing_of_tyr }} as it will deal damage to you. Your tank should kite the mobs out of it as they will get buffed. You can use {{ site.data.talent.thunderstorm }} if talented to help.

@@ -16,32 +16,25 @@ example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel
 
 # Tornado Vizier Notable Trash Mobs
 armored_mistral: <a href="https://www.wowhead.com/npc=45915/armored-mistral" target="blank">Armored Mistral</a>
-rising_winds: <a href="https://www.wowhead.com/spell=88058/rising-winds" target="blank">Rising Winds</a> # Slowly deals more damage
-gale_strike: <a href="https://www.wowhead.com/spell=88061/gale-strike" target="blank">Gale Strike</a> # Purge to help tank if needed
-storm_surge: <a href="https://www.wowhead.com/spell=88055/storm-surge" target="blank">Storm Surge</a> # 8yds AoE
+cloud_guard: <a href="https://www.wowhead.com/ptr/spell=411000/cloud-guard" target="blank">Cloud Guard</a> # Block attacks from a direction
+pressurized_blast: <a href="https://www.wowhead.com/ptr/spell=410999/pressurized-blast" target="blank">Pressurized Blast</a> # 15yds AoE
 
 gust_soldier: <a href="https://www.wowhead.com/npc=45477/gust-soldier" target="blank">Gust Soldier</a>
-air_nova: <a href="https://www.wowhead.com/spell=87933/air-nova" target="blank">Air Nova</a> # 6yds Knockback (On death?)
-wind_blast: <a href="https://www.wowhead.com/spell=87923/wind-blast" target="blank">Wind Blast</a> # Frontal Cone
-charge: <a href="https://www.wowhead.com/spell=87930/charge" target="blank">Charge</a> # Do not pull
+wind_flurry: <a href="https://www.wowhead.com/ptr/spell=410998/wind-flurry" target="blank">Wind Flurry</a> # Self Attack speed buff
+rushing_wind: <a href="https://www.wowhead.com/ptr/spell=410997/rushing-wind" target="blank">Charge</a> # Random charge + Magic Dot
 
 wild_vortex: <a href="https://www.wowhead.com/npc=45912/wild-vortex" target="blank">Wild Vortex</a>
 cyclone: <a href="https://www.wowhead.com/spell=39594/cyclone" target="blank">Cyclone</a> # kick, can go on tank, pain
-wind_shock: <a href="https://www.wowhead.com/spell=88029/wind-shock" target="blank">Wind Shock</a> # Should be tank damage, but also interrupts. KEEP UP TO DATE
-lightning_bolt_vortex: <a href="https://www.wowhead.com/spell=88032/lightning-bolt" target="blank">Lightning Bold</a> # Lesser Priority kick
+wind_bolt: <a href="https://www.wowhead.com/ptr/spell=410760/wind-bolt" target="blank">Lightning Bold</a> # Lesser Priority kick
 
 cloud_prince: <a href="https://www.wowhead.com/npc=45917/cloud-prince" target="blank">Cloud Prince</a>
-typhoon: <a href="https://www.wowhead.com/spell=88075/typhoon" target="blank">Typhoon</a> # Summons Tornadoes that daze
-starfall: <a href="https://www.wowhead.com/spell=88073/starfall" target="blank">Starfall</a> # Constant AoE
-# summon whipping wind on death? Or with a cast?
-
-whipping_wind: <a href="https://www.wowhead.com/npc=47238/whipping-wind" target="blank">Whipping Wind</a>
-lightning_bolt_smallies: <a href="https://www.wowhead.com/spell=88080/lightning-bolt" target="blank">Lightning Bold</a> # Kick
+turbulence: <a href="https://www.wowhead.com/ptr/spell=411002/turbulence" target="blank">Turbulence</a> # AoE + Push back
+bomb_cyclone: <a href="https://www.wowhead.com/ptr/spell=411005/bomb-cyclone" target="blank">Bomb Cyclone</a> # 8 Yds swirl + knock back
 
 lurking_tempest: <a href="https://www.wowhead.com/npc=45704/lurking-tempest" target="blank">Lurking Tempest</a> # Immobile
 lurk: <a href="https://www.wowhead.com/spell=85467/lurk" target="blank">Lurk</a> # Will attack if nobody is looking at it
 feign_death: <a href="https://www.wowhead.com/spell=85267/feign-death" target="blank">Feign Death</a> # Regen when faking death, never worth to kill
-lightning_bolt_lurking: <a href="https://www.wowhead.com/spell=89105/lightning-bolt" target="blank">Lightning Bolt</a> # Random or Tank ST damage
+lethal_current: <a href="https://www.wowhead.com/ptr/spell=411001/lethal-current" target="blank">Lethal Current</a> # Big Party damage
 
 # Grand Vizier Ertan
 grand_vizier_ertan: <a href="https://www.wowhead.com/npc=43878/grand-vizier-ertan" target="blank">Grand Vizier Ertan</a>
@@ -62,8 +55,8 @@ vapor_form: <a href="https://www.wowhead.com/spell=88186/vapor-form" target="bla
 
 young_storm_dragon: <a href="https://www.wowhead.com/npc=45919/young-storm-dragon" target="blank">Young Storm Dragon</a>
 brutal_strikes: <a href="https://www.wowhead.com/spell=88192/brutal-strikes" target="blank">Brutal Strikes</a> # melees share with target within 6 yds => Help soak or outrange, depending on tuning
-chilling_blast: <a href="https://www.wowhead.com/spell=88194/chilling-blast" target="blank">Chilling Blast</a> # Frontal Breath
-healing_well: <a href="https://www.wowhead.com/spell=88201/healing-well" target="blank">Healing Well</a> # Stand in it for free heal
+chilling_breath: <a href="https://www.wowhead.com/ptr/spell=411012/chilling-breath" target="blank">Chilling Breath</a> # Frontal Breath
+icy_buffet: <a href="https://www.wowhead.com/ptr/spell=88194/icy-buffet" target="blank">Icy Buffet</a> # Stand in it for free heal
 
 howling_gale: <a href="https://www.wowhead.com/npc=45572/howling-gale" target="blank">Howling Gale</a> # hit it to pass through (FrS) & avoid the Knockback
 
@@ -98,7 +91,7 @@ holy_smite: <a href="https://www.wowhead.com/spell=88959/holy-smite" target="bla
 greater_heal: <a href="https://www.wowhead.com/spell=87779/greater-heal" target="blank">Greater Heal</a> # Must Kick
 
 skyfall_star: <a href="https://www.wowhead.com/npc=45932/skyfall-star" target="blank">Skyfall Star</a>
-arcane_barrage: <a href="https://www.wowhead.com/spell=87854/arcane-barrage" target="blank">Arcane Barrage</a> # random ST damage, lot of them
+starlight: <a href="https://www.wowhead.com/ptr/spell=411019/starlight" target="blank">Starlight</a> # random ST damage, lot of them
 
 # Asaad
 asaad: <a href="https://www.wowhead.com/npc=43875/asaad" target="blank">Asaad</a>
