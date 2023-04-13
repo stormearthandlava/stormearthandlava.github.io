@@ -42,6 +42,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
   - [Warcraft Logs](https://www.warcraftlogs.com/)
   - [Vault of the Incarnates Loot Overview](https://www.wowhead.com/guide/raids/vault-of-the-incarnates/overview#loot)
 
+<hr>
 
 # Bosses
 
