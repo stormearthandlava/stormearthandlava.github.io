@@ -1117,8 +1117,10 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <hr>
 
 ## {{ site.data.dungeon.vp.grand_vizier_ertan }}
-* Dodge {{ site.data.dungeon.vp.example }}.
-* Dodge {{ site.data.dungeon.vp.example }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.lightning_bolt_vizier }}.
+* Stay inside of the {{ site.data.dungeon.vp.cyclone_shield }} to avoid taking damage from {{ site.data.dungeon.vp.storms_edge }}.
+* When the boss calls the {{ site.data.dungeon.vp.cyclone_shield }} to her, move away from the boss while dodging the incoming tornadoes. Use defensive to survive until the {{ site.data.dungeon.vp.cyclone_shield }} goes back to normal. This is the best time for {{ site.data.talent.ag }}.
+* A {{ site.data.dungeon.vp.lurking_tempest }} will be summoned by {{ site.data.dungeon.vp.summon_tempest }} periodically. Coordinate with your group to always look at them or you will get hit by {{ site.data.dungeon.vp.lethal_current }}.
 
 <hr>
 
@@ -1128,13 +1130,13 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.storm_shield }}.
 
 **{{ site.data.dungeon.vp.empyrean_assassin }}**
-* Their melees will apply {{ site.data.dungeon.vp.lethargic_poison }}. Maybe consider using {{ site.data.talent.poison_cleansing_totem }} to help your tank.
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.vapor_form }}. You can also interrupt the cast but it might be worth to keep your kick.
+* They will jump on a random target with {{ site.data.dungeon.vp.assassinate }}. Stay close to melee for cleave purposes but spread at 5 yds from your allies.
 
 **{{ site.data.dungeon.vp.young_storm_dragon }}**
 * Sidestep the {{ site.data.dungeon.vp.chilling_breath }} frontal when targeted.
-* {{ site.data.dungeon.vp.icy_buffet }} will deal party damage, knock you back and apply a DoT to you. Try to not lose uptime to the knockback by using instant casts and use defensives as needed. This is a great time to use {{ site.data.talent.ag }}.
-* Stay in the {{ site.data.dungeon.vp.healing_well }} for free regen.
+* {{ site.data.dungeon.vp.icy_buffet }} will deal party damage and apply a DoT to you. Use defensives as needed. This is a great time to use {{ site.data.talent.ag }}.
+* Stay in the {{ site.data.dungeon.vp.healing_well }} for free healing.
 
 **{{ site.data.dungeon.vp.howling_gale_npc }}**
 * Use {{ site.data.spell.fs }} and {{ site.data.spell.frs }} to remove the {{ site.data.dungeon.vp.howling_gale }} buff and move through.
@@ -1142,23 +1144,49 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <hr>
 
 ## {{ site.data.dungeon.vp.altairus }}
-* Dodge {{ site.data.dungeon.vp.example }}.
-* Dodge {{ site.data.dungeon.vp.example }}.
+* During the whole fight, wind will blow on the platform, either granting you {{ site.data.dungeon.vp.upwind_of_altairus }} if your character faces the same direction as the wind or {{ site.data.dungeon.vp.downwind_of_altairus }} otherwise.
+* The boss will regularly change the wind direction with {{ site.data.dungeon.vp.call_the_wind }}. Move accordingly to keep uptime on {{ site.data.dungeon.vp.upwind_of_altairus }}.
+* Move away from the {{ site.data.dungeon.vp.chilling_breath }} frontal.
+* Dodge the {{ site.data.dungeon.vp.twisting_winds }} tornadoes in the room of you will get knocked up.
+* You will get one-shotted by {{ site.data.dungeon.vp.lightning_blast }} if you ever go out of the boss room.
 
 <hr>
 
 ### Wind Jinni Notable Trash Mobs
 
-**{{ site.data.dungeon.vp.armored_mistral }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.example }}.
-* Dodge {{ site.data.dungeon.vp.example }}.
+**{{ site.data.dungeon.vp.zephyr_npc }}**
+* In the spiral staircase, stay in front of a {{ site.data.dungeon.vp.zephyr }} tornado for free movement speed.
+
+**{{ site.data.dungeon.vp.grounding_field_npc }}**
+* The big lightning cage will redirect any spell with {{ site.data.dungeon.vp.grounding_field }}. Help your tank kiting the mobs out of it then stay in it as much as possible to protect yourself from the adds' spells.
+
+**{{ site.data.dungeon.vp.executor_of_the_caliph }}**
+* Don't stay behind the tank, {{ site.data.dungeon.vp.shockwave }} is a frontal on them.
+* {{ site.data.dungeon.vp.rally }} will buff the pack to reflect some damage to you. The damage is minimal, so unless you're really low, ignore this.
+
+**{{ site.data.dungeon.vp.servant_of_asaad }}**
+* They will jump on a random target with {{ site.data.dungeon.vp.charge }}. Stay close to melee for cleave purposes but spread at 5 yds from your allies.
+
+**{{ site.data.dungeon.vp.minister_of_air }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.lightning_lash }}.
+* {{ site.data.dungeon.vp.call_lightning }} will deal party damage. Use defensives as needed. This is a great time to use {{ site.data.talent.ag }}.
+
+**{{ site.data.dungeon.vp.temple_adept }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.greater_heal }} in absolute priority.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.holy_smite }} when possible.
+* Try to CC it when it buffs itself with {{ site.data.dungeon.vp.desperate_speed }}, or be on the lookout for {{ site.data.dungeon.vp.greater_heal }} casts.
+
+**{{ site.data.dungeon.vp.skyfall_star }}**
+* They will spread out as soon as you engage them. Wait for your whole group and try to burst them down quickly.
+* As {{ site.data.dungeon.vp.starlight }} damages a random party member, be prepared to use a defensive if you're targeted by multiple ones.
 
 <hr>
 
 ## {{ site.data.dungeon.vp.asaad }}
-* Dodge {{ site.data.dungeon.vp.example }}.
-* Dodge {{ site.data.dungeon.vp.example }}.
+* Quickly move to the lightning triangle created by {{ site.data.dungeon.vp.unstable_grounding_field }} or you will die from {{ site.data.dungeon.vp.supremacy_of_the_storm }}.
+* {{ site.data.dungeon.vp.chain_lightning }} will deal moderate damage to the whole party periodically. Use a defensive if needed.
+* Some {{ site.data.dungeon.vp.skyfall_star }} will spawn along the edge of the room, firing {{ site.data.dungeon.vp.starlight }} at random players. While they don't do that much damage, they can quickly ramp up if many become active at once.
+* You need to jump when {{ site.data.dungeon.vp.static_cling }} is being cast or you will get slowed. You can also just use {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }} to dispel it afterward.
 
 </div>
 </div>

@@ -87,7 +87,7 @@ shockwave: <a href="https://www.wowhead.com/spell=87759/shockwave" target="blank
 
 servant_of_asaad: <a href="https://www.wowhead.com/npc=45926/servant-of-asaad" target="blank">Servant of Asaad</a>
 sure_strike: <a href="https://www.wowhead.com/ptr/spell=87771/sure-strike" target="blank">Sure Strike</a> # Tank damage and Magic debuff
-divine_storm: <a href="https://www.wowhead.com/spell=58127/divine-storm" target="blank">Divine Storm</a> # 8 yds melee AoE
+# divine_storm: <a href="https://www.wowhead.com/spell=58127/divine-storm" target="blank">Divine Storm</a> # 8 yds melee AoE
 charge: <a href="https://www.wowhead.com/ptr/spell=411770/charge" target="blank">Charge</a> # Charge a rondom target, dealing damage
 
 minister_of_air: <a href="https://www.wowhead.com/npc=45930/minister-of-air" target="blank">Minister of Air</a>
