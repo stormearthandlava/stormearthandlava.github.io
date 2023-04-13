@@ -1125,19 +1125,19 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 ### No Uptime Drake Notable Trash Mobs
 
 **{{ site.data.dungeon.vp.turbulent_squall }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.vp.cloudburst }}.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.storm_shield }}.
 
 **{{ site.data.dungeon.vp.empyrean_assassin }}**
 * Their melees will apply {{ site.data.dungeon.vp.lethargic_poison }}. Maybe consider using {{ site.data.talent.poison_cleansing_totem }} to help your tank.
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.vapor_form }}. You can also interrupt the cast but it might be worth to keep your kick.
 
 **{{ site.data.dungeon.vp.young_storm_dragon }}**
-* Move away when targeted by the {{ site.data.dungeon.vp.chilling_breath }} frontal.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.example }}.
-* Dodge {{ site.data.dungeon.vp.example }}.
+* Sidestep the {{ site.data.dungeon.vp.chilling_breath }} frontal when targeted.
+* {{ site.data.dungeon.vp.icy_buffet }} will deal party damage, knock you back and apply a DoT to you. Try to not lose uptime to the knockback by using instant casts and use defensives as needed. This is a great time to use {{ site.data.talent.ag }}.
+* Stay in the {{ site.data.dungeon.vp.healing_well }} for free regen.
 
-**{{ site.data.dungeon.vp.howling_gale }}**
-* Use {{ site.data.spell.fs }} and {{ site.data.spell.frs }} to remove their pushback and move through.
+**{{ site.data.dungeon.vp.howling_gale_npc }}**
+* Use {{ site.data.spell.fs }} and {{ site.data.spell.frs }} to remove the {{ site.data.dungeon.vp.howling_gale }} buff and move through.
 
 <hr>
 
