@@ -159,7 +159,8 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 ### Gnolls Gang Bosses Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.claw_fighter }}**
-* Use {{ site.data.talent.swg }} to kite {{ site.data.dungeon.bh.vicious_clawmangle }}. Be ready to use {{ site.data.talent.as }} if needed.
+* Use {{ site.data.talent.swg }} to kite {{ site.data.dungeon.bh.vicious_clawmangle }} when you're focused. Be ready to use {{ site.data.talent.as }} if the mob catches up to you.
+* Help your tank kiting if he gets many stacks of {{ site.data.dungeon.bh.bloody_bite }}. Use {{ site.data.spell.earthbind_totem }} or {{ site.data.talent.thunderstorm }} when needed.
 
 **{{ site.data.dungeon.bh.cruel_bonecrusher }}**
 * Just does tank Damage.
@@ -168,28 +169,28 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 * Use {{ site.data.talent.swg }} to kite when affected by {{ site.data.dungeon.bh.scented_meat }}. Be ready to use {{ site.data.talent.as }} if needed.
 
 **{{ site.data.dungeon.bh.bonebolt_hunter }}**
-* They do a lot of unavoidable damage with {{ site.data.dungeon.bh.shoot }} and {{ site.data.dungeon.bh.bone_bolt }}. Be ready to use {{ site.data.talent.as }} as needed.
+* Be prepared for the incoming damage of {{ site.data.dungeon.bh.shoot }} and {{ site.data.dungeon.bh.bone_bolt }}, constantly dealing moderate damage to random group member. When in packs of 2 or 3 mobs, multiple abilities going on the same player becomes deadly very fast. Use {{ site.data.talent.stoneskin_totem }} as much possible to reduce party damage and use {{ site.data.talent.as }} when needed.
 * Move out of {{ site.data.dungeon.bh.toxic_trap }}.
 
 **{{ site.data.dungeon.bh.trickclaw_mystic }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.earth_bolt }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.earth_bolt }} and {{ site.data.dungeon.bh.witherbolt}}.
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.bh.focus_earth }}.
 
 **{{ site.data.dungeon.bh.decay_speaker }}**
 * Always prio focus this mob.
-* Dodge the green {{ site.data.dungeon.bh.withering_burst }} swirlies. Getting hit by one will apply {{ site.data.dungeon.bh.withering }}, and that sucks.
+* Spread at 4 yds when targeted by {{ site.data.dungeon.bh.withering_burst }}. The target and every player near him will get the {{ site.data.dungeon.bh.withering }} debuff.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.decay_surge }}.
 * Quickly nuke {{ site.data.dungeon.bh.rotchanting_totem }} whenever it's summoned or it will buff nearby {{ site.data.dungeon.bh.trickclaw_mystic }}.
+*TODO: Check if you can remove the {{ site.data.dungeon.bh.withering }} debuff with a slow dispel (thunderous paws / Spirit walk)*
 
 **{{ site.data.dungeon.bh.bracken_warscourge }}**
 * {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.hideous_cackle }}. Use {{ site.data.talent.tremor_totem }} if a cast is going through to avoid a catastrophe.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.hideous_cackle }}. Use {{ site.data.talent.tremor_totem }} if a cast is going through.
 * Stay farther than 5 yards away to ignore {{ site.data.dungeon.bh.ragestorm }}.
 
 <hr>
 
 ## {{ site.data.dungeon.bh.rira_hackclaw }}'s War Band
-* Have {{ site.data.spell.fs }} active on all targets for {{ site.data.talent.splinter }} and {{ site.data.talent.sfd }} value.
 * Cleave them down at the same time, they will gain {{ site.data.dungeon.bh.bloodfrenzy }} whenever one of them drops below 15% HP.
 * The bosses gain haste with {{ site.data.dungeon.bh.prey_on_the_weak }} whenever players are below 90% HP. If needed, use {{ site.data.talent.ag }}, or even {{ site.data.talent.hst }} and {{ site.data.spell.healing_surge }} to help the healer remove the {{ site.data.dungeon.bh.predatory_instincts }} stacks.
 * Each Gnoll also its own abilities, making this fight hard to learn.
@@ -211,30 +212,32 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 ### Hyena Lover Notable Trash Mobs
 
+**{{ site.data.dungeon.bh.gutstabber }}**
+* This mobs use {{ site.data.dungeon.bh.stealth }} and are scattered in the area. Try to learn their position to avoid running into them.
+* Use {{ site.data.talent.as }} if you body pull.
+* If talented, use {{ site.data.talent.poison_cleansing_totem }} to remove {{ site.data.dungeon.bh.withering_poison }} from your tank.
+
 **{{ site.data.dungeon.bh.fleshripper_vulture }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.screech }}.
+* Use {{ site.data.talent.swg }} to kite when affected by {{ site.data.dungeon.bh.scented_meat }}. Be ready to use {{ site.data.talent.as }} if needed.
 
 **{{ site.data.dungeon.bh.gutchewer_bear }}**
 * Just does tank Damage.
+* Use {{ site.data.talent.swg }} to kite when affected by {{ site.data.dungeon.bh.scented_meat }}. Be ready to use {{ site.data.talent.as }} if needed.
 
 **{{ site.data.dungeon.bh.rotbow_stalker }}**
 * {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
-* They do a lot of unavoidable damage with {{ site.data.dungeon.bh.shoot }} and {{ site.data.dungeon.bh.bone_bolt }}. Be ready to use {{ site.data.talent.as }} as needed.
+* Be prepared for the incoming damage of {{ site.data.dungeon.bh.shoot }} and {{ site.data.dungeon.bh.bone_bolt }}, constantly dealing moderate damage to random group member. When in packs of 2 or 3 mobs, multiple abilities going on the same player becomes deadly very fast. Use {{ site.data.talent.stoneskin_totem }} as much possible to reduce party damage and use {{ site.data.talent.as }} when needed.
 * Get out of their {{ site.data.dungeon.bh.bone_bolt_volley }} frontal.
 * {{ site.data.dungeon.bh.scented_meat }} is a debuff that will make any {{ site.data.dungeon.bh.vicious_hyena }}, {{ site.data.dungeon.bh.fleshripper_vulture }} and {{ site.data.dungeon.bh.gutchewer_bear }} in the area attack the targeted player. Stay attentive on who the debuff goes, use {{ site.data.spell.earthbind_totem }} and {{ site.data.talent.capacitor_totem }} to help the focused player kite. Use {{ site.data.talent.swg }} to keep uptime while kiting.
-
-**{{ site.data.dungeon.bh.gutstabber }}**
-* This mobs use {{ site.data.dungeon.bh.stealth }} and are scattered in the area. Try to learn their position to avoid running randomly into them.
-* Be ready to use {{ site.data.talent.as }} if you body pull or are targeted by {{ site.data.dungeon.bh.withering_poison }}.
 
 <hr>
 
 ## {{ site.data.dungeon.bh.gutshot }}
-* Have {{ site.data.spell.fs }} active on all targets for {{ site.data.talent.splinter }} and {{ site.data.talent.sfd }} value.
 * Dodge {{ site.data.dungeon.bh.bounding_leap }} brown swirly and {{ site.data.dungeon.bh.ensnaring_trap }} grey swirly.
 * Kill the {{ site.data.dungeon.bh.rotfang_hyena }} as soon as possible.
 * {{ site.data.dungeon.bh.meat_toss }} will make the {{ site.data.dungeon.bh.rotfang_hyena }} attack the targeted player. Kite them into the {{ site.data.dungeon.bh.ensnaring_trap }} for free damage and CC. Use {{ site.data.talent.swg }} to keep uptime while kiting.
-* Beware of {{ site.data.dungeon.bh.masters_call }} freeing the trapped {{ site.data.dungeon.bh.rotfang_hyena }} and giving them movement speed. Be ready to get away.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.masters_call }}. If the cast goes through, it will free the trapped {{ site.data.dungeon.bh.rotfang_hyena }} and give them movement speed. Be ready to run away.
 * Do not bait {{ site.data.dungeon.bh.ensnaring_trap }} behind the tank, they will get knocked back by {{ site.data.dungeon.bh.gut_shot }}.
 
 <hr>
@@ -254,12 +257,14 @@ Taking a detour, it's also possible to encounter new mobs. They shouldn't be in 
 
 **{{ site.data.dungeon.bh.decaying_slime }}**
 * It will {{ site.data.dungeon.bh.burst }} on death, move out of it.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.gushing_ooze }}.
 
 **{{ site.data.dungeon.bh.infected_lasher }}**
 * Just does tank damage.
+* Help your tank kiting if he gets many stacks of {{ site.data.dungeon.bh.bleeding }}. Use {{ site.data.spell.earthbind_totem }} or {{ site.data.talent.thunderstorm }} when needed.
 
 **{{ site.data.dungeon.bh.brackenhide_shaper }}**
-* use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.touch_of_decay }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.touch_of_decay }}.
 * Don't pull aggro on the new {{ site.data.dungeon.bh.infected_lasher }} summoned by {{ site.data.dungeon.bh.summon_lashers }}.
 
 **{{ site.data.dungeon.bh.decayed_elder }}**
@@ -276,7 +281,9 @@ Taking a detour, it's also possible to encounter new mobs. They shouldn't be in 
 
 ## {{ site.data.dungeon.bh.treemouth }}
 * Don't be on the tank, {{ site.data.dungeon.bh.vine_whip }} and {{ site.data.dungeon.bh.decay_spray }} cleave!
-* {{ site.data.dungeon.bh.decay_spray }} will summon 4 {{ site.data.dungeon.bh.decaying_slime }}. Cleave them and use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.gushing_ooze }}.
+* {{ site.data.dungeon.bh.decay_spray }} will summon 4 {{ site.data.dungeon.bh.decaying_slime }}.
+  - Cleave them, and they will {{ site.data.dungeon.bh.burst }} on death.
+  - Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.gushing_ooze }}.
 * Spread {{ site.data.spell.fs }} to all targets for {{ site.data.talent.splinter }} value!
 * Use {{ site.data.talent.swg }} to kite away while {{ site.data.dungeon.bh.grasping_vines }} is pulling you. Don't walk into {{ site.data.dungeon.bh.withering_away }} puddles.
 * {{ site.data.dungeon.bh.treemouth }} will {{ site.data.dungeon.bh.consume }} any target within 10 yards after casting {{ site.data.dungeon.bh.grasping_vines }}.
@@ -696,7 +703,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Just does Tank damage!
 
 **{{ site.data.dungeon.nl.understone_drudge }}**
-* These can easily be skipped by running in the water to the side (see this video). They only do tank damage anyway.
+* These can easily be skipped by running in the water to the side (see (this video)[]). They only do tank damage anyway.
 
 **{{ site.data.dungeon.nl.vileshard_crawler }}**
 * {{ site.data.dungeon.nl.acid_splatter }} will spawn an acid pool on death.
