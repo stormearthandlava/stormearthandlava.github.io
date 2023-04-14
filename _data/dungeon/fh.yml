@@ -17,6 +17,7 @@ example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel
 # Shitting Parrot Notable Trash Mobs
 sharkbait: <a href="https://www.wowhead.com/npc=129743/sharkbait" target="blank">Sharkbait</a>
 vile_bombardment: <a href="https://www.wowhead.com/spell=256005/vile-bombardment" target="blank">Vile Bombardment</a> # Puddles until first boss
+vile_coating: <a href="https://www.wowhead.com/spell=257274/vile-coating" target="blank">Vile Coating</a> # damage and slow in puddles
 
 irontide_enforcer: <a href="https://www.wowhead.com/npc=129602/irontide-enforcer" target="blank">Irontide Enforcer</a>
 brutal_backhand: <a href="https://www.wowhead.com/spell=257426/brutal-backhand" target="blank">Brutal Backhand</a> # Frontal
@@ -27,9 +28,10 @@ crippling_bite: <a href="https://www.wowhead.com/spell=257478/crippling-bite" ta
 bestial_wrath: <a href="https://www.wowhead.com/spell=257476/bestial-wrath" target="blank">Bestial Wrath</a> # Soothe
 
 irontide_corsair: <a href="https://www.wowhead.com/npc=126928/irontide-corsair" target="blank">Irontide Corsair</a> #jumps around
-poisoning_strike: <a href="https://www.wowhead.com/spell=257436/poisoning-strike" target="blank">Poisoning Strike</a> # Poison on tank
+poisoning_strike: <a href="https://www.wowhead.com/spell=257436/poisoning-strike" target="blank">Poisoning Strike</a> # Poison on a random target
 
-irontide_crackshot: <a href="https://www.wowhead.com/npc=126918/irontide-crackshot" target="blank">Irontide Crackshot</a> # immobile
+irontide_crackshot: <a href="https://www.wowhead.com/npc=126918/irontide-crackshot" target="blank">Irontide Crackshot</a> # ranged caster
+shoot: <a href="https://www.wowhead.com/spell=268440/shoot" target="blank">Shoot</a> # ranged auto-attack
 azerite_grenade: <a href="https://www.wowhead.com/spell=258672/azerite-grenade" target="blank">Azerite Grenade</a> # Swirl dodge
 
 irontide_bonesaw: <a href="https://www.wowhead.com/npc=129788/irontide-bonesaw" target="blank">Irontide Bonesaw</a>
@@ -131,7 +133,7 @@ ground_shatter: <a href="https://www.wowhead.com/spell=258199/ground-shatter" ta
 # Ring of booty
 lightning: <a href="https://www.wowhead.com/npc=130099/lightning" target="blank">Lightning</a> # GW is great
 
-ludwig_von_tortollan: <a href="https://www.wowhead.com/npc=129699/ludwig-von-tortollan" target="blank">Ludwig Von Tortollana> # will bully the tank (stoneskin?)
+ludwig_von_tortollan: <a href="https://www.wowhead.com/npc=129699/ludwig-von-tortollan" target="blank">Ludwig Von Tortollan</a> # will bully the tank (stoneskin?)
 shell_bounce: <a href="https://www.wowhead.com/spell=257904/shell-bounce" target="blank">Shell Bounce</a> # just open eyes and dodge
 
 Trothak: <a href="https://www.wowhead.com/npc=126969/trothak" target="blank">Trothak</a>
@@ -162,6 +164,7 @@ cannon_barrage: <a href="https://www.wowhead.com/spell=257305/cannon-barrage" ta
 flaming_shrapnel: <a href="https://www.wowhead.com/spell=257308/flaming-shrapnel" target="blank">Flaming Shrapnel</a> # DoT from cannonballs
 fiery_debris: <a href="https://www.wowhead.com/spell=257460/fiery-debris" target="blank">Fiery Debris</a> # pool
 swiftwind_saber: <a href="https://www.wowhead.com/spell=257454/swiftwind-saber" target="blank">Swiftwind Saber</a> # stand back to the wall
+avast_ye: <a href="https://www.wowhead.com/spell=257316/avast-ye" target="blank">Avast, ye</a> # Summon grenadier
 irontide_grenadier: <a href="https://www.wowhead.com/npc=129758/irontide-grenadier" target="blank">Irontide Grenadier</a>
 black_powder_bomb: <a href="https://www.wowhead.com/spell=257315/black-powder-bomb" target="blank">Black Powder Bomb</a> # Kamikaze
 loaded_dice_all_hands: <a href="https://www.wowhead.com/spell=257402/loaded-dice-all-hands" target="blank">Loaded Dice, All Hands</a> # now targets 3 people

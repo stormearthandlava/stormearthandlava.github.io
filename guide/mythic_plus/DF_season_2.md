@@ -168,7 +168,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 * Use {{ site.data.talent.swg }} to kite when affected by {{ site.data.dungeon.bh.scented_meat }}. Be ready to use {{ site.data.talent.as }} if needed.
 
 **{{ site.data.dungeon.bh.bonebolt_hunter }}**
-* They do a lot of unavoidable damage with {{ site.data.dungeon.bh.shoot }} and {{ site.data.dungeon.bh.bone_bolt}}. Be ready to use {{ site.data.talent.as }} as needed.
+* They do a lot of unavoidable damage with {{ site.data.dungeon.bh.shoot }} and {{ site.data.dungeon.bh.bone_bolt }}. Be ready to use {{ site.data.talent.as }} as needed.
 * Move out of {{ site.data.dungeon.bh.toxic_trap }}.
 
 **{{ site.data.dungeon.bh.trickclaw_mystic }}**
@@ -204,8 +204,8 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
   - Nuke {{ site.data.dungeon.bh.hextrick_totem }} to help your critterised party members.
 
 ### {{ site.data.dungeon.bh.gashtooth }}
-  - Use {{ site.data.talent.ag }} to help your healer during {{ site.data.dungeon.bh.gash_frenzy}}.
-  - Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.externals.hs }} as needed to survive {{ site.data.dungeon.bh.marked_for_butchery}}.
+  - Use {{ site.data.talent.ag }} to help your healer during {{ site.data.dungeon.bh.gash_frenzy }}.
+  - Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.externals.hs }} as needed to survive {{ site.data.dungeon.bh.marked_for_butchery }}.
 
 <hr>
 
@@ -219,7 +219,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 **{{ site.data.dungeon.bh.rotbow_stalker }}**
 * {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
-* They do a lot of unavoidable damage with {{ site.data.dungeon.bh.shoot }} and {{ site.data.dungeon.bh.bone_bolt}}. Be ready to use {{ site.data.talent.as }} as needed.
+* They do a lot of unavoidable damage with {{ site.data.dungeon.bh.shoot }} and {{ site.data.dungeon.bh.bone_bolt }}. Be ready to use {{ site.data.talent.as }} as needed.
 * Get out of their {{ site.data.dungeon.bh.bone_bolt_volley }} frontal.
 * {{ site.data.dungeon.bh.scented_meat }} is a debuff that will make any {{ site.data.dungeon.bh.vicious_hyena }}, {{ site.data.dungeon.bh.fleshripper_vulture }} and {{ site.data.dungeon.bh.gutchewer_bear }} in the area attack the targeted player. Stay attentive on who the debuff goes, use {{ site.data.spell.earthbind_totem }} and {{ site.data.talent.capacitor_totem }} to help the focused player kite. Use {{ site.data.talent.swg }} to keep uptime while kiting.
 
@@ -296,7 +296,7 @@ If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }
 
 **{{ site.data.dungeon.bh.fetid_rotsinger }}**
 * {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.burst_of_decay}}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.burst_of_decay }}.
 * **IMMMEDIATELY** swap on the {{ site.data.dungeon.bh.decay_totem }} whenever it's spawned by {{ site.data.dungeon.bh.summon_totem }}.
 
 **{{ site.data.dungeon.bh.vile_rothexer }}**
@@ -327,25 +327,33 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 ## Notable Talent Choices
 * {{ site.data.talent.purge }} has some uses but could be skipped for other utilities..
 * {{ site.data.talent.hex }} has some uses for patrol control, hard CC break and add control on the last boss.
+* {{ site.data.talent.pct }} can be useful before the first boss.
+* In higher keys, {{ site.data.talent.stoneskin_totem }} will help your tank during hard pulls and hard hitting bosses.
 
 <hr>
 
 ### Shitting Parrot Notable Trash Mobs
 
-* Until you engage the first boss, {{ site.data.dungeon.fh.sharkbait }} will send {{ site.data.dungeon.fh.vile_bombardment}} on random party member. Do not stay in melee to bait it away and move out of it.
+* Until you engage the first boss, {{ site.data.dungeon.fh.sharkbait }} will send {{ site.data.dungeon.fh.vile_bombardment }} puddles on random party members every 16 seconds.
+* Quickly move out of it to avoid taking damage from {{ site.data.dungeon.fh.vile_coating }}.
+* To bait it away from the group, do not stay in melee and stay spreaded at 5 yards from teammates.
+* Don't be too far from the group for cleave and uptime purposes (see below).
 
 **{{ site.data.dungeon.fh.irontide_enforcer }}**
 * Don't be on the tank, {{ site.data.dungeon.fh.brutal_backhand }} is a frontal on them.
+* {{ site.data.dungeon.fh.shattering_toss }} will throw the tank on a random ranged. Don't be too far from melee, it will help the tank going back in after being thrown.
+* Stay spreaded a 5 yds from your party to avoid sharing {{ site.data.dungeon.fh.shattering_throw }} damage. Use {{ site.data.talent.as }} as needed.
 
 **{{ site.data.dungeon.fh.irontide_mastiff }}**
-* Just does tank damage, Sheeesh....
+* Low health and mostly does tank damage.
 
 **{{ site.data.dungeon.fh.irontide_corsair }}**
-* {{ site.data.talent.poison_cleansing_totem }} can be used to help your tank in higher keys.
+* They will jump on a random target with {{ site.data.dungeon.fh.poisoning_strike }} and apply a poison to their target. Do not be too far for cleave purposes. Use {{ site.data.talent.as }} as needed.
+* {{ site.data.talent.poison_cleansing_totem }} can be used to help your party in higher keys.
 
 **{{ site.data.dungeon.fh.irontide_crackshot }}**
-* This mob is immobile, be careful not to get aggro if the tank is not in range of it.
-* Dodge {{ site.data.dungeon.fh.azerite_grenade }} swirly.
+* These mobs are ranged caster and remain stationary while casting. If Talented, use {{ site.data.talent.thunderstorm }} to pack them up. Be careful not to get aggro if the tank is not actively hitting them.
+* Dodge {{ site.data.dungeon.fh.azerite_grenade }} swirly. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 
 **{{ site.data.dungeon.fh.irontide_bonesaw }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.fh.healing_balm }}.
@@ -368,12 +376,6 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 ### Captain Eudora (the others don't matter) Notable Trash Mobs
 
-**{{ site.data.dungeon.fh.blacktooth_brute }}**
-* Stay farther than 5 yds away to ignore {{ site.data.dungeon.fh.earth_shaker }}.
-
-**{{ site.data.dungeon.fh.cutwater_duelist }}**
-* Move to the side to dodge {{ site.data.dungeon.fh.duelist_dash }} swirly, you will be stun if you are between the mob and his charge point.
-
 **{{ site.data.dungeon.fh.irontide_oarsman }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.fh.sea_spout }}. Move away from the blue swirlies if the cast goes through.
 
@@ -387,16 +389,10 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * Stay farther than 5 yds away to ignore {{ site.data.dungeon.fh.going_bananas }}.
 
 **{{ site.data.dungeon.fh.bilge_rat_swabby }}**
-* This. Is. The. Worst. Mob. In. The. Game. Albeit it's better for caster, {{ site.data.dungeon.fh.slippery_suds }} will stun you if you jump with the debuff. THESE ARE AN ABOMINATION.
+* This. Is. The. Worst. Mob. In. The. Game. Albeit it's better for caster, {{ site.data.dungeon.fh.slippery_suds }} will stun you if you jump with the 30s debuff.
 
-**{{ site.data.dungeon.fh.cutwater_knife_juggler }}**
-* Stay spreaded from your teammates to avoid sharing {{ site.data.dungeon.fh.ricocheting_throw }} damage.
-
-**{{ site.data.dungeon.fh.vermin_trapper }}**
-* Move out of {{ site.data.dungeon.fh.rat_traps }} before it harms. Use {{ site.data.talent.spirit_walk }} to move out if you get rooted.
-
-**{{ site.data.dungeon.fh.soggy_shiprat }}**
-* Just does tank damage, Sheeesh....
+**{{ site.data.dungeon.fh.blacktooth_brute }}**
+* Stay farther than 5 yds away to ignore {{ site.data.dungeon.fh.earth_shaker }}.
 
 **{{ site.data.dungeon.fh.blacktooth_knuckleduster }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.fh.shattering_bellow }}. Be careful not to get spell-locked if the cast goes through.
@@ -404,14 +400,24 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 **{{ site.data.dungeon.fh.blacktooth_scrapper }}**
 * Kite away when focused by {{ site.data.dungeon.fh.blind_rage }}.
 
+**{{ site.data.dungeon.fh.cutwater_duelist }}**
+* Move to the side to dodge {{ site.data.dungeon.fh.duelist_dash }} swirly, you will be stun if you are between the mob and his charge point. Use {{ site.data.talent.swg }} to keep uptime while dodging.
+
+**{{ site.data.dungeon.fh.cutwater_knife_juggler }}**
+* Stay spreaded from your teammates to avoid sharing {{ site.data.dungeon.fh.ricocheting_throw }} damage.
+
+**{{ site.data.dungeon.fh.cutwater_harpooner }}**
+* {{ site.data.dungeon.fh.dragging_harpoon }} can grapple you into melee, which can be very dangerous because of the multiple melee AoE ({{ site.data.dungeon.fh.ground_shatter }}, {{ site.data.dungeon.fh.going_bananas }}, {{ site.data.dungeon.fh.earth_shaker }}, ...). Be ready to move out fast if you get grappled and react with {{ site.data.talent.as }} as needed.
+
+**{{ site.data.dungeon.fh.vermin_trapper }}**
+* Move out of {{ site.data.dungeon.fh.rat_traps }} before it harms. Use {{ site.data.talent.spirit_walk }} to move out if you get rooted.
+
+**{{ site.data.dungeon.fh.soggy_shiprat }}**
+* Low health and mostly does tank damage. They **will not** trigger on death affixes.
+
 <hr>
 ## Join a Crew
 * Depending on the week, one of the three captains will be your ally. Be sure to do the event in the area before the bosses or they will be buffed by {{ site.data.dungeon.fh.under_one_banner }}.
-
-### Joining the Cutwater
-* You will need to get a key by clicking 4 times on {{ site.data.dungeon.fh.murphy }}, a dog pug. A player with stealth can solo this event, or you will need to do packs in the area to be able to click on {{ site.data.dungeon.fh.murphy }}.
-* You will gain {{ site.data.dungeon.fh.cutwater_regalia }} by freing {{ site.data.dungeon.fh.otis }} from his cage with the key {{ site.data.dungeon.fh.murphy }} gives you.
-* {{ site.data.dungeon.fh.cutwater_knife_juggler }}, {{ site.data.dungeon.fh.cutwater_duelist }}, {{ site.data.dungeon.fh.cutwater_harpooner }} and {{ site.data.dungeon.fh.captain_jolly }} will become friendly toward you.
 
 ### Joining the Bilge Rats
 * Drink some {{ site.data.dungeon.fh.bilge_rat_brew }} to gain {{ site.data.dungeon.fh.cutwater_regalia }}.
@@ -421,21 +427,26 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * You need to kill a pack of 6 mobs in a brawl to gain {{ site.data.dungeon.fh.blacktooth_regalia }}.
 * {{ site.data.dungeon.fh.blacktooth_brute }}, {{ site.data.dungeon.fh.blacktooth_scrapper }}, {{ site.data.dungeon.fh.blacktooth_knuckleduster }} and {{ site.data.dungeon.fh.captain_raoul }} will become friendly toward you.
 
+### Joining the Cutwater
+* You will need to get a key by clicking 4 times on {{ site.data.dungeon.fh.murphy }}, a dog pug. A player with stealth can solo this event, or you will need to do packs in the area to be able to click on {{ site.data.dungeon.fh.murphy }}.
+* You will gain {{ site.data.dungeon.fh.cutwater_regalia }} by freing {{ site.data.dungeon.fh.otis }} from his cage with the key {{ site.data.dungeon.fh.murphy }} gives you.
+* {{ site.data.dungeon.fh.cutwater_knife_juggler }}, {{ site.data.dungeon.fh.cutwater_duelist }}, {{ site.data.dungeon.fh.cutwater_harpooner }} and {{ site.data.dungeon.fh.captain_jolly }} will become friendly toward you.
+
 <hr>
 
 ## Council of Captains
 * Depending on the week, one of the three captains will be your ally. Be sure to do the event in the area before the boss or the bosses will be buffed by {{ site.data.dungeon.fh.under_one_banner }}.
-
-### {{ site.data.dungeon.fh.captain_raoul }}
-* Free your ally by killing the {{ site.data.dungeon.fh.blackout_barrel }}.
-* Stay away from melee to passively avoid {{ site.data.dungeon.fh.barrel_smash }}. This ability has an historically bad hitbox, so stay far to give yourself all chances to dodge it.
-* When he is your ally, stand inside of {{ site.data.dungeon.fh.tapped_keg }} to gain 15% damage.
 
 ### {{ site.data.dungeon.fh.captain_eudora }}
 * The most dangerous of the three, by far.
 * {{ site.data.dungeon.fh.powder_shot }} can deal huge damage to a random target. Try to never be low on health or use a {{ site.data.talent.as }} when it's coming and you're low on health.
 * {{ site.data.dungeon.fh.grapeshot }} will make her jump to a corner of the arena and shoot huge frontals into the room. Use {{ site.data.talent.swg }} and {{ site.data.spell.ghost_wolf }} to quickly reposition behind or to the side of her and avoid all damage.
 * When she is your ally, she will periodically stun one of the other bosses with {{ site.data.dungeon.fh.chain_shot }}.
+
+### {{ site.data.dungeon.fh.captain_raoul }}
+* Free your ally by killing the {{ site.data.dungeon.fh.blackout_barrel }}.
+* Stay away from melee to passively avoid {{ site.data.dungeon.fh.barrel_smash }}. This ability has an historically bad hitbox, so stay far to give yourself all chances to dodge it.
+* When he is your ally, stand inside of {{ site.data.dungeon.fh.tapped_keg }} to gain 15% damage.
 
 ### {{ site.data.dungeon.fh.captain_jolly }}
 * Dodge {{ site.data.dungeon.fh.cutting_surge }} swirly.
@@ -450,29 +461,25 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <hr>
 
-### ZZZ... Roleplay... Notable Trash Mobs
+### Ring of Booty Notable Trash Mobs
 
 **{{ site.data.dungeon.fh.irontide_crusher }}**
 * Stay farther than 9 yds away to ignore {{ site.data.dungeon.fh.ground_shatter }}.
 * Dodge {{ site.data.dungeon.fh.boulder_throw }} swirly.
 
-**{{ site.data.dungeon.fh.cutwater_harpooner }}**
-* {{ site.data.dungeon.fh.dragging_harpoon }} can grapple you into melee, which can be very dangerous because of the multiple melee AoE ({{ site.data.dungeon.fh.ground_shatter }}, {{ site.data.dungeon.fh.going_bananas }}, {{ site.data.dungeon.fh.earth_shaker }}, ...). Be ready to move out fast if you get grappled and react with {{ site.data.talent.as }} as needed.
-
-### Ring of Booty
 **{{ site.data.dungeon.fh.lightning }}**
 * There's no real trick to catch the pig, try to spam click on his spawn location, then chase it in {{ site.data.spell.ghost_wolf }} form
 
 **{{ site.data.dungeon.fh.ludwig_von_tortollan }}**
-* He will bully your tank in higher keys, consider using {{ site.data.talent.stoneskin_totem }} to help them.
+* His melees will destroy your tank in higher keys, consider using {{ site.data.talent.stoneskin_totem }} to help them.
 * Keep your eyes open and dodge the incoming {{ site.data.dungeon.fh.shell_bounce }}. Try to keep {{ site.data.talent.swg }} for when there are multiple shells in the arena.
-* Be sure sure to apply {{ site.data.spell.fs }} to the training dummies on the outskirt of the ring for funnel in fire builds.
+* Be sure to apply {{ site.data.spell.fs }} to the training dummies on the outskirt of the ring for funnel in fire builds.
 
 <hr>
 
 ## {{ site.data.dungeon.fh.Trothak }}
-* Be sure sure to apply {{ site.data.spell.fs }} to the training dummies on the outskirt of the ring for funnel in fire builds.
-* You can completly ignore {{ site.data.dungeon.fh.ripper_punch }} and {{ site.data.dungeon.fh.shark_tornado }} by staying far from the boss.
+* Be sure to apply {{ site.data.spell.fs }} to the training dummies on the outskirt of the ring for funnel in fire builds.
+* You can completely ignore {{ site.data.dungeon.fh.ripper_punch }} and {{ site.data.dungeon.fh.shark_tornado }} by staying far from the boss.
 * {{ site.data.dungeon.fh.shark_toss }} will throw a {{ site.data.dungeon.fh.flailing_shark }} on a random range. {{ site.data.dungeon.fh.flailing_shark }}s will pursue the closest target to them. It's a good thing for the healer to pick it up instead of you for damage uptime, but kiting it with {{ site.data.talent.swg }} is also fine.
 * Try to kite {{ site.data.dungeon.fh.flailing_shark }}s into {{ site.data.dungeon.fh.throw_chum }} puddles to slow them and allow you to DPS freely.
 
@@ -497,9 +504,9 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 ## {{ site.data.dungeon.fh.harlan_sweete }}
 * Compared to BfA where {{ site.data.dungeon.fh.swiftwind_saber }} did nothing but bump you back and you could ignore the mechanic, it will kill you if a single wind blade hits you. Stand far to see them come toward you and be sure to dodge.
 * When targeted by {{ site.data.dungeon.fh.cannon_barrage }}, kite away from the group to drop the {{ site.data.dungeon.fh.fiery_debris }}. You can stutter step to reduce the number of puddles in the arena.
-* Use {{ site.data.talent.hex }} or {{ site.data.spell.earthbind_totem }} to keep {{ site.data.dungeon.fh.irontide_grenadier }} far from you.
-* At 66% hp, {{ site.data.dungeon.fh.loaded_dice_all_hands }} will triple all of the boss ability. Be sure to kite the {{ site.data.dungeon.fh.cannon_barrage }} in a group.
-* At 33%, {{ site.data.dungeon.fh.loaded_dice_man_o_war }} will make the boss take 100% more damage. In higher keys, you want to use everything here before he kills your tank.
+* {{ site.data.dungeon.fh.avast_ye }} will summon an {{ site.data.dungeon.fh.irontide_grenadier }} that will try to suicide on a party member with {{ site.data.dungeon.fh.black_powder_bomb }}. Use {{ site.data.talent.hex }}, {{ site.data.talent.thunderstorm }} or {{ site.data.spell.earthbind_totem }} to keep them far from the group.
+* At 66% hp, {{ site.data.dungeon.fh.loaded_dice_all_hands }} will triple all of the boss ability. Be sure to kite the {{ site.data.dungeon.fh.cannon_barrage }} in a group and pay even more attention to {{ site.data.dungeon.fh.swiftwind_saber }}.
+* At 33%, {{ site.data.dungeon.fh.loaded_dice_man_o_war }} will make the boss take 100% more damage. In higher keys, you want to use everything here before he kills your tank. This is a good time to use {{ site.data.talent.stoneskin_totem }} if talented.
 
 </div>
 </div>
@@ -724,9 +731,10 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Dodge {{ site.data.dungeon.nl.avalanche }}'s frontal and the following swirlies. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 
 **{{ site.data.dungeon.nl.rockbound_pelter }}**
-* This is the most annoying mob of the area. It is both very immobile and very deadly.
+* This is the most annoying mob of the area. As a ranged caster, it is both very stationary and very deadly.
 * Be prepared for the incoming damage of {{ site.data.dungeon.nl.jagged_disc }}, constantly dealing moderate damage to random group member. When in packs of 2 or 3 mobs, {{ site.data.dungeon.nl.jagged_disc }} going on the same person multiple times becomes deadly very fast.
-* In addition to being immobile, it will not stay still once packed, using {{ site.data.dungeon.nl.retreat }} to disengage.
+* Use {{ site.data.talent.stoneskin_totem }} as much possible to reduce party damage.
+* In addition to being stationary, it will not stay packed, using {{ site.data.dungeon.nl.retreat }} to disengage. Use {{ site.data.talent.thunderstorm }} to pack them and CC to keep them in place.
 
 **{{ site.data.dungeon.nl.stoneclaw_hunter }}**
 * Stay farther than 10 yds away to ignore {{ site.data.dungeon.nl.stone_shatter }}.
@@ -756,6 +764,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Quickly CC and kill the {{ site.data.dungeon.nl.tarspitter_grub }} summoned by {{ site.data.dungeon.nl.worm_call }} before it finished its {{ site.data.dungeon.nl.metamorphosis }} cast, or it will transform into a {{ site.data.dungeon.nl.rotdrool_grabber }}.
 
 **{{ site.data.dungeon.nl.rotdrool_grabber }}**
+* This mobs is immobile.
 * Kite away when you are dragged in by {{ site.data.dungeon.nl.barbed_tongue }}. Use {{ site.data.talent.swg }} to keep uptime while kiting.
 * Use a defensive if you get dragged into {{ site.data.dungeon.nl.rancid_pool }}.
 
@@ -783,8 +792,11 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Kite away from it if you're targeted by {{ site.data.dungeon.nl.burning_hatred }}.
 
 **{{ site.data.dungeon.nl.rockbound_trapper }}**
-* Be prepared for the incoming damage of {{ site.data.dungeon.nl.jagged_disc }}, constantly dealing moderate damage to random group member. When in packs of 2 or 3 mobs, {{ site.data.dungeon.nl.jagged_disc }} going on the same person multiple times becomes deadly very fast.
+* This mob is a ranged caster that is very stationary.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.nl.bound }}.
+* Be prepared for the incoming damage of {{ site.data.dungeon.nl.jagged_disc }}, constantly dealing moderate damage to random group member. When in packs of 2 or 3 mobs, {{ site.data.dungeon.nl.jagged_disc }} going on the same person multiple times becomes deadly very fast.
+* Use {{ site.data.talent.stoneskin_totem }} as much possible to reduce party damage.
+* In addition to being stationary, it will not stay packed, using {{ site.data.dungeon.nl.retreat }} to disengage. Use {{ site.data.talent.thunderstorm }} to pack them and CC to keep them in place.
 
 **Packs composed of {{ site.data.dungeon.nl.rockbound_trapper }} and {{ site.data.dungeon.nl.emberhusk_dominator }} combined will most likely kill you if your healer falls behind or if you don't help him.**
 
@@ -868,7 +880,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Move out of the {{ site.data.dungeon.ntr.burning_chain }} traps.
 
 **{{ site.data.dungeon.ntr.overseer_lahar }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.burning_roar }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.burning_roar }}. Beware, it will spell-lock you if you get hit while casting.
 * Stay farther than 15yds away to dodge most of his AoE and dodge the swirlies created by {{ site.data.dungeon.ntr.eruptive_crash }}.
 
 <hr>
@@ -984,17 +996,17 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Dodge or hard-CC the {{ site.data.dungeon.ur.rotten_bile }} frontal.
 
 **{{ site.data.dungeon.ur.chosen_blood_matron }}**
-* Dodge the {{ site.data.dungeon.ur.savage_cleave }} frontal when she dashes near you.
+* Dodge the {{ site.data.dungeon.ur.savage_cleave }} frontal when she dashes near you. Use defensive as needed if it hits you and you get the ensuing bleed.
 * {{ site.data.dungeon.ur.warcry }} will buff the nearby allies, making this mob a priority target.
 
 **{{ site.data.dungeon.ur.fanatical_headhunter }}**
 * Use {{ site.data.talent.spirit_walk }} or {{ site.data.talent.thunderous_paws }} to dispel {{ site.data.dungeon.ur.hooked_snare }}. This is important to be able to dodge {{ site.data.dungeon.ur.chosen_blood_matron }}'s {{ site.data.dungeon.ur.savage_cleave }}.
-* {{ site.data.dungeon.ur.barbed_spear}} does damage to a random target, be ready to use a defensive if you drop low.
+* {{ site.data.dungeon.ur.barbed_spear }} does damage to a random target, be ready to use a defensive if you drop low.
 
 **{{ site.data.dungeon.ur.devout_blood_priest }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.dark_reconstitution }} in priority.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.blood_bolt }} and {{ site.data.dungeon.ur.gift_of_ghuun }} when possible.
-* Use {{ site.data.talent.purge}} to dispel {{ site.data.dungeon.ur.gift_of_ghuun }} when needed.
+* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ur.gift_of_ghuun }} when needed.
 
 **{{ site.data.dungeon.ur.befouled_spirit }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.harrowing_despair }} in priority.
@@ -1018,7 +1030,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 **{{ site.data.dungeon.ur.feral_bloodswarmer }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.sonic_screech }} when possible. Be sure to stop casting if you see the cast going through or you will get spell locked.
-* Use {{ site.data.talent.swg }} and your CC to kite when you're fixated by {{ site.data.dungeon.ur.thirst_for_blood }}.
+* Use {{ site.data.talent.swg }} and your CC to kite when you're fixated by {{ site.data.dungeon.ur.thirst_for_blood }}. Don't move too far away from it or it will dash to you. Use {{ site.data.talent.as }} or {{ site.data.item.potion_rhp }} as needed.
 
 **{{ site.data.dungeon.ur.living_rot }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.wave_of_decay }} in lowest priority.
@@ -1037,14 +1049,14 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 ### Shroomed Troll Notable Trash Mobs
 
 **{{ site.data.dungeon.ur.reanimated_guardian }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.bone_shield }} and {{ site.data.talent.purge}} to remove it.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.bone_shield }} and {{ site.data.talent.purge }} to remove it.
 
 **{{ site.data.dungeon.ur.fallen_deathspeaker }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.raise_dead }} at all cost or you will get an extra add.
 * Use hard CC to delay the cast of {{ site.data.dungeon.ur.wicked_frenzy }}.
 
 **{{ site.data.dungeon.ur.grotesque_horror }}**
-* These worms hide in the blood puddles and will be body pulled whenever somebody walks near them. Be sure to follow your group to not aggro extra count.
+* These worms hide in blood puddles and will be body pulled whenever somebody walks near them. Be sure to follow your group to not aggro extra count.
 * This mob is immobile.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.death_bolt }}.
 
@@ -1072,7 +1084,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <hr>
 
 ## {{ site.data.dungeon.ur.unbound_abomination }}
-* Due to {{ site.data.dungeon.ur.blood_barrier}}, damaging {{ site.data.dungeon.ur.unbound_abomination }} will fill it's energy bar until it gains 100 energy. It will then spawn 2 {{ site.data.dungeon.ur.blood_visage }}, hitting for the boss for 17% of his health on death with {{ site.data.dungeon.ur.fatal_link }}.
+* Due to {{ site.data.dungeon.ur.blood_barrier }}, damaging {{ site.data.dungeon.ur.unbound_abomination }} will fill it's energy bar until it gains 100 energy. It will then spawn 2 {{ site.data.dungeon.ur.blood_visage }}, hitting for the boss for 17% of his health on death with {{ site.data.dungeon.ur.fatal_link }}.
 * Bait {{ site.data.dungeon.ur.vile_expulsion }} then move through the boss to dodge the breath. You might get a puddle under your feets but it doesn't really matter, only the breath will heavily damage you.
 * The grey puddles created by {{ site.data.dungeon.ur.vile_expulsion }} will transform into {{ site.data.dungeon.ur.rotting_spore }} and will fly toward the party. You can use anything to keep them at bay, they will die in 1 hit. Dropping one {{ site.data.spell.eq }} when their number spiral out of control can be a good idea.
 * {{ site.data.dungeon.ur.putrid_blood }} will be a DoT applied over time to the whole party and is the soft enrage of the boss. You need to periodically dispel it, either with your heal's dispel or with {{ site.data.dungeon.ur.cleansing_light }} that will be cast on a random party member. Use defensives and {{ site.data.talent.ag }} when the stacks start ramping up.
@@ -1244,7 +1256,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 ### Another Trogg King Notable Trash Mobs
 
 **{{ site.data.dungeon.udm.burly_rock_thrower }}**
-* This mobs are immobile. They are often LoS by parties to pack them up.
+* These mobs are ranged caster and remain stationary while casting. Follow your party to LoS them or use {{ site.data.talent.thunderstorm }} to pack them up.
 * Watch your feet and dodge the {{ site.data.dungeon.udm.throw_rock }} swirlies.
 
 **{{ site.data.dungeon.udm.stonevault_ambusher }}**
@@ -1276,7 +1288,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * Due to {{ site.data.dungeon.udm.ancient_dynamo }}, the boss must be stunned to counter {{ site.data.dungeon.udm.titanic_empowerment }} at 100 energy.
 * The tank must kite the boss through {{ site.data.dungeon.udm.resonating_orb }} to get rid of {{ site.data.dungeon.udm.inexorable }} and eventually stun it.
 * You must dodge {{ site.data.dungeon.udm.resonating_orb }} at all cost or you will be unable to stun the boss. Try to stay close to the tank to bait the orbs close enough.
-* {{ site.data.dungeon.udm.crushing_stomp }} will deal physical damage and knock you back. Stay clear of {{ site.data.dungeon.udm.resonating_orb }} and use a defensive as needed. This is a good place to use {{ site.data.talent.stoneskin_totem }} if talented. *TODO: Check if this spelllocks or is just a knockback.*
+* {{ site.data.dungeon.udm.crushing_stomp }} will deal physical damage and knock you back. Stay clear of {{ site.data.dungeon.udm.resonating_orb }} and use a defensive as needed. This is a good place to use {{ site.data.talent.stoneskin_totem }} if talented. *TODO: Check if this spell-locks or is just a knockback.*
 * {{ site.data.dungeon.udm.unrelenting }} makes the fight scaling over time each time you stun the boss, be sure to use your defensives on {{ site.data.dungeon.udm.crushing_stomp }} at higher stack.
 
 <hr>
@@ -1299,7 +1311,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 * They will jump on a random target with {{ site.data.dungeon.udm.ambush }}. Stay close to melee for cleave purposes, but not in melee (see below).
 
 **{{ site.data.dungeon.udm.cavern_seeker }}**
-* Stay farther than 10 yds away to avoid {{ site.data.dungeon.data.udm.sonic_burst }} passively. Beware, it will spelllock you if you get hit while casting.
+* Stay farther than 10 yds away to avoid {{ site.data.dungeon.data.udm.sonic_burst }} passively. Beware, it will spell-lock you if you get hit while casting.
 
 <hr>
 
