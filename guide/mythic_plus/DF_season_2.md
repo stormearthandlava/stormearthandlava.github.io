@@ -148,11 +148,11 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 ### Very Recommended
 * A slow removal with either {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }}.
+* {{ site.data.talent.purge }} is not insanely good but can be used throughout the dungeon on {{ site.data.dungeon.bh.focus_earth }}.
 
 ### Optional Picks
 * {{ site.data.talent.tremor_totem }} can be used to counter {{ site.data.dungeon.bh.hideous_cackle }}, a fear that can be kicked and is present throughout the dungeon. But since the cast can be kicked, {{ site.data.talent.tremor_totem }} is not mandatory.
-* {{ site.data.talent.wrt }} is quite useful with the long corridors of the dungeon and on the last boss' intermission.
-* {{ site.data.talent.purge }} has uses before the first boss, but could be skipped.
+* {{ site.data.talent.poison_cleansing_totem }} can be used to dispel a poison from a mob's melees, but it's very anecdotic.
 * {{ site.data.talent.thunderstorm }} can be used for kiting and grouping. {{ site.data.talent.thundershock }} can be used as an extra hard CC.
 * {{ site.data.talent.hex }} can be used on the last boss to CC one of the Infusers and reduce the damage of the intermission.
 * {{ site.data.talent.gust_of_wind }} as a burst of mobility to move out of the various AoE.
@@ -225,8 +225,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 **{{ site.data.dungeon.bh.gutstabber }}**
 * This mobs use {{ site.data.dungeon.bh.stealth }} and are scattered in the area. Try to learn their position to avoid running into them.
-* Use {{ site.data.talent.as }} if you body pull.
-* If talented, use {{ site.data.talent.poison_cleansing_totem }} to remove {{ site.data.dungeon.bh.withering_poison }} from your tank.
+* They will jump on a random target then use {{ site.data.dungeon.fh.withering_poison }} that will apply a poison to their target. Do not be too far for cleave purposes. Use {{ site.data.talent.as }} as needed and if talented, use {{ site.data.talent.poison_cleansing_totem }} to remove {{ site.data.dungeon.bh.withering_poison }}.
 
 **{{ site.data.dungeon.bh.fleshripper_vulture }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.screech }}.
@@ -255,50 +254,51 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 ###  {{ site.data.dungeon.bh.treemouth }} Trash Mobs
 
-Going straight from {{ site.data.dungeon.bh.gutshot }} to {{ site.data.dungeon.bh.treemouth }} area, you should only encounter one new type of mob (a mini-boss).
+**{{ site.data.dungeon.bh.decaying_slime }}**
+* It will {{ site.data.dungeon.bh.burst }} on death, leaving a puddle on the ground. Move out of it.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.gushing_ooze }}.
+
+**{{ site.data.dungeon.bh.monstrous_decay}}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.gushing_ooze }}.
+* At 20% hp, it will cast {{ site.data.dungeon.bh.burst_monstrous }}. Quickly kill it before the cast completes or it will summon 3 {{ site.data.dungeon.bh.decaying_slime }}. Stay farther than 10 yds away to ignore the AoE.
+
+**{{ site.data.dungeon.bh.infected_lasher }}**
+* Help your tank kiting if he gets many stacks of {{ site.data.dungeon.bh.bleeding }}. Use {{ site.data.spell.earthbind_totem }} or {{ site.data.talent.thunderstorm }} when needed.
+
+**{{ site.data.dungeon.bh.brackenhide_shaper }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.infuse_corruption }} in priority.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.touch_of_decay }} when possible.
+* Don't pull aggro on the new {{ site.data.dungeon.bh.infected_lasher }} summoned by {{ site.data.dungeon.bh.summon_lashers }}.
+
+**{{ site.data.dungeon.bh.fetid_rotsinger }}**
+* {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.burst_of_decay }}.
+* **IMMMEDIATELY** swap on the {{ site.data.dungeon.bh.decay_totem }} whenever it's spawned by {{ site.data.dungeon.bh.summon_totem }}.
+
+**{{ site.data.dungeon.bh.decayed_elder }}**
+* Don't pull aggro on the new {{ site.data.dungeon.bh.infected_lasher }} summoned by {{ site.data.dungeon.bh.summon_lasher }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.decaying_roots }}. Use {{ site.data.talent.thunderous_paws }} to get out of it if the cast goes through.
+
+**{{ site.data.dungeon.bh.wilted_oak }}**
+* Don't pull aggro on the new {{ site.data.dungeon.bh.infected_lasher }} summoned by {{ site.data.dungeon.bh.essence_of_decay }}.
+* Stay farther than 8 yds away to ignore {{ site.data.dungeon.bh.stomp }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.necrotic_breath }}. But also don't be on the tank, {{ site.data.dungeon.bh.necrotic_breath }} is a frontal on them if it goes through.
 
 #### {{ site.data.dungeon.bh.stinkbreath }}
 * Stay relatively close, but not closer than 7 yards to ignore {{ site.data.dungeon.bh.violent_whirlwind }}.
 * Quickly move to the side when targeted by the {{ site.data.dungeon.bh.stink_breath }} frontal or you will be {{ site.data.dungeon.bh.disoriented }}. Be careful, the cast time is short. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 * Be careful not to fall off the bridge if you plan to use {{ site.data.talent.gust_of_wind }} to dodge {{ site.data.dungeon.bh.stink_breath }}.
 
-Taking a detour, it's also possible to encounter new mobs. They shouldn't be in most route, but here are some advices on how to handle them.
-
-#### {{ site.data.dungeon.bh.treemouth }} optional trash
-
-**{{ site.data.dungeon.bh.decaying_slime }}**
-* It will {{ site.data.dungeon.bh.burst }} on death, move out of it.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.gushing_ooze }}.
-
-**{{ site.data.dungeon.bh.infected_lasher }}**
-* Just does tank damage.
-* Help your tank kiting if he gets many stacks of {{ site.data.dungeon.bh.bleeding }}. Use {{ site.data.spell.earthbind_totem }} or {{ site.data.talent.thunderstorm }} when needed.
-
-**{{ site.data.dungeon.bh.brackenhide_shaper }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.touch_of_decay }}.
-* Don't pull aggro on the new {{ site.data.dungeon.bh.infected_lasher }} summoned by {{ site.data.dungeon.bh.summon_lashers }}.
-
-**{{ site.data.dungeon.bh.decayed_elder }}**
-* Don't pull aggro on the new {{ site.data.dungeon.bh.infected_lasher }} summoned by {{ site.data.dungeon.bh.summon_lasher }}.
-* Use {{ site.data.talent.thunderous_paws }} to get out of {{ site.data.dungeon.bh.decaying_roots }}.
-
-**{{ site.data.dungeon.bh.wilted_oak }}**
-* This is the most dangerous enemy in the area, be sure to focus it.
-* Don't pull aggro on the new {{ site.data.dungeon.bh.infected_lasher }} summoned by {{ site.data.dungeon.bh.essence_of_decay }}.
-* Stay away from it to ignore {{ site.data.dungeon.bh.stomp }}.
-* Dodge the {{ site.data.dungeon.bh.necrotic_breath }} frontal.
-
 <hr>
 
 ## {{ site.data.dungeon.bh.treemouth }}
-* Don't be on the tank, {{ site.data.dungeon.bh.vine_whip }} and {{ site.data.dungeon.bh.decay_spray }} cleave!
-* {{ site.data.dungeon.bh.decay_spray }} will summon 4 {{ site.data.dungeon.bh.decaying_slime }}.
+* Don't be on the tank, {{ site.data.dungeon.bh.vine_whip }} cleave!
+* Dodge the puddles from {{ site.data.dungeon.bh.decay_spray }}. They will summon 4 {{ site.data.dungeon.bh.decaying_slime }}s.
   - Cleave them, and they will {{ site.data.dungeon.bh.burst }} on death.
   - Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.gushing_ooze }}.
-* Spread {{ site.data.spell.fs }} to all targets for {{ site.data.talent.splinter }} value!
 * Use {{ site.data.talent.swg }} to kite away while {{ site.data.dungeon.bh.grasping_vines }} is pulling you. Don't walk into {{ site.data.dungeon.bh.withering_away }} puddles.
 * {{ site.data.dungeon.bh.treemouth }} will {{ site.data.dungeon.bh.consume }} any target within 10 yards after casting {{ site.data.dungeon.bh.grasping_vines }}.
-If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }}. You need to rotate one player to be eaten.
+If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }}. You need to rotate one player to be eaten. The only way to remove the {{ site.data.dungeon.bh.starving_frenzy }} buff is to wait for the next {{ site.data.dungeon.bh.grasping_vines }} cast.
 * You can still cast while consumed. Use {{ site.data.talent.as }}, {{ site.data.talent.ee }}, {{ site.data.item.potion_rhp }} and {{ site.data.spell.healing_surge }} to stay alive at all cost.
 
 <hr>
@@ -312,10 +312,6 @@ If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }
 **{{ site.data.dungeon.bh.disease_slasher }} and {{ site.data.dungeon.bh.wither_biter }}**
 * They just do tank damage.
 
-**{{ site.data.dungeon.bh.fetid_rotsinger }}**
-* {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.burst_of_decay }}.
-* **IMMMEDIATELY** swap on the {{ site.data.dungeon.bh.decay_totem }} whenever it's spawned by {{ site.data.dungeon.bh.summon_totem }}.
 
 **{{ site.data.dungeon.bh.vile_rothexer }}**
 * Stay spreaded at 5 yards to avoid spreading {{ site.data.dungeon.bh.withering_contagion }} to your party.
