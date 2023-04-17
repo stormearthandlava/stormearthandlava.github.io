@@ -144,9 +144,19 @@ When pushing in higher keys, some talents become mandatory to survive:
 <div id="bh-collapse" class="collapse" aria-labelledby="bh" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Notable Talent Choices
-* {{ site.data.talent.tremor_totem }} can be very useful to prevent catastrophic situations with {{ site.data.dungeon.bh.hideous_cackle }}. It is recommended but not mandatory.
-* {{ site.data.talent.purge }} is good as always in dungeon.
+## Talent Choices
+
+### Very Recommended
+* A slow removal with either {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }}.
+
+### Optional Picks
+* {{ site.data.talent.tremor_totem }} can be used to counter {{ site.data.dungeon.bh.hideous_cackle }}, a fear that can be kicked and is present throughout the dungeon. But since the cast can be kicked, {{ site.data.talent.tremor_totem }} is not mandatory.
+* {{ site.data.talent.wrt }} is quite useful with the long corridors of the dungeon and on the last boss' intermission.
+* {{ site.data.talent.purge }} has uses before the first boss, but could be skipped.
+* {{ site.data.talent.thunderstorm }} can be used for kiting and grouping. {{ site.data.talent.thundershock }} can be used as an extra hard CC.
+* {{ site.data.talent.hex }} can be used on the last boss to CC one of the Infusers and reduce the damage of the intermission.
+* {{ site.data.talent.gust_of_wind }} as a burst of mobility to move out of the various AoE.
+* {{ site.data.talent.spirit_wolf }} is pretty good to run back during the last boss intermission.
 
 <hr>
 
@@ -156,7 +166,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 <hr>
 
-### Gnolls Gang Bosses Notable Trash Mobs
+### {{ site.data.dungeon.bh.rira_hackclaw }}'s War Band Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.claw_fighter }}**
 * Use {{ site.data.talent.swg }} to kite {{ site.data.dungeon.bh.vicious_clawmangle }} when you're focused. Be ready to use {{ site.data.talent.as }} if the mob catches up to you.
@@ -201,6 +211,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
   - Kite and stay farther than 8 yards away during {{ site.data.dungeon.bh.bladestorm }}. Use {{ site.data.talent.swg }} to keep uptime while kiting.
 
 ### {{ site.data.dungeon.bh.tricktotem }}
+  - {{ site.data.dungeon.bh.decayed_senses }} will blind your tank, making random party members take aggro. Your healer needs to dispel him fast and you need to stand out of melee to not get bodied.
   - Assign a party member to always interrupt {{ site.data.dungeon.bh.greater_healing_rapids }}. Interrupt {{ site.data.dungeon.bh.earth_bolt_boss }} with the group other kicks.
   - Nuke {{ site.data.dungeon.bh.hextrick_totem }} to help your critterised party members.
 
@@ -210,7 +221,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 <hr>
 
-### Hyena Lover Notable Trash Mobs
+### {{ site.data.dungeon.bh.gutshot }} Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.gutstabber }}**
 * This mobs use {{ site.data.dungeon.bh.stealth }} and are scattered in the area. Try to learn their position to avoid running into them.
@@ -242,18 +253,18 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 <hr>
 
-### Rotten Tree Notable Trash Mobs
+###  {{ site.data.dungeon.bh.treemouth }} Trash Mobs
 
 Going straight from {{ site.data.dungeon.bh.gutshot }} to {{ site.data.dungeon.bh.treemouth }} area, you should only encounter one new type of mob (a mini-boss).
 
-## {{ site.data.dungeon.bh.stinkbreath }}
+#### {{ site.data.dungeon.bh.stinkbreath }}
 * Stay relatively close, but not closer than 7 yards to ignore {{ site.data.dungeon.bh.violent_whirlwind }}.
 * Quickly move to the side when targeted by the {{ site.data.dungeon.bh.stink_breath }} frontal or you will be {{ site.data.dungeon.bh.disoriented }}. Be careful, the cast time is short. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 * Be careful not to fall off the bridge if you plan to use {{ site.data.talent.gust_of_wind }} to dodge {{ site.data.dungeon.bh.stink_breath }}.
 
 Taking a detour, it's also possible to encounter new mobs. They shouldn't be in most route, but here are some advices on how to handle them.
 
-## {{ site.data.dungeon.bh.treemouth }} optional trash
+#### {{ site.data.dungeon.bh.treemouth }} optional trash
 
 **{{ site.data.dungeon.bh.decaying_slime }}**
 * It will {{ site.data.dungeon.bh.burst }} on death, move out of it.
@@ -292,7 +303,7 @@ If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }
 
 <hr>
 
-### Old Gnoll Witch Notable Trash Mobs
+### {{ site.data.dungeon.bh.decatriarch_wratheye }} Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.filth_caller }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.decay_surge }}.
@@ -339,7 +350,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <hr>
 
-### Shitting Parrot Notable Trash Mobs
+### {{ site.data.dungeon.fh.skycapn_kragg }} Notable Trash Mobs
 
 * Until you engage the first boss, {{ site.data.dungeon.fh.sharkbait }} will send {{ site.data.dungeon.fh.vile_bombardment }} puddles on random party members every 16 seconds.
 * Quickly move out of it to avoid taking damage from {{ site.data.dungeon.fh.vile_coating }}.
@@ -381,7 +392,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.fh.revitalizing_brew }}.
 <hr>
 
-### Captain Eudora (the others don't matter) Notable Trash Mobs
+### Council of Captains Notable Trash Mobs
 
 **{{ site.data.dungeon.fh.irontide_oarsman }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.fh.sea_spout }}. Move away from the blue swirlies if the cast goes through.
@@ -423,18 +434,19 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * Low health and mostly does tank damage. They **will not** trigger on death affixes.
 
 <hr>
-## Join a Crew
+
+### Join a Crew
 * Depending on the week, one of the three captains will be your ally. Be sure to do the event in the area before the bosses or they will be buffed by {{ site.data.dungeon.fh.under_one_banner }}.
 
-### Joining the Bilge Rats
+#### Joining the Bilge Rats
 * Drink some {{ site.data.dungeon.fh.bilge_rat_brew }} to gain {{ site.data.dungeon.fh.cutwater_regalia }}.
 * {{ site.data.dungeon.fh.bilge_rat_padfoot }}, {{ site.data.dungeon.fh.bilge_rat_brinescale }}, {{ site.data.dungeon.fh.bilge_rat_swabby }}, {{ site.data.dungeon.fh.bilge_rat_buccaneer }} and {{ site.data.dungeon.fh.captain_eudora }} will become friendly toward you.
 
-### Joining the Blacktooth
+#### Joining the Blacktooth
 * You need to kill a pack of 6 mobs in a brawl to gain {{ site.data.dungeon.fh.blacktooth_regalia }}.
 * {{ site.data.dungeon.fh.blacktooth_brute }}, {{ site.data.dungeon.fh.blacktooth_scrapper }}, {{ site.data.dungeon.fh.blacktooth_knuckleduster }} and {{ site.data.dungeon.fh.captain_raoul }} will become friendly toward you.
 
-### Joining the Cutwater
+#### Joining the Cutwater
 * You will need to get a key by clicking 4 times on {{ site.data.dungeon.fh.murphy }}, a dog pug. A player with stealth can solo this event, or you will need to do packs in the area to be able to click on {{ site.data.dungeon.fh.murphy }}.
 * You will gain {{ site.data.dungeon.fh.cutwater_regalia }} by freing {{ site.data.dungeon.fh.otis }} from his cage with the key {{ site.data.dungeon.fh.murphy }} gives you.
 * {{ site.data.dungeon.fh.cutwater_knife_juggler }}, {{ site.data.dungeon.fh.cutwater_duelist }}, {{ site.data.dungeon.fh.cutwater_harpooner }} and {{ site.data.dungeon.fh.captain_jolly }} will become friendly toward you.
@@ -492,7 +504,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <hr>
 
-### Male Ashvane Notable Trash Mobs
+### {{ site.data.dungeon.fh.harlan_sweete }} Notable Trash Mobs
 
 **{{ site.data.dungeon.fh.irontide_officer }}**
 * Just does tank damage, Sheeesh....
@@ -526,72 +538,83 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 <div id="hoi-collapse" class="collapse" aria-labelledby="hoi" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Notable Talent Choices
-* {{ site.data.talent.purge }} has some uses but could be skipped for other utilities.
-* {{ site.data.talent.spirit_walk }} has some uses but could be skipped for other utilities.
-* {{ site.data.talent.earthgrab_totem }} could be used in the frog area, but {{ site.data.talent.wrt }} is quite useful with the long corridors of the dungeon.
+## Talent Choices
+
+### Very Recommended
+* {{ site.data.talent.poison_cleansing_totem }} removes the poison in the frog area, making the whole mechanic trivial.
+* {{ site.data.talent.wrt }} is quite useful with the long corridors of the dungeon and on the last boss' intermission.
+* A slow removal with either {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }}.
+
+### Optional Picks
+* {{ site.data.talent.purge }} has one use before the first boss, but could be skipped.
+* {{ site.data.talent.thunderstorm }} can be used for kiting and grouping. {{ site.data.talent.thundershock }} can be used as an extra hard CC.
+* {{ site.data.talent.hex }} can be used on the last boss to CC one of the Infusers and reduce the damage of the intermission.
+* {{ site.data.talent.gust_of_wind }} as a burst of mobility to move out of the various AoE.
+* {{ site.data.talent.spirit_wolf }} is pretty good to run back during the last boss intermission.
 
 <hr>
 
-### Old Keeper Guy Notable Trash Mobs
+### {{ site.data.dungeon.hoi.watcher_irideus }} Notable Trash Mobs
 
 **{{ site.data.dungeon.hoi.primalist_geomancer }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.earth_shield }}. Use {{ site.data.talent.purge }} to dispel it if the cast goes through.
-* Stay farther than 5 yards away to ignore {{ site.data.dungeon.hoi.seismic_slam }}.
+* Dodge the swirl created by {{ site.data.dungeon.hoi.seismic_slam }}.
+
+**{{ site.data.dungeon.hoi.primalist_ravager }}**
+* {{ site.data.dungeon.hoi.tailwind }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
+
+**{{ site.data.dungeon.hoi.skulking_zealot }}**
+* The mobs are using {{ site.data.dungeon.hoi.stealth }} around the area, try to learn their position to not accidently run into them.
+* Kill them somewhat fast to avoid {{ site.data.dungeon.hoi.rising_squall }} scaling to infinity.
 
 **{{ site.data.dungeon.hoi.refti_defender }}**
 * Don't be on the tank, {{ site.data.dungeon.hoi.spear_flurry }} cleaves!
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.demoralizing_shout }}.
 
 **{{ site.data.dungeon.hoi.containment_apparatus }}**
-* Use hard CC such as {{ site.data.talent.capacitor_totem }} or {{ site.data.talent.thunderstorm }} to cancel {{ site.data.dungeon.hoi.expulse }} at all cost.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.containment_beam }}.  
-*Note: It's highly possible that {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }} can be used to cancel {{ site.data.dungeon.hoi.containment_beam }}, feel free to tag @Elivrio#1450 on the Earthshrine Discord if you have evidence that it works.*
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.expulse }}.
+* {{ site.data.dungeon.hoi.expulse }} is an AoE that will deal huge damage to your party. Try to coordinate with your party to never let a cast go through. Use hard CC and interrupts when possible, and use {{ site.data.talent.as }} as needed.
+* Be careful if you are targeted by multiple casts of {{ site.data.dungeon.hoi.containment_beam }}. Use a defensive as needed.
 
-**{{ site.data.dungeon.hoi.primalist_ravager }}**
-* {{ site.data.dungeon.hoi.tailwind }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.blasting_gust }}. Assign a player to always kick this, it is a priority interrupt.
+*TODO: It's possible that {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }} can be used to cancel {{ site.data.dungeon.hoi.containment_beam }}, feel free to tag @Elivrio#1450 on the Earthshrine Discord if you have evidence that it works.*
 
 <hr>
 
 ## {{ site.data.dungeon.hoi.watcher_irideus }}
 ### Phase 1
-* Dodge the {{ site.data.dungeon.hoi.spark_volley }} blue swirlies. Use {{ site.data.talent.swg }} when needed to keep uptime while dodging.
-* Stay spreaded with {{ site.data.dungeon.hoi.power_overload }} debuff. Use {{ site.data.talent.as }} as needed to survive the DoT. Move out of the {{ site.data.dungeon.hoi.power_field }} that it leaves on the ground when removed.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.static_surge }}.  
-*TODO: Only the dungeon journal says that {{ site.data.dungeon.hoi.static_surge }} is interrupteable, must be checked.*
+* Don't be behind the tank, {{ site.data.dungeon.hoi.titanic_fist }} is a frontal on them.
+* Dodge the {{ site.data.dungeon.hoi.spark_volley }} blue swirlies. Use {{ site.data.talent.swg }} to keep uptime while dodging.
+* Stay spreaded for the {{ site.data.dungeon.hoi.power_overload }} debuff. Use {{ site.data.talent.as }} as needed to survive the DoT.
+* Use {{ site.data.talent.gust_of_wind }} to quickly move out of the {{ site.data.dungeon.hoi.power_field }} left on the ground by {{ site.data.dungeon.hoi.power_overload }} when removed. Be careful, the width of the AoE will be increased after the intermission.
+* Use {{ site.data.talent.ag }} and help your healer during {{ site.data.dungeon.hoi.static_surge }}. Be ready to use a defensive as needed.
 
 ### Intermission - Kill adds on shield
-* Wait until {{ site.data.dungeon.hoi.nullification_device }} are dragged onto {{ site.data.dungeon.hoi.watcher_irideus }} to kill them. Stay away from their {{ site.data.dungeon.hoi.nullifying_pulse }} on death explosion.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.purifying_blast }}.
-* The boss will be more deadly after its transition. Be ready to help your healer with your defensives and off-healing.
+* Wait until {{ site.data.dungeon.hoi.nullification_device }} are dragged onto {{ site.data.dungeon.hoi.watcher_irideus }} to kill them.
+* Stay farther than 12 yds away do dodge their {{ site.data.dungeon.hoi.nullifying_pulse }} on death explosion.
+* Be careful about {{ site.data.dungeon.hoi.purifying_blast }} and use a defensive if you get multiple stacks.
+* Due to {{ site.data.dungeon.hoi.siphon_power }}, the boss will be more deadly after his transition. Be ready to help your healer with your defensives and off-healing.
 
 <hr>
 
-### Big Frog Notable Trash Mobs
+### {{ site.data.dungeon.hoi.gulping_goliath }} Notable Trash Mobs
 
 **{{ site.data.dungeon.hoi.primalist_shocktrooper }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.lightning_blast }} with extra kick.
-* This mob only does tank damage unless you let it cast {{ site.data.dungeon.hoi.elemental_focus }}. Use hard CC to stop it ({{ site.data.talent.capacitor_totem }} or {{ site.data.talent.thunderstorm }}).  
-*TODO: check if {{ site.data.dungeon.hoi.elemental_focus }} is a hard CC break or a normal one.*
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.elemental_focus }}.
 * Stay spreaded if the {{ site.data.dungeon.hoi.elemental_focus }} cast is successful to avoid {{ site.data.dungeon.hoi.infused_lightning }}'s chain lightning effect.
-
-**{{ site.data.dungeon.hoi.skulking_zealot }}**
-* The mobs are using {{ site.data.dungeon.hoi.stealth }} around the area, try to learn their position to not accidently run into them.
-* Kill them somewhat fast to avoid {{ site.data.dungeon.hoi.rising_squall }} scaling to infinity.
+* Be careful if you are targeted by multiple casts of {{ site.data.dungeon.hoi.lightning_blast }} or {{ site.data.dungeon.hoi.infused_lightning }}. Use a defensive as needed.
 
 **{{ site.data.dungeon.hoi.dazzling_dragonfly }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.dazzle }}.
 * {{ site.data.dungeon.hoi.dazzle }} is a 10 yards frontal, don't be in front of them in case you let it go through.
 
 **{{ site.data.dungeon.hoi.curious_swoglet }}**
-* They will focus random target and each melee will apply {{ site.data.dungeon.hoi.gulp_swog_toxin }}, which is an instant kill at 10 stacks. Consider CCing them and kiting them. {{ site.data.talent.capacitor_totem }}, {{ site.data.spell.earthbind_totem }}, {{ site.data.talent.thunderstorm }}, {{ site.data.talent.swg }} should be used to try to reset your stacks.
+* They will focus random target and each melee will apply {{ site.data.dungeon.hoi.gulp_swog_toxin }}, which is an instant kill at 10 stacks. If talented, you should use {{ site.data.talent.poison_cleansing_totem }} to remove the stacks when possible, allowing your group to stay packed and quickly kill them.
+* Use {{ site.data.talent.capacitor_totem }} to CC them while they are packed.
+* If needed, use {{ site.data.spell.earthbind_totem }}, {{ site.data.talent.thunderstorm }} and/or {{ site.data.talent.swg }} to kite them and reset your stacks.
 
 **{{ site.data.dungeon.hoi.flamecaller_aymi }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.pyretic_burst }}.
-* Dodge {{ site.data.dungeon.hoi.molten_subduction }} ground swirly, use {{ site.data.talent.spirit_walk }} to dispel its effects if hit.
-* Share the damage of {{ site.data.dungeon.hoi.magma_crush }} with your party.  
-*TODO: Check that magma crush is indeed a meteor that can be shared, absent from guides.*
+* {{ site.data.dungeon.hoi.molten_subduction }} will root you in place then {{ site.data.dungeon.hoi.magma_crush }}, a meteor, will fall on you. Either use {{ site.data.talent.spirit_walk }} to dispel {{ site.data.dungeon.hoi.molten_subduction }} then move away or use {{ site.data.talent.gust_of_wind }} to move out quickly after the root ends.
 
 **{{ site.data.dungeon.hoi.squallbringer_cyraz }}**
 * {{ site.data.dungeon.hoi.squallbringer_cyraz }} will charge and random target with {{ site.data.dungeon.hoi.gale_force_charge }} and channel {{ site.data.dungeon.hoi.whirling_fury }} that will do damage 8 yards around him. Quickly move out if you are targeted.
@@ -601,36 +624,43 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 ## {{ site.data.dungeon.hoi.gulping_goliath }}
 * Be ready to use defensives (such as {{ site.data.talent.as }}) when {{ site.data.dungeon.hoi.gulping_goliath }} casts {{ site.data.dungeon.hoi.overpowering_croak }}. Dodge the following {{ site.data.dungeon.hoi.cave_in }} swirlies.
-* Kite the {{ site.data.dungeon.hoi.curious_swoglet }}, be mindful of your {{ site.data.dungeon.hoi.gulp_swog_toxin }} stack count. {{ site.data.talent.capacitor_totem }}, {{ site.data.spell.earthbind_totem }}, {{ site.data.talent.thunderstorm }}, {{ site.data.talent.swg }} should be used to try to reset your stacks.
+* Kite the {{ site.data.dungeon.hoi.curious_swoglet }} and be mindful of your {{ site.data.dungeon.hoi.gulp_swog_toxin }} stack count.
+  - Use {{ site.data.talent.poison_cleansing_totem }} to reset the stacks,
+  - Use {{ site.data.talent.capacitor_totem }} to stun the adds,
+  - Use {{ site.data.spell.earthbind_totem }}, {{ site.data.talent.thunderstorm }} and {{ site.data.talent.swg }} to kite as needed.
 * Move away from {{ site.data.dungeon.hoi.belly_slam }} swirly.
-* Once the boss casts {{ site.data.dungeon.hoi.gulp }}, select one player from your party to be deliberately "consumed" to prevent him from getting {{ site.data.dungeon.hoi.hangry }} Buff (cannot be dispelled). Keep in mind once you get {{ site.data.dungeon.hoi.gulp }} you will take initial damage and get 3 applications of {{ site.data.dungeon.hoi.gulp_swog_toxin }}!
+* Use {{ site.data.talent.ag }} to help your healer during {{ site.data.dungeon.hoi.toxic_effluvia }}.
+* Once the boss casts {{ site.data.dungeon.hoi.gulp }}, select one player from your party to be deliberately "consumed" to prevent him from getting {{ site.data.dungeon.hoi.hangry }} Buff (cannot be dispelled). Keep in mind that {{ site.data.dungeon.hoi.gulp }} will deal initial damage and apply 3 stacks of {{ site.data.dungeon.hoi.gulp_swog_toxin }}.
 
 <hr>
 
-### Fanatic Elementalist Notable Trash Mobs
+### {{ site.data.dungeon.hoi.khajin_the_unyielding }} Notable Trash Mobs
 
 **{{ site.data.dungeon.hoi.primalist_galesinger }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.thunderstorm }} in priority, {{ site.data.dungeon.hoi.wind_buffet }} with extra kicks.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.wind_buffet }}.
+* Stay spreaded when targeted by {{ site.data.dungeon.hoi.thunderstorm }} to avoid cleaving your party. Move out of the result storm AoE.
 
 **{{ site.data.dungeon.hoi.primalist_icecaller }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.ice_shards }} with spares kicks.
+* You should kill this mob in priority when you can.
+* Use hard CC to cancel cast {{ site.data.dungeon.hoi.refreshing_tides }}.
+
+*TODO: Refreshing Tides is flagged as obselete on wowhead, but still appears and heals in Logs. Monitor and check if Blizzard removes it.*
 
 **{{ site.data.dungeon.hoi.primalist_earthshaker }}**
-* Stay farther than 8 yards to ignore {{ site.data.dungeon.hoi.rumbling_earth }}
-*TODO: Check if it can be kicked*
+* Stay farther than 8 yards to ignore {{ site.data.dungeon.hoi.rumbling_earth }}.
 
 **{{ site.data.dungeon.hoi.gusting_proto_dragon }}**
-* Move aside from the {{ site.data.dungeon.hoi.gusting_breath }} frontal.
-* if a {{ site.data.dungeon.hoi.primalist_galesinger }} is within 15yrds, {{ site.data.dungeon.hoi.primal_affinity_wind }} will allow the {{ site.data.dungeon.hoi.gusting_proto_dragon }} to cast {{ site.data.dungeon.hoi.binding_winds }}.
+* Don't be on the tank, {{ site.data.dungeon.hoi.gusting_breath }} is a frontal on them.
+* if a {{ site.data.dungeon.hoi.primalist_galesinger }} is within 15yds, {{ site.data.dungeon.hoi.primal_affinity_wind }} will allow the {{ site.data.dungeon.hoi.gusting_proto_dragon }} to cast {{ site.data.dungeon.hoi.binding_winds }}.
 * Ask for a magic dispel if you are targeted by {{ site.data.dungeon.hoi.binding_winds }}.
 
 **{{ site.data.dungeon.hoi.glacial_proto_dragon }}**
-* Move aside from the {{ site.data.dungeon.hoi.oceanic_breath }} frontal.
+* Don't be on the tank, {{ site.data.dungeon.hoi.oceanic_breath }} is a frontal on them.
 * if a {{ site.data.dungeon.hoi.primalist_icecaller }} is within 15yrds, {{ site.data.dungeon.hoi.primal_affinity_ice }} will allow the {{ site.data.dungeon.hoi.glacial_proto_dragon }} to cast {{ site.data.dungeon.hoi.deep_chill }}.
 * Use {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }} to remove {{ site.data.dungeon.hoi.deep_chill }}.
 
 **{{ site.data.dungeon.hoi.subterranean_proto_dragon }}**
-* Move aside from the {{ site.data.dungeon.hoi.tectonic_breath }} frontal.
+* Don't be on the tank, {{ site.data.dungeon.hoi.tectonic_breath }} is a frontal on them.
 * if a {{ site.data.dungeon.hoi.primalist_earthshaker }} is within 15yrds, {{ site.data.dungeon.hoi.primal_affinity_earth }} will allow the {{ site.data.dungeon.hoi.subterranean_proto_dragon }} to cast {{ site.data.dungeon.hoi.creeping_mold }}.
 * Be mindful of your health if you get the {{ site.data.dungeon.hoi.creeping_mold }} debuff, use defensives as needed to survive.
 
@@ -638,15 +668,15 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 ## {{ site.data.dungeon.hoi.khajin_the_unyielding }}
 * Hide behind an {{ site.data.dungeon.hoi.ice_boulder }} during {{ site.data.dungeon.hoi.hailstorm }}. They don't break Line of Sight so be sure to keep uptime on the boss.
-* An {{ site.data.dungeon.hoi.ice_boulder }} will break down into an {{ site.data.dungeon.hoi.avalanche }} after tanking 2 hits, dealing damage in a 12 yards AoE. When you hide behind the {{ site.data.dungeon.hoi.ice_boulder }}, you can do so while being farther than 12 yards away from it to take no damage. Just make sure that the {{ site.data.dungeon.hoi.ice_boulder }} is between the boss and you.
+* An {{ site.data.dungeon.hoi.ice_boulder }} will break down into an {{ site.data.dungeon.hoi.avalanche }} after tanking 2 hits, dealing damage in a 12 yards AoE. Multiple player can hide behind the same {{ site.data.dungeon.hoi.ice_boulder }}, but don't hide behind a damaged one or it will blow up on you.
 * Stay away from the {{ site.data.dungeon.hoi.ice_boulder }} outside of {{ site.data.dungeon.hoi.hailstorm }} to bait {{ site.data.dungeon.hoi.frost_cyclone }} away.
 * Be ready to use defensive if you are targeted by {{ site.data.dungeon.hoi.frost_shock }}.
-* Dodge the rings from {{ site.data.dungeon.hoi.glacial_surge }}.
+* Dodge the rings from {{ site.data.dungeon.hoi.glacial_surge }}. Use {{ site.data.talent.swg }} to keep uptime while dodging.
 
 <hr>
 
-### Big Elemental Dude Notable Trash Mobs
-The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.crashing_tsunami }} will constantly come into you. {{ site.data.talent.swg }} is very potent in that area to dodge the incoming waves.
+### {{ site.data.dungeon.hoi.primal_tsunami }} Notable Trash Mobs
+Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeon.hoi.crashing_tsunami }} will constantly come toward you. {{ site.data.talent.swg }} is very potent in that area to dodge the incoming waves. You can stay behind a pillar in the middle of the hallway to ignore the incoming waves.
 
 **{{ site.data.dungeon.hoi.aqua_rager }}**
 * Mostly does tank damage.
@@ -672,9 +702,10 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 ### Intermission - Run back to the boss
 * You will be sent at the end of the bridge by {{ site.data.dungeon.hoi.cast_away }}.
 * Dodge the incoming {{ site.data.dungeon.hoi.crashing_tsunami }} and {{ site.data.dungeon.hoi.infused_globules }} to quickly run back. This is great time to use {{ site.data.talent.wrt }} and {{ site.data.talent.spirit_walk }}.
-* Kill the {{ site.data.dungeon.hoi.primalist_infuser }} to end this phase.
+* Kill the 4 {{ site.data.dungeon.hoi.primalist_infuser }} to end this phase.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.hoi.infuse }} from {{ site.data.dungeon.hoi.primalist_infuser }}.
 * {{ site.data.dungeon.hoi.inundate }} does party-wide unavoidable damage. Use {{ site.data.talent.ag }} to help your healer.
+* Consider using {{ site.data.talent.hex }} on one of the {{ site.data.dungeon.hoi.primalist_infuser }} to reduce the potential damage of {{ site.data.dungeon.hoi.inundate }}.
 
 </div>
 </div>
@@ -694,7 +725,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Rocky Dude Notable Trash Mobs
+### {{ site.data.dungeon.nl.rokmora }} Notable Trash Mobs
 
 **{{ site.data.dungeon.nl.rockback_gnasher }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.nl.stone_gaze }}.
@@ -728,7 +759,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Drogbar Sorcerer Notable Trash Mobs
+### {{ site.data.dungeon.nl.ularogg_cragshaper }} Notable Trash Mobs
 
 **{{ site.data.dungeon.nl.understone_drummer }}**
 * This enemy patrols the area. Whenever it enters combat, it will run to the nearest {{ site.data.dungeon.nl.drums_of_war }} and channel {{ site.data.dungeon.nl.war_drums }}, aggroing the nearby enemies and spawning additional ones.
@@ -764,7 +795,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Bonemaw 2 Notable Trash Mobs
+### {{ site.data.dungeon.nl.naraxas }} Notable Trash Mobs
 **{{ site.data.dungeon.nl.stoneclaw_grubmaster }}**
 * Stay farther than 10 yds away to ignore {{ site.data.dungeon.nl.stone_shatter }}.
 * Use {{ site.data.talent.as }} as needed to mitigate the damage of {{ site.data.dungeon.nl.leech }}.
@@ -785,7 +816,8 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Big hammer to compensate Notable Trash Mobs
+### {{ site.data.dungeon.nl.dargrul }} Notable Trash Mobs
+
 **{{ site.data.dungeon.nl.emberhusk_dominator }}**
 * Be prepared for the incoming damage of {{ site.data.dungeon.nl.crystal_spike }}, constantly dealing moderate damage to you. When in packs of 2 or 3 mobs, {{ site.data.dungeon.nl.crystal_spike }} be sure to use a defensive to counter it.
 * Dodge the {{ site.data.dungeon.nl.ember_swipe }} frontal.
@@ -832,7 +864,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Magma Squid Mammoth Notable Trash Mobs
+### {{ site.data.dungeon.ntr.magmatusk }} Notable Trash Mobs
 
 **{{ site.data.dungeon.ntr.qalashi_warden }}**
 * Don't be on the tank, {{ site.data.dungeon.ntr.volcanic_guard }} is a frontal on them.
@@ -865,7 +897,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Drake Hunter Notable Trash Mobs
+### {{ site.data.dungeon.ntr.chargath }} Notable Trash Mobs
 
 **{{ site.data.dungeon.ntr.tamed_phoenix }}**
 * These mobs are similar to the {{ site.data.dungeon.cos.blazing_imp }} in {{ site.data.dungeon.cos.cos }}.
@@ -901,7 +933,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Wannabee Paladin Notable Trash Mobs
+### {{ site.data.dungeon.ntr.forgemaster_gorek }} Notable Trash Mobs
 
 **{{ site.data.dungeon.ntr.qalashi_lavabearer }}**
 * Dodge the red swirlies from {{ site.data.dungeon.ntr.throw_lava }} and the following magma puddles.
@@ -948,7 +980,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Smaug Treasure Hoarder Notable Trash Mobs
+### {{ site.data.dungeon.ntr.warlord_sargha }} Notable Trash Mobs
 
 **{{ site.data.dungeon.ntr.apex_blazewing }}**
 * {{ site.data.dungeon.ntr.candescent_tempest }} will deal party wide damage and push you back. You can LoS the damage portion of the ability, but it will still push you back if you do. Use {{ site.data.talent.swg }} to counter it.
@@ -987,14 +1019,14 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 <div id="ur-collapse" class="collapse" aria-labelledby="ur" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Notable Talent choices
+## Notable Talent Choices
 * {{ site.data.talent.purge }}, as always, has some really good uses.
 * {{ site.data.talent.spirit_walk }} and {{ site.data.talent.thunderous_paws }} have some value to dispel slows and roots.
 * {{ site.data.talent.cleanse_spirit }} can be used to help your party if case some kicks are missed.
 
 <hr>
 
-### Blood Witch Notable Trash Mobs
+### {{ site.data.dungeon.ur.elder_leaxa }} Notable Trash Mobs
 
 **{{ site.data.dungeon.ur.underrot_tick }}**
 * They will use {{ site.data.dungeon.ur.blood_burst }} on death. Be prepared to use {{ site.data.talent.as }} or {{ site.data.item.potion_rhp }} if you are going to die.
@@ -1030,7 +1062,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Tantruming Puppy Notable Trash Mobs
+### {{ site.data.dungeon.ur.cragmaw }} Notable Trash Mobs
 
 **{{ site.data.dungeon.ur.diseased_lasher }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.decaying_mind }} in top priority, especially if you don't have a disease dispel ({{ site.data.externals.monk }}, {{ site.data.externals.paladin }} and {{ site.data.externals.priest }}). Try to help healing the stunned player if a cast goes through.
@@ -1053,7 +1085,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Shroomed Troll Notable Trash Mobs
+### {{ site.data.dungeon.ur.sporecaller_zancha }} Notable Trash Mobs
 
 **{{ site.data.dungeon.ur.reanimated_guardian }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ur.bone_shield }} and {{ site.data.talent.purge }} to remove it.
@@ -1082,7 +1114,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Kiting hell Boss Notable Trash Mobs
+### {{ site.data.dungeon.ur.unbound_abomination }} Notable Trash Mobs
 
 **{{ site.data.dungeon.ur.faceless_corruptor }}**
 * {{ site.data.dungeon.ur.abyssal_reach }} will summon tendrils that do a frontal in front of them. Look around you and move out when required.
@@ -1113,7 +1145,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Tornado Vizier Notable Trash Mobs
+### {{ site.data.dungeon.vp.grand_vizier_ertan }} Notable Trash Mobs
 
 **{{ site.data.dungeon.vp.armored_mistral }}**
 * Stay farther than 15 yds away to passively dodge {{ site.data.dungeon.vp.pressurized_blast }}.
@@ -1143,7 +1175,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### No Uptime Drake Notable Trash Mobs
+### {{ site.data.dungeon.vp.altairus }} Notable Trash Mobs
 
 **{{ site.data.dungeon.vp.turbulent_squall }}**
 * Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.vp.storm_shield }}.
@@ -1171,7 +1203,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Wind Jinni Notable Trash Mobs
+### {{ site.data.dungeon.vp.asaad }} Notable Trash Mobs
 
 **{{ site.data.dungeon.vp.zephyr_npc }}**
 * In the spiral staircase, stay in front of a {{ site.data.dungeon.vp.zephyr }} tornado for free movement speed.
@@ -1226,7 +1258,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Blizzard's Vikings Notable Trash Mobs
+### The Lost Vikings Notable Trash Mobs
 
 **{{ site.data.dungeon.udm.stonevault_geomancer }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.chain_lightning }} in priority, and {{ site.data.dungeon.udm.stone_pike }} with extra kicks.
@@ -1260,7 +1292,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Another Trogg King Notable Trash Mobs
+### {{ site.data.dungeon.udm.bromach }} Notable Trash Mobs
 
 **{{ site.data.dungeon.udm.burly_rock_thrower }}**
 * These mobs are ranged caster and remain stationary while casting. Follow your party to LoS them or use {{ site.data.talent.thunderstorm }} to pack them up.
@@ -1280,7 +1312,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Serpentine Keeper Notable Trash Mobs
+### {{ site.data.dungeon.udm.sentinel_talondras }} Notable Trash Mobs
 
 **{{ site.data.dungeon.udm.earthen_custodian }}**
 * Don't be on the tank, {{ site.data.dungeon.udm.cleave }} cleaves (duh).
@@ -1300,7 +1332,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Fire Keeper Notable Trash Mobs
+### {{ site.data.dungeon.udm.emberon }} Notable Trash Mobs
 
 **{{ site.data.dungeon.udm.earthen_weaver }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.udm.stone_bolt }}.
@@ -1336,7 +1368,7 @@ The whole area to the last boss is a gauntlet where {{ site.data.dungeon.hoi.cra
 
 <hr>
 
-### Retcon Dragonflight Herald Notable Trash Mobs
+### {{ site.data.dungeon.udm.chrono_lord_deios }} Notable Trash Mobs
 
 **{{ site.data.dungeon.udm.ebonstone_golem }}**
 * {{ site.data.dungeon.udm.thunderous_clap }} will deal unavoidable party wide damage. Use {{ site.data.talent.as }} as needed and {{ site.data.talent.ag }} to support your party. *TODO: check if this can be outranged by being at 40 yds, wowhead says it probably can*
