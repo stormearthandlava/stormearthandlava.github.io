@@ -579,9 +579,6 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
 </div>
 </div>
 
-<br/>
-<br/>
-
 <hr>
 
 # Wildfire Builds
@@ -933,9 +930,6 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 </div>
 </div>
 </div>
-
-<br/>
-<br/>
 
 <hr>
 
