@@ -957,8 +957,9 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 * {{ site.data.dungeon.ntr.forgestomp }} will deal moderate party wide damage. Use {{ site.data.talent.as }} as needed.
 
 **{{ site.data.dungeon.ntr.forgewrought_monstrosity }}**
+* This mob can be skipped by staying by the anvil in the boss' room.
 * {{ site.data.dungeon.ntr.forgewrought_fury }} will deal ramping party wide damage. Use {{ site.data.talent.as }} as needed and {{ site.data.talent.ag }} to support your healer.
-* It will explode on death using {{ site.data.dungeon.ntr.blazing_detonation}}.
+* It will explode on death using {{ site.data.dungeon.ntr.blazing_detonation}}, dealing moderate damage to whole party.
 
 <hr>
 
