@@ -203,7 +203,6 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 ## {{ site.data.dungeon.bh.rira_hackclaw }}'s War Band
 * Cleave them down at the same time, they will gain {{ site.data.dungeon.bh.bloodfrenzy }} whenever one of them drops below 15% HP.
 * The bosses gain haste with {{ site.data.dungeon.bh.prey_on_the_weak }} whenever players are below 90% HP. If needed, use {{ site.data.talent.ag }}, or even {{ site.data.talent.hst }} and {{ site.data.spell.healing_surge }} to help the healer remove the {{ site.data.dungeon.bh.predatory_instincts }} stacks.
-* Each Gnoll also its own abilities, making this fight hard to learn.
 
 ### {{ site.data.dungeon.bh.rira_hackclaw }}
   - Never be on the tank, {{ site.data.dungeon.bh.cleave }} cleaves (duh).
@@ -226,6 +225,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 **{{ site.data.dungeon.bh.gutstabber }}**
 * This mobs use {{ site.data.dungeon.bh.stealth }} and are scattered in the area. Try to learn their position to avoid running into them.
 * They will jump on a random target then use {{ site.data.dungeon.fh.withering_poison }} that will apply a poison to their target. Do not be too far for cleave purposes. Use {{ site.data.talent.as }} as needed and if talented, use {{ site.data.talent.poison_cleansing_totem }} to remove {{ site.data.dungeon.bh.withering_poison }}.
+* Help your tank kiting if he gets many stacks of {{ site.data.dungeon.bh.bloody_bite }}. Use {{ site.data.spell.earthbind_totem }} or {{ site.data.talent.thunderstorm }} when needed.
 
 **{{ site.data.dungeon.bh.fleshripper_vulture }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.screech }}.
@@ -237,8 +237,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 **{{ site.data.dungeon.bh.rotbow_stalker }}**
 * {{ site.data.dungeon.bh.pack_tactics }} will buff its nearby ally. Do not do this mob in large pulls or kill it quickly.
-* Be prepared for the incoming damage of {{ site.data.dungeon.bh.shoot }} and {{ site.data.dungeon.bh.bone_bolt }}, constantly dealing moderate damage to random group member. When in packs of 2 or 3 mobs, multiple abilities going on the same player becomes deadly very fast. Use {{ site.data.talent.stoneskin_totem }} as much possible to reduce party damage and use {{ site.data.talent.as }} when needed.
-* Get out of their {{ site.data.dungeon.bh.bone_bolt_volley }} frontal.
+* Be prepared for the incoming damage of {{ site.data.dungeon.bh.shoot }}, {{ site.data.dungeon.bh.bone_bolt }} and {{ site.data.dungeon.bh.bone_bolt_volley }}, constantly dealing moderate damage to group members. When in packs of 2 or 3 mobs, multiple abilities going on the same player becomes deadly very fast. Use {{ site.data.talent.stoneskin_totem }} as much possible to reduce party damage and use {{ site.data.talent.as }} when needed.
 * {{ site.data.dungeon.bh.scented_meat }} is a debuff that will make any {{ site.data.dungeon.bh.vicious_hyena }}, {{ site.data.dungeon.bh.fleshripper_vulture }} and {{ site.data.dungeon.bh.gutchewer_bear }} in the area attack the targeted player. Stay attentive on who the debuff goes, use {{ site.data.spell.earthbind_totem }} and {{ site.data.talent.capacitor_totem }} to help the focused player kite. Use {{ site.data.talent.swg }} to keep uptime while kiting.
 
 <hr>
@@ -252,7 +251,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 
 <hr>
 
-###  {{ site.data.dungeon.bh.treemouth }} Trash Mobs
+###  {{ site.data.dungeon.bh.treemouth }} Notable Trash Mobs
 
 **{{ site.data.dungeon.bh.decaying_slime }}**
 * It will {{ site.data.dungeon.bh.burst }} on death, leaving a puddle on the ground. Move out of it.
@@ -309,9 +308,9 @@ If no player is consumed, it will gain {{ site.data.dungeon.bh.starving_frenzy }
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.decay_surge }}.
 * Move out of {{ site.data.dungeon.bh.rotting_surge }} green swirly. Use {{ site.data.talent.swg }} to keep uptime while moving.
 
-**{{ site.data.dungeon.bh.disease_slasher }} and {{ site.data.dungeon.bh.wither_biter }}**
+**{{ site.data.dungeon.hoi.brackenhide_slasher }}, {{ site.data.dungeon.bh.disease_slasher }}, {{ site.data.dungeon.bh.witherling }} and {{ site.data.dungeon.bh.wither_biter }}**
 * They just do tank damage.
-
+* Help your tank kiting if he gets many stacks of {{ site.data.dungeon.bh.bloody_bite }}. Use {{ site.data.spell.earthbind_totem }} or {{ site.data.talent.thunderstorm }} when needed.
 
 **{{ site.data.dungeon.bh.vile_rothexer }}**
 * Stay spreaded at 5 yards to avoid spreading {{ site.data.dungeon.bh.withering_contagion }} to your party.
@@ -385,7 +384,8 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * Bait {{ site.data.dungeon.fh.vile_bombardment }} puddles far from your melees.
 * Be farther than 30yds to avoid all damage from {{ site.data.dungeon.fh.azerite_powder_shot }}.
 * Dodge {{ site.data.dungeon.fh.dive_bomb }}.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.fh.revitalizing_brew }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.fh.revitalizing_brew }}. Successfully interrupting the channel will cause the brew to fall to the ground, allowing players to interact with it to channel and recover HP (*this should almost never be used in live keys but could maybe become relevant*).
+
 <hr>
 
 ### Council of Captains Notable Trash Mobs
@@ -425,6 +425,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 **{{ site.data.dungeon.fh.vermin_trapper }}**
 * Move out of {{ site.data.dungeon.fh.rat_traps }} before it harms. Use {{ site.data.talent.spirit_walk }} to move out if you get rooted.
+* In BfA, {{ site.data.spell.ghost_wolf }} could be used to break all the traps just by running into them. This might or not might not still work.
 
 **{{ site.data.dungeon.fh.soggy_shiprat }}**
 * Low health and mostly does tank damage. They **will not** trigger on death affixes.
@@ -519,7 +520,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 ## {{ site.data.dungeon.fh.harlan_sweete }}
 * Compared to BfA where {{ site.data.dungeon.fh.swiftwind_saber }} did nothing but bump you back and you could ignore the mechanic, it will kill you if a single wind blade hits you. Stand far to see them come toward you and be sure to dodge.
 * When targeted by {{ site.data.dungeon.fh.cannon_barrage }}, kite away from the group to drop the {{ site.data.dungeon.fh.fiery_debris }}. You can stutter step to reduce the number of puddles in the arena.
-* {{ site.data.dungeon.fh.avast_ye }} will summon an {{ site.data.dungeon.fh.irontide_grenadier }} that will try to suicide on a party member with {{ site.data.dungeon.fh.black_powder_bomb }}. Use {{ site.data.talent.hex }}, {{ site.data.talent.thunderstorm }} or {{ site.data.spell.earthbind_totem }} to keep them far from the group.
+* {{ site.data.dungeon.fh.avast_ye }} will summon an {{ site.data.dungeon.fh.irontide_grenadier }} that will try to suicide on a party member with {{ site.data.dungeon.fh.black_powder_bomb }}. Use {{ site.data.talent.hex }}, {{ site.data.talent.thunderstorm }} or {{ site.data.spell.earthbind_totem }} to keep them far from the group (*TODO: Check if Hex can be used on it, might be flagged as an elemental making hex unusable on it*).
 * At 66% hp, {{ site.data.dungeon.fh.loaded_dice_all_hands }} will triple all of the boss ability. Be sure to kite the {{ site.data.dungeon.fh.cannon_barrage }} in a group and pay even more attention to {{ site.data.dungeon.fh.swiftwind_saber }}.
 * At 33%, {{ site.data.dungeon.fh.loaded_dice_man_o_war }} will make the boss take 100% more damage. In higher keys, you want to use everything here before he kills your tank. This is a good time to use {{ site.data.talent.stoneskin_totem }} if talented.
 
