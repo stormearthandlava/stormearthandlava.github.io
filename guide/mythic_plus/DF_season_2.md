@@ -118,8 +118,8 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 ### Level 2:
 
-* {{ site.data.affixes.fortified }}: Consider using {{ site.data.spell.bl }} on hard mob pulls. Some abilities that are usually harmless can quickly become deadly and require more interrupts or extra defensive. Coordinate with your party to layer your AoE CC abilities and use {{ site.data.talent.as }} wisely.
-* {{ site.data.affixes.tyrannical }}: Boss fights turn into a battle of endurance. Coordinate with your healer to use {{ site.data.talent.ag }} at the best time depending on their need; . Many Single target abilities become lethal and require a good {{ site.data.talent.as }} timing to survive.
+* {{ site.data.affixes.fortified }}: Consider using {{ site.data.spell.bl }} on hard mob pulls. Some random add abilities that are usually harmless can quickly become deadly and require more interrupts or extra defensives. Coordinate with your party to layer your AoE CC abilities and use {{ site.data.talent.as }} wisely.
+* {{ site.data.affixes.tyrannical }}: Boss fights turn into a battle of endurance. Coordinate with your healer to use {{ site.data.talent.ag }} at the best time depending on their need. Many Single target abilities become lethal and require a good {{ site.data.talent.as }} timing to survive.
 
 *Note: Unlike many of the previous extensions, the balance between these two affixes is quite good. As normal mobs are generally easier to navigate than bosses, keys during {{ site.data.affixes.fortified }} weeks will usually be easier to finish but also harder to do in time, since 60% to 70% of the timer in a key is spent doing mobs. On the contrary, hard bosses during a {{ site.data.affixes.tyrannical }} week can be huge walls that will stop you from finishing the key. But the timer will often be more lenient.*
 
