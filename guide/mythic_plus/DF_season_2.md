@@ -103,30 +103,41 @@ When pushing in higher keys, some talents become mandatory to survive:
 # Affixes
 
 ### Season 2 changes :
-**There will be no seasonal affixes this season.** Some affixes around the Level 7 bracket have been updated and reworked to be more better handled.
+* **There will be no seasonal affixes this season.**
+* The level 4 bracket has been moved to level 14.
+* {{ site.data.affixes.explosive }}, {{ site.data.affixes.grievous }} and {{ site.data.affixes.quaking }} have been removed.
+* {{ site.data.affixes.bolstering }} changes:
+	- {{ site.data.affixes.bolster }} no longer increases the health of affected creatures (was health and damage).
+* {{ site.data.affixes.spiteful }} changes:
+	- {{ site.data.affixes.spiteful_shade }}s melee damage reduced by 10%.
+	- {{ site.data.affixes.spiteful_shade }}s health and damage no longer scales after keystone level 20.
+* {{ site.data.affixes.raging }} changes:
+	- {{ site.data.affixes.raging }} now grants creatures immunity to crowd control effects for 20 seconds upon reaching 30% health remaining (was 50% increased damage done until defeated).
+* {{ site.data.affixes.sanguine }} changes:
+	- {{ site.data.affixes.sanguine_ichor }} puddles now last for 12 sec (was 20 sec).
 
 ### Level 2:
 
-* {{ site.data.affixes.fortified }}: Consider using {{ site.data.spell.bl }} on hard mob pulls.
-* {{ site.data.affixes.tyrannical }}: Boss fights turn into a battle of endurance.
+* {{ site.data.affixes.fortified }}: Consider using {{ site.data.spell.bl }} on hard mob pulls.  Some abilities that are usually harmless can quickly become deadly and require more interrupts or extra defensive. Coordinate with your party to layer your AoE CC abilities and use {{ site.data.talent.as }} wisely.
+* {{ site.data.affixes.tyrannical }}: Boss fights turn into a battle of endurance. Coordinate with your healer to use {{ site.data.talent.ag }} at the best time depending on their need. Many Single target abilities become lethal and require a good {{ site.data.talent.as }} timing to survive.
 
 *Note: Unlike many of the previous extensions, the balance between these two affixes is quite good. As normal mobs are generally easier to navigate than bosses, keys during {{ site.data.affixes.fortified }} weeks will usually be easier to finish but also harder to do in time, since 60% to 70% of the timer in a key is spent doing mobs. On the contrary, hard bosses during a {{ site.data.affixes.tyrannical }} week can be huge walls that will stop you from finishing the key. But the timer will often be more lenient.*
 
-### Level 4:
+### Level 7 - Periodic affixes:
+
+* {{ site.data.affixes.volcanic }}: Watch your feet. Use {{ site.data.talent.swg }} as needed to maintain your damage uptime while avoiding {{ site.data.affixes.volcanic_plume }}.
+* {{ site.data.affixes.storming }}: Maintain your distance from mobs to avoid {{ site.data.affixes.storming }}. Use {{ site.data.talent.swg }} as needed in tight spaces or when handling any mechanics.
+* {{ site.data.affixes.entangling }}: Use {{ site.data.talent.gust_of_wind }} to break {{ site.data.affixes.entangled }}'s wines or {{ site.data.talent.thunderous_paws }} and {{ site.data.talent.spirit_walk }} to instantly remove it.
+* {{ site.data.affixes.afflicted }}: Always be wary of any {{ site.data.affixes.afflicted_soul }} that spawn. Use {{ site.data.talent.cleanse_spirit }} to handle low mob spawn. {{ site.data.talent.poison_cleansing_totem }} will solo the affixe for a few second and should be used in high pressure moments.
+* {{ site.data.affixes.incorporeal }}: Since {{ site.data.affixes.incorporeal_being }} are immune to damage, {{ site.data.talent.hex }} is by far the best way to CC them. If multiple spawn, use {{ site.data.spell.wind_shear }} as needed. Be careful, AoE CC abilities do not affect them (so {{ site.data.talent.capacitor_totem }} or {{ site.data.talent.thunderstorm }} do not work).
+
+### Level 14 - "On death" and "On health ranges" affixes:
 
 * {{ site.data.affixes.bolstering }}: Damage trash packs down as evenly as you can. Swap to priority damage rotation for any lethal mobs or if mob health within trash packs are uneven.
 * {{ site.data.affixes.bursting }}: Support your party members and use your healing abilities to mitigate the {{ site.data.affixes.burst }} debuff. Use {{ site.data.talent.as }} as needed if stacks are high.
 * {{ site.data.affixes.raging }}: Be ready to use your kiting toolkit to support your tank when needed. Consider using {{ site.data.talent.capacitor_totem }} and {{ site.data.talent.sk }} to finish {{ site.data.affixes.enrage }} mobs more safely and quickly.
 * {{ site.data.affixes.sanguine }}: Damage trash packs down as evenly as you can to lessen time spent in Sanguine, but be sure to not slow or stun mobs dying unevenly. Use {{ site.data.talent.thunderstorm }} as needed to knock mobs out of {{ site.data.affixes.sanguine_ichor }}.
 * {{ site.data.affixes.spiteful }}: As mobs are dying, be ready to use your kiting toolkit to support your melee players. Consider taking advantage of {{ site.data.affixes.spiteful_shade }} as additional {{ site.data.spell.cl }} or {{ site.data.spell.fs }} targets.
-
-### Level 7:
-
-* {{ site.data.affixes.explosive }}: {{ site.data.affixes.explosives }} orbs can be destroyed in a single {{ site.data.spell.frs }} global. This will be your most efficient tool to deal with them as your other abilities are more valuable for trash.
-* {{ site.data.affixes.grievous }}: Remember that direct heals remove one stack of {{ site.data.affixes.grievous_wound }}. Support your party members with {{ site.data.spell.healing_surge }} and {{ site.data.talent.ag }} as needed.
-* {{ site.data.affixes.quaking }}: Maintain your distance from party members, and be mindful about canceling casts if {{ site.data.affixes.quake }} overlaps with {{ site.data.talent.swg }}.
-* {{ site.data.affixes.storming }}: Maintain your distance from mobs to avoid {{ site.data.affixes.storming }}. Use {{ site.data.talent.swg }} as needed in tight spaces or when maneuvering any mechanics.
-* {{ site.data.affixes.volcanic }}: Watch your feet. Use {{ site.data.talent.swg }} as needed to maintain your damage uptime while avoiding {{ site.data.affixes.volcanic_plume }}.
 
 <hr>
 
