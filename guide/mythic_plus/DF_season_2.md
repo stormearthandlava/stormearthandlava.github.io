@@ -424,8 +424,8 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * {{ site.data.dungeon.fh.dragging_harpoon }} can grapple you into melee, which can be very dangerous because of the multiple melee AoE ({{ site.data.dungeon.fh.ground_shatter }}, {{ site.data.dungeon.fh.going_bananas }}, {{ site.data.dungeon.fh.earth_shaker }}, ...). Be ready to move out fast if you get grappled and react with {{ site.data.talent.as }} as needed.
 
 **{{ site.data.dungeon.fh.vermin_trapper }}**
-* Move out of {{ site.data.dungeon.fh.rat_traps }} before it harms. Use {{ site.data.talent.spirit_walk }} to move out if you get rooted.
-* In BfA, {{ site.data.spell.ghost_wolf }} could be used to break all the traps just by running into them. This might or not might not still work.
+* Move out of {{ site.data.dungeon.fh.rat_traps }} before it harms. Use {{ site.data.talent.spirit_walk }} to remove the root if you get trapped.
+* In BfA, {{ site.data.spell.ghost_wolf }} could be used to break all the traps just by running into them. This might or not might not still work. (*TODO: CHECK THIS*)
 
 **{{ site.data.dungeon.fh.soggy_shiprat }}**
 * Low health and mostly does tank damage. They **will not** trigger on death affixes.
@@ -504,7 +504,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 ### {{ site.data.dungeon.fh.harlan_sweete }} Notable Trash Mobs
 
 **{{ site.data.dungeon.fh.irontide_officer }}**
-* Just does tank damage, Sheeesh....
+* Just does tank damage, notably with the {{ site.data.dungeon.fh.oiled_blade }} tank buster. However this mob is invulnerable to CC so nothing you can do about it.
 
 **{{ site.data.dungeon.fh.irontide_stormcaller }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.fh.lightning_bolt }} and {{ site.data.dungeon.fh.thundering_squall }}.
@@ -518,11 +518,13 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 <hr>
 
 ## {{ site.data.dungeon.fh.harlan_sweete }}
-* Compared to BfA where {{ site.data.dungeon.fh.swiftwind_saber }} did nothing but bump you back and you could ignore the mechanic, it will kill you if a single wind blade hits you. Stand far to see them come toward you and be sure to dodge.
+* Compared to BfA where {{ site.data.dungeon.fh.swiftwind_saber }} did nothing but bump you back, it will kill you if a single wind blade hits you in higher keys. Stand far to see them come toward you and be sure to dodge.
 * When targeted by {{ site.data.dungeon.fh.cannon_barrage }}, kite away from the group to drop the {{ site.data.dungeon.fh.fiery_debris }}. You can stutter step to reduce the number of puddles in the arena.
 * {{ site.data.dungeon.fh.avast_ye }} will summon an {{ site.data.dungeon.fh.irontide_grenadier }} that will try to suicide on a party member with {{ site.data.dungeon.fh.black_powder_bomb }}. Use {{ site.data.talent.hex }}, {{ site.data.talent.thunderstorm }} or {{ site.data.spell.earthbind_totem }} to keep them far from the group (*TODO: Check if Hex can be used on it, might be flagged as an elemental making hex unusable on it*).
 * At 66% hp, {{ site.data.dungeon.fh.loaded_dice_all_hands }} will triple all of the boss ability. Be sure to kite the {{ site.data.dungeon.fh.cannon_barrage }} in a group and pay even more attention to {{ site.data.dungeon.fh.swiftwind_saber }}.
 * At 33%, {{ site.data.dungeon.fh.loaded_dice_man_o_war }} will make the boss take 100% more damage. In higher keys, you want to use everything here before he kills your tank. This is a good time to use {{ site.data.talent.stoneskin_totem }} if talented.
+
+*Note: {{ site.data.dungeon.fh.harlan_sweete }}'s {{ site.data.dungeon.fh.cannon_barrage }} actually deals Friendly Fire damage to all other creatures in the instance (other than {{ site.data.dungeon.fh.harlan_sweete }} himself). This includes the summoned add {{ site.data.dungeon.fh.irontide_grenadier }} and all the trash surrounding the boss.*
 
 </div>
 </div>
@@ -731,7 +733,7 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 * Just does Tank damage!
 
 **{{ site.data.dungeon.nl.understone_drudge }}**
-* These can easily be skipped by running in the water to the side (see (this video)[]). They only do tank damage anyway.
+* Just does Tank damage!
 
 **{{ site.data.dungeon.nl.vileshard_crawler }}**
 * {{ site.data.dungeon.nl.acid_splatter }} will spawn an acid pool on death.
@@ -917,7 +919,8 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 
 **{{ site.data.dungeon.ntr.overseer_lahar }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.burning_roar }}. Beware, it will spell-lock you if you get hit while casting.
-* Stay farther than 15yds away to dodge most of his AoE and dodge the swirlies created by {{ site.data.dungeon.ntr.eruptive_crash }}.
+* Stay farther than 15yds away to dodge most of his AoE.
+* Dodge the swirlies created by {{ site.data.dungeon.ntr.eruptive_crash }}.
 
 <hr>
 
@@ -941,7 +944,7 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 
 **{{ site.data.dungeon.ntr.qalashi_irontorch }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.mote_of_combustion }} in priority.
-* Don't be on the tank, {{ site.data.dungeon.ntr.scorching_breath }} cleaves on them.
+* Move away from the {{ site.data.dungeon.ntr.scorching_breath }} frontal.
 
 **{{ site.data.dungeon.ntr.qalashi_bonesplitter }}**
 * This mob does a lot of random Single target party damage with {{ site.data.dungeon.ntr.pierce_marrow }} and {{ site.data.dungeon.ntr.dragonbone_axe }}. Stay aware of your current HP and use {{ site.data.talent.as }} as needed to survive.
@@ -951,11 +954,11 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 * Dodge the many swirls from {{ site.data.dungeon.ntr.conflagrant_battery }}.
 
 **{{ site.data.dungeon.ntr.qalashi_blacksmith }}**
-* Beware of {{ site.data.dungeon.ntr.forgestomp }} as it will spell-lock you if you cast during it.
+* {{ site.data.dungeon.ntr.forgestomp }} will deal moderate party wide damage. Use {{ site.data.talent.as }} as needed.
 
 **{{ site.data.dungeon.ntr.forgewrought_monstrosity }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.ntr.example }}.
-* Use {{ site.data.talent.purge }} to dispel {{ site.data.dungeon.ntr.example }} on the buffed enemy.
+* {{ site.data.dungeon.ntr.forgewrought_fury }} will deal ramping party wide damage. Use {{ site.data.talent.as }} as needed and {{ site.data.talent.ag }} to support your healer.
+* It will explode on death using {{ site.data.dungeon.ntr.blazing_detonation}}.
 
 <hr>
 
