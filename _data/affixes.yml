@@ -18,30 +18,40 @@ example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">St
 fortified: <a href="https://www.wowhead.com/affix=10/fortified" target="blank">Fortified</a>
 tyrannical: <a href="https://www.wowhead.com/affix=9/tyrannical" target="blank">Tyrannical</a>
 
-# Tier 4
-bursting: <a href="https://www.wowhead.com/affix=11/bursting" target="blank">Bursting</a>
-burst: <a href="https://www.wowhead.com/spell=240443/burst" target="blank">Burst</a>
-bolstering: <a href="https://www.wowhead.com/affix=7/bolstering" target="blank">Bolstering</a>
-bolster: <a href="https://www.wowhead.com/spell=209859/bolster" target="blank">Bolster</a>
+# Tier 7
+volcanic: <a href="https://www.wowhead.com/affix=3/volcanic" target="blank">Volcanic</a>
+volcanic_plume: <a href="https://www.wowhead.com/spell=209862/volcanic-plume" target="blank">Volcanic Plume</a>
+
+storming: <a href="https://www.wowhead.com/affix=124/storming" target="blank">Storming</a>
+
+entangling: <a href="https://www.wowhead.com/ptr/affix=134/entangling" target="blank">Entangling</a>
+entangled: <a href="https://www.wowhead.com/ptr/spell=408556/entangled" target="blank">Entangled</a>
+
+afflicted: <a href="https://www.wowhead.com/ptr/affix=135/afflicted" target="blank">Afflicted</a>
+cursed_spirit: <a href="https://www.wowhead.com/ptr/spell=409465/cursed-spirit" target="blank">Cursed Spirit</a>
+poisoned_spirit: <a href="https://www.wowhead.com/ptr/spell=409470/poisoned-spirit" target="blank">Poisoned Spirit</a>
+diseased_spirit: <a href="https://www.wowhead.com/ptr/spell=409472/diseased-spirit" target="blank">Diseased Spirit</a>
+afflicted_cry: <a href="https://www.wowhead.com/ptr/spell=409492/afflicted-cry" target="blank">Afflicted Cry</a>
+
+incorporeal: <a href="https://www.wowhead.com/ptr/affix=136/incorporeal" target="blank">Incorporeal</a>
+destabilize: <a href="https://www.wowhead.com/ptr/spell=408805/destabilize" target="blank">Destabilize</a>
+
+# Tier 14 - On Death // Health Threshold
 raging: <a href="https://www.wowhead.com/affix=6/raging" target="blank">Raging</a>
 enrage: <a href="https://www.wowhead.com/spell=178658/enrage" target="blank">Enrage</a>
-spiteful: <a href="https://www.wowhead.com/affix=123/spiteful" target="blank">Spiteful</a>
-spiteful_shade: <a href="https://www.wowhead.com/npc=174773/spiteful-shade" target="blank">Spiteful Shade</a>
-all_consuming_spite: <a href="https://www.wowhead.com/spell=343553/all-consuming-spite" target="blank">All-Consuming Spite</a>
+
+bolstering: <a href="https://www.wowhead.com/affix=7/bolstering" target="blank">Bolstering</a>
+bolster: <a href="https://www.wowhead.com/spell=209859/bolster" target="blank">Bolster</a>
+
 sanguine: <a href="https://www.wowhead.com/affix=8/sanguine" target="blank">Sanguine</a>
 sanguine_ichor: <a href="https://www.wowhead.com/spell=226489/sanguine-ichor" target="blank">Sanguine Ichor</a>
 
-# Tier 7
-explosive: <a href="https://www.wowhead.com/affix=13/explosive" target="blank">Explosive</a>
-explosives: <a href="https://www.wowhead.com/npc=120651/explosives" target="blank">Explosives</a>
-explosion: <a href="https://www.wowhead.com/spell=240446/explosion" target="blank">Explosion</a>
-storming: <a href="https://www.wowhead.com/affix=124/storming" target="blank">Storming</a>
-volcanic: <a href="https://www.wowhead.com/affix=3/volcanic" target="blank">Volcanic</a>
-volcanic_plume: <a href="https://www.wowhead.com/spell=209862/volcanic-plume" target="blank">Volcanic Plume</a>
-grievous: <a href="https://www.wowhead.com/affix=12/grievous" target="blank">Grievous</a>
-grievous_wound: <a href="https://www.wowhead.com/spell=240559/grievous-wound" target="blank">Grievous Wound</a>
-quaking: <a href="https://www.wowhead.com/affix=14/quaking" target="blank">Quaking</a>
-quake: <a href="https://www.wowhead.com/spell=240447/quake" target="blank">Quake</a>
+bursting: <a href="https://www.wowhead.com/affix=11/bursting" target="blank">Bursting</a>
+burst: <a href="https://www.wowhead.com/spell=240443/burst" target="blank">Burst</a>
+
+spiteful: <a href="https://www.wowhead.com/affix=123/spiteful" target="blank">Spiteful</a>
+spiteful_shade: <a href="https://www.wowhead.com/npc=174773/spiteful-shade" target="blank">Spiteful Shade</a>
+all_consuming_spite: <a href="https://www.wowhead.com/spell=343553/all-consuming-spite" target="blank">All-Consuming Spite</a>
 
 # Seasonal Affixes
 ## DF
@@ -49,27 +59,48 @@ thundering: <a href="https://www.wowhead.com/affix=132/thundering" target="blank
 mark_of_lightning: <a href="https://www.wowhead.com/spell=396369/mark-of-lightning" target="blank">Mark of Lightning</a>
 mark_of_wind: <a href="https://www.wowhead.com/spell=396364/mark-of-wind" target="blank">Mark of Wind</a>
 primal_overload: <a href="https://www.wowhead.com/spell=396411/primal-overload" target="blank">Primal Overload</a>
+
 ## SL
 shrouded: <a href="https://www.wowhead.com/affix=131/shrouded" target="blank">Shrouded</a>
+
 encrypted: <a href="https://www.wowhead.com/affix=130/encrypted" target="blank">Encrypted</a>
+
 tormented: <a href="https://www.wowhead.com/affix=128/tormented" target="blank">Tormented</a>
+
 prideful: <a href="https://www.wowhead.com/affix=121/prideful" target="blank">Prideful</a>
+
 ## BfA
 awakened: <a href="https://www.wowhead.com/affix=120/awakened" target="blank">Awakened</a>
+
 beguiling: <a href="https://www.wowhead.com/affix=119/beguiling" target="blank">Beguiling</a>
+
 reaping: <a href="https://www.wowhead.com/affix=117/reaping" target="blank">Reaping</a>
+
 infested: <a href="https://www.wowhead.com/affix=16/infested" target="blank">Infested</a>
+
 ## Legion
 infernal: <a href="https://www.wowhead.com/affix=129/infernal" target="blank">Infernal</a>
 
 # old affixes
-teeming: <a href="https://www.wowhead.com/affix=5/teeming" target="blank">Teeming</a>
+overflowing: <a href="https://www.wowhead.com/affix=1/overflowing" target="blank">Overflowing</a>
+overflow: <a href="https://www.wowhead.com/spell=221772/overflow" target="blank">Overflow</a>
 
-inspiring: <a href="https://www.wowhead.com/affix=122/inspiring" target="blank">Inspiring</a>
-inspiring_presence: <a href="https://www.wowhead.com/spell=343502/inspiring-presence" target="blank">Inspiring Presence</a>
+skittish: <a href="https://www.wowhead.com/affix=2/skittish" target="blank">Skittish</a>
 
 necrotic: <a href="https://www.wowhead.com/affix=4/necrotic" target="blank">Necrotic</a>
 necrotic_wound: <a href="https://www.wowhead.com/spell=209858/necrotic-wound" target="blank">Necrotic Wound</a>
-skittish: <a href="https://www.wowhead.com/affix=2/skittish" target="blank">Skittish</a>
-overflowing: <a href="https://www.wowhead.com/affix=1/overflowing" target="blank">Overflowing</a>
-overflow: <a href="https://www.wowhead.com/spell=221772/overflow" target="blank">Overflow</a>
+
+teeming: <a href="https://www.wowhead.com/affix=5/teeming" target="blank">Teeming</a>
+
+grievous: <a href="https://www.wowhead.com/affix=12/grievous" target="blank">Grievous</a>
+grievous_wound: <a href="https://www.wowhead.com/spell=240559/grievous-wound" target="blank">Grievous Wound</a>
+
+explosive: <a href="https://www.wowhead.com/affix=13/explosive" target="blank">Explosive</a>
+explosives: <a href="https://www.wowhead.com/npc=120651/explosives" target="blank">Explosives</a>
+explosion: <a href="https://www.wowhead.com/spell=240446/explosion" target="blank">Explosion</a>
+
+quaking: <a href="https://www.wowhead.com/affix=14/quaking" target="blank">Quaking</a>
+quake: <a href="https://www.wowhead.com/spell=240447/quake" target="blank">Quake</a>
+
+inspiring: <a href="https://www.wowhead.com/affix=122/inspiring" target="blank">Inspiring</a>
+inspiring_presence: <a href="https://www.wowhead.com/spell=343502/inspiring-presence" target="blank">Inspiring Presence</a>
