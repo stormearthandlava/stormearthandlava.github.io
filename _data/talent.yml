@@ -286,11 +286,7 @@ seasoned_winds: <a href="https://www.wowhead.com/spell=355630/seasoned-winds" ta
 
 skyfury_totem: <a href="https://www.wowhead.com/spell=204330" target="blank">Skyfury Totem</a>
 
-spectral_recovery: <a href="https://www.wowhead.com/spell=204261" target="blank">Spectral Recovery</a>
-
 static_field_totem: <a href="https://www.wowhead.com/spell=355580/static-field-totem" target="blank">Static Field Totem</a>
-
-swelling_waves: <a href="https://www.wowhead.com/spell=204264" target="blank">Swelling Waves</a>
 
 tidebringer: <a href="https://www.wowhead.com/spell=236501/tidebringer" target="blank">Tidebringer</a>
 
@@ -299,3 +295,27 @@ traveling_storms: <a href="https://www.wowhead.com/spell=204403" target="blank">
 unleash_shield: <a href="https://www.wowhead.com/spell=356736/unleash-shield" target="blank">Unleash Shield</a>
 
 volcanic_surge: <a href="https://www.wowhead.com/ptr/spell=408572/volcanic-surge" target="blank">Volcanic Surge</a>
+
+
+# OLD TALENTS // DEPRECATED // REMOVED
+call_the_thunder: <a href="https://ptr.wowhead.com/spell=260897/call-the-thunder" target="blank">Call the Thunder</a>
+ctt: <a href="https://ptr.wowhead.com/spell=260897/call-the-thunder" target="blank">Call the Thunder</a>
+
+control_of_lava: <a href="https://shadowlands.wowhead.com/spell=204393" target="blank">Control of Lava</a>
+col: <a href="https://shadowlands.wowhead.com/spell=204393" target="blank">Control of Lava</a>
+
+earthen_rage: <a href="https://shadowlands.wowhead.com/spell=170374" target="blank">Earthen Rage</a>
+er: <a href="https://shadowlands.wowhead.com/spell=170374" target="blank">Earthen Rage</a>
+
+echoing_shock: <a href="https://shadowlands.wowhead.com/spell=320125" target="blank"> Echoing Shock</a>
+ecs: <a href="https://shadowlands.wowhead.com/spell=320125" target="blank"> Echoing Shock</a>
+
+exposed_elements: <a href="https://shadowlands.wowhead.com/spell=260694" target="blank">Exposed Elements</a>
+ee: <a href="https://shadowlands.wowhead.com/spell=260694" target="blank">Exposed Elements</a>
+
+unlimited_power: <a href="https://shadowlands.wowhead.com/spell=260895" target="blank">Unlimited Power</a>
+up: <a href="https://shadowlands.wowhead.com/spell=260895" target="blank">Unlimited Power</a>
+
+#PVP
+spectral_recovery: <a href="https://www.wowhead.com/spell=204261" target="blank">Spectral Recovery</a>
+swelling_waves: <a href="https://www.wowhead.com/spell=204264" target="blank">Swelling Waves</a>

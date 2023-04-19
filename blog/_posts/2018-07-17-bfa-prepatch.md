@@ -59,12 +59,9 @@ menu. The following list doesn't follow any particular order.
 - {{ site.data.talent.natures_guardian }}
 - {{ site.data.talent.up }}
 - {{ site.data.talent.sk }}
-- {{ site.data.spell.meteor }} for {{ site.data.talent.fe }}
-with {{ site.data.talent.pe }}
-- {{ site.data.spell.harden_skin }} for {{ site.data.talent.earth_elemental }}
-with {{ site.data.talent.pe }}
-- {{ site.data.spell.eye_of_the_storm }} for {{ site.data.talent.se }}
-with {{ site.data.talent.pe }}
+- {{ site.data.spell.meteor }} for {{ site.data.talent.fe }} with {{ site.data.talent.pe }}
+- {{ site.data.spell.harden_skin }} for {{ site.data.talent.earth_elemental }} with {{ site.data.talent.pe }}
+- {{ site.data.spell.tempest }} for {{ site.data.talent.se }} with {{ site.data.talent.pe }}
 
 These lists should bring you up to speed. Let us know, if something is missing.
 Reminder: Read the actual guide pages in the top menu to get the latest information on how

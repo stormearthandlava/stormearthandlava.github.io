@@ -1,0 +1,95 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Tazavesh: Soleah's Gambit
+customs_security: <a href="https://www.wowhead.com/npc=177807/customs-security" target="blank">Customs Security</a>
+disruption_grenade: <a href="https://www.wowhead.com/spell=355900/disruption-grenade" target="blank">Disruption Grenades</a>
+hard_light_baton: <a href="https://www.wowhead.com/spell=355888/hard-light-baton" target="blank">Hard Light Baton</a>
+
+armored_overseer: <a href="https://www.wowhead.com/npc=177808/armored-overseer" target="blank">Armored Overseers</a>
+beam_splicer: <a href="https://www.wowhead.com/spell=356001/beam-splicer" target="blank">Beam Splicers</a>
+
+interrogation_specialist: <a href="https://www.wowhead.com/npc=177816/interrogation-specialist" target="blank">Interrogation Specialist</a>
+stasis_beam: <a href="https://www.wowhead.com/spell=356031/stasis-beam" target="blank">Statis Beam</a>
+
+support_officer: <a href="https://www.wowhead.com/npc=177817/support-officer" target="blank">Support Officer</a>
+hard_light_barrier: <a href="https://www.wowhead.com/spell=355934/hard-light-barrier" target="blank">Hard Light Barrier</a>
+
+zophex: <a href="https://www.wowhead.com/npc=175616/zophex" target="blank">Zo'Phex the Sentinel</a>
+armed_security: <a href="https://www.wowhead.com/spell=346204/armed-security" target="blank">Armed Security</a>
+rotary_body_armor: <a href="https://www.wowhead.com/spell=347992/rotary-body-armor" target="blank">Rotary Body Armor</a>
+interrogation: <a href="https://www.wowhead.com/spell=348350/interrogation" target="blank">Interrogation</a>
+impound_contraband: <a href="https://www.wowhead.com/spell=345770/impound-contraband" target="blank">Impound Contraband</a>
+
+ancient_core_hound: <a href="https://www.wowhead.com/npc=180091/ancient-core-hound" target="blank">Ancient Core Hound</a>
+ancient_dread: <a href="https://www.wowhead.com/spell=356407/ancient-dread" target="blank">Ancient Dread</a>
+lava_breath: <a href="https://www.wowhead.com/spell=356404/lava-breath" target="blank">Lava Breath</a>
+
+market_peacekeeper: <a href="https://www.wowhead.com/npc=179840/market-peacekeeper" target="blank">Market Peacekeeper</a>
+phalanx_field: <a href="https://www.wowhead.com/spell=355640/phalanx-field" target="blank">Phalanx Field</a>
+quelling_strike: <a href="https://www.wowhead.com/spell=355637/quelling-strike" target="blank">Quelling Strike</a>
+
+veteran_sparkcaster: <a href="https://www.wowhead.com/npc=179841/veteran-sparkcaster" target="blank">Veteran Sparkcaster</a>
+hyperlight_salvo: <a href="https://www.wowhead.com/spell=355642/hyperlight-salvo" target="blank">Hyperlight Salvo</a>
+scintillate: <a href="https://www.wowhead.com/spell=355641/scintillate" target="blank">Scintillate</a>
+
+venza_goldfuse: <a href="https://www.wowhead.com/npc=176705/venza-goldfuse" target="blank">Venza Goldfuze</a>
+gluttony: <a href="https://www.wowhead.com/spell=349627/gluttony" target="blank">Gluttony</a>
+volatile_anima: <a href="https://www.wowhead.com/spell=349989/volatile-anima" target="blank">Volatile Anima</a>
+venting_protocol: <a href="https://www.wowhead.com/spell=349987/venting-protocol" target="blank">Venting Protocol</a>
+flagellation_protocol: <a href="https://www.wowhead.com/spell=349933/flagellation-protocol" target="blank">Flagellation Protocol</a>
+whirling_annihilation: <a href="https://www.wowhead.com/spell=350086/whirling-annihilation" target="blank">Whirling Annihilation</a>
+chains_of_damnation: <a href="https://www.wowhead.com/spell=350101/chains-of-damnation" target="blank">Chains of Damnation</a>
+
+brawling_patron: <a href="https://www.wowhead.com/npc=180159/brawling-patron" target="blank">Brawling Patrons</a>
+rowdy: <a href="https://www.wowhead.com/spell=353706/rowdy" target="blank">Rowdy</a>
+
+disruptive_patron: <a href="https://www.wowhead.com/npc=176565/disruptive-patron" target="blank">Disruptive Patrons</a>
+teleport: <a href="https://www.wowhead.com/spell=353783/teleport" target="blank">Teleport</a>
+hyperlight_bolt: <a href="https://www.wowhead.com/spell=353836/hyperlight-bolt" target="blank">Hyperlight Bolt</a>
+suppression: <a href="https://www.wowhead.com/spell=353835/suppression" target="blank">Suppression</a>
+
+oasis_security: <a href="https://www.wowhead.com/npc=179269/oasis-security" target="blank">Oasis Security</a>
+menacing_shout: <a href="https://www.wowhead.com/spell=350922/menacing-shout" target="blank">Menacing Shout</a>
+
+rotten_food: <a href="https://www.wowhead.com/spell=356482/rotten-food" target="blank">Rotten Food</a>
+
+zogron: <a href="https://www.wowhead.com/npc=176564/zogron" target="blank">Zo'gron</a>
+suppression_spark: <a href="https://www.wowhead.com/spell=355438/suppression-spark" target="blank">Suppression Spark</a>
+crowd_control: <a href="https://www.wowhead.com/spell=350919/crowd-control" target="blank">Crowd Control</a>
+
+overloaded_mailemental: <a href="https://www.wowhead.com/npc=176395/overloaded-mailemental" target="blank">Overloaded Mailemental</a>
+spam_filter: <a href="https://www.wowhead.com/spell=347775/spam-filter" target="blank">Spam Filter</a>
+
+defective_sorter: <a href="https://www.wowhead.com/npc=176396/defective-sorter" target="blank">Defective Sorter</a>
+open_cage: <a href="https://www.wowhead.com/spell=347721/open-cage" target="blank">Open Cage</a>
+
+p_o_s_t_master: <a href="https://www.wowhead.com/npc=175646/p-o-s-t-master" target="blank">P.O.S.T. Master</a>
+unstable_goods: <a href="https://www.wowhead.com/spell=346947/unstable-goods" target="blank">Unstable Goods</a>
+fan_mail: <a href="https://www.wowhead.com/spell=346742/fan-mail" target="blank">Fan Mail</a>
+money_order: <a href="https://www.wowhead.com/spell=346962/money-order" target="blank">Money Order</a>
+hazardous_liquids: <a href="https://www.wowhead.com/spell=346286/hazardous-liquids" target="blank">Hazardous Liquids</a>
+
+commander_zofar: <a href="https://www.wowhead.com/npc=179821/commander-zofar" target="blank">Commander Zo'far</a>
+lethal_force: <a href="https://www.wowhead.com/spell=355479/lethal-force" target="blank">Lethal Force</a>
+shock_mines: <a href="https://www.wowhead.com/spell=355476/shock-mines" target="blank">Shock Mines</a>
+
+soazmi: <a href="https://www.wowhead.com/npc=175806/soazmi" target="blank">So'azmi</a>
+relocator: <a href="https://www.wowhead.com/spell=347392/deploy-relocators" target="blank">Relocator</a>
+shuri: <a href="https://www.wowhead.com/spell=347610/shuri" target="blank">Shuri</a>
+double_technique: <a href="https://www.wowhead.com/spell=357188/double-technique" target="blank">Double Technique</a>
+quickblade: <a href="https://www.wowhead.com/spell=347623/quickblade" target="blank">Quickblade</a>
+divide: <a href="https://www.wowhead.com/spell=347414/divide" target="blank">Divide</a>

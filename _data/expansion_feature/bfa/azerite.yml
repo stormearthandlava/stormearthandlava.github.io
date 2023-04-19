@@ -1,0 +1,87 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# spec specific traits
+ancestral_resonance: <a href="https://bfa.wowhead.com/spell=277942" target="blank">Ancestral Resonance</a>
+
+ancient_ankh_talisman: <a href="https://ptr.wowhead.com/spell=287774/ancient-ankh-talisman" target="blank">Ancient Ankh Talisman</a>
+
+echo_of_the_elementals: <a href="https://bfa.wowhead.com/spell=275381" target="blank">Echo of the Elementals</a>
+
+igneous_potential: <a href="https://bfa.wowhead.com/spell=279829" target="blank">Igneous Potential</a>
+
+lava_shock: <a href="https://bfa.wowhead.com/spell=273448" target="blank">Lava Shock</a>
+
+natural_harmony: <a href="https://bfa.wowhead.com/spell=278697" target="blank">Natural Harmony</a>
+
+rumbling_tremors: <a href="https://bfa.wowhead.com/spell=278709" target="blank">Rumbling Tremors</a>
+
+synapse_shock: <a href="https://bfa.wowhead.com/spell=277671" target="blank">Synapse Shock</a>
+
+tectonic_thunder: <a href="https://ptr.wowhead.com/spell=286949/tectonic-thunder" target="blank">Tectonic Thunder</a>
+
+# Uldir specific traits
+laser_matrix: <a href="https://bfa.wowhead.com/spell=280702" target="blank">Laser Matrix</a>
+
+archive_of_the_titans: <a href="https://bfa.wowhead.com/spell=280555" target="blank">Archive of the Titans</a>
+
+# Battle of Dazar'alor traits
+
+treacherous_covenant: <a href="https://bfa.wowhead.com/spell=288953/" target="blank">Treacherous Covenant</a>
+
+# Azshara's Eternal Palace traits
+
+undulating_tides: <a href="https://bfa.wowhead.com/spell=303008/" target="blank">Undulating Tides</a>
+
+# Nya'lotha traits
+
+heart_of_darkness: <a href="https://bfa.wowhead.com/spell=317137/" target="blank">Heart of Darkness</a>
+
+# Universal Traits
+blightborne_infusion: <a href="https://bfa.wowhead.com/spell=273823/" target="blank">Blightborne Infusion</a>
+
+swirling_sands: <a href="https://bfa.wowhead.com/spell=280429/" target="blank">Swirling Sands</a>
+
+# Essences
+blood_of_the_enemy: <a href="https://bfa.wowhead.com/item=168444" target="blank">Blood of the Enemy</a>
+
+breath_of_the_dying: <a href="https://bfa.wowhead.com/item=173282" target="blank">Breath of the Dying</a>
+
+condensed_lifeforce: <a href="https://bfa.wowhead.com/item=168856" target="blank">Condensed Life-Force</a>
+
+conflict_and_strife: <a href="https://bfa.wowhead.com/item=169900" target="blank">Conflict and Strife</a>
+
+crucible_of_flame: <a href="https://bfa.wowhead.com/item=168613" target="blank">The Crucible of Flame</a>
+
+focusing_iris: <a href="https://bfa.wowhead.com/item=168622" target="blank">Essence of the Focusing Iris</a>
+essence_of_the_focusing_iris: <a href="https://bfa.wowhead.com/item=168622" target="blank">Essence of the Focusing Iris</a>
+
+formless_void: <a href="https://bfa.wowhead.com/item=173885" target="blank">The Formless Void</a>
+
+memory_of_lucid_dreams: <a href="https://bfa.wowhead.com/item=168848" target="blank">Memory of Lucid Dreams</a>
+lucid_dreams: <a href="https://bfa.wowhead.com/item=168848" target="blank">Memory of Lucid Dreams</a>
+
+purification_protocol: <a href="https://bfa.wowhead.com/item=168860" target="blank">Purification Protocol</a>
+
+ripple_in_space: <a href="https://bfa.wowhead.com/item=168852" target="blank">Ripple in Space</a>
+
+spark_of_inspiration: <a href="https://bfa.wowhead.com/item=173290" target="blank">Spark of Inspiration</a>
+
+unbound_force: <a href="https://bfa.wowhead.com/item=168865" target="blank">The Unbound Force</a>
+
+vision_of_perfection: <a href="https://bfa.wowhead.com/item=168844" target="blank">Vision of Perfection</a>
+vop: <a href="https://bfa.wowhead.com/item=168844" target="blank">Vision of Perfection</a>
+
+worldvein_resonance: <a href="https://bfa.wowhead.com/item=168617" target="blank">Worldvein Resonance</a>
+worldvein: <a href="https://bfa.wowhead.com/item=168617" target="blank">Worldvein Resonance</a>

@@ -1,0 +1,93 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+# DK
+death_knight: <a href="https://www.wowhead.com/class=6/death-knight#" target="blank">Death Knight</a>
+anti_magic_zone: <a href="https://www.wowhead.com/spell=51052/anti-magic-zone" target="blank">Anti Magic Zone</a>
+death_grip: <a href="https://www.wowhead.com/spell=49576/death-grip" target="blank">Death Grip</a>
+gorefiends_grasp: <a href="https://www.wowhead.com/spell=108199/gorefiends-grasp" target="blank">Gorefiend's Grasp</a>
+abomination_limb: <a href="https://www.wowhead.com/spell=383269/abomination-limb" target="blank">Abomination Limb</a>
+
+# DH
+demon_hunter: <a href="https://www.wowhead.com/class=12/demon-hunter#" target="blank">Demon Hunter</a>
+darkness: <a href="https://www.wowhead.com/spell=196718/darkness" target="blank">Darkness</a>
+chaos_brand: <a href="https://www.wowhead.com/spell=255260/chaos-brand" target="blank">Chaos Brand</a>
+
+# Druid
+druid: <a href="https://www.wowhead.com/class=11/druid#" target="blank">Druid</a>
+stampeding_roar: <a href="https://www.wowhead.com/spell=106898/stampeding-roar" target="blank">Stampeding Roar</a>
+mark_of_the_wild: <a href="https://www.wowhead.com/spell=1126/mark-of-the-wild" target="blank">Mark of the Wild</a>
+ironbark: <a href="https://www.wowhead.com/spell=102342/ironbark" target="blank">Ironbark</a>
+
+# Evoker
+evoker: <a href="https://www.wowhead.com/class=13/evoker#" target="blank">Evoker</a>
+blessing_of_the_bronze: <a href="https://www.wowhead.com/spell=364342/blessing-of-the-bronze" target="blank">Blessing of the Bronze</a>
+time_dilation: <a href="https://www.wowhead.com/spell=357170/time-dilation" target="blank">Time Dilation</a>
+time_spiral: <a href="https://www.wowhead.com/spell=374968/time-spiral" target="blank">Time Spiral</a>
+
+# Hunter
+hunter: <a href="https://www.wowhead.com/class=3/hunter#" target="blank">Hunter</a>
+
+# Mage
+mage: <a href="https://www.wowhead.com/class=8/mage#" target="blank">Mage</a>
+arcane_intellect: <a href="https://www.wowhead.com/spell=1459/arcane-intellect" target="blank">Arcane Intellect</a>
+
+# Monk
+monk: <a href="https://www.wowhead.com/class=10/monk#" target="blank">Monk</a>
+mystic_touch: <a href="https://www.wowhead.com/spell=8647/mystic-touch" target="blank">Mystic Touch</a>
+life_cocoon: <a href="https://www.wowhead.com/spell=116849/life-cocoon" target="blank">Life Cocoon</a>
+close_to_heart: <a href="https://www.wowhead.com/spell=389574/close-to-heart?def=106527&rank=2" target="blank">Close to Heart</a> # Extra healing
+windwalking: <a href="https://www.wowhead.com/spell=157411/windwalking?def=106519&rank=2" target="blank">Windwalking</a>
+generous_pour: <a href="https://www.wowhead.com/spell=389575/generous-pour?def=106502&rank=2" target="blank">Generous Pour</a> # avoidance
+tigers_lust: <a href="https://www.wowhead.com/spell=116841/tigers-lust" target="blank">Tiger's Lust</a>
+
+# Paladin
+paladin: <a href="https://www.wowhead.com/class=2/paladin#" target="blank">Paladin</a>
+devotion_aura: <a href="https://www.wowhead.com/spell=465/devotion-aura" target="blank">Devotion Aura</a>
+retribution_aura: <a href="https://www.wowhead.com/spell=183435/retribution-aura" target="blank">Retribution Aura</a>
+blessing_of_sacrifice: <a href="https://www.wowhead.com/spell=6940/blessing-of-sacrifice" target="blank">Blessing of Sacrifice</a>
+blessing_of_protection: <a href="https://www.wowhead.com/spell=1022/blessing-of-protection" target="blank">Blessing of Protection</a>
+blessing_of_spellwarding: <a href="https://www.wowhead.com/spell=204018/blessing-of-spellwarding" target="blank">Blessing of Spellwarding</a>
+blessing_of_freedom: <a href="https://www.wowhead.com/spell=1044/blessing-of-freedom" target="blank">Blessing of Freedom</a>
+
+# Priest
+priest: <a href="https://www.wowhead.com/class=5/priest#" target="blank">Priest</a>
+power_infusion: <a href="https://www.wowhead.com/spell=10060/power-infusion" target="blank">Power Infusion</a>
+power_word_fortitude: <a href="https://www.wowhead.com/spell=21562/power-word-fortitude" target="blank">Power Word Fortitude</a>
+guardian_spirit: <a href="https://www.wowhead.com/spell=47788/guardian-spirit" target="blank">Guardian Spirit</a>
+pain_suppression: <a href="https://www.wowhead.com/spell=33206/pain-suppression" target="blank">Pain Suppression</a>
+power_word_barrier: <a href="https://www.wowhead.com/spell=62618/power-word-barrier" target="blank">Power Word Barrier</a>
+
+# Rogue
+rogue: <a href="https://www.wowhead.com/class=4/rogue#" target="blank">Rogue</a>
+shroud_of_concealment: <a href="https://www.wowhead.com/spell=114018/shroud-of-concealment" target="blank">Shroud of Concealment</a>
+
+# Shaman (enh & resto)
+shaman: <a href="https://www.wowhead.com/class=7/shaman#" target="blank">Shaman</a>
+windfury_totem: <a href="https://www.wowhead.com/spell=8512/windfury-totem" target="blank">Windfury Totem</a>
+spirit_link_totem: <a href="https://www.wowhead.com/spell=98008/spirit-link-totem" target="blank">Spirit Link Totem</a>
+
+# Warlock Utilities
+warlock: <a href="https://www.wowhead.com/class=9/warlock#" target="blank">Warlock</a>
+healthstone: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healthstone</a>
+hs: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healthstone</a>
+demonic_gateway: <a href="https://www.wowhead.com/spell=111771/demonic-gateway" target="blank">Demonic Gateway</a>
+gateway_control_shard: <a href="https://www.wowhead.com/item=188152/gateway-control-shard" target="blank">Gateway Control Shard</a>
+
+# Warrior
+warrior: <a href="https://www.wowhead.com/class=1/warrior#" target="blank">Warrior</a>
+battle_shout: <a href="https://www.wowhead.com/spell=6673/battle-shout" target="blank">Battle Shout</a>
+rallying_cry: <a href="https://www.wowhead.com/spell=97462/rallying-cry" target="blank">Rallying Cry</a>
