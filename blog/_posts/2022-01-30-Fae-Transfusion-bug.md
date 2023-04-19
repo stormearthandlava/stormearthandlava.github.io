@@ -14,8 +14,8 @@ The crux of the issue seems to lie in gaining or receiving buffs:
 
 # "How impactful is this?"
 
-Given the introduction of {{site.data.legendary.night_fae}} which grants bonus Crit % and CDR based on the number of ticks executed, this unfortunate interaction causes lost value which can feel incredibly bad.
-Overall it has negligible impact upon how the Night Fae Covenant performs in M+ content, but if you find this interaction frustrating then using {{site.data.legendary.eogs}} can make more sense, to reduce the value lost when it occurs.
+Given the introduction of {{site.data.expansion_feature.sl.legendary.night_fae}} which grants bonus Crit % and CDR based on the number of ticks executed, this unfortunate interaction causes lost value which can feel incredibly bad.
+Overall it has negligible impact upon how the Night Fae Covenant performs in M+ content, but if you find this interaction frustrating then using {{site.data.expansion_feature.sl.legendary.eogs}} can make more sense, to reduce the value lost when it occurs.
 
 Make informed choices,<br/>
 Eokira

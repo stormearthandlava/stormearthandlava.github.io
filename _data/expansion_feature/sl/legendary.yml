@@ -1,0 +1,59 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# General
+jailer: <a href="https://shadowlands.wowhead.com/spell=339058" target="blank">Third Eye of the Jailer</a>
+sacrifice: <a href="https://shadowlands.wowhead.com/spell=338743" target="blank">Vitality Sacrifice</a>
+eonar: <a href="https://shadowlands.wowhead.com/spell=338477" target="blank">Echo of Eonar</a>
+arbiter: <a href="https://shadowlands.wowhead.com/spell=339344" target="blank">Judgment of the Arbiter</a>
+maw: <a href="https://shadowlands.wowhead.com/spell=340197" target="blank">Maw Rattle</a>
+norgannon: <a href="https://shadowlands.wowhead.com/spell=339340" target="blank">Norgannon's Sagacity</a>
+sephuz: <a href="https://shadowlands.wowhead.com/spell=339348" target="blank">Sephuz's Proclamation</a>
+phantasma: <a href="https://shadowlands.wowhead.com/spell=339351" target="blank">Stable Phantasma Lure</a>
+
+# Shaman
+deeptremor_stone: <a href="https://shadowlands.wowhead.com/spell=336739" target="blank">Deeptremor Stone</a>
+deeptremor: <a href="https://shadowlands.wowhead.com/spell=336739" target="blank">Deeptremor Stone</a>
+ancestral_reminder: <a href="https://shadowlands.wowhead.com/spell=336741" target="blank">Ancestral Reminder</a>
+reminder: <a href="https://shadowlands.wowhead.com/spell=336741" target="blank">Ancestral Reminder</a>
+chains_of_devastation: <a href="https://shadowlands.wowhead.com/spell=336735" target="blank">Chains of Devastation</a>
+chains: <a href="https://shadowlands.wowhead.com/spell=336735" target="blank">Chains of Devastation</a>
+deeply_rooted_elements: <a href="https://shadowlands.wowhead.com/spell=336738" target="blank">Deeply Rooted Elements</a>
+dre: <a href="https://shadowlands.wowhead.com/spell=336738" target="blank">Deeply Rooted Elements</a>
+
+# Elem
+echoes_of_great_sundering: <a href="https://shadowlands.wowhead.com/spell=336215" target="blank">Echoes of Great Sundering</a>
+eogs: <a href="https://shadowlands.wowhead.com/spell=336215" target="blank">Echoes of Great Sundering</a>
+elemental_equilibrium: <a href="https://shadowlands.wowhead.com/spell=336730" target="blank">Elemental Equilibrium</a>
+eeq: <a href="https://shadowlands.wowhead.com/spell=336730" target="blank">Elemental Equilibrium</a>
+skybreakers_fiery_demise: <a href="https://shadowlands.wowhead.com/spell=336734" target="blank">Skybreaker's Fiery Demise</a>
+skybreaker: <a href="https://shadowlands.wowhead.com/spell=336734" target="blank">Skybreaker's Fiery Demise</a>
+sfd: <a href="https://shadowlands.wowhead.com/spell=336734" target="blank">Skybreaker's Fiery Demise</a>
+windspeakers_lava_resurgence: <a href="https://shadowlands.wowhead.com/spell=336063" target="blank">Windspeaker's Lava Resurgence</a>
+windspeaker: <a href="https://shadowlands.wowhead.com/spell=336063" target="blank">Windspeaker's Lava Resurgence</a>
+wlr: <a href="https://shadowlands.wowhead.com/spell=336063" target="blank">Windspeaker's Lava Resurgence</a>
+ws: <a href="https://shadowlands.wowhead.com/spell=336063" target="blank">Windspeaker's Lava Resurgence</a>
+
+# Covenants
+elemental_conduit: <a href="https://shadowlands.wowhead.com/spell=356250" target="blank">Elemental Conduit</a>
+venthyr: <a href="https://shadowlands.wowhead.com/spell=356250" target="blank">Elemental Conduit</a>
+raging_vesper_vortex: <a href="https://shadowlands.wowhead.com/spell=356789" target="blank">Raging Vesper Vortex</a>
+kyrian: <a href="https://shadowlands.wowhead.com/spell=356789" target="blank">Raging Vesper Vortex</a>
+ky: <a href="https://shadowlands.wowhead.com/spell=356789" target="blank">Raging Vesper Vortex</a>
+seeds_of_rampant_growth: <a href="https://shadowlands.wowhead.com/spell=356218" target="blank">Seeds of Rampant Growth</a>
+night_fae: <a href="https://shadowlands.wowhead.com/spell=356218" target="blank">Seeds of Rampant Growth</a>
+nf: <a href="https://shadowlands.wowhead.com/spell=356218" target="blank">Seeds of Rampant Growth</a>
+splintered_elements: <a href="https://shadowlands.wowhead.com/spell=354647" target="blank">Splintered Elements</a>
+necrolord: <a href="https://shadowlands.wowhead.com/spell=354647" target="blank">Splintered Elements</a>
+nl: <a href="https://shadowlands.wowhead.com/spell=354647" target="blank">Splintered Elements</a>

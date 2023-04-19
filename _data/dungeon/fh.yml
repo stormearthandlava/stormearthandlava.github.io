@@ -164,8 +164,8 @@ cannon_barrage: <a href="https://www.wowhead.com/spell=257305/cannon-barrage" ta
 flaming_shrapnel: <a href="https://www.wowhead.com/spell=257308/flaming-shrapnel" target="blank">Flaming Shrapnel</a> # DoT from cannonballs
 fiery_debris: <a href="https://www.wowhead.com/spell=257460/fiery-debris" target="blank">Fiery Debris</a> # pool
 swiftwind_saber: <a href="https://www.wowhead.com/spell=257454/swiftwind-saber" target="blank">Swiftwind Saber</a> # stand back to the wall
-avast_ye: <a href="https://www.wowhead.com/spell=257316/avast-ye" target="blank">Avast, ye</a> # Summon grenadier
+avast_ye: '<a href="https://www.wowhead.com/spell=257316/avast-ye" target="blank">Avast, Ye!</a>' # Summon grenadier
 irontide_grenadier: <a href="https://www.wowhead.com/npc=129758/irontide-grenadier" target="blank">Irontide Grenadier</a>
 black_powder_bomb: <a href="https://www.wowhead.com/spell=257315/black-powder-bomb" target="blank">Black Powder Bomb</a> # Kamikaze
-loaded_dice_all_hands: <a href="https://www.wowhead.com/spell=257402/loaded-dice-all-hands" target="blank">Loaded Dice, All Hands</a> # now targets 3 people
-loaded_dice_man_o_war: <a href="https://www.wowhead.com/spell=257458/loaded-dice-man-o-war" target="blank">Loaded Dice, Man-O-War</a> # 100% more dam but 100% as
+loaded_dice_all_hands: '<a href="https://www.wowhead.com/spell=257402/loaded-dice-all-hands" target="blank">Loaded Dice: All Hands</a>' # now targets 3 people
+loaded_dice_man_o_war: '<a href="https://www.wowhead.com/spell=257458/loaded-dice-man-o-war" target="blank">Loaded Dice: Man-O-War</a>' # 100% more dam but 100% as

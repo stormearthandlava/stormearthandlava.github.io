@@ -23,8 +23,8 @@ If you have suggestions to improve the information in this guide please contact 
 # Miscellaneous Tips
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
-- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilizing {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
-- Any Single Target orientated fights where you choose to use {{ site.data.legendary.wlr }} please note that using {{ site.data.spell.eq }} on 2 or more targets is **still a net damage gain** despite ignoring your Legendary's effect. So if adds are present for short periods of time and you are not fully committed to single target then using {{ site.data.spell.eq }} for those short periods is preferred.
+- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilizing {{ site.data.talent.swg }} and instant casts as much as you can for movement heavy encounters.
+- Any Single Target orientated fights where you choose to use {{ site.data.expansion_feature.sl.legendary.wlr }} please note that using {{ site.data.spell.eq }} on 2 or more targets is **still a net damage gain** despite ignoring your Legendary's effect. So if adds are present for short periods of time and you are not fully committed to single target then using {{ site.data.spell.eq }} for those short periods is preferred.
 
 # Bosses
 <p style="color:red">Click on a boss banner to expand it.</p>
@@ -54,14 +54,14 @@ If you have suggestions to improve the information in this guide please contact 
 - Necrolord with Plague-Deviser Marileth
 
 **Recommended Legendaries:**
-- {{ site.data.legendary.windspeaker }}
+- {{ site.data.expansion_feature.sl.legendary.windspeaker }}
 
 **Damage:**
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts if targeted with {{ site.data.nathria.echolocation }}.
+- Utilize {{ site.data.talent.swg }} or instant casts if targeted with {{ site.data.nathria.echolocation }}.
 - If possible, pool Maelstrom on Shriekwing during Phase 2, but do not be reckless for it.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} for {{ site.data.nathria.reverberating_scream }} as needed.
+- Use {{ site.data.talent.as }} for {{ site.data.nathria.reverberating_scream }} as needed.
 
 **Healing:**
 - Phase 2 is a great opportunity to support your raid with off-healing through {{ site.data.talent.healing_stream_totem }}, {{site.data.talent.chain_heal }}, and {{ site.data.spell.healing_surge }} as needed.
@@ -95,21 +95,21 @@ If you have suggestions to improve the information in this guide please contact 
 * **50**: {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
 
 **Recommended Covenant**
-- Necrolord with Plague-Deviser Marileth, if **not** using {{ site.data.legendary.eogs }} the value of {{ site.data.conduit.shake_the_foundations }} rises considerably.
+- Necrolord with Plague-Deviser Marileth, if **not** using {{ site.data.expansion_feature.sl.legendary.eogs }} the value of {{ site.data.conduit.shake_the_foundations }} rises considerably.
 
 **Recommended Legendaries:**
-- {{ site.data.legendary.dre }} the setup of the fight synergises well with this Legendary's requirements to perform better than our other options on average.
-- {{ site.data.legendary.eogs }} a more consistent option if you dislike RNG.
-- {{ site.data.legendary.wlr }} is still a viable choice although the other options will outperform it in overall value.
-- {{ site.data.legendary.sfd }} if you have an active {{ site.data.item.t28_2 }} but **not** {{ site.data.item.t28_4 }}, the increase in {{ site.data.talent.fe }} uptime will be incredibly valuable for you. Similarly, consider using {{ site.data.talent.sop }} to further increase {{ site.data.talent.fe }} uptime.
+- {{ site.data.expansion_feature.sl.legendary.dre }} the setup of the fight synergises well with this Legendary's requirements to perform better than our other options on average.
+- {{ site.data.expansion_feature.sl.legendary.eogs }} a more consistent option if you dislike RNG.
+- {{ site.data.expansion_feature.sl.legendary.wlr }} is still a viable choice although the other options will outperform it in overall value.
+- {{ site.data.expansion_feature.sl.legendary.sfd }} if you have an active {{ site.data.item.t28_2 }} but **not** {{ site.data.item.t28_4 }}, the increase in {{ site.data.talent.fe }} uptime will be incredibly valuable for you. Similarly, consider using {{ site.data.talent.sop }} to further increase {{ site.data.talent.fe }} uptime.
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the active pet.
-- Use {{ site.data.spell.earthquake }} when the boss and active pet are stacked together (if not using {{ site.data.legendary.windspeaker }}).
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for {{ site.data.nathria.sinseeker }}, {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.petrifying_howl }}.
+- Use {{ site.data.spell.eq }} when the boss and active pet are stacked together (if not using {{ site.data.expansion_feature.sl.legendary.windspeaker }}).
+- Utilize {{ site.data.talent.swg }} or instant casts for {{ site.data.nathria.sinseeker }}, {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.petrifying_howl }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} for {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.shattering_stone }} as needed.
+- Use {{ site.data.talent.as }} for {{ site.data.nathria.vicious_lunge }} and {{ site.data.nathria.shattering_stone }} as needed.
 - If talented, {{ site.data.talent.spirit_wolf }} can help your survivability against {{ site.data.nathria.sinseeker }} as needed as well as navigating {{ site.data.nathria.petrifying_howl }}.
 
 **Healing:**
@@ -141,19 +141,19 @@ If you have suggestions to improve the information in this guide please contact 
 * **50**: {{ site.data.talent.stormkeeper }}
 
 **Recommended Covenants**
-- Night Fae with Korayn for {{ site.data.soulbinds.first_strike }} for overall value.
-- Necrolord with Plague-Deviser Marileth for {{ site.data.soulbinds.preemptive_strike }} for value on [Rockbound Vanquishers](https://www.wowhead.com/npc=165764/rockbound-vanquisher)
+- Night Fae with Korayn for {{ site.data.expansion_feature.sl.soulbinds.first_strike }} for overall value.
+- Necrolord with Plague-Deviser Marileth for {{ site.data.expansion_feature.sl.soulbinds.preemptive_strike }} for value on [Rockbound Vanquishers](https://www.wowhead.com/npc=165764/rockbound-vanquisher)
 
 **Recommended Legendaries:**
-- {{ site.data.legendary.eogs }} best paired with Night Fae for overall value.
-- {{ site.data.legendary.wlr }} used with either Night Fae or Necrolord to focus on the single target portions of the fight like [Cloak of Flames](https://www.wowhead.com/spell=343026/cloak-of-flames) on Mythic difficulty.
+- {{ site.data.expansion_feature.sl.legendary.eogs }} best paired with Night Fae for overall value.
+- {{ site.data.expansion_feature.sl.legendary.wlr }} used with either Night Fae or Necrolord to focus on the single target portions of the fight like [Cloak of Flames](https://www.wowhead.com/spell=343026/cloak-of-flames) on Mythic difficulty.
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on priority targets.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.ember_blast }}.
+- Utilize {{ site.data.talent.swg }} or instant casts as needed for {{ site.data.nathria.ember_blast }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} for {{ site.data.nathria.crimson_flurry }} (from {{ site.data.nathria.bleakwing_assassin }}) and {{ site.data.nathria.ember_blast }} (from {{site.data.nathria.shade_of_kaelthas}}) as needed.
+- Use {{ site.data.talent.as }} for {{ site.data.nathria.crimson_flurry }} (from {{ site.data.nathria.bleakwing_assassin }}) and {{ site.data.nathria.ember_blast }} (from {{site.data.nathria.shade_of_kaelthas}}) as needed.
 - If talented, {{ site.data.talent.spirit_wolf}} allows you to mitigate damage from {{ site.data.nathria.soul_pedestal }}.
 
 **Healing:**
@@ -197,13 +197,13 @@ If you have suggestions to improve the information in this guide please contact 
 - Necrolord with Plague-Deviser Marileth
 
 **Recommended Legendaries:**
-- {{ site.data.legendary.windspeaker }}
+- {{ site.data.expansion_feature.sl.legendary.windspeaker }}
 
 **Damage:**
-- This is a very movement heavy fight, so be proactive with your instant casts and use {{ site.data.spell.spiritwalkers_grace }} liberally.
+- This is a very movement heavy fight, so be proactive with your instant casts and use {{ site.data.talent.swg }} liberally.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.withering_touch }}.
+- Use {{ site.data.talent.as }} as needed for {{ site.data.nathria.withering_touch }}.
 - {{ site.data.talent.spirit_wolf}} allows you to better navigate the mechanics from each relic. {{ site.data.talent.earth_shield}} can offer HPS against constant damage (i.e. {{ site.data.nathria.hyperlight_spark }}, {{ site.data.nathria.glyph_of_destruction }}, {{ site.data.nathria.withering_touch }}, and {{ site.data.nathria.aura_of_dread }}).
 
 **Utilities:**
@@ -239,13 +239,13 @@ If you have suggestions to improve the information in this guide please contact 
 - Necrolord with Plague-Deviser Marileth
 
 **Recommended Legendaries:**
-- {{ site.data.legendary.windspeaker }}
+- {{ site.data.expansion_feature.sl.legendary.windspeaker }}
 
 **Damage:**
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts for {{ site.data.nathria.volatile_ejection }}, {{ site.data.nathria.expunge }}, and {{ site.data.nathria.consume }}.
+- Utilize {{ site.data.talent.swg }} or instant casts for {{ site.data.nathria.volatile_ejection }}, {{ site.data.nathria.expunge }}, and {{ site.data.nathria.consume }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for any overlapping mechanics between {{ site.data.nathria.gluttonous_miasma }}, {{ site.data.nathria.expunge }}, and {{ site.data.nathria.desolate }}.
+- Use {{ site.data.talent.as }} as needed for any overlapping mechanics between {{ site.data.nathria.gluttonous_miasma }}, {{ site.data.nathria.expunge }}, and {{ site.data.nathria.desolate }}.
 - If talented, {{ site.data.talent.spirit_wolf }} can be used to mitigate {{ site.data.nathria.consume }} when you are out of range of the boss, and the increased movement speed may improve your {{ site.data.nathria.expunge }} placements.
 
 **Healing:**
@@ -280,21 +280,21 @@ If you have suggestions to improve the information in this guide please contact 
 * **50**: {{ site.data.talent.stormkeeper }}
 
 **Recommended Covenants**
-- Necrolord with Plague-Deviser Marileth, particularly if you choose to use {{ site.data.legendary.dre }}
+- Necrolord with Plague-Deviser Marileth, particularly if you choose to use {{ site.data.expansion_feature.sl.legendary.dre }}
 - Night Fae with Dreamweaver
 
 **Potential Legendaries:**
-- {{ site.data.legendary.windspeaker }}
-- {{ site.data.legendary.eogs }}
-- {{ site.data.legendary.dre }} (Note: this is less than ideal setup for this legendary to shine in comparison to our more reliable alternatives, but this may yield good results if you're lucky!)
+- {{ site.data.expansion_feature.sl.legendary.windspeaker }}
+- {{ site.data.expansion_feature.sl.legendary.eogs }}
+- {{ site.data.expansion_feature.sl.legendary.dre }} (Note: this is less than ideal setup for this legendary to shine in comparison to our more reliable alternatives, but this may yield good results if you're lucky!)
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on the boss and the {{ site.data.nathria.harnessed_specter }} add.
-- Pool Maelstrom for incoming add spawns. If {{ site.data.legendary.eogs }} is equipped, hold a proc for an incoming add spawn as well.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted with {{ site.data.nathria.shared_suffering }}.
+- Pool Maelstrom for incoming add spawns. If {{ site.data.expansion_feature.sl.legendary.eogs }} is equipped, hold a proc for an incoming add spawn as well.
+- Utilize {{ site.data.talent.swg }} or instant casts as needed when targeted with {{ site.data.nathria.shared_suffering }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.change_of_heart }} and {{ site.data.nathria.bottled_anima }} vials.
+- Use {{ site.data.talent.as }} as needed for {{ site.data.nathria.change_of_heart }} and {{ site.data.nathria.bottled_anima }} vials.
 - {{ site.data.talent.spirit_wolf}} can be used to mitigate damage from {{ site.data.nathria.loose_anima }} (if channeling) or to run out and soak far away {{ site.data.nathria.bottled_anima }} vials. {{ site.data.talent.earth_shield}} can offer you HPS because of the constant damage from {{ site.data.nathria.loose_anima }}.
 
 **Utilities:**
@@ -329,17 +329,17 @@ If you have suggestions to improve the information in this guide please contact 
 - Necrolord with Plague-Deviser Marileth
 
 **Recommended Legendaries:**
-- {{ site.data.legendary.dre}} (Note: with the high uptime of {{ site.data.spell.fs }} on multiple targets, using {{ site.data.talent.afs }} can be preferable to enable the most available GCDs for casting {{ site.data.spell.lvb }}).
-- {{ site.data.legendary.windspeaker }}
-- {{ site.data.legendary.sfd }} (Note: this should only be picked if you do not have an active {{ site.data.item.t28_4 }} bonus.
+- {{ site.data.expansion_feature.sl.legendary.dre}} (Note: with the high uptime of {{ site.data.spell.fs }} on multiple targets, using {{ site.data.talent.afs }} can be preferable to enable the most available GCDs for casting {{ site.data.spell.lvb }}).
+- {{ site.data.expansion_feature.sl.legendary.windspeaker }}
+- {{ site.data.expansion_feature.sl.legendary.sfd }} (Note: this should only be picked if you do not have an active {{ site.data.item.t28_4 }} bonus.
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible, prioritizing: targeted boss > adds > other bosses.
-- During the {{ site.data.nathria.danse_macabre }}, the bosses are still targetable even with 99% damage reduction. Continue maintaining {{ site.data.spell.flame_shock }}, this is more relevant if you find yourself needing to use {{ site.data.legendary.sfd }} whilst gearing.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.anima_fountain }}, {{ site.data.nathria.waltz_of_blood }}, {{ site.data.nathria.dark_recital }}, and {{ site.data.nathria.dancing_fever }} (on Mythic difficulty).
+- During the {{ site.data.nathria.danse_macabre }}, the bosses are still targetable even with 99% damage reduction. Continue maintaining {{ site.data.spell.flame_shock }}, this is more relevant if you find yourself needing to use {{ site.data.expansion_feature.sl.legendary.sfd }} whilst gearing.
+- Utilize {{ site.data.talent.swg }} or instant casts as needed for {{ site.data.nathria.anima_fountain }}, {{ site.data.nathria.waltz_of_blood }}, {{ site.data.nathria.dark_recital }}, and {{ site.data.nathria.dancing_fever }} (on Mythic difficulty).
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.dark_recital }} or as mechanics become overwhelming with increasing damage from {{ site.data.nathria.oppressive_atmosphere }}.
+- Use {{ site.data.talent.as }} as needed for {{ site.data.nathria.dark_recital }} or as mechanics become overwhelming with increasing damage from {{ site.data.nathria.oppressive_atmosphere }}.
 - {{ site.data.talent.spirit_wolf}} can help you move quickly or mitigate damage from {{ site.data.nathria.scarlet_letter }}, {{ site.data.nathria.unstoppable_charge }}, {{ site.data.nathria.castellans_cadre }}, and {{ site.data.nathria.dancing_fools }}. {{ site.data.talent.earth_shield}} can offer you HPS against the constant damage from {{ site.data.nathria.oppressive_atmosphere }} alone.
 
 **Utilities:**
@@ -374,15 +374,15 @@ If you have suggestions to improve the information in this guide please contact 
 - Kyrian with Mikanikos (Note: The fight is designed around 1 minute windows of damage amplification, this is precisely what Kyrian provides via {{ site.data.spell.vesper_totem }} and [Mikanikos' Effusive Anima Accelerator trait](https://www.wowhead.com/spell=352188/effusive-anima-accelerator?spellModifier=137038) providing enough CDR to match comfortably.
 
 **Potential Legendaries:**
-- {{ site.data.legendary.windspeaker }}
+- {{ site.data.expansion_feature.sl.legendary.windspeaker }}
 
 **Damage:**
 - Pool Maelstrom shortly before {{ site.data.nathria.destructive_impact }}.
 - {{ site.data.nathria.destructive_impact }} occurs nearly every minute. If {{ site.data.talent.stormkeeper }} is talented, it is a good idea to line up the cast with each {{ site.data.nathria.destructive_impact }}. To aid with this, pre-cast {{ site.data.talent.sk }} earlier than usual in the opener sequence to ensure it can be pre-cast for the first {{ site.data.nathria.destructive_impact }}.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed for {{ site.data.nathria.destructive_stomp }}, {{ site.data.nathria.falling_rubble }}, {{ site.data.nathria.chain_slam }}, and {{ site.data.nathria.seismic_shift }} (on Mythic difficulty).
+- Utilize {{ site.data.talent.swg }} or instant casts as needed for {{ site.data.nathria.destructive_stomp }}, {{ site.data.nathria.falling_rubble }}, {{ site.data.nathria.chain_slam }}, and {{ site.data.nathria.seismic_shift }} (on Mythic difficulty).
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.colossal_roar }} and {{ site.data.nathria.destructive_impact }}.
+- Use {{ site.data.talent.as }} as needed for {{ site.data.nathria.colossal_roar }} and {{ site.data.nathria.destructive_impact }}.
 - Because you will take constant damage from {{ site.data.nathria.chain_link }} and {{ site.data.nathria.collapsing_foundation }}, {{ site.data.talent.earth_shield}} is a good talent option for HPS.
 
 **Utilities:**
@@ -414,20 +414,20 @@ If you have suggestions to improve the information in this guide please contact 
 * **50**: {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
 
 **Recommended Covenants**
-- Night Fae with Korayn for {{ site.data.soulbinds.first_strike }} particularly if you choose to use {{ site.data.legendary.eogs }}
-- Necrolord with Plague-Deviser Marileth particularly if you choose to use {{ site.data.legendary.dre }}
+- Night Fae with Korayn for {{ site.data.expansion_feature.sl.soulbinds.first_strike }} particularly if you choose to use {{ site.data.expansion_feature.sl.legendary.eogs }}
+- Necrolord with Plague-Deviser Marileth particularly if you choose to use {{ site.data.expansion_feature.sl.legendary.dre }}
 
 **Recommended Legendaries:**
-- {{ site.data.legendary.dre }} (Note: this fight contains multiple sections of two-target cleave in Mythic difficulty which enables this Legendary to shine more than it otherwise would.
-- {{ site.data.legendary.eogs }} (Note: this fight contains a fair amount of AoE where this Legendary can be utilised effectively.
+- {{ site.data.expansion_feature.sl.legendary.dre }} (Note: this fight contains multiple sections of two-target cleave in Mythic difficulty which enables this Legendary to shine more than it otherwise would.
+- {{ site.data.expansion_feature.sl.legendary.eogs }} (Note: this fight contains a fair amount of AoE where this Legendary can be utilised effectively.
 
 **Damage:**
 - Maintain {{ site.data.spell.flame_shock }} on as many targets as possible.
-- If {{ site.data.legendary.eogs }} is equipped, prepare a proc for incoming waves of adds.
-- Utilize {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by {{ site.data.nathria.wicked_blade }}, {{ site.data.nathria.seismic_upheaval }}, and {{ site.data.nathria.reverberating_eruption }}.
+- If {{ site.data.expansion_feature.sl.legendary.eogs }} is equipped, prepare a proc for incoming waves of adds.
+- Utilize {{ site.data.talent.swg }} or instant casts as needed when targeted by {{ site.data.nathria.wicked_blade }}, {{ site.data.nathria.seismic_upheaval }}, and {{ site.data.nathria.reverberating_eruption }}.
 
 **Defensives:**
-- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.heart_hemorrhage }} and {{ site.data.nathria.pulverizing_meteor }}.
+- Use {{ site.data.talent.as }} as needed for {{ site.data.nathria.heart_hemorrhage }} and {{ site.data.nathria.pulverizing_meteor }}.
 - Because you may take constant damage from {{ site.data.nathria.wicked_laceration }} and {{ site.data.nathria.heart_rend }}, {{ site.data.talent.earth_shield}} is a good talent option for HPS.
 
 **Utilities:**
@@ -460,14 +460,14 @@ If you have suggestions to improve the information in this guide please contact 
 - Night Fae with Dreamweaver or Niya (Note: As Sire uses abilities that require movement management players may benefit from having access to {{ site.data.spell.soulshape }} ).
 
 **Recommended Legendaries:**
-- {{ site.data.legendary.windspeaker }}
-- {{ site.data.legendary.dre }} (Note: this is mostly relevant in P2 of the encounter, where multiple targets are available to help funnel damage into the one most relevant at the time! In other phases due to the lack of sustained targets, it will fall behind on average).
+- {{ site.data.expansion_feature.sl.legendary.windspeaker }}
+- {{ site.data.expansion_feature.sl.legendary.dre }} (Note: this is mostly relevant in P2 of the encounter, where multiple targets are available to help funnel damage into the one most relevant at the time! In other phases due to the lack of sustained targets, it will fall behind on average).
 
 **Damage:**
 
 Phase 1:
 - Pool Maelstrom for {{ site.data.nathria.echo_of_sin }} adds as needed. If talented, hold {{ site.data.talent.stormkeeper }} only if add damage is a problem.
-- Use {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by {{ site.data.nathria.feeding_time }} ({{ site.data.nathria.night_hunter }} on Heroic/Mythic).
+- Use {{ site.data.talent.swg }} or instant casts as needed when targeted by {{ site.data.nathria.feeding_time }} ({{ site.data.nathria.night_hunter }} on Heroic/Mythic).
 - Use {{ site.data.spell.ghost_wolf }} before the Intermission begins to nullify the movement reduction (Note: this means Shamans do not need to soak cleaves in P1)
 
 Intermission:
@@ -478,18 +478,18 @@ Phase 2:
 - Depending on timings, you may pool Maelstrom and hold CDs to optimize the {{ site.data.nathria.wracking_pain }} debuff on enemies.
 
 Phase 3:
-- Use {{ site.data.spell.spiritwalkers_grace }} or instant casts as needed when targeted by {{ site.data.nathria.fatal_finesse }} and soaking {{ site.data.nathria.smoldering_ire }}.
+- Use {{ site.data.talent.swg }} or instant casts as needed when targeted by {{ site.data.nathria.fatal_finesse }} and soaking {{ site.data.nathria.smoldering_ire }}.
 
 **Defensives:**
 
 Phase 1:
-- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.feeding_time }} ({{ site.data.nathria.night_hunter }} on Heroic/Mythic), {{ site.data.nathria.blood_price }}, or {{ site.data.nathria.cleansing_pain }}.
+- Use {{ site.data.talent.as }} as needed for {{ site.data.nathria.feeding_time }} ({{ site.data.nathria.night_hunter }} on Heroic/Mythic), {{ site.data.nathria.blood_price }}, or {{ site.data.nathria.cleansing_pain }}.
 
 Phase 2:
-- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.impale }} or increasing {{ site.data.nathria.crimson_chorus }} stacks.
+- Use {{ site.data.talent.as }} as needed for {{ site.data.nathria.impale }} or increasing {{ site.data.nathria.crimson_chorus }} stacks.
 
 Phase 3:
-- Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.nathria.shattering_pain }}, {{ site.data.nathria.fatal_finesse }}, {{ site.data.nathria.smoldering_ire }}, or {{ site.data.nathria.hand_of_destruction }}.
+- Use {{ site.data.talent.as }} as needed for {{ site.data.nathria.shattering_pain }}, {{ site.data.nathria.fatal_finesse }}, {{ site.data.nathria.smoldering_ire }}, or {{ site.data.nathria.hand_of_destruction }}.
 
 <hr />
 - This encounter is very movement demanding, so the additional movement from {{ site.data.talent.spirit_wolf }} can be beneficial in each phase. {{ site.data.nathria.burden_of_sin }}, {{ site.data.nathria.carnage }}, {{ site.data.nathria.crimson_chorus }}, and {{ site.data.nathria.fatal_finesse }} are all constant sources of damage that can allow HPS from {{ site.data.talent.earth_shield }}.

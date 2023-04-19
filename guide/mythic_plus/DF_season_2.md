@@ -721,7 +721,6 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 </div>
 </div>
 
-
 <div class="card">
 <div class="card-header" id="nl">
 <div data-toggle="collapse" data-target="#nl-collapse" aria-expanded="true" aria-controls="nl-collapse" class="dungeon-header nl"><h2>Neltharion's Lair</h2></div>

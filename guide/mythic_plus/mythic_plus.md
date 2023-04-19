@@ -32,48 +32,48 @@ For novice Elemental Shamans without an active {{ site.data.item.t28_2 }}/{{ sit
 * **40:** {{ site.data.talent.ancestral_guidance }} **or** {{ site.data.talent.natures_guardian }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-* **Legendary:** {{ site.data.legendary.eogs }} **or** {{ site.data.legendary.night_fae }}
+* **Legendary:** {{ site.data.expansion_feature.sl.legendary.eogs }} **or** {{ site.data.expansion_feature.sl.legendary.night_fae }}
 
 **Double Legendary**
 When [Unity](https://www.wowhead.com/spell=364738/unity) is equipped you will be able to utilise 2 Legendary effects, one of them will be your current Covenant's specific Legendary:
-* Night Fae gains {{ site.data.legendary.night_fae }}
-* Venthyr gains {{ site.data.legendary.venthyr }}
-* Kyrian gains {{ site.data.legendary.kyrian }}
-* Necrolord gains {{ site.data.legendary.necrolord }}
+* Night Fae gains {{ site.data.expansion_feature.sl.legendary.night_fae }}
+* Venthyr gains {{ site.data.expansion_feature.sl.legendary.venthyr }}
+* Kyrian gains {{ site.data.expansion_feature.sl.legendary.kyrian }}
+* Necrolord gains {{ site.data.expansion_feature.sl.legendary.necrolord }}
 This opens up some opportunities for M+ in conjuction with the {{ site.data.item.t28_4 }} centred around the uptime of {{ site.data.talent.se }}.
-* Necrolord with {{ site.data.legendary.skybreaker }}
-* Venthyr with {{ site.data.legendary.skybreaker }}
-* Kyrian with {{ site.data.legendary.eogs }} judging Legendaries by their raw strength, {{ site.data.legendary.eogs }} and {{ site.data.legendary.kyrian }} are our strongest choices. Being able to use them both together is promising.
+* Necrolord with {{ site.data.expansion_feature.sl.legendary.skybreaker }}
+* Venthyr with {{ site.data.expansion_feature.sl.legendary.skybreaker }}
+* Kyrian with {{ site.data.expansion_feature.sl.legendary.eogs }} judging Legendaries by their raw strength, {{ site.data.expansion_feature.sl.legendary.eogs }} and {{ site.data.expansion_feature.sl.legendary.kyrian }} are our strongest choices. Being able to use them both together is promising.
 
 **Which setup to use?**
 The default suggestion when you have both [Unity](https://www.wowhead.com/spell=364738/unity) and [Tier Set](https://www.wowhead.com/item-set=1499/theurgic-starspeakers-regalia) will be to use:
-* Night Fae with {{ site.data.legendary.eogs }} and {{ site.data.talent.se }}
+* Night Fae with {{ site.data.expansion_feature.sl.legendary.eogs }} and {{ site.data.talent.se }}
 
 This serves as a solid baseline without relying too much on how your dungeons are routed. The performance will vary between the setups on a variety of factors so it is **very** valuable to experiment!
 
-* Necrolord with {{ site.data.legendary.eogs }} and {{ site.data.talent.se }} **or** {{ site.data.legendary.dre }} with *either* {{ site.data.talent.mote }} (easier to play) or {{ site.data.talent.se }} (which remains better at AoE'ing). Any {{ site.data.legendary.dre }} setup will be subject to RNG, you will also have to decide how much you like to gamble as technically speaking the highest expected value when AoE'ing (read: 5+ targets) is to completely ignore this legendary outside of {{ site.data.spell.primordial_wave }} windows and movement globals. If you choose to gamble during AoE thats your business.
+* Necrolord with {{ site.data.expansion_feature.sl.legendary.eogs }} and {{ site.data.talent.se }} **or** {{ site.data.expansion_feature.sl.legendary.dre }} with *either* {{ site.data.talent.mote }} (easier to play) or {{ site.data.talent.se }} (which remains better at AoE'ing). Any {{ site.data.expansion_feature.sl.legendary.dre }} setup will be subject to RNG, you will also have to decide how much you like to gamble as technically speaking the highest expected value when AoE'ing (read: 5+ targets) is to completely ignore this legendary outside of {{ site.data.spell.primordial_wave }} windows and movement globals. If you choose to gamble during AoE thats your business.
 
-* Necrolord with {{ site.data.legendary.sfd }} and {{ site.data.talent.se }}. Doing well as key levels go up, {{ site.data.legendary.sfd }} allows for 100% uptime on {{ site.data.talent.se }} which is potent for AoE and single target. At least some of the uptime increase will be overkill however, so if you could have also achieved 100% uptime by other means then the value of this choice goes down - mainly its core strength is the consistency and flexibility it offers.
+* Necrolord with {{ site.data.expansion_feature.sl.legendary.sfd }} and {{ site.data.talent.se }}. Doing well as key levels go up, {{ site.data.expansion_feature.sl.legendary.sfd }} allows for 100% uptime on {{ site.data.talent.se }} which is potent for AoE and single target. At least some of the uptime increase will be overkill however, so if you could have also achieved 100% uptime by other means then the value of this choice goes down - mainly its core strength is the consistency and flexibility it offers.
 
-With most of the dungeon pool consisting of low-target pulls in the early stages of the season (expect this to change a bit as people become more knowledgeable about how to handle specific mobs and strategies are formed allowing larger pulls in some dungeons/areas of dungeons), using {{ site.data.legendary.dre }} has become more attractive. It is important to note that {{ site.data.legendary.dre }} builds continue to use {{ site.data.talent.sk }} in dungeons, although you may consider swapping your third potency conduit slot to {{ site.data.conduit.shake_the_foundations }} as it performs at full power in aoe when not using {{ site.data.legendary.eogs }}.
+With most of the dungeon pool consisting of low-target pulls in the early stages of the season (expect this to change a bit as people become more knowledgeable about how to handle specific mobs and strategies are formed allowing larger pulls in some dungeons/areas of dungeons), using {{ site.data.expansion_feature.sl.legendary.dre }} has become more attractive. It is important to note that {{ site.data.expansion_feature.sl.legendary.dre }} builds continue to use {{ site.data.talent.sk }} in dungeons, although you may consider swapping your third potency conduit slot to {{ site.data.conduit.shake_the_foundations }} as it performs at full power in aoe when not using {{ site.data.expansion_feature.sl.legendary.eogs }}.
 
 The recommended Covenant choices for M+ content are Night Fae and Necrolord:
 
 * Night Fae remains the default choice for overall value across key levels and dungeon routes, the value provided is easy to capitalise on.
    - Your Soulbind choices for Night Fae are:
-      * Korayn for {{ site.data.soulbinds.first_strike }}. This provides a large amount of value across an entire dungeon.
-      * Dreamweaver for {{ site.data.soulbinds.field_of_blossom }}. This provides additional power directly after using {{ site.data.spell.fae_transfusion }} and has synergy with {{ site.data.legendary.night_fae }} allowing for more frequent burst windows applicable to both AoE and Single Target.
+      * Korayn for {{ site.data.expansion_feature.sl.soulbinds.first_strike }}. This provides a large amount of value across an entire dungeon.
+      * Dreamweaver for {{ site.data.expansion_feature.sl.soulbinds.field_of_blossom }}. This provides additional power directly after using {{ site.data.spell.fae_transfusion }} and has synergy with {{ site.data.expansion_feature.sl.legendary.night_fae }} allowing for more frequent burst windows applicable to both AoE and Single Target.
 
-* Necrolord remains competitive and lends itself to the {{ site.data.legendary.dre }} setup well.
+* Necrolord remains competitive and lends itself to the {{ site.data.expansion_feature.sl.legendary.dre }} setup well.
    - Your Soulbind choices for Necrolord are:
-      * Plague-Deviser Marileth for increased benefits surrounding {{ site.data.spell.fleshcraft }}, the strength of {{ site.data.soulbinds.preemptive_strike }} should not go unnoticed although when using {{ site.data.legendary.dre }} it would be traded for {{ site.data.conduit.shake_the_foundations }}.
-      * Bonesmith Heirmir for passive Intellect buff {{ site.data.soulbinds.forgeborn_reveries }} and {{ site.data.soulbinds.marrowed_gemstone }}. (Note: generally you would find yourself using Marileth, this is mostly here for reference.)
+      * Plague-Deviser Marileth for increased benefits surrounding {{ site.data.spell.fleshcraft }}, the strength of {{ site.data.expansion_feature.sl.soulbinds.preemptive_strike }} should not go unnoticed although when using {{ site.data.expansion_feature.sl.legendary.dre }} it would be traded for {{ site.data.conduit.shake_the_foundations }}.
+      * Bonesmith Heirmir for passive Intellect buff {{ site.data.expansion_feature.sl.soulbinds.forgeborn_reveries }} and {{ site.data.expansion_feature.sl.soulbinds.marrowed_gemstone }}. (Note: generally you would find yourself using Marileth, this is mostly here for reference.)
 
 To assist those experimenting with other Covenant options:
 * Kyrian
-    - Forgelite Prime Mikanikos for {{ site.data.soulbinds.hammer_of_genesis }} and [Effusive Anima Accelerator](https://www.wowhead.com/spell=352188/effusive-anima-accelerator?spellModifier=137038).
+    - Forgelite Prime Mikanikos for {{ site.data.expansion_feature.sl.soulbinds.hammer_of_genesis }} and [Effusive Anima Accelerator](https://www.wowhead.com/spell=352188/effusive-anima-accelerator?spellModifier=137038).
 * Venthyr
-    - When using {{ site.data.legendary.skybreakers }} the value of {{ site.data.soulbind.wasteland_propriety }} increases making it worthwhile to experiment with Theotar the Mad Duke!
+    - When using {{ site.data.expansion_feature.sl.legendary.skybreakers }} the value of {{ site.data.soulbind.wasteland_propriety }} increases making it worthwhile to experiment with Theotar the Mad Duke!
     - Otherwise using Nadja the Mistblade.
 
 For additional information, please visit our [Talents](https://stormearthandlava.com/guide/general/talents.html) and [Legendaries](https://stormearthandlava.com/guide/general/legendaries.html) pages.
@@ -98,7 +98,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 **Level 4:**
 
 * [Bolstering](https://shadowlands.wowhead.com/affix=7/bolstering): Damage trash packs down as evenly as you can. Swap to priority damage rotation for any lethal mobs or if mob health within trash packs are uneven.
-* [Bursting](https://shadowlands.wowhead.com/affix=11/bursting): Support your party members and use your healing abilities to mitigate the [Bursting](https://shadowlands.wowhead.com/affix=11/bursting) debuff. Use {{ site.data.spell.astral_shift }} as needed if stacks are high.
+* [Bursting](https://shadowlands.wowhead.com/affix=11/bursting): Support your party members and use your healing abilities to mitigate the [Bursting](https://shadowlands.wowhead.com/affix=11/bursting) debuff. Use {{ site.data.talent.as }} as needed if stacks are high.
 * [Inspiring](https://shadowlands.wowhead.com/affix=122/inspiring): Crowd control mobs with [Inspiring Presence](https://shadowlands.wowhead.com/spell=343502/inspiring-presence) with {{ site.data.talent.hex }} as needed and when possible.
 * [Raging](https://shadowlands.wowhead.com/affix=6/raging): Be ready to use your kiting toolkit to support your tank when needed. Consider using {{ site.data.talent.capacitor_totem }} and {{ site.data.talent.stormkeeper }} to finish [Raging](https://shadowlands.wowhead.com/affix=6/raging) mobs more safely and quickly.
 * [Sanguine](https://shadowlands.wowhead.com/affix=8/sanguine): Damage trash packs down as evenly as you can to lessen time spent in Sanguine, but be sure to not slow or stun mobs dying unevenly. Use {{ site.data.talent.thunderstorm }} as needed to knock mobs out of [Sanguine](https://shadowlands.wowhead.com/affix=8/sanguine).
@@ -109,9 +109,9 @@ Don't forget to check out Additional Resources at the bottom of this page!
 * [Explosive](https://shadowlands.wowhead.com/affix=13/explosive): [Explosive](https://shadowlands.wowhead.com/affix=13/explosive) orbs can be destroyed in a single {{ site.data.spell.frost_shock }} global. This will be your most efficient tool to deal with them as your other abilities are more valuable for trash.
 * [Grievous](https://shadowlands.wowhead.com/affix=12/grievous): Remember that direct heals remove one stack of [Grievous Wound](https://shadowlands.wowhead.com/spell=240559/grievous-wound). Support your party members with {{ site.data.spell.healing_surge }} and {{ site.data.talent.chain_heal }} as needed.
 * [Necrotic](https://shadowlands.wowhead.com/affix=4/necrotic): Be ready to use your kiting toolkit to support your tank when needed. {{ site.data.talent.earth_elemental }} is also helpful to help your tank control [Necrotic Wound](https://shadowlands.wowhead.com/spell=209858/necrotic-wound) stacks.
-* [Quaking](https://shadowlands.wowhead.com/affix=14/quaking): Maintain your distance from party members, and be mindful about canceling casts if [Quake](https://shadowlands.wowhead.com/spell=240447/quake) overlaps with {{ site.data.spell.spiritwalkers_grace }}.
-* [Storming](https://shadowlands.wowhead.com/affix=124/storming): Maintain your distance from mobs to avoid [Storming](https://shadowlands.wowhead.com/affix=124/storming). Use {{ site.data.spell.spiritwalkers_grace }} as needed in tight spaces or when maneuvering any mechanics.
-* [Volcanic](https://shadowlands.wowhead.com/affix=3/volcanic): Watch your feet. Use {{ site.data.spell.spiritwalkers_grace }} as needed to maintain your damage uptime while avoiding [Volcanic](https://shadowlands.wowhead.com/affix=3/volcanic) plumes.
+* [Quaking](https://shadowlands.wowhead.com/affix=14/quaking): Maintain your distance from party members, and be mindful about canceling casts if [Quake](https://shadowlands.wowhead.com/spell=240447/quake) overlaps with {{ site.data.talent.swg }}.
+* [Storming](https://shadowlands.wowhead.com/affix=124/storming): Maintain your distance from mobs to avoid [Storming](https://shadowlands.wowhead.com/affix=124/storming). Use {{ site.data.talent.swg }} as needed in tight spaces or when maneuvering any mechanics.
+* [Volcanic](https://shadowlands.wowhead.com/affix=3/volcanic): Watch your feet. Use {{ site.data.talent.swg }} as needed to maintain your damage uptime while avoiding [Volcanic](https://shadowlands.wowhead.com/affix=3/volcanic) plumes.
 
 **Seasonal Affix:**
 
@@ -143,188 +143,340 @@ Don't forget to check out Additional Resources at the bottom of this page!
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
-        <div class="card-header" id="sow">
-            <div data-toggle="collapse" data-target="#sow-collapse" aria-expanded="true" aria-controls="sow-collapse" class="dungeon-header sow"><h2>Tazavesh: Streets of Wonder</h2></div>
+        <div class="card-header" id="streets">
+            <div data-toggle="collapse" data-target="#streets-collapse" aria-expanded="true" aria-controls="streets-collapse" class="dungeon-header streets"><h2>Tazavesh: Streets of Wonder</h2></div>
         </div>
-        <div id="sow-collapse" class="collapse" aria-labelledby="sow" data-parent="#accordion">
-          <div class="card-body" markdown="1">  
+        <div id="streets-collapse" class="collapse" aria-labelledby="streets" data-parent="#accordion">
+          <div class="card-body" markdown="1">
 
-**[Customs Security](https://www.wowhead.com/npc=177807/customs-security)**
+**{{ site.data.dungeon.streets.customs_security }}**
+* Make sure to dodge {{ site.data.dungeon.streets.disruption_grenade }} swirlies.
+* Use {{ site.data.talent.purge }} to remove {{ site.data.dungeon.streets.hard_light_baton }} from {{ site.data.dungeon.streets.customs_security }}.
 
-* Make sure to dodge [Disruption Grenades](https://www.wowhead.com/spell=355900/disruption-grenade) swirlies.
-* Use {{ site.data.talent.purge }} to remove [Hard Light Baton](https://www.wowhead.com/spell=355888/hard-light-baton) from [Customs Security](https://www.wowhead.com/npc=177807/customs-security)
+**{{ site.data.dungeon.streets.armored_overseer }}**
+* Make sure to dodge {{ site.data.dungeon.streets.beam_splicer }}.
 
-**[Armored Overseers](https://www.wowhead.com/npc=177808/armored-overseer)**
+**{{ site.data.dungeon.streets.interrogation_specialist }}**
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.streets.stasis_beam }}.
 
-* Make sure to dodge [Beam Splicers](https://www.wowhead.com/spell=356001/beam-splicer)
+**{{ site.data.dungeon.streets.support_officer }}**
+* Either use {{ site.data.spell.wind_shear }} to interrupt the cast of {{ site.data.dungeon.streets.hard_light_barrier }} or use {{ site.data.talent.purge }} to remove it!
 
-**[Interrogation Specialist](https://www.wowhead.com/npc=177816/interrogation-specialist)**
-
-* Use {{ site.data.spell.wind_shear }} to interrupt [Statis Beam](https://www.wowhead.com/spell=356031/stasis-beam)
-
-**[Support Officer](https://www.wowhead.com/npc=177817/support-officer)**
-
-* Either use {{ site.data.spell.wind_shear }} to interrupt the cast of [Hard Light Barrier](https://www.wowhead.com/spell=355934/hard-light-barrier) or use {{ site.data.talent.purge }} to remove it!
-
-## [Zo'Phex the Sentinel](https://www.wowhead.com/npc=175616/zophex)
-
-* Dodge the swirlies from [Armed Security](https://www.wowhead.com/spell=346204/armed-security)
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to adjust to [Rotary Body Armor](https://www.wowhead.com/spell=347992/rotary-body-armor).
-* Move away from [Zo'Phex](https://www.wowhead.com/npc=175616/zophex) if [Interrogation](https://www.wowhead.com/spell=348350/interrogation) is cast on you; if you are a Necrolord with Plague-Deviser Marileth you can use {{ site.data.spell.fleshcraft }} to immune this mechanic as the cast finishes. If [Interrogation](https://www.wowhead.com/spell=348350/interrogation) is cast on a party member, make sure you are not stood between them and [Zo'Phex](https://www.wowhead.com/npc=175616/zophex), DPS the cage to break them out!
-* [Impound Contraband](https://www.wowhead.com/spell=345770/impound-contraband) causes your weapon to drop to the floor, run over the weapon to pick it up again!
+## {{ site.data.dungeon.streets.zophex }}
+* Dodge the swirlies from {{ site.data.dungeon.streets.armed_security }}.
+* Use {{ site.data.talent.swg }} as needed to adjust to {{ site.data.dungeon.streets.rotary_body_armor }}.
+* Move away from {{ site.data.dungeon.streets.zophex }} if {{ site.data.dungeon.streets.interrogation }} is cast on you; if you are a Necrolord with Plague-Deviser Marileth you can use {{ site.data.spell.fleshcraft }} to immune this mechanic as the cast finishes. If {{ site.data.dungeon.streets.interrogation }} is cast on a party member, make sure you are not stood between them and {{ site.data.dungeon.streets.zophex }}, DPS the cage to break them out!
+* {{ site.data.dungeon.streets.impound_contraband }} causes your weapon to drop to the floor, run over the weapon to pick it up again!
 
 ---
 
-**[Ancient Core Hound](https://www.wowhead.com/npc=180091/ancient-core-hound#drops;mode:heroic)**
+**{{ site.data.dungeon.streets.ancient_core_hound }}**
+* If {{ site.data.dungeon.streets.ancient_dread }} cast is allowed to finish, use {{ site.data.talent.cleanse_spirit }} to dispel your group!
+* Both {{ site.data.dungeon.streets.ancient_dread }} and {{ site.data.dungeon.streets.lava_breath }} are interruptible with {{ site.data.spell.wind_shear }}.
 
-* If [Ancient Dread](https://www.wowhead.com/spell=356407/ancient-dread) cast is allowed to finish, use {{ site.data.talent.cleanse_spirit }} to dispel your group!
-* Both [Ancient Dread](https://www.wowhead.com/spell=356407/ancient-dread) and [Lava Breath](https://www.wowhead.com/spell=356404/lava-breath) are interruptible with {{ site.data.spell.wind_shear }}.
+**{{ site.data.dungeon.streets.market_peacekeeper }}**
+* Use {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }} to stop {{ site.data.dungeon.streets.phalanx_field }}.
+* Stay within 10 yards of {{ site.data.dungeon.streets.market_peacekeeper }} or they can cast {{ site.data.dungeon.streets.quelling_strike }} on you, if this happens whilst casting you will be locked out for four seconds.
 
-**[Market Peacekeeper](https://www.wowhead.com/npc=179840/market-peacekeeper)**
-
-* Use {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }} to stop [Phalanx Field](https://www.wowhead.com/spell=355640/phalanx-field).
-* Stay within 10 yards of [Market Peacekeeper](https://www.wowhead.com/npc=179840/market-peacekeeper) or they can cast [Quelling Strike](https://www.wowhead.com/spell=355637/quelling-strike) on you, if this happens whilst casting you will be locked out for four seconds.
-
-**[Veteran Sparkcaster](https://www.wowhead.com/npc=179841/veteran-sparkcaster#abilities;mode:heroic)**
-
-* These mobs have two damaging spells:
-   - [Hyperlight Salvo](https://www.wowhead.com/spell=355642/hyperlight-salvo) is the most important to prevent, make sure to coordinate with your group to prevent these!
-   - [Scintillate](https://www.wowhead.com/spell=355641/scintillate) deals damage and leaves an increased arcane damage taken debuff so multiple casts going through should be prevented!
+**{{ site.data.dungeon.streets.veteran_sparkcaster }}**
+* {{ site.data.dungeon.streets.hyperlight_salvo }} is the most important cast to prevent, make sure to coordinate with your group to prevent these!
+* {{ site.data.dungeon.streets.scintillate }} deals damage and leaves an increased arcane damage taken debuff so multiple casts going through should be prevented!
 
 ## The Grand Menagerie
 
-* When afflicted with [Gluttony](https://www.wowhead.com/spell=349627/gluttony) you can soak the [Volatile Anima](https://www.wowhead.com/spell=349989/volatile-anima) created by [Venting Protocol](https://www.wowhead.com/spell=349987/venting-protocol), try not to stand next to your party members as [Gluttony](https://www.wowhead.com/spell=349627/gluttony) also causes you to pulse AoE damage around you in a small circle.
-* [Flagellation Protocol](https://www.wowhead.com/spell=349933/flagellation-protocol) is easily stopped by using {{ site.data.talent.purge }} to remove the shield and {{ site.data.spell.wind_shear }} to instantly interrupt the cast!
-* [Whirling Annihilation](https://www.wowhead.com/spell=350086/whirling-annihilation) run away from [Venza](https://www.wowhead.com/npc=176705/venza-goldfuse)
-* When afflicted by [Chains of Damnation](https://www.wowhead.com/spell=350101/chains-of-damnation) it must be either killed or removed by effects like [Hand of Freedom](https://www.wowhead.com/spell=66115/hand-of-freedom) or [Tiger's Lust](https://www.wowhead.com/spell=116841/tigers-lust).
+* When afflicted with {{ site.data.dungeon.streets.gluttony }}, you can soak the {{ site.data.dungeon.streets.volatile_anima }} created by {{ site.data.dungeon.streets.venting_protocol }}. Try not to stand next to your party members as {{ site.data.dungeon.streets.gluttony }} also causes you to pulse AoE damage around you in a small circle.
+* {{ site.data.dungeon.streets.flagellation_protocol }} is easily stopped by using {{ site.data.talent.purge }} to remove the shield and {{ site.data.spell.wind_shear }} to instantly interrupt the cast!
+* Run away from {{ site.data.dungeon.streets.venza_goldfuse }} to survive {{ site.data.dungeon.streets.whirling_annihilation }}.
+* When afflicted by {{ site.data.dungeon.streets.chains_of_damnation }}, it must be either killed or removed by effects like {{ site.data.externals.blessing_of_freedom }} or {{ site.data.externals.tigers_lust }}.
 
 ---
 
 ## Myza's Oasis
 
-**[Brawling Patrons](https://www.wowhead.com/npc=180159/brawling-patron)**
-   - Aim to kill these before they reach 100 rage to avoid [Rowdy](https://www.wowhead.com/spell=353706/rowdy)
+**{{ site.data.dungeon.streets.brawling_patron }}**
+* Aim to kill these before they reach 100 rage to avoid {{ site.data.dungeon.streets.rowdy }}.
 
-**[Disruptive Patrons](https://www.wowhead.com/npc=176565/disruptive-patron)**
-   - Aim to kill these before they reach 100 rage to avoid [Rowdy](https://www.wowhead.com/spell=353706/rowdy)
-   - Use {{ site.data.spell.wind_shear }} to interrupt [Teleport](https://www.wowhead.com/spell=353783/teleport), [Hyperlight Bolt](https://www.wowhead.com/spell=353836/hyperlight-bolt), and [Suppression](https://www.wowhead.com/spell=353835/suppression)
+**{{ site.data.dungeon.streets.disruptive_patron }}**
+* Aim to kill these before they reach 100 rage to avoid {{ site.data.dungeon.streets.rowdy }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.streets.teleport }}, {{ site.data.dungeon.streets.hyperlight_bolt }}, and {{ site.data.dungeon.streets.suppression }}.
 
-**[Oasis Security](https://www.wowhead.com/npc=179269/oasis-security)**
-   - Aim to kill these before they reach 100 rage to avoid [Rowdy](https://www.wowhead.com/spell=353706/rowdy)
-   - Use {{ site.data.spell.wind_shear }} to interrupt [Menacing Shout](https://www.wowhead.com/spell=350922/menacing-shout)
+**{{ site.data.dungeon.streets.oasis_security }}**
+   - Aim to kill these before they reach 100 rage to avoid {{ site.data.dungeon.streets.rowdy }}.
+   - Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.streets.menacing_shout }}.
 
-* Make sure to avoid the green swirly from [Rotten Food](https://www.wowhead.com/spell=356482/rotten-food), it hurts!
+**Environmental**
+* Make sure to avoid the green swirly from {{ site.data.dungeon.streets.rotten_food }}, it hurts!
 
-**[Zo'gron](https://www.wowhead.com/npc=176564/zogron)**
-   - Run away from [Suppression Spark](https://www.wowhead.com/spell=355438/suppression-spark) when cast. {{ site.data.spell.ghost_wolf }} or the Extra Action Button from your instrument can be useful!
-   - Use {{ site.data.spell.wind_shear }} to interrupt [Menacing Shout](https://www.wowhead.com/spell=350922/menacing-shout)
-   - Avoid standing in-front of [Zo'gron](https://www.wowhead.com/npc=176564/zogron) when they are casting [Crowd Control](https://www.wowhead.com/spell=350919/crowd-control) as it deflects damage and the end of the cast is a frontal attack!
-
----
-
-**[Overloaded Mailemental](https://www.wowhead.com/npc=176395/overloaded-mailemental)**
-
-* Interrupt or dispel [Spam Filter](https://www.wowhead.com/spell=347775/spam-filter)
-* When [Overloaded Mailementals](https://www.wowhead.com/npc=176395/overloaded-mailemental) die they leave behind a purple zone of Haste you can stand in!
-
-**[Defective Sorter](https://www.wowhead.com/npc=176396/defective-sorter)**
-
-* Prevent these enemies from casting [Open Cage](https://www.wowhead.com/spell=347721/open-cage) by using {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }}.
-
-## [P.O.S.T. Master](https://www.wowhead.com/npc=175646/p-o-s-t-master)
-
-* [Unstable Goods[(https://www.wowhead.com/spell=346947/unstable-goods)
-   - Pick up the Unstable Goods and throw them into an active Delivery Chute (Denoted by the wind animation!). {{ site.data.spell.ghost_wolf }} can make this easier.
-
-* Use {{ site.data.spell.astral_shift }} as needed when [Fan Mail](https://www.wowhead.com/spell=346742/fan-mail) or [Money Order](https://www.wowhead.com/spell=346962/money-order) are cast.
-
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position for soaking [Hazardous Liquids](https://www.wowhead.com/spell=346286/hazardous-liquids) or [Money Order](https://www.wowhead.com/spell=346962/money-order).
+## {{ site.data.dungeon.streets.zogron }}
+* Run away from {{ site.data.dungeon.streets.suppression_spark }} when cast. {{ site.data.spell.ghost_wolf }} or the Extra Action Button from your instrument can be useful!
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.streets.menacing_shout }}.
+* Avoid standing in-front of {{ site.data.dungeon.streets.zogron }} when they are casting {{ site.data.dungeon.streets.crowd_control }} as it deflects damage and the end of the cast is a frontal attack!
 
 ---
 
-**[Commander Zo'far](https://www.wowhead.com/npc=179821/commander-zofar)**
+**{{ site.data.dungeon.streets.overloaded_mailemental }}**
+* Interrupt or dispel {{ site.data.dungeon.streets.spam_filter }}.
+* When {{ site.data.dungeon.streets.overloaded_mailemental }} die, they leave behind a purple zone of Haste you can stand in!
 
-* Ranged and healer party members should try to split on either side of the low walls present where [Commander Zo'far](https://www.wowhead.com/npc=179821/commander-zofar) is positioned. This will make keeping distance between the two people afflicted with [Lethal Force](https://www.wowhead.com/spell=355479/lethal-force) easier. If you do this without the wall, do not forget to use {{ site.data.spell.spiritwalkers_grace }}. If you fail to avoid it, the damage is high enough to warrant using {{ site.data.spell.astral_shift }}.
-* Dodge [Shock Mines](https://www.wowhead.com/spell=355476/shock-mines) that are placed around you.
+**{{ site.data.dungeon.streets.defective_sorter }}**
+* Prevent these enemies from casting {{ site.data.dungeon.streets.open_cage }} by using {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }}.
 
-## [So'azmi](https://www.wowhead.com/npc=175806/soazmi)
+## {{ site.data.dungeon.streets.p_o_s_t_master }}
+* Pick up the {{ site.data.dungeon.streets.unstable_goods }} and throw them into an active Delivery Chute (Denoted by the wind animation!). {{ site.data.spell.ghost_wolf }} can make this easier.
+* Use {{ site.data.talent.as }} as needed when {{ site.data.dungeon.streets.fan_mail }} or {{ site.data.dungeon.streets.money_order }} are cast.
+* Use {{ site.data.talent.swg }} as needed to position for soaking {{ site.data.dungeon.streets.hazardous_liquids }} or {{ site.data.dungeon.streets.money_order }}.
 
-* Surviving is more important than dealing damage, if you are going to struggle moving to the correct [Relocator](https://www.wowhead.com/spell=347392/deploy-relocators) then do not hesitate to use {{ site.data.spell.ghost_wolf }} or {{ site.data.spell.soulshape }} to successfully avoid [Shuri](https://www.wowhead.com/spell=347610/shuri).
+---
 
-* Two interrupts are required to deal with [Double Technique](https://www.wowhead.com/spell=357188/double-technique), the first can be done near instantly, the second should wait until close to the end of the cast to buy time to dps.
+**{{ site.data.dungeon.streets.commander_zofar }}**
+* Ranged and healer party members should try to split on either side of the low walls present where {{ site.data.dungeon.streets.commander_zofar }} is positioned. This will make keeping distance between the two people afflicted with {{ site.data.dungeon.streets.lethal_force }} easier. If you do this without the wall, do not forget to use {{ site.data.talent.swg }}. If you fail to avoid it, the damage is high enough to warrant using {{ site.data.talent.as }}.
+* Dodge {{ site.data.dungeon.streets.shock_mines }} that are placed around you.
 
-* Staying loosely spread can help reduce the group damage taken from [Quickblade](https://www.wowhead.com/spell=347623/quickblade), but be aware of remaining in the same section as your group when [Divide](https://www.wowhead.com/spell=347414/divide) is being cast.
+## {{ site.data.dungeon.streets.soazmi }}
+* Surviving is more important than dealing damage, if you are going to struggle moving to the correct {{ site.data.dungeon.streets.relocator }} then do not hesitate to use {{ site.data.spell.ghost_wolf }} or {{ site.data.spell.soulshape }} to successfully avoid {{ site.data.dungeon.streets.shuri }}.
+* Two interrupts are required to deal with {{ site.data.dungeon.streets.double_technique }}, the first can be done near instantly, the second should wait until close to the end of the cast to buy time to dps.
+* Staying loosely spread can help reduce the group damage taken from {{ site.data.dungeon.streets.quickblade }}, but be aware of remaining in the same section as your group when {{ site.data.dungeon.streets.divide }} is being cast.
 
 </div>
 </div>
 </div>
 
 <div class="card">
-<div class="card-header" id="sg">
-<div data-toggle="collapse" data-target="#sg-collapse" aria-expanded="true" aria-controls="sg-collapse" class="dungeon-header sg"><h2>Soleah's Gambit</h2></div>
+<div class="card-header" id="gambit">
+<div data-toggle="collapse" data-target="#gambit-collapse" aria-expanded="true" aria-controls="gambit-collapse" class="dungeon-header gambit"><h2>Tazavest: Soleah's Gambit</h2></div>
 </div>
-<div id="sg-collapse" class="collapse" aria-labelledby="sg" data-parent="#accordion">
+<div id="gambit-collapse" class="collapse" aria-labelledby="gambit" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-**[Murkbrine Scalebinder](https://www.wowhead.com/npc=178141/murkbrine-scalebinder)**
+**{{ site.data.dungeon.gambit.murkbrine_scalebinder }}**
+* You can use {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, or {{ site.data.talent.thunderstorm }} to *stop* {{ site.data.dungeon.gambit.invigorating_fish_stick }}.
 
-* You can use {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, or {{ site.data.talent.thunderstorm }} to *stop* [Invigorating Fish Stick](https://www.wowhead.com/spell=355132/invigorating-fish-stick#summons).
+**{{ site.data.dungeon.gambit.murkbrine_shellcrusher }}**
+* You can use {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, or {{ site.data.talent.thunderstorm }} to *stop* {{ site.data.dungeon.gambit.cry_of_mrrggllrrgg }}.
 
-**[Murkbrine Shellcrusher](https://www.wowhead.com/npc=178139/murkbrine-shellcrusher)**
+**{{ site.data.dungeon.gambit.coastwalker_goliath }}**
+* Use {{ site.data.talent.as }} as appropriate to your key level and current affixes on the second stack of {{ site.data.dungeon.gambit.undertow }}. If your group will take more casts of {{ site.data.dungeon.gambit.undertow }} its important to note that you cannot have more than two stacks, so the damage will not scale higher however they can be large hits!
 
-* You can use {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, or {{ site.data.talent.thunderstorm }} to *stop* [Cry of Mrrggllrrgg](https://www.wowhead.com/spell=355057/cry-of-mrrggllrrgg).
+**{{ site.data.dungeon.gambit.stormforged_guardian }}**
+* Stand at max range to avoid {{ site.data.dungeon.gambit.charged_pulse }} area of effect.
+* You can easily sidestep {{ site.data.dungeon.gambit.crackle }} if you notice them aimed at you.
 
-**[Coastwalker Goliath](https://www.wowhead.com/npc=178165/coastwalker-goliath)**
-
-* Use {{ site.data.spell.astral_shift }} as appropriate to your key level and current affixes on the second stack of [Undertow](https://www.wowhead.com/spell=355451/undertow). If your group will take more casts of [Undertow](https://www.wowhead.com/spell=355451/undertow) its important to note that you cannot have more than two stacks, so the damage will not scale higher however they can be large hits!
-
-**[Stormforged Guardian](https://www.wowhead.com/npc=178171/stormforged-guardian)**
-
-* Stand at max range to avoid [Charged Pulse](https://www.wowhead.com/spell=355584/charged-pulse) area of effect.
-* You can easily sidestep [Crackle](https://www.wowhead.com/spell=355577/crackle) if you notice them aimed at you.
-
-## [Hylbrande](https://www.wowhead.com/npc=175663/hylbrande)
-
-* Use {{ site.data.spell.spiritwalkers_grace }} during [Purged by Fire](https://www.wowhead.com/spell=346959/purged-by-fire).
-* Use {{ site.data.talent.thunderstorm }} to group spawned [Vault Purifiers](https://www.wowhead.com/npc=176551/vault-purifier) with the boss to more easily deal with them.
-* Interrupt or Stop [Valorous Bolts](https://www.wowhead.com/spell=352347/valorous-bolt) and [Empowered Defense](https://www.wowhead.com/spell=346980/empowered-defense).
-* There is a very useful Weakaura for this fight that makes the colour match game simple even when pugging! [Find it here!](https://wago.io/TazaveshConsole)
----
-
-**[Hourglass Tidesage](https://www.wowhead.com/npc=179388/hourglass-tidesage)**
-
-* Interrupt [Brackish Bolt](https://www.wowhead.com/spell=356843/brackish-bolt).
-* Sidestep [Tidal Burst](https://www.wowhead.com/spell=356260/tidal-burst) allowing more interrupts for [Brackish Bolt](https://www.wowhead.com/spell=356843/brackish-bolt)
-
-**[Burly Deckhand](https://www.wowhead.com/npc=180015/burly-deckhand)**
-
-* Stop [Super Saison](https://www.wowhead.com/spell=356133/super-saison) where possible, particularly if your group comp does not carry an Enrage Dispel!
-* Avoid being close to them during [Haymaker](https://www.wowhead.com/spell=368662/haymaker) casts, this can hit non-tank targets if they are out of range!
-
-## [Timecap'n Hooktail](https://www.wowhead.com/npc=175546/timecapn-hooktail)
-
-* Use {{ site.data.spiritwalkers_grace }} to continue DPS while affected by [Anchor Shot](https://www.wowhead.com/spell=352345/anchor-shot)
-* Particularly for {{ site.data.legendary.dre }} and/or Necrolord builds you *can* use the spawned adds to increase your {{ site.data.spell.fs }} count however dps to the adds themselves is pointless when the tank is able to catch them in the [Infinite Breath](https://www.wowhead.com/spell=347149/infinite-breath) (this also reduces the funnel benefit as the adds tend to die very quickly).
+## {{ site.data.dungeon.gambit.hylbrande }}
+* Use {{ site.data.talent.swg }} during {{ site.data.dungeon.gambit.purged_by_fire }}.
+* Use {{ site.data.talent.thunderstorm }} to group spawned {{ site.data.dungeon.gambit.vault_purifier }} with the boss to more easily deal with them.
+* Interrupt or Stop {{ site.data.dungeon.gambit.valorous_bolt }} and {{ site.data.dungeon.gambit.empowered_defense }}.
+* There is a very useful Weakaura for this fight that makes the colour match game simple even when pugging! [Find it here!](https://wago.io/TazaveshConsole).
 
 ---
 
-**[Devoted Accomplice](https://www.wowhead.com/npc=180432/devoted-accomplice)**
+**{{ site.data.dungeon.gambit.hourglass_tidesage }}**
+* Interrupt {{ site.data.dungeon.gambit.brackish_bolt }}.
+* Sidestep {{ site.data.dungeon.gambit.tidal_burst }} allowing more interrupts for {{ site.data.dungeon.gambit.brackish_bolt }}.
 
-* Interrupt [Reinvigorate](https://www.wowhead.com/spell=357284/reinvigorate)
+**{{ site.data.dungeon.gambit.burly_deckhand }}**
 
-**[Focused Ritualist](https://www.wowhead.com/npc=180431/focused-ritualist)
+* Stop {{ site.data.dungeon.gambit.super_saison }} where possible, particularly if your group comp does not have an Enrage Dispel!
+* Avoid being close to them during {{ site.data.dungeon.gambit.haymaker }} casts, this can hit non-tank targets if they are out of range!
 
-* Interrupt [Unstable Rift](https://www.wowhead.com/spell=357260/unstable-rift). If no intterupts are available, Stopping the ability via other CC abilities like {{ site.data.spell.capactior_totem }}, {{ site.data.talent.hex }} will also put this cast on cooldown.
+## {{ site.data.dungeon.gambit.timecapn_hooktail }}
 
-**[Adorned Starseer](https://www.wowhead.com/npc=180429/adorned-starseer]
+* Use {{ site.data.talent.swg }} to continue DPS while affected by {{ site.data.dungeon.gambit.anchor_shot }}
+* Particularly for {{ site.data.expansion_feature.sl.legendary.dre }} and/or Necrolord builds you *can* use the spawned adds to increase your {{ site.data.spell.fs }} count however dps to the adds themselves is pointless when the tank is able to catch them in the {{ site.data.dungeon.gambit.infinite_breath }} (this also reduces the funnel benefit as the adds tend to die very quickly).
 
-* Pay attention to which direction they are facing when [Drifting Star](https://www.wowhead.com/spell=357226/drifting-star) is cast.
-* Ensuring {{ site.data.spell.fs }} is available to use when [Wandering Pulsar](https://www.wowhead.com/spell=357238/wandering-pulsar) is cast can help facilitate quick swapping!
+---
 
-## [So'leah](https://www.wowhead.com/npc=177269/soleah)
+**{{ site.data.dungeon.gambit.devoted_accomplice }}**
+* Interrupt {{ site.data.dungeon.gambit.reinvigorate }}.
 
-* Use {{ site.data.spell.astral_shift }} for [Hyperlight Jolt](https://www.wowhead.com/spell=350875/hyperlight-jolt) as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to help trigger controlled soaks of [Collapsing Stars](https://www.wowhead.com/spell=353635/collapsing-star). As key level increases this can be very beneficial for your healer for you to assist with, but soaking more than one stack at a time can be deadly so communicate prior to pulling if you intend to do this and keep an eye on how others are positioning!
+**{{ site.data.dungeon.gambit.focused_ritualist }}**
+
+* Interrupt {{ site.data.dungeon.gambit.unstable_rift }}. If no interrupts are available, Stopping the ability via other CC abilities like {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }} will also put this cast on cooldown.
+
+**{{ site.data.dungeon.gambit.adorned_starseer }}**
+
+* Pay attention to which direction they are facing when {{ site.data.dungeon.gambit.drifting_star }} is cast.
+* Ensuring {{ site.data.spell.fs }} is available to use when {{ site.data.dungeon.gambit.wandering_pulsar }} is cast can help facilitate quick swapping!
+
+## {{ site.data.dungeon.gambit.soleah }}
+
+* Use {{ site.data.talent.as }} for {{ site.data.dungeon.gambit.hyperlight_jolt }} as needed.
+* Use {{ site.data.talent.swg }} as needed to help trigger controlled soaks of {{ site.data.dungeon.gambit.collapsing_star }}. As key level increases this can be very beneficial for your healer for you to assist with, but soaking more than one stack at a time can be deadly so communicate prior to pulling if you intend to do this and keep an eye on how others are positioning!
+
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="dos">
+<div data-toggle="collapse" data-target="#dos-collapse" aria-expanded="true" aria-controls="dos-collapse" class="dungeon-header dos"><h2>De Other Side</h2></div>
+</div>
+<div id="dos-collapse" class="collapse" aria-labelledby="dos" data-parent="#accordion">
+<div class="card-body" markdown="1">  
+
+**Enraged Spirit**
+
+* {{ site.data.dungeon.dos.rage }} is dangerous when Fortified. Use {{ site.data.talent.as }} or healing abilities as needed.
+* {{ site.data.dungeon.dos.enraged_mask }} can be despawned with crowd control, so utilize {{ site.data.talent.capacitor_totem }} when they appear.
+
+**Risen Cultist**
+
+* Rotate interrupts between {{ site.data.dungeon.dos.scribe }} and {{ site.data.dungeon.dos.dark_lotus }}.
+
+**Death Speaker**
+
+* Rotate interrupts between {{ site.data.dungeon.dos.deaths_embrace }} and {{ site.data.dungeon.dos.shadowcore }}. If a {{ site.data.dungeon.dos.deaths_embrace }} cast goes off, {{ site.data.talent.purge }} it.
+
+**Atal'ai Devoted**
+
+* Consider these mobs the priority target in any pack they're in, killing them before {{ site.data.dungeon.dos.devoted_sacrifice }} goes off. Use {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.thunderstorm }}, or {{ site.data.talent.hex }} to briefly stop their cast.
+
+**Atal'ai High Priest**
+
+* Rotate interrupts between {{ site.data.dungeon.dos.heal }} and {{ site.data.dungeon.dos.smite }}.
+
+**Atal'ai Hoodoo Hexxer**
+
+* Rotate interrupts between {{ site.data.dungeon.dos.healing_wave }}, {{ site.data.dungeon.dos.hex }}, and {{ site.data.dungeon.dos.lightning_discharge }}.
+
+**Atal'ai Deathwalker**
+
+* Use {{ site.data.talent.capacitor_totem }} to hard cancel their {{ site.data.dungeon.dos.bladestorm }}. When these mobs die, they turn into an Atal'ai Deathwalker's Spirit with {{ site.data.dungeon.dos.spectral }}, which you can {{ site.data.talent.purge }} to instantly kill them.
+
+## Hakkar the Soulflayer
+
+* {{ site.data.talent.as }} has many uses cases here: for {{ site.data.dungeon.dos.blood_nova }} if the Son of Hakkar adds are out of control, for {{ site.data.dungeon.dos.corrupted_blood }}, or for {{ site.data.dungeon.dos.blood_barrier }} to minimize the value of the absorb.
+* Use {{ site.data.talent.swg }} as needed to avoid {{ site.data.dungeon.dos.blood_barrage }}.
+
+---
+
+**Defunct Dental Drill**
+
+* {{ site.data.dungeon.dos.haywire }} is dangerous when Fortified, but a common tactic is to just line-of-sight this.
+
+**Headless Client**
+
+* Interrupt {{ site.data.dungeon.dos.discharge }}.
+* Hard cancel their {{ site.data.dungeon.dos.spinning_up }} with {{ site.data.talent.capacitor_totem }}.
+* If no stuns are available, use {{ site.data.spell.earthbind_totem }} and {{ site.data.talent.thunderstorm }} as needed to keep these mobs away from your party. If these mobs are still too close for comfort, {{ site.data.dungeon.dos.additional_threads }} can be {{ site.data.talent.purge }}d.
+
+**Volatile Memory**
+
+* These mobs will self-destruct on their own with {{ site.data.dungeon.dos.volatile_capacitor }}. Use {{ site.data.spell.earthbind_totem }} as needed to keep them away from your party.
+
+**Lubricator**
+
+* Rotate interrupts between {{ site.data.dungeon.dos.lubricate }} and {{ site.data.dungeon.dos.self_cleaning_cycle }}.
+
+**Sentient Oil**
+
+* Interrupt {{ site.data.dungeon.dos.essential_oil }}.
+
+## The Manastorms
+
+When Millhouse is active:
+
+* Interrupt {{ site.data.dungeon.dos.frostbolt }}.
+* Use {{ site.data.talent.as }} as needed when soaking {{ site.data.dungeon.dos.power_overwhelming }} or for {{ site.data.dungeon.dos.diabolical_dooooooom }}
+* Use {{ site.data.talent.swg }} as needed to position {{ site.data.dungeon.dos.echo_finger_laser_x_treme }}.
+
+When Millificent is active:
+
+* Use {{ site.data.talent.as }} as needed for {{ site.data.dungeon.dos.aerial_rocket_chicken_barrage }}.
+* Use {{ site.data.talent.swg }} as needed to disarm {{ site.data.dungeon.dos.experimental_squirrel_bomb }}s or position {{ site.data.dungeon.dos.shadowfury }} on the boss. {{ site.data.dungeon.dos.experimental_squirrel_bomb }} can be disarmed while in motion.
+
+---
+
+**Weald Shimmermoth**
+
+* Party members should be jumping to remove {{ site.data.dungeon.dos.soporific_shimmerdust }}. If your party members aren't jumping, this can be dispelled with {{ site.data.talent.cleanse_spirit }}. If your party members do end up falling asleep from this debuff, {{ site.data.talent.tremor_totem }} can also be used to dispel it.
+
+**Spriggan Barkbinder**
+
+* Interrupt {{ site.data.dungeon.dos.bark_armor }}. If this cast goes off, {{ site.data.talent.purge }} it.
+
+**Mythresh, Sky's Talons**
+
+* Cast {{ site.data.talent.tremor_totem }} for {{ site.data.dungeon.dos.wailing_grief }} to quickly dispel any players caught by the Fear.
+
+**Bladebeak Hatchling**
+
+* {{ site.data.dungeon.dos.frightened_cries }} will aggro nearby Bladebeak Matriarchs and Territorial Bladebeaks which may cause your pull to go out of hand. Use {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }} to hard cancel this ability.
+
+## Dealer Xy'exa
+
+* Use {{ site.data.talent.as }} as needed for {{ site.data.dungeon.dos.arcane_lightning }} or {{ site.data.dungeon.dos.localized_explosive_contrivance }}.
+* Use {{ site.data.talent.swg }} when launched to the air from {{ site.data.dungeon.dos.displacement_trap }} or as needed to transfer {{ site.data.dungeon.dos.arcane_lightning }} to another party member.
+
+---
+
+## Mueh'zala
+
+* Hold your cooldowns for the Shattered Visage add from {{ site.data.dungeon.dos.shatter_reality }}.
+* The DoT from {{ site.data.dungeon.dos.cosmic_artifice }} will be the highest source of damage taken. Use {{ site.data.talent.as }} as needed.
+* Use {{ site.data.talent.swg }} as needed to avoid Master of Death.
+
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="hoa">
+<div data-toggle="collapse" data-target="#hoa-collapse" aria-expanded="true" aria-controls="hoa-collapse" class="dungeon-header hoa"><h2>Halls of Atonement</h2></div>
+</div>
+<div id="hoa-collapse" class="collapse" aria-labelledby="hoa" data-parent="#accordion">
+<div class="card-body" markdown="1">
+
+**Depraved Houndmaster**
+
+* {{ site.data.dungeon.hoa.loyal_beasts }} enrage the Vicious Gargons, and {{ site.data.dungeon.hoa.rapid_fire }} is dangerous when Fortified. You can hard cancel these abilities with {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }}.
+
+**Depraved Obliterator**
+
+* Rotate interrupts between {{ site.data.dungeon.hoa.curse_of_obliteration }} and {{ site.data.dungeon.hoa.wicked_bolt }}. If a {{ site.data.dungeon.hoa.curse_of_obliteration }} cast goes off, dispel with {{ site.data.talent.cleanse_spirit }}.
+
+**Depraved Collector**
+
+* Interrupt {{ site.data.dungeon.hoa.collect_sins }}.
+
+**Shard of Halkias**
+
+* Stand at max range to avoid {{ site.data.dungeon.hoa.thrash }} entirely. Use {{ site.data.talent.astral_shift }} if absolutely needed.
+
+## Halkias, the Sin-Stained Goliath
+
+* Use {{ site.data.talent.spiritwalkers_grace }} during {{ site.data.dungeon.hoa.refracted_sinlight }}.
+* If any party members are outside the {{ site.data.dungeon.hoa.light_of_atonement }} aura and Feared by {{ site.data.dungeon.hoa.sinlight_visions }}, use {{ site.data.talent.tremor_totem }}.
+
+---
+
+**Stoneborn Reaver**
+
+* Interrupt {{ site.data.dungeon.hoa.turn_to_stone}}. If a cast goes off, {{ site.data.talent.purge }} it.
+
+## Echelon
+
+* Hold {{ site.data.talent.stormkeeper }} for the Undying Stonefiend add spawn. Undying Stonefiends will not begin casting until they are hit with damage, so wait for them to congregate around the boss before engaging. Interrupt their {{ site.data.dungeon.hoa.villainous_bolt }} cast, and use {{ site.data.talent.capacitor_totem }} and {{ site.data.talent.thunderstorm }} as needed to control them.
+* Keep some distance from the Undying Stonefiends due to {{ site.data.dungeon.hoa.volatile_transformation }}.
+* {{ site.data.dungeon.hoa.curse_of_stone }} can be dispelled with {{ site.data.talent.cleanse_spirit }}. Prioritize dispelling party members targeted by {{ site.data.dungeon.hoa.stone_shattering_leap }} or any other party members at risk, and dispelled players will be able to avoid damage if they run away quickly. Othrewise, use {{ site.data.talent.astral_shift }} for {{ site.data.dungeon.hoa.stone_shattering_leap }} and {{ site.data.dungeon.hoa.shattered }} as needed.
+
+---
+
+## High Adjudicator Aleez
+
+* Rotate interrupts between {{ site.data.dungeon.hoa.volley_of_power}} and {{ site.data.dungeon.hoa.bolt_of_power}}.
+* Use {{ site.data.talent.spiritwalkers_grace }} as needed for {{ site.data.dungeon.hoa.anima_fountain }}.
+* Use {{ site.data.talent.astral_shift }} as needed for {{ site.data.dungeon.hoa.pulse_from_beyond }} from Ghastly Parishioner.
+
+---
+
+**Inquisitor Sigar**
+
+* Interrupt {{ site.data.dungeon.hoa.wicked_bolt }}.
+
+## Lord Chamberlain
+
+* Use {{ site.data.talent.astral_shift }} for {{ site.data.dungeon.hoa.ritual_of_woe}} as needed.
+* Use {{ site.data.talent.spiritwalkers_grace }} as needed to avoid {{ site.data.dungeon.hoa.telekinetic_toss }}, {{ site.data.dungeon.hoa.telekinetic_onslaught }}, and {{ site.data.dungeon.hoa.telekinetic_repulsion }}.
 
 </div>
 </div>
@@ -339,58 +491,58 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 **Drust Spiteclaw**
 
-* {{ site.data.talent.purge }} {{ site.data.mythic_plus.dying_breath }}. If these are not {{ site.data.talent.purge }}d and players are affected by {{ site.data.mythic_plus.dying_breath }}, you can dispel them with {{ site.data.talent.cleanse_spirit }}.
+* {{ site.data.talent.purge }} {{ site.data.dungeon.mots.dying_breath }}. If these are not {{ site.data.talent.purge }}d and players are affected by {{ site.data.dungeon.mots.dying_breath }}, you can dispel them with {{ site.data.talent.cleanse_spirit }}.
 
 **Drust Harvester**
 
-* Rotate interrupts between {{ site.data.mythic_plus.harvest_essence }} and {{ site.data.mythic_plus.spirit_bolt }}.
+* Rotate interrupts between {{ site.data.dungeon.mots.harvest_essence }} and {{ site.data.dungeon.mots.spirit_bolt }}.
 
 **Drust Boughbreaker**
 
-* When these mobs reach 50% health, they will channel {{ site.data.mythic_plus.furious_thrashing }} which is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
-* If you move as the {{ site.data.mythic_plus.bramble_burst }} cast finishes, you can avoid the initial damage.
+* When these mobs reach 50% health, they will channel {{ site.data.dungeon.mots.furious_thrashing }} which is dangerous when Fortified. Use {{ site.data.talent.as }} or healing abilities as needed.
+* If you move as the {{ site.data.dungeon.mots.bramble_burst }} cast finishes, you can avoid the initial damage.
 
 ## Ingra Maloch
 
 * Maintain {{ site.data.spell.flame_shock }} on both Ingra Maloch and Droman Oulfarran.
-* Hold your cooldowns for when Ingra is vulnerable with {{ site.data.mythic_plus.dromans_wrath }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.tears_of_the_forest }}.
-* Use {{ site.data.spell.astral_shift }} for {{ site.data.mythic_plus.death_shroud }} as needed.
-* Stay alert for Ingra's {{ site.data.mythic_plus.repulsive_visage }}. This is a 3 second cast that will Fear all players around him and cannot be interrupted, so pre-cast {{ site.data.talent.tremor_totem }}.
+* Hold your cooldowns for when Ingra is vulnerable with {{ site.data.dungeon.mots.dromans_wrath }}.
+* Use {{ site.data.talent.swg }} as needed to avoid {{ site.data.dungeon.mots.tears_of_the_forest }}.
+* Use {{ site.data.talent.as }} for {{ site.data.dungeon.mots.death_shroud }} as needed.
+* Stay alert for Ingra's {{ site.data.dungeon.mots.repulsive_visage }}. This is a 3 second cast that will Fear all players around him and cannot be interrupted, so pre-cast {{ site.data.talent.tremor_totem }}.
 
 ---
 
 **Mistveil Shaper**
 
-* Interrupt {{ site.data.mythic_plus.bramblethorn_coat }}. If this cast goes off, {{ site.data.talent.purge }} it.
+* Interrupt {{ site.data.dungeon.mots.bramblethorn_coat }}. If this cast goes off, {{ site.data.talent.purge }} it.
 
 **Mistveil Guardian**
 
-* {{ site.data.mythic_plus.bucking_rampage }} is a knock back ability that will affect tank and melee players. You can hard cancel this ability with {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }}.
+* {{ site.data.dungeon.mots.bucking_rampage }} is a knock back ability that will affect tank and melee players. You can hard cancel this ability with {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }}.
 
 **Mistveil Tender**
 
-* Interrupt {{ site.data.mythic_plus.nourish_the_forest }}. If this cast goes off, {{ site.data.talent.purge }} it.
+* Interrupt {{ site.data.dungeon.mots.nourish_the_forest }}. If this cast goes off, {{ site.data.talent.purge }} it.
 
 ## Mistcaller
 
-* During {{ site.data.mythic_plus.guessing_game }}, maintain {{ site.data.spell.flame_shock }} on the correct Illusionary Clone but also any other Illusions you can. Mistcaller takes 100% reduced damage during this phase.
-* {{ site.data.mythic_plus.penalizing_burst }} during {{ site.data.mythic_plus.guessing_game }} will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed during this phase.
+* During {{ site.data.dungeon.mots.guessing_game }}, maintain {{ site.data.spell.flame_shock }} on the correct Illusionary Clone but also any other Illusions you can. Mistcaller takes 100% reduced damage during this phase.
+* {{ site.data.dungeon.mots.penalizing_burst }} during {{ site.data.dungeon.mots.guessing_game }} will be the highest source of damage taken. Use {{ site.data.talent.as }} as needed during this phase.
 * {{ site.data.talent.hex }} the Illusionary Vulpin. If cleave damage is breaking the CC, you can also use {{ site.data.spell.earthbind_totem }} or {{ site.data.talent.capacitor_totem }} as needed to kite.
-* Use {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.dodge_ball }} as needed.
+* Use {{ site.data.talent.swg }} for {{ site.data.dungeon.mots.dodge_ball }} as needed.
 
 ---
 
 **Spinemaw Staghorn**
 
-* Rotate interrupts for {{ site.data.mythic_plus.stimulate_regeneration }} and {{ site.data.mythic_plus.stimulate_resistance }}. If a {{ site.data.mythic_plus.stimulate_resistance }} cast goes off, {{ site.data.talent.purge }} it.
+* Rotate interrupts for {{ site.data.dungeon.mots.stimulate_regeneration }} and {{ site.data.dungeon.mots.stimulate_resistance }}. If a {{ site.data.dungeon.mots.stimulate_resistance }} cast goes off, {{ site.data.talent.purge }} it.
 
 ## Tred'ova
 
-* Rotate interrupts for {{ site.data.mythic_plus.parasitic_pacification }}, {{ site.data.mythic_plus.parasitic_incapacitation }}, and {{ site.data.mythic_plus.parasitic_domination }}.
-* {{ site.data.mythic_plus.consumption }} can also be interrupted after the {{ site.data.mythic_plus.gorging_shield }} is broken, but your party may opt to not interrupt so the boss doesn't cast any other mechanics.
+* Rotate interrupts for {{ site.data.dungeon.mots.parasitic_pacification }}, {{ site.data.dungeon.mots.parasitic_incapacitation }}, and {{ site.data.dungeon.mots.parasitic_domination }}.
+* {{ site.data.dungeon.mots.consumption }} can also be interrupted after the {{ site.data.dungeon.mots.gorging_shield }} is broken, but your party may opt to not interrupt so the boss doesn't cast any other mechanics.
 * Use {{ site.data.spell.earthbind_totem }}, {{ site.data.talent.capacitor_totem }}, and potentially {{ site.data.talent.hex }} as needed to control the Gormling Larvae.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.acid_expulsion }}, {{ site.data.mythic_plus.consumption }}, {{ site.data.mythic_plus.mind_link }}, or for kiting away from Gormling Larvae.
+* Use {{ site.data.talent.swg }} as needed for {{ site.data.dungeon.mots.acid_expulsion }}, {{ site.data.dungeon.mots.consumption }}, {{ site.data.dungeon.mots.mind_link }}, or for kiting away from Gormling Larvae.
 
 </div>
 </div>
@@ -405,94 +557,94 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 **Decaying Flesh Giant**
 
-* Interrupt {{ site.data.mythic_plus.creepy_crawlers }}.
+* Interrupt {{ site.data.dungeon.pf.creepy_crawlers }}.
 
 **Fungalmancer**
 
-* Rotate interrupts between {{ site.data.mythic_plus.wonder_grow }} and {{ site.data.mythic_plus.binding_fungus }}. If a {{ site.data.mythic_plus.wonder_grow }} cast goes off, {{ site.data.talent.purge }} it.
+* Rotate interrupts between {{ site.data.dungeon.pf.wonder_grow }} and {{ site.data.dungeon.pf.binding_fungus }}. If a {{ site.data.dungeon.pf.wonder_grow }} cast goes off, {{ site.data.talent.purge }} it.
 
 **Fungi Stormer**
 
-* {{ site.data.mythic_plus.fungistorm }} is dangerous when Fortified. You can hard cancel this ability with {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }}.
+* {{ site.data.dungeon.pf.fungistorm }} is dangerous when Fortified. You can hard cancel this ability with {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }}.
 
 **Pestilent Harvester**
 
-* Rotate interrupts between {{ site.data.mythic_plus.doom_shroom }} and {{ site.data.mythic_plus.hurl_spores }}.
+* Rotate interrupts between {{ site.data.dungeon.pf.doom_shroom }} and {{ site.data.dungeon.pf.hurl_spores }}.
 
 **Gushing Slime**
 
-* {{ site.data.talent.purge }} {{ site.data.mythic_plus.slime_coated }} as needed to minimize pools of {{ site.data.mythic_plus.putrid_bile }}.
+* {{ site.data.talent.purge }} {{ site.data.dungeon.pf.slime_coated }} as needed to minimize pools of {{ site.data.dungeon.pf.putrid_bile }}.
 
 ## Globgrog
 
-* Position yourself close to the boss to quickly avoid {{ site.data.mythic_plus.slime_wave }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.plaguestomp }}. Use {{ site.data.spell.astral_shift }} as needed for both {{ site.data.mythic_plus.plaguestomp }} and {{ site.data.mythic_plus.debilitating_plague }}.
+* Position yourself close to the boss to quickly avoid {{ site.data.dungeon.pf.slime_wave }}.
+* Use {{ site.data.talent.swg }} for {{ site.data.dungeon.pf.plaguestomp }}. Use {{ site.data.talent.as }} as needed for both {{ site.data.dungeon.pf.plaguestomp }} and {{ site.data.dungeon.pf.debilitating_plague }}.
 * Use {{ site.data.spell.earthbind_totem }}, {{ site.data.talent.capacitor_totem }}, and {{ site.data.talent.thunderstorm }} as needed to control the Slimy Morsels.
 
 ---
 
 **Blighted Spinebreaker**
 
-* When these mobs die, they will spawn Slithering Ooze which will cast {{ site.data.mythic_plus.metamorphosis }}. Kill these by instantly stepping on them, and use {{ site.data.spell.astral_shift }} as needed.
+* When these mobs die, they will spawn Slithering Ooze which will cast {{ site.data.dungeon.pf.metamorphosis }}. Kill these by instantly stepping on them, and use {{ site.data.talent.as }} as needed.
 
 **Plaguebinder**
 
-* Rotate interrupts between {{ site.data.mythic_plus.gripping_infection }} and {{ site.data.mythic_plus.pestilence_bolt }}.
+* Rotate interrupts between {{ site.data.dungeon.pf.gripping_infection }} and {{ site.data.dungeon.pf.pestilence_bolt }}.
 
 **Rotmarrow Slime**
 
-* Interrupt {{ site.data.mythic_plus.corrosive_gunk }}.
-* {{ site.data.talent.purge }} {{ site.data.mythic_plus.slime_coated }} as needed to minimize pools of {{ site.data.mythic_plus.putrid_bile }}.
+* Interrupt {{ site.data.dungeon.pf.corrosive_gunk }}.
+* {{ site.data.talent.purge }} {{ site.data.dungeon.pf.slime_coated }} as needed to minimize pools of {{ site.data.dungeon.pf.putrid_bile }}.
 
 **Pestilence Slime**
 
-* Interrupt {{ site.data.mythic_plus.viral_globs }}.
+* Interrupt {{ site.data.dungeon.pf.viral_globs }}.
 
 **Virulax Blightweaver**
 
-* Interrupt {{ site.data.mythic_plus.pestilence_bolt }}.
+* Interrupt {{ site.data.dungeon.pf.pestilence_bolt }}.
 
 **Congealed Slime**
 
-* Because of {{ site.data.mythic_plus.congealed_contagion }}, funnel more priority damage on the Congealed Slime by casting {{ site.data.spell.flame_shock }} on the mobs around it.
+* Because of {{ site.data.dungeon.pf.congealed_contagion }}, funnel more priority damage on the Congealed Slime by casting {{ site.data.spell.flame_shock }} on the mobs around it.
 
 ## Doctor Ickus
 
 * Funnel more priority damage to the Plague Bomb by casting {{ site.data.spell.flame_shock }} on the boss and Congealed Slime. If your group is planning to CC the Congealed Slime, do not {{ site.data.spell.flame_shock }} it. Consider holding cooldowns for the Plague Bomb as well if needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.slime_lunge }}.
-* Interrupt {{ site.data.mythic_plus.burning_strain }} if no targets are within melee range of the boss.
+* Use {{ site.data.talent.swg }} as needed to avoid {{ site.data.dungeon.pf.slime_lunge }}.
+* Interrupt {{ site.data.dungeon.pf.burning_strain }} if no targets are within melee range of the boss.
 
 ---
 
 **Defender of Many Eyes**
 
-* Use {{ site.data.talent.capacitor_totem }} to hard cancel {{ site.data.mythic_plus.bulwark_of_maldraxxus }}.
+* Use {{ site.data.talent.capacitor_totem }} to hard cancel {{ site.data.dungeon.pf.bulwark_of_maldraxxus }}.
 
 **Brood Ambusher**
 
-* Interrupt {{ site.data.mythic_plus.enveloping_webbing }}.
-* {{ site.data.talent.hex }} and {{ site.data.talent.capacitor_totem }} can be used to hard cancel {{ site.data.mythic_plus.stealthlings }}.
+* Interrupt {{ site.data.dungeon.pf.enveloping_webbing }}.
+* {{ site.data.talent.hex }} and {{ site.data.talent.capacitor_totem }} can be used to hard cancel {{ site.data.dungeon.pf.stealthlings }}.
 
 **Venomous Sniper**
 
-* Interrupt {{ site.data.mythic_plus.call_venomfang }}.
+* Interrupt {{ site.data.dungeon.pf.call_venomfang }}.
 
 ## Domina Venomblade
 
-* Use {{ site.data.spell.spiritwalkers_grace }} to avoid {{ site.data.mythic_plus.solitary_prey }} when moving with your group and revealing Brood Assassins.
+* Use {{ site.data.talent.swg }} to avoid {{ site.data.dungeon.pf.solitary_prey }} when moving with your group and revealing Brood Assassins.
 * {{ site.data.talent.capacitor_totem }} can be used to reveal Brood Assassins, but you may consider using {{ site.data.talent.capacitor_totem }} for when they're grouped up instead.
-* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.shadow_ambush }}.
+* Use {{ site.data.talent.as }} as needed for {{ site.data.dungeon.pf.shadow_ambush }}.
 
 ---
 
 **Ickor Bileflesh**
 
-* Interrupt {{ site.data.mythic_plus.pestilence_bolt }}.
+* Interrupt {{ site.data.dungeon.pf.pestilence_bolt }}.
 
 ## Margrave Stradama
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.plague_crash }}.
-* {{ site.data.mythic_plus.infectious_rain }} will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }}.
+* Use {{ site.data.talent.swg }} as needed to avoid {{ site.data.dungeon.pf.plague_crash }}.
+* {{ site.data.dungeon.pf.infectious_rain }} will be the highest source of damage taken, so use {{ site.data.talent.as }}.
 * Use {{ site.data.spell.frost_shock }}, {{ site.data.spell.earthbind_totem }}, {{ site.data.talent.capacitor_totem }}, and {{ site.data.talent.thunderstorm }} as needed to kite the Plaguebound Devoted adds.
 
 </div>
@@ -508,66 +660,66 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 **Gluttonous Tick**
 
-* Interrupt {{ site.data.mythic_plus.engorge }}.
-* Keep your distance from these mobs as they will cast {{ site.data.mythic_plus.gluttonous_burst }} when they die.
+* Interrupt {{ site.data.dungeon.sd.engorge }}.
+* Keep your distance from these mobs as they will cast {{ site.data.dungeon.sd.gluttonous_burst }} when they die.
 
 ## Kryxis
 
-* Pay attention to Kryxis' {{ site.data.mythic_plus.severing_smash }} cast, and be as far away as possible to stagger the damage taken from {{ site.data.mythic_plus.essence_absorption }}. If necessary, you can also out-range {{ site.data.mythic_plus.severing_smash }} at 100 yards to prevent dropping a {{ site.data.mythic_plus.living_essence }} orb at all.
-* {{ site.data.mythic_plus.essence_absorption }} and {{ site.data.mythic_plus.juggernaut_rush }} will be the highest sources of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position for {{ site.data.mythic_plus.severing_smash }} or {{ site.data.mythic_plus.juggernaut_rush }}.
-* Interrupt {{ site.data.mythic_plus.hungering_drain }}.
+* Pay attention to Kryxis' {{ site.data.dungeon.sd.severing_smash }} cast, and be as far away as possible to stagger the damage taken from {{ site.data.dungeon.sd.essence_absorption }}. If necessary, you can also out-range {{ site.data.dungeon.sd.severing_smash }} at 100 yards to prevent dropping a {{ site.data.dungeon.sd.living_essence }} orb at all.
+* {{ site.data.dungeon.sd.essence_absorption }} and {{ site.data.dungeon.sd.juggernaut_rush }} will be the highest sources of damage taken. Use {{ site.data.talent.as }} as needed.
+* Use {{ site.data.talent.swg }} as needed to position for {{ site.data.dungeon.sd.severing_smash }} or {{ site.data.dungeon.sd.juggernaut_rush }}.
+* Interrupt {{ site.data.dungeon.sd.hungering_drain }}.
 
 ---
 
 **Wicked Oppressor**
 
-* Rotate interrupts between {{ site.data.mythic_plus.curse_of_suppression }} and {{ site.data.mythic_plus.wrack_soul }}. If a {{ site.data.mythic_plus.curse_of_suppression }} cast goes off on a party member, dispel with {{ site.data.talent.cleanse_spirit }}.
+* Rotate interrupts between {{ site.data.dungeon.sd.curse_of_suppression }} and {{ site.data.dungeon.sd.wrack_soul }}. If a {{ site.data.dungeon.sd.curse_of_suppression }} cast goes off on a party member, dispel with {{ site.data.talent.cleanse_spirit }}.
 
 **Dark Acolyte**
 
-* Interrupt {{ site.data.mythic_plus.dark_bolt_sd }}.
+* Interrupt {{ site.data.dungeon.sd.dark_bolt_sd }}.
 
 **Grand Overseer**
 
-* Interrupt {{ site.data.mythic_plus.gloom_burst }}.
-* Stand at max range to completely negate {{ site.data.mythic_plus.dread_bindings }}.
+* Interrupt {{ site.data.dungeon.sd.gloom_burst }}.
+* Stand at max range to completely negate {{ site.data.dungeon.sd.dread_bindings }}.
 
 **Chamber Sentinel**
 
-* Interrupt {{ site.data.mythic_plus.stoneskin }}. If this cast goes off, {{ site.data.talent.purge }} it.
+* Interrupt {{ site.data.dungeon.sd.stoneskin }}. If this cast goes off, {{ site.data.talent.purge }} it.
 
 **Depths Warden**
 
-* Interrupt {{ site.data.mythic_plus.barbed_shackles }}.
+* Interrupt {{ site.data.dungeon.sd.barbed_shackles }}.
 
 **Remnant of Fury**
 
-* {{ site.data.mythic_plus.explosive_anger }} can be interrupted, but it is a damage buff with a DoT. It may be helpful to let this cast go off on a party member for a few seconds before dispelling with {{ site.data.talent.cleanse_spirit }}.
+* {{ site.data.dungeon.sd.explosive_anger }} can be interrupted, but it is a damage buff with a DoT. It may be helpful to let this cast go off on a party member for a few seconds before dispelling with {{ site.data.talent.cleanse_spirit }}.
 
 **Infused Quill-feather**
 
-* Interrupt {{ site.data.mythic_plus.fiery_cantrip }}.
+* Interrupt {{ site.data.dungeon.sd.fiery_cantrip }}.
 
 ## Executor Tarvold
 
-* Fleeting Manifestation's {{ site.data.mythic_plus.growing_pride }} will be the highest source of damage taken during this encounter. Focus these down quickly, and use {{ site.data.talent.capacitor_totem }} and {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.castigate }}, {{ site.data.mythic_plus.sintouched_anima }}, or {{ site.data.mythic_plus.residue }}. {{ site.data.spell.astral_shift }} may be used for {{ site.data.mythic_plus.castigate }} as well.
-* If any party members are hit by {{ site.data.mythic_plus.sintouched_anima }}, dispel with {{ site.data.talent.cleanse_spirit }}.
+* Fleeting Manifestation's {{ site.data.dungeon.sd.growing_pride }} will be the highest source of damage taken during this encounter. Focus these down quickly, and use {{ site.data.talent.capacitor_totem }} and {{ site.data.talent.as }} as needed.
+* Use {{ site.data.talent.swg }} as needed to avoid {{ site.data.dungeon.sd.castigate }}, {{ site.data.dungeon.sd.sintouched_anima }}, or {{ site.data.dungeon.sd.residue }}. {{ site.data.talent.as }} may be used for {{ site.data.dungeon.sd.castigate }} as well.
+* If any party members are hit by {{ site.data.dungeon.sd.sintouched_anima }}, dispel with {{ site.data.talent.cleanse_spirit }}.
 
 ---
 
 ## Grand Proctor Beryllia
 
-* {{ site.data.mythic_plus.rite_of_supremacy }} and {{ site.data.mythic_plus.agonize }} will be the highest sources of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.endless_torment }}.
+* {{ site.data.dungeon.sd.rite_of_supremacy }} and {{ site.data.dungeon.sd.agonize }} will be the highest sources of damage taken. Use {{ site.data.talent.as }} as needed.
+* Use {{ site.data.talent.swg }} as needed to avoid {{ site.data.dungeon.sd.endless_torment }}.
 
 ---
 
 ## General Kaal
 
-* If targeted by {{ site.data.mythic_plus.wicked_rush }}, you can avoid this entirely if you move quickly enough as the boss is dashing towards you. Otherwise, use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.wicked_gash }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed when positioning for {{ site.data.mythic_plus.wicked_rush }} or to avoid {{ site.data.mythic_plus.piercing_blur }}.
+* If targeted by {{ site.data.dungeon.sd.wicked_rush }}, you can avoid this entirely if you move quickly enough as the boss is dashing towards you. Otherwise, use {{ site.data.talent.as }} as needed for {{ site.data.dungeon.sd.wicked_gash }}.
+* Use {{ site.data.talent.swg }} as needed when positioning for {{ site.data.dungeon.sd.wicked_rush }} or to avoid {{ site.data.dungeon.sd.piercing_blur }}.
 
 </div>
 </div>
@@ -582,22 +734,22 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 **Forsworn Castigator**
 
-* Interrupt {{ site.data.mythic_plus.burden_of_knowledge }}.
+* Interrupt {{ site.data.dungeon.soa.burden_of_knowledge }}.
 
 **Forsworn Goliath**
 
-* Interrupt {{ site.data.mythic_plus.rebellious_fist }}. Consider this the highest priority interrupt in any pack you see this mob in.
+* Interrupt {{ site.data.dungeon.soa.rebellious_fist }}. Consider this the highest priority interrupt in any pack you see this mob in.
 
 **Forsworn Mender**
 
-* Interrupt {{ site.data.mythic_plus.forsworn_doctrine }}.
-* {{ site.data.talent.purge }} {{ site.data.mythic_plus.imbue_weapon }}.
+* Interrupt {{ site.data.dungeon.soa.forsworn_doctrine }}.
+* {{ site.data.talent.purge }} {{ site.data.dungeon.soa.imbue_weapon }}.
 
 ## Kin-Tara
 
 * Maintain {{ site.data.spell.flame_shock }} on both Kin-Tara and Azules.
-* Position yourself behind Azules to avoid {{ site.data.mythic_plus.attenuated_barrage }}. Use {{ site.data.spell.spiritwalkers_grace }} to follow Azules when it moves.
-* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.charged_spear }}.
+* Position yourself behind Azules to avoid {{ site.data.dungeon.soa.attenuated_barrage }}. Use {{ site.data.talent.swg }} to follow Azules when it moves.
+* Use {{ site.data.talent.as }} as needed for {{ site.data.dungeon.soa.charged_spear }}.
 
 ---
 
@@ -607,46 +759,46 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 **Forsworn Champion**
 
-* Interrupt {{ site.data.mythic_plus.forsworn_doctrine }}.
-* {{ site.data.talent.purge }} {{ site.data.mythic_plus.imbue_weapon }}.
+* Interrupt {{ site.data.dungeon.soa.forsworn_doctrine }}.
+* {{ site.data.talent.purge }} {{ site.data.dungeon.soa.imbue_weapon }}.
 
 **Forsworn Inquisitor**
 
-* Rotate interrupts between {{ site.data.mythic_plus.internal_strife }} and {{ site.data.mythic_plus.dark_lash }}.
+* Rotate interrupts between {{ site.data.dungeon.soa.internal_strife }} and {{ site.data.dungeon.soa.dark_lash }}.
 
 **Forsworn Squad-Leader**
 
-* Because of {{ site.data.mythic_plus.inspiring_presence }}, funnel more priority damage on the Forsworn Squad-Leader by casting {{ site.data.spell.flame_shock }} on the mobs around it.
+* Because of {{ site.data.dungeon.soa.inspiring_presence }}, funnel more priority damage on the Forsworn Squad-Leader by casting {{ site.data.spell.flame_shock }} on the mobs around it.
 
 ## Ventunax
 
-* {{ site.data.mythic_plus.dark_stride }} will be the highest source of damage taken, assuming you are avoiding {{ site.data.mythic_plus.dark_bolt_soa }}. Use {{ site.data.spell.astral_shift }} as needed.
-* Use {{ site.data.spell.spiritwalkers_grace }} to avoid {{ site.data.mythic_plus.dark_bolt_soa }} from {{ site.data.mythic_plus.shadowhirl }}. {{ site.data.mythic_plus.shadowhirl }} will always fire out {{ site.data.mythic_plus.dark_bolt_soa }} counterclockwise until Ventunax casts {{ site.data.mythic_plus.recharge }}, which will trigger all {{ site.data.mythic_plus.shadowhirl }}s to fire 9 {{ site.data.mythic_plus.dark_bolt_soa }} at the same time.
+* {{ site.data.dungeon.soa.dark_stride }} will be the highest source of damage taken, assuming you are avoiding {{ site.data.dungeon.soa.dark_bolt_soa }}. Use {{ site.data.talent.as }} as needed.
+* Use {{ site.data.talent.swg }} to avoid {{ site.data.dungeon.soa.dark_bolt_soa }} from {{ site.data.dungeon.soa.shadowhirl }}. {{ site.data.dungeon.soa.shadowhirl }} will always fire out {{ site.data.dungeon.soa.dark_bolt_soa }} counterclockwise until Ventunax casts {{ site.data.dungeon.soa.recharge }}, which will trigger all {{ site.data.dungeon.soa.shadowhirl }}s to fire 9 {{ site.data.dungeon.soa.dark_bolt_soa }} at the same time.
 
 ---
 
 **Forsworn Warden**
 
-* Interrupt {{ site.data.mythic_plus.greater_mending }}.
-* {{ site.data.talent.purge }} {{ site.data.mythic_plus.bless_weapon }}.
+* Interrupt {{ site.data.dungeon.soa.greater_mending }}.
+* {{ site.data.talent.purge }} {{ site.data.dungeon.soa.bless_weapon }}.
 
 **Forsworn Justicar**
 
-* Rotate interrupts between {{ site.data.mythic_plus.forced_confession }} and {{ site.data.mythic_plus.dark_lash }}.
+* Rotate interrupts between {{ site.data.dungeon.soa.forced_confession }} and {{ site.data.dungeon.soa.dark_lash }}.
 
 ## Oryphrion
 
-* Consider holding cooldowns for when the boss is {{ site.data.mythic_plus.drained }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} to position and avoid the {{ site.data.mythic_plus.anima_field }} from {{ site.data.mythic_plus.empyreal_ordnance }}.
-* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.purifying_blast }} or Anima Surge. However, {{ site.data.mythic_plus.purifying_blast }} will be the higher source of damage taken.
+* Consider holding cooldowns for when the boss is {{ site.data.dungeon.soa.drained }}.
+* Use {{ site.data.talent.swg }} to position and avoid the {{ site.data.dungeon.soa.anima_field }} from {{ site.data.dungeon.soa.empyreal_ordnance }}.
+* Use {{ site.data.talent.as }} as needed for {{ site.data.dungeon.soa.purifying_blast }} or Anima Surge. However, {{ site.data.dungeon.soa.purifying_blast }} will be the higher source of damage taken.
 
 ---
 
 ## Devos, Paragon of Doubt
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to position the pool of {{ site.data.mythic_plus.lingering_doubt }} from {{ site.data.mythic_plus.lost_confidence }} or to stand in {{ site.data.mythic_plus.archons_bastion }}.
-* {{ site.data.mythic_plus.lingering_doubt }} will be the highest source of damage taken, so use {{ site.data.spell.astral_shift }} as needed during Phase 2 when transporting {{ site.data.mythic_plus.raw_anima }}.
-* If using {{ site.data.legendary.eogs }}, be mindful of {{ site.data.mythic_plus.run_through }} when placing {{ site.data.spell.eq }}.
+* Use {{ site.data.talent.swg }} as needed to position the pool of {{ site.data.dungeon.soa.lingering_doubt }} from {{ site.data.dungeon.soa.lost_confidence }} or to stand in {{ site.data.dungeon.soa.archons_bastion }}.
+* {{ site.data.dungeon.soa.lingering_doubt }} will be the highest source of damage taken, so use {{ site.data.talent.as }} as needed during Phase 2 when transporting {{ site.data.dungeon.soa.raw_anima }}.
+* If using {{ site.data.expansion_feature.sl.legendary.eogs }}, be mindful of {{ site.data.dungeon.soa.run_through }} when placing {{ site.data.spell.eq }}.
 
 </div>
 </div>
@@ -661,95 +813,95 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 **Patchwerk Soldier**
 
-* These mobs will {{ site.data.mythic_plus.leap }} at ranged players. Position yourself close so tank and melee players don't have to chase far.
+* These mobs will {{ site.data.dungeon.nw.leap }} at ranged players. Position yourself close so tank and melee players don't have to chase far.
 
 **Corpse Harvester**
 
-* Interrupt {{ site.data.mythic_plus.drain_fluids }}.
+* Interrupt {{ site.data.dungeon.nw.drain_fluids }}.
 
 **Stitched Vanguard**
 
-* Interrupt {{ site.data.mythic_plus.meat_shield }}.
+* Interrupt {{ site.data.dungeon.nw.meat_shield }}.
 
 **Blight Bag**
 
-* These mobs will {{ site.data.mythic_plus.leap }} at ranged players. Position yourself close so tank and melee players don't have to chase far.
+* These mobs will {{ site.data.dungeon.nw.leap }} at ranged players. Position yourself close so tank and melee players don't have to chase far.
 
 **Zolramus Gatekeeper**
 
-* {{ site.data.mythic_plus.wrath_of_zolramus }} is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
-* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
+* {{ site.data.dungeon.nw.wrath_of_zolramus }} is dangerous when Fortified. Use {{ site.data.talent.as }} or healing abilities as needed.
+* Interrupt {{ site.data.dungeon.nw.necrotic_bolt }}.
 
 ## Blightbone
 
-* Use {{ site.data.spell.astral_shift }} as needed if targeted by {{ site.data.mythic_plus.heaving_retch }}. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid or re-position after {{ site.data.mythic_plus.heaving_retch }}.
+* Use {{ site.data.talent.as }} as needed if targeted by {{ site.data.dungeon.nw.heaving_retch }}. Use {{ site.data.talent.swg }} as needed to avoid or re-position after {{ site.data.dungeon.nw.heaving_retch }}.
 * Use {{ site.data.spell.earthbind_totem }}, {{ site.data.talent.capacitor_totem }}, and {{ site.data.talent.thunderstorm }} as needed to control the Carrion Worm adds.
 
 ---
 
 **Zolramus Bonemender**
 
-* Rotate interrupts between {{ site.data.mythic_plus.bonemend }} and {{ site.data.mythic_plus.necrotic_bolt }}.
-* {{ site.data.mythic_plus.final_bargain }} is a massive heal that cannot be interrupted. You can hard cancel this ability with {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }}.
+* Rotate interrupts between {{ site.data.dungeon.nw.bonemend }} and {{ site.data.dungeon.nw.necrotic_bolt }}.
+* {{ site.data.dungeon.nw.final_bargain }} is a massive heal that cannot be interrupted. You can hard cancel this ability with {{ site.data.talent.hex }} or {{ site.data.talent.capacitor_totem }}.
 
 **Zolramus Sorcerer**
 
-* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
+* Interrupt {{ site.data.dungeon.nw.necrotic_bolt }}.
 
 **Zolramus Necromancer, Brittlebone Mage**
 
-* Prioritze interrupting Brittlebone Mage's {{ site.data.mythic_plus.frostbolt_volley }}; interrupt the Necromancer's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
+* Prioritze interrupting Brittlebone Mage's {{ site.data.dungeon.nw.frostbolt_volley }}; interrupt the Necromancer's {{ site.data.dungeon.nw.necrotic_bolt }} otherwise.
 * Focus down Zolramus Necromancer by casting {{ site.data.spell.flame_shock }} on the Brittlebone mobs around it to funnel more priority damage.
 
 **Skeletal Marauder**
 
-* Interrupting {{ site.data.mythic_plus.rasping_scream }} and stay ranged to avoid it. If a cast goes off, cast {{ site.data.talent.tremor_totem }} to dispel any Feared party members.
+* Interrupting {{ site.data.dungeon.nw.rasping_scream }} and stay ranged to avoid it. If a cast goes off, cast {{ site.data.talent.tremor_totem }} to dispel any Feared party members.
 
 **Nar'zudah**
 
-* Interrupt {{ site.data.mythic_plus.necrotic_bolt }}.
-* {{ site.data.talent.purge }} {{ site.data.mythic_plus.dark_shroud }}.
-* Use {{ site.data.spell.astral_shift }} and {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.grim_fate }} as needed.
+* Interrupt {{ site.data.dungeon.nw.necrotic_bolt }}.
+* {{ site.data.talent.purge }} {{ site.data.dungeon.nw.dark_shroud }}.
+* Use {{ site.data.talent.as }} and {{ site.data.talent.swg }} for {{ site.data.dungeon.nw.grim_fate }} as needed.
 
 **Skeletal Monstrosity**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.mythic_plus.reaping_winds }}. Stay ranged to avoid {{ site.data.mythic_plus.chill_scythe }}.
+* Use {{ site.data.talent.swg }} as needed for {{ site.data.dungeon.nw.reaping_winds }}. Stay ranged to avoid {{ site.data.dungeon.nw.chill_scythe }}.
 
 ## Amarth, The Harvester
 
-* Stay near the boss in anticipation for {{ site.data.mythic_plus.necrotic_breath }} to quickly avoid it.
-* Prioritize interrupting the Reanimated Mage's {{ site.data.mythic_plus.frostbolt_volley }}; interrupt Amarth's {{ site.data.mythic_plus.necrotic_bolt }} otherwise.
+* Stay near the boss in anticipation for {{ site.data.dungeon.nw.necrotic_breath }} to quickly avoid it.
+* Prioritize interrupting the Reanimated Mage's {{ site.data.dungeon.nw.frostbolt_volley }}; interrupt Amarth's {{ site.data.dungeon.nw.necrotic_bolt }} otherwise.
 * Use {{ site.data.talent.thunderstorm }} and {{ site.data.talent.capacitor_totem }} as needed to control the Reanimated adds.
-* {{ site.data.mythic_plus.tortured_echoes }} will be the highest source of damage taken, starting after the first {{ site.data.mythic_plus.final_harvest }}. Use {{ site.data.spell.astral_shift }} as needed.
+* {{ site.data.dungeon.nw.tortured_echoes }} will be the highest source of damage taken, starting after the first {{ site.data.dungeon.nw.final_harvest }}. Use {{ site.data.talent.as }} as needed.
 
 ---
 
 **Corpse Collector**
 
-* Rotate interrupts between {{ site.data.mythic_plus.goresplatter }} and {{ site.data.mythic_plus.drain_fluids }}.
+* Rotate interrupts between {{ site.data.dungeon.nw.goresplatter }} and {{ site.data.dungeon.nw.drain_fluids }}.
 
 **Flesh Crafter**
 
-* Interrupt {{ site.data.mythic_plus.repair_flesh }}.
-* Be sure {{ site.data.mythic_plus.throw_cleaver }} hits an enemy mob. Use {{ site.data.spell.astral_shift }} as needed otherwise.
+* Interrupt {{ site.data.dungeon.nw.repair_flesh }}.
+* Be sure {{ site.data.dungeon.nw.throw_cleaver }} hits an enemy mob. Use {{ site.data.talent.as }} as needed otherwise.
 
 **Stitching Assistant, Separation Assistant**
 
-* Interrupt Stitching Assistant's {{ site.data.mythic_plus.drain_fluids }}.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to ensure {{ site.data.mythic_plus.throw_cleaver }} is targeted at the other mob or to kite away from Separation Assistant's {{ site.data.mythic_plus.morbid_fixation }}.
+* Interrupt Stitching Assistant's {{ site.data.dungeon.nw.drain_fluids }}.
+* Use {{ site.data.talent.swg }} as needed to ensure {{ site.data.dungeon.nw.throw_cleaver }} is targeted at the other mob or to kite away from Separation Assistant's {{ site.data.dungeon.nw.morbid_fixation }}.
 
 ## Surgeon Stitchflesh
 
 * Hold cooldowns for when Surgeon Stitchflesh is active.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to target {{ site.data.mythic_plus.meat_hook }} at the boss or to kite away from the boss's {{ site.data.mythic_plus.morbid_fixation }}.
-* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.stitchneedle }}.
+* Use {{ site.data.talent.swg }} as needed to target {{ site.data.dungeon.nw.meat_hook }} at the boss or to kite away from the boss's {{ site.data.dungeon.nw.morbid_fixation }}.
+* Use {{ site.data.talent.as }} as needed for {{ site.data.dungeon.nw.stitchneedle }}.
 
 ---
 
 ## Nalthor the Rimebinder
 
-* Use {{ site.data.spell.spiritwalkers_grace }} for {{ site.data.mythic_plus.comet_storm }}.
-* {{ site.data.mythic_plus.icebound_aegis }} will be the highest source of damage taken when this is active on the boss. Use {{ site.data.spell.astral_shift }} as needed.
+* Use {{ site.data.talent.swg }} for {{ site.data.dungeon.nw.comet_storm }}.
+* {{ site.data.dungeon.nw.icebound_aegis }} will be the highest source of damage taken when this is active on the boss. Use {{ site.data.talent.as }} as needed.
 
 </div>
 </div>
@@ -764,45 +916,45 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 **Battlefield Ritualist**
 
-* Rotate interrupts between {{ site.data.mythic_plus.unholy_fervor }} and {{ site.data.mythic_plus.necrotic_bolt }}. If an {{ site.data.mythic_plus.unholy_fervor }} cast goes off, {{ site.data.talent.purge }} it.
+* Rotate interrupts between {{ site.data.dungeon.top.unholy_fervor }} and {{ site.data.dungeon.top.necrotic_bolt }}. If an {{ site.data.dungeon.top.unholy_fervor }} cast goes off, {{ site.data.talent.purge }} it.
 
 **Raging Bloodhorn**
 
-* {{ site.data.mythic_plus.raging_tantrum }} is dangerous when Fortified. If your group does not have an enrage dispel, use {{ site.data.spell.astral_shift }} or healing abilities as needed.
+* {{ site.data.dungeon.top.raging_tantrum }} is dangerous when Fortified. If your group does not have an enrage dispel, use {{ site.data.talent.as }} or healing abilities as needed.
 
 ## An Affront of Challengers
 
 * Maintain {{ site.data.spell.flame_shock }} on each boss.
 * Determine if you can cast {{ site.data.spell.cl }} and {{ site.data.spell.eq }} when the bosses are stacked together, or if a particular boss needs to be focused down.
-* Rotate interrupts for Sathel the Accursed's {{ site.data.mythic_plus.searing_death }} and {{ site.data.mythic_plus.necromantic_bolt }}, as well as for Paceran's {{ site.data.mythic_plus.plague_bolt }}.
-* {{ site.data.talent.purge }} {{ site.data.mythic_plus.spectral_transference }}.
-* Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.mythic_plus.searing_death }} or any spells targeted at you.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed if fixated by Dessia.
+* Rotate interrupts for Sathel the Accursed's {{ site.data.dungeon.top.searing_death }} and {{ site.data.dungeon.top.necromantic_bolt }}, as well as for Paceran's {{ site.data.dungeon.top.plague_bolt }}.
+* {{ site.data.talent.purge }} {{ site.data.dungeon.top.spectral_transference }}.
+* Use {{ site.data.talent.as }} as needed for {{ site.data.dungeon.top.searing_death }} or any spells targeted at you.
+* Use {{ site.data.talent.swg }} as needed if fixated by Dessia.
 
 ---
 
 **Blighted Sludge-Spewer**
 
-* Rotate interrupts between {{ site.data.mythic_plus.withering_discharge }} and {{ site.data.mythic_plus.decaying_filth }}.
-* These mobs will leap at ranged players with {{ site.data.mythic_plus.leaping_thrash }}. Position yourself close so tank and melee players don't have to chase far.
+* Rotate interrupts between {{ site.data.dungeon.top.withering_discharge }} and {{ site.data.dungeon.top.decaying_filth }}.
+* These mobs will leap at ranged players with {{ site.data.dungeon.top.leaping_thrash }}. Position yourself close so tank and melee players don't have to chase far.
 
 **Disgusting Refuse**
 
-* These mobs will leap at ranged players with {{ site.data.mythic_plus.leaping_thrash }}. Position yourself close so tank and melee players don't have to chase far.
+* These mobs will leap at ranged players with {{ site.data.dungeon.top.leaping_thrash }}. Position yourself close so tank and melee players don't have to chase far.
 
 **Putrid Butcher**
 
-* Hard cancel {{ site.data.mythic_plus.devour_flesh }} with {{ site.data.talent.capacitor_totem }}.
+* Hard cancel {{ site.data.dungeon.top.devour_flesh }} with {{ site.data.talent.capacitor_totem }}.
 
 **Diseased Horror**
 
-* Interrupt {{ site.data.mythic_plus.meat_shield }}.
+* Interrupt {{ site.data.dungeon.top.meat_shield }}.
 
 ## Gorechop
 
 * Maintain {{ site.data.spell.flame_shock }} on the boss and Oozing Leftovers.
-* {{ site.data.mythic_plus.tenderizing_smash }} and {{ site.data.mythic_plus.meat_hooks }} often overlap, but you will not be caught by {{ site.data.mythic_plus.tenderizing_smash }} if you are in melee range of the boss. Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.meat_hooks }}.
-* {{ site.data.mythic_plus.leaping_thrash }} from Oozing Leftovers will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed when they spawn.
+* {{ site.data.dungeon.top.tenderizing_smash }} and {{ site.data.dungeon.top.meat_hooks }} often overlap, but you will not be caught by {{ site.data.dungeon.top.tenderizing_smash }} if you are in melee range of the boss. Use {{ site.data.talent.swg }} as needed to avoid {{ site.data.dungeon.top.meat_hooks }}.
+* {{ site.data.dungeon.top.leaping_thrash }} from Oozing Leftovers will be the highest source of damage taken. Use {{ site.data.talent.as }} as needed when they spawn.
 
 ---
 
@@ -812,13 +964,13 @@ Only one of these duelists will be active in a run.
 
 When Dokigg is active:
 
-* {{ site.data.mythic_plus.brutal_leap }} will target a ranged player. Position yourself close so tank and melee players don't have to chase far.
-* Interrupt {{ site.data.mythic_plus.battle_trance }}.
+* {{ site.data.dungeon.top.brutal_leap }} will target a ranged player. Position yourself close so tank and melee players don't have to chase far.
+* Interrupt {{ site.data.dungeon.top.battle_trance }}.
 
 When Nekthara is active:
 
-* Stay ranged to avoid {{ site.data.mythic_plus.whirlwind }}.
-* Don't be caught casting when Nekthara is casting {{ site.data.mythic_plus.interrupting_roar }}.
+* Stay ranged to avoid {{ site.data.dungeon.top.whirlwind }}.
+* Don't be caught casting when Nekthara is casting {{ site.data.dungeon.top.interrupting_roar }}.
 
 **Harugia the Bloodthirsty, Heavin the Breaker**
 
@@ -826,14 +978,14 @@ Only one of these duelists will be active in a run.
 
 When Harugia is active:
 
-* {{ site.data.mythic_plus.bloodthirsty_charge }} will target a ranged player. Make sure you are spread out and able to avoid it.
-* Avoid {{ site.data.mythic_plus.ricocheting_blade }} through line-of-sight when possible.
-* Interrupt {{ site.data.mythic_plus.battle_trance }}.
+* {{ site.data.dungeon.top.bloodthirsty_charge }} will target a ranged player. Make sure you are spread out and able to avoid it.
+* Avoid {{ site.data.dungeon.top.ricocheting_blade }} through line-of-sight when possible.
+* Interrupt {{ site.data.dungeon.top.battle_trance }}.
 
 When Heavin is active:
 
-* Stay ranged to avoid {{ site.data.mythic_plus.ground_smash }}.
-* Don't be caught casting when Heavin is casting {{ site.data.mythic_plus.interrupting_roar }}.
+* Stay ranged to avoid {{ site.data.dungeon.top.ground_smash }}.
+* Don't be caught casting when Heavin is casting {{ site.data.dungeon.top.interrupting_roar }}.
 
 **Rek the Hardened, Advent Nevermore**
 
@@ -841,63 +993,63 @@ Only one of these duelists will be active in a run.
 
 When Rek is active:
 
-* Stay ranged to avoid {{ site.data.mythic_plus.whirlwind }}.
+* Stay ranged to avoid {{ site.data.dungeon.top.whirlwind }}.
 
 When Advent Nevermore is active:
 
-* Position yourself close to move quickly and maintain damage uptime during {{ site.data.mythic_plus.unbreakable_guard }}.
-* Avoid {{ site.data.mythic_plus.ricocheting_blade }} through line-of-sight when possible.
+* Position yourself close to move quickly and maintain damage uptime during {{ site.data.dungeon.top.unbreakable_guard }}.
+* Avoid {{ site.data.dungeon.top.ricocheting_blade }} through line-of-sight when possible.
 
 **Ancient Captain**
 
-* Interrupt {{ site.data.mythic_plus.demoralizing_shout }}.
+* Interrupt {{ site.data.dungeon.top.demoralizing_shout }}.
 
 **Shambling Arbalest**
 
-* {{ site.data.mythic_plus.jagged_quarrel }} is dangerous when Fortified, and these are the most lethal mobs in the packs they're in. Use {{ site.data.spell.astral_shift }} as needed if targeted by {{ site.data.mythic_plus.jagged_quarrel }}.
+* {{ site.data.dungeon.top.jagged_quarrel }} is dangerous when Fortified, and these are the most lethal mobs in the packs they're in. Use {{ site.data.talent.as }} as needed if targeted by {{ site.data.dungeon.top.jagged_quarrel }}.
 
 ## Xav the Unfallen
 
-* Xav always does {{ site.data.mythic_plus.seismic_leap }} prior to {{ site.data.mythic_plus.might_of_maldraxxus }}, which will be the highest source of damage taken. Use {{ site.data.spell.astral_shift }} as needed.
-* As you may not be pulled down for {{ site.data.mythic_plus.blood_and_glory }}, consider refreshing {{ site.data.spell.flame_shock }} early to ensure the boss has {{ site.data.spell.flame_shock }} uptime before an {{ site.data.mythic_plus.oppressive_banner }} spawns.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed when dodging the mechanics from {{ site.data.mythic_plus.might_of_maldraxxus }} ({{ site.data.mythic_plus.crushing_slam }}, {{ site.data.mythic_plus.massive_cleave }}, {{ site.data.mythic_plus.deafening_crash }}). Don't be caught casting when Xav is casting {{ site.data.mythic_plus.deafening_crash }}; the interrupt effect still applies even when you are out of the circle.
+* Xav always does {{ site.data.dungeon.top.seismic_leap }} prior to {{ site.data.dungeon.top.might_of_maldraxxus }}, which will be the highest source of damage taken. Use {{ site.data.talent.as }} as needed.
+* As you may not be pulled down for {{ site.data.dungeon.top.blood_and_glory }}, consider refreshing {{ site.data.spell.flame_shock }} early to ensure the boss has {{ site.data.spell.flame_shock }} uptime before an {{ site.data.dungeon.top.oppressive_banner }} spawns.
+* Use {{ site.data.talent.swg }} as needed when dodging the mechanics from {{ site.data.dungeon.top.might_of_maldraxxus }} ({{ site.data.dungeon.top.crushing_slam }}, {{ site.data.dungeon.top.massive_cleave }}, {{ site.data.dungeon.top.deafening_crash }}). Don't be caught casting when Xav is casting {{ site.data.dungeon.top.deafening_crash }}; the interrupt effect still applies even when you are out of the circle.
 
 ---
 
 **Portal Guardian**
 
-* {{ site.data.mythic_plus.soulstorm }} is dangerous when Fortified. Use {{ site.data.spell.astral_shift }} or healing abilities as needed.
-* Dispel {{ site.data.mythic_plus.shadow_vulnerability }} with {{ site.data.talent.cleanse_spirit }}. If this is not dispelled, players will take increased damage from {{ site.data.mythic_plus.soulstorm }}.
+* {{ site.data.dungeon.top.soulstorm }} is dangerous when Fortified. Use {{ site.data.talent.as }} or healing abilities as needed.
+* Dispel {{ site.data.dungeon.top.shadow_vulnerability }} with {{ site.data.talent.cleanse_spirit }}. If this is not dispelled, players will take increased damage from {{ site.data.dungeon.top.soulstorm }}.
 
 **Maniacal Soulbinder**
 
-* Rotate interrupts between {{ site.data.mythic_plus.necrotic_bolt_volley }} and {{ site.data.mythic_plus.necrotic_bolt }}.
+* Rotate interrupts between {{ site.data.dungeon.top.necrotic_bolt_volley }} and {{ site.data.dungeon.top.necrotic_bolt }}.
 
 **Bone Magus**
 
-* Rotate interrupts between {{ site.data.mythic_plus.bone_spear }} and {{ site.data.mythic_plus.grave_spike }}.
-* {{ site.data.talent.purge }} {{ site.data.mythic_plus.bone_shield }}.
+* Rotate interrupts between {{ site.data.dungeon.top.bone_spear }} and {{ site.data.dungeon.top.grave_spike }}.
+* {{ site.data.talent.purge }} {{ site.data.dungeon.top.bone_shield }}.
 
 **Nefarious Darkspeaker**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.mythic_plus.death_winds }}.
-* Dispel {{ site.data.mythic_plus.curse_of_desolation }} with {{ site.data.talent.cleanse_spirit }}. If any players are caught by the Fear, use {{ site.data.talent.tremor_totem }}.
-* Interrupt {{ site.data.mythic_plus.spirit_frost }}.
+* Use {{ site.data.talent.swg }} as needed to avoid {{ site.data.dungeon.top.death_winds }}.
+* Dispel {{ site.data.dungeon.top.curse_of_desolation }} with {{ site.data.talent.cleanse_spirit }}. If any players are caught by the Fear, use {{ site.data.talent.tremor_totem }}.
+* Interrupt {{ site.data.dungeon.top.spirit_frost }}.
 
 ## Kul'tharok
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to maneuver {{ site.data.mythic_plus.draw_soul }}. Position yourself on the {{ site.data.mythic_plus.grasping_hands }} so your Soul is rooted in it to catch it quickly.
-* Use {{ site.data.spell.astral_shift }} as needed when you are Soulless or you have the {{ site.data.mythic_plus.phantasmal_parasite }} debuff.
+* Use {{ site.data.talent.swg }} as needed to maneuver {{ site.data.dungeon.top.draw_soul }}. Position yourself on the {{ site.data.dungeon.top.grasping_hands }} so your Soul is rooted in it to catch it quickly.
+* Use {{ site.data.talent.as }} as needed when you are Soulless or you have the {{ site.data.dungeon.top.phantasmal_parasite }} debuff.
 
 ---
 
 ## Mordretha, the Endless Empress
 
-* Stay near the boss in anticipation for {{ site.data.mythic_plus.dark_devastation }} to quickly avoid it.
+* Stay near the boss in anticipation for {{ site.data.dungeon.top.dark_devastation }} to quickly avoid it.
 * Consider holding Stormkeeper for Deathwalkers if necessary. Use {{ site.data.talent.capacitor_totem }} as needed when they are grouped up.
-* {{ site.data.mythic_plus.grasping_rift }} and {{ site.data.mythic_plus.manifest_death }} often overlap. Use {{ site.data.spell.spiritwalkers_grace }} for this combo as needed.
-* If any party members fail to run away from {{ site.data.mythic_plus.grasping_rift }}, dispel {{ site.data.mythic_plus.death_grasp }} with {{ site.data.talent.cleanse_spirit }}.
-* When the boss is at 50% health, she will begin casting {{ site.data.mythic_plus.echos_of_carnage }}. This ability will passively be your highest source of damage taken (even when dodging the ghost animations), so use {{ site.data.spell.astral_shift }} at this point as needed.
+* {{ site.data.dungeon.top.grasping_rift }} and {{ site.data.dungeon.top.manifest_death }} often overlap. Use {{ site.data.talent.swg }} for this combo as needed.
+* If any party members fail to run away from {{ site.data.dungeon.top.grasping_rift }}, dispel {{ site.data.dungeon.top.death_grasp }} with {{ site.data.talent.cleanse_spirit }}.
+* When the boss is at 50% health, she will begin casting {{ site.data.dungeon.top.echos_of_carnage }}. This ability will passively be your highest source of damage taken (even when dodging the ghost animations), so use {{ site.data.talent.as }} at this point as needed.
 
 </div>
 </div>

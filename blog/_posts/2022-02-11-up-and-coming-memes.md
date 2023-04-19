@@ -8,12 +8,12 @@ toc: true
 ---
 Greetings,
 
-## Community questions 
+## Community questions
 1. Will the return of Tier sets be exciting or trash for mythic plus?
 1. How to optimize the double Legendary options?
 1. Will Elemental Shamans see the raid or a bench?
-1. What's our opener? 
-1. Is the opener different for Vulperas? 
+1. What's our opener?
+1. Is the opener different for Vulperas?
 1. What happens if you like {{ site.data.spell.mastery }}?
 1. What's up with Renown 57?
 1. Does the increased max Conduit rank change anything?
@@ -31,11 +31,11 @@ For the sake of brevity here are the answers to these questions:
 1. No.
 
 ## Existential crisis
-But why am I writing this text? Just a way to passive-aggressively rant without a predetermined goal? 
+But why am I writing this text? Just a way to passive-aggressively rant without a predetermined goal?
 The answer is certainly a solid `maybe`.
 
 What do all the questions above have in common? Curiosity! At least that's what I hope they do.
-The dark alternative would be "the fear of missing out". Missing out of optimal play. 
+The dark alternative would be "the fear of missing out". Missing out of optimal play.
 Which can either happen within a spec, but is not limited to that. It can also mean the fear to "play the wrong spec/class".
 If this darkness is encroaching on you, hopefully you'll find a calm moment to ask yourself...are you still enjoying what you're doing?
 Or are you just fearfully running forward?
@@ -51,7 +51,7 @@ Soulbinds|3
 Conduits|2 or 3 out of 5
 non-Covenant Legendaries|13
 
-"But these are small numbers. What's the issue?" Assuming that the APL covers all combinations. 
+"But these are small numbers. What's the issue?" Assuming that the APL covers all combinations.
 The obvious solution would be to "just simulate" all of aboves combinations. Let's ignore Conduits for the sake of my sanity.
 
 ```
@@ -83,15 +83,15 @@ Everyone has one, right? RIGHT?<br/>I digress.
 ### Ticking Hotness
 > Venthyr & Skybreaker's Fiery Demise
 
-You're Fire. With the flick of a finger (a slow flick...like a 2.5s flick) you set ablaze up to 5 targets and heal companions at the same time. 
+You're Fire. With the flick of a finger (a slow flick...like a 2.5s flick) you set ablaze up to 5 targets and heal companions at the same time.
 Before you know it and roughly around the time your spread fire extinguishes you can once more enkindle everyone.
 Meanwhile your everburning Fire Elemental empowers your burns even further.
 And what is this? A fire spewer on a stick? Count me in!
 
-Combining {{ site.data.legendary.venthyr }} with {{ site.data.legendary.skybreakers_fiery_demise }} and multiple permanent 
-targets will result in pretty neat CD reductions for {{ site.data.spell.chain_harvest }} to something like 18-20s effective CD. 
+Combining {{ site.data.expansion_feature.sl.legendary.venthyr }} with {{ site.data.expansion_feature.sl.legendary.skybreakers_fiery_demise }} and multiple permanent
+targets will result in pretty neat CD reductions for {{ site.data.spell.chain_harvest }} to something like 18-20s effective CD.
 Your Covenant ability will spread {{ site.data.spell.fs }}.
-{{ site.data.legendary.skybreakers_fiery_demise }} will basically enforce critical hits on your {{ site.data.spell.fs }} ticks.
+{{ site.data.expansion_feature.sl.legendary.skybreakers_fiery_demise }} will basically enforce critical hits on your {{ site.data.spell.fs }} ticks.
 
 ![Ticking Hotness Synergy Flowchart](/assets/img/blog/9_2_memes/ticking_hotness_flowchart.png)
 
@@ -104,7 +104,7 @@ You'll provide some off-healing and have a permanent {{ site.data.talent.se }} u
 Not having enough targets with active {{ site.data.spell.fs }} results in a long effective CD on {{ site.data.spell.chain_harvest }}.
 Ignoring our Covenant ability for a second, when fighting only a few enemies T28 comes in clutch to make sure we keep {{ site.data.talent.se }} active, or get it back quickly.
 
-**Talents**: 
+**Talents**:
 - {{ site.data.talent.er }}
 - {{ site.data.talent.afs }}
 - {{ site.data.talent.lmt }} ({{ site.data.talent.se }})
@@ -117,7 +117,7 @@ Ignoring our Covenant ability for a second, when fighting only a few enemies T28
 ### The Chainer
 > Kyrian/Venthyr & Chains of Devastation
 
-The Shadowlands posed quite a few surprises for us. 
+The Shadowlands posed quite a few surprises for us.
 During the time we tried to recover our companions from Torghast we freed many tormented souls from their chains.
 It's time to pick them up and bring the fight to the Jailer, as the Chainer.
 You're casting chaining spells at enemies and friendly targets alike. You're very consistent and reliable.
@@ -125,14 +125,14 @@ Your enemies will fear the constant lightning strikes, while your buddies will r
 The best part? You'll be 100% mobile because everything you do are instant casts.
 You come in two flavors. One is explosive and the other has even more chains!
 
-{{ site.data.legendary.chains_of_devastation }} are the name of the game. 
-Alternate between {{ site.data.spell.chain_lightning }} and {{ site.data.talent.chain_heal }}.
-As a Kyrian alternating between these casts will ensure you're using all charges of your {{ site.data.spell.vesper_totem }} and trigger both potential explosions of {{ site.data.legendary.kyrian }}.
+{{ site.data.expansion_feature.sl.legendary.chains_of_devastation }} are the name of the game.
+Alternate between {{ site.data.spell.cl }} and {{ site.data.talent.chain_heal }}.
+As a Kyrian alternating between these casts will ensure you're using all charges of your {{ site.data.spell.vesper_totem }} and trigger both potential explosions of {{ site.data.expansion_feature.sl.legendary.kyrian }}.
 As a Venthyr you'll incorporate {{ site.data.spell.chain_harvest }} as the ultimate chaining spell into your repertoire.
 
 ![The Chainer Synergy Flowchart](/assets/img/blog/9_2_memes/the_chainer_flowchart.png)
 
-**How to improve**: Use the normal priority list to deal damage and ignore {{ site.data.legendary.chains_of_devastation }}. It's a meme for a reason.
+**How to improve**: Use the normal priority list to deal damage and ignore {{ site.data.expansion_feature.sl.legendary.chains_of_devastation }}. It's a meme for a reason.
 
 During **AoE** this build is still worse than just straight up ignoring its core Legendary. But at least the Maelstrom generation is decent enough (still worse than ignoring its core Legendary).
 
@@ -152,7 +152,7 @@ T28 is ignored in this build and has no effect.
 **Stats**: haste >= crit > vers > mastery
 
 
-### MACHINE GUN 
+### MACHINE GUN
 > Night Fae/Necrolord & a surprise
 
 Did you ever wonder how to express your hatred for your keyboard or your own fingers?
@@ -168,13 +168,13 @@ Permanent {{ site.data.talent.se }} and therefore almost 100% uptime of 20 stack
 How can we benefit more than usual from {{ site.data.spell.wind_gust }}? Glad you ask.
 By stacking {{ site.data.spell.mastery }} and haste. Because this implies we won't be stacking crit.
 Which has a curious result: {{ site.data.spell.lb }} can deal more damage than {{ site.data.spell.es }}.
-As Night Fae your Legendary {{ site.data.legendary.night_fae }} helps with {{ site.data.talent.se }} uptime and still provides crit.
+As Night Fae your Legendary {{ site.data.expansion_feature.sl.legendary.night_fae }} helps with {{ site.data.talent.se }} uptime and still provides crit.
 Even though this build ignores this stat for gearing it's still a powerful stat and a great addition.
-As Necrolord you have access to an empowered {{ site.data.spell.fs }} in the form of {{ site.data.spell.primordial_wave }} and {{ site.data.legendary.necrolord }} provides even more haste.
-But you'll struggle with {{ site.data.talent.se }} uptime if you're not using {{ site.data.legendary.skybreakers_fiery_demise }}.
-So what happens if this build reaches its goal of 20 {{ site.data.spell.wind_gust }} stacks? 
+As Necrolord you have access to an empowered {{ site.data.spell.fs }} in the form of {{ site.data.spell.primordial_wave }} and {{ site.data.expansion_feature.sl.legendary.necrolord }} provides even more haste.
+But you'll struggle with {{ site.data.talent.se }} uptime if you're not using {{ site.data.expansion_feature.sl.legendary.skybreakers_fiery_demise }}.
+So what happens if this build reaches its goal of 20 {{ site.data.spell.wind_gust }} stacks?
 {{ site.data.spell.lb }} casttime is 0.5 seconds and deals more damage per second than {{ site.data.spell.es }}.
-Do you remember what else has a 0.5 seconds CD? Let me tell you: {{ site.data.legendary.norgannon }}.
+Do you remember what else has a 0.5 seconds CD? Let me tell you: {{ site.data.expansion_feature.sl.legendary.norgannon }}.
 Therefore in its climax this build will only cast {{ site.data.spell.fs }}, {{ site.data.spell.lvb }} with {{ site.data.talent.lava_surge }}, and {{ site.data.spell.lb }}.
 Which are either instants or take 0.5 seconds to cast, which means that we can move 100% while casting.
 Welcome back `Mists of Pandaria` and {{ site.data.spell.lb }} on the move glyph.
@@ -189,24 +189,24 @@ This build deals with **AoE** worse than with single target, because while {{ si
 T28 helps to recover from screw-up and downtimes faster.
 
 **Legendaries**:
-- {{ site.data.legendary.norgannon }} for free movement
-- {{ site.data.legendary.skybreakers_fiery_demise }} to reach 100% {{ site.data.talent.se }} uptime for Necrolord
-- ({{ site.data.legendary.elemental_equilibrium }} trigger it using {{ site.data.talent.eb }} every 30 seconds)
+- {{ site.data.expansion_feature.sl.legendary.norgannon }} for free movement
+- {{ site.data.expansion_feature.sl.legendary.skybreakers_fiery_demise }} to reach 100% {{ site.data.talent.se }} uptime for Necrolord
+- ({{ site.data.expansion_feature.sl.legendary.elemental_equilibrium }} trigger it using {{ site.data.talent.eb }} every 30 seconds)
 
 **Talents**:
 - {{ site.data.talent.er }}
 - {{ site.data.talent.eb }} (mostly ignored, except on ramp-up)
 - {{ site.data.talent.se }}
 - {{ site.data.talent.pe }}
-- {{ site.data.talent.up }} 
+- {{ site.data.talent.up }}
 
 **Stats**: mastery = haste > vers > crit
 
 
-### Hot Burps 
+### Hot Burps
 > Necrolord & Deeply Rooted Elements
 
-You're unwell. Something about that feast recently was unbecoming. 
+You're unwell. Something about that feast recently was unbecoming.
 Since then you're struggling with keeping it together. You're trying, sure.
 But every time you're seeing this Fire Elemental you're feeling it in your stomach.
 It's not helpful, that this damn Elemental is now permanently next to you.
@@ -217,17 +217,17 @@ You're barely able to hold it together.
 This build is all about meatballs. The more, the merrier.
 With a sprinkled in chance of getting even more meatballs.
 Necrolord provide some solid additional {{ site.data.spell.lvb }} via {{ site.data.spell.primordial_wave }}.
-Their temporary haste increase from {{ site.data.legendary.necrolord }} comes in handy for quicker {{ site.data.spell.fs }} ticks, resulting in a few more {{ site.data.talent.lava_surge }} procs.
+Their temporary haste increase from {{ site.data.expansion_feature.sl.legendary.necrolord }} comes in handy for quicker {{ site.data.spell.fs }} ticks, resulting in a few more {{ site.data.talent.lava_surge }} procs.
 The ultimate goal for this build is to be more efficient when waiting for {{ site.data.spell.lvb }} than to cast {{ site.data.spell.lb }}.
 Very frequent {{ site.data.talent.lava_surge }} procs make it possible.
-The usage of {{ site.data.legendary.deeply_rooted_elements }} is the core of our build.
+The usage of {{ site.data.expansion_feature.sl.legendary.deeply_rooted_elements }} is the core of our build.
 We're rewarded for every {{ site.data.spell.lvb }} with a chance to cast even more {{ site.data.spell.lvb }}.
 
 ![Hot Burps Synergy Flowchart](/assets/img/blog/9_2_memes/hot_burps.png)
 
-**How to improve**: Use {{ site.data.legendary.windspeakers_lava_resurgence }} instead. This one is a lot more consistent and provides movement globals.
+**How to improve**: Use {{ site.data.expansion_feature.sl.legendary.windspeakers_lava_resurgence }} instead. This one is a lot more consistent and provides movement globals.
 
-During **AoE** this build is useless. We generally don't want to cast {{ site.data.spell.lvb }} during AoE, and {{ site.data.legendary.deeply_rooted_elements }} procs are next to useless without sufficient {{ site.data.spell.fs }} spread. And we can't sufficiently spread it reliably.
+During **AoE** this build is useless. We generally don't want to cast {{ site.data.spell.lvb }} during AoE, and {{ site.data.expansion_feature.sl.legendary.deeply_rooted_elements }} procs are next to useless without sufficient {{ site.data.spell.fs }} spread. And we can't sufficiently spread it reliably.
 
 **Low target counts** are exactly what this build wants. One to three targets are ideal.
 
