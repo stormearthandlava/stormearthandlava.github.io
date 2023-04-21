@@ -145,6 +145,41 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="the_forgotten_experiments-collapse" class="collapse" aria-labelledby="the_forgotten_experiments" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
+## Boss Fight Profile: Single Target / Cleave / AoE
+
+### Talents:
+
+#### T29/T30 2-piece:
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSASJJoJQSLJpFQhkkAI?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
+
+#### T30 4-piece:
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSASJJoJQSLJpFQhkkAI?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
+
+<hr>
+
+## Fight Breakdown
+
+#### Damage:
+• Focus down {{ site.data.raid.aberrus.erratic_remnant }} whenever they are active to prevent damage from {{ site.data.raid.aberrus.erratic_burst }}.
+• Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.massive_slam }}, {{ site.data.raid.aberrus.rending_charge }} and {{ site.data.raid.aberrus.deep_breath }}.
+
+#### Defensives:
+• Use {{ site.data.talent.as }} and {{ site.data.talent.stoneskin_totem }} or healing consumables when targeted by {{ site.data.raid.aberrus.rending_charge }}.
+• If talented, use {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+• Use {{ site.data.spell.healing_surge }} if necessary.
+
+#### Utilities:
+• Use {{ site.data.talent.wrt }} to help players dodging {{ site.data.raid.aberrus.massive_slam }} in Phase 1, {{ site.data.raid.aberrus.unstable_essence }} upon removal in Phase 2 and {{ site.data.raid.aberrus.deep_breath }} in Phase 3.
+
+Optional Notes:
+• Having access to both {{ site.data.talent.go_with_the_flow }} and {{ site.data.externals.blessing_of_the_bronze }} provides the option of having {{ site.data.talent.gow }} ready for every single {{ site.data.raid.aberrus.massive_slam }}.
+
 </div>
 </div>
 </div>
@@ -208,7 +243,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 <div class="card">
 <div class="card-header" id="scalecommander_sarkareth">
-<div data-toggle="collapse" data-target="#scalecommander_sarkareth-collapse" aria-expanded="true" aria-controls="scalecommander_sarkareth-collapse" class="raid-header aberrus_the_shadowed_crucible8"><h2>Scalecommander Sarkareth</h2></div>
+<div data-toggle="collapse" data-target="#scalecommander_sarkareth-collapse" aria-expanded="true" aria-controls="scalecommander_sarkareth-collapse" class="raid-header aberrus_the_shadowed_crucible9"><h2>Scalecommander Sarkareth</h2></div>
 <div class=""></div>
 </div>
 <div id="scalecommander_sarkareth-collapse" class="collapse" aria-labelledby="scalecommander_sarkareth" data-parent="#accordion">

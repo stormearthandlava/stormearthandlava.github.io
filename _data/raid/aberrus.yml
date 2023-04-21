@@ -31,12 +31,14 @@ lingering_shadows: <a href="https://www.wowhead.com/ptr/spell=409299/lingering-s
 shadowflame_contamination: <a href="https://www.wowhead.com/ptr/spell=405394/shadowflame-contamination" target="blank">Shadowflame Contamination</a>
 umbral_detonation: <a href="https://www.wowhead.com/ptr/spell=405082/umbral-detonation" target="blank">Umbral Detonation</a>
 
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# The Forgotten Experiments
+deep_breath: <a href="https://www.wowhead.com/ptr/spell=406227/deep-breath" target="blank">Deep Breath</a>
+erratic_remnant: <a href="https://www.wowhead.com/ptr/npc=202824/erratic-remnant" target="blank">Erratic Remnants</a>
+erratic_burst: <a href="https://www.wowhead.com/ptr/spell=408476/erratic-burst" target="blank">Erratic Burst</a>
+massive_slam: <a href="https://www.wowhead.com/ptr/spell=407733/massive-slam" target="blank">Massive Slam</a>
+rending_charge: <a href="https://www.wowhead.com/ptr/spell=406358/rending-charge" target="blank">Rending Charge</a>
+unstable_essence: <a href="https://www.wowhead.com/ptr/spell=407327/unstable-essence" target="blank">Unstable Essence</a>
+
 SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
