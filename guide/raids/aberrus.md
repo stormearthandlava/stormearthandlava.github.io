@@ -50,7 +50,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="accordion">
 <div class="card">
 <div class="card-header" id="kazzara">
-<div data-toggle="collapse" data-target="#kazzara-collapse" aria-expanded="true" aria-controls="kazzara-collapse" class="raid-header aberrus_the_shadowed_crucible1"><h2>Kazzara, The Hellforged</h2></div>
+<div data-toggle="collapse" data-target="#kazzara-collapse" aria-expanded="true" aria-controls="kazzara-collapse" class="raid-header aberrus_the_shadowed_crucible1"><h2>Kazzara, the Hellforged</h2></div>
 </div>
 <div id="kazzara-collapse" class="collapse" aria-labelledby="kazzara" data-parent="#accordion">
 <div class="card-body" markdown="1">
@@ -230,6 +230,38 @@ The tips and recommendations listed here are based on educated opinions from PTR
 </div>
 <div id="rashok-collapse" class="collapse" aria-labelledby="rashok" data-parent="#accordion">
 <div class="card-body" markdown="1">
+Rashok, the Elder
+## Boss Fight Profile: Single Target
+
+### Talents
+
+#### T29/T30 2-piece:
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
+
+#### T30 4-piece:
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
+
+<hr>
+
+## Fight Breakdown
+
+#### Damage:
+* There are no phases / add spawns that require you to plan your cooldowns around [?].
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.doom_flames }} or {{ site.data.raid.aberrus.searing_slam }}.
+
+Defensives:
+* Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.scorching_heatwave }} or overlaps of {{ site.data.raid.aberrus.charged_smash }}, {{ site.data.raid.aberrus.overcharged }} (Mythic-only) and {{ site.data.raid.aberrus.conduit_flare }} (Mythic-only).
+* If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.healing_surge }} if necessary.
+
+Utilities:
+* Use {{ site.data.talent.wrt }} to help players dealing with {{ site.data.raid.aberrus.searing_slam }} or {{ site.data.raid.aberrus.doom_flames }}.
 
 </div>
 </div>
@@ -237,7 +269,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 <div class="card">
 <div class="card-header" id="zskarn">
-<div data-toggle="collapse" data-target="#zskarn-collapse" aria-expanded="true" aria-controls="zskarn-collapse" class="raid-header aberrus_the_shadowed_crucible6"><h2>The Vigilant Steward, Zskarn</h2></div>
+<div data-toggle="collapse" data-target="#zskarn-collapse" aria-expanded="true" aria-controls="zskarn-collapse" class="raid-header aberrus_the_shadowed_crucible6"><h2>Zskarn, the Vigilant Steward</h2></div>
 </div>
 <div id="zskarn-collapse" class="collapse" aria-labelledby="zskarn" data-parent="#accordion">
 <div class="card-body" markdown="1">

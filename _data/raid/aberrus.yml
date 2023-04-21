@@ -48,12 +48,14 @@ renewed_hatchling: <a href="https://www.wowhead.com/ptr/npc=201738/renewed-hatch
 vigorous_gale: <a href="https://www.wowhead.com/ptr/spell=407017/vigorous-gale" target="blank">Vigorous Gale</a>
 zaqali_wallclimber: <a href="https://www.wowhead.com/ptr/npc=205617/zaqali-wallclimber" target="blank">Zaqali Wallclimbers</a>
 
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# Rashok
+charged_smash: <a href="https://www.wowhead.com/ptr/spell=405825/charged-smash" target="blank">Charged Smash</a>
+conduit_flare: <a href="https://www.wowhead.com/ptr/spell=405828/conduit-flare" target="blank">Conduit Flare</a>
+doom_flames: <a href="https://www.wowhead.com/ptr/spell=406851/doom-flames" target="blank">Doom Flames</a>
+overcharged: <a href="https://www.wowhead.com/ptr/spell=405827/overcharged" target="blank">Overcharged</a>
+scorching_heatwave: <a href="https://www.wowhead.com/ptr/spell=404448/scorching-heatwave" target="blank">Scorching Heatwave</a>
+searing_slam: <a href="https://www.wowhead.com/ptr/spell=405819/searing-slam" target="blank">Searing Slam</a>
+
 SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
