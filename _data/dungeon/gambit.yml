@@ -1,0 +1,62 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Tazavesh: Streets of Wonder
+
+murkbrine_scalebinder: <a href="https://www.wowhead.com/npc=178141/murkbrine-scalebinder" target="blank">Murkbrine Scalebinder</a>
+invigorating_fish_stick: <a href="https://www.wowhead.com/spell=355132/invigorating-fish-stick" target="blank">Invigorating Fish Stick</a>
+
+murkbrine_shellcrusher: <a href="https://www.wowhead.com/npc=178139/murkbrine-shellcrusher" target="blank">Murkbrine Shellcrusher</a>
+cry_of_mrrggllrrgg: <a href="https://www.wowhead.com/spell=355057/cry-of-mrrggllrrgg" target="blank">Cry of Mrrggllrrgg</a>
+
+coastwalker_goliath: <a href="https://www.wowhead.com/npc=178165/coastwalker-goliath" target="blank">Coastwalker Goliath</a>
+undertow: <a href="https://www.wowhead.com/spell=355451/undertow" target="blank">Undertow</a>
+
+stormforged_guardian: <a href="https://www.wowhead.com/npc=178171/stormforged-guardian" target="blank">Stormforged Guardian</a>
+charged_pulse: <a href="https://www.wowhead.com/spell=355584/charged-pulse" target="blank">Charged Pulse</a>
+crackle: <a href="https://www.wowhead.com/spell=355577/crackle" target="blank">Crackle</a>
+
+hylbrande: <a href="https://www.wowhead.com/npc=175663/hylbrande" target="blank">Hylbrande</a>
+purged_by_fire: <a href="https://www.wowhead.com/spell=346959/purged-by-fire" target="blank">Purged by Fire</a>
+vault_purifier: <a href="https://www.wowhead.com/npc=176551/vault-purifier" target="blank">Vault Purifiers</a>
+valorous_bolt: <a href="https://www.wowhead.com/spell=352347/valorous-bolt" target="blank">Valorous Bolts</a>
+empowered_defense: <a href="https://www.wowhead.com/spell=346980/empowered-defense" target="blank">Empowered Defense</a>
+
+hourglass_tidesage: <a href="https://www.wowhead.com/npc=179388/hourglass-tidesage" target="blank">Hourglass Tidesage</a>
+brackish_bolt: <a href="https://www.wowhead.com/spell=356843/brackish-bolt" target="blank">Brackish Bolt</a>
+tidal_burst: <a href="https://www.wowhead.com/spell=356260/tidal-burst" target="blank">Tidal Burst</a>
+
+burly_deckhand: <a href="https://www.wowhead.com/npc=180015/burly-deckhand" target="blank">Burly Deckhand</a>
+super_saison: <a href="https://www.wowhead.com/spell=356133/super-saison" target="blank">Super Saison</a>
+haymaker: <a href="https://www.wowhead.com/spell=368662/haymaker" target="blank">Haymaker</a>
+
+timecapn_hooktail: <a href="https://www.wowhead.com/npc=175546/timecapn-hooktail" target="blank">Timecap'n Hooktail</a>
+anchor_shot: <a href="https://www.wowhead.com/spell=352345/anchor-shot" target="blank">Anchor Shot</a>
+infinite_breath: <a href="https://www.wowhead.com/spell=347149/infinite-breath" target="blank">Infinite Breath</a>
+
+devoted_accomplice: <a href="https://www.wowhead.com/npc=180432/devoted-accomplice" target="blank">Devoted Accomplice</a>
+reinvigorate: <a href="https://www.wowhead.com/spell=357284/reinvigorate" target="blank">Reinvigorate</a>
+
+focused_ritualist: <a href="https://www.wowhead.com/npc=180431/focused-ritualist" target="blank">Focused Ritualist</a>
+unstable_rift: <a href="https://www.wowhead.com/spell=357260/unstable-rift" target="blank">Unstable Rift</a>
+
+adorned_starseer: <a href="https://www.wowhead.com/npc=180429/adorned-starseer" target="blank">Adorned Starseer</a>
+drifting_star: <a href="https://www.wowhead.com/spell=357226/drifting-star" target="blank">Drifting Star</a>
+wandering_pulsar: <a href="https://www.wowhead.com/spell=357238/wandering-pulsar" target="blank">Wandering Pulsar</a>
+
+soleah: <a href="https://www.wowhead.com/npc=177269/soleah" target="blank">So'leah</a>
+hyperlight_jolt: <a href="https://www.wowhead.com/spell=350875/hyperlight-jolt" target="blank">Hyperlight Jolt</a>
+collapsing_star: <a href="https://www.wowhead.com/spell=353635/collapsing-star" target="blank">Collapsing Stars</a>

@@ -26,19 +26,18 @@ If you have suggestions to improve the information in this guide please contact 
 # Miscellaneous Tips
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
-- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
+- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.talent.swg }} and instant casts as much as you can for movement heavy encounters.
 
-- Any Single Target orientated fights where you choose to use {{ site.data.legendary.wlr }} please note that using {{ site.data.spell.eq }} on 2 or more targets is **still a net damage gain** despite ignoring your Legendary's effect. So if adds are present for short periods of time and you are not fully committed to single target then using {{ site.data.spell.eq }} for those short periods is preferred. 
+- Any Single Target orientated fights where you choose to use {{ site.data.expansion_feature.sl.legendary.wlr }} please note that using {{ site.data.spell.eq }} on 2 or more targets is **still a net damage gain** despite ignoring your Legendary's effect. So if adds are present for short periods of time and you are not fully committed to single target then using {{ site.data.spell.eq }} for those short periods is preferred.
 
 - Additional Resources:
 	- [Elemental Shaman Sanctum of Domination Logs (WacraftLogs)](https://www.warcraftlogs.com/zone/reports?zone=28&boss=0&difficulty=0&class=Shaman&spec=Elemental&kills=0&keystone0&duration=0&server=0)
 	- [Sanctum of Domination Loot Table (Wowhead)](https://www.wowhead.com/guides/sanctum-of-domination-raid-loot-chains-of-domination-9-1)
-	
+
 
 # Bosses
 <p style="color:red">Click on a boss banner to expand it.</p>
 
-<hr>
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">
@@ -59,7 +58,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-		  
+
 **Recommended Covenants**
 
 * Necrolord with Plague-Deviser Marileth
@@ -67,15 +66,15 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.windspeaker }}
+* {{ site.data.expansion_feature.sl.legendary.windspeaker }}
 
 **Damage:**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as available during [Hungering Mist](https://shadowlands.wowhead.com/spell=347671/hungering-mist). {{ site.data.spell.spiritwalkers_grace }} is available for every other [Hungering Mist](https://shadowlands.wowhead.com/spell=347671/hungering-mist) phase and lasts the full duration. Otherwise, pool Maelstrom and use instant casts while moving to maintain DPS.
+* Use {{ site.data.talent.swg }} as available during [Hungering Mist](https://shadowlands.wowhead.com/spell=347671/hungering-mist). {{ site.data.talent.swg }} is available for every other [Hungering Mist](https://shadowlands.wowhead.com/spell=347671/hungering-mist) phase and lasts the full duration. Otherwise, pool Maelstrom and use instant casts while moving to maintain DPS.
 
 **Defensives:**
 
-* [Grasp of Death](https://shadowlands.wowhead.com/spell=347668/grasp-of-death) is a 40s DoT and is the highest source of non-tank damage. Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for each application of [Grasp of Death](https://shadowlands.wowhead.com/spell=347668/grasp-of-death). {{ site.data.spell.healing_surge }} yourself if absolutely necessary.
+* [Grasp of Death](https://shadowlands.wowhead.com/spell=347668/grasp-of-death) is a 40s DoT and is the highest source of non-tank damage. Rotate {{ site.data.talent.as }} and healing consumables as needed for each application of [Grasp of Death](https://shadowlands.wowhead.com/spell=347668/grasp-of-death). {{ site.data.spell.healing_surge }} yourself if absolutely necessary.
 
 **Utilities:**
 
@@ -91,7 +90,7 @@ If you have suggestions to improve the information in this guide please contact 
 <div data-toggle="collapse" data-target="#eye_of_the_jailer-collapse" aria-expanded="true" aria-controls="eye_of_the_jailer-collapse" class="raid-header sanctum_of_domination2"><h2>Eye of the Jailer</h2></div>
 </div>
 <div id="eye_of_the_jailer-collapse" class="collapse" aria-labelledby="eye_of_the_jailer" data-parent="#accordion">
-<div class="card-body" markdown="1"> 
+<div class="card-body" markdown="1">
 
 **Boss Fight Profile:** Single-Target / Cleave
 
@@ -104,28 +103,28 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
-	
+
 * Necrolord with Plague-Deviser Marileth
 * Night Fae with Dreamweaver or Niya (Note: this is mainly if some players struggle dealing with the style of movement on the fight where {{ site.data.spell.soulshape }} can be useful to them).
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.windspeaker }} - You're typically only dealing damage to one target at a time during the fight.
-* {{ site.data.legendary.dre }} - You can use {{ site.data.spell.fs }} on the Boss to funnel into the eyes and adds and vice versa which suits priority damage well.
-* {{ site.data.legendary.eogs }} - It is possible to deal damage to the Stygian Abductor and the Boss at the same time, this option becomes more viable if [Chaotic Essence](https://www.wowhead.com/spell=372642/fated-power-chaotic-essence) is present.
+* {{ site.data.expansion_feature.sl.legendary.windspeaker }} - You're typically only dealing damage to one target at a time during the fight.
+* {{ site.data.expansion_feature.sl.legendary.dre }} - You can use {{ site.data.spell.fs }} on the Boss to funnel into the eyes and adds and vice versa which suits priority damage well.
+* {{ site.data.expansion_feature.sl.legendary.eogs }} - It is possible to deal damage to the Stygian Abductor and the Boss at the same time, this option becomes more viable if [Chaotic Essence](https://www.wowhead.com/spell=372642/fated-power-chaotic-essence) is present.
 
 **Damage:**
 
 * Maintain {{ site.data.spell.flame_shock }} on as many targets as you can.
 * While the Stygian Abductor is in the air channeling [Dragging Chains](https://shadowlands.wowhead.com/spell=349979/dragging-chains), you can cast {{ site.data.spell.chain_lightning }} off the Eye of the Jailer to damage the Abductor.
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain DPS while avoiding [Annihilating Glare](https://shadowlands.wowhead.com/spell=350763/annihilating-glare). You can also use instant cast abilities while you're airborne after [Grapple!](https://shadowlands.wowhead.com/spell=351401/grapple), so pool Maelstrom and use instant casts while you're in the air to maintain DPS.
+* Use {{ site.data.talent.swg }} to maintain DPS while avoiding [Annihilating Glare](https://shadowlands.wowhead.com/spell=350763/annihilating-glare). You can also use instant cast abilities while you're airborne after [Grapple!](https://shadowlands.wowhead.com/spell=351401/grapple), so pool Maelstrom and use instant casts while you're in the air to maintain DPS.
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} as needed for increasingly high stacks of [Ire](https://shadowlands.wowhead.com/spell=355245/ire) / [Scorn](https://shadowlands.wowhead.com/spell=355240/scorn) and [Titanic Death Gaze](https://shadowlands.wowhead.com/spell=349028/titanic-death-gaze).
-* As you accumulate more stacks of [Immediate Extermination](https://shadowlands.wowhead.com/spell=348969/immediate-extermination), rotate {{ site.data.spell.astral_shift }} as available to mitigate as much damage as you can.
+* Use {{ site.data.talent.as }} as needed for increasingly high stacks of [Ire](https://shadowlands.wowhead.com/spell=355245/ire) / [Scorn](https://shadowlands.wowhead.com/spell=355240/scorn) and [Titanic Death Gaze](https://shadowlands.wowhead.com/spell=349028/titanic-death-gaze).
+* As you accumulate more stacks of [Immediate Extermination](https://shadowlands.wowhead.com/spell=348969/immediate-extermination), rotate {{ site.data.talent.as }} as available to mitigate as much damage as you can.
 
 **Utilities:**
 
@@ -157,24 +156,24 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
-	
+
 **Recommended Covenants**
-	
-* Necrolord with Plague-Deviser Marileth. (Note: as the suggestion is to use {{ site.data.legendary.dre }} you can consider swapping {{ site.data.soulbinds.preemptive_strike }} for {{ site.data.conduit.shake_the_foundations }}).
+
+* Necrolord with Plague-Deviser Marileth. (Note: as the suggestion is to use {{ site.data.expansion_feature.sl.legendary.dre }} you can consider swapping {{ site.data.expansion_feature.sl.soulbinds.preemptive_strike }} for {{ site.data.conduit.shake_the_foundations }}).
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.dre }} - Given the structure of the fight this legendary should replace {{ site.data.legendary.eogs }} as the Phase 1 choice for maximising damage, in addition to {{ site.data.legendary.dre }} being better *on average* than {{ site.data.legendary.eogs }} at the single target portion in Phase 2.
-* {{ site.data.legendary.windspeaker }} - Provides little value in Phase 1 as when two or more targets are present you still cast {{ site.data.spell.eq }}, remains the best legendary choice specifically for Phase 2 however.
+* {{ site.data.expansion_feature.sl.legendary.dre }} - Given the structure of the fight this legendary should replace {{ site.data.expansion_feature.sl.legendary.eogs }} as the Phase 1 choice for maximising damage, in addition to {{ site.data.expansion_feature.sl.legendary.dre }} being better *on average* than {{ site.data.expansion_feature.sl.legendary.eogs }} at the single target portion in Phase 2.
+* {{ site.data.expansion_feature.sl.legendary.windspeaker }} - Provides little value in Phase 1 as when two or more targets are present you still cast {{ site.data.spell.eq }}, remains the best legendary choice specifically for Phase 2 however.
 
 **Damage:**
 
 * Maintain {{ site.data.spell.flame_shock }} on both Kyra and Signe.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to maintain DPS during [Fragments of Destiny](https://shadowlands.wowhead.com/spell=352744/fragments-of-destiny) or any of the [Call of the Val'kyr](https://shadowlands.wowhead.com/spell=350467/call-of-the-valkyr) abilities.
+* Use {{ site.data.talent.swg }} as needed to maintain DPS during [Fragments of Destiny](https://shadowlands.wowhead.com/spell=352744/fragments-of-destiny) or any of the [Call of the Val'kyr](https://shadowlands.wowhead.com/spell=350467/call-of-the-valkyr) abilities.
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }} and healing consumables for [Fragments of Destiny](https://shadowlands.wowhead.com/spell=352744/fragments-of-destiny).
+* Rotate {{ site.data.talent.as }} and healing consumables for [Fragments of Destiny](https://shadowlands.wowhead.com/spell=352744/fragments-of-destiny).
 
 **Utilities:**
 
@@ -205,24 +204,24 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }} or {{ site.data.talent.asc }}
-	
+
 **Recommended Covenants**
 
 * Necrolord with Plague-Deviser Marileth (Note: structure of the fight prefers funnelling into the boss from the orbs when they are shielded, and nuking the orbs when they are not shielded so {{ site.data.conduit.shake_the_foundations }} might not suit this style of play as relatively few {{ site.data.spell.eq }}s will be cast.
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.dre }} - Attempts to take advantage of the multiple orbs that spawn throughout the encounter, this is used to fuel Funnel damage into the boss for the most part.
-* {{ site.data.legendary.ws }} - Reliable Single Target damage that increases available movement globals on a fight where movement is not negligible.
+* {{ site.data.expansion_feature.sl.legendary.dre }} - Attempts to take advantage of the multiple orbs that spawn throughout the encounter, this is used to fuel Funnel damage into the boss for the most part.
+* {{ site.data.expansion_feature.sl.legendary.ws }} - Reliable Single Target damage that increases available movement globals on a fight where movement is not negligible.
 
 **Damage:**
 
-* Maintain {{ site.data.spell.flame_shock }} on [Orbs of Torment](https://shadowlands.wowhead.com/npc=177117/orb-of-torment) to enable funnel damage through {{ site.data.talent.lava_surge }} procs. {{ site.data.legendary.skybreaker }} (if equipped) will heavily capitalize on this despite [Eternal Torment](https://shadowlands.wowhead.com/spell=355790/eternal-torment).
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain DPS while airborne from [Malevolence](https://shadowlands.wowhead.com/spell=350469/malevolence) dispels or for avoiding volleys from [Shatter](https://shadowlands.wowhead.com/spell=351066/shatter). Otherwise, pool Maelstrom and utilize instant casts while you are airborne from [Malevolence](https://shadowlands.wowhead.com/spell=350469/malevolence) dispels.
+* Maintain {{ site.data.spell.flame_shock }} on [Orbs of Torment](https://shadowlands.wowhead.com/npc=177117/orb-of-torment) to enable funnel damage through {{ site.data.talent.lava_surge }} procs. {{ site.data.expansion_feature.sl.legendary.skybreaker }} (if equipped) will heavily capitalize on this despite [Eternal Torment](https://shadowlands.wowhead.com/spell=355790/eternal-torment).
+* Use {{ site.data.talent.swg }} to maintain DPS while airborne from [Malevolence](https://shadowlands.wowhead.com/spell=350469/malevolence) dispels or for avoiding volleys from [Shatter](https://shadowlands.wowhead.com/spell=351066/shatter). Otherwise, pool Maelstrom and utilize instant casts while you are airborne from [Malevolence](https://shadowlands.wowhead.com/spell=350469/malevolence) dispels.
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }} and healing consumables for [Torment](https://shadowlands.wowhead.com/spell=350073/torment), especially if [Torment](https://shadowlands.wowhead.com/spell=350073/torment) overlaps with [Malevolence](https://shadowlands.wowhead.com/spell=350469/malevolence) dispels or if you accumulate multiple [Torment](https://shadowlands.wowhead.com/spell=350073/torment) stacks.
+* Rotate {{ site.data.talent.as }} and healing consumables for [Torment](https://shadowlands.wowhead.com/spell=350073/torment), especially if [Torment](https://shadowlands.wowhead.com/spell=350073/torment) overlaps with [Malevolence](https://shadowlands.wowhead.com/spell=350469/malevolence) dispels or if you accumulate multiple [Torment](https://shadowlands.wowhead.com/spell=350073/torment) stacks.
 
 **Utilities:**
 
@@ -250,27 +249,27 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
-	
-* Night Fae with Korayn for {{ site.data.soulbinds.first_strike }}. (Note: for Mythic difficulty managing the adds is very important, if you find yourself needing to do AoE damage on this fight Night Fae with {{ site.data.legendary.eogs }} remains the best option).
-* Necrolord with Plague-Deviser Marileth. (Note: if you want to play the fight as {{ site.data.legendary.dre }} then this remains the best Covenant option to support it, you should swap {{ site.data.soulbinds.preemptive_strike }} for {{ site.data.conduit.shake_the_foundations }} here).
-* If you intend to play {{ site.data.legendary.ws }} then either of the above choices will produce similar results, with Necrolord relying less on being able to stand still during burst windows to achieve maximum potential.
+
+* Night Fae with Korayn for {{ site.data.expansion_feature.sl.soulbinds.first_strike }}. (Note: for Mythic difficulty managing the adds is very important, if you find yourself needing to do AoE damage on this fight Night Fae with {{ site.data.expansion_feature.sl.legendary.eogs }} remains the best option).
+* Necrolord with Plague-Deviser Marileth. (Note: if you want to play the fight as {{ site.data.expansion_feature.sl.legendary.dre }} then this remains the best Covenant option to support it, you should swap {{ site.data.expansion_feature.sl.soulbinds.preemptive_strike }} for {{ site.data.conduit.shake_the_foundations }} here).
+* If you intend to play {{ site.data.expansion_feature.sl.legendary.ws }} then either of the above choices will produce similar results, with Necrolord relying less on being able to stand still during burst windows to achieve maximum potential.
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }}
-* {{ site.data.legendary.windspeaker }}
-* {{ site.data.legendary.dre }}
+* {{ site.data.expansion_feature.sl.legendary.eogs }}
+* {{ site.data.expansion_feature.sl.legendary.windspeaker }}
+* {{ site.data.expansion_feature.sl.legendary.dre }}
 
 **Damage:**
 
 * Soulrender Dormazain casts [Call Mawsworn](https://shadowlands.wowhead.com/spell=350615/call-mawsworn) two times, each a minute apart, before every [Tormented Eruptions](https://shadowlands.wowhead.com/spell=349985/tormented-eruptions) cast. Consider holding {{ site.data.talent.stormkeeper }} for these add spawns.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to maintain DPS during [Torment](https://shadowlands.wowhead.com/spell=350217/torment) or maneuver [Brand of Torment](https://shadowlands.wowhead.com/spell=350648/brand-of-torment).
+* Use {{ site.data.talent.swg }} as needed to maintain DPS during [Torment](https://shadowlands.wowhead.com/spell=350217/torment) or maneuver [Brand of Torment](https://shadowlands.wowhead.com/spell=350648/brand-of-torment).
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }} and healing consumables for every phase of [Unleashed Tyranny](https://shadowlands.wowhead.com/spell=350801/unleashed-tyranny).
+* Rotate {{ site.data.talent.as }} and healing consumables for every phase of [Unleashed Tyranny](https://shadowlands.wowhead.com/spell=350801/unleashed-tyranny).
 
 **Utilities:**
 
@@ -300,23 +299,23 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
-	
+
 * Necrolord with Plague-Deviser Marileth. (Note: The additional defensive from {{ site.data.spell.fleshcraft }} can be very valuable on higher difficulties).
 * Night Fae with Dreamweaver or Niya. (Note: Some players may find {{ site.data.spell.soulshape }} helps greatly when dealing with [Shadowsteel Chains](https://shadowlands.wowhead.com/spell=355504/shadowsteel-chains) and [Spiked Balls](https://www.wowhead.com/spell=352052/spiked-balls) simultaneously.
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.windspeaker }}
+* {{ site.data.expansion_feature.sl.legendary.windspeaker }}
 
 **Damage:**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to maintain DPS if affected by [Shadowsteel Chains](https://shadowlands.wowhead.com/spell=355504/shadowsteel-chains) or during intermission.
+* Use {{ site.data.talent.swg }} as needed to maintain DPS if affected by [Shadowsteel Chains](https://shadowlands.wowhead.com/spell=355504/shadowsteel-chains) or during intermission.
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for [Flameclasp Eruption](https://shadowlands.wowhead.com/spell=356870/flameclasp-eruption).
+* Rotate {{ site.data.talent.as }} and healing consumables as needed for [Flameclasp Eruption](https://shadowlands.wowhead.com/spell=356870/flameclasp-eruption).
 
 **Utilities:**
 
@@ -344,7 +343,7 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
 
 * Necrolord with Plague-Deviser Marileth.
@@ -352,15 +351,15 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.windspeaker }}
+* {{ site.data.expansion_feature.sl.legendary.windspeaker }}
 
 **Damage:**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain DPS to position [Threat Neutralization](https://shadowlands.wowhead.com/spell=356090/threat-neutralization) or while moving between Energy Cores.
+* Use {{ site.data.talent.swg }} to maintain DPS to position [Threat Neutralization](https://shadowlands.wowhead.com/spell=356090/threat-neutralization) or while moving between Energy Cores.
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for [Purging Protocol](https://shadowlands.wowhead.com/spell=352538/purging-protocol), [Unstable Energy](https://shadowlands.wowhead.com/spell=350455/unstable-energy), or [Meltdown](https://shadowlands.wowhead.com/spell=352589/meltdown).
+* Rotate {{ site.data.talent.as }} and healing consumables as needed for [Purging Protocol](https://shadowlands.wowhead.com/spell=352538/purging-protocol), [Unstable Energy](https://shadowlands.wowhead.com/spell=350455/unstable-energy), or [Meltdown](https://shadowlands.wowhead.com/spell=352589/meltdown).
 
 **Utilities:**
 
@@ -388,24 +387,24 @@ If you have suggestions to improve the information in this guide please contact 
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
 
-* Night Fae with Korayn for {{ site.data.soulbinds.first_strike }}
+* Night Fae with Korayn for {{ site.data.expansion_feature.sl.soulbinds.first_strike }}
 * Necrolord with Plague-Deviser Marileth.
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }}
-* {{ site.data.legendary.ws }}
+* {{ site.data.expansion_feature.sl.legendary.eogs }}
+* {{ site.data.expansion_feature.sl.legendary.ws }}
 
 **Damage:**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain DPS while moving with [Grim Portent](https://shadowlands.wowhead.com/spell=354365/grim-portent) (Mythic), dropping [Call of Eternity](https://shadowlands.wowhead.com/spell=350819/call-of-eternity), or avoiding [Fated Conjunction](https://shadowlands.wowhead.com/spell=350355/fated-conjunction).
+* Use {{ site.data.talent.swg }} to maintain DPS while moving with [Grim Portent](https://shadowlands.wowhead.com/spell=354365/grim-portent) (Mythic), dropping [Call of Eternity](https://shadowlands.wowhead.com/spell=350819/call-of-eternity), or avoiding [Fated Conjunction](https://shadowlands.wowhead.com/spell=350355/fated-conjunction).
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for [Twist Fate](https://shadowlands.wowhead.com/spell=353931/twist-fate), especially if [Twist Fate](https://shadowlands.wowhead.com/spell=353931/twist-fate) overlaps with other mechanics (e.g. [Invoke Destiny](https://shadowlands.wowhead.com/spell=351680/invoke-destiny), [Grim Portent](https://shadowlands.wowhead.com/spell=354365/grim-portent) (Mythic)).
+* Rotate {{ site.data.talent.as }} and healing consumables as needed for [Twist Fate](https://shadowlands.wowhead.com/spell=353931/twist-fate), especially if [Twist Fate](https://shadowlands.wowhead.com/spell=353931/twist-fate) overlaps with other mechanics (e.g. [Invoke Destiny](https://shadowlands.wowhead.com/spell=351680/invoke-destiny), [Grim Portent](https://shadowlands.wowhead.com/spell=354365/grim-portent) (Mythic)).
 
 **Utilities:**
 
@@ -439,24 +438,24 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }}
-* {{ site.data.legendary.windspeaker }}
-* Note on why {{ site.data.legendary.dre }} is not recommended here but may still see use: This fight on higher difficulties requires you to reliably hit DPS checks in all phases, adding RNG choices to this mix may not be the best solution during progress for your group - particularly when the fight structure does not suit the type of damage brought very well. It may still see use simply because people enjoy using it, but having control over your damage is also very important here so make the decision that best suits you, your playstyle, and your group. 
+* {{ site.data.expansion_feature.sl.legendary.eogs }}
+* {{ site.data.expansion_feature.sl.legendary.windspeaker }}
+* Note on why {{ site.data.expansion_feature.sl.legendary.dre }} is not recommended here but may still see use: This fight on higher difficulties requires you to reliably hit DPS checks in all phases, adding RNG choices to this mix may not be the best solution during progress for your group - particularly when the fight structure does not suit the type of damage brought very well. It may still see use simply because people enjoy using it, but having control over your damage is also very important here so make the decision that best suits you, your playstyle, and your group.
 
 There are different ways to approach this fight based on various target priorities in each phase.
 
-If you are not assigned to the Phylactery realm, you may opt for {{ site.data.legendary.eogs }}. Select your talents based on your raid composition needs for priority damage or AoE.
+If you are not assigned to the Phylactery realm, you may opt for {{ site.data.expansion_feature.sl.legendary.eogs }}. Select your talents based on your raid composition needs for priority damage or AoE.
 
-If you are assigned to the Phylactery realm, you may opt for {{ site.data.legendary.windspeaker }} to focus single-target damage on [Remnant of Kel'Thuzad](https://shadowlands.wowhead.com/npc=176929/remnant-of-kelthuzad).
+If you are assigned to the Phylactery realm, you may opt for {{ site.data.expansion_feature.sl.legendary.windspeaker }} to focus single-target damage on [Remnant of Kel'Thuzad](https://shadowlands.wowhead.com/npc=176929/remnant-of-kelthuzad).
 
 **Damage:**
 
 * Maintain {{ site.data.spell.flame_shock }} on any priority targets.
-* Use {{ site.data.spell.spiritwalkers_grace }} as needed to drop [Oblivion's Echo](https://shadowlands.wowhead.com/spell=347291/oblivions-echo) or avoid [Frostbound Devoted](https://shadowlands.wowhead.com/npc=180840/frostbound-devoted) fixating you. If assigned to Phylactery realm, use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid [Shadow Fissure](https://shadowlands.wowhead.com/spell=355136/shadow-fissure).
+* Use {{ site.data.talent.swg }} as needed to drop [Oblivion's Echo](https://shadowlands.wowhead.com/spell=347291/oblivions-echo) or avoid [Frostbound Devoted](https://shadowlands.wowhead.com/npc=180840/frostbound-devoted) fixating you. If assigned to Phylactery realm, use {{ site.data.talent.swg }} as needed to avoid [Shadow Fissure](https://shadowlands.wowhead.com/spell=355136/shadow-fissure).
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for [Frozen Destruction](https://shadowlands.wowhead.com/spell=348744/frozen-destruction).
+* Rotate {{ site.data.talent.as }} and healing consumables as needed for [Frozen Destruction](https://shadowlands.wowhead.com/spell=348744/frozen-destruction).
 
 **Utilities:**
 
@@ -487,24 +486,24 @@ If you are assigned to the Phylactery realm, you may opt for {{ site.data.legend
 * **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
 * **45:** {{ site.data.talent.primal_elementalist }}
 * **50:** {{ site.data.talent.stormkeeper }}
-	
+
 **Recommended Covenants**
 
-* Night Fae with Korayn for {{ site.data.soulbinds.first_strike }}. (Note: this is mostly effective in Phase 1 and Phase 2 to provide very efficient AoE damage whilst maintaining decent damage on Sylvanas herself).
+* Night Fae with Korayn for {{ site.data.expansion_feature.sl.soulbinds.first_strike }}. (Note: this is mostly effective in Phase 1 and Phase 2 to provide very efficient AoE damage whilst maintaining decent damage on Sylvanas herself).
 * Necrolord with Plague-Deviser Marileth.
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.windspeaker }}
-* {{ site.data.legendary.eogs }} (Note: if you are choosing to play Night Fae then this choice compliments it well}
+* {{ site.data.expansion_feature.sl.legendary.windspeaker }}
+* {{ site.data.expansion_feature.sl.legendary.eogs }} (Note: if you are choosing to play Night Fae then this choice compliments it well}
 
 **Damage:**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain DPS while being pulled by [Domination Chains](https://shadowlands.wowhead.com/spell=349458/domination-chains).
+* Use {{ site.data.talent.swg }} to maintain DPS while being pulled by [Domination Chains](https://shadowlands.wowhead.com/spell=349458/domination-chains).
 
 **Defensives:**
 
-* Rotate {{ site.data.spell.astral_shift }} and healing consumables as needed for:
+* Rotate {{ site.data.talent.as }} and healing consumables as needed for:
 	* in P1, P2, & P3: [Shadow Dagger](https://shadowlands.wowhead.com/spell=347670/shadow-dagger), especially if [Shadow Dagger](https://shadowlands.wowhead.com/spell=347670/shadow-dagger) overlaps with other mechanics (e.g. [Barbed Arrow](https://shadowlands.wowhead.com/spell=347807/barbed-arrow) stacks, [Wailing Arrow](https://shadowlands.wowhead.com/spell=347609/wailing-arrow), [Banshee Wail](https://shadowlands.wowhead.com/spell=348109/banshee-wail), [Banshee's Fury](https://shadowlands.wowhead.com/spell=354068/banshees-fury)).
 	* in intermission: [Banshee Wail](https://shadowlands.wowhead.com/spell=348109/banshee-wail).
 

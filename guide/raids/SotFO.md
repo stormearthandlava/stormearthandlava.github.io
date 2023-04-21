@@ -30,7 +30,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
-- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.spell.spiritwalkers_grace }} and instant casts as much as you can for movement heavy encounters.
+- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.talent.swg }} and instant casts as much as you can for movement heavy encounters.
 
 - When talenting {{ site.data.talent.pe }}, always remember that you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.talent.earth_elemental }}.
 
@@ -78,22 +78,22 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:**
 
-* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.soulbinds.first_strike}}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.expansion_feature.sl.soulbinds.first_strike}}
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }}  
-* {{ site.data.legendary.wlr }} If your group is able to kill Adds sufficiently fast in Normal or Heroic difficulty, you may find more value focussing on Single Target.
+* {{ site.data.expansion_feature.sl.legendary.eogs }}  
+* {{ site.data.expansion_feature.sl.legendary.wlr }} If your group is able to kill Adds sufficiently fast in Normal or Heroic difficulty, you may find more value focussing on Single Target.
 
 **Damage**
 
 * Maintain {{ site.data.spell.flame_shock }} on multiple targets
-* Use {{ site.data.talent.stormkeeper }} when [Volatile Materium](https://ptr.wowhead.com/npc=181859/volatile-materium) are spawning, consider having a {{ site.data.legendary.eogs }} buff active!
-* Use {{ site.data.spell.spiritwalkers_grace }} to help reposition before [Exposed Core!](https://ptr.wowhead.com/spell=360412/exposed-core)
+* Use {{ site.data.talent.stormkeeper }} when [Volatile Materium](https://ptr.wowhead.com/npc=181859/volatile-materium) are spawning, consider having a {{ site.data.expansion_feature.sl.legendary.eogs }} buff active!
+* Use {{ site.data.talent.swg }} to help reposition before [Exposed Core!](https://ptr.wowhead.com/spell=360412/exposed-core)
 
 **Defensives:**
 
-* Use cooldowns as necessary throughout the fight, ensuring at least {{ site.data.spell.astral_shift }} is available for [Core Overload](https://ptr.wowhead.com/spell=364962/core-overload) once the boss reaches 15%.
+* Use cooldowns as necessary throughout the fight, ensuring at least {{ site.data.talent.as }} is available for [Core Overload](https://ptr.wowhead.com/spell=364962/core-overload) once the boss reaches 15%.
 * If required, consider using {{ site.data.talent.ee }} with {{ site.data.spell.harden_skin }}. This may feel worse with an active 4-piece bonus but **dying is worse**.
 * Depending on your group composition and positioning your group may not need {{ site.data.talent.wrt }}, in which case take {{ site.data.talent.natures_guardian }}.
 
@@ -148,16 +148,16 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.wlr }}
+* {{ site.data.expansion_feature.sl.legendary.wlr }}
 
 **Damage**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime while avoiding [Retch](https://ptr.wowhead.com/spell=360448/retch) or when repositioning for [Ravening Burrow](https://ptr.wowhead.com/spell=359770/ravening-burrow)
+* Use {{ site.data.talent.swg }} to maintain uptime while avoiding [Retch](https://ptr.wowhead.com/spell=360448/retch) or when repositioning for [Ravening Burrow](https://ptr.wowhead.com/spell=359770/ravening-burrow)
 * You can continue using instant-cast abilities whilst airborne from [Ravening Burrow!](https://ptr.wowhead.com/spell=359770/ravening-burrow)
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} and healing consumables as required to deal with additional stacks of [Ephemera Dust](https://ptr.wowhead.com/spell=359778/ephemera-dust).
+* Use {{ site.data.talent.as }} and healing consumables as required to deal with additional stacks of [Ephemera Dust](https://ptr.wowhead.com/spell=359778/ephemera-dust).
 * Consider using {{ site.data.talent.ee }} as an additional defensive with {{ site.data.talent.icefury }} talented, or as required if using {{ site.data.talent.pe }} talented when 4-piece is active.
 
 **Utilities:**
@@ -203,22 +203,22 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:**   
 
-* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.soulbinds.first_strike}}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.expansion_feature.sl.soulbinds.first_strike}}
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }}
-* {{ site.data.legendary.wlr }}
+* {{ site.data.expansion_feature.sl.legendary.eogs }}
+* {{ site.data.expansion_feature.sl.legendary.wlr }}
 
 **Damage**
 
 * Focus down [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) as fast as possible to prevent [Hyperlight Ascension](https://ptr.wowhead.com/spell=364040/hyperlight-ascension)
-* Use {{ site.data.talent.sk }} when [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger) are spawning, consider having a {{ site.data.legendary.eogs }} buff active!
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with [Genesis Rings!](https://ptr.wowhead.com/spell=363413/genesis-rings)
+* Use {{ site.data.talent.sk }} when [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger) are spawning, consider having a {{ site.data.expansion_feature.sl.legendary.eogs }} buff active!
+* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Genesis Rings!](https://ptr.wowhead.com/spell=363413/genesis-rings)
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} as needed when [Gylph of Relocation](https://ptr.wowhead.com/spell=362801/glyph-of-relocation) is about to explode
+* Use {{ site.data.talent.as }} as needed when [Gylph of Relocation](https://ptr.wowhead.com/spell=362801/glyph-of-relocation) is about to explode
 * Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
 
 **Utilities:**
@@ -275,7 +275,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.wlr }}       
+* {{ site.data.expansion_feature.sl.legendary.wlr }}       
 
 **Damage**
 
@@ -284,12 +284,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
        - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core), focus single-target damage into Dausegne
        - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core), use {{ site.data.spell.eq }} instead of {{ site.data.spell.es }} and focus either [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core) or Dausegne
        - Recommendation? Be sensible. For progression purposes it is important that [Domination Cores](https://ptr.wowhead.com/npc=181244/domination-core) die quickly because of [Encroaching Dominion](https://ptr.wowhead.com/spell=361214/encroaching-dominion) pools they spawn every 6 seconds whilst still alive, every group is different so your needs may vary but the priority should be to do what is necessary to kill the [Domination Cores](https://ptr.wowhead.com/npc=181244/domination-core) quickly and efficiently.  
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo)
+* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo)
 * Pool resources when Dausegne is about to cast [Siphon Reservoir!](https://ptr.wowhead.com/spell=361643/siphon-reservoir)       
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} as needed when [Staggering Barrage](https://ptr.wowhead.com/spell=360959/staggering-barrage), [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) or [Inevitable Dominion](https://ptr.wowhead.com/spell=361722/inevitable-dominion) happen
+* Use {{ site.data.talent.as }} as needed when [Staggering Barrage](https://ptr.wowhead.com/spell=360959/staggering-barrage), [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) or [Inevitable Dominion](https://ptr.wowhead.com/spell=361722/inevitable-dominion) happen
 * Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
 * {{ site.data.spell.soulshape }} is useful for dealing with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) overlaps when playing as Night Fae
 
@@ -337,22 +337,22 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:**   
 
-* Necrolord with Plague Deviser Marileth, {{ site.data.soulbinds.preemptive_strike }} is very effective for focusing Necrotic Ritualists
+* Necrolord with Plague Deviser Marileth, {{ site.data.expansion_feature.sl.soulbinds.preemptive_strike }} is very effective for focusing Necrotic Ritualists
 * Night Fae with Dreamweaver
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }}
-* {{ site.data.legendary.dre }}
+* {{ site.data.expansion_feature.sl.legendary.eogs }}
+* {{ site.data.expansion_feature.sl.legendary.dre }}
 
 **Damage**
 
 * Focusing [Necrotic Rituatlists](https://ptr.wowhead.com/spell=360295/necrotic-ritual#used-by-npc) is very important, maintain {{ site.data.spell.flame_shock }} on as many targets whilst focusing one [Necrotic Ritualist](https://ptr.wowhead.com/spell=360295/necrotic-ritual#used-by-npc) down (consider positioning for this purpose)
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings) and [Hand of Destruction](https://ptr.wowhead.com/spell=361788/hand-of-destruction)
+* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings) and [Hand of Destruction](https://ptr.wowhead.com/spell=361788/hand-of-destruction)
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} (and {{ site.data.spell.fleshcraft }} if Necrolord) as needed for [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings)
+* Use {{ site.data.talent.as }} (and {{ site.data.spell.fleshcraft }} if Necrolord) as needed for [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings)
 * Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
 
 **Utilities:**
@@ -399,23 +399,23 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:**   
 
-* Night Fae with Korayn for {{site.data.soulbinds.first_strike}}
+* Night Fae with Korayn for {{site.data.expansion_feature.sl.soulbinds.first_strike}}
 * Necrolord with Plague-Deviser Marileth
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.wlr }}
-* {{ site.data.legendary.eogs }}
+* {{ site.data.expansion_feature.sl.legendary.wlr }}
+* {{ site.data.expansion_feature.sl.legendary.eogs }}
 
 **Damage**
 
 * Pool resources when Lihuvim is close to 100 energy to prepare for [Synthesize](https://ptr.wowhead.com/spell=363130/synthesize)
 * Focusing down [Degeneration Automa](https://ptr.wowhead.com/npc=182053/degeneration-automa), [Acquisitions Automa](https://ptr.wowhead.com/npc=184737/acquisitions-automa), [Guardian Automa](https://ptr.wowhead.com/npc=184738/guardian-automa), [Defense Matrix Automa](https://ptr.wowhead.com/npc=184126/defense-matrix-automa) is the highest priority when they are active
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with [Manifest Mote](https://ptr.wowhead.com/spell=362624/manifest-mote) and [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
+* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Manifest Mote](https://ptr.wowhead.com/spell=362624/manifest-mote) and [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} as needed for [Cosmic Shift](https://ptr.wowhead.com/spell=363088/cosmic-shift) or [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
+* Use {{ site.data.talent.as }} as needed for [Cosmic Shift](https://ptr.wowhead.com/spell=363088/cosmic-shift) or [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
 * Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
 
 **Utilities:**
@@ -461,21 +461,21 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:**   
 
-* Night Fae with Dreamweaver (consider Niya if you would otherwise have poor {{ site.data.soulbinds.field_of_blossom }} uptime and/or delay {{ site.data.spell.fae_transfusion }} in order to facilitate uptime)
+* Night Fae with Dreamweaver (consider Niya if you would otherwise have poor {{ site.data.expansion_feature.sl.soulbinds.field_of_blossom }} uptime and/or delay {{ site.data.spell.fae_transfusion }} in order to facilitate uptime)
 * Necrolord with Plague Deviser Marileth (less reliant on static positioning, additional defensive never hurts!)
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.wlr }}
+* {{ site.data.expansion_feature.sl.legendary.wlr }}
 
 **Damage**
 
 * Make use of Elemental's frequent instant cast abilities to deal with movement caused by [Earthbreaker Missiles](https://www.wowhead.com/spell=361676/earthbreaker-missiles) and [Aftershock](https://www.wowhead.com/spell=362025/aftershock)
-* {{ site.data.spell.spiritwalkers_grace }} is important to use during Intermissions, and if time allows, during Phase 3.
+* {{ site.data.talent.swg }} is important to use during Intermissions, and if time allows, during Phase 3.
 
 **Defensives:**
 
-* Using {{ site.data.spell.astral_shift }} during [Reclaim](https://www.wowhead.com/spell=360115/reclaim), and during Phase 3.
+* Using {{ site.data.talent.as }} during [Reclaim](https://www.wowhead.com/spell=360115/reclaim), and during Phase 3.
 * {{ site.data.talent.earth_shield }} does a lot of healing on this fight, and is no issue to recast due to movement required in all phases.
 
 **Utilities:**
@@ -526,16 +526,16 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.eogs }}
+* {{ site.data.expansion_feature.sl.legendary.eogs }}
 
 **Damage**
 
-* Use {{ site.data.spell.spiritwalkers_grace }} to maintain uptime whilst dealing with [Blasphemy](https://ptr.wowhead.com/spell=361989/blasphemy)
+* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Blasphemy](https://ptr.wowhead.com/spell=361989/blasphemy)
 * Pool resources, including {{ site.data.talent.sk }}, for the Intermission phase       
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} as needed for [Befouled Barrier](https://ptr.wowhead.com/spell=365293/befouled-barrier) or [Hopebreaker](https://ptr.wowhead.com/spell=361815/hopebreaker)
+* Use {{ site.data.talent.as }} as needed for [Befouled Barrier](https://ptr.wowhead.com/spell=365293/befouled-barrier) or [Hopebreaker](https://ptr.wowhead.com/spell=361815/hopebreaker)
 
 **Utilities:**
 
@@ -589,18 +589,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.dre }} despite the RNG nature of this Legendary effect it plays well into the low target counts offered by the fight so on average should provide the most value
-* {{ site.data.legendary.eogs }} You may consider this if you dislike the RNG nature of {{ site.data.legendary.dre }}
+* {{ site.data.expansion_feature.sl.legendary.dre }} despite the RNG nature of this Legendary effect it plays well into the low target counts offered by the fight so on average should provide the most value
+* {{ site.data.expansion_feature.sl.legendary.eogs }} You may consider this if you dislike the RNG nature of {{ site.data.expansion_feature.sl.legendary.dre }}
 
 **Damage**
 
 * Maintain {{ site.data.spell.fs }} on both bosses.
-* Prepare for [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) when Malganis is nearing 100 Energy by getting an {{ site.data.legendary.eogs }} buff active if it is equipped
+* Prepare for [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) when Malganis is nearing 100 Energy by getting an {{ site.data.expansion_feature.sl.legendary.eogs }} buff active if it is equipped
 * All damage is now increased by [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness) meaning no special rules apply to how you would use abilities in this phase, normal 2 target priority is used (3 targets when [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) is gripped in)
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} during [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness), it should not be necessary to use defensives to deal with [Cloud of Carrion](https://www.wowhead.com/spell=360006/cloud-of-carrion) if stacks are spread appropriately
+* Use {{ site.data.talent.as }} during [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness), it should not be necessary to use defensives to deal with [Cloud of Carrion](https://www.wowhead.com/spell=360006/cloud-of-carrion) if stacks are spread appropriately
 
 **Utilities:**
 
@@ -646,12 +646,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Recommended Covenant:**   
 
 * Necrolord with Plague-Deviser Marileth
-* Night Fae with Dreamweaver or Korayn for {{ site.data.soulbinds.first_strike }}
+* Night Fae with Dreamweaver or Korayn for {{ site.data.expansion_feature.sl.soulbinds.first_strike }}
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.wlr }}
-* {{ site.data.legendary.dre }}
+* {{ site.data.expansion_feature.sl.legendary.wlr }}
+* {{ site.data.expansion_feature.sl.legendary.dre }}
 
 **Damage**
 
@@ -660,7 +660,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} as needed with [Dark Eclipse](https://www.wowhead.com/spell=361548/dark-eclipse), ideally use it before stepping into a [Collapsing Quasar Field](https://www.wowhead.com/spell=361462/collapsing-quasar-field) so it also covers the [Dark Collapse](https://www.wowhead.com/spell=361463/dark-collapse). Don't forget you need to move **out** of the raid before this goes off!
+* Use {{ site.data.talent.as }} as needed with [Dark Eclipse](https://www.wowhead.com/spell=361548/dark-eclipse), ideally use it before stepping into a [Collapsing Quasar Field](https://www.wowhead.com/spell=361462/collapsing-quasar-field) so it also covers the [Dark Collapse](https://www.wowhead.com/spell=361463/dark-collapse). Don't forget you need to move **out** of the raid before this goes off!
 
 
 **Utilities:**
@@ -705,12 +705,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:**   
 
-* Night Fae with Dreamweaver (consider Niya if you would otherwise have poor {{ site.data.soulbinds.field_of_blossom }} uptime and/or delay {{ site.data.spell.fae_transfusion }} in order to facilitate uptime)
+* Night Fae with Dreamweaver (consider Niya if you would otherwise have poor {{ site.data.expansion_feature.sl.soulbinds.field_of_blossom }} uptime and/or delay {{ site.data.spell.fae_transfusion }} in order to facilitate uptime)
 * Necrolord with Plague-Deviser Marileth
 
 **Recommended Legendaries:**
 
-* {{ site.data.legendary.wlr }}
+* {{ site.data.expansion_feature.sl.legendary.wlr }}
 
 **Damage**
 
@@ -718,7 +718,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Use {{ site.data.spell.astral_shift }} as needed for soaking [Martyrdom's](https://www.wowhead.com/spell=363893/martyrdom) final blow with your tank or [Desolation](https://www.wowhead.com/spell=365033/desolation)
+* Use {{ site.data.talent.as }} as needed for soaking [Martyrdom's](https://www.wowhead.com/spell=363893/martyrdom) final blow with your tank or [Desolation](https://www.wowhead.com/spell=365033/desolation)
 
 **Utilities:**
 
