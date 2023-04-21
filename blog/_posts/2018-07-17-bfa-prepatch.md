@@ -50,7 +50,7 @@ menu. The following list doesn't follow any particular order.
 
 ## New
 - {{ site.data.talent.tremor_totem }} is back
-- {{ site.data.talent.ee }}
+- {{ site.data.talent.exposed_elements }}
 - {{ site.data.talent.mote }}
 - {{ site.data.talent.spirit_wolf }}
 - {{ site.data.talent.earth_shield }}
