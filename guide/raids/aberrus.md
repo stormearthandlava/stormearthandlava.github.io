@@ -4,8 +4,8 @@ title: "Aberrus, The Shadowed Crucible Guide"
 last_update: 21/04/2023
 game_version: 10.1.0 Dragonflight
 author: Sheffy, Elivrio
-toc: false
-big_article: false
+toc: true
+big_article: true
 ---
 
 # Introduction
@@ -38,9 +38,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 - Recall that {{ site.data.externals.stampeding_roar }} is now more potent than {{ site.data.talent.wind_rush_totem }}. Depending on your raid comp, it may be better to spend that talent point somewhere else.
 
-- Additional Resources:
-  - [Warcraft Logs](https://www.warcraftlogs.com/)
-  - [Vault of the Incarnates Loot Overview](https://www.wowhead.com/guide/raids/vault-of-the-incarnates/overview#loot)
+- Remember to buy {{ site.data.externals.gateway_control_shard }} in Valdrakken. It will allow you to use {{ site.data.externals.demonic_gateway }} easily.
 
 <hr>
 
@@ -57,40 +55,84 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="kazzara-collapse" class="collapse" aria-labelledby="kazzara" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-#### Boss Fight Profile: Single Target
+## Boss Fight Profile: Single Target
 
-## Talents
+### Talents
 
-### (T29/T30 2-piece):
-BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFASSCBC
+#### T29/T30 2-piece:
 
-### (T30 4-piece):
-BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFASSCBC
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
+
+#### T30 4-piece:
+
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
 
 <hr>
 
-#### Damage
-• There are no phases / add spawns that require you to plan your cooldowns around.
-• Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.hellbeam }}, {{ site.data.raid.aberrus.dread_rift }} and {{ site.data.raid.aberrus.rays_of_anguish }}.
+## Fight Breakdown:
 
-#### Defensives
-• Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.infernal_fusion }} (Mythic-only) and {{ site.data.raid.aberrus.dread_rift }} especially in later stages of the fight when {{ site.data.raid.aberrus.infernal_heart }} becomes more potent.
-• If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
-• Use {{ site.data.spell.healing_surge }} if necessary.
+#### Damage:
+* There are no phases / add spawns that require you to plan your cooldowns around.
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.hellbeam }}, {{ site.data.raid.aberrus.dread_rift }} and {{ site.data.raid.aberrus.rays_of_anguish }}.
 
-#### Utilities
-• Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by {{ site.data.raid.aberrus.rays_of_anguish }}.
+#### Defensives:
+* Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.infernal_fusion }} (Mythic-only) and {{ site.data.raid.aberrus.dread_rift }}, especially in later stages of the fight when {{ site.data.raid.aberrus.infernal_heart }} becomes more potent.
+* If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.healing_surge }} if necessary.
+
+#### Utilities:
+* Use {{ site.data.talent.wrt }} to help players that are targeted by {{ site.data.raid.aberrus.rays_of_anguish }} repositioning.
 
 </div>
 </div>
 </div>
 
 <div class="card">
-<div class="card-header" id="the_amalgation_chamber">
-<div data-toggle="collapse" data-target="#the_amalgation_chamber-collapse" aria-expanded="true" aria-controls="the_amalgation_chamber-collapse" class="raid-header aberrus_the_shadowed_crucible2"><h2>The Amalgamation Chamber</h2></div>
+<div class="card-header" id="the_amalgamation_chamber">
+<div data-toggle="collapse" data-target="#the_amalgamation_chamber-collapse" aria-expanded="true" aria-controls="the_amalgamation_chamber-collapse" class="raid-header aberrus_the_shadowed_crucible2"><h2>The Amalgamation Chamber</h2></div>
 </div>
-<div id="the_amalgation_chamber-collapse" class="collapse" aria-labelledby="the_amalgation_chamber" data-parent="#accordion">
+<div id="the_amalgamation_chamber-collapse" class="collapse" aria-labelledby="the_amalgamation_chamber" data-parent="#accordion">
 <div class="card-body" markdown="1">
+
+## Boss Fight Profile: Single Target / Spread Cleave
+
+### Talents:
+
+#### T29/T30 2-piece:
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
+
+#### T30 4-piece:
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
+
+<hr>
+
+## Fight Breakdown
+
+#### Damage:
+* Keep {{ site.data.spell.fs }} up on both {{ site.data.raid.aberrus.essence_of_shadow }} and {{ site.data.raid.aberrus.eternal_blaze }} during Phase 1 as long as you don't accumulate too many stacks of {{ site.data.raid.aberrus.corrupting_shadow }} and {{ site.data.raid.aberrus.blazing_heat }}.
+* Ensure to have {{ site.data.talent.fe }} / {{ site.data.talent.se }} ready for Phase 2.
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.umbral_detonation }}, {{ site.data.raid.aberrus.blistering_twilight }} and {{ site.data.raid.aberrus.coalescing_void }}.
+
+#### Defensives:
+* Use {{ site.data.talent.as }} or healing consumables whenever you accumulate high stacks of {{ site.data.raid.aberrus.corrupting_shadow }}, {{ site.data.raid.aberrus.blazing_heat }} or {{ site.data.raid.aberrus.shadowflame_contamination }}, especially when affected by {{ site.data.raid.aberrus.lingering_shadows }} (Mythic-only) or {{ site.data.raid.aberrus.lingering_flames }} (Mythic-only).
+* If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.healing_surge }} if necessary.
+
+#### Utilities:
+* Use {{ site.data.talent.wrt }} to help players that are targeted by {{ site.data.raid.aberrus.blistering_twilight }} during Phase 1.
+* If available, use {{ site.data.externals.demonic_gateway }} and {{ site.data.talent.wrt }} to deal with {{ site.data.raid.aberrus.coalescing_void }} during Phase 2.
 
 </div>
 </div>
@@ -175,41 +217,28 @@ BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFASSCBC
 </div>
 </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-**Boss Fight Profile:** Single-Target with AoE
-
-**Talents:**
-<div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAoEQSJJgASLJppECCJRgA?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
 </div>
 
-**Damage:**
+<br>
 
-* Maintain {{ site.data.spell.flame_shock }} on multiple targets.
-* Use {{ site.data.talent.stormkeeper }} when [Flamescale Tarasek](https://www.wowhead.com/npc=187638/flamescale-tarasek) are spawning, consider having a {{ site.data.talent.sop }} buff active!
-* Prioritize killing [Flamescale Captain](https://www.wowhead.com/npc=199233/flamescale-captain) (Mythic) during Phase 1 and [Primal Flame](https://www.wowhead.com/npc=195584/primal-flame) during Phase 2.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with [Flamerift](https://www.wowhead.com/spell=390715/flamerift).
+<hr>
 
-**Defensives:**
+# Useful WeakAuras
 
-* Use {{ site.data.talent.as }} and healing consumables as required whenever you accumulate more stacks of [Incinerating Roar](https://www.wowhead.com/spell=396023/incinerating-roar).
-* Use {{ site.data.spell.healing_surge }} if necessary.
+* [Dragonflight Season 1 Dungeons Pack](https://wago.io/DF-Dungeons) by Jodsderechte
+* [Thundering Helper](https://wago.io/thunder) by Ellesmere
+* [Quaking Helper](https://wago.io/QuakeInterrupt) by JackTheEgg
+* [Mythic+ Auto Marker](https://wago.io/1ctv3b91K) by Megawatt
+* [Mythic+ Timer](https://wago.io/M+Timer) by Reloe
 
-**Utilities:**
 
-* Use {{ site.data.spell.wind_shear }} to interrupt [Pyroblast](https://www.wowhead.com/spell=396040/pyroblast) from [Flamescale Captain](https://www.wowhead.com/npc=199233/flamescale-captain) (Mythic).
-* Use {{ site.data.talent.thunderstorm }} if necessary to keep distance when chased by [Kill Order](https://www.wowhead.com/spell=370597/kill-order) from [Flamescale Tarasek](https://www.wowhead.com/npc=187638/flamescale-tarasek).
-* Use {{ site.data.talent.capacitor_totem }} and {{ site.data.spell.earthbind_totem }} to keep [Flamescale Tarasek](https://www.wowhead.com/npc=187638/flamescale-tarasek) stacked as soon as they spawn.
 
-**PTR PoVs:**
+<hr>
 
-* Amani: [Heroic](https://youtu.be/qnvqqgGroso) \| [Mythic](https://youtu.be/pxqXqAcuatE)
+# Additional Resources
+
+* [Wowhead Elemental Shaman Mythic+ Guide](https://www.wowhead.com/guide/classes/shaman/elemental/aberrus-the-shadowed-crucible-raid-tips) by HawkCorrigan
+* [Icy-Veins Elemental Shaman Mythic+ Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-aberrus-the-shadowed-crucible-raid-guide) by Stormy
+- [Warcraft Logs](https://www.warcraftlogs.com/)
+- [Aberrus, The Shadowed Crucible Loot Overview](https://www.wowhead.com/guide/raids/aberrus-the-shadowed-crucible/overview#loot)
