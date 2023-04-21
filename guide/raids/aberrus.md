@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Aberrus, The Shadowed Crucible Guide"
+title: "Aberrus, the Shadowed Crucible Guide"
 last_update: 21/04/2023
 game_version: 10.1.0 Dragonflight
 author: Sheffy, Elivrio
@@ -426,4 +426,4 @@ Soon TM
 * [Wowhead Elemental Shaman Aberrus Guide](https://www.wowhead.com/guide/classes/shaman/elemental/aberrus-the-shadowed-crucible-raid-tips) by HawkCorrigan
 * [Icy-Veins Elemental Shaman Aberrus Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-aberrus-the-shadowed-crucible-raid-guide) by Stormy
 - [Warcraft Logs](https://www.warcraftlogs.com/)
-- [Aberrus, The Shadowed Crucible Loot Overview](https://www.wowhead.com/guide/raids/aberrus-the-shadowed-crucible/overview#loot)
+- [Aberrus, the Shadowed Crucible Loot Overview](https://www.wowhead.com/guide/raids/aberrus-the-shadowed-crucible/overview#loot)
