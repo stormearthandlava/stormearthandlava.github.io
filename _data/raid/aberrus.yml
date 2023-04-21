@@ -56,28 +56,27 @@ overcharged: <a href="https://www.wowhead.com/ptr/spell=405827/overcharged" targ
 scorching_heatwave: <a href="https://www.wowhead.com/ptr/spell=404448/scorching-heatwave" target="blank">Scorching Heatwave</a>
 searing_slam: <a href="https://www.wowhead.com/ptr/spell=405819/searing-slam" target="blank">Searing Slam</a>
 
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#zskarn
+blast_wave: <a href="https://www.wowhead.com/ptr/spell=403978/blast-wave" target="blank">Blast Wave</a>
+dragonfire_golem: <a href="https://www.wowhead.com/ptr/npc=203230/dragonfire-golem" target="blank">Dragonfire Golems</a>
+elimination_protocol: <a href="https://www.wowhead.com/ptr/spell=409942/elimination-protocol" target="blank">Elimination Protocol</a>
+tactical_destruction: <a href="https://www.wowhead.com/ptr/spell=406207/tactical-destruction" target="blank">Tactical Destruction</a>
+unstable_embers: <a href="https://www.wowhead.com/ptr/spell=404404/unstable-embers" target="blank">Unstable Embers</a>
+
+# Magmorax
+blazing_breath: <a href="https://www.wowhead.com/ptr/spell=409093/blazing-breath" target="blank">Blazing Breath</a>
+igniting_roar: <a href="https://www.wowhead.com/ptr/spell=403747/igniting-roar" target="blank">Igniting Roar</a>
+molten_spittle: <a href="https://www.wowhead.com/ptr/spell=402989/molten-spittle" target="blank">Molten Spittle</a>
+overpowering_stomp: <a href="https://www.wowhead.com/ptr/spell=403671/overpowering-stomp" target="blank">Overpowering Stomp</a>
+searing_heat: <a href="https://www.wowhead.com/ptr/spell=408839/searing-heat" target="blank">Searing Heat</a>
+
+# Echo of Neltharion
+rushing_darkness: <a href="https://www.wowhead.com/ptr/spell=407220/rushing-darkness" target="blank">Rushing Darkness</a>
+surrender_to_corruption: <a href="https://www.wowhead.com/ptr/spell=407048/surrender-to-corruption" target="blank">Surrender to Corruption</a>
+twisted_aberration: <a href="https://www.wowhead.com/ptr/npc=202814/twisted-aberration" target="blank">Twisted Aberrations</a>
+umbral_annihilation: <a href="https://www.wowhead.com/ptr/spell=405434/umbral-annihilation" target="blank">Umbral Annihilation</a>
+voice_from_beyond: <a href="https://www.wowhead.com/ptr/npc=203812/voice-from-beyond" target="blank">Voices From Beyond</a>
+volcanic_heart: <a href="https://www.wowhead.com/ptr/spell=410953/volcanic-heart" target="blank">Volcanic Heart</a>
+
+# Sarkareth
 SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>

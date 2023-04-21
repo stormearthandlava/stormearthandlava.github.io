@@ -295,16 +295,16 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-* Ensure to have {{ site.data.talent.sk }} ready and preferably prepare an {{ site.data.talent.eogs }} buff when [Dragonfire Golems](https://www.wowhead.com/ptr/npc=203230/dragonfire-golem) are about to spawn.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with [Blast Wave](https://www.wowhead.com/ptr/spell=403978/blast-wave) or [Tactical Destruction](https://www.wowhead.com/ptr/spell=406207/tactical-destruction).
+* Ensure to have {{ site.data.talent.sk }} ready and preferably prepare an {{ site.data.talent.eogs }} buff when {{ site.data.raid.aberrus.dragonfire_golem }} are about to spawn.
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.blast_wave }} or {{ site.data.raid.aberrus.tactical_destruction }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for overlaps of [Blast Wave](https://www.wowhead.com/ptr/spell=403978/blast-wave) and [Unstable Embers](https://www.wowhead.com/ptr/spell=404404/unstable-embers) or whenever targeted by [Elimination Protocol](https://www.wowhead.com/ptr/spell=409942/elimination-protocol) (Mythic-only).
+* Use {{ site.data.talent.as }} or healing consumables for overlaps of {{ site.data.raid.aberrus.blast_wave }} and {{ site.data.raid.aberrus.unstable_embers }} or whenever targeted by {{ site.data.raid.aberrus.elimination_protocol }} (Mythic-only).
 * If talented, use {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players repositioning during [Tactical Destruction](https://www.wowhead.com/ptr/spell=406207/tactical-destruction).
+* Use {{ site.data.talent.wrt }} to help players repositioning during {{ site.data.raid.aberrus.tactical_destruction }}.
 </div>
 </div>
 </div>
@@ -338,15 +338,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * There are no phases / add spawns that require you to plan your cooldowns around.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with [Blazing Breath](https://www.wowhead.com/ptr/spell=409093/blazing-breath), [Molten Spittle](https://www.wowhead.com/ptr/spell=402989/molten-spittle) and [Overpowering Stomp](https://www.wowhead.com/ptr/spell=403671/overpowering-stomp).
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.blazing_breath }}, {{ site.data.raid.aberrus.molten_spittle }} and {{ site.data.raid.aberrus.overpowering_stomp }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for whenever you accumulate high stacks of [Searing Heat](https://www.wowhead.com/ptr/spell=408839/searing-heat) but especially for overlaps with [Igniting Roar](https://www.wowhead.com/ptr/spell=403747/igniting-roar).
+* Use {{ site.data.talent.as }} or healing consumables for whenever you accumulate high stacks of {{ site.data.raid.aberrus.searing_heat }} but especially for overlaps with {{ site.data.raid.aberrus.igniting_roar }}.
 * If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by [Molten Spittle](https://www.wowhead.com/ptr/spell=402989/molten-spittle).
+* Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by {{ site.data.raid.aberrus.molten_spittle }}.
 
 </div>
 </div>
@@ -380,17 +380,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-* Use {{ site.data.talent.sk }} and  {{ site.data.talent.fe }} / {{ site.data.talent.se }} to burst down [Voices From Beyond](https://www.wowhead.com/ptr/npc=203812/voice-from-beyond).
-* Prepare an {{ site.data.talent.eogs }} buff when [Twisted Aberrations](https://www.wowhead.com/ptr/npc=202814/twisted-aberration) are about to spawn.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with [Rushing Darkness](https://www.wowhead.com/ptr/spell=407220/rushing-darkness) and [Volcanic Heart](https://www.wowhead.com/ptr/spell=410953/volcanic-heart) (Mythic-only).
+* Use {{ site.data.talent.sk }} and  {{ site.data.talent.fe }} / {{ site.data.talent.se }} to burst down {{ site.data.raid.aberrus.voice_from_beyond }}.
+* Prepare an {{ site.data.talent.eogs }} buff when {{ site.data.raid.aberrus.twisted_aberration }} are about to spawn.
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.rushing_darkness }} and {{ site.data.raid.aberrus.volcanic_heart }} (Mythic-only).
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for [Surrender to Corruption](https://www.wowhead.com/ptr/spell=407048/surrender-to-corruption), high stacks of [Umbral Annihilation](https://www.wowhead.com/ptr/spell=405434/umbral-annihilation) and whenever targeted by [Volcanic Heart](https://www.wowhead.com/ptr/spell=410953/volcanic-heart) (Mythic-only).
+* Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.surrender_to_corruption }}, high stacks of {{ site.data.raid.aberrus.umbral_annihilation }} and whenever targeted by {{ site.data.raid.aberrus.volcanic_heart }} (Mythic-only).
 * If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by either [Rushing Darkness](https://www.wowhead.com/ptr/spell=407220/rushing-darkness) or [Volcanic Heart](https://www.wowhead.com/ptr/spell=410953/volcanic-heart) (Mythic-only).
+* Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by either {{ site.data.raid.aberrus.rushing_darkness }} or {{ site.data.raid.aberrus.volcanic_heart }} (Mythic-only).
+
 </div>
 </div>
 </div>
@@ -422,7 +423,7 @@ Soon TM
 
 # Additional Resources
 
-* [Wowhead Elemental Shaman Mythic+ Guide](https://www.wowhead.com/guide/classes/shaman/elemental/aberrus-the-shadowed-crucible-raid-tips) by HawkCorrigan
-* [Icy-Veins Elemental Shaman Mythic+ Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-aberrus-the-shadowed-crucible-raid-guide) by Stormy
+* [Wowhead Elemental Shaman Aberrus Guide](https://www.wowhead.com/guide/classes/shaman/elemental/aberrus-the-shadowed-crucible-raid-tips) by HawkCorrigan
+* [Icy-Veins Elemental Shaman Aberrus Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-aberrus-the-shadowed-crucible-raid-guide) by Stormy
 - [Warcraft Logs](https://www.warcraftlogs.com/)
 - [Aberrus, The Shadowed Crucible Loot Overview](https://www.wowhead.com/guide/raids/aberrus-the-shadowed-crucible/overview#loot)
