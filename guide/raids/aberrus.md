@@ -166,19 +166,19 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-• Focus down {{ site.data.raid.aberrus.erratic_remnant }} whenever they are active to prevent damage from {{ site.data.raid.aberrus.erratic_burst }}.
-• Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.massive_slam }}, {{ site.data.raid.aberrus.rending_charge }} and {{ site.data.raid.aberrus.deep_breath }}.
+* Focus down {{ site.data.raid.aberrus.erratic_remnant }} whenever they are active to prevent damage from {{ site.data.raid.aberrus.erratic_burst }}.
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.massive_slam }}, {{ site.data.raid.aberrus.rending_charge }} and {{ site.data.raid.aberrus.deep_breath }}.
 
 #### Defensives:
-• Use {{ site.data.talent.as }} and {{ site.data.talent.stoneskin_totem }} or healing consumables when targeted by {{ site.data.raid.aberrus.rending_charge }}.
-• If talented, use {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
-• Use {{ site.data.spell.healing_surge }} if necessary.
+* Use {{ site.data.talent.as }} and {{ site.data.talent.stoneskin_totem }} or healing consumables when targeted by {{ site.data.raid.aberrus.rending_charge }}.
+* If talented, use {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-• Use {{ site.data.talent.wrt }} to help players dodging {{ site.data.raid.aberrus.massive_slam }} in Phase 1, {{ site.data.raid.aberrus.unstable_essence }} upon removal in Phase 2 and {{ site.data.raid.aberrus.deep_breath }} in Phase 3.
+* Use {{ site.data.talent.wrt }} to help players dodging {{ site.data.raid.aberrus.massive_slam }} in Phase 1, {{ site.data.raid.aberrus.unstable_essence }} upon removal in Phase 2 and {{ site.data.raid.aberrus.deep_breath }} in Phase 3.
 
-Optional Notes:
-• Having access to both {{ site.data.talent.go_with_the_flow }} and {{ site.data.externals.blessing_of_the_bronze }} provides the option of having {{ site.data.talent.gow }} ready for every single {{ site.data.raid.aberrus.massive_slam }}.
+#### Additional Notes:
+* Having access to both {{ site.data.talent.go_with_the_flow }} and {{ site.data.externals.blessing_of_the_bronze }} provides the option of having {{ site.data.talent.gow }} ready for every single {{ site.data.raid.aberrus.massive_slam }}.
 
 </div>
 </div>
@@ -190,6 +190,35 @@ Optional Notes:
 </div>
 <div id="assault_of_the_zaqali-collapse" class="collapse" aria-labelledby="assault_of_the_zaqali" data-parent="#accordion">
 <div class="card-body" markdown="1">
+## Boss Fight Profile: Cleave / AoE
+
+### Talents:
+
+#### T29 and T30
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlDk0S0QQDJSAAAAAAKBIlkokmASLJpdgSAJEBI?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
+
+<hr>
+
+## Fight Breakdown
+
+#### Damage:
+* Always focus down {{ site.data.raid.aberrus.magma_mystic }} as fast as possible to limit the damage income of {{ site.data.raid.aberrus.molten_barrier }}.
+* Ensure to have {{ site.data.talent.sk }} ready and preferably prepare an {{ site.data.talent.eogs }} buff when {{ site.data.raid.aberrus.zaqali_wallclimber }} are about to spawn.
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.vigorous_gale }}, {{ site.data.raid.aberrus.cave_rubble }} and {{ site.data.raid.aberrus.renewed_hatchling }} (Mythic-only).
+
+#### Defensives:
+* Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.flaming_cudgel }} and while {{ site.data.raid.aberrus.molten_barrier }} is up.
+* Use {{ site.data.spell.healing_surge }} if necessary.
+
+#### Utilities:
+* Use {{ site.data.talent.capacitor_totem }}, {{ site.data.spell.earthbind_totem }} and {{ site.data.talent.thunderstorm }} to gather and stun as many adds as possible, but especially to keep {{ site.data.raid.aberrus.renewed_hatchling }} (Mythic-only) away from players.
+* Use {{ site.data.talent.wrt }} to help players dealing with {{ site.data.raid.aberrus.cave_rubble }}.
+
+#### Additional Notes:
+- {{ site.data.raid.aberrus.renewed_hatchling }} (Mythic-only) are CC-able. There's potential for a strategy where you would perma CC them, which would make {{ site.data.talent.earthgrab_totem }} and {{ site.data.talent.hex }} viable options. It's unlikely since the boss is one of the first ones, which means it probably won't require this level of micro management (logs seem to indicate this as well)
 
 </div>
 </div>
@@ -260,14 +289,7 @@ Optional Notes:
 <hr>
 
 # Useful WeakAuras
-
-* [Dragonflight Season 1 Dungeons Pack](https://wago.io/DF-Dungeons) by Jodsderechte
-* [Thundering Helper](https://wago.io/thunder) by Ellesmere
-* [Quaking Helper](https://wago.io/QuakeInterrupt) by JackTheEgg
-* [Mythic+ Auto Marker](https://wago.io/1ctv3b91K) by Megawatt
-* [Mythic+ Timer](https://wago.io/M+Timer) by Reloe
-
-
+* None lulz
 
 <hr>
 

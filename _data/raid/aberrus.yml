@@ -39,13 +39,15 @@ massive_slam: <a href="https://www.wowhead.com/ptr/spell=407733/massive-slam" ta
 rending_charge: <a href="https://www.wowhead.com/ptr/spell=406358/rending-charge" target="blank">Rending Charge</a>
 unstable_essence: <a href="https://www.wowhead.com/ptr/spell=407327/unstable-essence" target="blank">Unstable Essence</a>
 
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
-SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# Assault of the Zaqali
+cave_rubble: <a href="https://www.wowhead.com/ptr/spell=400450/cave-rubble" target="blank">Cave Rubble</a>
+flaming_cudgel: <a href="https://www.wowhead.com/ptr/spell=410369/flaming-cudgel" target="blank">Flaming Cudgel</a>
+magma_mystic: <a href="https://www.wowhead.com/ptr/npc=199703/magma-mystic" target="blank">Magma Mystics</a>
+molten_barrier: <a href="https://www.wowhead.com/ptr/spell=409242/molten-barrier" target="blank">Molten Barrier</a>
+renewed_hatchling: <a href="https://www.wowhead.com/ptr/npc=201738/renewed-hatchling" target="blank">Renewed Hatchlings</a>
+vigorous_gale: <a href="https://www.wowhead.com/ptr/spell=407017/vigorous-gale" target="blank">Vigorous Gale</a>
+zaqali_wallclimber: <a href="https://www.wowhead.com/ptr/npc=205617/zaqali-wallclimber" target="blank">Zaqali Wallclimbers</a>
+
 SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
