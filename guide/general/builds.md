@@ -42,7 +42,7 @@ More situational talents picks:
   - {{ site.data.talent.natures_swiftness }} is great to get an extra movement Global. Best used on {{ site.data.talent.eb }} in ST, {{ site.data.spell.cl }} in AoE and {{ site.data.spell.healing_surge }} when low on health.
 * Utility:
   - {{ site.data.talent.totemic_focus }} is great for both {{ site.data.talent.wrt }} duration and {{ site.data.talent.lmt }} width.
-  - {{ site.data.talent.mana_spring_totem }} is better in raid content than it is in party, but good nonetheless.
+  - {{ site.data.talent.mana_spring }} is better in raid content than it is in party, but good nonetheless.
   - {{ site.data.talent.purge }} and {{ site.data.talent.cleanse_spirit }} are perfect examples of good talents that are purely situational and can be skipped in many builds, and picked only when needed.
   - {{ site.data.talent.capacitor_totem }}, {{ site.data.talent.hex }}, {{ site.data.talent.earthgrab_totem }} or {{ site.data.talent.thunderstorm }} are situational Crowd Control talents.
 

@@ -58,7 +58,7 @@ Depending on the dungeon you are running and the group you're in, here is a list
 - {{ site.data.talent.thunderstorm }} has some niche uses to gather pulls or deal with {{ site.data.affixes.sanguine }}. It can also be used as a Hard CC but {{ site.data.talent.thundershock }} will be better in that case. It’s also not that easy to utilize for less experienced players as it requires good positioning and awareness of timings to actually interrupt casts.
 - {{ site.data.talent.totemic_focus }} is a nice passive that will make it less likely for your tank to kite out of {{ site.data.talent.lmt }}'s range. The duration and width on {{ site.data.talent.wrt }} can also be nice.
 - {{ site.data.talent.spirit_walk }} is sometimes used as a slow dispel instead of {{ site.data.talent.gust_of_wind }}.
-- {{ site.data.talent.mana_spring_totem }} is less potent in dungeon than it is in raid. It's nice to have but doesn't really provide a lot either.
+- {{ site.data.talent.mana_spring }} is less potent in dungeon than it is in raid. It's nice to have but doesn't really provide a lot either.
 - {{ site.data.talent.poison_cleansing_totem }} has a lot of minor uses this season but nothing... incurable.
 - {{ site.data.talent.stoneskin_totem }} is a very situational talent which gains a lot of value in higher keys, saving your tank and your party from big physical attacks and bleeds.
 
