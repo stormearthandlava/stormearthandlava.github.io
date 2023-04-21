@@ -34,7 +34,7 @@ This page will only note the important utility options that are available to you
 ### Standard Class tree for S2 Dungeons:
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoEgUSChog0ikmSACRAC?width=530&level=70" frameborder="0" width="800px" height="100%"></iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoEgUSChog0ikmSAQEgA?width=530&level=70" frameborder="0" width="800px" height="100%"></iframe>
 </div>
 
 ### A few remarks on this tree:
@@ -42,26 +42,35 @@ This page will only note the important utility options that are available to you
 - {{ site.data.talent.ee }} could be flexed around into another utility option but I believe it is the best single all rounder node to get to 20 points.
 - {{ site.data.talent.purge }} is recommended in all dungeon because of its high value this season.
 - Some people spec out of {{ site.data.spell.frs }}. It is still a very useful movement global, even without {{ site.data.talent.if }}.
-- {{ site.data.talent.ns }} could be dropped for another utility node, its value is high but isn't mandatory by any means.
 
 ### The Last 4 Points
 Depending on the dungeon you are running and the group you're in, here is a list of good options to pick from:
+
+#### Defensives:
 - {{ site.data.talent.earth_shield }} is a 2 points investments as you have to pick {{ site.data.talent.chain_heal }} to get it but it gives pretty good sustain.
-- {{ site.data.talent.thunderous_paws }} gives you a slow dispel and a burst of mobility that is often useful.
-- {{ site.data.talent.spirit_wolf }} is better mobility on a long distance, and can be used as a defensive.
+- {{ site.data.talent.spirit_wolf }} is improved mobility on a long distance, and most importantly can be used as a defensive.
 - {{ site.data.talent.healing_stream_totem }} and {{ site.data.talent.swirling_currents }} are good off-healing CDs. But the fact that you cannot predict who it will heal, paired with the GCD loss each time you use it make it very suboptimal and situational.
-- {{ site.data.talent.tremor_totem }} has a lot of minor uses this season but nothing... groundbreaking.
+- {{ site.data.talent.brimming_with_life }} is still a 8% max HP, even if it has the worst design in our whole tree.
+- {{ site.data.talent.stoneskin_totem }} is a very situational talent which gains a lot of value in higher keys, saving your tank and your party from big physical attacks and bleeds.
+
+#### Mobility:
+- {{ site.data.talent.ns }} is a tiny of DPS gain paired with {{ site.data.talent.eb }} in ST but its value mostly comes from it's versatility. It gives you an extra movement global in all scenarios ({{ site.data.talent.eb }} in ST, {{ site.data.spell.cl }} in AoE, {{ site.data.spell.healing_surge }} for healing).
+- {{ site.data.talent.thunderous_paws }} gives you a slow dispel and a burst of mobility that is often useful.
+- {{ site.data.talent.spirit_walk }} is sometimes used as a slow dispel instead of {{ site.data.talent.gust_of_wind }}.
+
+#### Crowd Control:
 - {{ site.data.talent.static_charge }} will allow you to have {{ site.data.talent.capacitor_totem }} on every packs. Very useful to complement another Class AoE CC.
 - {{ site.data.talent.guardians_cudgel }} on the other hand, will be best used when you are the only AoE CC of the group, or if you need successive interrupts on a pack ({{ site.data.dungeon.cos.blazing_imp }} in {{ site.data.dungeon.cos.cos }} for example).
-- {{ site.data.talent.brimming_with_life }} is still a 8% max HP, even if it has the worst design in our whole tree.
-- {{ site.data.talent.cleanse_spirit }} is used only in Temple of the Jade Serpent this season, you can spend that point elsewhere when you're not in it. Note that the healers that cannot remove Curses are: {{ site.data.externals.monk }}, {{ site.data.externals.paladin }} and {{ site.data.externals.priest }}
 - {{ site.data.talent.hex }} can be used to control Patrol's pathing and as a hard CC in general.
 - {{ site.data.talent.thunderstorm }} has some niche uses to gather pulls or deal with {{ site.data.affixes.sanguine }}. It can also be used as a Hard CC but {{ site.data.talent.thundershock }} will be better in that case. It’s also not that easy to utilize for less experienced players as it requires good positioning and awareness of timings to actually interrupt casts.
+
+#### General Utility:
+- {{ site.data.talent.tremor_totem }} has a lot of minor uses this season but nothing... groundbreaking.
+- {{ site.data.talent.cleanse_spirit }} is used only in Temple of the Jade Serpent this season, you can spend that point elsewhere when you're not in it. Note that the healers that cannot remove Curses are: {{ site.data.externals.monk }}, {{ site.data.externals.paladin }} and {{ site.data.externals.priest }}
 - {{ site.data.talent.totemic_focus }} is a nice passive that will make it less likely for your tank to kite out of {{ site.data.talent.lmt }}'s range. The duration and width on {{ site.data.talent.wrt }} can also be nice.
-- {{ site.data.talent.spirit_walk }} is sometimes used as a slow dispel instead of {{ site.data.talent.gust_of_wind }}.
-- {{ site.data.talent.mana_spring_totem }} is less potent in dungeon than it is in raid. It's nice to have but doesn't really provide a lot either.
+- {{ site.data.talent.mana_spring}} is less potent in dungeon than it is in raid. It's nice to have but doesn't really provide a lot either.
 - {{ site.data.talent.poison_cleansing_totem }} has a lot of minor uses this season but nothing... incurable.
-- {{ site.data.talent.stoneskin_totem }} is a very situational talent which gains a lot of value in higher keys, saving your tank and your party from big physical attacks and bleeds.
+
 
 ### 24 keys and higher:
 When pushing in higher keys, some talents become mandatory to survive:
