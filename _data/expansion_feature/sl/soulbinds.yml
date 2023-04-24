@@ -1,0 +1,32 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+combat_meditation: <a href="https://www.wowhead.com/spell=328266" target="blank">Combat Meditation</a>
+let_go_of_the_past: <a href="https://www.wowhead.com/spell=328257" target="blank">Let Go Of The Past</a>
+brons_call_to_action: <a href="https://www.wowhead.com/spell=333950" target="blank">Bron's Call To Action</a>
+hammer_of_genesis: <a href="https://www.wowhead.com/spell=333935" target="blank">Hammer Of Genesis</a>
+preemptive_strike: <a href="https://www.wowhead.com/spell=323090" target="blank">Plaguey's Preemptive Strike</a>
+lead_by_example: <a href="https://www.wowhead.com/spell=342156" target="blank">Lead By Example</a>
+marrowed_gemstone: "<a href=\"https://www.wowhead.com/spell=326572\" target=\"blank\">Heirmir's Arsenal: Marrowed Gemstone</a>"
+forgeborn_reveries: <a href="https://www.wowhead.com/spell=326514" target="blank">Forgeborne Reveries</a>
+thrill_seeker: <a href="https://www.wowhead.com/spell=331586" target="blank">Thrill Seeker</a>
+dauntless_duelist: <a href="https://www.wowhead.com/spell=331584" target="blank">Dauntless Duelist</a>
+built_for_war: <a href="https://www.wowhead.com/spell=319973" target="blank">Built For War</a>
+soothing_shade: <a href="https://www.wowhead.com/spell=336239" target="blank">Soothing Shade</a>
+wasteland_propriety: <a href="https://www.wowhead.com/spell=319983" target="blank">Wasteland Propriety</a>
+burrs: "<a href=\"https://www.wowhead.com/spell=320659\" target=\"blank\">Niya's Tools: Burrs</a>"
+field_of_blossom: <a href="https://www.wowhead.com/spell=319191" target="blank">Field Of Blossom</a>
+dream_delver: <a href="https://www.wowhead.com/spell=352786" target="blank">Dream Delver</a>
+wild_hunt_tactics: <a href="https://www.wowhead.com/spell=325066" target="blank"> Wild Hunt Tactics</a>
+first_strike: <a href="https://www.wowhead.com/spell=325069" target="blank">First Strike</a>
