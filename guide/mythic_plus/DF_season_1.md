@@ -68,7 +68,7 @@ Depending on the dungeon you are running and the group you're in, here is a list
 - {{ site.data.talent.tremor_totem }} has a lot of minor uses this season but nothing... groundbreaking.
 - {{ site.data.talent.cleanse_spirit }} is used only in Temple of the Jade Serpent this season, you can spend that point elsewhere when you're not in it. Note that the healers that cannot remove Curses are: {{ site.data.externals.monk }}, {{ site.data.externals.paladin }} and {{ site.data.externals.priest }}
 - {{ site.data.talent.totemic_focus }} is a nice passive that will make it less likely for your tank to kite out of {{ site.data.talent.lmt }}'s range. The duration and width on {{ site.data.talent.wrt }} can also be nice.
-- {{ site.data.talent.mana_spring}} is less potent in dungeon than it is in raid. It's nice to have but doesn't really provide a lot either.
+- {{ site.data.talent.mana_spring }} is less potent in dungeon than it is in raid. It's nice to have but doesn't really provide a lot either.
 - {{ site.data.talent.poison_cleansing_totem }} has a lot of minor uses this season but nothing... incurable.
 
 ### 24 keys and higher:
