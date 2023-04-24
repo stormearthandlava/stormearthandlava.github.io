@@ -15,6 +15,7 @@ This page has the answers to some frequently asked questions for Elemental Shama
 * The new tier set will most likely promote the lightning builds (see the [Build]({{ site.baseurl }}{% link guide/general/builds.md %}) section of the guide).
 
 ### Q: "What do all these abbreviations mean? I can't understand other Elemental Shaman!"
+* It can be tough trying to learn all of them at once but there is a handy resource to help you! See [Elemental Abbreviations]({{ site.baseurl }}{% link blog/_posts/2023-01-23-ele101.md %}).
 
 ### Q: "What does {{ site.data.talent.fol }} actually reduce?"
 * For a complete list, see [Flash of Lightning]({{ site.baseurl }}{%link blog/_posts/2023-01-23-fol.md %}).
@@ -67,6 +68,9 @@ This page has the answers to some frequently asked questions for Elemental Shama
 
 ### Q: "Do you have any recommendation on how to sim and profiles to use while simming?"
 * For a complete guide about Elemental's sim, see [this post]({{ site.baseurl }}{%link blog/_posts/2023-01-02-simming.md %}).
+
+### Q: "What trinkets should I aim for as an Elemental Shaman?"
+* For a complete guide about Elemental's trinket, see [Trinket]({{ site.baseurl }}{% link guide/general/trinkets.md %}) section of the guide.
 
 ### Q: "What are some useful Macros?"
 * See the [Macros]({{ site.baseurl }}{% link guide/general/macros.md %}) section of the guide.

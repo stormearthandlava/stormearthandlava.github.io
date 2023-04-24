@@ -22,7 +22,7 @@ We do not have the ability to pick two trinkets and be optimal everywhere. The t
 * {{ site.data.item.vessel }}
 
 #### Honorable Mentions:
-* {{ site.data.item.call_to_dominance }} is specifically good paired with {{ site.data.item.flowstone }}
+* {{ site.data.item.call_to_dominance }} is specifically good paired with {{ site.data.item.flowstone }}.
 * {{ site.data.item.talon }} or {{ site.data.item.irideus_fragment }} can be used to burst something as needed.
 * {{ site.data.item.wii }} will still be very good during progress.
 
@@ -47,7 +47,7 @@ Again, **this is not a ranking guide**. Check the trinket overview section below
 ## Passives trinkets:
 * {{ site.data.item.idol_of_pure_decay }} (from Brackenhide Hollow): Strong proc trinket which does relevant damage in both ST and AoE.
 * {{ site.data.item.flowstone }} (from Magmorax): Very strong passive trinket. It will either give you a lot of crit or deal good damage every 30s, rotating between the two.
-* {{ site.data.item.call_to_dominance }} (rare drop from Echo of Neltharion): Medium passive trinket. It will give you a lot of haste during your burst. When {{ site.data.item.flowstone }} is your other trinket, it is the best second trinket to have. Be sure to sim yourself.
+* {{ site.data.item.call_to_dominance }} (rare drop from Echo of Neltharion): Medium passive trinket. It will give you **a lot** of intel after using {{ site.data.talent.fe }} or {{ site.data.talent.se }}. When {{ site.data.item.flowstone }} is your other trinket, it is the best second trinket to have. Be sure to sim yourself.
 * {{ site.data.item.ominous_chromatic_essence }} (from the Forgotten Experiments): Medium passive trinket that gives a lot of secondaries if your whole group has it. It's unlikely that many specs play this, making it less good that it could be.
 * {{ site.data.item.dragonscale }} (rare drop from Kazzara, the Hellforged): Solid passive trinket, often giving you some crit on high uptime.
 * {{ site.data.item.vessel }} (from the Amalgamation Chamber): Strong single-target proc trinket.
