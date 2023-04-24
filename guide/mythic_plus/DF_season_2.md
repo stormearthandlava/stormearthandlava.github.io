@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Mythic+ DF Season 2"
-last_update: 16/02/2023
-game_version: 10.0.7 Dragonflight
+last_update: 01/05/2023
+game_version: 10.1.0 Dragonflight
 author: Elivrio
 toc: true
 big_article: true

@@ -1,19 +1,20 @@
 ---
 layout: page
 title: F.A.Q.
-last_update: 29/03/2023
-game_version: 10.0.7 Dragonflight
+last_update: 01/05/2023
+game_version: 10.1.0 Dragonflight
 toc: true
 big_article: false
 ---
 
 This page has the answers to some frequently asked questions for Elemental Shamans.
 
-### Q: "Will Elemental be viable in Dragonflight 10.0.7?"
-* Firstly, no spec in the game is unviable. Certain specs may be favored for certain bosses in a raid, but this is only relevant to the very highest end of raiding (ie, competing for world first). Elemental (and every other spec) will remain competitive for 99.9% of the player base.
+### Q: "Will Elemental be viable in Dragonflight 10.1.0?"
+* Firstly, no spec in the game is unviable. Certain specs may be favored for certain bosses in a raid, but this is only relevant to the very highest end of raiding (i.e, competing for world first). Elemental (and every other spec) will remain competitive for 99.9% of the player base.
+* You can check all of Elemental's changes for 10.1 in this [Changelog]({{ site.baseurl }}{%link blog/_posts/2023-04-02-10.1-change-collection.md %}) post.
+* The new tier set will most likely promote the lightning builds (see the [Build]({{ site.baseurl }}{% link guide/general/builds.md %}) section of the guide).
 
 ### Q: "What do all these abbreviations mean? I can't understand other Elemental Shaman!"
-* It can be tough trying to learn all of them at once but there is a handy resource to help you! [Elemental Abbreviations]({{ site.baseurl }}{% link blog/_posts/2023-01-23-ele101.md %}).
 
 ### Q: "What does {{ site.data.talent.fol }} actually reduce?"
 * For a complete list, see [Flash of Lightning]({{ site.baseurl }}{%link blog/_posts/2023-01-23-fol.md %}).
