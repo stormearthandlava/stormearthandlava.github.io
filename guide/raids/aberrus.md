@@ -34,7 +34,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 - Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.talent.spiritwalkers_grace }}, {{ site.data.talent.gust_of_wind }} and instant casts as much as you can for movement heavy encounters.
 
-- Always remember that you can increase your maximum health by an additional 15 % and the uptime of {{ site.data.talent.primordial_bond }} by using {{ site.data.talent.ee }} provided it does not interfere with your Primal Fire/Storm Elemental usage when {{ site.data.talent.pe }} is talented which also gives access to an additional single target stun ({{ site.data.spell.pulverize }}).
+- Planning and using {{ site.data.talent.ee }} on a particular phase can alleviate the difficulty of whole parts of a fight. It will increase your maximum health by an additional 15 % and can give you {{ site.data.talent.primordial_bond }} for the whole duration. Be careful and remember that it could interfere with your Primal Fire/Storm Elemental usage when {{ site.data.talent.pe }} is talented.
 
 - Recall that {{ site.data.externals.stampeding_roar }} is now more potent than {{ site.data.talent.wind_rush_totem }}. Depending on your raid comp, it may be better to spend that talent point somewhere else.
 

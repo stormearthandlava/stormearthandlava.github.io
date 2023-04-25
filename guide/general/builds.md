@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Builds
-last_update: 29/03/2023
-game_version: 10.0.7 Dragonflight
+last_update: 01/05/2023
+game_version: 10.1.0 Dragonflight
 toc: true
 big_article: true
 ---
@@ -27,20 +27,22 @@ Here is a list of some talents that are recommended to get in every situation :
 - {{ site.data.talent.as }} and {{ site.data.talent.planes_traveler }}, our defensive CD.
 - {{ site.data.talent.swg }} and {{ site.data.talent.graceful_spirit }} for movement.
 - {{ site.data.talent.gust_of_wind }} or {{ site.data.talent.spirit_walk }} for movement.
-- {{ site.data.talent.ag }} for party wide healing support.
+- {{ site.data.talent.ag }} for group healing support.
 
 More situational talents picks:
-* Defensive:
+#### Defensive:
   - {{ site.data.talent.natures_guardian }} and {{ site.data.talent.ancestral_defence }} and {{ site.data.talent.elemental_warding }} are good sustain passives.
-  - {{ site.data.talent.ee }} is a bad defensive since its CD is so long, but it's a defensive CD nonetheless and has good value in many situation.
+  - {{ site.data.talent.ee }} is both a good and a bad defensive. It has a very long CD, making it hard to get reliable uses from it, but also has a very long uptime giving you great tankyness while it's up.
   - {{ site.data.talent.earth_shield }} is a good sustain talent, just remember to refresh it when it falls off. It's also annoying to get since we almost never press {{ site.data.talent.chain_heal }}.
   - {{ site.data.talent.brimming_with_life }} is a terribly designed talent that incites us to save {{ site.data.spell.ankh }} for more max HP. It is still better than nothing for an increase in survivability and overall {{ site.data.spell.ankh }} uses.
   - {{ site.data.talent.healing_stream_totem }}, paired with {{ site.data.talent.swirling_currents }}, is a fire and forget heal assistance on the GCD. It's not bad but certainly not great.
-* Movement:
+
+#### Movement:
   - {{ site.data.talent.thunderous_paws }} is great for small burst of mobility and slow dispel, {{ site.data.talent.spirit_wolf }} is a great "long-distance" movement tool.
   - {{ site.data.talent.wind_rush_totem }} is a good group movement talent.
   - {{ site.data.talent.natures_swiftness }} is great to get an extra movement Global. Best used on {{ site.data.talent.eb }} in ST, {{ site.data.spell.cl }} in AoE and {{ site.data.spell.healing_surge }} when low on health.
-* Utility:
+
+#### Utility:
   - {{ site.data.talent.totemic_focus }} is great for both {{ site.data.talent.wrt }} duration and {{ site.data.talent.lmt }} width.
   - {{ site.data.talent.mana_spring }} is better in raid content than it is in party, but good nonetheless.
   - {{ site.data.talent.purge }} and {{ site.data.talent.cleanse_spirit }} are perfect examples of good talents that are purely situational and can be skipped in many builds, and picked only when needed.
