@@ -26,6 +26,8 @@ We do not have the ability to pick two trinkets and be optimal everywhere. The t
 * {{ site.data.item.talon }} or {{ site.data.item.irideus_fragment }} can be used to burst something as needed.
 * {{ site.data.item.wii }} will still be very good during progress.
 
+<br>
+
 ## Mythic +
 
 Again, **this is not a ranking guide**. Check the trinket overview section below to see how each trinket may be useful when deciding to use them.
@@ -35,6 +37,7 @@ Again, **this is not a ranking guide**. Check the trinket overview section below
 * {{ site.data.item.irideus_fragment }}
 * {{ site.data.item.dragonscale }}
 * {{ site.data.item.spoils }}
+* {{ site.data.item.erupting_spear_fragment }}
 
 #### Honorable Mentions:
 * {{ site.data.item.ominous_chromatic_essence }} is a lot of stats if your whole group has it.
@@ -44,25 +47,55 @@ Again, **this is not a ranking guide**. Check the trinket overview section below
 
 # Season 2 trinkets Overview:
 
-## Passives trinkets:
-* {{ site.data.item.idol_of_pure_decay }} (from Brackenhide Hollow): Strong proc trinket which does relevant damage in both ST and AoE.
-* {{ site.data.item.flowstone }} (from Magmorax): Very strong passive trinket. It will either give you a lot of crit or deal good damage every 30s, rotating between the two.
-* {{ site.data.item.call_to_dominance }} (rare drop from Echo of Neltharion): Medium passive trinket. It will give you **a lot** of intel after using {{ site.data.talent.fe }} or {{ site.data.talent.se }}. When {{ site.data.item.flowstone }} is your other trinket, it is the best second trinket to have. Be sure to sim yourself.
-* {{ site.data.item.ominous_chromatic_essence }} (from the Forgotten Experiments): Medium passive trinket that gives a lot of secondaries if your whole group has it. It's unlikely that many specs play this, making it less good that it could be.
-* {{ site.data.item.dragonscale }} (rare drop from Kazzara, the Hellforged): Solid passive trinket, often giving you some crit on high uptime.
-* {{ site.data.item.vessel }} (from the Amalgamation Chamber): Strong single-target proc trinket.
+## Passive trinkets:
+
+#### {{ site.data.item.idol_of_pure_decay }} (from Brackenhide Hollow):
+* Strong proc trinket which does relevant damage in both ST and AoE.
+
+#### {{ site.data.item.flowstone }} (from Magmorax):
+* Very strong passive trinket. It will either give you a lot of crit or deal good damage every 30s, rotating between the two.
+
+#### {{ site.data.item.call_to_dominance }} (rare drop from Echo of Neltharion):
+* Medium passive trinket. It will give you a huge amount of intel after using {{ site.data.talent.fe }} or {{ site.data.talent.se }} for a very low duration. When {{ site.data.item.flowstone }} is your other trinket, it is the best second trinket to have. Be sure to sim yourself.
+
+#### {{ site.data.item.ominous_chromatic_essence }} (from the Forgotten Experiments):
+* Medium passive trinket that gives a lot of secondaries if your whole group has it. It's unlikely that many specs play this, making it less good than it could be.
+
+#### {{ site.data.item.dragonscale }} (rare drop from Kazzara, the Hellforged):
+* Solid passive trinket, often giving you some crit on high uptime.
+
+#### {{ site.data.item.vessel }} (from the Amalgamation Chamber):
+* Strong single-target proc trinket.
+
+<br>
 
 ## On Use trinkets:
-* {{ site.data.item.beacon_to_the_beyond }} (from Scalecommander Sarkareth): Medium trinket that deals huge damage every 2min30. The mastery on it makes it less good than intel trinkets.
-* {{ site.data.item.erupting_spear_fragment }} (from Neltharus): Strong trinket, giving you crit depending on target count. Really good during burst on adds.
-* {{ site.data.item.irideus_fragment }} (from Halls of Infusions): Strong burst trinket, giving you a lot of int that decreases with each casts. This should be used before {{ site.data.talent.sk }} empowered spells for maximum output.
-* {{ site.data.item.spoils }} (from Neltharus): Strong trinket that gives a lot of secondaries every 2 minutes. The stat it gives you changes over time. You can use [this Weakaure by Skullmaker90](https://wago.io/xbF5jXjsf) to keep track of the current buff.
-* {{ site.data.item.talon }} (from Uldaman: Legacy of Tyr): Strong trinket. It's not as strong as other options in Single Target but it will give you the best damage inside of a burst window, making this trinket a very good option if something **needs to die** during progress.
+#### {{ site.data.item.beacon_to_the_beyond }} (from Scalecommander Sarkareth):
+* Medium trinket that deals huge damage every 2min30. The mastery on it makes it less good than intel trinkets.
+
+#### {{ site.data.item.erupting_spear_fragment }} (from Neltharus):
+* Strong AoE trinket, dealing damage and giving you crit depending on target count. Really good during burst on adds.
+
+#### {{ site.data.item.irideus_fragment }} (from Halls of Infusions):
+* Strong burst trinket, giving you a lot of int that decreases with each casts. This should be used before {{ site.data.talent.sk }} empowered spells for maximum output. It works especially well in AoE.
+
+#### {{ site.data.item.spoils }} (from Neltharus):
+* Strong trinket that gives a lot of secondaries every 2 minutes. The stat it gives you change over time. You can use [this Weakaura by Skullmaker90](https://wago.io/xbF5jXjsf) to keep track of the current buff.
+
+#### {{ site.data.item.talon }} (from Uldaman: Legacy of Tyr):
+* Strong trinket that is really good in AoE but not as strong as other options in Single Target. It still has a very good niche, as it will give you the best on-demand damage burst, making this trinket a very good option if something *needs to die* during progress.
+
+<br>
 
 ## Season 1 Special Mentions
-* {{ site.data.item.wii }}: Solid passive trinket. This might be better than many trinket up until the middle of the season, especially if you get the tank and healer buff. Be sure to keep simming it until it's outclassed by new trinkets.
-* {{ site.data.item.shadowgem }}: Strong on use trinket. With crit being very prevalent in lightning builds, it should retain big value for some time.
-* {{ site.data.item.ragefeather }}: Solid proc trinket with good proc chance, the secondary effect helps ensure most procs result in their full damage eventually. It will rapidly get outclassed since it's a pure damage proc, but will still be relevant for the early season.
+#### {{ site.data.item.wii }}:
+* Solid passive trinket. This might be better than many trinket up until the middle of the season, especially if you get the tank and healer buff. Be sure to keep simming it until it's outclassed by new trinkets.
+
+#### {{ site.data.item.shadowgem }}:
+* Strong on use trinket. With crit being very prevalent in lightning builds, it should retain big value for some time.
+
+#### {{ site.data.item.ragefeather }}:
+* Solid proc trinket with good proc chance, the secondary effect helps ensure most procs result in their full damage eventually. It will rapidly get outclassed since it's a pure damage proc, but will still be relevant for the early season.
 
 <hr>
 
