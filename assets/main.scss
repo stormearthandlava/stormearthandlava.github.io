@@ -213,6 +213,14 @@ div.opener {
   border-radius: 4px;
 }
 
+div.opener .text {
+  box-sizing: content-box;
+  display: inline-block;
+  width: 300px;
+  vertical-align:middle;
+  height: 60px;
+}
+
 div.opener .arrow {
   width: 0;
   height: 0;
@@ -420,6 +428,16 @@ div.builds-header.wfaoe {
 div.builds-header.wfeb {
   background-image: url('/assets/img/guide/builds/Wildfire_EB.png');
   background-size: 20%;
+}
+
+div.builds-header.liwlr {
+  background-image: url('/assets/img/guide/builds/Lightning_WLR.png');
+  background-size: 30%;
+}
+
+div.builds-header.listeogs {
+  background-image: url('/assets/img/guide/builds/Lightning_ST_EoGS.png');
+  background-size: 25%;
 }
 
 div.builds-header.limwf {

@@ -48,15 +48,6 @@ More situational talents picks:
 
 <hr>
 
-# Hotfixes applied on 28/02/23 (NA) and 01/03/23 (EU):
-First and foremost, they do not appear to have any impact on rotational priority from initial testing. This includes but is not limited to:
-   - {{ site.data.talent.icefury }} buffed {{ site.data.spell.frs }}s in AoE and Single target, for the builds that take {{ site.data.talent.flux_melting }} you should continue to treat it like a filler only. (Note: when playing {{ site.data.talent.e_shocks }} it produces the same result in single target to care or not care about {{ site.data.talent.icefury }} buffs, this was consistent across the most popular build types that include it)
-   - {{ site.data.talent.sk }} usage. Despite the buff to {{ site.data.spell.lb }} there has been no change to how we consume {{ site.data.talent.sk }} buffs on varying target counts.
-   - For those using {{ site.data.talent.mwf }} builds remember the priority has not changed, the build just has less sources of {{ site.data.talent.lvs }} procs relative to the alternative {{ site.data.talent.wlr }} build.
-   - Some players were already including {{ site.data.talent.icefury }} with {{ site.data.talent.e_shocks }} into the Wildfire builds (trading {{ site.data.talent.fop }} for them), this choice gained some ground with the buff to baseline {{ site.data.spell.frs }} damage and the maelstrom gains of {{ site.data.talent.if }} buffs.
-
-<hr>
-
 # Primordial Surge Builds
 
 Most notably aimed more at the Single Target profiles these variants are used when you need to focus on boss damage by using the inherent strength of combining {{ site.data.talent.ps }} and tools like {{ site.data.talent.dre }} and/or {{ site.data.talent.wlr }} to increase the value and frequency of {{ site.data.talent.lvs }}. Turning your {{ site.data.talent.eb }} and {{ site.data.spell.lvb }} into powerhouses.
@@ -941,8 +932,397 @@ Exactly what it says on the tin, for the friends with a penchant for Lightning! 
 
 <div class="accordion dungeon-accordion" id="accordion-lightning">
 <div class="card">
+<div class="card-header" id="liwlr">
+<div data-toggle="collapse" data-target="#liwlr-collapse" aria-expanded="false" aria-controls="liwlr-collapse" class="builds-header liwlr"><h2>Lightning ST with Windspeakers</h2></div>
+</div>
+<div id="liwlr-collapse" class="collapse" aria-labelledby="liwlr" data-parent="#accordion-lightning">
+<div class="card-body" markdown="1">
+
+## What does this build do?
+
+This build is a Single Target one that focuses on the power of {{ site.data.spell.lb }} and {{ site.data.talent.eb }}. It seeks to empower its core spells with supporting talents like {{ site.data.talent.e_shocks }}, {{ site.data.talent.se }}, {{ site.data.talent.sop }} and {{ site.data.talent.lr }}, but also use {{ site.data.spell.lvb }} as an enabler with {{ site.data.talent.wlr }}, {{ site.data.talent.mote }} and {{ site.data.talent.potm }}.
+
+This build rotation is fairly strict, playing around the {{ site.data.talent.e_shocks }} debuff in mostly the same way each time.
+
+## What does it look like?
+### "Standard" Build
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSCIlkgmkCSLJpFIIkAI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
+
+### FoL Variant
+- This variant drops {{ site.data.talent.eb }}, taking {{ site.data.talent.fol }} instead. The focus of the build being Single Target, having a higher density of {{ site.data.talent.sop }} due to {{ site.data.spell.es }} cost being lower can somewhat compete with the raw damage of {{ site.data.talent.eb }}.
+- {{ site.data.talent.fol }} will have good defensive value, allowing you to cast {{ site.data.talent.as }} more often (see [this blogpost for a list of spells affected by {{ site.data.talent.fol }}]({{ site.baseurl }}{%link blog/_posts/2023-01-23-fol.md %})).
+- If you decide to play this variant, simply change {{ site.data.talent.eb }} to {{ site.data.spell.es }} in the rest of this guide.
+
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJRJSLRDRJQiEAAAAAgSCIlkgmkCSLJpFIIkAI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
+
+<hr>
+
+## Stats
+
+### Always remember to sim your current options appropriately
+ - [Raidbots](https://www.raidbots.com/simbot/topgear)
+ - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/2023-01-02-simming.md %})  
+
+### Simplified
+This is quick and dirty, your sims will take priority in your gearing process.
+ - Haste / Crit > Mastery / Vers
+ - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+- Having some amount of Vers is never bad as it will increase your passive survivability.
+
+<hr>
+
+## Rotation
+
+### Key Notes
+- You want to maximize the uptime of {{ site.data.talent.e_shocks }} on your target and use {{ site.data.spell.lvb }}, {{ site.data.talent.eb }} and {{ site.data.spell.lb }} in that order as much as possible during {{ site.data.talent.e_shocks }}.
+- {{ site.data.talent.lvs }} gained from {{ site.data.talent.wlr }} should be held to empower your next spender (which can be in 5 to 8 seconds).
+- If you are in combat with 2, 3 or more targets for an extended period of time, consider using the Lightning WLR with EoGS build just below as it's much better in cleave situations.
+- Once you hit 3 targets, any sort of gaming the {{ site.data.talent.mote }} buff becomes extremely bad. In practice, this also makes the points spent in {{ site.data.talent.potm }} near worthless however they are also needed for {{ site.data.talent.echo_chamber }} and {{ site.data.talent.mwf }}.
+- {{ site.data.talent.lr }} applies to your current target when it does not have an active buff. {{ site.data.spell.eq }} has *some* 'smart' applications to apply to off-targets but results can vary. It is suggested *when you are comfortable enough to do so* to incorporate target swapping after each spender to increase the value gained from {{ site.data.talent.lr }}. If done poorly (i.e. too early in the learning process) this can produce negative results, master the basics then add complexity!
+- {{ site.data.talent.sop }} is there to amplify what you're already aiming to do at different target counts which can be quite handy:
+  * 1-2 Targets = {{ site.data.spell.lb }}
+  * 3-5 Targets = {{ site.data.spell.fs }} if and only if you need to move and {{ site.data.talent.sop }} buff happens to be up and no {{ site.data.talent.if }} buffs remain
+  * 6+ Targets = {{ site.data.spell.cl }} whenever possible
+  * {{ site.data.talent.sop }} will also make you want to delay casting {{ site.data.talent.sk }} on 1-2 targets or 6+ targets in order to benefit from their combined effects.
+
+### Opener
+Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+
+~3.5 seconds from boss pull
+<div class="opener">
+    <div class="skill se"><span>SE</span></div>
+    <div class="arrow"></div>
+    <div class="skill if"><span>IF</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill frs"><span>FrS</span></div>
+    <div class="arrow"></div>
+    <div class="text">Use {{ site.data.spell.lb }} up to 76 maelstrom and do a {{ site.data.talent.e_shocks }} with {{ site.data.talent.sk }} window (see below)</div>
+</div>
+
+<br>
+
+### Spender Window
+
+This cast-sequence will be your main way of dealing damage. You want:
+- at least 63 maelstrom at the start to be able to cast {{ site.data.talent.eb }}.
+- {{ site.data.spell.fs }} and {{ site.data.talent.e_shocks}} to both be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.talent.e_shocks }} is active.
+
+<div class="opener">
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill eb"><span>EB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+</div>
+
+The idea is simple:
+- Have {{ site.data.talent.e_shocks }} applied to the enemy.
+- Use {{ site.data.spell.lvb }} (if possible with {{ site.data.talent.lvs }} from {{ site.data.talent.wlr }}) to gain {{ site.data.talent.mote }}.
+- Use {{ site.data.talent.eb }} to gain {{ site.data.talent.sop }}
+- Use {{ site.data.spell.lb }} to maximize the damage gain from {{ site.data.talent.sop }}, {{ site.data.talent.lr }} and {{ site.data.talent.e_shocks }} while generating Maelstrom to execute the window again.
+- You want to use your CD and various enablers outside of this window.
+
+<br>
+
+### Stormkeeper Window
+
+You want these pre-requisite before doing this cast-sequence:
+- {{ site.data.talent.sk }} active
+- {{ site.data.spell.fs }} will be active for the next 10 seconds.
+- {{ site.data.talent.e_shocks}} to be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.talent.e_shocks }} is active.
+- You have at least 90 Maelstrom.
+- if {{ site.data.talent.e_shocks }} is active and has more than 5 seconds remaining, you have {{ site.data.talent.if }} active with at least 1 charges and at least 5 seconds remaining.
+
+*Note: You can refresh {{ site.data.spell.fs }} after the first {{ site.data.talent.lb }} if needed, but be careful not to let your other buffs expire.*
+
+<div class="opener">
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill eb"><span>EB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow"></div>
+    <div class="skill frs"><span>FrS</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill eb"><span>EB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+</div>
+
+<br>
+
+### 1 Target Priority
+- {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+- Outside or near the end of {{ site.data.talent.e_shocks }}, refresh {{ site.data.spell.fs }} when it's faded or will in ~5 seconds.
+- {{ site.data.spell.fs }} if {{ site.data.talent.e_shocks }} debuff is not active or will fade and {{ site.data.spell.fs }} has faded or will in ~8 seconds.
+- {{ site.data.talent.sk }} if you are able to fully execute the [Stormkeeper Window](https://stormearthandlava.com/guide/general/builds.html#stormkeeper-window) described above.
+- {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active.
+- {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and either.
+  * {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast.
+  * {{ site.data.talent.sk }} buff is active and {{ site.data.talent.e_shocks }} has less than 5 seconds remaining.
+- {{ site.data.spell.lvb }} if you are able to fully execute the [Spender Window](https://stormearthandlava.com/guide/general/builds.html#spender-window) described above.
+- {{ site.data.talent.eb }} with {{ site.data.talent.e_shocks }} and {{ site.data.talent.mote }}.
+- {{ site.data.talent.if }}.
+- {{ site.data.spell.lb }}.
+
+*Note: To put it simply, use {{ site.data.spell.lb }} to generate maelstrom then execute as many spender Window and {{ site.data.talent.sk }} Window as possible (see above), all the while maintaining {{ site.data.spell.fs }} and {{ site.data.talent.e_shocks }} on your target.*
+
+### 2 Targets Priority
+- {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+- Outside or near the end of {{ site.data.talent.e_shocks }}, refresh {{ site.data.spell.fs }} on your main target when it's faded or will in ~5 seconds.
+- {{ site.data.spell.fs }} if {{ site.data.talent.e_shocks }} debuff is not active or will fade and {{ site.data.spell.fs }} has faded or will in ~8 seconds.
+- {{ site.data.talent.sk }} if you are able to fully execute the [Stormkeeper Window](https://stormearthandlava.com/guide/general/builds.html#stormkeeper-window) described above.
+- {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active.
+- {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and either:
+  * {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast.
+  * {{ site.data.talent.sk }} buff is active and {{ site.data.talent.e_shocks }} has less than 5 seconds remaining.
+- {{ site.data.spell.lvb }} if you are able to fully execute the [Spender Window](https://stormearthandlava.com/guide/general/builds.html#spender-window) described above.
+- {{ site.data.talent.eb }} with {{ site.data.talent.e_shocks }} and {{ site.data.talent.mote }}.
+- {{ site.data.talent.if }}.
+- {{ site.data.spell.cl }}.
+
+*Note: If you are in combat with 2 or 3 targets for an extended period of time, consider using the Lightning WLR with EoGS build just below as it's much better in cleave situation.*
+
+
+### 3 Targets Priority
+- {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+- {{ site.data.talent.sk }} if it is available and there is no reason to hold its use.
+- {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast.
+- {{ site.data.talent.eb }} with {{ site.data.talent.e_shocks }}.
+- {{ site.data.talent.if }}.
+- {{ site.data.spell.cl }}.
+
+*Note: If you are in combat with 2 or 3 targets for an extended period of time, consider using the Lightning WLR with EoGS build just below as it's much better in cleave situation*
+
+
+## 4-5 Targets Priority
+- {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+- {{ site.data.talent.sk }} if it is available and no additional targets soon.
+- {{ site.data.spell.eq }}
+- {{ site.data.spell.cl }}
+
+*Note: This build becomes less than ideal compared to other lightning options at 4 and more targets.*
+
+### 6+ Targets Priority
+ - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.sk }} when buffed by {{ site.data.talent.sop }} if it is available and no additional targets soon.
+ - {{ site.data.spell.cl }} if {{ site.data.talent.sop }} is active
+ - {{ site.data.spell.eq }}
+ - {{ site.data.spell.cl }}
+
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header" id="listeogs">
+<div data-toggle="collapse" data-target="#listeogs-collapse" aria-expanded="false" aria-controls="listeogs-collapse" class="builds-header listeogs"><h2>Lightning Hybrid with Great Sundering</h2></div>
+</div>
+<div id="listeogs-collapse" class="collapse" aria-labelledby="listeogs" data-parent="#accordion-lightning">
+<div class="card-body" markdown="1">
+
+## What does this build do?
+
+This build is a Single Target build that picks {{ site.data.talent.eogs }} to gain a lot of value in Cleave and AoE situation, turning it into an hybrid build. It focuses on the power of {{ site.data.spell.lb }} and {{ site.data.talent.eb }} in ST, and {{ site.data.talent.eogs }} and {{ site.data.spell.cl }} in AoE. It seeks to empower its core spells with supporting talents like {{ site.data.talent.e_shocks }}, {{ site.data.talent.se }}, {{ site.data.talent.sop }} and {{ site.data.talent.lr }}. It also keeps {{ site.data.spell.lvb }} as an enabler in ST with {{ site.data.talent.wlr }}, {{ site.data.talent.mote }} and {{ site.data.talent.potm }}.
+
+This build rotation is fairly strict, playing around the {{ site.data.talent.e_shocks }} debuff in mostly the same way each time.
+
+## What does it look like?
+### "Standard" Build
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSCIlkgmkCSLJpFIIkAI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
+
+### FoL Variant
+- This variant drops {{ site.data.talent.eb }}, taking {{ site.data.talent.fol }} instead. Having a higher density of {{ site.data.talent.sop }} and {{ site.data.talent.eogs }} due to {{ site.data.spell.es }} cost being lower can somewhat compete with the raw damage of {{ site.data.talent.eb }}.
+- {{ site.data.talent.fol }} will have good defensive value, allowing you to cast {{ site.data.talent.as }} more often (see [this blogpost for a list of spells affected by {{ site.data.talent.fol }}]({{ site.baseurl }}{%link blog/_posts/2023-01-23-fol.md %})).
+- If you decide to play this variant, simply change {{ site.data.talent.eb }} to {{ site.data.spell.es }} in the rest of this guide.
+
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJJFSLRDRJQiEAAAAAgSCIlkgmkCSLJpFIIkAI?width=530&level=70" frameborder="0" width="530px" height="100%"></iframe>
+</div>
+
+<hr>
+
+## Stats
+
+### Always remember to sim your current options appropriately
+ - [Raidbots](https://www.raidbots.com/simbot/topgear)
+ - For more information [How Does Elemental Sim?]({{ site.baseurl }}{% link blog/_posts/2023-01-02-simming.md %})  
+
+### Simplified
+This is quick and dirty, your sims will take priority in your gearing process.
+ - Haste / Crit > Mastery / Vers
+ - Remember that generally Haste will make the rotation easier to execute and further improve your ability to adapt to movement so will always be a solid stat to go for, and more flexible than Mastery given Haste is also very good in all AoE-focused builds
+- Having some amount of Vers is never bad as it will increase your passive survivability.
+
+<hr>
+
+## Rotation
+
+### Key Notes
+- At 1 target, you want to maximize the uptime of {{ site.data.talent.e_shocks }} on your target, then use {{ site.data.spell.lvb }}, {{ site.data.talent.eb }} and {{ site.data.spell.lb }} in that order as much as possible during {{ site.data.talent.e_shocks }}.
+- At 2 and more targets, always alternate {{ site.data.talent.eb }} and {{ site.data.talent.eq }} uses.
+- At 1 and 2 targets, {{ site.data.talent.lvs }} gained from {{ site.data.talent.wlr }} should be held to empower your next spender (which can be in 5 to 8 seconds). Once you hit 4 targets, any sort of gaming the {{ site.data.talent.mote }} buff becomes very bad. We're still mathing out the 3 targets part.
+- {{ site.data.talent.lmt }} is included for its raw damage, don't start to spread {{ site.data.spell.fs }} unless you have to move - in which case it remains a good movement global when {{ site.data.talent.if }} buffed {{ site.data.spell.frs }} aren't available.
+- {{ site.data.talent.lr }} applies to your current target when it does not have an active buff. {{ site.data.spell.eq }} has *some* 'smart' applications to apply to off-targets but results can vary. It is suggested *when you are comfortable enough to do so* to incorporate target swapping after each spender to increase the value gained from {{ site.data.talent.lr }}. If done poorly (i.e. too early in the learning process) this can produce negative results, master the basics then add complexity!
+- {{ site.data.talent.sop }} is there to amplify what you're already aiming to do at different target counts which can be quite handy:
+  * 1-2 Targets = {{ site.data.spell.lb }}
+  * 3-5 Targets = {{ site.data.spell.fs }} if and only if you need to move and {{ site.data.talent.sop }} buff happens to be up and no {{ site.data.talent.if }} buffs remain
+  * 6+ Targets = {{ site.data.spell.cl }} whenever possible
+  * {{ site.data.talent.sop }} will also make you want to delay casting {{ site.data.talent.sk }} on 1-2 targets or 6+ targets in order to benefit from their combined effects.
+
+### Opener
+Follow the cast sequence below for your opener. A <span style="color:red">red arrow</span> indicates the time the boss is pulled. Please note that openers are a *very* minor and nit-picky increase (or sometimes decrease!), and adapting to the fight is much more important.
+
+~3.5 seconds from boss pull
+<div class="opener">
+    <div class="skill se"><span>SE</span></div>
+    <div class="arrow"></div>
+    <div class="skill if"><span>IF</span></div>
+    <div class="arrow pull"></div>
+    <div class="skill fs"><span>FS</span></div>
+    <div class="arrow"></div>
+    <div class="skill frs"><span>FrS</span></div>
+    <div class="arrow"></div>
+    <div class="text">Use {{ site.data.spell.lb }} up to 76 maelstrom and do a {{ site.data.talent.e_shocks }} with {{ site.data.talent.sk }} window (see below)</div>
+</div>
+
+<br>
+
+### Spender Window
+
+This cast-sequence will be your main way of dealing damage. You want:
+- at least 63 maelstrom at the start to be able to cast {{ site.data.talent.eb }}.
+- {{ site.data.spell.fs }} and {{ site.data.talent.e_shocks}} to both be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.talent.e_shocks }} is active.
+
+*Note: For two targets, you need only 38 maelstrom to be able to cast {{ site.data.spell.eq }} but you want the {{ site.data.talent.eogs }} buff to be active.*
+
+<div class="opener">
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill eb"><span>EB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+</div>
+
+The idea is simple:
+- Have {{ site.data.talent.e_shocks }} applied to the enemy.
+- Use {{ site.data.spell.lvb }} (if possible with {{ site.data.talent.lvs }} from {{ site.data.talent.wlr }}) to gain {{ site.data.talent.mote }}.
+- Use {{ site.data.talent.eb }} to gain {{ site.data.talent.sop }}
+- Use {{ site.data.spell.lb }} to maximize the damage gain from {{ site.data.talent.sop }}, {{ site.data.talent.lr }} and {{ site.data.talent.e_shocks }} while generating Maelstrom to execute the window again.
+- You want to use your CD and various enablers outside of this window.
+
+<br>
+
+### Stormkeeper Window
+
+You want these pre-requisite before doing this cast-sequence:
+- {{ site.data.talent.sk }} active
+- {{ site.data.spell.fs }} will be active for the next 10 seconds.
+- {{ site.data.talent.e_shocks}} to be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.talent.e_shocks }} is active.
+- You have at least 90 Maelstrom.
+- if {{ site.data.talent.e_shocks }} is active and has more than 5 seconds remaining, you have {{ site.data.talent.if }} active with at least 1 charges and at least 5 seconds remaining.
+
+*Note: You can refresh {{ site.data.spell.fs }} after the first {{ site.data.talent.lb }} if needed, but be careful not to let your other buffs expire.*  
+
+*Note: For two targets, you need 65 maelstrom and can alternate {{ site.data.talent.eb }} and {{ site.data.spell.eq }} depending on your {{ site.data.talent.eogs }} buff.*
+
+<div class="opener">
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill eb"><span>EB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+    <div class="arrow"></div>
+    <div class="skill frs"><span>FrS</span></div>
+    <div class="arrow"></div>
+    <div class="skill lvb"><span>LvB</span></div>
+    <div class="arrow"></div>
+    <div class="skill eb"><span>EB</span></div>
+    <div class="arrow"></div>
+    <div class="skill lb"><span>LB</span></div>
+</div>
+
+<br>
+
+### 1 Target Priority
+- {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+- {{ site.data.talent.lmt }} if it is available and no additional targets soon.
+- Outside or near the end of {{ site.data.talent.e_shocks }}, refresh {{ site.data.spell.fs }} when it's faded or will in ~5 seconds.
+- {{ site.data.spell.fs }} if {{ site.data.talent.e_shocks }} debuff is not active or will fade and {{ site.data.spell.fs }} has faded or will in ~8 seconds.
+- {{ site.data.talent.sk }} if you are able to fully execute the [Stormkeeper Window](https://stormearthandlava.com/guide/general/builds.html#stormkeeper-window) described above.
+- {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active.
+- {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and either.
+  * {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast.
+  * {{ site.data.talent.sk }} buff is active and {{ site.data.talent.e_shocks }} has less than 5 seconds remaining.
+- {{ site.data.spell.lvb }} if you are able to fully execute the [Spender Window](https://stormearthandlava.com/guide/general/builds.html#spender-window) described above.
+- {{ site.data.talent.eb }} with {{ site.data.talent.e_shocks }} and {{ site.data.talent.mote }}.
+- {{ site.data.talent.if }}.
+- {{ site.data.spell.lb }}.
+
+*Note: To put it simply, use {{ site.data.spell.lb }} to generate maelstrom then execute as many spender Window and {{ site.data.talent.sk }} Window as possible (see above), all the while maintaining {{ site.data.spell.fs }} and {{ site.data.talent.e_shocks }} on your target.*
+
+### 2 Targets Priority
+- {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+- {{ site.data.talent.lmt }} if it is available and no additional targets soon.
+- Outside or near the end of {{ site.data.talent.e_shocks }}, refresh {{ site.data.spell.fs }} on your main target when it's faded or will in ~5 seconds.
+- {{ site.data.spell.fs }} if {{ site.data.talent.e_shocks }} debuff is not active or will fade and {{ site.data.spell.fs }} has faded or will in ~8 seconds.
+- {{ site.data.talent.sk }} if you are able to fully execute the [Stormkeeper Window](https://stormearthandlava.com/guide/general/builds.html#stormkeeper-window) described above.
+- {{ site.data.spell.lb }} if {{ site.data.talent.sop }} buff is active.
+- {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and either:
+  * {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast.
+  * {{ site.data.talent.sk }} buff is active and {{ site.data.talent.e_shocks }} has less than 5 seconds remaining.
+- {{ site.data.spell.lvb }} if you are able to fully execute the [Spender Window](https://stormearthandlava.com/guide/general/builds.html#spender-window) described above.
+- {{ site.data.spell.eq }} with {{ site.data.talent.e_shocks }} and {{ site.data.talent.mote }}.
+- {{ site.data.talent.eb }} with {{ site.data.talent.e_shocks }} and {{ site.data.talent.mote }}.
+- {{ site.data.talent.if }}.
+- {{ site.data.spell.cl }}.
+
+### 3 Targets Priority
+- {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+- {{ site.data.talent.lmt }} if it is available and no additional targets soon.
+- {{ site.data.talent.sk }} if it is available and there is no reason to hold its use.
+- {{ site.data.spell.frs }} if {{ site.data.talent.if }} buff is up and {{ site.data.talent.e_shocks }} debuff is not active or will fade before next cast.
+- {{ site.data.talent.if }}.
+- {{ site.data.spell.eq }} with {{ site.data.talent.eogs }}.
+- {{ site.data.talent.eb }} with {{ site.data.talent.e_shocks }}.
+- {{ site.data.spell.cl }}.
+
+*Note: It's possible that playing around {{ site.data.talent.mote }} and {{ site.data.talent.potm }} is a damage gain at 3 (and maybe more targets) now. Until we have proof of it, this rotation guide will be include it.*
+
+## 4-5 Targets Priority
+- {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+- {{ site.data.talent.lmt }} if it is available and no additional targets soon.
+- {{ site.data.talent.sk }} if it is available and no additional targets soon.
+- {{ site.data.spell.eq }} with {{ site.data.talent.eogs }}.
+- {{ site.data.talent.eb }}.
+- {{ site.data.spell.cl }}.
+
+### 6+ Targets Priority
+ - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
+ - {{ site.data.talent.lmt }} if it is available and no additional targets soon.
+- {{ site.data.talent.sk }} when buffed by {{ site.data.talent.sop }} if it is available and no additional targets soon.
+ - {{ site.data.spell.cl }} if {{ site.data.talent.sop }} is active
+ - {{ site.data.spell.eq }} with {{ site.data.talent.eogs }}
+ - {{ site.data.talent.eb }}
+ - {{ site.data.spell.cl }}
+
+</div>
+</div>
+</div>
+
+<div class="card">
 <div class="card-header" id="limwf">
-<div data-toggle="collapse" data-target="#limwf-collapse" aria-expanded="false" aria-controls="limwf-collapse" class="builds-header limwf"><h2>Lightning with Mountains will Fall</h2></div>
+<div data-toggle="collapse" data-target="#limwf-collapse" aria-expanded="false" aria-controls="limwf-collapse" class="builds-header limwf"><h2>Lightning AoE with Mountains will Fall</h2></div>
 </div>
 <div id="limwf-collapse" class="collapse" aria-labelledby="limwf" data-parent="#accordion-lightning">
 <div class="card-body" markdown="1">
@@ -980,7 +1360,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
 ## Rotation
 
 ### Key Notes
- - {{ site.data.talent.mote }} is mainly to path to {{ site.data.talent.lmt }}, once you hit 3 targets any sort of gaming the {{ site.data.talent.mote }} buff becomes extremely bad, in practice this also makes the points spent in {{ site.data.talent.potm }} near worthless however they are also needed for {{ site.data.talent.echo_chamber }} & {{ site.data.talent.mwf }}
+ - {{ site.data.talent.mote }} is mainly to path to {{ site.data.talent.lmt }}, once you hit 3 targets any sort of gaming the {{ site.data.talent.mote }} buff becomes extremely bad, in practice this also makes the points spent in {{ site.data.talent.potm }} near worthless however they are also needed for {{ site.data.talent.echo_chamber }} and {{ site.data.talent.mwf }}
  - {{ site.data.talent.lr }} applies to your current target when it does not have an active buff. {{ site.data.spell.eq }} has *some* 'smart' applications to apply to off-targets but results can vary. It is suggested *when you are comfortable enough to do so* to incorporate target swapping after each spender to increase the value gained from {{ site.data.talent.lr }}. If done poorly (i.e. too early in the learning process) this can produce negative results, master the basics then add complexity!
  - {{ site.data.talent.lmt }} is included for its raw damage, don't start to spread {{ site.data.spell.fs }} unless you have to move - in which case it remains a good movement global when {{ site.data.talent.if }} buffed {{ site.data.spell.frs }} aren't available.
  - {{ site.data.talent.sop }} is there to amplify what you're already aiming to do at different target counts which can be quite handy, whilst it is appreciable that {{ site.data.talent.eb }} reduces the value gained from {{ site.data.talent.sop }} due to being more expensive and producing less buffs overall - this is only true for the 1-4 target range and the value added is still positive, AoE value from {{ site.data.talent.sop }} is unaffected at 6+ targets.
@@ -1080,7 +1460,7 @@ AoE openers are less rigid than boss openers. Keep in mind that these will chang
 
 <div class="card">
 <div class="card-header" id="lisfd">
-<div data-toggle="collapse" data-target="#lisfd-collapse" aria-expanded="false" aria-controls="lisfd-collapse" class="builds-header lisfd"><h2>Lightning with Skybreaker's Fiery Demise</h2></div>
+<div data-toggle="collapse" data-target="#lisfd-collapse" aria-expanded="false" aria-controls="lisfd-collapse" class="builds-header lisfd"><h2>Lightning AoE with Skybreaker's</h2></div>
 </div>
 <div id="lisfd-collapse" class="collapse" aria-labelledby="lisfd" data-parent="#accordion-lightning">
 <div class="card-body" markdown="1">
