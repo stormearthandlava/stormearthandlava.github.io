@@ -410,6 +410,8 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 ### Council of Captains Notable Trash Mobs
 
+*Notes: Compared to BfA, the Freehold Crew event was removed. You will not be able to join a crew, meaning all of the trash in the next area will be active each weeks.*
+
 **{{ site.data.dungeon.fh.irontide_oarsman }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.fh.sea_spout }}. Move away from the blue swirlies if the cast goes through.
 
@@ -426,7 +428,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 * This. Is. The. Worst. Mob. In. The. Game. Albeit it's better for caster, {{ site.data.dungeon.fh.slippery_suds }} will stun you if you jump with the 30s debuff.
 
 **{{ site.data.dungeon.fh.blacktooth_brute }}**
-* Stay farther than 5 yds away to ignore {{ site.data.dungeon.fh.earth_shaker }}.
+* Stay farther than 4 yds away to ignore {{ site.data.dungeon.fh.earth_shaker }}.
 
 **{{ site.data.dungeon.fh.blacktooth_knuckleduster }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.fh.shattering_bellow }}. Be careful not to get spell-locked if the cast goes through.
@@ -452,42 +454,21 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 
 <hr>
 
-### Join a Crew
-* Depending on the week, one of the three captains will be your ally. Be sure to do the event in the area before the bosses or they will be buffed by {{ site.data.dungeon.fh.under_one_banner }}.
-
-#### Joining the Bilge Rats
-* Drink some {{ site.data.dungeon.fh.bilge_rat_brew }} to gain {{ site.data.dungeon.fh.cutwater_regalia }}.
-* {{ site.data.dungeon.fh.bilge_rat_padfoot }}, {{ site.data.dungeon.fh.bilge_rat_brinescale }}, {{ site.data.dungeon.fh.bilge_rat_swabby }}, {{ site.data.dungeon.fh.bilge_rat_buccaneer }} and {{ site.data.dungeon.fh.captain_eudora }} will become friendly toward you.
-
-#### Joining the Blacktooth
-* You need to kill a pack of 6 mobs in a brawl to gain {{ site.data.dungeon.fh.blacktooth_regalia }}.
-* {{ site.data.dungeon.fh.blacktooth_brute }}, {{ site.data.dungeon.fh.blacktooth_scrapper }}, {{ site.data.dungeon.fh.blacktooth_knuckleduster }} and {{ site.data.dungeon.fh.captain_raoul }} will become friendly toward you.
-
-#### Joining the Cutwater
-* You will need to get a key by clicking 4 times on {{ site.data.dungeon.fh.murphy }}, a dog pug. A player with stealth can solo this event, or you will need to do packs in the area to be able to click on {{ site.data.dungeon.fh.murphy }}.
-* You will gain {{ site.data.dungeon.fh.cutwater_regalia }} by freing {{ site.data.dungeon.fh.otis }} from his cage with the key {{ site.data.dungeon.fh.murphy }} gives you.
-* {{ site.data.dungeon.fh.cutwater_knife_juggler }}, {{ site.data.dungeon.fh.cutwater_duelist }}, {{ site.data.dungeon.fh.cutwater_harpooner }} and {{ site.data.dungeon.fh.captain_jolly }} will become friendly toward you.
-
-<hr>
-
 ## Council of Captains
-* Depending on the week, one of the three captains will be your ally. Be sure to do the event in the area before the boss or the bosses will be buffed by {{ site.data.dungeon.fh.under_one_banner }}.
+
+*Note: Since the crew event was removed, {{ site.data.dungeon.fh.captain_jolly }} is now a permanent ally of the players, meaning you will have to fight against {{ site.data.dungeon.fh.captain_raoul }} and {{ site.data.dungeon.fh.captain_eudora }}.*
 
 ### {{ site.data.dungeon.fh.captain_eudora }}
 * The most dangerous of the three, by far.
 * {{ site.data.dungeon.fh.powder_shot }} can deal huge damage to a random target. Try to never be low on health or use a {{ site.data.talent.as }} when it's coming and you're low on health.
 * {{ site.data.dungeon.fh.grapeshot }} will make her jump to a corner of the arena and shoot huge frontals into the room. Use {{ site.data.talent.swg }} and {{ site.data.spell.ghost_wolf }} to quickly reposition behind or to the side of her and avoid all damage.
-* When she is your ally, she will periodically stun one of the other bosses with {{ site.data.dungeon.fh.chain_shot }}.
 
 ### {{ site.data.dungeon.fh.captain_raoul }}
 * Free your ally by killing the {{ site.data.dungeon.fh.blackout_barrel }}.
 * Stay away from melee to passively avoid {{ site.data.dungeon.fh.barrel_smash }}. This ability has an historically bad hitbox, so stay far to give yourself all chances to dodge it.
-* When he is your ally, stand inside of {{ site.data.dungeon.fh.tapped_keg }} to gain 15% damage.
 
 ### {{ site.data.dungeon.fh.captain_jolly }}
-* Dodge {{ site.data.dungeon.fh.cutting_surge }} swirly.
-* Dodge {{ site.data.dungeon.fh.whirlpool_of_blades }} swirly and the following puddle. Be careful, it will move back toward the boss.
-* When he is your ally, he will periodically buff you with {{ site.data.dungeon.fh.trade_winds_vigor }}.
+* He will assist you by attacking the other captains and periodically buff you with {{ site.data.dungeon.fh.trade_winds_vigor }}.
 
 ### {{ site.data.dungeon.fh.rummy_mancomb }}, The Barman!
 * The barman will throw brews that will do swirlies in the bosses arena. They all have the same animation but two are good and one is bad.
@@ -500,7 +481,7 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 ### Ring of Booty Notable Trash Mobs
 
 **{{ site.data.dungeon.fh.irontide_crusher }}**
-* Stay farther than 9 yds away to ignore {{ site.data.dungeon.fh.ground_shatter }}.
+* Stay farther than 10 yds away to ignore {{ site.data.dungeon.fh.ground_shatter }}.
 * Dodge {{ site.data.dungeon.fh.boulder_throw }} swirly.
 
 **{{ site.data.dungeon.fh.lightning }}**
@@ -538,10 +519,15 @@ Use {{ site.data.talent.as }} as needed to survive the initial hit.
 <hr>
 
 ## {{ site.data.dungeon.fh.harlan_sweete }}
-* Compared to BfA where {{ site.data.dungeon.fh.swiftwind_saber }} did nothing but bump you back, it will kill you if a single wind blade hits you in higher keys. Stand far to see them come toward you and be sure to dodge.
+
+* Compared to BfA, {{ site.data.dungeon.fh.swiftwind_saber }} is now a frontal tornado that will likely kill you get hit. Stand far to see them come toward you and be sure to dodge them.
+* Use {{ site.data.talent.as }} if you are targeted by {{ site.data.dungeon.fh.whirling_dagger }}.
 * When targeted by {{ site.data.dungeon.fh.cannon_barrage }}, kite away from the group to drop the {{ site.data.dungeon.fh.fiery_debris }}. You can stutter step to reduce the number of puddles in the arena.
 * {{ site.data.dungeon.fh.avast_ye }} will summon an {{ site.data.dungeon.fh.irontide_grenadier }} that will try to suicide on a party member with {{ site.data.dungeon.fh.black_powder_bomb }}. Use {{ site.data.talent.hex }}, {{ site.data.talent.thunderstorm }} or {{ site.data.spell.earthbind_totem }} to keep them far from the group (*TODO: Check if Hex can be used on it, might be flagged as an elemental making hex unusable on it*).
-* At 66% hp, {{ site.data.dungeon.fh.loaded_dice_all_hands }} will triple all of the boss ability. Be sure to kite the {{ site.data.dungeon.fh.cannon_barrage }} in a group and pay even more attention to {{ site.data.dungeon.fh.swiftwind_saber }}.
+* At 66% hp, {{ site.data.dungeon.fh.loaded_dice_all_hands }} will enhance all of the boss abilities:
+ 	- {{ site.data.dungeon.fh.cannon_barrage }} will now target 3 players. Kite together to save as much room as possible.
+	- {{ site.data.dungeon.fh.swiftwind_saber }} will now send 5 tornadoes from the boss. Be aware and dodge as much as possible.
+	- Stay spreaded from your teammates because {{ site.data.dungeon.fh.whirling_dagger }} will now ricochet.
 * At 33%, {{ site.data.dungeon.fh.loaded_dice_man_o_war }} will make the boss take 100% more damage. In higher keys, you want to use everything here before he kills your tank. This is a good time to use {{ site.data.talent.stoneskin_totem }} if talented.
 
 *Note: {{ site.data.dungeon.fh.harlan_sweete }}'s {{ site.data.dungeon.fh.cannon_barrage }} actually deals Friendly Fire damage to all other creatures in the instance (other than {{ site.data.dungeon.fh.harlan_sweete }} himself). This includes the summoned add {{ site.data.dungeon.fh.irontide_grenadier }} and all the trash surrounding the boss.*
@@ -715,7 +701,6 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 ## {{ site.data.dungeon.hoi.primal_tsunami }}
 ### Phase 1
 * Avoid the swirlies and spheres created by {{ site.data.dungeon.hoi.infused_globules }}. Use {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }} to remove the {{ site.data.dungeon.hoi.waterlogged }} debuff if you ever run into one.
-* Avoid the incoming {{ site.data.dungeon.hoi.rogue_waves }}.
 * Help your healer with {{ site.data.talent.ag }} during {{ site.data.dungeon.hoi.tempests_fury }}.
 
 ### Intermission - Run back to the boss
@@ -1255,8 +1240,8 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 
 ## {{ site.data.dungeon.vp.asaad }}
 * Quickly move to the lightning triangle created by {{ site.data.dungeon.vp.unstable_grounding_field }} or you will die from {{ site.data.dungeon.vp.supremacy_of_the_storm }}.
-* {{ site.data.dungeon.vp.chain_lightning }} will deal moderate damage to the whole party periodically. Use a defensive if needed.
-* Some {{ site.data.dungeon.vp.skyfall_star }} will spawn along the edge of the room, firing {{ site.data.dungeon.vp.starlight }} at random players. While they don't do that much damage, they can quickly ramp up if many become active at once.
+* Stay spreaded at 8 yds to avoid spreading to your party {{ site.data.dungeon.vp.chain_lightning }}. Use a defensive as needed when you are targeted.
+* Quickly switch and burst the add summoned by {{ site.data.dungeon.vp.skyfall_nova }}. This is a good place to use {{ site.data.talent.ag }}.
 * You need to jump when {{ site.data.dungeon.vp.static_cling }} is being cast or you will get slowed. You can also just use {{ site.data.talent.thunderous_paws }} or {{ site.data.talent.spirit_walk }} to dispel it afterward.
 
 </div>
