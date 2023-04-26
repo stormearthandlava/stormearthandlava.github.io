@@ -417,7 +417,10 @@ Soon TM
 <hr>
 
 # Useful WeakAuras
-* None lulz
+* [Aberrus, the Shadowed Crucible ](https://wago.io/DF-Dungeons) by Causese
+* [Aberrus Co-Tank Auras](https://wago.io/dfcotank2) by Causese
+* [Kaze ERT Timers Icons](https://wago.io/n7l5uN3YM) by KazeShinu#2330 (requires [Method (Exorsus) Raid Tools)](https://www.curseforge.com/wow/addons/method-raid-tools) Addon)
+* [Interrupt Anchor - All Bosses](https://wago.io/InterruptAnchor) by Reloe (Requires [Method (Exorsus) Raid Tools](https://www.curseforge.com/wow/addons/method-raid-tools) Addon)
 
 <hr>
 
@@ -427,3 +430,4 @@ Soon TM
 * [Icy-Veins Elemental Shaman Aberrus Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-aberrus-the-shadowed-crucible-raid-guide) by Stormy
 - [Warcraft Logs](https://www.warcraftlogs.com/)
 - [Aberrus, the Shadowed Crucible Loot Overview](https://www.wowhead.com/guide/raids/aberrus-the-shadowed-crucible/overview#loot)
+* [Raid Subcreation](https://raid.subcreation.net/aberrus-elemental-shaman.html)

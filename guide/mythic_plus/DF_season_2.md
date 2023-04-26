@@ -1428,10 +1428,6 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 
 # Useful WeakAuras
 
-* [Dragonflight Season 1 Dungeons Pack](https://wago.io/DF-Dungeons) by Jodsderechte
-* [Thundering Helper](https://wago.io/thunder) by Ellesmere
-* [Quaking Helper](https://wago.io/QuakeInterrupt) by JackTheEgg
-* [Mythic+ Auto Marker](https://wago.io/1ctv3b91K) by Megawatt
 * [Mythic+ Timer](https://wago.io/M+Timer) by Reloe
 
 <hr>
