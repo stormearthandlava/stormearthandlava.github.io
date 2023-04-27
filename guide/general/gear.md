@@ -18,6 +18,10 @@ This guide will not include trinkets, as they have their [own guide]({{ site.bas
 
 # Recommendations
 
+441 is the base Mythic level and the maximum for valor upgraded mythic + items.
+444 are Rashok and the Dracthyr Experiments.
+447 are Zskarn and Magmorax items as well as the vault mythic+ 20s item level
+450 are Neltharion and Sarkareth exclusive items.
 
 <hr>
 
