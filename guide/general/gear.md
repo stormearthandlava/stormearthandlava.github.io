@@ -1,6 +1,6 @@
 ---
 layout: highcharts_page
-title: Trinkets
+title: Gear
 last_update: 31/03/2023
 game_version: 10.0.7 Dragonflight
 toc: true
@@ -23,7 +23,15 @@ This guide will not include trinkets, as they have their [own guide]({{ site.bas
 # Item List :
 
 ## Head
-* 65% Hast > 35% Crit \| <a href="https://www.wowhead.com/item=193777/helm-of-hardened-gold?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Helm of Hardened Gold</a> \| Neltharus
+
+#### Raid
+* 70% Hast > 30% Mast \| <a href="https://www.wowhead.com/ptr/item=202470/spangenhelm-of-the-cinderwolf?bonus=8780:7187&class=7&ilvl=450&spec=262" target="blank">Spangenhelm of the Cinderwolf</a> \| Tier Set - Scalecommander Sarkareth
+* 70% Hast > 30% Mast \| <a href="https://www.wowhead.com/ptr/item=202591/gatecrasher-giants-coif?bonus=8780:4800:1498&class=7&ilvl=441&spec=262" target="blank">Gatecrasher Giant's Coif</a> \| Assault of the Zaqali
+
+#### M+
+* 65% Hast > 35% Crit \| <a href="https://www.wowhead.com/ptr/item=193777/helm-of-hardened-gold?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Helm of Hardened Gold</a> \| Neltharus
+* 61% Crit > 35% Mast \| <a href="https://www.wowhead.com/ptr/item=193726/amphibians-bellowing-crown?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Amphibian's Bellowing Crown</a> \| Halls of Infusion
+* 58% Hast > 42% vers \| <a href="https://www.wowhead.com/ptr/item=134470/mountain-throne-coif?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Mountain Throne Coif</a> \| Neltharion's Lair
 
 ## Shoulder
 
