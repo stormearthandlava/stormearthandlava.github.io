@@ -63,7 +63,7 @@ This is a list simply a list of all items available in the raid and in the S2 du
 ## Back
 #### Raid
 * <a href="https://www.wowhead.com/ptr/item=202573/etchings-of-the-captive-revenant?bonus=4800:1498&class=7&ilvl=441&spec=262" target="blank">Etchings of the Captive Revenant</a> \| Kazzara, the Hellforged
-* <a href="https://www.wowhead.com/ptr/item=204467/drape-of-the-dracthyr-trials?bonus=4800:1498&class=7&ilvl=447&spec=262" target="blank">Drape of the Dracthyr Trials</a> \| Zskarn
+* <a href="https://www.wowhead.com/ptr/item=204467/drape-of-the-dracthyr-trials?bonus=4800:1498&class=7&ilvl=447&spec=262" target="blank">Drape of the Dracthyr Trials</a> \| The Vigilant Steward, Zskarn
 * <a href="https://www.wowhead.com/ptr/item=204465/voice-of-the-silent-star?bonus=4800:1498&class=7&ilvl=457&spec=262" target="blank">Voice of the Silent Star</a> \| Scalecommander Sarkareth (rare item)
 
 #### Mythic+
@@ -77,13 +77,26 @@ This is a list simply a list of all items available in the raid and in the S2 du
 
 ## Chest
 #### Raid
+* <a href="https://www.wowhead.com/ptr/item=202473/adornments-of-the-cinderwolf?bonus=7187&class=7&ilvl=447&spec=262" target="blank">Adornments of the Cinderwolf</a> \| Tier set - The Vigilant Steward, Zskarn
+* <a href="https://www.wowhead.com/ptr/item=202598/cuirass-of-meticulous-mixture?bonus=4800:1498&class=7&ilvl=441&spec=262" target="blank">Cuirass of Meticulous Mixture</a> \| the Amalgamation Chamber
+
 #### Mythic+
+* <a href="https://www.wowhead.com/ptr/item=193734/hauberk-of-frozen-fervor?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Hauberk of Frozen Fervor</a> \| Halls of Infusion
+* <a href="https://www.wowhead.com/ptr/item=137354/tunic-of-screaming-earth?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Tunic of Screaming Earth</a> \| Neltharion's Lair
 * <a href="https://www.wowhead.com/ptr/item=193782/emberguard-harness?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Emberguard Harness</a> \| Neltharus
+* <a href="https://www.wowhead.com/ptr/item=193801/fatebound-chainmail?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Fatebound Chainmail</a> \| Uldaman: Legacy of Tyr
 
 ## Wrist
 #### Raid
+* <a href="https://www.wowhead.com/ptr/item=202604/boulder-tossing-bands?bonus=8780:4800:1498&class=7&ilvl=441&spec=262" target="blank">Boulder-Tossing Bands</a> \| Assault of the Zaqali
+* <a href="https://www.wowhead.com/ptr/item=202659/shackles-of-the-shadowed-bastille?bonus=8780:4800:1498&class=7&ilvl=444&spec=262" target="blank">Shackles of the Shadowed Bastille</a> \| Rashok, the Elder
+* <a href="https://www.wowhead.com/ptr/item=202466/runebraces-of-the-cinderwolf?bonus=8780:7187&class=7&ilvl=447&spec=262" target="blank">Runebraces of the Cinderwolf</a> \| Catalyst
+
 #### Mythic+
+* <a href="https://www.wowhead.com/ptr/item=159356/raouls-barrelhook-bracers?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Raoul's Barrelhook Bracers</a> \| Freehold
+* <a href="https://www.wowhead.com/ptr/item=134164/bitestone-wristwrap?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Bitestone Wristwrap</a> \| Neltharion's Lair
 * <a href="https://www.wowhead.com/item=193727/obsidian-hardened-wraps?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Obsidian-Hardened Wraps</a> \| Neltharus
+* <a href="https://www.wowhead.com/ptr/item=193812/fierce-boreal-armguards?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Fierce Boreal Armguards</a> \| Uldaman: Legacy of Tyr
 
 ## Gloves
 #### Raid
