@@ -8,12 +8,14 @@ categories:
       url: /guide/general/builds.html
     - title: F.A.Q.
       url: /guide/general/faq.html
+    - title: Consumables
+      url: /guide/general/consumables.html
+    - title: Gearing
+      url: /guide/general/gear.html
     - title: Macros
       url: /guide/general/macros.html
     - title: Trinkets
       url: /guide/general/trinkets.html
-    - title: Consumables
-      url: /guide/general/consumables.html
 - title: Mythic+
   subcategories:
     - title : DF Season 2
@@ -22,10 +24,10 @@ categories:
       url : /guide/mythic_plus/DF_season_1.html
 - title: Raids
   subcategories:
-    - title: Vault of the Incarnates
-      url: /guide/raids/vault.html
     - title: Aberrus, The Shadowed Crucible
       url: /guide/raids/aberrus.html
+    - title: Vault of the Incarnates
+      url: /guide/raids/vault.html
 
 #- title: Mythic+
 # activate this v line if you don't want child elements in the top menu

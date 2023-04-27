@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Macros
-last_update: 31/03/2023 
-game_version: 10.0.7 Dragonflight
+last_update: 31/03/2023
+game_version: 10.1.0 Dragonflight
 toc: true
 ---
 
@@ -15,13 +15,13 @@ If you have suggestions to improve macros found on this page, or additional macr
 
 ### {{ site.data.spell.fs }}
 ```
-#showtooltip 
+#showtooltip
 /use [@mouseover,harm,nodead][]Flame Shock
 ```
 
 ### {{ site.data.spell.frs }}
 ```
-#showtooltip 
+#showtooltip
 /use [@mouseover,harm,nodead][]Frost Shock
 ```
 
@@ -68,22 +68,22 @@ Note: if your Covenant is set to Necrolord from Shadowlands content you may need
 
 ### {{ site.data.spell.wind_shear }} - There are many ways to macro interrupt abilities, below are some examples only use whichever setup enables you to play most reliably!
 
-- Will interrupt your Focus if you have one, otherwise will interrupt your current target. 
+- Will interrupt your Focus if you have one, otherwise will interrupt your current target.
 ```
 #showtooltip
 /use [@focus,harm,exists,nodead][]Wind Shear
 ```
-- Will interrupt your current Mouseover target if it is an enemy, otherwise will interrupt your current target. 
+- Will interrupt your current Mouseover target if it is an enemy, otherwise will interrupt your current target.
 ```
 #showtooltip
 /use [@mouseover,harm,nodead][]Wind Shear
 ```
-- Will interrupt your Focus if you have one, your current Mouseover target if it is an enemy, otherwise will interrupt your current target. 
+- Will interrupt your Focus if you have one, your current Mouseover target if it is an enemy, otherwise will interrupt your current target.
 ```
 #showtooltip
 /use [@focus,harm,exists,nodead][@mouseover,harm,nodead][]Wind Shear
 ```
-- For specific interrupt uses, if you dislike using Focus or Mouseovers. 
+- For specific interrupt uses, if you dislike using Focus or Mouseovers.
 ```
 #showtooltip
 /tar *enemy name here*
@@ -138,4 +138,3 @@ Note: if your Covenant is set to Necrolord from Shadowlands content you may need
 #showtooltip
 /use [known:Stoneskin Totem]Stoneskin Totem;[known:Tranquil Air Totem]Tranquil Air Totem
 ```
-
