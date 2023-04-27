@@ -115,6 +115,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 * **There will be no seasonal affixes this season.**
 * The level 4 bracket has been moved to level 14.
 * {{ site.data.affixes.explosive }}, {{ site.data.affixes.grievous }} and {{ site.data.affixes.quaking }} have been removed.
+* New affixes join the level 7 bracket: {{ site.data.affixes.entangling }}, {{ site.data.affixes.afflicted }} and {{ site.data.affixes.incorporeal }}
 * {{ site.data.affixes.bolstering }} changes:
 	- {{ site.data.affixes.bolster }} no longer increases the health of affected creatures (was health and damage).
 * {{ site.data.affixes.spiteful }} changes:

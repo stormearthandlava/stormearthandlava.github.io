@@ -50,7 +50,8 @@ This page has the answers to some frequently asked questions for Elemental Shama
 * Yes, {{ site.data.spell.eq }} stacks and has no stack limit. Also Haste doesn't affect its tick rate.
 
 ### Q: "When should I stop using {{ site.data.spell.es }} and use {{ site.data.spell.eq }}?"
-* In general, stop using {{ site.data.spell.es }} against two targets or more. But check out the [Priority List]({{ site.baseurl }}{% link guide/general/priority_list.md %}) page for more information.
+* In general, stop using {{ site.data.spell.es }} against two targets or more. You can check the Priority List for each build in the [Build]({{ site.baseurl }}{% link guide/general/builds.md %}) section of the guide.
+
 
 ### Q: "When is the best time to use Primal Fire Elemental's {{ site.data.spell.meteor }} and Primal Storm Elemental's {{ site.data.spell.tempest }}?"
 * When they would hit the most targets. For {{ site.data.spell.tempest }} specifically, you need to ensure it is also fully buffed by {{ site.data.spell.call_lightning }}.  
