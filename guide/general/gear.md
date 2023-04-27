@@ -62,8 +62,18 @@ This is a list simply a list of all items available in the raid and in the S2 du
 
 ## Back
 #### Raid
+* <a href="https://www.wowhead.com/ptr/item=202573/etchings-of-the-captive-revenant?bonus=4800:1498&class=7&ilvl=441&spec=262" target="blank">Etchings of the Captive Revenant</a> \| Kazzara, the Hellforged
+* <a href="https://www.wowhead.com/ptr/item=204467/drape-of-the-dracthyr-trials?bonus=4800:1498&class=7&ilvl=447&spec=262" target="blank">Drape of the Dracthyr Trials</a> \| Zskarn
+* <a href="https://www.wowhead.com/ptr/item=204465/voice-of-the-silent-star?bonus=4800:1498&class=7&ilvl=457&spec=262" target="blank">Voice of the Silent Star</a> \| Scalecommander Sarkareth (rare item)
+
 #### Mythic+
+* <a href="https://www.wowhead.com/ptr/item=155884/parrotfeather-cloak?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Parrotfeather Cloak</a> \| Freehold
+* <a href="https://www.wowhead.com/ptr/item=134408/putrid-carapace?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Putrid Carapace</a> \| Neltharion's Lair
 * <a href="https://www.wowhead.com/item=193787/mammoth-trainers-drape?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Mammoth-Trainer's Drape</a> \| Neltharus
+* <a href="https://www.wowhead.com/ptr/item=159292/sporecallers-shroud?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Sporecaller's Shroud</a> \| The Underrot
+* <a href="https://www.wowhead.com/ptr/item=133362/billowing-skydrape?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Billowing Skydrape</a> \| The Vortex Pinnacle
+* <a href="https://www.wowhead.com/ptr/item=133247/shadow-of-perfect-bliss?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Shadow of Perfect Bliss</a> \| The Vortex Pinnacle
+* <a href="https://www.wowhead.com/ptr/item=133245/billowing-cape?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Billowing Cape</a> \| The Vortex Pinnacle
 
 ## Chest
 #### Raid
