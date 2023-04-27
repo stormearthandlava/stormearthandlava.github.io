@@ -4,6 +4,7 @@ title: Gear
 last_update: 31/03/2023
 game_version: 10.0.7 Dragonflight
 toc: true
+big_article: true
 ---
 # Introduction
 
@@ -20,48 +21,96 @@ This guide will not include trinkets, as they have their [own guide]({{ site.bas
 
 <hr>
 
-# Item List :
+# Season 2 Item List :
+
+This is a list simply a list of all items available in the raid and in the S2 dungeons (excluding trinkets).
 
 ## Head
 
 #### Raid
-* 70% Hast > 30% Mast \| <a href="https://www.wowhead.com/ptr/item=202470/spangenhelm-of-the-cinderwolf?bonus=8780:7187&class=7&ilvl=450&spec=262" target="blank">Spangenhelm of the Cinderwolf</a> \| Tier Set - Scalecommander Sarkareth
-* 70% Hast > 30% Mast \| <a href="https://www.wowhead.com/ptr/item=202591/gatecrasher-giants-coif?bonus=8780:4800:1498&class=7&ilvl=441&spec=262" target="blank">Gatecrasher Giant's Coif</a> \| Assault of the Zaqali
+* <a href="https://www.wowhead.com/ptr/item=202470/spangenhelm-of-the-cinderwolf?bonus=8780:7187&class=7&ilvl=450&spec=262" target="blank">Spangenhelm of the Cinderwolf</a> \| Tier Set - Scalecommander Sarkareth
+* <a href="https://www.wowhead.com/ptr/item=202591/gatecrasher-giants-coif?bonus=8780:4800:1498&class=7&ilvl=441&spec=262" target="blank">Gatecrasher Giant's Coif</a> \| Assault of the Zaqali
 
-#### M+
-* 65% Hast > 35% Crit \| <a href="https://www.wowhead.com/ptr/item=193777/helm-of-hardened-gold?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Helm of Hardened Gold</a> \| Neltharus
-* 61% Crit > 35% Mast \| <a href="https://www.wowhead.com/ptr/item=193726/amphibians-bellowing-crown?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Amphibian's Bellowing Crown</a> \| Halls of Infusion
-* 58% Hast > 42% vers \| <a href="https://www.wowhead.com/ptr/item=134470/mountain-throne-coif?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Mountain Throne Coif</a> \| Neltharion's Lair
+#### Mythic+
+* <a href="https://www.wowhead.com/ptr/item=193726/amphibians-bellowing-crown?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Amphibian's Bellowing Crown</a> \| Halls of Infusion
+* <a href="https://www.wowhead.com/ptr/item=134470/mountain-throne-coif?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Mountain Throne Coif</a> \| Neltharion's Lair
+* <a href="https://www.wowhead.com/ptr/item=193777/helm-of-hardened-gold?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Helm of Hardened Gold</a> \| Neltharus
+
+## Neck
+#### Raid
+* <a href="https://www.wowhead.com/ptr/item=204397/magmoraxs-fourth-collar?bonus=8782:4800:1498&ilvl=447&spec=262" target="blank">Magmorax's Fourth Collar</a> \| Magmorax
+* <a href="https://www.wowhead.com/ptr/item=202618/kagnis-scorching-talisman?bonus=8782:4800:1498&ilvl=441&spec=262" target="blank">Kagni's Scorching Talisman</a> \| Assault of the Zaqali
+
+#### Mythic+
+* <a href="https://www.wowhead.com/ptr/item=193666/tuskarr-bone-necklace?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Bromach's Disentombed Locket</a> \| Brackenhide Hollow
+* <a href="https://www.wowhead.com/ptr/item=134495/chain-of-the-underking?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Chain of the Underking</a> \| Neltharion's Lair
+* <a href="https://www.wowhead.com/ptr/item=134491/understone-gorget?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Understone Gorget</a> \| Neltharion's Lair
+* <a href="https://www.wowhead.com/ptr/item=206181/ionized-choker?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Ionized Choker</a> \| The Vortex Pinnacle
+* <a href="https://www.wowhead.com/ptr/item=206180/choker-of-stolen-thunder?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Choker of Stolen Thunder</a> \| The Vortex Pinnacle
+* <a href="https://www.wowhead.com/ptr/item=206182/red-sky-pendant?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Red Sky Pendant</a> \| The Vortex Pinnacle
+* <a href="https://www.wowhead.com/ptr/item=193809/bromachs-disentombed-locket?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Bromach's Disentombed Locket</a> \| Uldaman: Legacy of Tyr
 
 ## Shoulder
+#### Raid
+* <a href="https://www.wowhead.com/ptr/item=202468/thunderpads-of-the-cinderwolf?bonus=7187&class=7&ilvl=450&spec=262" target="blank">Thunderpads of the Cinderwolf</a> \| Tier Set - Echo of Neltharion.
+* <a href="https://www.wowhead.com/ptr/item=202590/kazzaras-grafted-companion?bonus=4800:1498&class=7&ilvl=441&spec=262" target="blank">Kazzara's Grafted Companion</a> \| Kazzara, the Hellforged
+
+#### Mythic+
+* <a href="https://www.wowhead.com/ptr/item=193655/rooted-shoulders-of-putrefaction?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Rooted Shoulders of Putrefaction</a> \| Brackenhide Hollow
+* <a href="https://www.wowhead.com/ptr/item=139121/skyhorn-mantle?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Skyhorn Mantle</a> \| Neltharion's Lair
+* <a href="https://www.wowhead.com/ptr/item=133235/fallen-snow-shoulderguards?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Fallen Snow Shoulderguards</a> \| The Vortex Pinnacle
 
 ## Back
-* 65% Mast > 35% Crit \| <a href="https://www.wowhead.com/item=193787/mammoth-trainers-drape?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Mammoth-Trainer's Drape</a> \| Neltharus
+#### Raid
+#### Mythic+
+* <a href="https://www.wowhead.com/item=193787/mammoth-trainers-drape?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Mammoth-Trainer's Drape</a> \| Neltharus
 
 ## Chest
-* 61% Hast > 39% Mast \| <a href="https://www.wowhead.com/ptr/item=193782/emberguard-harness?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Emberguard Harness</a> \| Neltharus
+#### Raid
+#### Mythic+
+* <a href="https://www.wowhead.com/ptr/item=193782/emberguard-harness?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Emberguard Harness</a> \| Neltharus
 
 ## Wrist
-* 61% Vers > 39% Crit \| <a href="https://www.wowhead.com/item=193727/obsidian-hardened-wraps?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Obsidian-Hardened Wraps</a> \| Neltharus
+#### Raid
+#### Mythic+
+* <a href="https://www.wowhead.com/item=193727/obsidian-hardened-wraps?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Obsidian-Hardened Wraps</a> \| Neltharus
 
 ## Gloves
+#### Raid
+#### Mythic+
 
 ## Belt
+#### Raid
+#### Mythic+
 
 ## Legs
+#### Raid
+#### Mythic+
 
 ## Boots
+#### Raid
+#### Mythic+
 
 ## Rings
-* 68% Mast > 32% Crit \| <a href="https://www.wowhead.com/item=193768/scalebane-signet?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Scalebane Signet</a> \| Neltharus
+#### Raid
+#### Mythic+
+* <a href="https://www.wowhead.com/item=193768/scalebane-signet?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Scalebane Signet</a> \| Neltharus
 
 ## 2 handed Weapon
+#### Raid
+#### Mythic+
 
 ## 1 Handed Weapon
-* 59% Mast > 41% Vers \| <a href="https://www.wowhead.com/item=193790/searing-tusk-shard?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Searing Tusk Shard</a> \| Neltharus
+#### Raid
+#### Mythic+
+* <a href="https://www.wowhead.com/item=193790/searing-tusk-shard?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Searing Tusk Shard</a> \| Neltharus
 
 ## Off-Hand
-* 61% Crit > 39% Hast \| <a href="https://www.wowhead.com/item=193783/irontorch-igniter?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Irontorch Igniter</a> \| Neltharus
+#### Raid
+#### Mythic+
+* <a href="https://www.wowhead.com/item=193783/irontorch-igniter?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Irontorch Igniter</a> \| Neltharus
 
 ## Shield
-* 63% Crit > 37% Mast \| <a href="https://www.wowhead.com/item=193778/qalashi-defender?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Qalashi Defender</a> \| Neltharus
+#### Raid
+#### Mythic+
+* <a href="https://www.wowhead.com/item=193778/qalashi-defender?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Qalashi Defender</a> \| Neltharus
