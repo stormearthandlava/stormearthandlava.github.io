@@ -1299,7 +1299,7 @@ You want these pre-requisite before doing this cast-sequence:
 - {{ site.data.talent.eb }} with {{ site.data.talent.e_shocks }}.
 - {{ site.data.spell.cl }}.
 
-*Note: It's possible that playing around {{ site.data.talent.mote }} and {{ site.data.talent.potm }} is a damage gain at 3 (and maybe more targets) now. Until we have proof of it, this rotation guide will be include it.*
+*Note: It's possible that playing around {{ site.data.talent.mote }} and {{ site.data.talent.potm }} is a damage gain at 3 (and maybe more targets) now. Until we have proof of it, this rotation guide will not include it.*
 
 ## 4-5 Targets Priority
 - {{ site.data.talent.se }} if it is available and there is no reason to hold its use.
