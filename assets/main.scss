@@ -148,7 +148,7 @@ div.table-17-23-20-20-20 table{
   padding-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2 ;
   position: fixed;
-  right: 5%;
+  right: 3%;
   border-left: 3px solid $grey-color;
 }
 @media only screen and (max-width: 1150px) {
@@ -158,22 +158,22 @@ div.table-17-23-20-20-20 table{
 }
 @media only screen and (min-width: 1300px) {
   .side-menu { // adjust position to be closer to content
-    right: 10%;
+    right: 8%;
   }
 }
 @media only screen and (min-width: 1500px) {
   .side-menu { // adjust position to be closer to content
-    right: 15%;
+    right: 12%;
   }
 }
 @media only screen and (min-width: 1700px) {
   .side-menu { // adjust position to be closer to content
-    right: 20%;
+    right: 16%;
   }
 }
 @media only screen and (min-width: 1950px) { // +50px to ensure no overlap
   .side-menu { // adjust position to be closer to content
-    right: 25%;
+    right: 20%;
   }
 }
 
