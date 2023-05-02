@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Aberrus, the Shadowed Crucible Guide"
-last_update: 01/05/2023
+last_update: 02/05/2023
 game_version: 10.1.0 Dragonflight
-author: Sheffy, Elivrio
 toc: true
 big_article: true
 ---

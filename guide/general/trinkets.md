@@ -1,7 +1,7 @@
 ---
 layout: highcharts_page
 title: Trinkets
-last_update: 01/05/2023
+last_update: 02/05/2023
 game_version: 10.1.0 Dragonflight
 toc: true
 ---
