@@ -31,8 +31,8 @@ There are 4 embellishments that may be used by Elemental Shamans during Season 2
 - {{ site.data.gear.elemental_lariat }} is still a solid choice but lacks a second very good embellish to run it with. Since 10.1, the effect duration depends on the number of Elemental Gems you are using. {{ site.data.gear.elemental_lariat }} becomes a reasonable consideration if you have 5 or more Elemental Gems in your gear.
 - {{ site.data.gear.venom_steeped_stompers }} is the most relevant option we get for AoE outside of the {{ site.data.gear.horizon_strider }} set.
 
-This gives us the following combinations:
-#### Horizon Strider - Versatile
+This gives us the following possible combinations:
+#### Horizon Stride Set
 - {{ site.data.gear.wind_spirits_lasso }}
 - {{ site.data.gear.scale_rein_grips }}
 
@@ -56,7 +56,9 @@ I will be real with you for a minute, a BiS list **does not exist**. A list of i
 
 With that being said, here is a list of items that you can strive for to make your character feel "complete". Note that the list varies depending on the Embellishments you choose:
 
-Gear Slot<br>\_\_\_\_\_\_\_\_\_\_\_ | Horizon Set<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Raid Lariat<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | AoE Lariat Set<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Pure ST Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-17-23-20-20-20" markdown="1">
+
+Gear Slot | Horizon Strider Set | Raid Lariat | AoE Lariat | Pure ST
 :---: | :---: | :---: | :---: | :---:
 Helm | {{ site.data.gear.spangenhelm_of_the_cinderwolf }} | | |
 Neck | {{ site.data.gear.red_sky_pendant }} | {{ site.data.gear.elemental_lariat }} | {{ site.data.gear.elemental_lariat }} | {{ site.data.gear.red_sky_pendant }}
@@ -74,6 +76,8 @@ Trinket1 | {{ site.data.gear.flowstone }} | | |
 Trinket2 | {{ site.data.gear.call_to_dominance }} | | |
 Weapon | {{ site.data.gear.erethos_the_empty_promise }} | | |
 
+</div>
+
 <hr>
 
 # Season 2 Item List :
@@ -82,7 +86,9 @@ Here is a list of all items available in Dungeons and Raid during S2 (excluding 
 
 ## Head
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.spangenhelm_of_the_cinderwolf }} | Vers (69%) > Hast | Tier Set - Magmorax
 {{ site.data.gear.gatecrasher_giants_coif }} | Hast (69%) > Mast | Assault of the Zaqali
@@ -90,11 +96,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.mountain_throne_coif }} | Hast (58%) > Vers | Neltharion's Lair
 {{ site.data.gear.helm_of_hardened_gold }} | Hast (64%) > Crit | Neltharus
 
+</div>
+
 <br>
 
 ## Neck
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.magmoraxs_fourth_collar }} | Mast (75%) > Vers | Magmorax
 {{ site.data.gear.kagnis_scorching_talisman }} | Crit (74%) > Hast | Assault of the Zaqali
@@ -106,11 +116,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.red_sky_pendant }} | Crit (69%) > Mast | The Vortex Pinnacle
 {{ site.data.gear.bromachs_disentombed_locket }} | Hast (69%) > Mast | Uldaman: Legacy of Tyr
 
+</div>
+
 <br>
 
 ## Shoulder
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.thunderpads_of_the_cinderwolf }} | Hast (69%) > Crit | Tier Set - Echo of Neltharion
 {{ site.data.gear.kazzaras_grafted_companion }} | Crit (69%) > Hast | Kazzara, the Hellforged
@@ -118,11 +132,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.skyhorn_mantle }} | Hast (62%) > Crit | Neltharion's Lair
 {{ site.data.gear.fallen_snow_shoulderguards }} | Hast (61%) > Crit | The Vortex Pinnacle
 
+</div>
+
 <br>
 
 ## Back
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.pelisse_of_the_cinderwolf }} | Hast (68%) > Vers | Catalyst
 {{ site.data.gear.voice_of_the_silent_star }} | Crit (68%) > Hast | Scalecommander Sarkareth (rare item)
@@ -136,11 +154,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.shadow_of_perfect_bliss }} | Crit (61%) > Hast | The Vortex Pinnacle
 {{ site.data.gear.billowing_cape }} | Vers (53%) > Mast | The Vortex Pinnacle
 
+</div>
+
 <br>
 
 ## Chest
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.adornments_of_the_cinderwolf }} | Crit (65%) > Vers | Tier set - Zskarn, the Vigilant Steward
 {{ site.data.gear.cuirass_of_meticulous_mixture }} | Vers (65%) > Hast | The Amalgamation Chamber
@@ -150,11 +172,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.emberguard_harness }} | Hast (61%) > Mast | Neltharus
 {{ site.data.gear.fatebound_chainmail }} | Crit (63%) > Vers | Uldaman: Legacy of Tyr
 
+</div>
+
 <br>
 
 ## Wrist
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.runebraces_of_the_cinderwolf }} | Crit (66%) > Mast | Catalyst
 {{ site.data.gear.shackles_of_the_shadowed_bastille }} | Hast (66%) > Vers | Rashok, the Elder
@@ -164,11 +190,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.obsidian_hardened_wraps }} | Vers (61%) > Crit | Neltharus
 {{ site.data.gear.fierce_boreal_armguards }} | Hast (59%) > Mast | Uldaman: Legacy of Tyr
 
+</div>
+
 <br>
 
 ## Gloves
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.knuckles_of_the_cinderwolf }} | Crit (71%) > Vers | Tier Set - The Forgotten Experiments
 {{ site.data.gear.grasps_of_welded_anguish }} | Mast (71%) > Hast | Kazzara, the Hellforged
@@ -178,11 +208,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.blood_tick_crushers }} | Crit (56%) > Vers | The Underrot
 {{ site.data.gear.rock_shovelers }} | Vers (59%) > Hast | Uldaman: Legacy of Tyr
 
+</div>
+
 <br>
 
 ## Belt
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.faulds_of_the_cinderwolf }} | Mast (66%) > Hast | Catalyst
 {{ site.data.gear.hydratooth_girdle }} | Vers (66%) > Crit | Magmorax
@@ -195,11 +229,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.hail_strung_belt }} | Crit (56%) > Mast | The Vortex Pinnacle
 {{ site.data.gear.gatekeepers_girdle }} | Crit (65%) > Vers | Uldaman: Legacy of Tyr
 
+</div>
+
 <br>
 
 ## Legs
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.braies_of_the_cinderwolf }} | Hast (69%) > Mast | Tier Set - Rashok, the Elder
 {{ site.data.gear.scalecommanders_ebon_schynbalds }} | Crit (69%) > Vers | Scalecommander Sarkareth
@@ -207,11 +245,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.faultline_leggings }} | Crit (61%) > Mast | Neltharion's Lair
 {{ site.data.gear.corpuscular_greaves }} | Hast (56%) > Crit | The Underrot
 
+</div>
+
 <br>
 
 ## Boots
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.sollerets_of_the_cinderwolf }} | Vers (70%) > Mast | Catalyst
 {{ site.data.gear.crechebound_soldiers_boots }} | Mast (70%) > Hast | Scalecommander Sarkareth
@@ -221,11 +263,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.bitestone_boots }} | Hast (63%) > Vers | Neltharion's Lair
 {{ site.data.gear.waders_of_the_infested }} | Mast (56%) > Vers | The Underrot
 
+</div>
+
 <br>
 
 ## Rings
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.onyx_impostors_birthright }} | Crit (73%) > Hast | Echo of Neltharion
 {{ site.data.gear.tormentors_siphoning_signet }} | Vers (73%) > Crit | Rashok, the Elder
@@ -241,21 +287,29 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.skyshard_ring }} | Crit (59%) > Hast | The Vortex Pinnacle
 {{ site.data.gear.eternal_sentrys_ring }} | Crit (70%) > Hast | Uldaman: Legacy of Tyr
 
+</div>
+
 <br>
 
 ## 2 H. Weapon
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.erethos_the_empty_promise }} | Vers (67%) > Hast | Scalecommander Sarkareth
 {{ site.data.gear.ancestral_stoneshaper }} | Mast (61%) > Hast | Brackenhide Hollow
 {{ site.data.gear.infinite_dragonspire }} | Hast (65%) > Crit | Uldaman: Legacy of Tyr
 
+</div>
+
 <br>
 
 ## 1 H. Weapon
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.lavaflow_control_rod }} | Hast (67%) > Vers | Magmorax
 {{ site.data.gear.zskarns_autopsy_scalpel }} | Crit (70%) > Mast | Zskarn, the Vigilant Steward
@@ -265,22 +319,30 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.leaxas_thought_piercer }} | Hast (53%) > Crit | The Underrot
 {{ site.data.gear.biting_wind }} | Crit (62%) > Hast | The Vortex Pinnacle
 
+</div>
+
 <br>
 
 ## Off-Hand
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.echos_maddening_volume }} | Mast (67%) > Hast | Echo of Neltharion
 {{ site.data.gear.thadrions_erratic_arcanotrode }} | Mast (67%) > Hast | The Forgotten Experiments
 {{ site.data.gear.rod_of_perfect_order }} | Hast (63%) > Mast | Halls of Infusion
 {{ site.data.gear.irontorch_igniter }} | Crit (61%) > Hast | Neltharus
 
+</div>
+
 <br>
 
 ## Shield
 
-Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-42-25-33" markdown="1">
+
+Item | Stats | Location
 :---: | :---: | :---:
 {{ site.data.gear.calamitys_herald }} | Mast (65%) > Hast | Echo of Neltharion
 {{ site.data.gear.experiment_1_kitewing }} | Vers (69%) > Crit | The Forgotten Experiments
@@ -288,6 +350,8 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {{ site.data.gear.qalashi_defender }} | Crit (63%) > Mast | Neltharus
 {{ site.data.gear.targe_of_the_ancient_warder }} | Crit (56%) > Mast | The Underrot
 {{ site.data.gear.stout_shield }} | Crit (59%) > Mast | Uldaman: Legacy of Tyr
+
+</div>
 
 <hr>
 

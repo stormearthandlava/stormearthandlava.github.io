@@ -38,7 +38,9 @@ Sim for your best stat where choices are available.
 
 ## Enchants
 
-Gear Slot<br>\_\_\_\_\_\_\_\_\_\_\_\_ | Enchant<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Affordable Alternative<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="table-20-40-40" markdown="1">
+
+Gear Slot | Enchant | Affordable Alternative
 --- | --- | ---
 Weapon | - {{ site.data.item.ench_wep_inthigher }} | - {{ site.data.item.ench_wep_intlower }}
 Cloak | - {{ site.data.item.ench_back_av }} <br>- {{ site.data.item.ench_back_sp }} <br>- {{ site.data.item.ench_back_le }} | - {{ site.data.item.ench_back_av_low }} <br>- {{ site.data.item.ench_back_sp_low }} <br>- {{ site.data.item.ench_back_le_low }}
@@ -47,6 +49,8 @@ Legs | - {{ site.data.item.spellthread }} | - {{ site.data.item.spellthread_lowe
 Rings | - {{ site.data.item.ench_ring_haste }}* | - {{ site.data.item.ench_ring_haste_low }}*
 Bracers | - {{ site.data.item.ench_wri_av }} <br>- {{ site.data.item.ench_wri_le }} <br>- {{ site.data.item.ench_wri_sp }} | - {{ site.data.item.ench_wri_av_low }} <br>- {{ site.data.item.ench_wri_le_low }}<br>- {{ site.data.item.ench_wri_sp_low }}
 Boots | - {{ site.data.item.ench_boots_stam }} <br>- {{ site.data.item.ench_boots_sp }} | N/A
+
+</div>
 
 Notes:
 - In addition to the Affordable Alternatives listed here, remember that prices will also vary based on the consumable Quality - use your best judgement!
