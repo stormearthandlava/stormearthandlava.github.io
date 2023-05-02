@@ -38,15 +38,15 @@ Sim for your best stat where choices are available.
 
 ## Enchants
 
-Gear slot | Enchant | Affordable Alternative
+Gear Slot<br>\_\_\_\_\_\_\_\_\_\_\_\_ | Enchant<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Affordable Alternative<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 --- | --- | ---
-Weapon | {{ site.data.item.ench_wep_inthigher }} | {{ site.data.item.ench_wep_intlower }}
-Cloak | {{ site.data.item.ench_back_av }} or {{ site.data.item.ench_back_sp }} or {{ site.data.item.ench_back_le }} | {{ site.data.item.ench_back_av_low }} or {{ site.data.item.ench_back_sp_low }} or {{ site.data.item.ench_back_le_low }}
-Chest | {{ site.data.item.ench_chest_stats }} | {{ site.data.item.eternal_insight }}
-Legs | {{ site.data.item.spellthread }} | {{ site.data.item.spellthread_lower }}
-Rings | {{ site.data.item.ench_ring_haste }} * | {{ site.data.item.ench_ring_haste_low }} *
-Bracers | {{ site.data.item.ench_wri_av }} or {{ site.data.item.ench_wri_le }} or {{ site.data.item.ench_wri_sp }} | {{ site.data.item.ench_wri_av_low }} or {{ site.data.item.ench_wri_le_low }} or {{ site.data.item.ench_wri_sp_low }}
-Boots | {{ site.data.item.ench_boots_stam }} or {{ site.data.item.ench_boots_sp }} | N/A
+Weapon | - {{ site.data.item.ench_wep_inthigher }} | - {{ site.data.item.ench_wep_intlower }}
+Cloak | - {{ site.data.item.ench_back_av }} <br>- {{ site.data.item.ench_back_sp }} <br>- {{ site.data.item.ench_back_le }} | - {{ site.data.item.ench_back_av_low }} <br>- {{ site.data.item.ench_back_sp_low }} <br>- {{ site.data.item.ench_back_le_low }}
+Chest | - {{ site.data.item.ench_chest_stats }} | - {{ site.data.item.eternal_insight }}
+Legs | - {{ site.data.item.spellthread }} | - {{ site.data.item.spellthread_lower }}
+Rings | - {{ site.data.item.ench_ring_haste }}* | - {{ site.data.item.ench_ring_haste_low }}*
+Bracers | - {{ site.data.item.ench_wri_av }} <br>- {{ site.data.item.ench_wri_le }} <br>- {{ site.data.item.ench_wri_sp }} | - {{ site.data.item.ench_wri_av_low }} <br>- {{ site.data.item.ench_wri_le_low }}<br>- {{ site.data.item.ench_wri_sp_low }}
+Boots | - {{ site.data.item.ench_boots_stam }} <br>- {{ site.data.item.ench_boots_sp }} | N/A
 
 Notes:
 - In addition to the Affordable Alternatives listed here, remember that prices will also vary based on the consumable Quality - use your best judgement!
