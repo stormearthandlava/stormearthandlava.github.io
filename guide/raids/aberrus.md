@@ -154,7 +154,13 @@ The tips and recommendations listed here are based on educated opinions from PTR
   </iframe>
 </div>
 
-#### T30 4-piece:
+#### T30 4-piece in Normal/Heroic:
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSASJJoJQSLJpFQhkkAI?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
+
+#### T30 4-piece in Mythic:
 <div class="iframe-holder">
   <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSASJJoJQSLJpFQhkkAI?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
