@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Gear
-last_update: 31/03/2023
-game_version: 10.0.7 Dragonflight
+last_update: 02/05/2023
+game_version: 10.1.0 Dragonflight
 toc: true
 big_article: true
 ---
@@ -22,27 +22,57 @@ General note:
 
 <hr>
 
-# **THE** BiS list
+# Embellishments:
+
+There are 4 embellishments that may be used by Elemental Shamans during Season 2:
+
+- The {{ site.data.gear.horizon_strider }} set is our most versatile choice offering high value in both Single Target and AoE. It requires 2 Embellished items, so it can't be combined with other embellishments. It also "restrains" the tier sets options that we can get. Despite these minor setbacks, it is still excellent.
+- {{ site.data.gear.shadowflame_tempered_armor_patch }} is a better choice for Single Target and stacks with itself, so you can use it twice on your gear if you want to focus entirely on pure Single Target niche.
+- {{ site.data.gear.elemental_lariat }} is still a solid choice but lacks a second very good embellish to run it with. Since 10.1, the effect duration depends on the number of Elemental Gems you are using. {{ site.data.gear.elemental_lariat }} becomes a reasonable consideration if you have 5 or more Elemental Gems in your gear.
+- {{ site.data.gear.venom_steeped_stompers }} is the most relevant option we get for AoE outside of the {{ site.data.gear.horizon_strider }} set.
+
+This gives us the following combinations:
+#### Horizon Strider - Versatile
+- {{ site.data.gear.wind_spirits_lasso }}
+- {{ site.data.gear.scale_rein_grips }}
+
+#### Pure ST
+- {{ site.data.gear.shadowflame_tempered_armor_patch }}
+- {{ site.data.gear.shadowflame_tempered_armor_patch }}
+
+#### Raid Lariat
+- {{ site.data.gear.elemental_lariat }}
+- {{ site.data.gear.shadowflame_tempered_armor_patch }}
+
+#### AoE Lariat
+- {{ site.data.gear.elemental_lariat }}
+- {{ site.data.gear.venom_steeped_stompers }}
+
+<hr>
+
+# The BiS Table
 
 I will be real with you for a minute, a BiS list **does not exist**. A list of items that are perfect for each and every situation is not realistic in modern World of Warcraft.
 
-With that being said, here is a list of items that you can strive for to make your character feel "complete":
+With that being said, here is a list of items that you can strive for to make your character feel "complete". Note that the list varies depending on the Embellishments you choose:
 
-* Helm: <a href="https://www.wowhead.com/ptr/item=202470/spangenhelm-of-the-cinderwolf?bonus=8780:7187&class=7&ilvl=447&spec=262" target="blank">Spangenhelm of the Cinderwolf</a>
-* Neck: <a href="https://www.wowhead.com/ptr/item=206182/red-sky-pendant?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Red Sky Pendant</a>
-* Shoulder: <a href="https://www.wowhead.com/ptr/item=202468/thunderpads-of-the-cinderwolf?bonus=7187&class=7&ilvl=450&spec=262" target="blank">Thunderpads of the Cinderwolf</a>
-* Back: <a href="https://www.wowhead.com/ptr/item=204465/voice-of-the-silent-star?bonus=4800:1498&class=7&ilvl=457&spec=262" target="blank">Voice of the Silent Star</a>
-* Chest: <a href="https://www.wowhead.com/ptr/item=137354/tunic-of-screaming-earth?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Tunic of Screaming Earth</a>
-* Wrist: <a href="https://www.wowhead.com/ptr/item=134164/bitestone-wristwrap?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Bitestone Wristwrap</a>
-* Hands: <a href="https://www.wowhead.com/ptr/item=202471/knuckles-of-the-cinderwolf?bonus=7187&class=7&ilvl=447&spec=262" target="blank">Knuckles of the Cinderwolf</a>
-* Waist: <a href="https://www.wowhead.com/ptr/item=193656/swollen-bark-clasp?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Swollen Bark Clasp</a>
-* Legs: <a href="https://www.wowhead.com/ptr/item=202469/braies-of-the-cinderwolf?bonus=7187&class=7&ilvl=450&spec=262" target="blank">Braies of the Cinderwolf</a>
-* Feet: <a href="https://www.wowhead.com/ptr/item=204424/crechebound-soldiers-boots?bonus=4800:1498&class=7&ilvl=450&spec=262" target="blank">Crechebound Soldier's Boots</a>
-* Ring1: <a href="https://www.wowhead.com/ptr/item=204398/onyx-impostors-birthright?bonus=8780:4800:1498&ilvl=450&spec=262" target="blank">Onyx Impostor's Birthright</a>
-* Ring2: <a href="https://www.wowhead.com/ptr/item=206184/skyshard-ring?bonus=8780:7359:6646&ilvl=447&spec=262" target="blank">Skyshard Ring</a>
-* Trinket1: {{ site.data.item.flowstone }}
-* Trinket2: See [the trinket guide]({{ site.baseurl }}{% link guide/general/trinkets.md %}) for a second trinket of choice
-* Weapon: <a href="https://www.wowhead.com/ptr/item=202565/erethos-the-empty-promise?bonus=4800:1498&class=7&ilvl=450&spec=262" target="blank">Erethos, the Empty Promise</a>
+Gear Slot<br>\_\_\_\_\_\_\_\_\_\_\_ | Horizon Set<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Raid Lariat<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | AoE Lariat Set<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Pure ST Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+:---: | :---: | :---: | :---: | :---:
+Helm | {{ site.data.gear.spangenhelm_of_the_cinderwolf }} | | |
+Neck | {{ site.data.gear.red_sky_pendant }} | {{ site.data.gear.elemental_lariat }} | {{ site.data.gear.elemental_lariat }} | {{ site.data.gear.red_sky_pendant }}
+Shoulder | {{ site.data.gear.thunderpads_of_the_cinderwolf }} | | |
+Back | {{ site.data.gear.voice_of_the_silent_star }} | | |
+Chest | {{ site.data.gear.adornments_of_the_cinderwolf }} | {{ site.data.gear.tunic_of_screaming_earth }} | {{ site.data.gear.tunic_of_screaming_earth }} | {{ site.data.gear.tunic_of_screaming_earth }}
+Wrist | {{ site.data.gear.obsidian_hardened_wraps }} | {{ site.data.gear.shadowflame_wrist }} | {{ site.data.gear.obsidian_hardened_wraps }} | {{ site.data.gear.shadowflame_wrist }}
+Hands | {{ site.data.gear.scale_rein_grips }} | {{ site.data.gear.knuckles_of_the_cinderwolf }} | {{ site.data.gear.knuckles_of_the_cinderwolf }} | {{ site.data.gear.knuckles_of_the_cinderwolf }}
+Waist | {{ site.data.gear.wind_spirits_lasso }} | {{ site.data.gear.swollen_bark_clasp }} | {{ site.data.gear.swollen_bark_clasp }} | {{ site.data.gear.shadowflame_waist }}
+Legs | {{ site.data.gear.braies_of_the_cinderwolf }} | | |
+Feet | {{ site.data.gear.crechebound_soldiers_boots }} | {{ site.data.gear.crechebound_soldiers_boots }} | {{ site.data.gear.venom_steeped_stompers }} | {{ site.data.gear.crechebound_soldiers_boots }}
+Ring1 | {{ site.data.gear.onyx_impostors_birthright }} | | |
+Ring2 | {{ site.data.gear.signet_of_titanic_insight }} | | |
+Trinket1 | {{ site.data.gear.flowstone }} | | |
+Trinket2 | {{ site.data.gear.call_to_dominance }} | | |
+Weapon | {{ site.data.gear.erethos_the_empty_promise }} | | |
 
 <hr>
 
@@ -54,11 +84,11 @@ Here is a list of all items available in Dungeons and Raid during S2 (excluding 
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202470/spangenhelm-of-the-cinderwolf?bonus=8780:7187&class=7&ilvl=447&spec=262" target="blank">Spangenhelm of the Cinderwolf</a> | Vers (69%) > Hast | Tier Set - Magmorax
-<a href="https://www.wowhead.com/ptr/item=202591/gatecrasher-giants-coif?bonus=8780:4800:1498&class=7&ilvl=441&spec=262" target="blank">Gatecrasher Giant's Coif</a> | Hast (69%) > Mast | Assault of the Zaqali
-<a href="https://www.wowhead.com/ptr/item=193726/amphibians-bellowing-crown?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Amphibian's Bellowing Crown</a> | Crit (60%) > Mast | Halls of Infusion
-<a href="https://www.wowhead.com/ptr/item=134470/mountain-throne-coif?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Mountain Throne Coif</a> | Hast (58%) > Vers | Neltharion's Lair
-<a href="https://www.wowhead.com/ptr/item=193777/helm-of-hardened-gold?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Helm of Hardened Gold</a> | Hast (64%) > Crit | Neltharus
+{{ site.data.gear.spangenhelm_of_the_cinderwolf }} | Vers (69%) > Hast | Tier Set - Magmorax
+{{ site.data.gear.gatecrasher_giants_coif }} | Hast (69%) > Mast | Assault of the Zaqali
+{{ site.data.gear.amphibians_bellowing_crown }} | Crit (60%) > Mast | Halls of Infusion
+{{ site.data.gear.mountain_throne_coif }} | Hast (58%) > Vers | Neltharion's Lair
+{{ site.data.gear.helm_of_hardened_gold }} | Hast (64%) > Crit | Neltharus
 
 <br>
 
@@ -66,15 +96,15 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=204397/magmoraxs-fourth-collar?bonus=8782:4800:1498&ilvl=447&spec=262" target="blank">Magmorax's Fourth Collar</a> | Mast (75%) > Vers | Magmorax
-<a href="https://www.wowhead.com/ptr/item=202618/kagnis-scorching-talisman?bonus=8782:4800:1498&ilvl=441&spec=262" target="blank">Kagni's Scorching Talisman</a> | Crit (74%) > Hast | Assault of the Zaqali
-<a href="https://www.wowhead.com/ptr/item=193666/tuskarr-bone-necklace?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Bromach's Disentombed Locket</a> | Crit (60%) > Vers | Brackenhide Hollow
-<a href="https://www.wowhead.com/ptr/item=134495/chain-of-the-underking?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Chain of the Underking</a> | Crit (60%) > Mast | Neltharion's Lair
-<a href="https://www.wowhead.com/ptr/item=134491/understone-gorget?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Understone Gorget</a> | Crit (65%) > Vers | Neltharion's Lair
-<a href="https://www.wowhead.com/ptr/item=206181/ionized-choker?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Ionized Choker</a> | Vers (62%) > Hast | The Vortex Pinnacle
-<a href="https://www.wowhead.com/ptr/item=206180/choker-of-stolen-thunder?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Choker of Stolen Thunder</a> | Mast (69%) > Hast | The Vortex Pinnacle
-<a href="https://www.wowhead.com/ptr/item=206182/red-sky-pendant?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Red Sky Pendant</a> | Crit (69%) > Mast | The Vortex Pinnacle
-<a href="https://www.wowhead.com/ptr/item=193809/bromachs-disentombed-locket?bonus=8782:7359:6646&ilvl=447&spec=262" target="blank">Bromach's Disentombed Locket</a> | Hast (69%) > Mast | Uldaman: Legacy of Tyr
+{{ site.data.gear.magmoraxs_fourth_collar }} | Mast (75%) > Vers | Magmorax
+{{ site.data.gear.kagnis_scorching_talisman }} | Crit (74%) > Hast | Assault of the Zaqali
+{{ site.data.gear.tuskarr_bone_necklace }} | Crit (60%) > Vers | Brackenhide Hollow
+{{ site.data.gear.chain_of_the_underking }} | Crit (60%) > Mast | Neltharion's Lair
+{{ site.data.gear.understone_gorget }} | Crit (65%) > Vers | Neltharion's Lair
+{{ site.data.gear.ionized_choker }} | Vers (62%) > Hast | The Vortex Pinnacle
+{{ site.data.gear.choker_of_stolen_thunder }} | Mast (69%) > Hast | The Vortex Pinnacle
+{{ site.data.gear.red_sky_pendant }} | Crit (69%) > Mast | The Vortex Pinnacle
+{{ site.data.gear.bromachs_disentombed_locket }} | Hast (69%) > Mast | Uldaman: Legacy of Tyr
 
 <br>
 
@@ -82,11 +112,11 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202468/thunderpads-of-the-cinderwolf?bonus=7187&class=7&ilvl=450&spec=262" target="blank">Thunderpads of the Cinderwolf</a> | Hast (69%) > Crit | Tier Set - Echo of Neltharion
-<a href="https://www.wowhead.com/ptr/item=202590/kazzaras-grafted-companion?bonus=4800:1498&class=7&ilvl=441&spec=262" target="blank">Kazzara's Grafted Companion</a> | Crit (69%) > Hast | Kazzara, the Hellforged
-<a href="https://www.wowhead.com/ptr/item=193655/rooted-shoulders-of-putrefaction?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Rooted Shoulders of Putrefaction</a> | Hast (58%) > Vers | Brackenhide Hollow
-<a href="https://www.wowhead.com/ptr/item=139121/skyhorn-mantle?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Skyhorn Mantle</a> | Hast (62%) > Crit | Neltharion's Lair
-<a href="https://www.wowhead.com/ptr/item=133235/fallen-snow-shoulderguards?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Fallen Snow Shoulderguards</a> | Hast (61%) > Crit | The Vortex Pinnacle
+{{ site.data.gear.thunderpads_of_the_cinderwolf }} | Hast (69%) > Crit | Tier Set - Echo of Neltharion
+{{ site.data.gear.kazzaras_grafted_companion }} | Crit (69%) > Hast | Kazzara, the Hellforged
+{{ site.data.gear.rooted_shoulders_of_putrefaction }} | Hast (58%) > Vers | Brackenhide Hollow
+{{ site.data.gear.skyhorn_mantle }} | Hast (62%) > Crit | Neltharion's Lair
+{{ site.data.gear.fallen_snow_shoulderguards }} | Hast (61%) > Crit | The Vortex Pinnacle
 
 <br>
 
@@ -94,17 +124,17 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202465/pelisse-of-the-cinderwolf?bonus=4800:4786:1504&class=7&ilvl=447&spec=262" target="blank">Pelisse of the Cinderwolf</a> | Hast (68%) > Vers | Catalyst
-<a href="https://www.wowhead.com/ptr/item=204465/voice-of-the-silent-star?bonus=4800:1498&class=7&ilvl=457&spec=262" target="blank">Voice of the Silent Star</a> | Crit (68%) > Hast | Scalecommander Sarkareth (rare item)
-<a href="https://www.wowhead.com/ptr/item=204467/drape-of-the-dracthyr-trials?bonus=4800:1498&class=7&ilvl=447&spec=262" target="blank">Drape of the Dracthyr Trials</a> | Vers (68%) > Mast | Zskarn, the Vigilant Steward
-<a href="https://www.wowhead.com/ptr/item=202573/etchings-of-the-captive-revenant?bonus=4800:1498&class=7&ilvl=441&spec=262" target="blank">Etchings of the Captive Revenant</a> | Crit (68%) > Hast | Kazzara, the Hellforged
-<a href="https://www.wowhead.com/ptr/item=155884/parrotfeather-cloak?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Parrotfeather Cloak</a> | Crit (60%) > Mast | Freehold
-<a href="https://www.wowhead.com/ptr/item=134408/putrid-carapace?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Putrid Carapace</a> | Mast (60%) > Crit | Neltharion's Lair
-<a href="https://www.wowhead.com/item=193787/mammoth-trainers-drape?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Mammoth-Trainer's Drape</a> | Mast (64%) > Crit | Neltharus
-<a href="https://www.wowhead.com/ptr/item=159292/sporecallers-shroud?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Sporecaller's Shroud</a> | Vers (56%) > Crit | The Underrot
-<a href="https://www.wowhead.com/ptr/item=133362/billowing-skydrape?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Billowing Skydrape</a> | Crit (50%) > Mast | The Vortex Pinnacle
-<a href="https://www.wowhead.com/ptr/item=133247/shadow-of-perfect-bliss?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Shadow of Perfect Bliss</a> | Crit (61%) > Hast | The Vortex Pinnacle
-<a href="https://www.wowhead.com/ptr/item=133245/billowing-cape?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Billowing Cape</a> | Vers (53%) > Mast | The Vortex Pinnacle
+{{ site.data.gear.pelisse_of_the_cinderwolf }} | Hast (68%) > Vers | Catalyst
+{{ site.data.gear.voice_of_the_silent_star }} | Crit (68%) > Hast | Scalecommander Sarkareth (rare item)
+{{ site.data.gear.drape_of_the_dracthyr_trials }} | Vers (68%) > Mast | Zskarn, the Vigilant Steward
+{{ site.data.gear.etchings_of_the_captive_revenant }} | Crit (68%) > Hast | Kazzara, the Hellforged
+{{ site.data.gear.parrotfeather_cloak }} | Crit (60%) > Mast | Freehold
+{{ site.data.gear.putrid_carapace }} | Mast (60%) > Crit | Neltharion's Lair
+{{ site.data.gear.mammoth_trainers_drape }} | Mast (64%) > Crit | Neltharus
+{{ site.data.gear.sporecallers_shroud }} | Vers (56%) > Crit | The Underrot
+{{ site.data.gear.billowing_skydrape }} | Crit (50%) > Mast | The Vortex Pinnacle
+{{ site.data.gear.shadow_of_perfect_bliss }} | Crit (61%) > Hast | The Vortex Pinnacle
+{{ site.data.gear.billowing_cape }} | Vers (53%) > Mast | The Vortex Pinnacle
 
 <br>
 
@@ -112,13 +142,13 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202473/adornments-of-the-cinderwolf?bonus=7187&class=7&ilvl=447&spec=262" target="blank">Adornments of the Cinderwolf</a> | Crit (65%) > Vers | Tier set - Zskarn, the Vigilant Steward
-<a href="https://www.wowhead.com/ptr/item=202598/cuirass-of-meticulous-mixture?bonus=4800:1498&class=7&ilvl=441&spec=262" target="blank">Cuirass of Meticulous Mixture</a> | Vers (65%) > Hast | The Amalgamation Chamber
-<a href="https://www.wowhead.com/ptr/item=204422/sundered-edgelords-breastplate?bonus=4800:1498&class=7&ilvl=441&spec=262" target="blank">Sundered Edgelord's Breastplate</a> | Mast (65%) > Crit | Raid BoE
-<a href="https://www.wowhead.com/ptr/item=193734/hauberk-of-frozen-fervor?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Hauberk of Frozen Fervor</a> | Vers (59%) > Crit | Halls of Infusion
-<a href="https://www.wowhead.com/ptr/item=137354/tunic-of-screaming-earth?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Tunic of Screaming Earth</a> | Crit (71%) > Hast | Neltharion's Lair
-<a href="https://www.wowhead.com/ptr/item=193782/emberguard-harness?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Emberguard Harness</a> | Hast (61%) > Mast | Neltharus
-<a href="https://www.wowhead.com/ptr/item=193801/fatebound-chainmail?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Fatebound Chainmail</a> | Crit (63%) > Vers | Uldaman: Legacy of Tyr
+{{ site.data.gear.adornments_of_the_cinderwolf }} | Crit (65%) > Vers | Tier set - Zskarn, the Vigilant Steward
+{{ site.data.gear.cuirass_of_meticulous_mixture }} | Vers (65%) > Hast | The Amalgamation Chamber
+{{ site.data.gear.sundered_edgelords_breastplate }} | Mast (65%) > Crit | Raid BoE
+{{ site.data.gear.hauberk_of_frozen_fervor }} | Vers (59%) > Crit | Halls of Infusion
+{{ site.data.gear.tunic_of_screaming_earth }} | Crit (71%) > Hast | Neltharion's Lair
+{{ site.data.gear.emberguard_harness }} | Hast (61%) > Mast | Neltharus
+{{ site.data.gear.fatebound_chainmail }} | Crit (63%) > Vers | Uldaman: Legacy of Tyr
 
 <br>
 
@@ -126,13 +156,13 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202466/runebraces-of-the-cinderwolf?bonus=8780:7187&class=7&ilvl=447&spec=262" target="blank">Runebraces of the Cinderwolf</a> | Crit (66%) > Mast | Catalyst
-<a href="https://www.wowhead.com/ptr/item=202659/shackles-of-the-shadowed-bastille?bonus=8780:4800:1498&class=7&ilvl=444&spec=262" target="blank">Shackles of the Shadowed Bastille</a> | Hast (66%) > Vers | Rashok, the Elder
-<a href="https://www.wowhead.com/ptr/item=202604/boulder-tossing-bands?bonus=8780:4800:1498&class=7&ilvl=441&spec=262" target="blank">Boulder-Tossing Bands</a> | Hast (66%) > Crit | Assault of the Zaqali
-<a href="https://www.wowhead.com/ptr/item=159356/raouls-barrelhook-bracers?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Raoul's Barrelhook Bracers</a> | Hast (56%) > Vers | Freehold
-<a href="https://www.wowhead.com/ptr/item=134164/bitestone-wristwrap?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Bitestone Wristwrap</a> | Hast (69%) > Vers | Neltharion's Lair
-<a href="https://www.wowhead.com/item=193727/obsidian-hardened-wraps?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Obsidian-Hardened Wraps</a> | Vers (61%) > Crit | Neltharus
-<a href="https://www.wowhead.com/ptr/item=193812/fierce-boreal-armguards?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Fierce Boreal Armguards</a> | Hast (59%) > Mast | Uldaman: Legacy of Tyr
+{{ site.data.gear.runebraces_of_the_cinderwolf }} | Crit (66%) > Mast | Catalyst
+{{ site.data.gear.shackles_of_the_shadowed_bastille }} | Hast (66%) > Vers | Rashok, the Elder
+{{ site.data.gear.boulder_tossing_bands }} | Hast (66%) > Crit | Assault of the Zaqali
+{{ site.data.gear.raouls_barrelhook_bracers }} | Hast (56%) > Vers | Freehold
+{{ site.data.gear.bitestone_wristwrap }} | Hast (69%) > Vers | Neltharion's Lair
+{{ site.data.gear.obsidian_hardened_wraps }} | Vers (61%) > Crit | Neltharus
+{{ site.data.gear.fierce_boreal_armguards }} | Hast (59%) > Mast | Uldaman: Legacy of Tyr
 
 <br>
 
@@ -140,13 +170,13 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202471/knuckles-of-the-cinderwolf?bonus=7187&class=7&ilvl=447&spec=262" target="blank">Knuckles of the Cinderwolf</a> | Crit (71%) > Vers | Tier Set - The Forgotten Experiments
-<a href="https://www.wowhead.com/ptr/item=202583/grasps-of-welded-anguish?bonus=4800:1498&class=7&ilvl=441&spec=262" target="blank">Grasps of Welded Anguish</a> | Mast (71%) > Hast | Kazzara, the Hellforged
-<a href="https://www.wowhead.com/ptr/item=155892/bite-resistant-chain-gloves?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Bite-Resistant Chain Gloves</a> | Vers (63%) > Hast | Freehold
-<a href="https://www.wowhead.com/ptr/item=193740/torrential-downpour-gauntlets?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Torrential Downpour Gauntlets</a> | Hast (61%) > Vers | Halls of Infusion
-<a href="https://www.wowhead.com/ptr/item=137348/gauntlets-of-innumerable-barbs?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Gauntlets of Innumerable Barbs</a> | Mast (67%) > Crit | Neltharion's Lair
-<a href="https://www.wowhead.com/ptr/item=159382/blood-tick-crushers?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Blood Tick Crushers</a> | Crit (56%) > Vers | The Underrot
-<a href="https://www.wowhead.com/ptr/item=193818/rock-shovelers?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Rock Shovelers</a> | Vers (59%) > Hast | Uldaman: Legacy of Tyr
+{{ site.data.gear.knuckles_of_the_cinderwolf }} | Crit (71%) > Vers | Tier Set - The Forgotten Experiments
+{{ site.data.gear.grasps_of_welded_anguish }} | Mast (71%) > Hast | Kazzara, the Hellforged
+{{ site.data.gear.bite_resistant_chain_gloves }} | Vers (63%) > Hast | Freehold
+{{ site.data.gear.torrential_downpour_gauntlets }} | Hast (61%) > Vers | Halls of Infusion
+{{ site.data.gear.gauntlets_of_innumerable_barbs }} | Mast (67%) > Crit | Neltharion's Lair
+{{ site.data.gear.blood_tick_crushers }} | Crit (56%) > Vers | The Underrot
+{{ site.data.gear.rock_shovelers }} | Vers (59%) > Hast | Uldaman: Legacy of Tyr
 
 <br>
 
@@ -154,16 +184,16 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202467/faulds-of-the-cinderwolf?bonus=8780:7187&class=7&ilvl=447&spec=262" target="blank">Faulds of the Cinderwolf</a> | Mast (66%) > Hast | Catalyst
-<a href="https://www.wowhead.com/ptr/item=204395/hydratooth-girdle?bonus=8780:4800:1498&class=7&ilvl=447&spec=262" target="blank">Hydratooth Girdle</a> | Vers (66%) > Crit | Magmorax
-<a href="https://www.wowhead.com/ptr/item=202605/gloomfused-chemistry-belt?bonus=8780:4800:1498&class=7&ilvl=441&spec=262" target="blank">Gloomfused Chemistry Belt</a> | Vers (66%) > Mast | The Amalgamation Chamber
-<a href="https://www.wowhead.com/ptr/item=204423/faulds-of-failed-experiments?bonus=8780:4800:1498&class=7&ilvl=441&spec=262" target="blank">Faulds of Failed Experiments</a> | Vers (66%) > Mast | Raid BoE
-<a href="https://www.wowhead.com/ptr/item=193656/swollen-bark-clasp?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Swollen Bark Clasp</a> | Crit (63%) > Hast | Brackenhide Hollow
-<a href="https://www.wowhead.com/ptr/item=159353/chain-linked-safety-cord?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Chain-Linked Safety Cord</a> | Vers (52%) > Mast | Freehold
-<a href="https://www.wowhead.com/ptr/item=134481/boulderbuckle-strap?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Boulderbuckle Strap</a> | Hast (65%) > Mast | Neltharion's Lair
-<a href="https://www.wowhead.com/ptr/item=159402/waistguard-of-sanguine-fervor?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Waistguard of Sanguine Fervor</a> | Hast (65%) > Vers | The Underrot
-<a href="https://www.wowhead.com/ptr/item=133239/hail-strung-belt?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Hail-Strung Belt</a> | Crit (56%) > Mast | The Vortex Pinnacle
-<a href="https://www.wowhead.com/ptr/item=193794/gatekeepers-girdle?bonus=8780:7359:6646&class=7&ilvl=447&spec=262" target="blank">Gatekeeper's Girdle</a> | Crit (65%) > Vers | Uldaman: Legacy of Tyr
+{{ site.data.gear.faulds_of_the_cinderwolf }} | Mast (66%) > Hast | Catalyst
+{{ site.data.gear.hydratooth_girdle }} | Vers (66%) > Crit | Magmorax
+{{ site.data.gear.gloomfused_chemistry_belt }} | Vers (66%) > Mast | The Amalgamation Chamber
+{{ site.data.gear.faulds_of_failed_experiments }} | Vers (66%) > Mast | Raid BoE
+{{ site.data.gear.swollen_bark_clasp }} | Crit (63%) > Hast | Brackenhide Hollow
+{{ site.data.gear.chain_linked_safety_cord }} | Vers (52%) > Mast | Freehold
+{{ site.data.gear.boulderbuckle_strap }} | Hast (65%) > Mast | Neltharion's Lair
+{{ site.data.gear.waistguard_of_sanguine_fervor }} | Hast (65%) > Vers | The Underrot
+{{ site.data.gear.hail_strung_belt }} | Crit (56%) > Mast | The Vortex Pinnacle
+{{ site.data.gear.gatekeepers_girdle }} | Crit (65%) > Vers | Uldaman: Legacy of Tyr
 
 <br>
 
@@ -171,11 +201,11 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202469/braies-of-the-cinderwolf?bonus=7187&class=7&ilvl=450&spec=262" target="blank">Braies of the Cinderwolf</a> | Hast (69%) > Mast | Tier Set - Rashok, the Elder
-<a href="https://www.wowhead.com/ptr/item=202584/scalecommanders-ebon-schynbalds?bonus=4800:1498&class=7&ilvl=450&spec=262" target="blank">Scalecommander's Ebon Schynbalds</a> | Crit (69%) > Vers | Scalecommander Sarkareth
-<a href="https://www.wowhead.com/ptr/item=193662/tassets-of-densified-ooze?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Tassets of Densified Ooze</a> | Mast (62%) > Vers | Brackenhide Hollow
-<a href="https://www.wowhead.com/ptr/item=134474/faultline-leggings?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Faultline Leggings</a> | Crit (61%) > Mast | Neltharion's Lair
-<a href="https://www.wowhead.com/ptr/item=159384/corpuscular-greaves?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Corpuscular Greaves</a> | Hast (56%) > Crit | The Underrot
+{{ site.data.gear.braies_of_the_cinderwolf }} | Hast (69%) > Mast | Tier Set - Rashok, the Elder
+{{ site.data.gear.scalecommanders_ebon_schynbalds }} | Crit (69%) > Vers | Scalecommander Sarkareth
+{{ site.data.gear.tassets_of_densified_ooze }} | Mast (62%) > Vers | Brackenhide Hollow
+{{ site.data.gear.faultline_leggings }} | Crit (61%) > Mast | Neltharion's Lair
+{{ site.data.gear.corpuscular_greaves }} | Hast (56%) > Crit | The Underrot
 
 <br>
 
@@ -183,13 +213,13 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202472/sollerets-of-the-cinderwolf?bonus=4800:1498&class=7&ilvl=450&spec=262" target="blank">Sollerets of the Cinderwolf</a> | Vers (70%) > Mast | Catalyst
-<a href="https://www.wowhead.com/ptr/item=204424/crechebound-soldiers-boots?bonus=4800:1498&class=7&ilvl=450&spec=262" target="blank">Crechebound Soldier's Boots</a> | Mast (70%) > Hast | Scalecommander Sarkareth
-<a href="https://www.wowhead.com/ptr/item=202588/exacting-augmenters-sabatons?bonus=4800:1498&class=7&ilvl=444&spec=262" target="blank">Exacting Augmenter's Sabatons</a> | Mast (70%) > Crit | The Forgotten Experiments
-<a href="https://www.wowhead.com/ptr/item=158356/shell-kickers?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Shell-Kickers</a> | Mast (59%) > Crit | Freehold
-<a href="https://www.wowhead.com/ptr/item=193770/swoglet-stompers?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Swoglet Stompers</a> | Vers (63%) > Mast | Halls of Infusion
-<a href="https://www.wowhead.com/ptr/item=134166/bitestone-boots?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Bitestone Boots</a> | Hast (63%) > Vers | Neltharion's Lair
-<a href="https://www.wowhead.com/ptr/item=159396/waders-of-the-infested?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Waders of the Infested</a> | Mast (56%) > Vers | The Underrot
+{{ site.data.gear.sollerets_of_the_cinderwolf }} | Vers (70%) > Mast | Catalyst
+{{ site.data.gear.crechebound_soldiers_boots }} | Mast (70%) > Hast | Scalecommander Sarkareth
+{{ site.data.gear.exacting_augmenters_sabatons }} | Mast (70%) > Crit | The Forgotten Experiments
+{{ site.data.gear.shell_kickers }} | Mast (59%) > Crit | Freehold
+{{ site.data.gear.swoglet_stompers }} | Vers (63%) > Mast | Halls of Infusion
+{{ site.data.gear.bitestone_boots }} | Hast (63%) > Vers | Neltharion's Lair
+{{ site.data.gear.waders_of_the_infested }} | Mast (56%) > Vers | The Underrot
 
 <br>
 
@@ -197,19 +227,19 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=204398/onyx-impostors-birthright?bonus=8780:4800:1498&ilvl=450&spec=262" target="blank">Onyx Impostor's Birthright</a> | | Echo of Neltharion
-<a href="https://www.wowhead.com/ptr/item=204466/tormentors-siphoning-signet?bonus=8780:4800:1498&ilvl=444&spec=262" target="blank">Tormentor's Siphoning Signet</a> | | Rashok, the Elder
-<a href="https://www.wowhead.com/ptr/item=202572/entropic-convergence-loop?bonus=8780:4800:1498&ilvl=441&spec=262" target="blank">Entropic Convergence Loop</a> | | The Amalgamation Chamber
-<a href="https://www.wowhead.com/ptr/item=193671/bloodied-wedding-ring?bonus=8780:7359:6646&ilvl=447&spec=262" target="blank">Bloodied Wedding Ring</a> | | Brackenhide Hollow
-<a href="https://www.wowhead.com/ptr/item=158314/seal-of-questionable-loyalties?bonus=8780:7359:6646&ilvl=447&spec=262" target="blank">Seal of Questionable Loyalties</a> | | Freehold
-<a href="https://www.wowhead.com/ptr/item=193731/circle-of-ascended-frost?bonus=8780:7359:6646&ilvl=447&spec=262" target="blank">Circle of Ascended Frost</a> | | Halls of Infusion
-<a href="https://www.wowhead.com/ptr/item=134530/loop-of-vitriolic-intent?bonus=8780:7359:6646&ilvl=447&spec=262" target="blank">Loop of Vitriolic Intent</a> | | Neltharion's Lair
-<a href="https://www.wowhead.com/ptr/item=134524/band-of-the-wyrm-matron?bonus=8780:7359:6646&ilvl=447&spec=262" target="blank">Band of the Wyrm Matron</a> | | Neltharion's Lair
-<a href="https://www.wowhead.com/item=193768/scalebane-signet?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Scalebane Signet</a> | | Neltharus
-<a href="https://www.wowhead.com/ptr/item=159463/loop-of-pulsing-veins?bonus=8780:7359:6646&ilvl=447&spec=262" target="blank">Loop of Pulsing Veins</a> | | The Underrot
-<a href="https://www.wowhead.com/ptr/item=206185/ring-of-frozen-rain?bonus=8780:7359:6646&ilvl=447&spec=262" target="blank">Ring of Frozen Rain</a> | | The Vortex Pinnacle
-<a href="https://www.wowhead.com/ptr/item=206184/skyshard-ring?bonus=8780:7359:6646&ilvl=447&spec=262" target="blank">Skyshard Ring</a> | | The Vortex Pinnacle
-<a href="https://www.wowhead.com/ptr/item=193804/eternal-sentrys-ring?bonus=8780:7359:6646&ilvl=447&spec=262" target="blank">Eternal Sentry's Ring</a> | | Uldaman: Legacy of Tyr
+{{ site.data.gear.onyx_impostors_birthright }} | Crit (73%) > Hast | Echo of Neltharion
+{{ site.data.gear.tormentors_siphoning_signet }} | Vers (73%) > Crit | Rashok, the Elder
+{{ site.data.gear.entropic_convergence_loop }} | Mast (73%) > Hast | The Amalgamation Chamber
+{{ site.data.gear.bloodied_wedding_ring }} | Mast (63%) > Vers | Brackenhide Hollow
+{{ site.data.gear.seal_of_questionable_loyalties }} | Hast (69%) > Crit | Freehold
+{{ site.data.gear.circle_of_ascended_frost }} | Hast (67%) > Vers | Halls of Infusion
+{{ site.data.gear.loop_of_vitriolic_intent }} | Hast (69%) > Mast | Neltharion's Lair
+{{ site.data.gear.band_of_the_wyrm_matron }} | Crit (63%) > Vers | Neltharion's Lair
+{{ site.data.gear.scalebane_signet }} | Mast (69%) > Crit | Neltharus
+{{ site.data.gear.loop_of_pulsing_veins }} | Hast (61%) > Mast | The Underrot
+{{ site.data.gear.ring_of_frozen_rain }} | Vers (70%) > Crit | The Vortex Pinnacle
+{{ site.data.gear.skyshard_ring }} | Crit (59%) > Hast | The Vortex Pinnacle
+{{ site.data.gear.eternal_sentrys_ring }} | Crit (70%) > Hast | Uldaman: Legacy of Tyr
 
 <br>
 
@@ -217,9 +247,9 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202565/erethos-the-empty-promise?bonus=4800:1498&class=7&ilvl=450&spec=262" target="blank">Erethos, the Empty Promise</a> | | Scalecommander Sarkareth
-<a href="https://www.wowhead.com/ptr/item=193674/ancestral-stoneshaper?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Ancestral Stoneshaper</a> | | Brackenhide Hollow
-<a href="https://www.wowhead.com/ptr/item=193803/infinite-dragonspire?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Infinite Dragonspire</a> | | Uldaman: Legacy of Tyr
+{{ site.data.gear.erethos_the_empty_promise }} | Vers (67%) > Hast | Scalecommander Sarkareth
+{{ site.data.gear.ancestral_stoneshaper }} | Mast (61%) > Hast | Brackenhide Hollow
+{{ site.data.gear.infinite_dragonspire }} | Hast (65%) > Crit | Uldaman: Legacy of Tyr
 
 <br>
 
@@ -227,13 +257,13 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202570/lavaflow-control-rod?bonus=4800:1498&class=7&ilvl=447&spec=262" target="blank">Lavaflow Control Rod</a> | | Magmorax
-<a href="https://www.wowhead.com/ptr/item=202555/zskarns-autopsy-scalpel?bonus=4800:1498&class=7&ilvl=447&spec=262" target="blank">Zskarn's Autopsy Scalpel</a> | | Zskarn, the Vigilant Steward
-<a href="https://www.wowhead.com/ptr/item=204319/bloodfire-extraction-conduit?bonus=4800:1498&class=7&ilvl=444&spec=262" target="blank">Bloodfire Extraction Conduit</a> | | Rashok, the Elder
-<a href="https://www.wowhead.com/ptr/item=193665/decatriarchs-bone-pestle?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Decatriarch's Bone Pestle</a> | | Brackenhide Hollow
-<a href="https://www.wowhead.com/item=193790/searing-tusk-shard?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Searing Tusk Shard</a> | | Neltharus
-<a href="https://www.wowhead.com/ptr/item=159652/leaxas-thought-piercer?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Leaxa's Thought-Piercer</a> | | The Underrot
-<a href="https://www.wowhead.com/ptr/item=133233/biting-wind?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Biting Wind</a> | | The Vortex Pinnacle
+{{ site.data.gear.lavaflow_control_rod }} | Hast (67%) > Vers | Magmorax
+{{ site.data.gear.zskarns_autopsy_scalpel }} | Crit (70%) > Mast | Zskarn, the Vigilant Steward
+{{ site.data.gear.bloodfire_extraction_conduit }} | Hast (67%) > Vers | Rashok, the Elder
+{{ site.data.gear.decatriarchs_bone_pestle }} | Mast (63%) > Crit | Brackenhide Hollow
+{{ site.data.gear.searing_tusk_shard }} | Mast (59%) > Vers | Neltharus
+{{ site.data.gear.leaxas_thought_piercer }} | Hast (53%) > Crit | The Underrot
+{{ site.data.gear.biting_wind }} | Crit (62%) > Hast | The Vortex Pinnacle
 
 <br>
 
@@ -241,10 +271,10 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=204324/echos-maddening-volume?bonus=4800:1498&class=7&ilvl=450&spec=262" target="blank">Echo's Maddening Volume</a> | | Echo of Neltharion
-<a href="https://www.wowhead.com/ptr/item=204318/thadrions-erratic-arcanotrode?bonus=4800:1498&class=7&ilvl=444&spec=262" target="blank">Thadrion's Erratic Arcanotrode</a> | | The Forgotten Experiments
-<a href="https://www.wowhead.com/ptr/item=193745/rod-of-perfect-order?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Rod of Perfect Order</a> | | Halls of Infusion
-<a href="https://www.wowhead.com/item=193783/irontorch-igniter?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Irontorch Igniter</a> | | Neltharus
+{{ site.data.gear.echos_maddening_volume }} | Mast (67%) > Hast | Echo of Neltharion
+{{ site.data.gear.thadrions_erratic_arcanotrode }} | Mast (67%) > Hast | The Forgotten Experiments
+{{ site.data.gear.rod_of_perfect_order }} | Hast (63%) > Mast | Halls of Infusion
+{{ site.data.gear.irontorch_igniter }} | Crit (61%) > Hast | Neltharus
 
 <br>
 
@@ -252,18 +282,39 @@ Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Item<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Stats<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Location<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 :---: | :---: | :---:
-<a href="https://www.wowhead.com/ptr/item=202558/calamitys-herald?bonus=4800:1498&class=7&ilvl=450&spec=262" target="blank">Calamity's Herald</a> | | Echo of Neltharion
-<a href="https://www.wowhead.com/ptr/item=202571/experiment-1-kitewing?bonus=4800:1498&class=7&ilvl=444&spec=262" target="blank">Experiment 1, Kitewing</a> | | The Forgotten Experiments
-<a href="https://www.wowhead.com/ptr/item=205974/monstrous-gluttony?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Monstrous Gluttony</a> | | Neltharion's Lair
-<a href="https://www.wowhead.com/item=193778/qalashi-defender?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Qalashi Defender</a> | | Neltharus
-<a href="https://www.wowhead.com/ptr/item=159665/targe-of-the-ancient-warder?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Targe of the Ancient Warder</a> | | The Underrot
-<a href="https://www.wowhead.com/ptr/item=193820/stout-shield?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Stout Shield</a> | | Uldaman: Legacy of Tyr
+{{ site.data.gear.calamitys_herald }} | Mast (65%) > Hast | Echo of Neltharion
+{{ site.data.gear.experiment_1_kitewing }} | Vers (69%) > Crit | The Forgotten Experiments
+{{ site.data.gear.monstrous_gluttony }} | Vers (52%) > Crit | Neltharion's Lair
+{{ site.data.gear.qalashi_defender }} | Crit (63%) > Mast | Neltharus
+{{ site.data.gear.targe_of_the_ancient_warder }} | Crit (56%) > Mast | The Underrot
+{{ site.data.gear.stout_shield }} | Crit (59%) > Mast | Uldaman: Legacy of Tyr
 
 <hr>
 
 # The Onyx Annulet
 
-How to sim your best offensive stones option :
+The {{ site.data.gear.onyx_annulet }} is roughly equivalent to a 418 crafted ring in Single Target and pretty bad all around in AoE.  
+Its primary use will be as catch-up gear on a new character, or as a somewhat decent option going into Aberrus.
+
+## Raiding:
+
+1. {{ site.data.gear.freezing_ice_stone }}
+1. {{ site.data.gear.prophetic_twilight_stone }} (with {{ site.data.gear.desirous_blood_stone}})
+1. {{ site.data.gear.desirous_blood_stone }} (with {{ site.data.gear.prophetic_twilight_stone}})
+1. {{ site.data.gear.storm_infused_stone }}
+
+<br>
+
+## Mythic+
+
+1. {{ site.data.gear.storm_infused_stone }}
+1. {{ site.data.gear.prophetic_twilight_stone }} (with {{ site.data.gear.desirous_blood_stone}})
+1. {{ site.data.gear.desirous_blood_stone }} (with {{ site.data.gear.prophetic_twilight_stone}})
+1. {{ site.data.gear.pestilent_plague_stone }}
+
+<br>
+
+## How to sim your best offensive stones option :
 
 - Take your ST or AoE talent and gear depending on what you want to sim.
 - Get your simc in-game.
@@ -273,6 +324,6 @@ How to sim your best offensive stones option :
 - Profit.
 
 *Notes:*
-- The pastebin will have the Onyx Amulet enchanted to Hast by default.
+- The pastebin will have the Onyx Amulet enchanted to Haste by default.
 - If you don't have premium Raidbots, it will tell you that it is too many iterations. In that case, just cut the pastebin in two and do two sims.
 - Don't use dungeon-slice, it's not implemented for Elemental. See [this post]({{ site.baseurl }}{%link blog/_posts/2023-01-02-simming.md %}) to know how Elemental sims.

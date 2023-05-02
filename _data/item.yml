@@ -180,30 +180,6 @@ rune_haste: <a href="https://www.wowhead.com/item=194820/howling-rune" target="b
 spellthread: <a href="https://www.wowhead.com/item=194013/frozen-spellthread" target="blank">Frozen Spellthread</a>
 spellthread_lower: <a href="https://www.wowhead.com/item=194009/vibrant-spellthread" target="blank">Vibrant Spellthread</a>
 
-# DF Trinkets
-# Vaults
-chillglobe: <a href="https://www.wowhead.com/item=194300/conjured-chillglobe?bonus=7935" target="blank">Conjured Chillglobe</a>
-wii: <a href="https://www.wowhead.com/ptr/item=194301/whispering-incarnate-icon?bonus=42:7981:1498:8767&class=7&ilvl=421&spec=262" target="blank">Whispering Incarnate Icon</a>
-# S1 Dungeons
-hov: <a href="https://www.wowhead.com/item=133642/horn-of-valor?bonus=8810" target="blank">Horn of Valor</a>
-ragefeather: <a href="https://www.wowhead.com/item=193677/furious-ragefeather?bonus=7974" target="blank">Furious Ragefeather</a>
-writ: <a href="https://www.wowhead.com/item=137485/infernal-writ?bonus=8810" target="blank">Infernal Writ</a>
-shadowgem: <a href="https://www.wowhead.com/item=110007/voidmenders-shadowgem?bonus=8810" target="blank">Voidmender's Shadowgem</a>
-eye: <a href="https://www.wowhead.com/item=133641/eye-of-skovald?bonus=8810" target="blank">Eye of Skovald</a>
-# S2 Dungeons
-erupting_spear_fragment: <a href="https://www.wowhead.com/ptr/item=193769/erupting-spear-fragment?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Erupting Spear Fragment</a>
-irideus_fragment: <a href="https://www.wowhead.com/ptr/item=193743/irideus-fragment?bonus=7359:6646&ilvl=447&spec=262" target="blank">Irideus Fragment</a>
-spoils: <a href="https://www.wowhead.com/ptr/item=193773/spoils-of-neltharus?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Spoils of Neltharus</a>
-talon: <a href="https://www.wowhead.com/ptr/item=193791/time-breaching-talon?bonus=7359:6646&ilvl=447&spec=262" target="blank">Time-Breaching Talon</a>
-idol_of_pure_decay: <a href="https://www.wowhead.com/ptr/item=193660/idol-of-pure-decay?bonus=7359:6646&class=7&ilvl=447&spec=262" target="blank">Idol of Pure Decay</a>
-# Aberrus
-flowstone: <a href="https://www.wowhead.com/ptr/item=203996/igneous-flowstone?bonus=4800:1498&class=7&ilvl=447&spec=262" target="blank">Igneous Flowstone</a>
-call_to_dominance: <a href="https://www.wowhead.com/ptr/item=204202/neltharions-call-to-dominance?bonus=4800:1498&ilvl=457&spec=262&spellModifier=137040" target="blank">Neltharion's Call to Dominance</a>
-vessel: <a href="https://www.wowhead.com/ptr/item=202615/vessel-of-searing-shadow?bonus=4800:1498&class=7&ilvl=441&spec=262" target="blank">Vessel of Searing Shadow</a>
-dragonscale: <a href="https://www.wowhead.com/ptr/item=202612/screaming-black-dragonscale?bonus=4800:1498&class=7&ilvl=447&spec=262" target="blank">Screaming Black Dragonscale</a>
-ominous_chromatic_essence: <a href="https://www.wowhead.com/ptr/item=203729/ominous-chromatic-essence?bonus=4800:1498&class=7&ilvl=444&spec=262" target="blank">Ominous Chromatic Essence</a>
-beacon_to_the_beyond: <a href="https://www.wowhead.com/ptr/item=203963/beacon-to-the-beyond?bonus=4800:1498&ilvl=450&spec=262" target="blank">Beacon to the Beyond</a>
-
 # SL Potions
 potion_of_concealment: <a href="https://shadowlands.wowhead.com/item=152503" target="blank">Potion of Concealment</a>
 potion_of_the_hidden_spirit: <a href="https://shadowlands.wowhead.com/item=261424" target="blank">Potion of the Hidden Spirit</a>
