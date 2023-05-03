@@ -353,6 +353,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Utilities:
 * Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by {{ site.data.raid.aberrus.molten_spittle }}.
 
+#### Optional Notes:
+* You can currently use {{ site.data.externals.demonic_gateway }} to handle every {{ site.data.raid.aberrus.overpowering_stomp }}. Both {{ site.data.talent.swg }} and {{ site.data.talent.gow }} can then be used to handle other mechanics.
+
 </div>
 </div>
 </div>
