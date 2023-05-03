@@ -22,13 +22,13 @@ General note:
 
 <hr>
 
-# Embellishments:
+# Embellishments
 
-There are 4 embellishments that may be used by Elemental Shamans during Season 2:
+There are 4 embellishments that stand out for Elemental Shamans during Season 2:
 
 - The {{ site.data.gear.horizon_strider }} set is our most versatile choice offering high value in both Single Target and AoE. It requires 2 Embellished items, so it can't be combined with other embellishments. It also "restrains" the tier sets options that we can get. Despite these minor setbacks, it is still excellent.
 - {{ site.data.gear.shadowflame_tempered_armor_patch }} is a better choice for Single Target and stacks with itself, so you can use it twice on your gear if you want to focus entirely on pure Single Target niche.
-- {{ site.data.gear.elemental_lariat }} is still a solid choice but lacks a second very good embellish to run it with. Since 10.1, the effect duration depends on the number of Elemental Gems you are using. {{ site.data.gear.elemental_lariat }} becomes a reasonable consideration if you have 5 or more Elemental Gems in your gear.
+- {{ site.data.gear.elemental_lariat }} is still a solid choice despite the recent nerfs, but lacks a second very good embellishment to have alongside it. Since 10.1, the effect duration depends on the number of Elemental Gems you are using. {{ site.data.gear.elemental_lariat }} becomes a reasonable consideration if you have 5 or more Elemental Gems in your gear.
 - {{ site.data.gear.venom_steeped_stompers }} is the most relevant option we get for AoE outside of the {{ site.data.gear.horizon_strider }} set.
 
 This gives us the following possible combinations:
@@ -52,15 +52,15 @@ This gives us the following possible combinations:
 
 # The BiS Table
 
-I will be real with you for a minute, a BiS list **does not exist**. A list of items that are perfect for each and every situation is not realistic in modern World of Warcraft.
+I will be real with you for a minute, a BiS item list **does not exist**. A list of items that are perfect for each and every situation is not realistic in modern World of Warcraft.
 
-With that being said, here is a list of items that you can strive for to make your character feel "complete". Note that the list varies depending on the Embellishments you choose:
+With that being said, here is a table of items that you can strive for to make your character feel "complete", depending on the embellishments you decide to use:
 
 <div class="table-17-23-20-20-20" markdown="1">
 
 Gear Slot | Horizon Strider Set | Raid Lariat | AoE Lariat | Pure ST
 :---: | :---: | :---: | :---: | :---:
-Helm | {{ site.data.gear.spangenhelm_of_the_cinderwolf }} | | |
+Head | {{ site.data.gear.spangenhelm_of_the_cinderwolf }} | | |
 Neck | {{ site.data.gear.red_sky_pendant }} | {{ site.data.gear.elemental_lariat }} | {{ site.data.gear.elemental_lariat }} | {{ site.data.gear.red_sky_pendant }}
 Shoulder | {{ site.data.gear.thunderpads_of_the_cinderwolf }} | | |
 Back | {{ site.data.gear.voice_of_the_silent_star }} | | |
@@ -70,17 +70,17 @@ Hands | {{ site.data.gear.scale_rein_grips }} | {{ site.data.gear.knuckles_of_th
 Waist | {{ site.data.gear.wind_spirits_lasso }} | {{ site.data.gear.swollen_bark_clasp }} | {{ site.data.gear.swollen_bark_clasp }} | {{ site.data.gear.shadowflame_waist }}
 Legs | {{ site.data.gear.braies_of_the_cinderwolf }} | | |
 Feet | {{ site.data.gear.crechebound_soldiers_boots }} | {{ site.data.gear.crechebound_soldiers_boots }} | {{ site.data.gear.venom_steeped_stompers }} | {{ site.data.gear.crechebound_soldiers_boots }}
-Ring1 | {{ site.data.gear.onyx_impostors_birthright }} | | |
-Ring2 | {{ site.data.gear.signet_of_titanic_insight }} | | |
-Trinket1 | {{ site.data.gear.flowstone }} | | |
-Trinket2 | {{ site.data.gear.call_to_dominance }} | | |
+Finger 1 | {{ site.data.gear.onyx_impostors_birthright }} | | |
+Finger 2 | {{ site.data.gear.signet_of_titanic_insight }} | | |
+Trinket 1 | {{ site.data.gear.flowstone }} | | |
+Trinket 2 | {{ site.data.gear.call_to_dominance }} | | |
 Weapon | {{ site.data.gear.erethos_the_empty_promise }} | | |
 
 </div>
 
 <hr>
 
-# Season 2 Item List :
+# Season 2 Item List
 
 Here is a list of all items available in Dungeons and Raid during S2 (excluding trinkets).
 
