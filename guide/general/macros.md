@@ -43,7 +43,7 @@ This macro will cast {{ site.data.talent.pw }} at your current Mouseover target 
 #showtooltip
 /use [@mouseover,harm,exists][harm]Primordial Wave
 ```
-*Note:* If your Covenant is set to Necrolord in Shadowlands, you may need to add (Shadowlands) immediately after Primordial Wave, or shift-click the ability from your spellbook while editing the macro. You can also change your covenant in Oribos to forget about this problem forever.
+*Note: If your Covenant is set to Necrolord in Shadowlands, you may need to add (Shadowlands) immediately after Primordial Wave, or shift-click the ability from your spellbook while editing the macro. You can also change your covenant in Oribos to forget about this problem forever.*
 
 <br>
 
@@ -59,17 +59,6 @@ This macro will cast {{ site.data.spell.eq }} at the current location of your cu
 <hr>
 
 # Cooldowns
-
-## Fire Elemental and Storm Elemental
-
-This macro will use either {{ site.data.talent.fe }} or {{ site.data.talent.se }} depending on your talent choice.
-
-```
-#showtooltip
-/use [known:storm elemental]storm elemental;[known:fire elemental]fire elemental
-```
-
-<br>
 
 ## Primordial Elementalist and Liquid Magma Totem
 
@@ -91,7 +80,7 @@ This macro will use your currently talented Elemental, and when pressed again th
 /use [pet:Primal Storm Elemental]Tempest;[pet:Primal Fire Elemental]Meteor
 /use [known:Storm Elemental]Storm Elemental;[known:Fire Elemental]Fire Elemental
 ```
-*Note:* This macro does not include {{ site.data.talent.lmt }}.
+*Note: This macro does not include {{ site.data.talent.lmt }}.*
 
 <hr>
 
@@ -225,9 +214,20 @@ This macro will cast {{ site.data.spell.totemic_projection }} at the current loc
 
 # Talent Tree Swap depending on talents
 
+## Fire Elemental and Storm Elemental
+
+This macro will cast either {{ site.data.talent.fe }} or {{ site.data.talent.se }} depending on your talent choice.
+
+```
+#showtooltip
+/use [known:storm elemental]storm elemental;[known:fire elemental]fire elemental
+```
+
+<br>
+
 ## Spirit Walk / Gust of Wind
 
-This macro will cast {{ site.data.talent.spirit_walk }} or {{ site.data.talent.gow }} depending on your talent choices.
+This macro will cast either {{ site.data.talent.spirit_walk }} or {{ site.data.talent.gow }} depending on your talent choices.
 
 ```
 #showtooltip
@@ -238,7 +238,7 @@ This macro will cast {{ site.data.talent.spirit_walk }} or {{ site.data.talent.g
 
 ## Stoneskin Totem / Tranquil Air Totem
 
-This macro will cast {{ site.data.talent.stoneskin_totem }} or {{ site.data.talent.tranquil_air_totem }} depending on your talent choices.
+This macro will cast either {{ site.data.talent.stoneskin_totem }} or {{ site.data.talent.tranquil_air_totem }} depending on your talent choices.
 
 ```
 #showtooltip
