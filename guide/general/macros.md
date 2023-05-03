@@ -11,6 +11,8 @@ toc: true
 This page lists useful macros for playing as an Elemental Shaman in Dragonflight. It is sorted into Rotational Abilities, Cooldowns, Utility and Talent Tree Swap.
 If you have suggestions to improve macros found on this page, or additional macros that are missing, please use the [Storm, Earth & Lava Discord Server to report issues](https://discord.gg/y5dUf3PWrU), alternatively seek out an Elemental MVP or Moderator on the [Earthshrine Discord Server](https://discord.gg/pGkPDzh7rP).
 
+**Disclaimer:** Your client must be in English for these macros to work. If you play in another language, the abilities must be translated to your client's language.
+
 # Rotational Abilities
 
 ## Flame Shock
@@ -60,7 +62,7 @@ This macro will cast {{ site.data.spell.eq }} at the current location of your cu
 
 # Cooldowns
 
-## Primordial Elementalist and Liquid Magma Totem
+## Primordial Elementalist or Liquid Magma Totem
 
 This macro will use either {{ site.data.spell.tempest }} or {{ site.data.spell.meteor }} when {{ site.data.talent.pe }} is talented, or {{ site.data.talent.lmt }} at your Cursor location if it is talented.
 
@@ -73,7 +75,7 @@ This macro will use either {{ site.data.spell.tempest }} or {{ site.data.spell.m
 
 ## Elemental and Primordial Elementalist
 
-This macro will use your currently talented Elemental, and when pressed again the associated {{ site.data.talent.pe }} spell for them.
+This macro will summon your currently talented Elemental, and when pressed again the associated {{ site.data.talent.pe }} spell for them.
 
 ```
 #showtooltip
@@ -143,7 +145,7 @@ This macro will use {{ site.data.talent.hex }} at your Focus if you have one, tr
 
 <br>
 
-## Purge / Decurse on Mouseover single macro
+## Purge/Decurse single macro
 
 This macro will use in that order:
  - {{ site.data.talent.purge }} or {{ site.data.talent.greater_purge }} on your Mouseover target if it is an enemy,
@@ -154,6 +156,22 @@ This macro will use in that order:
 ```
 #showtooltip
 /use [known:Purge,@mouseover,harm,nodead]Purge;[known:Greater Purge,@mouseover,harm,nodead]Greater Purge;[@mouseover,help,nodead]Cleanse Spirit;[known:purge,harm]Purge;[known:Greater Purge,harm]Greater Purge;[]Cleanse Spirit
+```
+*Note: This macro only works for Elemental and Enhancement. Restoration Shaman have Purify Spirit for their dispel.*
+
+<br>
+
+## Chains Lightning/Heal single macro
+
+This macro will use in that order:
+ - {{ site.data.spell.cl }} on your Mouseover target if it is an enemy,
+ - {{ site.data.talent.chain_heal }} on your Mouseover target if it is an enemy,
+ - {{ site.data.spell.cl }} on current target if it is an enemy,
+ - {{ site.data.talent.chain_heal }} on your current target if it is an ally.
+
+```
+#showtooltip
+/use [@mouseover,harm,nodead]Chain Lightning;[@mouseover,help,nodead]Chain Heal;[harm]Chain Lightning;[]Chain Heal
 ```
 
 <br>
@@ -220,7 +238,7 @@ This macro will cast either {{ site.data.talent.fe }} or {{ site.data.talent.se 
 
 ```
 #showtooltip
-/use [known:storm elemental]storm elemental;[known:fire elemental]fire elemental
+/use [known:Storm Elemental]Storm Elemental;[known:Fire Elemental]Fire Elemental
 ```
 
 <br>
