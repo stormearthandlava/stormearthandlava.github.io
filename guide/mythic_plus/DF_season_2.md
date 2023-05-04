@@ -100,7 +100,7 @@ When pushing in higher keys, some talents become mandatory to survive:
 
 * Die and retry. You need to experience a lot of death and bad keys to know when a key is good.
 
-* Doing m+ with Pick Up Groups (PUGs) is a pain cause they expect you to already have the experience. Take your time, mute people if you have to, the only way to get better is to play.  
+- Doing m+ with Pick Up Groups (PUGs) can be tough. Most of the time, they expect you to already have the experience of all dungeons. Take your time to improve, try to find people you enjoy playing with and re-invite them, the only way to get better is to play.
 
 * Scaling isn't linear. That means that going from 15s to 16s is way easier than going from 19s to 20s. You are not bad, the game is making it more difficult.
 

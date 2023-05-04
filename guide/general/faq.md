@@ -62,10 +62,12 @@ This page has the answers to some frequently asked questions for Elemental Shama
 *Note: This only applies when talented into {{ site.data.talent.pe }}.*
 
 ### Q: "Do I use {{ site.data.spell.lvb }} during {{ site.data.talent.se }}?"
-* {{ site.data.talent.se }} does not alter the rotation for the builds that use it during its duration, you will typically behave the same regardless of it being active.
+* {{ site.data.talent.se }} does not alter the rotation for the builds that use it. During its duration, you will typically behave the same regardless of it being active.
 
 ### Q: "What is funnelling?"
-* Funneling is the act of casting {{ site.data.spell.fs }} on multiple targets in order to generate {{ site.data.talent.lvs }} procs with the intention of increasing your damage on one target.
+* Funnel means you are utilizing multiple targets to put more damage into a priority target or a boss. In Elemental Shaman's case, it can either refer to:
+  - Casting {{ site.data.spell.fs }} on multiple targets in order to generate {{ site.data.talent.lvs }} procs or {{ site.data.talent.magma_chamber }} Stacks.
+  - Casting {{ site.data.spell.cl }} to generate more Maelstrom in cleave situation then use this maelstrom with {{ site.data.talent.eb }} and {{ site.data.talent.sop }} {{ site.data.spell.lb }}.
 
 ### Q: "Do you have any recommendation on how to sim and profiles to use while simming?"
 * For a complete guide about Elemental's sim, see [this post]({{ site.baseurl }}{%link blog/_posts/2023-01-02-simming.md %}).
