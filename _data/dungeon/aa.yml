@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,7 +12,7 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
 ## Algeth'ar Academy
 # Dungeon buffs
@@ -22,7 +22,7 @@ green_dragonflight_pledge_pin: <a href="https://www.wowhead.com/spell=389536/gre
 red_dragonflight_pledge_pin: <a href="https://www.wowhead.com/spell=389501/red-dragonflight-pledge-pin" target="blank">Red Dragonflight Pledge Pin</a>
 black_dragonflight_pledge_pin: <a href="https://www.wowhead.com/spell=389516/black-dragonflight-pledge-pin" target="blank">Black Dragonflight Pledge Pin</a>
 
-# Vexamus trash
+# Vexamus Notable Notable Trash Mobs
 spellbound_scepter: <a href="https://www.wowhead.com/npc=196576/spellbound-scepter" target="blank">Spellbound Scepter</a>
 mystic_blast: <a href="https://www.wowhead.com/spell=396812/mystic-blast" target="blank">Mystic Blast</a>
 arcane_rain: <a href="https://www.wowhead.com/spell=388886/arcane-rain" target="blank">Arcane Rain</a>
@@ -46,7 +46,7 @@ arcane_expulsion: <a href="https://www.wowhead.com/spell=385958/arcane-expulsion
 mana_bombs: <a href="https://www.wowhead.com/spell=386173/mana-bombs" target="blank">Mana Bombs</a>
 oversurge: <a href="https://www.wowhead.com/spell=391977/oversurge" target="blank">Oversurge</a>
 
-# Crawth trash
+# Crawth Notable Notable Trash Mobs
 guardian_sentry: <a href="https://www.wowhead.com/npc=192680/guardian-sentry" target="blank">Guardian Sentry</a>
 deadly_winds: <a href="https://www.wowhead.com/spell=378011/deadly-winds" target="blank">Deadly Winds</a>
 expel_intruders: <a href="https://www.wowhead.com/spell=377912/expel-intruders" target="blank">Expel Intruders</a>
@@ -69,7 +69,7 @@ sonic_vulnerability: <a href="https://www.wowhead.com/spell=397210/sonic-vulnera
 overpowering_gust: <a href="https://www.wowhead.com/spell=377034/overpowering-gust" target="blank">Overpowering Gust</a>
 savage_peck: <a href="https://www.wowhead.com/spell=376997/savage-peck" target="blank">Savage Peck</a>
 
-# Overgrown Ancient trash
+# Overgrown Ancient Notable Trash Mobs
 hungry_lasher: <a href="https://www.wowhead.com/npc=197398/hungry-lasher" target="blank">Hungry Lasher</a>
 lasher_toxin: <a href="https://www.wowhead.com/spell=389033/lasher-toxin" target="blank">Lasher Toxin</a>
 vile_lasher: <a href="https://www.wowhead.com/npc=197219/vile-lasher" target="blank">Vile Lasher</a>
@@ -88,7 +88,7 @@ healing_touch: <a href="https://www.wowhead.com/spell=396640/healing-touch" targ
 barkbreaker: <a href="https://www.wowhead.com/spell=388544/barkbreaker" target="blank">Barkbreaker</a>
 splinterbark: <a href="https://www.wowhead.com/spell=396716/splinterbark" target="blank">Splinterbark</a>
 
-# Echo of Doragosa trash
+# Echo of Doragosa Notable Trash Mobs
 algethar_echoknight: <a href="https://www.wowhead.com/npc=196200/algethar-echoknight" target="blank">Algeth'ar Echoknight</a>
 astral_whirlwind: <a href="https://www.wowhead.com/spell=387910/astral-whirlwind" target="blank">Astral Whirlwind</a>
 spectral_invoker: <a href="https://www.wowhead.com/npc=196202/spectral-invoker" target="blank">Spectral Invoker</a>

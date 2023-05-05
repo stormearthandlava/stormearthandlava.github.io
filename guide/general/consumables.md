@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Consumables
-last_update: 29/03/2023
-game_version: 10.0.7 Dragonflight
+last_update: 02/05/2023
+game_version: 10.1.0 Dragonflight
 toc: true
 big_article: false
 ---
@@ -17,7 +17,7 @@ big_article: false
 
 ## Food
 1. {{ site.data.item.food_feast_kaluak }} or {{ site.data.item.food_feast_draconic }}.
-1. {{ site.data.item.food_ffc }}
+1. {{ site.data.item.food_dde }} or {{ site.data.item.food_ffc }}
 
 ## Damage Potion
 1. {{ site.data.item.potion_up }} will be your choice where it is available.
@@ -33,21 +33,25 @@ big_article: false
 ## Gems
 Sim for your best stat where choices are available.
 1. Make sure to have an Illimited Gem, i.e. {{ site.data.item.gem_p_haste }}, equipped.
-1. For AoE focus {{ site.data.item.gem_haste_crit }} / {{ site.data.item.gem_crit_haste }}.
-1. For Raid single target focus {{ site.data.item.gem_mast }} / {{ site.data.item.gem_haste_mast }}.
-1. **Do not overthink your gems.** Yes they have an impact on performances. But ultimately, the overall effect they have is minor compared to your gameplay. As long as you socket appropriately to your personal goals and content, you will be fine!
+1. For both Single Target and AoE, use {{ site.data.item.gem_haste_crit }} or {{ site.data.item.gem_crit_haste }}.
+1. **Do not overthink your gems.** Yes, they do have an impact on performances. But ultimately, the overall effect they have is minor compared to your gameplay. As long as you socket appropriately to your personal goals and content, you will be fine!
 
 ## Enchants
 
-Gear slot | Enchant | Affordable Alternative
---- | --- | ---
-Weapon | {{ site.data.item.ench_wep_inthigher }} | {{ site.data.item.ench_wep_intlower }}
-Cloak | {{ site.data.item.ench_back_av }} or {{ site.data.item.ench_back_sp }} or {{ site.data.item.ench_back_le }} | {{ site.data.item.ench_back_av_low }} or {{ site.data.item.ench_back_sp_low }} or {{ site.data.item.ench_back_le_low }}
-Chest | {{ site.data.item.ench_chest_stats }} | {{ site.data.item.eternal_insight }}
-Legs | {{ site.data.item.spellthread }} | {{ site.data.item.spellthread_lower }}
-Rings | {{ site.data.item.ench_ring_haste }} * | {{ site.data.item.ench_ring_haste_low }} *
-Bracers | {{ site.data.item.ench_wri_av }} or {{ site.data.item.ench_wri_le }} or {{ site.data.item.ench_wri_sp }} | {{ site.data.item.ench_wri_av_low }} or {{ site.data.item.ench_wri_le_low }} or {{ site.data.item.ench_wri_sp_low }}
-Boots | {{ site.data.item.ench_boots_stam }} or {{ site.data.item.ench_boots_sp }} | N/A
+<div class="table-20-40-40" markdown="1">
 
-Note: In addition to the Affordable Alternatives listed here, remember that prices will vary based on the consumable Quality also - use your best judgement!
+Gear Slot | Enchant | Affordable Alternative
+--- | --- | ---
+Weapon | - {{ site.data.item.ench_wep_inthigher }} | - {{ site.data.item.ench_wep_intlower }}
+Cloak | - {{ site.data.item.ench_back_av }} <br>- {{ site.data.item.ench_back_sp }} <br>- {{ site.data.item.ench_back_le }} | - {{ site.data.item.ench_back_av_low }} <br>- {{ site.data.item.ench_back_sp_low }} <br>- {{ site.data.item.ench_back_le_low }}
+Chest | - {{ site.data.item.ench_chest_stats }} | - {{ site.data.item.eternal_insight }}
+Legs | - {{ site.data.item.spellthread }} | - {{ site.data.item.spellthread_lower }}
+Rings | - {{ site.data.item.ench_ring_haste }}* | - {{ site.data.item.ench_ring_haste_low }}*
+Bracers | - {{ site.data.item.ench_wri_av }} <br>- {{ site.data.item.ench_wri_le }} <br>- {{ site.data.item.ench_wri_sp }} | - {{ site.data.item.ench_wri_av_low }} <br>- {{ site.data.item.ench_wri_le_low }}<br>- {{ site.data.item.ench_wri_sp_low }}
+Boots | - {{ site.data.item.ench_boots_stam }} <br>- {{ site.data.item.ench_boots_sp }} | N/A
+
+</div>
+
+Notes:
+- In addition to the Affordable Alternatives listed here, remember that prices will also vary based on the consumable Quality - use your best judgement!
 - Ring enchants can be optimised using Raidbots sims if desired, Haste is recommended here for its consistent value across most builds and content types.

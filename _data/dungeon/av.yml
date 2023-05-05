@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,7 +12,7 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
 ## The Azure Vault
 # Dungeon Buffs
@@ -22,7 +22,7 @@ sluggish_adoration: <a href="https://www.wowhead.com/spell=395532/sluggish-adora
 shrinking_form: <a href="https://www.wowhead.com/spell=390300/shrinking-form" target="blank">Shrinking Form</a>
 hardening_scales: <a href="https://www.wowhead.com/spell=390301/hardening-scales" target="blank">Hardening Scales</a>
 
-# Leymor Trash
+# Leymor Notable Trash Mobs
 conjured_lasher: <a href="https://www.wowhead.com/npc=196102/conjured-lasher" target="blank">Conjured Lasher</a>
 mystic_vapors: <a href="https://www.wowhead.com/spell=387564/mystic-vapors" target="blank">Mystic Vapors</a>
 shrieking_whelp: <a href="https://www.wowhead.com/npc=187159/shrieking-whelp" target="blank">Shrieking Whelp</a>
@@ -39,7 +39,7 @@ explosive_brand: <a href="https://www.wowhead.com/spell=374567/explosive-brand" 
 consuming_stomp: <a href="https://www.wowhead.com/spell=374720/consuming-stomp" target="blank">Consuming Stomp</a>
 bubbling_sapling: <a href="https://www.wowhead.com/npc=191313/bubbling-sapling" target="blank">Bubbling Sapling</a>
 
-# Azureblade Trash
+# Azureblade Notable Trash Mobs
 arcane_elemental: <a href="https://www.wowhead.com/npc=186741/arcane-elemental" target="blank">Arcane Elemental</a>
 arcane_bolt: <a href="https://www.wowhead.com/spell=371306/arcane-bolt" target="blank">Arcane Bolt</a>
 waking_bane: <a href="https://www.wowhead.com/spell=386546/waking-bane" target="blank">Waking Bane</a>
@@ -72,7 +72,7 @@ ancient_orb: <a href="https://www.wowhead.com/spell=385578/ancient-orb" target="
 overwhelming_energy: <a href="https://www.wowhead.com/spell=384132/overwhelming-energy" target="blank">Overwhelming Energy</a>
 arcane_cleave: <a href="https://www.wowhead.com/spell=372222/arcane-cleave" target="blank">Arcane Cleave</a>
 
-# Telash Greywing Trash
+# Telash Greywing Notable Trash Mobs
 drakonid_breaker: <a href="https://www.wowhead.com/npc=187240/drakonid-breaker" target="blank">Drakonid Breaker</a>
 shoulder_slam: <a href="https://www.wowhead.com/spell=391136/shoulder-slam" target="blank">Shoulder Slam</a>
 bestial_roar: <a href="https://www.wowhead.com/spell=396991/bestial-roar" target="blank">Bestial Roar</a>

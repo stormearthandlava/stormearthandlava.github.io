@@ -140,7 +140,6 @@ Don't forget to check out Additional Resources at the bottom of this page!
 # Dungeons
 <p style="color:red">Click on a dungeon banner to expand it.</p>
 
-<hr>
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">

@@ -1,0 +1,154 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Uldaman: Legacy of Tyr
+
+# Blizzard's Viking Notable Trash Mobs
+stonevault_geomancer: <a href="https://www.wowhead.com/npc=186658/stonevault-geomancer" target="blank">Stonevault Geomancer</a>
+stone_pike: <a href="https://www.wowhead.com/spell=369674/stone-spike" target="blank">Stone Pike</a> # kick
+chain_lightning: <a href="https://www.wowhead.com/spell=369675/chain-lightning" target="blank">Chain Lightning</a> # prio kick
+
+vicious_basilisk: <a href="https://www.wowhead.com/npc=184023/vicious-basilisk" target="blank">Vicious Basilisk</a>
+chomp: <a href="https://www.wowhead.com/spell=369828/chomp" target="blank">Chomp</a> # tank bleed
+spiked_carapace: <a href="https://www.wowhead.com/spell=369823/spiked-carapace" target="blank">Spiked Carapace</a> # purge or spare kicks
+
+hulking_berserker: <a href="https://www.wowhead.com/npc=184020/hulking-berserker" target="blank">Hulking Berserker</a>
+diseased_bite: <a href="https://www.wowhead.com/spell=369818/diseased-bite" target="blank">Diseased Bite</a> # Tank disease
+brutal_slam: <a href="https://www.wowhead.com/spell=369811/brutal-slam" target="blank">Brutal Slam</a> # 7yds AoE that stuns
+reckless_rage: <a href="https://www.wowhead.com/spell=369806/reckless-rage" target="blank">Reckless Rage</a> # 40%hp => Cast => enrage buff allies within 20yds
+
+# The Lost Dwarves
+olaf: <a href="https://www.wowhead.com/npc=184580/olaf" target="blank">Olaf</a>
+ricocheting_shield: <a href="https://www.wowhead.com/spell=369677/ricocheting-shield" target="blank">Ricocheting Shield</a> # stay spread, jumps at 5yds
+defensive_bulwark: <a href="https://www.wowhead.com/spell=369603/defensive-bulwark" target="blank">Defensive Bulwark</a> # kick => Big annoying defensive dome
+
+eric_the_swift: <a href="https://www.wowhead.com/npc=184582/eric-the-swift" target="blank">Eric The Swift</a>
+skullcracker: <a href="https://www.wowhead.com/spell=369791/skullcracker" target="blank">Skullcracker</a> # 5yds swirl that disorient
+dagger_throw: <a href="https://www.wowhead.com/spell=369781/dagger-throw" target="blank">Dagger Throw</a> # random target damage
+
+baelog: <a href="https://www.wowhead.com/npc=184581/baelog" target="blank">Baelog</a>
+heavy_arrow: <a href="https://www.wowhead.com/spell=369573/heavy-arrow" target="blank">Heavy Arrow</a> # frontal
+wild_cleave: <a href="https://www.wowhead.com/spell=369563/wild-cleave" target="blank">Wild Cleave</a> # Cleave
+
+longboat_raid: <a href="https://www.wowhead.com/spell=375924/longboat-raid" target="blank">Longboat Raid!</a> # low health => go into the boat
+searing_cannonfire: <a href="https://www.wowhead.com/spell=375286/searing-cannonfire" target="blank">Searing Cannonfire</a> # swirls in the room => Magic dispel if hit
+fiery_surge: <a href="https://www.wowhead.com/spell=395647/fiery-surge" target="blank">Fiery Surge</a> # party damage on each cannonfire
+burning_pitch: <a href="https://www.wowhead.com/spell=377825/burning-pitch" target="blank">Burning Pitch</a> # puddles for 30s
+hasty_rearming: <a href="https://www.wowhead.com/spell=375398/hasty-rearming" target="blank">Hasty Rearming</a> # Focus a dwarf
+
+# Another Trogg King Notable Trash Mobs
+burly_rock_thrower: <a href="https://www.wowhead.com/npc=184019/burly-rock-thrower" target="blank">Burly Rock-Thrower</a> # immobile, shoud LoS
+throw_rock: <a href="https://www.wowhead.com/spell=369853/throw-rock" target="blank">Throw Rock</a> # Swirl
+
+stonevault_ambusher: <a href="https://www.wowhead.com/npc=186664/stonevault-ambusher" target="blank">Stonevault Ambusher</a>
+ambush: <a href="https://www.wowhead.com/spell=369696/ambush" target="blank">Ambush</a> # jump swirl
+
+# Bromach
+bromach: <a href="https://www.wowhead.com/npc=184018/bromach" target="blank">Bromach</a>
+call_of_the_deep: <a href="https://www.wowhead.com/spell=369605/call-of-the-deep" target="blank">Call of the Deep</a> # add spawn
+thundering_slam: <a href="https://www.wowhead.com/spell=369703/thundering-slam" target="blank">Thundering Slam</a> # 12 yds AoE
+quaking_totem: <a href="https://www.wowhead.com/spell=382303/quaking-totem" target="blank">Quaking Totem</a> # summon quaking totem
+quaking_totem_npc: <a href="https://www.wowhead.com/npc=186696/quaking-totem" target="blank">Quaking Totem</a> # add
+shocking_quake: <a href="https://www.wowhead.com/spell=369610/shocking-quake" target="blank">Shocking Quake</a> # party damage
+tremor: <a href="https://www.wowhead.com/spell=369660/tremor" target="blank">Tremor</a> # kite troggs on totem for damage amp (8yds)
+bloodlust: <a href="https://www.wowhead.com/spell=369754/bloodlust" target="blank">Bloodlust</a> # interrupt with tremor or disenrage, nothing else to do
+
+# Serpentine Keeper Notable Trash Mobs
+earthen_custodian: <a href="https://www.wowhead.com/npc=184130/earthen-custodian" target="blank">Earthen Custodian</a>
+cleave: <a href="https://www.wowhead.com/spell=369409/cleave" target="blank">Cleave</a> # frontal
+rending_slash: <a href="https://www.wowhead.com/spell=369408/rending-slash" target="blank">Rending Slash</a> # tank damage
+
+refti_custodian: <a href="https://www.wowhead.com/npc=184319/refti-custodian" target="blank">Refti Custodian</a>
+ancient_power: <a href="https://www.wowhead.com/spell=377738/ancient-power" target="blank">Ancient Power</a> # Scaling buff, purgeable?
+
+# Sentinel Talondras
+sentinel_talondras: <a href="https://www.wowhead.com/npc=184124/sentinel-talondras" target="blank">Sentinel Talondras</a>
+resonating_orb: <a href="https://www.wowhead.com/spell=372623/resonating-orb" target="blank">Resonating Orb</a> # Orbs that stun
+ancient_dynamo: <a href="https://www.wowhead.com/spell=372716/ancient-dynamo" target="blank">Ancient Dynamo</a> # enrage at 100energy, stun to drain
+inexorable: <a href="https://www.wowhead.com/spell=372600/inexorable" target="blank">Inexorable</a> # 2 stun immunity
+unrelenting: <a href="https://www.wowhead.com/spell=386332/unrelenting" target="blank">Unrelenting</a> # Scales after stun
+titanic_empowerment: <a href="https://www.wowhead.com/spell=372719/titanic-empowerment" target="blank">Titanic Empowerment</a> # Enrage, you lost
+crushing_stomp: <a href="https://www.wowhead.com/spell=372701/crushing-stomp" target="blank">Crushing Stomp</a> # AoE and Knock
+earthen_shards: <a href="https://www.wowhead.com/spell=372718/earthen-shards" target="blank">Earthen Shards</a> # random ST DoT
+
+# Fire Keeper Notable Trash Mobs
+earthen_weaver: <a href="https://www.wowhead.com/npc=186420/earthen-weaver" target="blank">Earthen Weaver</a>
+stone_bolt: <a href="https://www.wowhead.com/spell=369399/stone-bolt" target="blank">Stone Bolt</a> # kick
+hail_of_stone: <a href="https://www.wowhead.com/spell=369465/hail-of-stone" target="blank">Hail of Stone</a> # channeled AoE, must be hard CCed
+
+runic_protector: <a href="https://www.wowhead.com/npc=184107/runic-protector" target="blank">Runic Protector</a>
+earthquake: <a href="https://www.wowhead.com/spell=369328/earthquake" target="blank">Earthquake</a> # unavoidable AoE dam channeled
+fissuring_slam: <a href="https://www.wowhead.com/spell=369335/fissuring-slam" target="blank">Fissuring Slam</a> # puddle on players
+difficult_terrain: <a href="https://www.wowhead.com/spell=369337/difficult-terrain" target="blank">Difficult Terrain</a> # Tank debuff
+
+earthen_warder: <a href="https://www.wowhead.com/npc=184132/earthen-warder" target="blank">Earthen Warder</a>
+earthen_ward: <a href="https://www.wowhead.com/spell=369400/earthen-ward" target="blank">Earthen Ward</a> # kick or purge
+curse_of_stone: <a href="https://www.wowhead.com/spell=369365/curse-of-stone" target="blank">Curse of Stone</a> # Kick or decurse
+trapped_in_stone: <a href="https://www.wowhead.com/spell=369366/trapped-in-stone" target="blank">Trapped in Stone</a> # decurse
+stone_eruption: <a href="https://www.wowhead.com/spell=369368/stone-eruption" target="blank">Stone Eruption</a> # explodes 6yds aoe
+
+skittering_crawler: <a href="https://www.wowhead.com/npc=184303/skittering-crawler" target="blank">Skittering Crawler</a>
+pounce: <a href="https://www.wowhead.com/spell=369423/pounce" target="blank">Pounce</a> # jump on random target for damage, unavoidable
+venomous_fangs: <a href="https://www.wowhead.com/spell=369419/venomous-fangs" target="blank">Venomous Fangs</a> # Poison debuff on tank
+
+cavern_seeker: <a href="https://www.wowhead.com/npc=184301/cavern-seeker" target="blank">Cavern Seeker</a>
+sonic_burst: <a href="https://www.wowhead.com/spell=369411/sonic-burst" target="blank">Sonic Burst</a> # Spell lock aoe at 10yds. Hard CC or outrange
+
+# Emberon
+emberon: <a href="https://www.wowhead.com/npc=184422/emberon" target="blank">Emberon</a>
+activate_keepers: <a href="https://www.wowhead.com/spell=369033/activate-keepers" target="blank">Activate Keepers</a> # spawns untargeteable adds that send magma balls
+vault_keeper: <a href="https://www.wowhead.com/npc=186107/vault-keeper" target="blank">Vault Keeper</a> # Adds
+seeking_flame: <a href="https://www.wowhead.com/spell=369049/seeking-flame" target="blank">Seeking Flame</a> # balls of fire sent by the add to dodge
+unstable_embers: <a href="https://www.wowhead.com/spell=369110/unstable-embers" target="blank">Unstable Embers</a> # Bomb spread 7yds all players
+searing_clap: <a href="https://www.wowhead.com/spell=369061/searing-clap" target="blank">Searing Clap</a> # frontal
+burning_heat: <a href="https://www.wowhead.com/spell=369006/burning-heat" target="blank">Burning Heat</a> # DoT on the party, magic dispeleable
+#P2 Use WRT to travel between adds
+# kill adds to end the phase
+infusion: <a href="https://www.wowhead.com/spell=369043/infusion" target="blank">Infusion</a> # channeled by the vault keeper during P2
+fire_wave: <a href="https://www.wowhead.com/spell=369025/fire-wave" target="blank">Fire Wave</a> # pulsing fire damage
+purging_flames: <a href="https://www.wowhead.com/spell=368990/purging-flames" target="blank">Purging Flames</a> # Rotating beam
+sacred_barrier: <a href="https://www.wowhead.com/spell=369031/sacred-barrier" target="blank">Sacred Barrier</a> # boss immunity
+heat_engine: <a href="https://www.wowhead.com/spell=369029/heat-engine" target="blank">Heat Engine</a> # prevents going to the boss
+
+# Retcon Dragonflight Herald Notable Trash Mobs
+ebonstone_golem: <a href="https://www.wowhead.com/npc=184300/ebonstone-golem" target="blank">Ebonstone Golem</a>
+thunderous_clap: <a href="https://www.wowhead.com/spell=381593/thunderous-clap" target="blank">Thunderous Clap</a> # Heavy AoE, might be outranged?
+
+earthen_guardian: <a href="https://www.wowhead.com/npc=184131/earthen-guardian" target="blank">Earthen Guardian</a>
+blessing_of_tyr: <a href="https://www.wowhead.com/spell=382578/blessing-of-tyr" target="blank">Blessing of Tyr</a> # Amp dome, damage players, thunderstorm?
+bulwark_slam: <a href="https://www.wowhead.com/spell=382696/bulwark-slam" target="blank">Bulwark Slam</a> # Tank Damage
+
+infinite_agent: <a href="https://www.wowhead.com/npc=184335/infinite-agent" target="blank">Infinite Agent</a>
+hasten: <a href="https://www.wowhead.com/spell=377500/hasten" target="blank">Hasten</a> # purge // let to mage if any
+time_blade: <a href="https://www.wowhead.com/spell=377486/time-blade" target="blank">Time Blade</a> # tank damage
+
+infinite_timereaver: <a href="https://www.wowhead.com/npc=184331/infinite-timereaver" target="blank">Infinite Timereaver</a>
+stolen_time: <a href="https://www.wowhead.com/spell=377510/stolen-time" target="blank">Stolen Time</a>
+# Stacking DoT that you get while in combat with it, don't engage too many at once.
+# Worth nothing that stun prevent the DoT from being applied, can give a window to reset stacks
+
+# Chrono-Lord Deios
+chrono_lord_deios: <a href="https://www.wowhead.com/npc=184125/chrono-lord-deios" target="blank">Chrono-Lord Deios</a>
+eternity_orb: <a href="https://www.wowhead.com/spell=376292/eternity-orb" target="blank">Eternity Orb</a> # swirl to dodge
+eternity_zone: <a href="https://www.wowhead.com/spell=376325/eternity-zone" target="blank">Eternity Zone</a> # puddle after swirl
+wing_buffet: <a href="https://www.wowhead.com/spell=376049/wing-buffet" target="blank">Wing Buffet</a> # Damage & knockback
+sand_breath: <a href="https://www.wowhead.com/spell=375727/sand-breath" target="blank">Sand Breath</a> # frontal on tank
+time_sink: <a href="https://www.wowhead.com/spell=377405/time-sink" target="blank">Time Sink</a> # DoT, trigger eruption when removed
+time_eruption: <a href="https://www.wowhead.com/spell=377561/time-eruption" target="blank">Time Eruption</a> # Damage and knockback
+
+rewind_timeflow: <a href="https://www.wowhead.com/spell=376208/rewind-timeflow" target="blank">Rewind Timeflow</a> #intermission 12s
+temporal_orb: <a href="https://www.wowhead.com/spell=376329/temporal-orb" target="blank">Temporal Orb</a> # orbs going up, doesn't matter
+temporal_zone: <a href="https://www.wowhead.com/spell=376333/temporal-zone" target="blank">Temporal Zone</a> # Haste puddle !

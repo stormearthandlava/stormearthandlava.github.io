@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,10 +12,10 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
 ## Shadowmoon Burial Grounds
-# Sadana Bloodfury Trash
+# Sadana Bloodfury Notable Trash Mobs
 shadowmoon_bone_mender: <a href="https://www.wowhead.com/npc=75713/shadowmoon-bone-mender" target="blank">Shadowmoon Bone-Mender</a>
 shadow_mend: <a href="https://www.wowhead.com/spell=152818/shadow-mend" target="blank">Shadow Mend</a>
 shadow_bolt: <a href="https://www.wowhead.com/spell=152814/shadow-bolt" target="blank">Shadow Bolt</a>
@@ -35,7 +35,7 @@ dark_communion_sbg: <a href="https://www.wowhead.com/spell=153153/dark-communion
 dark_eclipse: <a href="https://www.wowhead.com/spell=164974/dark-eclipse" target="blank">Dark Eclipse</a>
 lunar_purity: <a href="https://www.wowhead.com/spell=162652/lunar-purity" target="blank">Lunar Purity</a>
 
-# Nhallish Trash
+# Nhallish Notable Trash Mobs
 subjugated_soul: <a href="https://www.wowhead.com/npc=76444/subjugated-soul" target="blank">Subjugated Soul</a>
 shadowmoon_dominator: <a href="https://www.wowhead.com/npc=76446/shadowmoon-dominator" target="blank">Shadowmoon Dominator</a>
 domination: <a href="https://www.wowhead.com/spell=154327/domination" target="blank">Domination</a>
@@ -57,7 +57,7 @@ returned_soul: <a href="https://www.wowhead.com/spell=153033/returned-soul" targ
 void_devastation: <a href="https://www.wowhead.com/spell=153070/void-devastation" target="blank">Void Devastation</a>
 void_blast: <a href="https://www.wowhead.com/spell=152792/void-blast" target="blank">Void Blast</a>
 
-# Bonemaw Trash
+# Bonemaw Notable Trash Mobs
 monstrous_corpse_spider: <a href="https://www.wowhead.com/npc=76104/monstrous-corpse-spider" target="blank">Monstrous Corpse Spider</a>
 necrotic_burst: <a href="https://www.wowhead.com/spell=156718/necrotic-burst" target="blank">Necrotic Burst</a>
 plagued_bat: <a href="https://www.wowhead.com/npc=75459/plagued-bat" target="blank">Plagued Bat</a>

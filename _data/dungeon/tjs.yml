@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,10 +12,10 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
 ## Temple of the Jade Serpent
-# Wise Mari Trash
+# Wise Mari Notable Trash Mobs
 fallen_waterspeaker: <a href="https://www.wowhead.com/npc=200126/fallen-waterspeaker" target="blank">Fallen Waterspeaker</a>
 hydrolance: <a href="https://www.wowhead.com/spell=397888/hydrolance" target="blank">Hydrolance</a>
 tidal_burst: <a href="https://www.wowhead.com/spell=397889/tidal-burst" target="blank">Tidal Burst</a>
@@ -31,7 +31,7 @@ wash_away: <a href="https://www.wowhead.com/spell=397785/wash-away" target="blan
 corrupted_geyser: <a href="https://www.wowhead.com/spell=397793/corrupted-geyser" target="blank">Corrupted Geyser</a>
 corrupted_vortex: <a href="https://www.wowhead.com/spell=397797/corrupted-vortex" target="blank">Corrupted Vortex</a>
 
-# Strife and Peril Trash
+# Strife and Peril Notable Trash Mobs
 haunting_sha: <a href="https://www.wowhead.com/npc=59555/haunting-sha" target="blank">Haunting Sha</a>
 haunting_gaze: <a href="https://www.wowhead.com/spell=114646/haunting-gaze" target="blank">Haunting Gaze</a>
 haunting_scream: <a href="https://www.wowhead.com/spell=395859/haunting-scream" target="blank">Haunting Scream</a>
@@ -61,7 +61,7 @@ feeling_of_superiority: <a href="https://www.wowhead.com/spell=396150/feeling-of
 dissipation: <a href="https://www.wowhead.com/spell=113379/dissipation" target="blank">Dissipation</a>
 agony: <a href="https://www.wowhead.com/spell=114571/agony" target="blank">Agony</a>
 
-# Liu Flameheart Trash
+# Liu Flameheart Notable Trash Mobs
 shambling_infester: <a href="https://www.wowhead.com/npc=200387/shambling-infester" target="blank">Shambling Infester</a>
 flames_of_doubt: <a href="https://www.wowhead.com/spell=398300/flames-of-doubt" target="blank">Flames of Doubt</a>
 summon_sha: <a href="https://www.wowhead.com/spell=398296/summon-sha" target="blank">Summon Sha</a>

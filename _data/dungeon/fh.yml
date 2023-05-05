@@ -1,0 +1,172 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+
+# Shitting Parrot Notable Trash Mobs
+sharkbait: <a href="https://www.wowhead.com/npc=129743/sharkbait" target="blank">Sharkbait</a>
+vile_bombardment: <a href="https://www.wowhead.com/spell=256005/vile-bombardment" target="blank">Vile Bombardment</a> # Puddles until first boss
+vile_coating: <a href="https://www.wowhead.com/spell=257274/vile-coating" target="blank">Vile Coating</a> # damage and slow in puddles
+
+irontide_enforcer: <a href="https://www.wowhead.com/npc=129602/irontide-enforcer" target="blank">Irontide Enforcer</a>
+brutal_backhand: <a href="https://www.wowhead.com/spell=257426/brutal-backhand" target="blank">Brutal Backhand</a> # Frontal
+shattering_toss: <a href="https://www.wowhead.com/spell=274860/shattering-toss" target="blank">Shattering Toss</a> # sends tank on farthest range, stand closish
+
+irontide_mastiff: <a href="https://www.wowhead.com/npc=128551/irontide-mastiff" target="blank">Irontide Mastiff</a>
+crippling_bite: <a href="https://www.wowhead.com/spell=257478/crippling-bite" target="blank">Crippling Bite</a> # tank dam
+bestial_wrath: <a href="https://www.wowhead.com/spell=257476/bestial-wrath" target="blank">Bestial Wrath</a> # Soothe
+
+irontide_corsair: <a href="https://www.wowhead.com/npc=126928/irontide-corsair" target="blank">Irontide Corsair</a> #jumps around
+poisoning_strike: <a href="https://www.wowhead.com/spell=257436/poisoning-strike" target="blank">Poisoning Strike</a> # Poison on a random target
+
+irontide_crackshot: <a href="https://www.wowhead.com/npc=126918/irontide-crackshot" target="blank">Irontide Crackshot</a> # ranged caster
+shoot: <a href="https://www.wowhead.com/spell=268440/shoot" target="blank">Shoot</a> # ranged auto-attack
+azerite_grenade: <a href="https://www.wowhead.com/spell=258672/azerite-grenade" target="blank">Azerite Grenade</a> # Swirl dodge
+
+irontide_bonesaw: <a href="https://www.wowhead.com/npc=129788/irontide-bonesaw" target="blank">Irontide Bonesaw</a>
+filthy_blade: <a href="https://www.wowhead.com/spell=258321/filthy-blade" target="blank">Filthy Blade</a> # tank dam
+infected_wound: <a href="https://www.wowhead.com/spell=258323/infected-wound" target="blank">Infected Wound</a> # disease on tank
+healing_balm: <a href="https://www.wowhead.com/spell=257397/healing-balm" target="blank">Healing Balm</a> # Kick or Purge
+
+# SkyCap'n Kragg
+# P1 Mounted (above 75%)
+skycapn_kragg: <a href="https://www.wowhead.com/npc=129732/skycapn-kragg" target="blank">Skycap'n Kragg</a>
+charrrrrge: <a href="https://www.wowhead.com/spell=255952/charrrrrge" target="blank">Charrrrrge</a> # Swirl
+pistol_shot: <a href="https://www.wowhead.com/spell=255966/pistol-shot" target="blank">Pistol Shot</a> # Random ST dam
+# P2, sharkbait shitting on us again, bait far
+azerite_powder_shot: <a href="https://www.wowhead.com/spell=256106/azerite-powder-shot" target="blank">Azerite Powder Shot</a> # 30yds frontal, outrange as much as possible while baiting
+revitalizing_brew: <a href="https://www.wowhead.com/spell=256060/revitalizing-brew" target="blank">Revitalizing Brew</a> # kick ( with gust being 30yds limited, let your melee/tank do it)
+dive_bomb: <a href="https://www.wowhead.com/spell=272046/dive-bomb" target="blank">Dive Bomb</a> # dodge charge
+
+# Captains betraying each other each week Notable Trash Mobs
+blacktooth_brute: <a href="https://www.wowhead.com/npc=129548/blacktooth-brute" target="blank">Blacktooth Brute</a>
+earth_shaker: <a href="https://www.wowhead.com/spell=257747/earth-shaker" target="blank">Earth Shaker</a> # 5 Yds AoE
+
+cutwater_duelist: <a href="https://www.wowhead.com/npc=129559/cutwater-duelist" target="blank">Cutwater Duelist</a>
+duelist_dash: <a href="https://www.wowhead.com/spell=274400/duelist-dash" target="blank">Duelist Dash</a> # Charge to a swirl, stunning in between
+
+irontide_oarsman: <a href="https://www.wowhead.com/npc=127111/irontide-oarsman" target="blank">Irontide Oarsman</a>
+sea_spout: <a href="https://www.wowhead.com/spell=258777/sea-spout" target="blank">Sea Spout</a> # kick, dodge swirls if not
+
+bilge_rat_padfoot: <a href="https://www.wowhead.com/npc=129550/bilge-rat-padfoot" target="blank">Bilge Rat Padfoot</a>
+plague_step: <a href="https://www.wowhead.com/spell=257775/plague-step" target="blank">Plague Step</a> # Shadowstep, stay around melee
+
+bilge_rat_brinescale: <a href="https://www.wowhead.com/npc=129600/bilge-rat-brinescale" target="blank">Bilge Rat Brinescale</a> # Frontal
+frost_blast: <a href="https://www.wowhead.com/spell=257784/frost-blast" target="blank">Frost Blast</a> # Kick, Frontal
+water_bolt: <a href="https://www.wowhead.com/spell=281420/water-bolt" target="blank">Water Bolt</a> # Kick
+
+bilge_rat_buccaneer: <a href="https://www.wowhead.com/npc=129527/bilge-rat-buccaneer" target="blank">Bilge Rat Buccaneer</a>
+going_bananas: <a href="https://www.wowhead.com/spell=257756/goin-bananas" target="blank">Goin' Bananas</a> # 5 yds aoe
+
+bilge_rat_swabby: <a href="https://www.wowhead.com/npc=129526/bilge-rat-swabby" target="blank">Bilge Rat Swabby</a>
+slippery_suds: <a href="https://www.wowhead.com/spell=274507/slippery-suds" target="blank">Slippery Suds</a> # Worst mob ever
+
+cutwater_knife_juggler: <a href="https://www.wowhead.com/npc=129599/cutwater-knife-juggler" target="blank">Cutwater Knife Juggler</a>
+ricocheting_throw: <a href="https://www.wowhead.com/spell=272402/ricocheting-throw" target="blank">Ricocheting Throw</a> # Spread
+
+vermin_trapper: <a href="https://www.wowhead.com/npc=130404/vermin-trapper" target="blank">Vermin Trapper</a>
+rat_traps: <a href="https://www.wowhead.com/spell=274383/rat-traps" target="blank">Rat Traps</a> # dodge traps, use TP to escape?
+
+soggy_shiprat: <a href="https://www.wowhead.com/npc=130024/soggy-shiprat" target="blank">Soggy Shiprat</a>
+scabrous_bite: <a href="https://www.wowhead.com/spell=274555/scabrous-bite" target="blank">Scabrous Bite</a> # tank debuff, blast rats
+
+blacktooth_knuckleduster: <a href="https://www.wowhead.com/npc=129547/blacktooth-knuckleduster" target="blank">Blacktooth Knuckleduster</a>
+shattering_bellow: <a href="https://www.wowhead.com/spell=257732/shattering-bellow" target="blank">Shattering Bellow</a> # kick, beware spelllock
+
+blacktooth_scrapper: <a href="https://www.wowhead.com/npc=129529/blacktooth-scrapper" target="blank">Blacktooth Scrapper</a>
+blind_rage: <a href="https://www.wowhead.com/spell=257739/blind-rage" target="blank">Blind Rage</a> # Fixate
+
+# Joining a crew
+# chase dog
+murphy: <a href="https://www.wowhead.com/npc=130467/murphy" target="blank">Murphy</a> # Dog to follow
+otis: <a href="https://www.wowhead.com/npc=129441/otis" target="blank">Otis</a> # Dude to free
+cutwater_regalia: <a href="https://www.wowhead.com/spell=257800/cutwater-regalia" target="blank">Cutwater Regalia</a> # Jolly is your friend
+# Drink
+bilge_rat_brew: <a href="https://www.wowhead.com/spell=281357/bilge-rat-brew" target="blank">Bilge Rat Brew</a> # Drink by talking to vulperra
+bilge_rat_regalia: <a href="https://www.wowhead.com/spell=266952/bilge-rat-regalia" target="blank">Bilge Rat Regalia</a> # Eudora is your friend
+# kill mobs
+blacktooth_regalia: <a href="https://www.wowhead.com/spell=266950/blacktooth-regalia" target="blank">Blacktooth Regalia</a> # Frontal
+
+# Council of Captain
+under_one_banner: <a href="https://www.wowhead.com/spell=257821/under-one-banner" target="blank">Under One Banner</a>
+
+# Each boss has two abilities against and one friendly ability
+captain_raoul: <a href="https://www.wowhead.com/npc=126847/captain-raoul" target="blank">Captain Raoul</a>
+blackout_barrel: <a href="https://www.wowhead.com/spell=258338/blackout-barrel" target="blank">Blackout Barrel</a> # Free your ally fast
+barrel_smash: <a href="https://www.wowhead.com/spell=256589/barrel-smash" target="blank">Barrel Smash</a> # don't be in melee
+tapped_keg: <a href="https://www.wowhead.com/spell=272900/tapped-keg" target="blank">Tapped Keg</a> # Stand near for 15% damage buff
+
+captain_eudora: <a href="https://www.wowhead.com/npc=126848/captain-eudora" target="blank">Captain Eudora</a>
+powder_shot: <a href="https://www.wowhead.com/spell=256979/powder-shot" target="blank">Powder Shot</a> # Random ST dam
+grapeshot: <a href="https://www.wowhead.com/spell=258381/grapeshot" target="blank">Grapeshot</a> # fan fire
+chain_shot: <a href="https://www.wowhead.com/spell=272902/chain-shot" target="blank">Chain Shot</a> # Stuns another Captain
+
+captain_jolly: <a href="https://www.wowhead.com/npc=126845/captain-jolly" target="blank">Captain Jolly</a>
+cutting_surge: <a href="https://www.wowhead.com/spell=267523/cutting-surge" target="blank">Cutting Surge</a> # charge to a 5yds swirl
+whirlpool_of_blades: <a href="https://www.wowhead.com/spell=272397/whirlpool-of-blades" target="blank">Whirlpool of Blades</a> # Pool that will move toward the boss
+trade_winds_vigor: <a href="https://www.wowhead.com/spell=281329/trade-winds-vigor" target="blank">Trade Wind's Vigor</a> # 40% MS for the party
+
+rummy_mancomb: <a href="https://www.wowhead.com/npc=133219/rummy-mancomb" target="blank">Rummy Mancomb</a> # Barman => FIND WA
+confidence_boosting_freehold_brew: <a href="https://www.wowhead.com/spell=265088/confidence-boosting-freehold-brew" target="blank">Confidence-Boosting Freehold Brew</a> # swirl crit
+invigorating_freehold_brew: <a href="https://www.wowhead.com/spell=265056/invigorating-freehold-brew" target="blank">Invigorating Freehold Brew</a> # swirl haste
+caustic_freehold_brew: <a href="https://www.wowhead.com/spell=278467/caustic-freehold-brew" target="blank">Caustic Freehold Brew</a> # DoT swirl
+
+# zzz RP Notable Trash Mobs
+cutwater_harpooner: <a href="https://www.wowhead.com/npc=129601/cutwater-harpooner" target="blank">Cutwater Harpooner</a>
+dragging_harpoon: <a href="https://www.wowhead.com/spell=272413/dragging-harpoon" target="blank">Dragging Harpoon</a> # grabs to melee => Care fixate and aoe effects
+
+irontide_crusher: <a href="https://www.wowhead.com/npc=130400/irontide-crusher" target="blank">Irontide Crusher</a>
+boulder_throw: <a href="https://www.wowhead.com/spell=258181/boulder-throw" target="blank">Boulder Throw</a> # Big Swirl
+ground_shatter: <a href="https://www.wowhead.com/spell=258199/ground-shatter" target="blank">Ground Shatter</a> # Frontal
+
+# Ring of booty
+lightning: <a href="https://www.wowhead.com/npc=130099/lightning" target="blank">Lightning</a> # GW is great
+
+ludwig_von_tortollan: <a href="https://www.wowhead.com/npc=129699/ludwig-von-tortollan" target="blank">Ludwig Von Tortollan</a> # will bully the tank (stoneskin?)
+shell_bounce: <a href="https://www.wowhead.com/spell=257904/shell-bounce" target="blank">Shell Bounce</a> # just open eyes and dodge
+
+Trothak: <a href="https://www.wowhead.com/npc=126969/trothak" target="blank">Trothak</a>
+ripper_punch: <a href="https://www.wowhead.com/spell=256363/ripper-punch" target="blank">Ripper Punch</a> # random melee bleed
+shark_tornado: <a href="https://www.wowhead.com/spell=256405/shark-tornado" target="blank">Shark Tornado</a> # Stay away from melee
+shark_toss: <a href="https://www.wowhead.com/spell=256477/shark-toss" target="blank">Shark Toss</a> # Kite
+flailing_shark: <a href="https://www.wowhead.com/spell=256551/flailing-shark" target="blank">Flailing Shark</a> # kite
+rearm: <a href="https://www.wowhead.com/spell=256706/rearm" target="blank">Rearm</a> # kiting done
+throw_chum: <a href="https://www.wowhead.com/spell=272548/throw-chum" target="blank">Throw Chum</a> # Slows the shark
+
+# Male Ashvane Notable Trash Mobs
+irontide_officer: <a href="https://www.wowhead.com/npc=127106/irontide-officer" target="blank">Irontide Officer</a>
+oiled_blade: <a href="https://www.wowhead.com/spell=257908/oiled-blade" target="blank">Oiled Blade</a> # Tank dam
+
+irontide_stormcaller: <a href="https://www.wowhead.com/npc=126919/irontide-stormcaller" target="blank">Irontide Stormcaller</a>
+lightning_bolt: <a href="https://www.wowhead.com/spell=259092/lightning-bolt" target="blank">Lightning Bolt</a> # kick
+thundering_squall: <a href="https://www.wowhead.com/spell=257736/thundering-squall" target="blank">Thundering Squall</a> # kick, AoE melee
+
+irontide_ravager: <a href="https://www.wowhead.com/npc=130012/irontide-ravager" target="blank">Irontide Ravager</a>
+painful_motivation: <a href="https://www.wowhead.com/spell=257899/painful-motivation" target="blank">Painful Motivation</a> # don't kick, kills an enemy
+
+irontide_buccaneer: <a href="https://www.wowhead.com/npc=130011/irontide-buccaneer" target="blank">Irontide Buccaneer</a>
+blade_barrage: <a href="https://www.wowhead.com/spell=257870/blade-barrage" target="blank">Blade Barrage</a> # Frontal
+
+# Harlan Sweete
+harlan_sweete: <a href="https://www.wowhead.com/npc=129440/harlan-sweete" target="blank">Harlan Sweete</a>
+cannon_barrage: <a href="https://www.wowhead.com/spell=257305/cannon-barrage" target="blank">Cannon Barrage</a> # kite away (together?)
+flaming_shrapnel: <a href="https://www.wowhead.com/spell=257308/flaming-shrapnel" target="blank">Flaming Shrapnel</a> # DoT from cannonballs
+fiery_debris: <a href="https://www.wowhead.com/spell=257460/fiery-debris" target="blank">Fiery Debris</a> # pool
+swiftwind_saber: <a href="https://www.wowhead.com/spell=257454/swiftwind-saber" target="blank">Swiftwind Saber</a> # stand back to the wall
+whirling_dagger: <a href="https://www.wowhead.com/ptr/spell=413136/whirling-dagger" target="blank">Whirling Dagger</a> # stand back to the wall
+avast_ye: '<a href="https://www.wowhead.com/spell=257316/avast-ye" target="blank">Avast, Ye!</a>' # Summon grenadier
+irontide_grenadier: <a href="https://www.wowhead.com/npc=129758/irontide-grenadier" target="blank">Irontide Grenadier</a>
+black_powder_bomb: <a href="https://www.wowhead.com/spell=257315/black-powder-bomb" target="blank">Black Powder Bomb</a> # Kamikaze
+loaded_dice_all_hands: '<a href="https://www.wowhead.com/spell=257402/loaded-dice-all-hands" target="blank">Loaded Dice: All Hands</a>' # now targets 3 people
+loaded_dice_man_o_war: '<a href="https://www.wowhead.com/spell=257458/loaded-dice-man-o-war" target="blank">Loaded Dice: Man-O-War</a>' # 100% more dam but 100% as

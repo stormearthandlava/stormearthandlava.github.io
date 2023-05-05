@@ -29,7 +29,6 @@ If you have suggestions to improve the information in this guide please contact 
 # Bosses
 <p style="color:red">Click on a boss banner to expand it.</p>
 
-<hr>
 <div class="dungeon-accordion">
   <div id="accordion">
     <div class="card">

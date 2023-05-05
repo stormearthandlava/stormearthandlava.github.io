@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,7 +12,7 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+cos: <a href="https://www.wowhead.com/zone=8079/court-of-stars" target="blank">Court of Stars</a>
 
 ## Court of Stars
 # Dungeon buffs
@@ -30,7 +30,7 @@ nightshade_refreshments: <a href="https://www.wowhead.com/npc=105249/nightshade-
 umbral_bloom: <a href="https://www.wowhead.com/npc=105340/umbral-bloom" target="blank">Umbral Bloom</a>
 waterlogged_scroll: <a href="https://www.wowhead.com/npc=106110/waterlogged-scroll" target="blank">Waterlogged Scroll</a>
 
-# Patrol Captain Gerdo Trash
+# Patrol Captain Gerdo Notable Trash Mobs
 duskwatch_guard: <a href="https://www.wowhead.com/npc=111563/duskwatch-guard" target="blank">Duskwatch Guard</a>
 quelling_strike: <a href="https://www.wowhead.com/spell=209027/quelling-strike" target="blank">Quelling Strike</a>
 fortification: <a href="https://www.wowhead.com/spell=209033/fortification" target="blank">Fortification</a>
@@ -61,7 +61,7 @@ signal_beacon: <a href="https://www.wowhead.com/spell=207806/signal-beacon" targ
 arcane_lockdown: <a href="https://www.wowhead.com/spell=207278/arcane-lockdown" target="blank">Arcane Lockdown</a>
 resonant_slash: <a href="https://www.wowhead.com/spell=207261/resonant-slash" target="blank">Resonant Slash</a>
 
-# Talixae Flamewreath Trash
+# Talixae Flamewreath Notable Trash Mobs
 watchful_inquisitor: <a href="https://www.wowhead.com/npc=105715/watchful-inquisitor" target="blank">Watchful Inquisitor</a>
 eye_storm: <a href="https://www.wowhead.com/spell=212784/eye-storm" target="blank">Eye Storm</a>
 searing_glare: <a href="https://www.wowhead.com/spell=211299/searing-glare" target="blank">Searing Glare</a>

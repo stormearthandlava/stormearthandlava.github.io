@@ -1,0 +1,141 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a> # Frontal
+
+# Big Rock Notable Trash Mobs
+rockback_gnasher: <a href="https://www.wowhead.com/npc=91006/rockback-gnasher" target="blank">Rockback Gnasher</a>
+stone_gaze: <a href="https://www.wowhead.com/spell=202181/stone-gaze" target="blank">Stone Gaze</a> # kick
+bone_chomp: <a href="https://www.wowhead.com/spell=193639/bone-chomp" target="blank">Bone Chomp</a> # Tank Damage
+
+embershard_scorpion: <a href="https://www.wowhead.com/npc=98406/embershard-scorpion" target="blank">Embershard Scorpion</a>
+impaling_shard: <a href="https://www.wowhead.com/spell=193941/impaling-shard" target="blank">Impaling Shard</a> # Tank Damage
+
+vileshard_crawler: <a href="https://www.wowhead.com/npc=96247/vileshard-crawler" target="blank">Vileshard Crawler</a>
+acid_splatter: <a href="https://www.wowhead.com/spell=183401/acid-splatter" target="blank">Acid Splatter</a> # Pool on death
+
+vileshard_chunk: <a href="https://www.wowhead.com/npc=101438/vileshard-chunk" target="blank">Vileshard Chunk</a>
+crush: <a href="https://www.wowhead.com/spell=226287/crush" target="blank">Crush</a> # 10yds AoE
+
+understone_drudge: <a href="https://www.wowhead.com/npc=92350/understone-drudge" target="blank">Understone Drudge</a> # only melees
+# can be side skipped
+
+tarspitter_lurker: <a href="https://www.wowhead.com/npc=91001/tarspitter-lurker" target="blank">Tarspitter Lurker</a>
+submerge: <a href="https://www.wowhead.com/spell=183433/submerge" target="blank">Submerge</a> # Spawns behind random target
+viscid_bile: <a href="https://www.wowhead.com/spell=183465/viscid-bile" target="blank">Viscid Bile</a> # Frontal from behind
+rancid_ooze: <a href="https://www.wowhead.com/spell=226385/rancid-ooze" target="blank">Rancid Ooze</a> # On death pool
+
+vileshard_hulk: <a href="https://www.wowhead.com/npc=91000/vileshard-hulk" target="blank">Vileshard Hulk</a>
+piercing_shards: <a href="https://www.wowhead.com/spell=226296/piercing-shards" target="blank">Piercing Shards</a> # Frontal, must be skipped
+fracture: <a href="https://www.wowhead.com/spell=193505/fracture" target="blank">Fracture</a> # Tank Damage
+
+# Rokmora
+rokmora: <a href="https://www.wowhead.com/npc=91003/rokmora" target="blank">Rokmora</a>
+brittle: <a href="https://www.wowhead.com/spell=187714/brittle" target="blank">Brittle</a> # hitting the boss spawns adds
+blightshard_skitter: <a href="https://www.wowhead.com/npc=97720/blightshard-skitter" target="blank">Blightshard Skitter</a>
+choking_dust: <a href="https://www.wowhead.com/spell=192799/choking-dust" target="blank">Choking Dust</a> # On death cloud
+shatter: <a href="https://www.wowhead.com/spell=188114/shatter" target="blank">Shatter</a> # Big AoE
+crystalline_ground: <a href="https://www.wowhead.com/spell=198028/crystalline-ground" target="blank">Crystalline Ground</a> # Moving deals damage after Shatter
+rupturing_skitter: <a href="https://www.wowhead.com/spell=215929/rupturing-skitter" target="blank">Rupturing Skitter</a> # living adds explodes
+razor_shards: <a href="https://www.wowhead.com/spell=188169/razor-shards" target="blank">Razor Shards</a> # Frontal
+
+# Drogbar Sorcerer Notable Trash Mobs
+understone_drummer: <a href="https://www.wowhead.com/npc=92351/understone-drummer" target="blank">Understone Drummer</a> # patrol (hex?)
+war_drums: <a href="https://www.wowhead.com/spell=183526/war-drums" target="blank">War Drums</a> # Must CC or kill the drum
+drums_of_war: <a href="https://www.wowhead.com/npc=92387/drums-of-war" target="blank">Drums of War</a> # Drum to kill
+
+mightstone_breaker: <a href="https://www.wowhead.com/npc=92612/mightstone-breaker" target="blank">Mightstone Breaker</a>
+avalanche: <a href="https://www.wowhead.com/spell=183088/avalanche" target="blank">Avalanche</a> # Frontal into swirls and AoE dam
+
+rockbound_pelter: <a href="https://www.wowhead.com/npc=91008/rockbound-pelter" target="blank">Rockbound Pelter</a> # immobile and annoying
+retreat: <a href="https://www.wowhead.com/spell=226361/retreat" target="blank">Retreat</a> # leap away
+jagged_disc: <a href="https://www.wowhead.com/spell=183633/jagged-disc" target="blank">Jagged Disc</a> # Random ST Dam
+
+stoneclaw_hunter : <a href="https://www.wowhead.com/npc=91332/stoneclaw-hunter" target="blank">Stoneclaw Hunter</a>
+stone_shatter: <a href="https://www.wowhead.com/spell=226347/stone-shatter" target="blank">Stone Shatter</a> # 10 yds AoE
+kill_command: <a href="https://www.wowhead.com/spell=202198/kill-command" target="blank">Kill Command</a> # trigger stone gaze
+
+blightshard_shaper: <a href="https://www.wowhead.com/npc=90998/blightshard-shaper" target="blank">Blightshard Shaper</a>
+stone_bolt: <a href="https://www.wowhead.com/spell=186269/stone-bolt" target="blank">Stone Bolt</a> # Kick
+petrifying_totem: <a href="https://www.wowhead.com/npc=94224/petrifying-totem" target="blank">Petrifying Totem</a> # Spawns an add
+petrifying_cloud: <a href="https://www.wowhead.com/spell=186576/petrifying-cloud" target="blank">Petrifying Cloud</a> # debuff when touching the totem, stacks after one application. requires magic dispel
+petrified: <a href="https://www.wowhead.com/spell=186616/petrified" target="blank">Petrified</a> # stuns at 10 totem stacks
+
+burning_geode: <a href="https://www.wowhead.com/npc=101437/burning-geode" target="blank">Burning Geode</a>
+scorch: <a href="https://www.wowhead.com/spell=202089/scorch" target="blank">Scorch</a> # Fire Swirl
+
+# Ularogg Cragshaper
+ularogg_cragshaper: <a href="https://www.wowhead.com/npc=91004/ularogg-cragshaper" target="blank">Ularogg Cragshaper</a>
+bellow_of_the_deeps: <a href="https://www.wowhead.com/spell=193375/bellow-of-the-deeps" target="blank">Bellow of the Deeps</a> # Totem Summon
+bellowing_idol: <a href="https://www.wowhead.com/npc=98081/bellowing-idol" target="blank">Bellowing Idol</a> # Priority Target Switch
+falling_debris: <a href="https://www.wowhead.com/spell=193267/falling-debris" target="blank">Falling Debris</a> # Swirl and AoE Dam
+strike_of_the_mountain: <a href="https://www.wowhead.com/spell=216290/strike-of-the-mountain" target="blank">Strike of the Mountain</a> # Dodge the hands
+# strafe diagonally
+sunder: <a href="https://www.wowhead.com/spell=198496/sunder" target="blank">Sunder</a> # Tank Damage
+stance_of_the_mountain: <a href="https://www.wowhead.com/spell=198510/stance-of-the-mountain" target="blank">Stance of the Mountain</a> # Find the right totem (5)
+
+# Bonemaw 2 Notable Trash Mobs
+stoneclaw_grubmaster: <a href="https://www.wowhead.com/npc=102404/stoneclaw-grubmaster" target="blank">Stoneclaw Grubmaster</a>
+leech: <a href="https://www.wowhead.com/spell=202231/leech" target="blank">Leech</a> # random ST DoT
+stone_shatter: <a href="https://www.wowhead.com/spell=226347/stone-shatter" target="blank">Stone Shatter</a> # 10 Yds AoE
+worm_call: <a href="https://www.wowhead.com/spell=183548/worm-call" target="blank">Worm Call</a> # Summons a grub
+
+tarspitter_grub: <a href="https://www.wowhead.com/npc=94869/tarspitter-grub" target="blank">Tarspitter Grub</a> # => CC
+metamorphosis: <a href="https://www.wowhead.com/spell=193803/metamorphosis" target="blank">Metamorphosis</a> # Must kill before cast is over
+
+rotdrool_grabber: <a href="https://www.wowhead.com/npc=91002/rotdrool-grabber" target="blank">Rotdrool Grabber</a> # Spawned by Metamorphosis
+barbed_tongue: <a href="https://www.wowhead.com/spell=183539/barbed-tongue" target="blank">Barbed Tongue</a> # Random pull toward melee
+rancid_pool: <a href="https://www.wowhead.com/spell=183560/rancid-pool" target="blank">Rancid Pool</a> # pool around worm
+
+# Naraxas
+naraxas: <a href="https://www.wowhead.com/npc=91005/naraxas" target="blank">Naraxas</a>
+
+wormspeaker_devout: <a href="https://www.wowhead.com/npc=101075/wormspeaker-devout" target="blank">Wormspeaker Devout</a> # Switch//Funnel => Consider letting them live when boss is at low health
+fanatics_sacrifice: <a href="https://www.wowhead.com/spell=209902/fanatics-sacrifice" target="blank">Fanatic's Sacrifice</a> # Suicide => CC if needed
+ravenous: <a href="https://www.wowhead.com/spell=199246/ravenous" target="blank">Ravenous</a> # soft enrage
+rancid_maw: <a href="https://www.wowhead.com/spell=205549/rancid-maw" target="blank">Rancid Maw</a> # Slowing Puddle, place them far
+toxic_retch: <a href="https://www.wowhead.com/spell=217851/toxic-retch" target="blank">Toxic Retch</a> # Swirl
+spiked_tongue: <a href="https://www.wowhead.com/spell=199176/spiked-tongue" target="blank">Spiked Tongue</a> # Grab on Tank
+putrid_skies: <a href="https://www.wowhead.com/spell=198963/putrid-skies" target="blank">Putrid Skies</a> # Party damage if tank doesn't come back fast enough
+frenzy: <a href="https://www.wowhead.com/spell=199775/frenzy" target="blank">Frenzy</a> # Enrage at 20%, will cancel spiked Tongue if it's channeled
+angry_crowd: <a href="https://www.wowhead.com/npc=109137/angry-crowd" target="blank">Angry Crowd</a> # Crowd
+hurling_rocks: <a href="https://www.wowhead.com/spell=217011/hurling-rocks" target="blank">Hurling Rocks</a> # Random ST damage
+
+# Big hammer to compensate Notable Trash Mobs
+emberhusk_dominator: <a href="https://www.wowhead.com/npc=102295/emberhusk-dominator" target="blank">Emberhusk Dominator</a>
+crystal_spike: <a href="https://www.wowhead.com/spell=201953/crystal-spike" target="blank">Crystal Spike</a> # Will deal damage to you everytime
+ember_swipe: <a href="https://www.wowhead.com/spell=226406/ember-swipe" target="blank">Ember Swipe</a> # Frontal
+frenzy: <a href="https://www.wowhead.com/spell=201983/frenzy" target="blank">Frenzy</a> # need soothe, missiles will destroy you
+
+understone_demolisher: <a href="https://www.wowhead.com/npc=102253/understone-demolisher" target="blank">Understone Demolisher</a> # just melee except
+charskin: <a href="https://www.wowhead.com/spell=188587/charskin" target="blank">Charskin</a> # Metamorphosis
+
+colossal_charskin: <a href="https://www.wowhead.com/npc=101652/colossal-charskin" target="blank">Colossal Charskin</a> # The new mob
+burning_hatred: <a href="https://www.wowhead.com/spell=200154/burning-hatred" target="blank">Burning Hatred</a> # Fixates, need Kite
+
+rockbound_trapper: <a href="https://www.wowhead.com/npc=102232/rockbound-trapper" target="blank">Rockbound Trapper</a> # immobile
+bound: <a href="https://www.wowhead.com/spell=193585/bound" target="blank">Bound</a>
+#jagged-disc
+
+# Dargrul the Underking
+dargrul: <a href="https://www.wowhead.com/npc=91007/dargrul" target="blank">Dargrul</a>
+molten_crash: <a href="https://www.wowhead.com/spell=200732/molten-crash" target="blank">Molten Crash</a> # Tank Burst
+landslide: <a href="https://www.wowhead.com/spell=200700/landslide" target="blank">Landslide</a> # Frontal / creates swirlies
+crystal_spikes: <a href="https://www.wowhead.com/spell=200551/crystal-spikes" target="blank">Crystal Spikes</a> # Swirl that creates a crystal
+magma_wave: <a href="https://www.wowhead.com/spell=200404/magma-wave" target="blank">Magma Wave</a> # Hide behind Crystal at 100 energy
+magma_sculptor: <a href="https://www.wowhead.com/spell=200637/magma-sculptor" target="blank">Magma Sculptor</a> # Summons add
+molten_charskin: <a href="https://www.wowhead.com/npc=101476/molten-charskin" target="blank">Molten Charskin</a> # Add
+burning_hatred: <a href="https://www.wowhead.com/spell=200154/burning-hatred" target="blank">Burning Hatred</a> # Fixates
+magma_breaker: <a href="https://www.wowhead.com/spell=209920/magma-breaker" target="blank">Magma Breaker</a> # Each step does an AoE
+crystal_cracked: <a href="https://www.wowhead.com/spell=200672/crystal-cracked" target="blank">Crystal Cracked</a> # Kite them through the pillars for stun and Damage amp, switch on it when stunned

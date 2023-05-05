@@ -1,0 +1,179 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Brackenhide Hollow
+# Dungeon Buffs
+decaying_cauldron: <a href="https://www.wowhead.com/npc=194675/decaying-cauldron" target="blank">Decaying Cauldron</a>
+cleansed_rot: <a href="https://www.wowhead.com/spell=374288/cleansed-rot" target="blank">Cleansed Rot</a>
+
+# Tuskarr Rescue Event
+meat_storage: <a href="https://www.wowhead.com/object=376959/meat-storage" target="blank">Meat Storage</a>
+
+# Hackclaw's War-Band Notable Trash Mobs
+claw_fighter: <a href="https://www.wowhead.com/npc=185508/claw-fighter" target="blank">Claw Fighter</a>
+bloody_bite: <a href="https://www.wowhead.com/spell=367481/bloody-bite" target="blank">Bloody Bite</a>
+vicious_clawmangle: <a href="https://www.wowhead.com/spell=367484/vicious-clawmangle" target="blank">Vicious Clawmangle</a>
+
+cruel_bonecrusher: <a href="https://www.wowhead.com/npc=186206/cruel-bonecrusher" target="blank">Cruel Bonecrusher</a>
+crushing_smash: <a href="https://www.wowhead.com/spell=382593/crushing-smash" target="blank">Crushing Smash</a>
+
+vicious_hyena: <a href="https://www.wowhead.com/npc=185691/vicious-hyena" target="blank">Vicious Hyena</a>
+infected_bite: <a href="https://www.wowhead.com/spell=368091/infected-bite" target="blank">Infected Bite</a>
+
+bonebolt_hunter: <a href="https://www.wowhead.com/npc=185534/bonebolt-hunter" target="blank">Bonebolt Hunter</a>
+shoot: <a href="https://www.wowhead.com/spell=382620/shoot" target="blank">Shoot</a>
+bone_bolt: <a href="https://www.wowhead.com/spell=367521/bone-bolt" target="blank">Bone Bolt</a>
+toxic_trap: <a href="https://www.wowhead.com/spell=368287/toxic-trap" target="blank">Toxic Trap</a>
+
+trickclaw_mystic: <a href="https://www.wowhead.com/npc=185528/trickclaw-mystic" target="blank">Trickclaw Mystic</a>
+earth_bolt: <a href="https://www.wowhead.com/spell=382249/earth-bolt" target="blank">Earth Bolt</a>
+focus_earth: <a href="https://www.wowhead.com/spell=376800/focus-earth" target="blank">Focus Earth</a>
+witherbolt: <a href="https://www.wowhead.com/spell=382347/witherbolt" target="blank">Witherbolt</a>
+
+decay_speaker: <a href="https://www.wowhead.com/npc=186191/decay-speaker" target="blank">Decay Speaker</a>
+rotchanting_totem: <a href="https://www.wowhead.com/spell=382435/rotchanting-totem" target="blank">Rotchanting Totem</a>
+decay_surge: <a href="https://www.wowhead.com/spell=382474/decay-surge" target="blank">Decay Surge</a>
+withering_burst: <a href="https://www.wowhead.com/spell=367503/withering-burst" target="blank">Withering Burst</a>
+withering: <a href="https://www.wowhead.com/spell=368081/withering" target="blank">Withering</a>
+
+bracken_warscourge: <a href="https://www.wowhead.com/npc=195135/bracken-warscourge" target="blank">Bracken Warscourge</a>
+pack_tactics: <a href="https://www.wowhead.com/spell=367510/pack-tactics" target="blank">Pack Tactics</a>
+hideous_cackle: <a href="https://www.wowhead.com/spell=367500/hideous-cackle" target="blank">Hideous Cackle</a>
+net: <a href="https://www.wowhead.com/spell=387796/net" target="blank">Net</a>
+ragestorm: <a href="https://www.wowhead.com/spell=382555/ragestorm" target="blank">Ragestorm</a>
+
+# Hackclaw's War-Band
+bloodfrenzy: <a href="https://www.wowhead.com/spell=377965/bloodfrenzy" target="blank">Bloodfrenzy</a>
+prey_on_the_weak: <a href="https://www.wowhead.com/spell=389788/prey-on-the-weak" target="blank">Prey on the Weak</a>
+predatory_instincts: <a href="https://www.wowhead.com/spell=389808/predatory-instincts" target="blank">Predatory Instincts</a>
+
+rira_hackclaw: <a href="https://www.wowhead.com/npc=186122/rira-hackclaw" target="blank">Rira Hackclaw</a>
+bladestorm: <a href="https://www.wowhead.com/spell=381834/bladestorm" target="blank">bladestorm</a>
+cleave: <a href="https://www.wowhead.com/spell=377806/cleave" target="blank">Cleave</a>
+savage_charge: <a href="https://www.wowhead.com/spell=381416/savage-charge" target="blank">Savage Charge</a>
+
+tricktotem: <a href="https://www.wowhead.com/npc=186125/tricktotem" target="blank">Tricktotem</a>
+greater_healing_rapids: <a href="https://www.wowhead.com/spell=377950/greater-healing-rapids" target="blank">Greater Healing Rapids</a>
+earth_bolt_boss: <a href="https://www.wowhead.com/spell=378155/earth-bolt" target="blank">Earth Bolt</a>
+hextrick_totem: <a href="https://www.wowhead.com/spell=381470/hextrick-totem" target="blank">Hextrick Totem</a>
+hextrick: <a href="https://www.wowhead.com/spell=381466/hextrick" target="blank">Hextrick</a>
+
+gashtooth: <a href="https://www.wowhead.com/npc=186124/gashtooth" target="blank">Gashtooth</a>
+marked_for_butchery: <a href="https://www.wowhead.com/spell=378229/marked-for-butchery" target="blank">Marked for Butchery</a>
+decayed_senses: <a href="https://www.wowhead.com/spell=381694/decayed-senses" target="blank">Decayed Senses</a>
+gash_frenzy: <a href="https://www.wowhead.com/spell=378020/gash-frenzy" target="blank">Gash Frenzy</a>
+
+# Gutshot Notable Trash Mobs
+fleshripper_vulture: <a href="https://www.wowhead.com/npc=186246/fleshripper-vulture" target="blank">Fleshripper Vulture</a>
+screech: <a href="https://www.wowhead.com/spell=385029/screech" target="blank">Screech</a>
+
+gutchewer_bear: <a href="https://www.wowhead.com/npc=186284/gutchewer-bear" target="blank">Gutchewer Bear</a>
+maul: <a href="https://www.wowhead.com/spell=372151/maul" target="blank">Maul</a>
+
+rotbow_stalker: <a href="https://www.wowhead.com/npc=186208/rotbow-stalker" target="blank">Rotbow Stalker</a>
+bone_bolt_volley: <a href="https://www.wowhead.com/spell=384899/bone-bolt-volley" target="blank">Bone Bolt Volley</a>
+scented_meat: <a href="https://www.wowhead.com/spell=384970/scented-meat" target="blank">Scented Meat</a>
+
+gutstabber: <a href="https://www.wowhead.com/npc=197857/gutstabber" target="blank">Gutstabber</a>
+withering_poison: <a href="https://www.wowhead.com/spell=385039/withering-poison" target="blank">Withering Poison</a>
+stealth: <a href="https://www.wowhead.com/spell=384930/stealth" target="blank">Stealth</a>
+
+# Gutshot
+gutshot: <a href="https://www.wowhead.com/npc=186116/gutshot" target="blank">Gutshot</a>
+huntleaders_tactics: <a href="https://www.wowhead.com/spell=387890/huntleaders-tactics" target="blank">Huntleader's Tactics</a>
+ensnaring_trap: <a href="https://www.wowhead.com/spell=383979/ensnaring-trap" target="blank">Ensnaring Trap</a>
+call_hyenas: <a href="https://www.wowhead.com/spell=385435/call-hyenas" target="blank">Call Hyenas</a>
+meat_toss: <a href="https://www.wowhead.com/spell=384416/meat-toss" target="blank">Meat Toss</a>
+masters_call: <a href="https://www.wowhead.com/spell=384633/masters-call" target="blank">Master's Call</a>
+gut_shot: <a href="https://www.wowhead.com/spell=384353/gut-shot" target="blank">Gut Shot</a>
+
+rotfang_hyena: <a href="https://www.wowhead.com/npc=194745/rotfang-hyena" target="blank">Rotfang Hyena</a>
+crippling_bite: <a href="https://www.wowhead.com/spell=384575/crippling-bite" target="blank">Crippling Bite</a>
+feeding_frenzy: <a href="https://www.wowhead.com/spell=384764/feeding-frenzy" target="blank">Feeding Frenzy</a>
+bounding_leap: <a href="https://www.wowhead.com/spell=384558/bounding-leap" target="blank">Bounding Leap</a>
+
+# Treemouth Notable Trash Mobs
+stinkbreath: <a href="https://www.wowhead.com/npc=187033/stinkbreath" target="blank">Stinkbreath</a>
+violent_whirlwind: <a href="https://www.wowhead.com/spell=388046/violent-whirlwind" target="blank">Violent Whirlwind</a>
+stink_breath: <a href="https://www.wowhead.com/spell=388060/stink-breath" target="blank">Stink Breath</a>
+disoriented: <a href="https://www.wowhead.com/spell=385185/disoriented" target="blank">Disoriented</a>
+
+decaying_slime: <a href="https://www.wowhead.com/npc=189299/decaying-slime" target="blank">Decaying Slime</a>
+gushing_ooze: <a href="https://www.wowhead.com/spell=381770/gushing-ooze" target="blank">Gushing Ooze</a>
+burst: <a href="https://www.wowhead.com/spell=375614/burst" target="blank">Burst</a>
+
+monstrous_decay: <a href="https://www.wowhead.com/npc=186227/monstrous-decay" target="blank">Monstrous Decay</a>
+burst_monstrous: <a href="https://www.wowhead.com/spell=374569/burst" target="blank">Burst</a>
+
+brackenhide_shaper: <a href="https://www.wowhead.com/npc=186220/brackenhide-shaper" target="blank">Brackenhide Shaper</a>
+infuse_corruption: <a href="https://www.wowhead.com/spell=372711/infuse-corruption" target="blank">Infuse Corruption</a>
+summon_lashers: <a href="https://www.wowhead.com/spell=373024/summon-lashers" target="blank">Summon Lashers</a>
+touch_of_decay: <a href="https://www.wowhead.com/spell=373804/touch-of-decay" target="blank">Touch of Decay</a>
+
+infected_lasher: <a href="https://www.wowhead.com/npc=189363/infected-lasher" target="blank">Infected Lasher</a>
+bleeding: <a href="https://www.wowhead.com/spell=375416/bleeding" target="blank">Bleeding</a>
+
+decayed_elder: <a href="https://www.wowhead.com/npc=189531/decayed-elder" target="blank">Decayed Elder</a>
+decaying_roots: <a href="https://www.wowhead.com/spell=373897/decaying-roots" target="blank">Decaying Roots</a>
+summon_lasher: <a href="https://www.wowhead.com/spell=383062/summon-lashers" target="blank">Summon Lasher</a>
+
+wilted_oak: <a href="https://www.wowhead.com/npc=186229/wilted-oak" target="blank">Wilted Oak</a>
+necrotic_breath: <a href="https://www.wowhead.com/spell=382712/necrotic-breath" target="blank">Necrotic Breath</a>
+essence_of_decay: <a href="https://www.wowhead.com/spell=375259/essence-of-decay" target="blank">Essence of Decay</a>
+stomp: <a href="https://www.wowhead.com/spell=286174/stomp" target="blank">Stomp</a>
+
+# Treemouth
+treemouth: <a href="https://www.wowhead.com/npc=186120/treemouth" target="blank">Treemouth</a>
+consume: <a href="https://www.wowhead.com/spell=377184/consume" target="blank">Consume</a>
+consuming: <a href="https://www.wowhead.com/spell=378022/consuming" target="blank">Consuming</a>
+decay_spray: <a href="https://www.wowhead.com/spell=376231/decay-spray" target="blank">Decay Spray</a>
+grasping_vines: <a href="https://www.wowhead.com/spell=376933/grasping-vines" target="blank">Grasping Vines</a>
+infectious_spit: <a href="https://www.wowhead.com/spell=377859/infectious-spit" target="blank">Infectious Spit</a>
+partially_digested: <a href="https://www.wowhead.com/spell=383875/partially-digested" target="blank">Partially Digested</a>
+starving_frenzy: <a href="https://www.wowhead.com/spell=390968/starving-frenzy" target="blank">Starving Frenzy</a>
+vine_whip: <a href="https://www.wowhead.com/spell=377559/vine-whip" target="blank">Vine Whip</a>
+withering_away: <a href="https://www.wowhead.com/spell=378054/withering-away" target="blank">Withering Away!</a>
+
+# Decatriarch Wratheye Notable Trash Mobs
+filth_caller: <a href="https://www.wowhead.com/npc=185656/filth-caller" target="blank">Filth Caller</a>
+rotting_surge: <a href="https://www.wowhead.com/spell=383385/rotting-surge" target="blank">Rotting Surge</a>
+
+disease_slasher: <a href="https://www.wowhead.com/npc=187315/disease-slasher" target="blank">Disease Slasher</a>
+decay_claws: <a href="https://www.wowhead.com/spell=382787/decay-claws" target="blank">Decay Claws</a>
+
+brackenhide_slasher: <a href="https://www.wowhead.com/npc=194467/brackenhide-slasher" target="blank">Brackenhide Slasher</a>
+
+witherling: <a href="https://www.wowhead.com/npc=187238/witherling" target="blank">Witherling</a>
+
+fetid_rotsinger: <a href="https://www.wowhead.com/npc=186226/fetid-rotsinger" target="blank">Fetid Rotsinger</a>
+burst_of_decay: <a href="https://www.wowhead.com/spell=374544/burst-of-decay" target="blank">Burst of Decay</a>
+summon_totem: <a href="https://www.wowhead.com/spell=375065/summon-totem" target="blank">Summon Totem</a>
+decay_totem: <a href="https://www.wowhead.com/npc=190426/decay-totem" target="blank">Decay Totem</a>
+withering_slow: <a href="https://www.wowhead.com/spell=373753/withering" target="blank">Withering</a>
+
+vile_rothexer: <a href="https://www.wowhead.com/npc=187224/vile-rothexer" target="blank">Vile Rothexer</a>
+withering_contagion: <a href="https://www.wowhead.com/spell=382798/withering-contagion" target="blank">Withering Contagion</a>
+siphon_decay: <a href="https://www.wowhead.com/spell=382883/siphon-decay" target="blank">Siphon Decay</a>
+
+wither_biter: <a href="https://www.wowhead.com/npc=187231/wither-biter" target="blank">Wither Biter</a>
+
+# Decatriarch Wratheye
+decatriarch_wratheye: <a href="https://www.wowhead.com/npc=186121/decatriarch-wratheye" target="blank">Decatriarch Wratheye</a>
+choking_rotcloud: <a href="https://www.wowhead.com/spell=376170/choking-rotcloud" target="blank">Choking Rotcloud</a>
+withering_rot: <a href="https://www.wowhead.com/spell=373896/withering-rot" target="blank">Withering Rot</a>
+rotburst_totem: <a href="https://www.wowhead.com/spell=373942/rotburst-totem" target="blank">Rotburst Totem</a>
+decaying_strength: <a href="https://www.wowhead.com/spell=373960/decaying-strength" target="blank">Decaying Strength</a>
+withered_eruption: <a href="https://www.wowhead.com/spell=387264/withered-eruption" target="blank">Withered Eruption</a>

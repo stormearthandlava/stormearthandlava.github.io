@@ -1,0 +1,164 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Halls of Infusion
+# Dungeon buffs
+limited_immortality_device: <a href="https://www.wowhead.com/npc=197560/limited-immortality-device" target="blank">Limited Immortality Device</a>
+limited_immortality: <a href="https://www.wowhead.com/spell=391241/limited-immortality" target="blank">Limited Immortality</a>
+
+infused_mushroom: <a href="https://www.wowhead.com/npc=197654/infused-mushroom" target="blank">Infused Mushroom</a>
+cleansing_spores: <a href="https://www.wowhead.com/spell=391577/cleansing-spores" target="blank">Cleansing Spores</a>
+
+# Old Keeper Notable Trash Mobs
+primalist_geomancer: <a href="https://www.wowhead.com/npc=190345/primalist-geomancer" target="blank">Primalist Geomancer</a>
+earth_shield: <a href="https://www.wowhead.com/spell=374066/earth-shield" target="blank">Earth Shield</a>
+seismic_slam: <a href="https://www.wowhead.com/spell=374073/seismic-slam" target="blank">Seismic Slam</a>
+
+refti_defender: <a href="https://www.wowhead.com/npc=190340/refti-defender" target="blank">Refti Defender</a>
+gushing_wound: <a href="https://www.wowhead.com/spell=393444/gushing-wound" target="blank">Gushing Wound</a>
+spear_flurry: <a href="https://www.wowhead.com/spell=393432/spear-flurry" target="blank">Spear Flurry</a>
+demoralizing_shout: <a href="https://www.wowhead.com/spell=374339/demoralizing-shout" target="blank">Demoralizing Shout</a>
+
+containment_apparatus: <a href="https://www.wowhead.com/npc=190342/containment-apparatus" target="blank">Containment Apparatus</a>
+containment_beam: <a href="https://www.wowhead.com/spell=374020/containment-beam" target="blank">Containment Beam</a>
+expulse: <a href="https://www.wowhead.com/spell=374045/expulse" target="blank">Expulse</a>
+
+primalist_ravager: <a href="https://www.wowhead.com/npc=190348/primalist-ravager" target="blank">Primalist Ravager</a>
+tailwind: <a href="https://www.wowhead.com/spell=374149/tailwind" target="blank">Tailwind</a>
+blasting_gust: <a href="https://www.wowhead.com/spell=374080/blasting-gust" target="blank">Blasting Gust</a>
+
+# Old Keeper
+# Phase 1
+watcher_irideus: <a href="https://www.wowhead.com/npc=189719/watcher-irideus" target="blank">Watcher Irideus</a>
+spark_volley: <a href="https://www.wowhead.com/spell=383935/spark-volley" target="blank">Spark Volley</a>
+reactive_spark: <a href="https://www.wowhead.com/spell=383952/reactive-spark" target="blank">Reactive Spark</a>
+titanic_fist: <a href="https://www.wowhead.com/spell=384524/titanic-fist" target="blank">Titanic Fist</a>
+static_surge: <a href="https://www.wowhead.com/spell=384014/static-surge" target="blank">Static Surge</a>
+power_overload: <a href="https://www.wowhead.com/spell=389179/power-overload" target="blank">Power Overload</a>
+power_field: <a href="https://www.wowhead.com/spell=389181/power-field" target="blank">Power Field</a>
+# Phase 2
+ablative_barrier: <a href="https://www.wowhead.com/spell=383840/ablative-barrier" target="blank">Ablative Barrier</a>
+siphon_power: <a href="https://www.wowhead.com/spell=389056/siphon-power" target="blank">Siphon Power</a>
+nullification_device: <a href="https://www.wowhead.com/npc=196712/nullification-device" target="blank">Nullification Device</a>
+nullifying_pulse: <a href="https://www.wowhead.com/spell=389446/nullifying-pulse" target="blank">Nullifying Pulse</a>
+purifying_blast: <a href="https://www.wowhead.com/spell=389443/purifying-blast" target="blank">Purifying Blast</a>
+
+# Big Frog Notable Trash Mobs
+primalist_shocktrooper: <a href="https://www.wowhead.com/npc=199037/primalist-shocktrooper" target="blank">Primalist Shocktrooper</a>
+elemental_focus: <a href="https://www.wowhead.com/spell=395694/elemental-focus" target="blank">Elemental Focus</a>
+lightning_blast: <a href="https://www.wowhead.com/spell=395690/lightning-blast" target="blank">Lightning Blast</a>
+infused_lightning: <a href="https://www.wowhead.com/spell=395691/infused-lightning" target="blank">Infused Lightning</a>
+
+skulking_zealot: <a href="https://www.wowhead.com/npc=190359/skulking-zealot" target="blank">Skulking Zealot</a>
+cheap_shot: <a href="https://www.wowhead.com/spell=374615/cheap-shot" target="blank">Cheap Shot</a>
+rising_squall: <a href="https://www.wowhead.com/spell=374617/rising-squall" target="blank">Rising Squall</a>
+stealth: <a href="https://www.wowhead.com/spell=374612/stealth" target="blank">Stealth</a>
+
+dazzling_dragonfly: <a href="https://www.wowhead.com/npc=190362/dazzling-dragonfly" target="blank">Dazzling Dragonfly</a>
+dazzle: <a href="https://www.wowhead.com/spell=374563/dazzle" target="blank">Dazzle</a>
+evasive_flutter: <a href="https://www.wowhead.com/spell=374578/evasive-flutter" target="blank">Evasive Flutter</a>
+
+curious_swoglet: <a href="https://www.wowhead.com/npc=195399/curious-swoglet" target="blank">Curious Swoglet</a>
+gulp_swog_toxin: <a href="https://www.wowhead.com/spell=374389/gulp-swog-toxin" target="blank">Gulp Swog Toxin</a>
+
+flamecaller_aymi: <a href="https://www.wowhead.com/npc=190368/flamecaller-aymi" target="blank">Flamecaller Aymi</a>
+pyretic_burst: <a href="https://www.wowhead.com/spell=374706/pyretic-burst" target="blank">Pyretic Burst</a>
+molten_subduction: <a href="https://www.wowhead.com/spell=374724/molten-subduction" target="blank">Molten Subduction</a>
+cauterize: <a href="https://www.wowhead.com/spell=374699/cauterize" target="blank">Cauterize</a>
+magma_crush: <a href="https://www.wowhead.com/spell=374753/magma-crush" target="blank">Magma Crush</a>
+
+squallbringer_cyraz: <a href="https://www.wowhead.com/npc=190370/squallbringer-cyraz" target="blank">Squallbringer Cyraz</a>
+gale_force_charge: <a href="https://www.wowhead.com/spell=374863/gale-force-charge" target="blank">Gale Force Charge</a>
+whirling_fury: <a href="https://www.wowhead.com/spell=375080/whirling-fury" target="blank">Whirling Fury</a>
+zephyrs_call: <a href="https://www.wowhead.com/spell=374852/zephyrs-call" target="blank">Zephyr's Call</a>
+zephyrling: <a href="https://www.wowhead.com/npc=190923/zephyrling" target="blank">Zephyrling</a>
+
+# Big Frog
+gulping_goliath: <a href="https://www.wowhead.com/npc=189722/gulping-goliath" target="blank">Gulping Goliath</a>
+gulp: <a href="https://www.wowhead.com/spell=385555/gulp" target="blank">Gulp</a>
+overpowering_croak: <a href="https://www.wowhead.com/spell=385187/overpowering-croak" target="blank">Overpowering Croak</a>
+cave_in: <a href="https://www.wowhead.com/spell=375215/cave-in" target="blank">Cave In</a>
+belly_slam: <a href="https://www.wowhead.com/spell=385691/belly-slam" target="blank">Belly Slam</a>
+toxic_effluvia: <a href="https://www.wowhead.com/spell=385451/toxic-effluvia" target="blank">Toxic Effluvia</a>
+hangry: <a href="https://www.wowhead.com/spell=385743/hangry" target="blank">Hangry</a>
+
+# Elementalist Fanatic Notable Trash Mobs
+
+primalist_earthshaker: <a href="https://www.wowhead.com/npc=190371/primalist-earthshaker" target="blank">Primalist Earthshaker</a>
+primal_affinity_earth: <a href="https://www.wowhead.com/spell=376579/primal-affinity" target="blank">Primal Affinity Earth</a>
+rumbling_earth: <a href="https://www.wowhead.com/spell=375384/rumbling-earth" target="blank">Rumbling Earth</a>
+
+primalist_galesinger: <a href="https://www.wowhead.com/npc=190373/primalist-galesinger" target="blank">Primalist Galesinger</a>
+primal_affinity_wind: <a href="https://www.wowhead.com/spell=376577/primal-affinity" target="blank">Primal Affinity Wind</a>
+wind_buffet: <a href="https://www.wowhead.com/spell=385036/wind-buffet" target="blank">Wind Buffet</a>
+thunderstorm: <a href="https://www.wowhead.com/spell=385141/thunderstorm" target="blank">Thunderstorm</a>
+
+primalist_icecaller: <a href="https://www.wowhead.com/npc=190377/primalist-icecaller" target="blank">Primalist Icecaller</a>
+primal_affinity_ice: <a href="https://www.wowhead.com/spell=376578/primal-affinity" target="blank">Primal Affinity Ice</a>
+ice_shards: <a href="https://www.wowhead.com/spell=375950/ice-shards" target="blank">Ice Shards</a>
+refreshing_tides: <a href="https://www.wowhead.com/spell=376171/refreshing-tides" target="blank">Refreshing Tides</a>
+
+gusting_proto_dragon: <a href="https://www.wowhead.com/npc=190401/gusting-proto-dragon" target="blank">Gusting Proto-Dragon</a>
+gusting_breath: <a href="https://www.wowhead.com/spell=375348/gusting-breath" target="blank">Gusting Breath</a>
+binding_winds: <a href="https://www.wowhead.com/spell=391610/binding-winds" target="blank">Binding Winds</a>
+
+glacial_proto_dragon: <a href="https://www.wowhead.com/npc=190403/glacial-proto-dragon" target="blank">Glacial Proto-Dragon</a>
+oceanic_breath: <a href="https://www.wowhead.com/spell=375351/oceanic-breath" target="blank">Oceanic Breath</a>
+deep_chill: <a href="https://www.wowhead.com/spell=391634/deep-chill" target="blank">Deep Chill</a>
+
+subterranean_proto_dragon: <a href="https://www.wowhead.com/npc=190404/subterranean-proto-dragon" target="blank">Subterranean Proto-Dragon</a>
+tectonic_breath: <a href="https://www.wowhead.com/spell=375327/tectonic-breath" target="blank">Tectonic Breath</a>
+creeping_mold: <a href="https://www.wowhead.com/spell=391613/creeping-mold" target="blank">Creeping Mold</a>
+
+# Elementalist girl
+khajin_the_unyielding: <a href="https://www.wowhead.com/npc=189727/khajin-the-unyielding" target="blank">Khajin the Unyielding</a>
+hailstorm: <a href="https://www.wowhead.com/spell=386757/hailstorm" target="blank">Hailstorm</a>
+glacial_surge: <a href="https://www.wowhead.com/spell=386562/glacial-surge" target="blank">Glacial Surge</a>
+ice_boulder: <a href="https://www.wowhead.com/spell=386222/ice-boulder" target="blank">Ice Boulder</a>
+avalanche: <a href="https://www.wowhead.com/spell=386295/avalanche" target="blank">Avalanche</a>
+polar_winds: <a href="https://www.wowhead.com/spell=386743/polar-winds" target="blank">Polar Winds</a>
+frost_shock: <a href="https://www.wowhead.com/spell=385963/frost-shock" target="blank">Frost Shock</a>
+frost_cyclone: <a href="https://www.wowhead.com/spell=390006/frost-cyclone" target="blank">Frost Cyclone</a>
+
+# Big Elemental Dude Notable Trash Mobs
+aqua_rager: <a href="https://www.wowhead.com/npc=190407/aqua-rager" target="blank">Aqua Rager</a>
+boiling_rage: <a href="https://www.wowhead.com/spell=377384/boiling-rage" target="blank">Boiling Rage</a>
+tidal_divergence: <a href="https://www.wowhead.com/spell=377348/tidal-divergence" target="blank">Tidal Divergence</a>
+
+aqualing: <a href="https://www.wowhead.com/npc=190406/aqualing" target="blank">Aqualing</a>
+water_bolt: <a href="https://www.wowhead.com/spell=377338/water-bolt" target="blank">Water Bolt</a>
+
+infuser_sariya: <a href="https://www.wowhead.com/npc=190405/infuser-sariya" target="blank">Infuser Sariya</a>
+inundate: <a href="https://www.wowhead.com/spell=388882/inundate" target="blank">Inundate</a>
+aqueous_barrier: <a href="https://www.wowhead.com/spell=377402/aqueous-barrier" target="blank">Aqueous Barrier</a>
+flash_flood: <a href="https://www.wowhead.com/spell=390290/flash-flood" target="blank">Flash Flood</a>
+
+# Big Elemental Dude
+primal_tsunami: <a href="https://www.wowhead.com/npc=189729/primal-tsunami" target="blank">Primal Tsunami</a>
+#P1
+infused_globules: <a href="https://www.wowhead.com/spell=387559/infused-globules" target="blank">Infused Globules</a>
+waterlogged: <a href="https://www.wowhead.com/spell=387359/waterlogged" target="blank">Waterlogged</a>
+tempests_fury: <a href="https://www.wowhead.com/spell=388424/tempests-fury" target="blank">Tempest's Fury</a>
+squall_buffet: <a href="https://www.wowhead.com/spell=387504/squall-buffet" target="blank">Squall Buffet</a>
+focused_deluge: <a href="https://www.wowhead.com/spell=387571/focused-deluge" target="blank">Focused Deluge</a>
+undertow: <a href="https://www.wowhead.com/spell=389872/undertow" target="blank">Undertow</a>
+rogue_waves: <a href="https://www.wowhead.com/spell=388760/rogue-waves" target="blank">Rogue Waves</a>
+
+#P2
+cast_away: <a href="https://www.wowhead.com/spell=388420/cast-away" target="blank">Cast Away</a>
+crashing_tsunami: <a href="https://www.wowhead.com/spell=383204/crashing-tsunami" target="blank">Crashing Tsunami</a>
+primalist_infuser: <a href="https://www.wowhead.com/npc=196043/primalist-infuser" target="blank">Primalist Infuser</a>
+infuse: <a href="https://www.wowhead.com/spell=387618/infuse" target="blank">Infuse</a>

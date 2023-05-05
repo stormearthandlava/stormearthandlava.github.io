@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,7 +12,7 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
 ## Halls of Valor
 # Dungeon Buffs
@@ -20,7 +20,7 @@ odyns_favor: <a href="https://www.wowhead.com/spell=396909/odyns-favor" target="
 odyns_blessing: <a href="https://www.wowhead.com/spell=202160/odyns-blessing" target="blank">Odyn's Blessing</a>
 mug_of_mead: <a href="https://www.wowhead.com/spell=202298/mug-of-mead" target="blank">Mug of Mead</a>
 
-# Hymdall Trash
+# Hymdall Notable Trash Mobs
 valarjar_champion: <a href="https://www.wowhead.com/npc=97087/valarjar-champion" target="blank">Valarjar Champion</a>
 power_attack: <a href="https://www.wowhead.com/spell=199772/power-attack" target="blank">Power Attack</a>
 enraged_regeneration: <a href="https://www.wowhead.com/spell=397410/enraged-regeneration" target="blank">Enraged Regeneration</a>
@@ -39,7 +39,7 @@ static_field: <a href="https://www.wowhead.com/spell=193260/static-field" target
 ball_lightning: <a href="https://www.wowhead.com/spell=188395/ball-lightning" target="blank">Ball Lightning</a>
 bloodletting_sweep: <a href="https://www.wowhead.com/spell=193092/bloodletting-sweep" target="blank">Bloodletting Sweep</a>
 
-# Hyrja Trash
+# Hyrja Notable Trash Mobs
 valarjar_runecarver: <a href="https://www.wowhead.com/npc=96664/valarjar-runecarver" target="blank">Valarjar Runecarver</a>
 etch: <a href="https://www.wowhead.com/spell=198959/etch" target="blank">Etch</a>
 shattered_rune: <a href="https://www.wowhead.com/spell=198962/shattered-rune" target="blank">Shattered Rune</a>
@@ -74,7 +74,7 @@ mystic_empowerment_thunder: <a href="https://www.wowhead.com/spell=192132/mystic
 sanctify: <a href="https://www.wowhead.com/spell=192307/sanctify" target="blank">Sanctify</a>
 shield_of_light: <a href="https://www.wowhead.com/spell=192018/shield-of-light" target="blank">Shield of Light</a>
 
-# Fenryr Trash
+# Fenryr Notable Trash Mobs
 angerhoof_bull: <a href="https://www.wowhead.com/npc=96611/angerhoof-bull" target="blank">Angerhoof Bull</a>
 rumbling_stomp: <a href="https://www.wowhead.com/spell=199090/rumbling-stomp" target="blank">Rumbling Stomp</a>
 enrage_hov: <a href="https://www.wowhead.com/spell=190225/enrage" target="blank">Enrage</a>
@@ -92,7 +92,7 @@ unnerving_howl: <a href="https://www.wowhead.com/spell=196543/unnerving-howl" ta
 scent_of_blood: <a href="https://www.wowhead.com/spell=196838/scent-of-blood" target="blank">Scent of Blood</a>
 ravenous_leap: <a href="https://www.wowhead.com/spell=197556/ravenous-leap" target="blank">Ravenous Leap</a>
 
-# God-King Skovald Trash
+# God-King Skovald Notable Trash Mobs
 king_ranulf: <a href="https://www.wowhead.com/npc=97083/king-ranulf" target="blank">King Ranulf</a>
 unruly_yell: <a href="https://www.wowhead.com/spell=199726/unruly-yell" target="blank">Unruly Yell</a>
 king_haldor: <a href="https://www.wowhead.com/npc=95843/king-haldor" target="blank">King Haldor</a>

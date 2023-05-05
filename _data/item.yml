@@ -14,14 +14,21 @@
 
 example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
-#Evoker Utilities
-time_spiral: <a href="https://www.wowhead.com/spell=374968/time-spiral" target="blank">Time Spiral</a>
-
-# Warlock Utilities
-healthstone: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healthstone</a>
-hs: <a href="https://www.wowhead.com/item=5512/healthstone" target="blank">Healthstone</a>
-demonic_gateway: <a href="https://www.wowhead.com/spell=111771/demonic-gateway" target="blank">Demonic Gateway</a>
-gateway_control_shard: <a href="https://www.wowhead.com/item=188152/gateway-control-shard" target="blank">Gateway Control Shard</a>
+# Professions
+alchemy: <a href="https://www.wowhead.com/skill=171/alchemy" target="blank">Alchemy</a>
+blacksmithing: <a href="https://www.wowhead.com/skill=164/blacksmithing" target="blank">Blacksmithing</a>
+enchanting: <a href="https://www.wowhead.com/skill=333/enchanting" target="blank">Enchanting</a>
+engineering: <a href="https://www.wowhead.com/skill=202/engineering" target="blank">Engineering</a>
+herbalism: <a href="https://www.wowhead.com/skill=182/herbalism" target="blank">Herbalism</a>
+inscription: <a href="https://www.wowhead.com/skill=773/inscription" target="blank">Inscription</a>
+jewelcrafting: <a href="https://www.wowhead.com/skill=755/jewelcrafting" target="blank">Jewelcrafting</a>
+leatherworking: <a href="https://www.wowhead.com/skill=165/leatherworking" target="blank">Leatherworking</a>
+mining: <a href="https://www.wowhead.com/skill=186/mining" target="blank">Mining</a>
+skinning: <a href="https://www.wowhead.com/skill=393/skinning" target="blank">Skinning</a>
+tailoring: <a href="https://www.wowhead.com/skill=197/tailoring" target="blank">Tailoring</a>
+archaeology: <a href="https://www.wowhead.com/skill=794/archaeology" target="blank">Archaeology</a>
+cooking: <a href="https://www.wowhead.com/skill=185/cooking" target="blank">Cooking</a>
+fishing: <a href="https://www.wowhead.com/skill=356/fishing" target="blank">Fishing</a>
 
 # DF Phials
 phial_eits: <a href="https://www.wowhead.com/item=191320/phial-of-the-eye-in-the-storm" target="blank">Phial of the Eye in the Storm</a>
@@ -54,6 +61,7 @@ potion_sd: <a href="https://www.wowhead.com/item=191401/potion-of-shocking-discl
 # DF Food
 food_int: <a href="https://www.wowhead.com/item=197792/fated-fortune-cookie" target="blank">Fated Fortune Cookie</a>
 food_ffc: <a href="https://www.wowhead.com/item=197792/fated-fortune-cookie" target="blank">Fated Fortune Cookie</a>
+food_dde: <a href="https://www.wowhead.com/item=204072/deviously_deviled_eggs" target="blank">Deviously Deviled Eggs</a>
 
 food_int_stam_high: <a href="https://www.wowhead.com/item=197790/roast-duck-delight" target="blank">Roast Duck Delight</a>
 food_rdd: <a href="https://www.wowhead.com/item=197790/roast-duck-delight" target="blank">Roast Duck Delight</a>
@@ -171,18 +179,6 @@ rune_crit: <a href="https://www.wowhead.com/item=194823/buzzing-rune" target="bl
 rune_haste: <a href="https://www.wowhead.com/item=194820/howling-rune" target="blank">Howling Rune</a>
 spellthread: <a href="https://www.wowhead.com/item=194013/frozen-spellthread" target="blank">Frozen Spellthread</a>
 spellthread_lower: <a href="https://www.wowhead.com/item=194009/vibrant-spellthread" target="blank">Vibrant Spellthread</a>
-
-# DF Trinkets
-chillglobe: <a href="https://www.wowhead.com/item=194300/conjured-chillglobe?bonus=7935" target="blank">Conjured Chillglobe</a>
-wii: <a href="https://www.wowhead.com/item=194301/whispering-incarnate-icon?bonus=7935" target="blank">Whispering Incarnate Icon</a>
-hov: <a href="https://www.wowhead.com/item=133642/horn-of-valor?bonus=8810" target="blank">Horn of Valor</a>
-ragefeather: <a href="https://www.wowhead.com/item=193677/furious-ragefeather?bonus=7974" target="blank">Furious Ragefeather</a>
-writ: <a href="https://www.wowhead.com/item=137485/infernal-writ?bonus=8810" target="blank">Infernal Writ</a>
-shadowgem: <a href="https://www.wowhead.com/item=110007/voidmenders-shadowgem?bonus=8810" target="blank">Voidmender's Shadowgem</a>
-fragment: <a href="https://www.wowhead.com/item=193743/irideus-fragment?bonus=7974" target="blank">Irideus Fragment</a>
-spoils: <a href="https://www.wowhead.com/item=193773/spoils-of-neltharus?bonus=7974" target="blank">Spoils of Neltharus</a>
-talon: <a href="https://www.wowhead.com/item=193791/time-breaching-talon?bonus=7974" target="blank">Time-Breaching Talon</a>
-eye: <a href="https://www.wowhead.com/item=133641/eye-of-skovald?bonus=8810" target="blank">Eye of Skovald</a>
 
 # SL Potions
 potion_of_concealment: <a href="https://shadowlands.wowhead.com/item=152503" target="blank">Potion of Concealment</a>

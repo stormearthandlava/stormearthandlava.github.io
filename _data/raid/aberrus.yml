@@ -1,0 +1,82 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Kazzara
+dread_rift: <a href="https://www.wowhead.com/ptr/spell=406526/dread-rift" target="blank">Dread Rift</a>
+hellbeam: <a href="https://www.wowhead.com/ptr/spell=400430/hellbeam" target="blank">Hellbeam</a>
+infernal_fusion: <a href="https://www.wowhead.com/ptr/spell=408147/infernal-fusion" target="blank">Infernal Fusion</a>
+infernal_heart: <a href="https://www.wowhead.com/ptr/spell=408367/infernal-heart" target="blank">Infernal Heart</a>
+rays_of_anguish: <a href="https://www.wowhead.com/ptr/spell=407069/rays-of-anguish" target="blank">Rays of Anguish</a>
+
+# The Amalgamation Chamber
+blazing_heat: <a href="https://www.wowhead.com/ptr/spell=402617/blazing-heat" target="blank">Blazing Heat</a>
+blistering_twilight: <a href="https://www.wowhead.com/ptr/spell=405643/blistering_twilight" target="blank">Blistering Twilight</a>
+coalescing_void: <a href="https://www.wowhead.com/ptr/spell=403559/coalescing-void" target="blank">Coalescing Void</a>
+corrupting_shadow: <a href="https://www.wowhead.com/ptr/spell=401809/corrupting-shadow" target="blank">Corrupting Shadow</a>
+essence_of_shadow: <a href="https://www.wowhead.com/ptr/npc=201774/essence-of-shadow" target="blank">Essence of Shadow</a>
+eternal_blaze: <a href="https://www.wowhead.com/ptr/npc=201773/eternal-blaze" target="blank">Eternal Blaze</a>
+lingering_flames: <a href="https://www.wowhead.com/ptr/spell=409320/lingering-flames" target="blank">Lingering Flames</a>
+lingering_shadows: <a href="https://www.wowhead.com/ptr/spell=409299/lingering-shadows" target="blank">Lingering Shadows</a>
+shadowflame_contamination: <a href="https://www.wowhead.com/ptr/spell=405394/shadowflame-contamination" target="blank">Shadowflame Contamination</a>
+umbral_detonation: <a href="https://www.wowhead.com/ptr/spell=405082/umbral-detonation" target="blank">Umbral Detonation</a>
+
+# The Forgotten Experiments
+deep_breath: <a href="https://www.wowhead.com/ptr/spell=406227/deep-breath" target="blank">Deep Breath</a>
+erratic_remnant: <a href="https://www.wowhead.com/ptr/npc=202824/erratic-remnant" target="blank">Erratic Remnants</a>
+erratic_burst: <a href="https://www.wowhead.com/ptr/spell=408476/erratic-burst" target="blank">Erratic Burst</a>
+massive_slam: <a href="https://www.wowhead.com/ptr/spell=407733/massive-slam" target="blank">Massive Slam</a>
+rending_charge: <a href="https://www.wowhead.com/ptr/spell=406358/rending-charge" target="blank">Rending Charge</a>
+unstable_essence: <a href="https://www.wowhead.com/ptr/spell=407327/unstable-essence" target="blank">Unstable Essence</a>
+
+# Assault of the Zaqali
+cave_rubble: <a href="https://www.wowhead.com/ptr/spell=400450/cave-rubble" target="blank">Cave Rubble</a>
+flaming_cudgel: <a href="https://www.wowhead.com/ptr/spell=410369/flaming-cudgel" target="blank">Flaming Cudgel</a>
+magma_mystic: <a href="https://www.wowhead.com/ptr/npc=199703/magma-mystic" target="blank">Magma Mystics</a>
+molten_barrier: <a href="https://www.wowhead.com/ptr/spell=409242/molten-barrier" target="blank">Molten Barrier</a>
+renewed_hatchling: <a href="https://www.wowhead.com/ptr/npc=201738/renewed-hatchling" target="blank">Renewed Hatchlings</a>
+vigorous_gale: <a href="https://www.wowhead.com/ptr/spell=407017/vigorous-gale" target="blank">Vigorous Gale</a>
+zaqali_wallclimber: <a href="https://www.wowhead.com/ptr/npc=205617/zaqali-wallclimber" target="blank">Zaqali Wallclimbers</a>
+
+# Rashok
+charged_smash: <a href="https://www.wowhead.com/ptr/spell=405825/charged-smash" target="blank">Charged Smash</a>
+conduit_flare: <a href="https://www.wowhead.com/ptr/spell=405828/conduit-flare" target="blank">Conduit Flare</a>
+doom_flames: <a href="https://www.wowhead.com/ptr/spell=406851/doom-flames" target="blank">Doom Flames</a>
+overcharged: <a href="https://www.wowhead.com/ptr/spell=405827/overcharged" target="blank">Overcharged</a>
+scorching_heatwave: <a href="https://www.wowhead.com/ptr/spell=404448/scorching-heatwave" target="blank">Scorching Heatwave</a>
+searing_slam: <a href="https://www.wowhead.com/ptr/spell=405819/searing-slam" target="blank">Searing Slam</a>
+
+#zskarn
+blast_wave: <a href="https://www.wowhead.com/ptr/spell=403978/blast-wave" target="blank">Blast Wave</a>
+dragonfire_golem: <a href="https://www.wowhead.com/ptr/npc=203230/dragonfire-golem" target="blank">Dragonfire Golems</a>
+elimination_protocol: <a href="https://www.wowhead.com/ptr/spell=409942/elimination-protocol" target="blank">Elimination Protocol</a>
+tactical_destruction: <a href="https://www.wowhead.com/ptr/spell=406207/tactical-destruction" target="blank">Tactical Destruction</a>
+unstable_embers: <a href="https://www.wowhead.com/ptr/spell=404404/unstable-embers" target="blank">Unstable Embers</a>
+
+# Magmorax
+blazing_breath: <a href="https://www.wowhead.com/ptr/spell=409093/blazing-breath" target="blank">Blazing Breath</a>
+igniting_roar: <a href="https://www.wowhead.com/ptr/spell=403747/igniting-roar" target="blank">Igniting Roar</a>
+molten_spittle: <a href="https://www.wowhead.com/ptr/spell=402989/molten-spittle" target="blank">Molten Spittle</a>
+overpowering_stomp: <a href="https://www.wowhead.com/ptr/spell=403671/overpowering-stomp" target="blank">Overpowering Stomp</a>
+searing_heat: <a href="https://www.wowhead.com/ptr/spell=408839/searing-heat" target="blank">Searing Heat</a>
+
+# Echo of Neltharion
+rushing_darkness: <a href="https://www.wowhead.com/ptr/spell=407220/rushing-darkness" target="blank">Rushing Darkness</a>
+surrender_to_corruption: <a href="https://www.wowhead.com/ptr/spell=407048/surrender-to-corruption" target="blank">Surrender to Corruption</a>
+twisted_aberration: <a href="https://www.wowhead.com/ptr/npc=202814/twisted-aberration" target="blank">Twisted Aberrations</a>
+umbral_annihilation: <a href="https://www.wowhead.com/ptr/spell=405434/umbral-annihilation" target="blank">Umbral Annihilation</a>
+voice_from_beyond: <a href="https://www.wowhead.com/ptr/npc=203812/voice-from-beyond" target="blank">Voices From Beyond</a>
+volcanic_heart: <a href="https://www.wowhead.com/ptr/spell=410953/volcanic-heart" target="blank">Volcanic Heart</a>
+
+# Sarkareth
+SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>

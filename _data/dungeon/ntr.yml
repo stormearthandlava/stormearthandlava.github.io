@@ -1,0 +1,161 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+
+## Environnement
+
+## Magma Squid Mammoth Notable Trash Mobs
+qalashi_warden: <a href="https://www.wowhead.com/npc=193293/qalashi-warden" target="blank">Qalashi Warden</a>
+volcanic_guard: <a href="https://www.wowhead.com/spell=397010/volcanic-guard" target="blank">Volcanic Guard</a> # frontal
+blazing_slash: <a href="https://www.wowhead.com/spell=397011/blazing-slash" target="blank">Blazing Slash</a> # tank damage
+
+qalashi_spinecrusher: <a href="https://www.wowhead.com/npc=192787/qalashi-spinecrusher" target="blank">Qalashi Spinecrusher</a>
+brutal_strike: <a href="https://www.wowhead.com/spell=378847/brutal-strike" target="blank">Brutal Strike</a> # tank damage
+
+qalashi_thaumaturge: <a href="https://www.wowhead.com/npc=192788/qalashi-thaumaturge" target="blank">Qalashi Thaumaturge</a>
+magma_conflagration: <a href="https://www.wowhead.com/spell=378818/magma-conflagration" target="blank">Magma Conflagration</a> # Party damage, Hard CC interrupt
+molten_core: <a href="https://www.wowhead.com/spell=378282/molten-core" target="blank">Molten Core</a> # Interrupt, transforms nearby Ore elemental to Molten Elemental
+
+ore_elemental: <a href="https://www.wowhead.com/npc=192781/ore-elemental" target="blank">Ore Elemental</a>
+granite_shell: <a href="https://www.wowhead.com/spell=378149/granite-shell" target="blank">Granite Shell</a> # Purge
+
+molten_elemental: <a href="https://www.wowhead.com/npc=192782/molten-elemental" target="blank">Molten Elemental</a>
+molten_core_buff: <a href="https://www.wowhead.com/spell=378172/molten-core" target="blank">Molten Core</a> # triggers Molten explosion every 3s
+molten_explosion: <a href="https://www.wowhead.com/spell=378202/molten-explosion" target="blank">Molten Explosion</a> # AoE damage, applies Molten vulnerability
+molten_vulnerability: <a href="https://www.wowhead.com/spell=378221/molten-vulnerability" target="blank">Molten Vulnerability</a> # Molten explosion does more damage, stacking debuff
+
+qalashi_plunderer: <a href="https://www.wowhead.com/npc=192786/qalashi-plunderer" target="blank">Qalashi Plunderer</a>
+explosive_concoction: <a href="https://www.wowhead.com/spell=378827/explosive-concoction" target="blank">Explosive Concoction</a> # orange swirl
+
+## Magmatusk
+magmatusk: <a href="https://www.wowhead.com/npc=181861/magmatusk" target="blank">Magmatusk</a>
+magma_tentacle: <a href="https://www.wowhead.com/spell=374410/magma-tentacle" target="blank">Magma Tentacle</a> # Soft enrage: Longer fight => More mechanics
+magma_lob: <a href="https://www.wowhead.com/spell=375068/magma-lob" target="blank">Magma Lob</a> # 4y red swirls, spawn magma pools
+liquid_hot_magma: <a href="https://www.wowhead.com/spell=375204/liquid-hot-magma" target="blank">Liquid Hot Magma</a> # magma pool
+lava_empowerment: <a href="https://www.wowhead.com/spell=391457/lava-empowerment" target="blank">Lava Empowerment</a> # Boss buffed in magma pools
+lava_spray: <a href="https://www.wowhead.com/spell=375251/lava-spray" target="blank">Lava Spray</a> # Frontal
+blazing_charge: <a href="https://www.wowhead.com/spell=375439/blazing-charge" target="blank">Blazing Charge</a> # Charge a player, spawning magma pools on the way & Lava wave in the end. Do not bait in the wall
+lava_wave: <a href="https://www.wowhead.com/spell=375535/lava-wave" target="blank">Lave Wave</a> # Dodge
+magma_eruption: <a href="https://www.wowhead.com/spell=375890/magma-eruption" target="blank">Magma Eruption</a> # group wide damage
+
+## Drake Hunter Notable Trash Mobs
+tamed_phoenix: <a href="https://www.wowhead.com/npc=189247/tamed-phoenix" target="blank">Tamed Phoenix</a> # imps in CoS
+ember_reach: <a href="https://www.wowhead.com/spell=372615/ember-reach" target="blank">Ember Reach</a> # interrupt
+
+qalashi_hunter: <a href="https://www.wowhead.com/npc=189227/qalashi-hunter" target="blank">Qalashi Hunter</a>
+bold_ambush: <a href="https://www.wowhead.com/spell=372566/bold-ambush" target="blank">Bold Ambush</a> # bleed
+binding_spear: <a href="https://www.wowhead.com/spell=372561/binding-spear" target="blank">Binding Spear</a> # Swirl to dodge, stunned if hit
+binding_spear_npc: <a href="https://www.wowhead.com/npc=189669/binding-spear" target="blank">Binding Spear</a> # kill to free ally
+burning_chain: <a href="https://www.wowhead.com/spell=372824/burning-chain" target="blank">Burning Chain</a> # ground trap
+
+qalashi_trainee: <a href="https://www.wowhead.com/npc=189266/qalashi-trainee" target="blank">Qalashi Trainee</a>
+magma_fist: <a href="https://www.wowhead.com/spell=372311/magma-fist" target="blank">Magma Fist</a> # 10yd frontal
+fired_up: <a href="https://www.wowhead.com/spell=371875/fired-up" target="blank">Fired Up</a> # enrage
+
+qalashi_bonetender: <a href="https://www.wowhead.com/npc=189265/qalashi-bonetender" target="blank">Qalashi Bonetender</a> # immobile
+mending_clay: <a href="https://www.wowhead.com/spell=372223/mending-clay" target="blank">Mending Clay</a> # heal channel, interrupt
+bone_toss: <a href="https://www.wowhead.com/spell=372226/bone-toss" target="blank">Bone Toss</a> # random target damage
+# also burning chain
+
+overseer_lahar: <a href="https://www.wowhead.com/npc=189235/overseer-lahar" target="blank">Overseer Lahar</a> # miniboss
+burning_roar: <a href="https://www.wowhead.com/spell=395427/burning-roar" target="blank">Burning Roar</a> # interrupt, 13yds AoE
+imbued_magma: <a href="https://www.wowhead.com/spell=372461/imbued-magma" target="blank">Imbued Magma</a> # tank damage, heal dispel
+eruptive_crash: <a href="https://www.wowhead.com/spell=376186/eruptive-crush" target="blank">Eruptive Crush</a> # swirl then magma waves to dodge
+
+## Chargath, Bane of Scales
+chargath: <a href="https://www.wowhead.com/npc=189340/chargath-bane-of-scales" target="blank">Chargath, Bane of Scales</a>
+grounding_spear: <a href="https://www.wowhead.com/spell=373424/grounding-spear" target="blank">Grounding Spear</a> # slow on 3 targets, kite to make a big chain
+erupted_ground: <a href="https://www.wowhead.com/spell=374471/erupted-ground" target="blank">Erupted Ground</a> # damage around the spear
+grounding_chain: <a href="https://www.wowhead.com/spell=374482/grounding-chain" target="blank">Grounding Chain</a> # slow applied by chain
+fetter: <a href="https://www.wowhead.com/spell=389080/fetter" target="blank">Fetter</a> # kiting boss into chain destroys it & apply this. 3 stacks => 50% damage for 12s
+slag_eruption: <a href="https://www.wowhead.com/spell=395656/slag-eruption" target="blank">Slag Eruption</a> # Party damage triggered when breaking chain
+fiery_focus: <a href="https://www.wowhead.com/spell=375056/fiery-focus" target="blank">Fiery Focus</a> # Tank fixate, stay farther than 6 yards away
+lava_splash: <a href="https://www.wowhead.com/spell=375397/lava-splash" target="blank">Lava Splash</a> # dodge swirl
+magma_wave: <a href="https://www.wowhead.com/spell=373767/magma-wave" target="blank">Magma Wave</a> # dodge
+dragon_strike: <a href="https://www.wowhead.com/spell=373733/dragon-strike" target="blank">Dragon Strike</a> # random bleed
+
+## Wannabee Paladin Notable Trash Mobs
+qalashi_lavabearer: <a href="https://www.wowhead.com/npc=189472/qalashi-lavabearer" target="blank">Qalashi Lavabearer</a>
+lava_drip: <a href="https://www.wowhead.com/spell=372211/lava-drip" target="blank">Lava Drip</a> # many pools, kited, great EQ
+throw_lava: <a href="https://www.wowhead.com/spell=394972/throw-lava" target="blank">Throw Lava</a> # swirl & pools
+lava_spill: <a href="https://www.wowhead.com/spell=372213/lava-spill" target="blank">Lava Spill</a> # pool on death
+
+lava_flare: <a href="https://www.wowhead.com/npc=189470/lava-flare" target="blank">Lava Flare</a>
+melt: <a href="https://www.wowhead.com/spell=372538/melt" target="blank">Melt</a> # interrupt
+
+qalashi_irontorch: <a href="hthttps://www.wowhead.com/npc=189464/qalashi-irontorch" target="blank">Qalashi Irontorch</a>
+mote_of_combustion: <a href="https://www.wowhead.com/spell=384161/mote-of-combustion" target="blank">Mote of Combustion</a> # Prio Interrupt, dispel if not
+scorching_breath: <a href="https://www.wowhead.com/spell=372201/scorching-breath" target="blank">Scorching Breath</a> # frontal
+
+qalashi_bonesplitter: <a href="https://www.wowhead.com/npc=189467/qalashi-bonesplitter" target="blank">Qalashi Bonesplitter</a> #prio target if possible, lot of random damage
+pierce_marrow: <a href="https://www.wowhead.com/spell=372262/pierce-marrow" target="blank">Pierce Marrow</a> # Random charge & damage
+dragonbone_axe: <a href="https://www.wowhead.com/spell=372225/dragonbone-axe" target="blank">Dragonbone Axe</a> # random damage & bleed
+
+irontorch_commander: <a href="https://www.wowhead.com/npc=189466/irontorch-commander" target="blank">Irontorch Commander</a>
+scorching_fusillade: <a href="https://www.wowhead.com/spell=373084/scorching-fusillade" target="blank">Scorching Fusillade</a> # bombs spread 6yds
+conflagrant_battery: <a href="https://www.wowhead.com/spell=372296/conflagrant-battery" target="blank">Conflagrant Battery</a> # lot of swirls, 3yds
+
+qalashi_blacksmith: <a href="https://www.wowhead.com/npc=189471/qalashi-blacksmith" target="blank">Qalashi Blacksmith</a>
+forgestomp: <a href="https://www.wowhead.com/spell=384623/forgestomp" target="blank">forgestomp</a> # Will spelllock, Stop cast
+reverberating_slam: <a href="https://www.wowhead.com/spell=372971/reverberating-slam" target="blank">Reverberating Slam</a> # Tank damage
+
+forgewrought_monstrosity: <a href="https://www.wowhead.com/npc=194816/forgewrought-monstrosity" target="blank">Forgewrought Monstrosity</a>
+forgewrought_fury: <a href="https://www.wowhead.com/spell=384662/forgewrought-fury" target="blank">Forgewrought Fury</a> # Party damage
+blazing_detonation: <a href="https://www.wowhead.com/spell=376200/blazing-detonation" target="blank">Blazing Detonation</a> # On death damage?
+
+#Dungeon buffs
+qalashi_goulash: <a href="https://www.wowhead.com/spell=383376/qalashi-goulash" target="blank">Qalashi Goulash</a> # cooking buff => Run back
+blazing_aegis_blacksmith: <a href="https://www.wowhead.com/spell=377170/blazing-aegis" target="blank">Blazing Aegis</a> # Blacksmith buff => Available after boss
+
+## Forgemaster Gorek
+forgemaster_gorek: <a href="https://www.wowhead.com/npc=189478/forgemaster-gorek" target="blank">Forgemaster Gorek</a>
+might_of_the_forge: <a href="https://www.wowhead.com/spell=374594/might-of-the-forge" target="blank">Might of the Forge</a> # Don't be on Anvil
+blazing_hammer: <a href="https://www.wowhead.com/spell=374640/blazing-hammer" target="blank">Blazing Hammer</a> # Deals party damage
+blazing_aegis: <a href="https://www.wowhead.com/spell=374812/blazing-aegis" target="blank">Blazing Aegis</a> # bounce on 3 players and cross swirls around each player
+blazing_eruption: <a href="https://www.wowhead.com/spell=375059/blazing-eruption" target="blank">Blazing Eruption</a> # Cross Swirl
+forgestorm: <a href="https://www.wowhead.com/spell=375244/forgestorm" target="blank">Forgestorm</a> # random swirl to dodge
+heated_swings: <a href="https://www.wowhead.com/spell=374535/heated-swings" target="blank">Heated Swings</a> # tank damage
+forgefire: <a href="https://www.wowhead.com/spell=381482/forgefire" target="blank">Forgefire</a> # magma pool after tank damage
+
+## Smaug Treasure Hunter Notable Trash Mobs
+apex_blazewing: <a href="https://www.wowhead.com/npc=193291/apex-blazewing" target="blank">Apex Blazewing</a>
+scalding_chomp: <a href="https://www.wowhead.com/spell=382002/scalding-chomp" target="blank">Scalding Chomp</a> # Tank Damage
+candescent_tempest: <a href="https://www.wowhead.com/spell=381663/candescent-tempest" target="blank">Candescent Tempest</a> # party damage (can be LoS) and knockback (cannot)
+
+qalashi_lavamancer: <a href="https://www.wowhead.com/npc=193944/qalashi-lavamancer" target="blank">Qalashi Lavamancer</a> # priority target
+lava_bolt: <a href="https://www.wowhead.com/spell=396925/lava-bolt" target="blank">Lava Bolt</a> # Interrupt, tank damage
+molten_barrier: <a href="https://www.wowhead.com/spell=382795/molten-barrier" target="blank">Molten Barrier</a> # Switch and focus when shielded. Does Party damage when destroyed
+molten_army: <a href="https://www.wowhead.com/spell=383656/molten-army" target="blank">Molten Army</a> # channel, interrupt
+lava_spawn: <a href="https://www.wowhead.com/npc=194389/lava-spawn" target="blank">Lava Spawn</a> # Add tank damage
+# Lava Spill - pool on death
+
+## Warlord Sargha
+warlord_sargha: <a href="https://www.wowhead.com/npc=189901/warlord-sargha" target="blank">Warlord Sargha</a>
+magma_shield: <a href="https://www.wowhead.com/spell=376780/magma-shield" target="blank">Magma Shield</a> # must be broken with pile of gold treasures
+flame_eruption: <a href="https://www.wowhead.com/spell=376783/flame-eruption" target="blank">Flame Eruption</a> # periodic big dam during magma shield
+flame_vulnerability: <a href="https://www.wowhead.com/spell=376784/flame-vulnerability" target="blank">Flame Vulnerability</a> # scales big dam
+the_dragons_eruption: <a href="https://www.wowhead.com/spell=391773/the-dragons-eruption" target="blank">The Dragon's Eruption</a> # Swirl during shield
+burning_ember: <a href="https://www.wowhead.com/spell=377477/burning-ember" target="blank">Burning Ember</a> # swirl
+burning_ground: <a href="https://www.wowhead.com/spell=377542/burning-ground" target="blank">Burning Ground</a> # puddle
+raging_ember: <a href="https://www.wowhead.com/npc=192464/raging-ember" target="blank">Raging Ember</a> # extra add, focus random target
+the_dragons_kiln: <a href="https://www.wowhead.com/spell=377204/the-dragons-kiln" target="blank">The Dragon's Kiln</a> # frontal
+molten_gold: <a href="https://www.wowhead.com/spell=377018/molten-gold" target="blank">Molten Gold</a> # Big DoT
+
+curse_of_the_dragon_hoard: <a href="https://www.wowhead.com/spell=391762/curse-of-the-dragon-hoard" target="blank">Curse of the Dragon Hoard</a> # DECURSE !! Soft enrage
+wand_of_negation: <a href="https://www.wowhead.com/spell=379020/wand-of-negation" target="blank">Wand of Negation</a> # target
+anti_magic_bomb: <a href="https://www.wowhead.com/spell=384601/anti-magic-bomb" target="blank">Anti-Magic Bomb</a> # target reticule (eq)
+azure_stone_of_might: <a href="https://www.wowhead.com/spell=392166/azure-stone-of-might" target="blank">Azure Stone of Might</a> # Targeted heroic leap
+rose_of_the_vale: <a href="https://www.wowhead.com/spell=392171/rose-of-the-vale" target="blank">Rose of the Vale</a> # must be within 12 yds
+seismic_boots: <a href="https://www.wowhead.com/spell=392260/seismic-boots" target="blank">Seismic Boots</a> # must be within 30 yds

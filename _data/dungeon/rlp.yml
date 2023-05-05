@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,10 +12,10 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
 ## Ruby Life Pools
-# Melidrussa Chillworn Trash
+# Melidrussa Chillworn Notable Trash Mobs
 flashfrost_chillweaver: <a href="https://www.wowhead.com/npc=188067/flashfrost-chillweaver" target="blank">Flashfrost Chillweaver</a>
 ice_shield: <a href="https://www.wowhead.com/spell=372749/ice-shield" target="blank">Ice Shield</a>
 flashfrost_earthshaper: <a href="https://www.wowhead.com/npc=187969/flashfrost-earthshaper" target="blank">Flashfrost Earthshaper</a>
@@ -37,7 +37,7 @@ infused_whelp: <a href="https://www.wowhead.com/npc=189893/infused-whelp" target
 cold_claws: <a href="https://www.wowhead.com/spell=373803/cold-claws" target="blank">Cold Claws</a>
 primal_chill: <a href="https://www.wowhead.com/spell=372682/primal-chill" target="blank">Primal Chill</a>
 
-# Kokia Blazehoof Trash
+# Kokia Blazehoof Notable Trash Mobs
 primalist_cinderweaver: <a href="https://www.wowhead.com/npc=190207/primalist-cinderweaver" target="blank">Primalist Cinderweaver</a>
 cinderbolt: <a href="https://www.wowhead.com/spell=384194/cinderbolt" target="blank">Cinderbolt</a>
 burning_ambition: <a href="https://www.wowhead.com/spell=385063/burning-ambition" target="blank">Burning Ambition</a>
@@ -67,7 +67,7 @@ roaring_blaze: <a href="https://www.wowhead.com/spell=373017/roaring-blaze" targ
 inferno: <a href="https://www.wowhead.com/spell=384823/inferno" target="blank">Inferno</a>
 burnout: <a href="https://www.wowhead.com/spell=373614/burnout" target="blank">Burnout</a>
 
-# Kyrakka/Erkhart Stormvein Trash
+# Kyrakka/Erkhart Stormvein Notable Trash Mobs
 storm_warrior: <a href="https://www.wowhead.com/npc=197982/storm-warrior" target="blank">Storm Warrior</a>
 primal_thundercloud: <a href="https://www.wowhead.com/npc=197509/primal-thundercloud" target="blank">Primal Thundercloud</a>
 tempest_barrier: <a href="https://www.wowhead.com/spell=391031/tempest-barrier" target="blank">Tempest Barrier</a>

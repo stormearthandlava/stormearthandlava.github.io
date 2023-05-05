@@ -1,32 +1,103 @@
 ---
 layout: highcharts_page
 title: Trinkets
-last_update: 31/03/2023 
-game_version: 10.0.7 Dragonflight
+last_update: 02/05/2023
+game_version: 10.1.0 Dragonflight
 toc: true
 ---
+
 # Recommendations
-These trinkets are not displayed in any specific ranking order, but they are given notes that may be useful when deciding to use them. We do not have the ability to pick two trinkets and be optimal everywhere, the trinkets you use will be a result of what is available to you and what content you're currently tackling. The more options you have, generally, the better you can tailor your trinket use.
+
+We do not have the ability to pick two trinkets and be optimal everywhere. The trinkets you use will be a result of what is available to you and what content you're currently tackling. Generally, the more options you have the better you can tailor your trinket use.
 
 ## Raid
-* {{ site.data.item.ragefeather }} Solid proc trinket with good proc chance, the secondary effect helps ensure most procs result in their full damage eventually
-* {{ site.data.item.wii }} Strong passive trinket. Its sim values default to assume a tank and healer in your group also have this equipped which may not be true early on.
-* {{ site.data.item.hov }} Strong use trinket. If damage profiles require 2 minutes for a particular boss this trinket will be well suited for it.
-* {{ site.data.item.chillglobe }} Strong single-target damage trinket. Depending on how frequently you use your mana pool for utility/offhealing abilities, you may want a weakaura to help you not waste this trinket.
 
+**This is not a ranking guide**. Check the trinket overview section below to see how each trinket may be useful when deciding to use them.
 
-## Mythic+
-* {{ site.data.item.wii }} Strong passive trinket. Its sim values default to assume a tank and healer in your group also have this equipped which may not be true early on.
-* {{ site.data.item.hov }} Strong use trinket. If using builds centered around burst windows for big pulls this trinket will be an excellent choice.
-* {{ site.data.item.writ }} Strong passive trinket. Crit is an excellent AoE stat for M+ use, it also drops from M+ making it a great early acquisition for M+ only players.
-* {{ site.data.item.shadowgem }} Strong use trinket. If using builds centered around burst windows for big pulls this trinket will be an excellent choice.
-* {{ site.data.item.eye }} Strong passive trinket. 
+#### Good Raid trinkets:
+* {{ site.data.gear.idol_of_pure_decay }}
+* {{ site.data.gear.flowstone }}
+* {{ site.data.gear.dragonscale }}
+* {{ site.data.gear.spoils }}
+* {{ site.data.gear.vessel }}
 
-## Special Mentions
-* Despite being capped at 372 due to how they are obtained, the following trinkets perform very well for their ilvl.
-    * {{ site.data.item.talon }}  Note: this has been [nerfed as of 14/12](https://www.wowhead.com/news/uldaman-time-breaching-talon-trinket-nerfed-in-hotfix-330514?webhook)
-    * {{ site.data.item.spoils }}
-    * {{ site.data.item.fragment }}
+#### Honorable Mentions:
+* {{ site.data.gear.call_to_dominance }} is specifically good paired with {{ site.data.gear.flowstone }}.
+* {{ site.data.gear.talon }} or {{ site.data.gear.irideus_fragment }} can be used to burst something as needed.
+* {{ site.data.gear.wii }} will still be very good during progress.
+
+<br>
+
+## Mythic +
+
+Again, **this is not a ranking guide**. Check the trinket overview section below to see how each trinket may be useful when deciding to use them.
+
+#### Good Mythic+ trinkets:
+* {{ site.data.gear.flowstone }}
+* {{ site.data.gear.irideus_fragment }}
+* {{ site.data.gear.dragonscale }}
+* {{ site.data.gear.spoils }}
+* {{ site.data.gear.erupting_spear_fragment }}
+
+#### Honorable Mentions:
+* {{ site.data.gear.ominous_chromatic_essence }} is a lot of stats if your whole group has it.
+* {{ site.data.gear.shadowgem }} will be good in early season.
+
+<hr>
+
+# Season 2 trinkets Overview:
+
+## Passive trinkets:
+
+#### {{ site.data.gear.idol_of_pure_decay }} (from Brackenhide Hollow):
+* Strong proc trinket which does relevant damage in both ST and AoE.
+
+#### {{ site.data.gear.flowstone }} (from Magmorax):
+* Very strong passive trinket. It will either give you a lot of crit or deal good damage every 30s, rotating between the two.
+
+#### {{ site.data.gear.call_to_dominance }} (rare drop from Echo of Neltharion):
+* Medium passive trinket. It will give you a huge amount of intel after using {{ site.data.talent.fe }} or {{ site.data.talent.se }} for a very low duration. When {{ site.data.gear.flowstone }} is your other trinket, it is the best second trinket to have. Be sure to sim yourself.
+
+#### {{ site.data.gear.ominous_chromatic_essence }} (from the Forgotten Experiments):
+* Medium passive trinket that gives a lot of secondaries if your whole group has it. It's unlikely that many specs play this, making it less good than it could be.
+
+#### {{ site.data.gear.dragonscale }} (rare drop from Kazzara, the Hellforged):
+* Solid passive trinket, often giving you some crit on high uptime.
+
+#### {{ site.data.gear.vessel }} (from the Amalgamation Chamber):
+* Strong single-target proc trinket.
+
+<br>
+
+## On Use trinkets:
+#### {{ site.data.gear.beacon_to_the_beyond }} (from Scalecommander Sarkareth):
+* Medium trinket that deals huge damage every 2min30. The mastery on it makes it less good than intel trinkets.
+
+#### {{ site.data.gear.erupting_spear_fragment }} (from Neltharus):
+* Strong AoE trinket, dealing damage and giving you crit depending on target count. Really good during burst on adds.
+
+#### {{ site.data.gear.irideus_fragment }} (from Halls of Infusions):
+* Strong burst trinket, giving you a lot of int that decreases with each casts. This should be used before {{ site.data.talent.sk }} empowered spells for maximum output. It works especially well in AoE.
+
+#### {{ site.data.gear.spoils }} (from Neltharus):
+* Strong trinket that gives a lot of secondaries every 2 minutes. The stat it gives you change over time. You can use [this Weakaura by Skullmaker90](https://wago.io/xbF5jXjsf) to keep track of the current buff.
+
+#### {{ site.data.gear.talon }} (from Uldaman: Legacy of Tyr):
+* Strong trinket that is really good in AoE but not as strong as other options in Single Target. It still has a very good niche, as it will give you the best on-demand damage burst, making this trinket a very good option if something *needs to die* during progress.
+
+<br>
+
+## Season 1 Special Mentions
+#### {{ site.data.gear.wii }}:
+* Solid passive trinket. This might be better than many trinket up until the middle of the season, especially if you get the tank and healer buff. Be sure to keep simming it until it's outclassed by new trinkets.
+
+#### {{ site.data.gear.shadowgem }}:
+* Strong on use trinket. With crit being very prevalent in lightning builds, it should retain big value for some time.
+
+#### {{ site.data.gear.ragefeather }}:
+* Solid proc trinket with good proc chance, the secondary effect helps ensure most procs result in their full damage eventually. It will rapidly get outclassed since it's a pure damage proc, but will still be relevant for the early season.
+
+<hr>
 
 # Bloodmallet Charts
 The following charts present the best trinkets in Patchwerk (single

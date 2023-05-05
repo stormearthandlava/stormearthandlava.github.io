@@ -2,7 +2,7 @@
 # Copy either of the following strings if you want to add a new tooltip.
 #
 # External link with tooltip:
-# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+# SHORTCUT: <a href="https://www.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
 #
 # Non-external link but with wowhead icon next to the tooltip:
 # SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
@@ -12,10 +12,10 @@
 # Replace ID          with the appropriate id
 # Replace PLAIN_NAME  with the appropriate base name
 
-example: <a href="https://shadowlands.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
+example: <a href="https://www.wowhead.com/item=152838" target="blank">Stormsteel Axe</a>
 
 ## The Nokhud Offensive
-# Granyth Trash
+# Granyth Notable Trash Mobs
 nokhud_longbow: <a href="https://www.wowhead.com/npc=192789/nokhud-longbow" target="blank">Nokhud Longbow</a>
 rain_of_arrows: <a href="https://www.wowhead.com/spell=384476/rain-of-arrows" target="blank">Rain of Arrows</a>
 multi_shot: <a href="https://www.wowhead.com/spell=384868/multi-shot" target="blank">Multi-Shot</a>
@@ -37,7 +37,7 @@ dragonkiller_lance: <a href="https://www.wowhead.com/spell=386530/dragonkiller-l
 nokhud_saboteur: <a href="https://www.wowhead.com/npc=195821/nokhud-saboteur" target="blank">Nokhud Saboteur</a>
 dismantle: <a href="https://www.wowhead.com/spell=386490/dismantle" target="blank">Dismantle</a>
 
-# The Raging Tempest Trash
+# The Raging Tempest Notable Trash Mobs
 primalist_stormspeaker: <a href="https://www.wowhead.com/npc=194894/primalist-stormspeaker" target="blank">Primalist Stormspeaker</a>
 stormbolt: <a href="https://www.wowhead.com/spell=386012/stormbolt" target="blank">Stormbolt</a>
 tempest: <a href="https://www.wowhead.com/spell=386024/tempest" target="blank">Tempest</a>
@@ -65,7 +65,7 @@ the_raging_tempest_aoe: <a href="https://www.wowhead.com/spell=386916/the-raging
 uncontrollable_energy: <a href="https://www.wowhead.com/spell=382630/uncontrollable-energy" target="blank">Uncontrollable Energy</a>
 wind_burst: <a href="https://www.wowhead.com/spell=384761/wind-burst" target="blank">Wind Burst</a>
 
-# Teera and Maruuk Trash
+# Teera and Maruuk Notable Trash Mobs
 soulharvester_duuren: <a href="https://www.wowhead.com/npc=195928/soulharvester-duuren" target="blank">Soulharvester Duuren</a>
 soulharvester_galtmaa: <a href="https://www.wowhead.com/npc=195927/soulharvester-galtmaa" target="blank">Soulharvester Galtmaa</a>
 soulharvester_tumen: <a href="https://www.wowhead.com/npc=195929/soulharvester-tumen" target="blank">Soulharvester Tumen</a>
@@ -96,7 +96,7 @@ repel: <a href="https://www.wowhead.com/spell=386547/repel" target="blank">Repel
 guardian_wind: <a href="https://www.wowhead.com/spell=384808/guardian-wind" target="blank">Guardian Wind</a>
 ancestral_bond: <a href="https://www.wowhead.com/spell=392198/ancestral-bond" target="blank">Ancestral Bond</a>
 
-# Balakar Khan Trash
+# Balakar Khan Notable Trash Mobs
 balara: <a href="https://www.wowhead.com/npc=193457/balara" target="blank">Balara</a>
 batak: <a href="https://www.wowhead.com/npc=193462/batak" target="blank">Batak</a>
 ravaging_spear: <a href="https://www.wowhead.com/spell=372147/ravaging-spear" target="blank">Ravaging Spear</a>

@@ -44,7 +44,6 @@ The tips and recommendations listed here are based on educated opinions from PTR
 # Bosses
 <p style="color:red">Click on a boss banner to expand it.</p>
 
-<hr>
 <div class="dungeon-accordion">
 <div id="accordion">
 <div class="card">
