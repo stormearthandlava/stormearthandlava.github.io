@@ -22,7 +22,7 @@ This page has the answers to some frequently asked questions for Elemental Shama
 * It can be tough trying to learn all of them at once but there is a handy resource to help you! See [Elemental Abbreviations]({{ site.baseurl }}{% link blog/_posts/2023-01-23-ele101.md %}).
 
 ### Q: "What does {{ site.data.talent.fol }} actually reduce?"
-* For a complete list, see [Flash of Lightning]({{ site.baseurl }}{%link blog/_posts/2023-01-23-fol.md %}).
+* For a complete list, see the [Flash of Lightning]({{ site.baseurl }}{%link blog/_posts/2023-01-23-fol.md %}) post.
 
 ### Q: "Do you have any recommendation on how to sim and profiles to use while simming?"
 * For a complete guide about Elemental's sim, see [this post]({{ site.baseurl }}{%link blog/_posts/2023-01-02-simming.md %}).
@@ -39,12 +39,12 @@ This page has the answers to some frequently asked questions for Elemental Shama
 - Casting {{ site.data.spell.cl }} to generate more Maelstrom in cleave situation then use this maelstrom with {{ site.data.talent.eb }} and {{ site.data.talent.sop }} {{ site.data.spell.lb }}.
 
 ### Q: "Is there a point where I don't cast {{site.data.spell.es}} with {{site.data.talent.eogs}} talented?"
-* **No**, unless you have {{ site.data.talent.eb }} talented, you always alternate {{ site.data.spell.es }} and {{ site.data.talent.eq }}.
+* **No**, unless you have {{ site.data.talent.eb }} talented, you always alternate {{ site.data.spell.es }} and {{ site.data.spell.eq }}.
 
 ### Q: "Okay, so what about {{ site.data.talent.eb }} and/or {{ site.data.talent.eogs }} then?!"
 * **Yes**, these talent choices do impact your spender use:
-   - If you have taken {{ site.data.talent.eb }} and *not* {{ site.data.talent.eogs }} then you will use {{ site.data.talent.eb }} at 3 and less targets, {{ site.data.talent.eq }} at 4 targets and more.
-   - If you have taken {{ site.data.talent.eb }} *and* {{ site.data.talent.eogs }} then you will use {{ site.data.talent.eb }} at 1 target, then alternate {{ site.data.talent.eb }} and {{ site.data.talent.eq }} at 2 targets and more.
+   - If you have taken {{ site.data.talent.eb }} and *not* {{ site.data.talent.eogs }} then you will use {{ site.data.talent.eb }} at 3 and less targets, {{ site.data.spell.eq }} at 4 targets and more.
+   - If you have taken {{ site.data.talent.eb }} *and* {{ site.data.talent.eogs }} then you will use {{ site.data.talent.eb }} at 1 target, then alternate {{ site.data.talent.eb }} and {{ site.data.spell.eq }} at 2 targets and more.
 
 ### Q: "How many targets should I cast {{ site.data.spell.fs }} on?"
 * See the Priority List for each build in the [Build]({{ site.baseurl }}{% link guide/general/builds.md %}) section of the guide.
