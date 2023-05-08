@@ -27,7 +27,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 # Miscellaneous Tips
 - Recommendations that include {{ site.data.talent.if }} are written with the assumption that you have access to {{ site.data.spell.frs }}, the same applies to {{ site.data.talent.lmt }}, {{ site.data.talent.totemic_recall }} and {{ site.data.talent.call_of_the_elements }}.
 
-- The final boss [Scalecommander Sarkareth](https://www.wowhead.com/ptr/npc=205319/scalecommander-sarkareth) was not tested on PTR so no footage for those bosses exists.
+- The final boss [Scalecommander Sarkareth](https://www.wowhead.com/npc=205319/scalecommander-sarkareth) was not tested on PTR so no footage for those bosses exists.
 
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
@@ -58,17 +58,17 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 ### Talents
 
-#### T29/T30 2-piece:
+#### Fire:
 
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
-#### T30 4-piece:
+#### Lightning:
 
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
@@ -103,15 +103,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 ### Talents:
 
-#### T29/T30 2-piece:
+#### Fire:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
-#### T30 4-piece:
+#### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
@@ -148,21 +148,21 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 ### Talents:
 
-#### T29/T30 2-piece:
+#### Fire:
 <div class="iframe-holder">
   <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSASJJoJQSLJpFQhkkAI?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
-#### T30 4-piece in Normal/Heroic:
+#### Lightning in Normal/Heroic:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSASJJoJQSLJpFQhkkAI?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmAJtkkW4AUIESgA?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
-#### T30 4-piece in Mythic:
+#### Lightning in Mythic:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSASJJoJQSLJpFQhkkAI?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSAJlkgmAJtkkW4AUIESgA?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
@@ -199,7 +199,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 ### Talents:
 
-#### T29 and T30
+#### Lightning:
 <div class="iframe-holder">
   <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlDk0S0QQDJSAAAAAAKBIlkokmASLJpdgSAJEBI?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
@@ -240,15 +240,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 ### Talents
 
-#### T29/T30 2-piece:
+#### Fire:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
-#### T30 4-piece:
+#### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
@@ -283,15 +283,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 ### Talents
 
-#### T29/T30 2-piece:
+#### Fire:
 <div class="iframe-holder">
   <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpIJtkAJtIFKBNJJBAAAAAgSASJJkmASLJplSACJBI?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
-#### T30 4-piece:
+#### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSASJJapJg0SSaBgkkAI?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSAJlkolmASLJpFOAIESgA?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
@@ -309,6 +309,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
+* Use {{ site.data.talent.capacitor_totem }} and {{ site.data.spell.earthgrab_totem }} if talented to gather and stun as many {{ site.data.raid.aberrus.dragonfire_golem }} as possible but keep in mind that {{ site.data.raid.aberrus.reinforced_defenses }} (Mythic-only) will prevent you from applying those CCs.
 * Use {{ site.data.talent.wrt }} to help players repositioning during {{ site.data.raid.aberrus.tactical_destruction }}.
 </div>
 </div>
@@ -325,15 +326,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Talents:
 
-#### T29/T30 2-piece:
+#### Fire:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
-#### T30 4-piece:
+#### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
@@ -371,15 +372,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 ### Talents:
 
-#### T29/T30 2-piece:
+#### Fire:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpIJtkAJINKBlkkkDAAAAAAoEQSJJoJg0SSaBgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpIJtkAJINKBlkkkDAAAAAAoEQSJJoJg0SSahACJSgA?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
-#### T30 4-piece:
+#### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFASSCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
@@ -389,7 +390,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * Use {{ site.data.talent.sk }} and  {{ site.data.talent.fe }} / {{ site.data.talent.se }} to burst down {{ site.data.raid.aberrus.voice_from_beyond }}.
-* Prepare an {{ site.data.talent.eogs }} buff when {{ site.data.raid.aberrus.twisted_aberration }} are about to spawn.
+* If talented, prepare an {{ site.data.talent.eogs }} buff when {{ site.data.raid.aberrus.twisted_aberration }} are about to spawn.
 * Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.rushing_darkness }} and {{ site.data.raid.aberrus.volcanic_heart }} (Mythic-only).
 
 #### Defensives:
