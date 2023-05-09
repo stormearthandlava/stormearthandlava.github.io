@@ -24,23 +24,23 @@ volcanic_plume: <a href="https://www.wowhead.com/spell=209862/volcanic-plume" ta
 
 storming: <a href="https://www.wowhead.com/affix=124/storming" target="blank">Storming</a>
 
-entangling: <a href="https://www.wowhead.com/ptr/affix=134/entangling" target="blank">Entangling</a>
-entangled: <a href="https://www.wowhead.com/ptr/spell=408556/entangled" target="blank">Entangled</a>
+entangling: <a href="https://www.wowhead.com/affix=134/entangling" target="blank">Entangling</a>
+entangled: <a href="https://www.wowhead.com/spell=408556/entangled" target="blank">Entangled</a>
 
-afflicted: <a href="https://www.wowhead.com/ptr/affix=135/afflicted" target="blank">Afflicted</a>
-afflicted_soul: <a href="https://www.wowhead.com/ptr/npc=204773/afflicted-soul" target="blank">Afflicted Soul</a>
-cursed_spirit: <a href="https://www.wowhead.com/ptr/spell=409465/cursed-spirit" target="blank">Cursed Spirit</a>
-poisoned_spirit: <a href="https://www.wowhead.com/ptr/spell=409470/poisoned-spirit" target="blank">Poisoned Spirit</a>
-diseased_spirit: <a href="https://www.wowhead.com/ptr/spell=409472/diseased-spirit" target="blank">Diseased Spirit</a>
-afflicted_cry: <a href="https://www.wowhead.com/ptr/spell=409492/afflicted-cry" target="blank">Afflicted Cry</a>
+afflicted: <a href="https://www.wowhead.com/affix=135/afflicted" target="blank">Afflicted</a>
+afflicted_soul: <a href="https://www.wowhead.com/npc=204773/afflicted-soul" target="blank">Afflicted Soul</a>
+cursed_spirit: <a href="https://www.wowhead.com/spell=409465/cursed-spirit" target="blank">Cursed Spirit</a>
+poisoned_spirit: <a href="https://www.wowhead.com/spell=409470/poisoned-spirit" target="blank">Poisoned Spirit</a>
+diseased_spirit: <a href="https://www.wowhead.com/spell=409472/diseased-spirit" target="blank">Diseased Spirit</a>
+afflicted_cry: <a href="https://www.wowhead.com/spell=409492/afflicted-cry" target="blank">Afflicted Cry</a>
 
-incorporeal: <a href="https://www.wowhead.com/ptr/affix=136/incorporeal" target="blank">Incorporeal</a>
-destabilize: <a href="https://www.wowhead.com/ptr/spell=408805/destabilize" target="blank">Destabilize</a>
-incorporeal_being: <a href="https://www.wowhead.com/ptr/npc=204560/incorporeal-being" target="blank">Incorporeal Being</a>
+incorporeal: <a href="https://www.wowhead.com/affix=136/incorporeal" target="blank">Incorporeal</a>
+destabilize: <a href="https://www.wowhead.com/spell=408805/destabilize" target="blank">Destabilize</a>
+incorporeal_being: <a href="https://www.wowhead.com/npc=204560/incorporeal-being" target="blank">Incorporeal Being</a>
 
 # Tier 14 - On Death // Health Threshold
 raging: <a href="https://www.wowhead.com/affix=6/raging" target="blank">Raging</a>
-enrage: <a href="https://www.wowhead.com/ptr/spell=228318/enrage" target="blank">Enrage</a>
+enrage: <a href="https://www.wowhead.com/spell=228318/enrage" target="blank">Enrage</a>
 
 bolstering: <a href="https://www.wowhead.com/affix=7/bolstering" target="blank">Bolstering</a>
 bolster: <a href="https://www.wowhead.com/spell=209859/bolster" target="blank">Bolster</a>
