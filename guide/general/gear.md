@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gear
-last_update: 02/05/2023
+last_update: 26/05/2023
 game_version: 10.1.0 Dragonflight
 toc: true
 big_article: true
@@ -22,7 +22,6 @@ var whTooltips = {
 };
 </script>
 
-
 # Introduction
 
 The goal of this guide is not to give you the definitive Best in Slot list of gear for season 2, but rather to give you an overview of relevant loots and where to get them. We do not the ability to pick a definitive gear set optimal everywhere. The gear you use will be a result of what you loot, what talent you use and what content you're tackling. The more options you have, the better you can tailor your character.
@@ -32,38 +31,43 @@ Remember to always sim new items to see if they are an upgrade, see [this post](
 This guide will not include trinkets, as they have their [own guide]({{ site.baseurl }}{% link guide/general/trinkets.md %}).
 
 General note:
-* 441 is the base Mythic level, but also the maximum ilvl for upgraded mythic + items.
-* 444 are Rashok and the Dracthyr Experiments.
-* 447 are Zskarn, the Vigilant Steward and Magmorax items as well as the vault mythic+ 20s item level
+* 441 is the base Mythic item level, which is also the maximum ilvl for upgraded mythic+ items.
+* 444 are Rashok and the Dracthyr Experiments items.
+* 447 are Zskarn and Magmorax items, as well as vault mythic+ 20s and crafted items.
 * 450 are Neltharion and Sarkareth exclusive items.
 
 <hr>
 
 # Embellishments
 
-There are 4 embellishments that stand out for Elemental Shamans during Season 2:
+## Embellishments Items
+There are 3 embellishments effect that stand out for Elemental Shamans during Season 2:
 
-- The {{ site.data.gear.horizon_strider }} set is our most versatile choice offering high value in both Single Target and AoE. It requires 2 Embellished items, so it can't be combined with other embellishments. It also "restrains" the tier sets options that we can get. Despite these minor setbacks, it is still excellent.
+- The {{ site.data.gear.horizon_strider }} set requires two embellishments: {{ site.data.gear.wind_spirits_lasso }} and {{ site.data.gear.scale_rein_grips }}. It is our most versatile choice offering high value in both Single Target and AoE. It can't be combined with other embellishments. It also "restrains" the tier sets options that we can get. Despite these minor setbacks, it is still excellent. It also improves gameplay by giving us haste. It is also worth noting that this is the Best in Slot of Enhancement as well.
+- {{ site.data.gear.adaptive_dracothyst_armguards }} has around 35% uptime and gives good value in all content, but is slightly more oriented toward Single Target.
 - {{ site.data.gear.shadowflame_tempered_armor_patch }} is a better choice for Single Target and stacks with itself, so you can use it twice on your gear if you want to focus entirely on pure Single Target niche.
-- {{ site.data.gear.elemental_lariat }} is still a solid choice despite the recent nerfs, but lacks a second very good embellishment to have alongside it. Since 10.1, the effect duration depends on the number of Elemental Gems you are using. {{ site.data.gear.elemental_lariat }} becomes a reasonable consideration if you have 5 or more Elemental Gems in your gear.
-- {{ site.data.gear.venom_steeped_stompers }} is the most relevant option we get for AoE outside of the {{ site.data.gear.horizon_strider }} set.
 
-This gives us the following possible combinations:
+#### Other options:
+- {{ site.data.gear.elemental_lariat }} is still a decent choice despite the recent nerfs, but performs overall worse than the one listed above. Since 10.1, the effect duration depends on the number of Elemental Gems you are using. {{ site.data.gear.elemental_lariat }} becomes a reasonable consideration if you have 5 or more Elemental Gems in your gear.
+- {{ site.data.gear.acidic_hailstone_treads }} is the single best Embellishment, but getting slowed by 10% at all time is just horrible. I wouldn't recommend it under any circumstances, but the option is there. Be sure to know what you are doing.
+
+## Possible Combinations
+
 #### Horizon Stride Set
+This is a versatile combinations, slightly oriented toward Cleave and AoE. This is my personal recommendation as Haste feels good to play.
 - {{ site.data.gear.wind_spirits_lasso }}
 - {{ site.data.gear.scale_rein_grips }}
 
-#### Pure ST
+#### Dracothyst Armguards and one Shadowpatch
+This is a versatile combinations, slightly oriented toward Single Target.
+- {{ site.data.gear.shadowflame_tempered_armor_patch }}
+- {{ site.data.gear.adaptive_dracothyst_armguards }}
+
+#### Pure ST, Double Shadowpatch
+This is just as much ST as possible, losing decent Cleave and AoE potential.
 - {{ site.data.gear.shadowflame_tempered_armor_patch }}
 - {{ site.data.gear.shadowflame_tempered_armor_patch }}
 
-#### Raid Lariat
-- {{ site.data.gear.elemental_lariat }}
-- {{ site.data.gear.shadowflame_tempered_armor_patch }}
-
-#### AoE Lariat
-- {{ site.data.gear.elemental_lariat }}
-- {{ site.data.gear.venom_steeped_stompers }}
 
 <hr>
 
@@ -73,25 +77,25 @@ I will be real with you for a minute, a BiS item list **does not exist**. A list
 
 With that being said, here is a table of items that you can strive for to make your character feel "complete", depending on the embellishments you decide to use:
 
-<div class="table-17-23-20-20-20" markdown="1">
+<div class="table-13-29-29-29" markdown="1">
 
-Gear Slot | Horizon Strider Set | Raid Lariat | AoE Lariat | Pure ST
-:---: | :---: | :---: | :---: | :---:
-Head | {{ site.data.gear.spangenhelm_of_the_cinderwolf }} | | |
-Neck | {{ site.data.gear.red_sky_pendant }} | {{ site.data.gear.elemental_lariat }} | {{ site.data.gear.elemental_lariat }} | {{ site.data.gear.red_sky_pendant }}
-Shoulder | {{ site.data.gear.thunderpads_of_the_cinderwolf }} | | |
-Back | {{ site.data.gear.voice_of_the_silent_star }} | | |
-Chest | {{ site.data.gear.adornments_of_the_cinderwolf }} | {{ site.data.gear.tunic_of_screaming_earth }} | {{ site.data.gear.tunic_of_screaming_earth }} | {{ site.data.gear.tunic_of_screaming_earth }}
-Wrist | {{ site.data.gear.obsidian_hardened_wraps }} | {{ site.data.gear.shadowflame_wrist }} | {{ site.data.gear.obsidian_hardened_wraps }} | {{ site.data.gear.shadowflame_wrist }}
-Hands | {{ site.data.gear.scale_rein_grips }} | {{ site.data.gear.knuckles_of_the_cinderwolf }} | {{ site.data.gear.knuckles_of_the_cinderwolf }} | {{ site.data.gear.knuckles_of_the_cinderwolf }}
-Waist | {{ site.data.gear.wind_spirits_lasso }} | {{ site.data.gear.swollen_bark_clasp }} | {{ site.data.gear.swollen_bark_clasp }} | {{ site.data.gear.shadowflame_waist }}
-Legs | {{ site.data.gear.braies_of_the_cinderwolf }} | | |
-Feet | {{ site.data.gear.crechebound_soldiers_boots }} | {{ site.data.gear.crechebound_soldiers_boots }} | {{ site.data.gear.venom_steeped_stompers }} | {{ site.data.gear.crechebound_soldiers_boots }}
-Finger 1 | {{ site.data.gear.onyx_impostors_birthright }} | | |
-Finger 2 | {{ site.data.gear.signet_of_titanic_insight }} | | |
-Trinket 1 | {{ site.data.gear.flowstone }} | | |
-Trinket 2 | {{ site.data.gear.call_to_dominance }} | | |
-Weapon | {{ site.data.gear.erethos_the_empty_promise }} | | |
+Gear Slot | Horizon Strider Set | Armguards & Shadowpatch | Double Shadowpatch
+:---: | :---: | :---: | :---:
+Head | {{ site.data.gear.spangenhelm_of_the_cinderwolf }} | |
+Neck | {{ site.data.gear.red_sky_pendant }} | |
+Shoulder | {{ site.data.gear.thunderpads_of_the_cinderwolf }} | |
+Back | {{ site.data.gear.voice_of_the_silent_star }} | |
+Chest | {{ site.data.gear.adornments_of_the_cinderwolf }} | {{ site.data.gear.tunic_of_screaming_earth }} | {{ site.data.gear.tunic_of_screaming_earth }}
+Wrist | {{ site.data.gear.obsidian_hardened_wraps }} | {{ site.data.gear.adaptive_dracothyst_armguards }} | {{ site.data.gear.shadowflame_wrist }}
+Hands | {{ site.data.gear.scale_rein_grips }} | {{ site.data.gear.knuckles_of_the_cinderwolf }} | {{ site.data.gear.knuckles_of_the_cinderwolf }}
+Waist | {{ site.data.gear.wind_spirits_lasso }} | {{ site.data.gear.swollen_bark_clasp }} | {{ site.data.gear.shadowflame_waist }}
+Legs | {{ site.data.gear.braies_of_the_cinderwolf }} | |
+Feet | {{ site.data.gear.crechebound_soldiers_boots }} | {{ site.data.gear.crechebound_soldiers_boots }} | {{ site.data.gear.crechebound_soldiers_boots }}
+Finger 1 | {{ site.data.gear.onyx_impostors_birthright }} | |
+Finger 2 | {{ site.data.gear.signet_of_titanic_insight }} | |
+Trinket 1 | {{ site.data.gear.ominous_chromatic_essence }} | |
+Trinket 2 | No clear winner | No clear winner | {{ site.data.gear.rotcrusted_voodoo_doll }}
+Weapon | {{ site.data.gear.erethos_the_empty_promise }} | |
 
 </div>
 
@@ -314,7 +318,7 @@ Item | Stats | Location
 
 Item | Stats | Location
 :---: | :---: | :---:
-{{ site.data.gear.erethos_the_empty_promise }} | Vers (67%) > Hast | Scalecommander Sarkareth
+{{ site.data.gear.erethos_the_empty_promise }} | Hast (67%) > Mast | Scalecommander Sarkareth
 {{ site.data.gear.ancestral_stoneshaper }} | Mast (61%) > Hast | Brackenhide Hollow
 {{ site.data.gear.infinite_dragonspire }} | Hast (65%) > Crit | Uldaman: Legacy of Tyr
 
@@ -328,9 +332,9 @@ Item | Stats | Location
 
 Item | Stats | Location
 :---: | :---: | :---:
-{{ site.data.gear.lavaflow_control_rod }} | Hast (67%) > Vers | Magmorax
+{{ site.data.gear.lavaflow_control_rod }} | Crit (67%) > Hast | Magmorax
 {{ site.data.gear.zskarns_autopsy_scalpel }} | Crit (70%) > Mast | Zskarn, the Vigilant Steward
-{{ site.data.gear.bloodfire_extraction_conduit }} | Hast (67%) > Vers | Rashok, the Elder
+{{ site.data.gear.bloodfire_extraction_conduit }} | Hast (67%) > Crit | Rashok, the Elder
 {{ site.data.gear.decatriarchs_bone_pestle }} | Mast (63%) > Crit | Brackenhide Hollow
 {{ site.data.gear.searing_tusk_shard }} | Mast (59%) > Vers | Neltharus
 {{ site.data.gear.leaxas_thought_piercer }} | Hast (53%) > Crit | The Underrot
@@ -346,8 +350,8 @@ Item | Stats | Location
 
 Item | Stats | Location
 :---: | :---: | :---:
-{{ site.data.gear.echos_maddening_volume }} | Mast (67%) > Hast | Echo of Neltharion
-{{ site.data.gear.thadrions_erratic_arcanotrode }} | Mast (67%) > Hast | The Forgotten Experiments
+{{ site.data.gear.echos_maddening_volume }} | Hast (67%) > Mast | Echo of Neltharion
+{{ site.data.gear.thadrions_erratic_arcanotrode }} | Crit (67%) > Hast | The Forgotten Experiments
 {{ site.data.gear.rod_of_perfect_order }} | Hast (63%) > Mast | Halls of Infusion
 {{ site.data.gear.irontorch_igniter }} | Crit (61%) > Hast | Neltharus
 
@@ -361,7 +365,7 @@ Item | Stats | Location
 
 Item | Stats | Location
 :---: | :---: | :---:
-{{ site.data.gear.calamitys_herald }} | Mast (65%) > Hast | Echo of Neltharion
+{{ site.data.gear.calamitys_herald }} | Crit (65%) > Hast | Echo of Neltharion
 {{ site.data.gear.experiment_1_kitewing }} | Vers (69%) > Crit | The Forgotten Experiments
 {{ site.data.gear.monstrous_gluttony }} | Vers (52%) > Crit | Neltharion's Lair
 {{ site.data.gear.qalashi_defender }} | Crit (63%) > Mast | Neltharus

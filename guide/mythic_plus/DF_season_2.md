@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mythic+ DF Season 2"
-last_update: 02/05/2023
+last_update: 09/05/2023
 game_version: 10.1.0 Dragonflight
 toc: true
 big_article: true
@@ -1260,6 +1260,12 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 * {{ site.data.talent.stoneskin_totem }} has value in higher keys. Many of the Party-wide damage spells and random ST damage spells are physical.
 * {{ site.data.talent.cleanse_spirit }} is sort of mandatory for the thrashes after the third boss.
 * {{ site.data.talent.hex }} has value to control the adds on the second boss.
+
+<hr>
+
+### Dungeon buffs
+
+Three {{ site.data.dungeon.udm.crumbling_rock_vein }} are located throughout the dungeon. A player with at least 25 skill in Dragon isles {{ site.data.item.mining }} can interact with it to discover a {{ site.data.dungeon.udm.lost_tome_of_tyr }}, granting players 10% movement speed outside of combat.
 
 <hr>
 
