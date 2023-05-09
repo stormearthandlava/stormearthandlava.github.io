@@ -289,9 +289,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
   </iframe>
 </div>
 
-#### Lightning:
+#### Lightning in Normal/Heroic:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSAJlkolmASLJpFOAIESgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUi0S0QUSDJSAAAAAAKBIlkolmASLJplSACRAC?width=530&level=70" frameborder="0" width="530px" height="100%">
+  </iframe>
+</div>
+
+#### Lightning in Mythic:
+<div class="iframe-holder">
+  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJJFSLRDRJQiEAAAAAgSAJlkolmASLJpFOAIESgA?width=530&level=70" frameborder="0" width="530px" height="100%">
   </iframe>
 </div>
 
