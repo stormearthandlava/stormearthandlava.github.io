@@ -6,6 +6,23 @@ game_version: 10.1.0 Dragonflight
 toc: true
 big_article: true
 ---
+
+<script>
+var whTooltips = {
+    colorLinks: false,
+    iconizeLinks: true,
+    renameLinks: false,
+    hide: {
+    sellprice: true,
+    ilvl: true,
+    maxstack: true,
+    dropchance: true,
+    droppedby: false
+    }
+};
+</script>
+
+
 # Introduction
 
 The goal of this guide is not to give you the definitive Best in Slot list of gear for season 2, but rather to give you an overview of relevant loots and where to get them. We do not the ability to pick a definitive gear set optimal everywhere. The gear you use will be a result of what you loot, what talent you use and what content you're tackling. The more options you have, the better you can tailor your character.
