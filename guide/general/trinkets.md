@@ -56,7 +56,7 @@ Again, **this is not a ranking guide**. Check the trinket overview section below
 * Very strong passive trinket. It will either give you a lot of crit or deal good damage every 30s, rotating between the two.
 
 #### {{ site.data.gear.call_to_dominance }} (rare drop from Echo of Neltharion):
-* Medium passive trinket. It will give you a huge amount of intel after using {{ site.data.talent.fe }} or {{ site.data.talent.se }} for a very low duration. When {{ site.data.gear.flowstone }} is your other trinket, it is the best second trinket to have. Be sure to sim yourself.
+* Medium passive trinket. It will give you a huge amount of Intellect after using {{ site.data.talent.fe }} or {{ site.data.talent.se }} for a very low duration. When {{ site.data.gear.flowstone }} is your other trinket, it is the best second trinket to have. Be sure to sim yourself.
 
 #### {{ site.data.gear.ominous_chromatic_essence }} (from the Forgotten Experiments):
 * Medium passive trinket that gives a lot of secondaries if your whole group has it. It's unlikely that many specs play this, making it less good than it could be.
@@ -71,7 +71,7 @@ Again, **this is not a ranking guide**. Check the trinket overview section below
 
 ## On Use trinkets:
 #### {{ site.data.gear.beacon_to_the_beyond }} (from Scalecommander Sarkareth):
-* Medium trinket that deals huge damage every 2min30. The mastery on it makes it less good than intel trinkets.
+* Medium trinket that deals huge damage every 2min30. The mastery on it makes it less good than Intellect trinkets.
 
 #### {{ site.data.gear.erupting_spear_fragment }} (from Neltharus):
 * Strong AoE trinket, dealing damage and giving you crit depending on target count. Really good during burst on adds.
