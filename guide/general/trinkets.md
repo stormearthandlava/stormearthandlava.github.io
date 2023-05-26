@@ -1,10 +1,25 @@
 ---
 layout: highcharts_page
 title: Trinkets
-last_update: 02/05/2023
+last_update: 26/05/2023
 game_version: 10.1.0 Dragonflight
 toc: true
 ---
+
+<script>
+var whTooltips = {
+    colorLinks: false,
+    iconizeLinks: true,
+    renameLinks: false,
+    hide: {
+    sellprice: true,
+    ilvl: true,
+    maxstack: true,
+    dropchance: true,
+    droppedby: false
+    }
+};
+</script>
 
 # Recommendations
 
@@ -16,14 +31,13 @@ We do not have the ability to pick two trinkets and be optimal everywhere. The t
 
 #### Good Raid trinkets:
 * {{ site.data.gear.idol_of_pure_decay }}
-* {{ site.data.gear.flowstone }}
-* {{ site.data.gear.dragonscale }}
-* {{ site.data.gear.spoils }}
+* {{ site.data.gear.naraxas_spiked_tongue }}
+* {{ site.data.gear.ominous_chromatic_essence }}
+* {{ site.data.gear.rotcrusted_voodoo_doll }}
 * {{ site.data.gear.vessel }}
 
 #### Honorable Mentions:
-* {{ site.data.gear.call_to_dominance }} is specifically good paired with {{ site.data.gear.flowstone }}.
-* {{ site.data.gear.talon }} or {{ site.data.gear.irideus_fragment }} can be used to burst something as needed.
+* {{ site.data.gear.talon }} or {{ site.data.gear.irideus_fragment }} can be used to burst a shield or adds as needed.
 * {{ site.data.gear.wii }} will still be very good during progress.
 
 <br>
@@ -33,15 +47,15 @@ We do not have the ability to pick two trinkets and be optimal everywhere. The t
 Again, **this is not a ranking guide**. Check the trinket overview section below to see how each trinket may be useful when deciding to use them.
 
 #### Good Mythic+ trinkets:
-* {{ site.data.gear.flowstone }}
+* {{ site.data.gear.erupting_spear_fragment }}
 * {{ site.data.gear.irideus_fragment }}
+* {{ site.data.gear.ominous_chromatic_essence }}
 * {{ site.data.gear.dragonscale }}
 * {{ site.data.gear.spoils }}
-* {{ site.data.gear.erupting_spear_fragment }}
 
 #### Honorable Mentions:
-* {{ site.data.gear.ominous_chromatic_essence }} is a lot of stats if your whole group has it.
 * {{ site.data.gear.shadowgem }} will be good in early season.
+* {{ site.data.gear.call_to_dominance }} has a lot of potential in Wildfire builds.
 
 <hr>
 
@@ -53,13 +67,16 @@ Again, **this is not a ranking guide**. Check the trinket overview section below
 * Strong proc trinket which does relevant damage in both ST and AoE.
 
 #### {{ site.data.gear.flowstone }} (from Magmorax):
-* Very strong passive trinket. It will either give you a lot of crit or deal good damage every 30s, rotating between the two.
+* Medium passive trinket. It will either give you a lot of crit or deal good damage every 30s, rotating between the two. After the nerfs this trinket is just okay.
+
+#### {{ site.data.gear.naraxas_spiked_tongue }} (from Neltharion's Lair):
+* Very Strong single-target proc trinket.
 
 #### {{ site.data.gear.call_to_dominance }} (rare drop from Echo of Neltharion):
-* Medium passive trinket. It will give you a huge amount of Intellect after using {{ site.data.talent.fe }} or {{ site.data.talent.se }} for a very low duration. When {{ site.data.gear.flowstone }} is your other trinket, it is the best second trinket to have. Be sure to sim yourself.
+* Medium passive trinket. It will give you a huge amount of intel after using {{ site.data.talent.fe }} or {{ site.data.talent.se }} for a very low duration. It has a lot of potential in Wildfire builds
 
 #### {{ site.data.gear.ominous_chromatic_essence }} (from the Forgotten Experiments):
-* Medium passive trinket that gives a lot of secondaries if your whole group has it. It's unlikely that many specs play this, making it less good than it could be.
+* Strong stat stick that gives a lot of secondaries if your whole group has it. It's unlikely that many specs play this, making it less good than it could be. It still has a lot of potential despite that problem.
 
 #### {{ site.data.gear.dragonscale }} (rare drop from Kazzara, the Hellforged):
 * Solid passive trinket, often giving you some crit on high uptime.
@@ -78,6 +95,9 @@ Again, **this is not a ranking guide**. Check the trinket overview section below
 
 #### {{ site.data.gear.irideus_fragment }} (from Halls of Infusions):
 * Strong burst trinket, giving you a lot of int that decreases with each casts. This should be used before {{ site.data.talent.sk }} empowered spells for maximum output. It works especially well in AoE.
+
+#### {{ site.data.gear.rotcrusted_voodoo_doll }} (from the Underrot):
+* Very Strong On use single-target trinket.
 
 #### {{ site.data.gear.spoils }} (from Neltharus):
 * Strong trinket that gives a lot of secondaries every 2 minutes. The stat it gives you change over time. You can use [this Weakaura by Skullmaker90](https://wago.io/xbF5jXjsf) to keep track of the current buff.
