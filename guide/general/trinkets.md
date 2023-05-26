@@ -76,7 +76,7 @@ Again, **this is not a ranking guide**. Check the trinket overview section below
 * Medium passive trinket. It will give you a huge amount of intel after using {{ site.data.talent.fe }} or {{ site.data.talent.se }} for a very low duration. It has a lot of potential in Wildfire builds
 
 #### {{ site.data.gear.ominous_chromatic_essence }} (from the Forgotten Experiments):
-* Strong stat stick that gives a lot of secondaries if your whole group has it. It's unlikely that many specs play this, making it less good than it could be. It still has a lot of potential despite that problem.
+* Strong stat stick that gives a lot of secondaries if your whole group has it. Since its good for most spec, it will be very good in raid and a bit worse in dungeons.
 
 #### {{ site.data.gear.dragonscale }} (rare drop from Kazzara, the Hellforged):
 * Solid passive trinket, often giving you some crit on high uptime.
