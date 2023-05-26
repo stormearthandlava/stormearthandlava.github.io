@@ -90,7 +90,7 @@ Wrist | {{ site.data.gear.obsidian_hardened_wraps }} | {{ site.data.gear.adaptiv
 Hands | {{ site.data.gear.scale_rein_grips }} | {{ site.data.gear.knuckles_of_the_cinderwolf }} | {{ site.data.gear.knuckles_of_the_cinderwolf }}
 Waist | {{ site.data.gear.wind_spirits_lasso }} | {{ site.data.gear.swollen_bark_clasp }} | {{ site.data.gear.shadowflame_waist }}
 Legs | {{ site.data.gear.braies_of_the_cinderwolf }} | |
-Feet | {{ site.data.gear.crechebound_soldiers_boots }} | {{ site.data.gear.crechebound_soldiers_boots }} | {{ site.data.gear.crechebound_soldiers_boots }}
+Feet | {{ site.data.gear.crechebound_soldiers_boots }} | |
 Finger 1 | {{ site.data.gear.onyx_impostors_birthright }} | |
 Finger 2 | {{ site.data.gear.signet_of_titanic_insight }} | |
 Trinket 1 | {{ site.data.gear.ominous_chromatic_essence }} | |
