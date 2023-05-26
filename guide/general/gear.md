@@ -94,7 +94,7 @@ Feet | {{ site.data.gear.crechebound_soldiers_boots }} | |
 Finger 1 | {{ site.data.gear.onyx_impostors_birthright }} | |
 Finger 2 | {{ site.data.gear.signet_of_titanic_insight }} | |
 Trinket 1 | {{ site.data.gear.ominous_chromatic_essence }} | |
-Trinket 2 | No clear winner | No clear winner | {{ site.data.gear.rotcrusted_voodoo_doll }}
+Trinket 2 | No clear winner | No clear winner | No clear winner
 Weapon | {{ site.data.gear.erethos_the_empty_promise }} | |
 
 </div>
