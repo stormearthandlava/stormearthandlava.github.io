@@ -81,7 +81,7 @@ raise_dead: <a href="https://www.wowhead.com/spell=272183/raise-dead" target="bl
 wicked_frenzy: <a href="https://www.wowhead.com/spell=266209/wicked-frenzy" target="blank">Wicked Frenzy</a> # Hard CC delay or Soothe
 
 grotesque_horror: <a href="https://www.wowhead.com/npc=138187/grotesque-horror" target="blank">Grotesque Horror</a> # Immobile
-void_spit: <a href="https://www.wowhead.com/ptr/spell=272180/void-spit" target="blank">Void Spit</a> # Must Kick
+void_spit: <a href="https://www.wowhead.com/spell=272180/void-spit" target="blank">Void Spit</a> # Must Kick
 
 bloodsworn_defiler: <a href="https://www.wowhead.com/npc=133912/bloodsworn-defiler" target="blank">Bloodsworn Defiler</a>
 shadow_bolt_volley: <a href="https://www.wowhead.com/spell=265487/shadow-bolt-volley" target="blank">Shadow Bolt Volley</a> # Must Kick

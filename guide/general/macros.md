@@ -88,6 +88,16 @@ This macro will summon your currently talented Elemental, and when pressed again
 
 # Utility
 
+## Dismiss pet
+This macro requires the [following Weakaura](https://wago.io/3fH2MR2PA) to work, and will dismiss your currently summoned elementals whenever you use it. This is mostly used on {{ site.data.talent.ee }}.
+
+```
+/click MyTotemFrame1
+/click MyTotemFrame2
+/click MyTotemFrame3
+/click MyTotemFrame4
+```
+
 ## Interrupts - Wind Shear
 There are many ways to macro interrupt abilities, below are some examples only use whichever setup enables you to play most reliably:
 
