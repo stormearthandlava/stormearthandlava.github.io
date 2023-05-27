@@ -77,7 +77,7 @@ I will be real with you for a minute, a BiS item list **does not exist**. A list
 
 With that being said, here is a table of items that you can strive for to make your character feel "complete", depending on the embellishments you decide to use:
 
-<div class="table-13-29-29-29" markdown="1">
+<div class="table-15-29-28-28" markdown="1">
 
 Gear Slot | Horizon Strider Set | Armguards & Shadowpatch | Double Shadowpatch
 :---: | :---: | :---: | :---:
