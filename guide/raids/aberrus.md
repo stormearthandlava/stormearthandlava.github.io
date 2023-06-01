@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Aberrus, the Shadowed Crucible Guide"
-last_update: 02/05/2023
+last_update: 01/06/2023
 game_version: 10.1.0 Dragonflight
 toc: true
 big_article: true
@@ -26,8 +26,6 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 # Miscellaneous Tips
 - Recommendations that include {{ site.data.talent.if }} are written with the assumption that you have access to {{ site.data.spell.frs }}, the same applies to {{ site.data.talent.lmt }}, {{ site.data.talent.totemic_recall }} and {{ site.data.talent.call_of_the_elements }}.
-
-- The final boss [Scalecommander Sarkareth](https://www.wowhead.com/npc=205319/scalecommander-sarkareth) was not tested on PTR so no footage for those bosses exists.
 
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
@@ -61,15 +59,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Fire:
 
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 #### Lightning:
 
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 <hr>
@@ -105,14 +103,14 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 #### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 <hr>
@@ -150,20 +148,14 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSASJJoJQSLJpFQhkkAI?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSASJJoJQSLJpFQhkkAI?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
-#### Lightning in Normal/Heroic:
+#### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmAJtkkW4AUIESgA?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
-</div>
-
-#### Lightning in Mythic:
-<div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSAJlkgmAJtkkW4AUIESgA?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 <hr>
@@ -201,8 +193,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlDk0S0QQDJSAAAAAAKBIlkokmASLJpdgSAJEBI?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSJJJlDk0S0QQDJSAAAAAAKBIlkQaCItkkWKBkQEgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 <hr>
@@ -242,14 +234,14 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 #### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 <hr>
@@ -285,14 +277,14 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpIJtkAJtIFKBNJJBAAAAAgSASJJkmASLJplSACJBI?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpIJtkAJtIFKBNJJBAAAAAgSASJJkmASLJplSACJBI?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 #### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkQaCItkkWIgQIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASJJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 <hr>
@@ -309,7 +301,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.capacitor_totem }} and {{ site.data.spell.earthgrab_totem }} if talented to gather and stun as many {{ site.data.raid.aberrus.dragonfire_golem }} as possible but keep in mind that {{ site.data.raid.aberrus.reinforced_defenses }} (Mythic-only) will prevent you from applying those CCs.
+* Use {{ site.data.talent.capacitor_totem }} and {{ site.data.talent.earthgrab_totem }} if talented to gather and stun as many {{ site.data.raid.aberrus.dragonfire_golem }} as possible but keep in mind that {{ site.data.raid.aberrus.reinforced_defenses }} (Mythic-only) will prevent you from applying those CCs.
 * Use {{ site.data.talent.wrt }} to help players repositioning during {{ site.data.raid.aberrus.tactical_destruction }}.
 </div>
 </div>
@@ -328,14 +320,14 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJlkUoEUSSSEAAAAAgSAJlkgmASLJpFCIkIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 #### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 <hr>
@@ -355,7 +347,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by {{ site.data.raid.aberrus.molten_spittle }}.
 
 #### Optional Notes:
-* You can currently use {{ site.data.externals.demonic_gateway }} to handle every {{ site.data.raid.aberrus.overpowering_stomp }}. Both {{ site.data.talent.swg }} and {{ site.data.talent.gow }} can then be used to handle other mechanics.
+* You can currently use {{ site.data.externals.demonic_gateway }} to handle every {{ site.data.raid.aberrus.overpowering_stomp }} (except Mythic). Both {{ site.data.talent.swg }} and {{ site.data.talent.gow }} can then be used to handle other mechanics.
 
 </div>
 </div>
@@ -374,14 +366,14 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpIJtkAJINKBlkkkDAAAAAAoEQSJJoJg0SSahACJSgA?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpIJtkAJINKBlkkkDAAAAAAoEQSJJoJg0SSahACJSgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 #### Lightning:
 <div class="iframe-holder">
-  <iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
-  </iframe>
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmASLJpFCIRIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
 
 <hr>
@@ -391,15 +383,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Damage:
 * Use {{ site.data.talent.sk }} and  {{ site.data.talent.fe }} / {{ site.data.talent.se }} to burst down {{ site.data.raid.aberrus.voice_from_beyond }}.
 * If talented, prepare an {{ site.data.talent.eogs }} buff when {{ site.data.raid.aberrus.twisted_aberration }} are about to spawn.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.rushing_darkness }} and {{ site.data.raid.aberrus.volcanic_heart }} (Mythic-only).
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.rushing_darkness }} and {{ site.data.raid.aberrus.volcanic_heart }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.surrender_to_corruption }}, high stacks of {{ site.data.raid.aberrus.umbral_annihilation }} and whenever targeted by {{ site.data.raid.aberrus.volcanic_heart }} (Mythic-only).
+* Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.surrender_to_corruption }}, high stacks of {{ site.data.raid.aberrus.umbral_annihilation }} and whenever targeted by {{ site.data.raid.aberrus.volcanic_heart }}.
 * If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by either {{ site.data.raid.aberrus.rushing_darkness }} or {{ site.data.raid.aberrus.volcanic_heart }} (Mythic-only).
+* Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by either {{ site.data.raid.aberrus.rushing_darkness }} or {{ site.data.raid.aberrus.volcanic_heart }}.
 
 </div>
 </div>
@@ -413,10 +405,40 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="scalecommander_sarkareth-collapse" class="collapse" aria-labelledby="scalecommander_sarkareth" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-Soon TM
+## Boss Fight Profile: Single Target / AoE
 
+#### Talents:
+
+#### Fire:
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpIJtkAJtINKBNJJBAAAAAgSASJJkmASLJplSACJBI?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
+
+#### Lightning:
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkQaCItkkWIgQIBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
 </div>
+
+<hr>
+
+## Fight Breakdown
+
+#### Damage:
+* Use {{ site.data.talent.sk }} to burst down {{ site.data.raid.aberrus.null_glimmer }}.
+* Focus down {{ site.data.raid.aberrus.empty_recollection }} whenever they are active (Mythic-only).
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.scorching_bomb }} and {{ site.data.raid.aberrus.drifting_embers }}.
+
+#### Defensives:
+* Use {{ site.data.talent.as }} or healing consumables for whenever you accumulate high stacks of {{ site.data.raid.aberrus.oblivion }} but especially during overlaps of {{ site.data.raid.aberrus.echoing_howl }} and {{ site.data.raid.aberrus.glittering_surge }}.
+* If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.healing_surge }} if necessary.
+
+#### Utilities:
+* Use {{ site.data.talent.capacitor_totem }} and {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.aberrus.blasting_scream }} from {{ site.data.raid.aberrus.null_glimmer }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.aberrus.cosmic_volley }} from {{ site.data.raid.aberrus.empty_recollection }} (Mythic-only).
+* Use {{ site.data.talent.wrt }} to help players collect {{ site.data.raid.aberrus.astral_flare }} and {{ site.data.raid.aberrus.mind_fragment }} during {{ site.data.raid.aberrus.emptiness_between_stars }}.
 </div>
 </div>
 </div>
