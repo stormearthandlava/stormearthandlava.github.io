@@ -88,7 +88,7 @@ Back | {{ site.data.gear.voice_of_the_silent_star }} | |
 Chest | {{ site.data.gear.adornments_of_the_cinderwolf }} | {{ site.data.gear.tunic_of_screaming_earth }} | {{ site.data.gear.tunic_of_screaming_earth }}
 Wrist | {{ site.data.gear.obsidian_hardened_wraps }} | {{ site.data.gear.adaptive_dracothyst_armguards }} | {{ site.data.gear.shadowflame_wrist }}
 Hands | {{ site.data.gear.scale_rein_grips }} | {{ site.data.gear.knuckles_of_the_cinderwolf }} | {{ site.data.gear.knuckles_of_the_cinderwolf }}
-Waist | {{ site.data.gear.wind_spirits_lasso }} | {{ site.data.gear.swollen_bark_clasp }} | {{ site.data.gear.shadowflame_waist }}
+Waist | {{ site.data.gear.wind_spirits_lasso }} | {{ site.data.gear.shadowflame_waist }} | {{ site.data.gear.shadowflame_waist }}
 Legs | {{ site.data.gear.braies_of_the_cinderwolf }} | |
 Feet | {{ site.data.gear.crechebound_soldiers_boots }} | |
 Finger 1 | {{ site.data.gear.onyx_impostors_birthright }} | |
