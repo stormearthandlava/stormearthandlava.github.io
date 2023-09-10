@@ -23,7 +23,7 @@ While applying {{ site.data.spell.fs }} is a good feature to have, adding the da
 
 Furthermore this effect grants all three {{ site.data.talent.eb }} buffs. These present a sizeable chunk of stats.
 
-The additional {{ site.data.talent.eb }} is cast for free. And there a multiple talent that are triggered by casting {{ site.data.talent.eb }}.
+The additional {{ site.data.talent.eb }} is cast for free. And there exist multiple talents triggered by casting {{ site.data.talent.eb }}.
 Here is a table of them and whether they are triggered by the 2p effect.
 
 Talent | 2p can trigger it
@@ -36,15 +36,15 @@ Talent | 2p can trigger it
 
 ## 4p
 This bonus is a neat idea. It suggests to weave our different spell schools.
-The benefit would be Lightning casts similarly empowered like with a weak {{ site.data.talent.sk }}.
+The benefit would be Lightning cast similarly empowered like with a weak {{ site.data.talent.sk }}.
 Well, except the damage amplification is a lot lower in single target and no Overloads are forced.
 
 At the time of writing it's unclear if the 4p is intended to stack and get consumed with an active {{ site.data.talent.sk }} or not.
-The later could mean we'll sit on these effects until all of them are consumed and very likely waste/overwrite stacks of the tier set.
+The latter could mean we'll sit on these effects until all of them are consumed and very likely waste/overwrite stacks of the tier set.
 The former would make {{ site.data.spell.lb }} hit even harder, providing yet another multiplier on top of the already existing stack of the current Lightning Build.
 
 Sadly this bonus is currently very weak overall.
-Just as a reminder, thanks to {{ site.data.talent.unrelenting_calamity }} Ligtning casts change only from 1.75s casttime to a 1.5s casttime with the 4p.
+Just as a reminder, thanks to {{ site.data.talent.unrelenting_calamity }} Lightning cast change only from 1.75s casttime to a 1.5s casttime with the 4p.
 Having more instants is always a great thing for movement, though.
 
 ## Synergies / Builds
@@ -67,7 +67,7 @@ The problem? It looks like these builds are going to be the strongest by far. Wi
 The 2p {{ site.data.talent.eb }} starts to fly at our target once the {{ site.data.talent.primordial_wave }} bullet hits.
 This delay is noticeable and slightly disconnecting.
 
-The 2p stat buff durations are overwritten by follow-up {{ site.data.talent.eb }} casts or the Overload of the initial effect.
+The 2p stat buff durations are overwritten by follow-up {{ site.data.talent.eb }} cast or the Overload of the initial effect.
 Which means their uptime can accidentally get reduced.
 
 The 4p effect can easily get overwritten by itself. Introducing stacks to the buff could help a lot.
