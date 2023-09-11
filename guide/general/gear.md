@@ -49,25 +49,40 @@ There are 3 embellishments effect that stand out for Elemental Shamans during Se
 
 #### Other options:
 - {{ site.data.gear.elemental_lariat }} is still a decent choice despite the recent nerfs, but performs overall worse than the one listed above. Since 10.1, the effect duration depends on the number of Elemental Gems you are using. {{ site.data.gear.elemental_lariat }} becomes a reasonable consideration if you have 5 or more Elemental Gems in your gear.
-- {{ site.data.gear.acidic_hailstone_treads }} is the single best Embellishment, but getting slowed by 10% at all time is just horrible. I wouldn't recommend it under any circumstances, but the option is there. Be sure to know what you are doing.
+- {{ site.data.gear.acidic_hailstone_treads }} is the best single target Embellishment, but getting slowed by 10% at all time is just horrible. I wouldn't recommend it under any circumstances, but the option is there. Be sure to know what you are doing.
+- {{ site.data.gear.toxified_armor_patch }} further enhances {{ site.data.gear.acidic_hailstone_treads }}, but losing 10% additional movement speed. This is
+- {{ site.data.gear.undulating_sporecloak }} is the defensive embellishments that you should use in hard content. It is almost mandatory in higher key levels and is very recommended during Raid Progress.
 
 ## Possible Combinations
 
-#### Horizon Stride Set
+#### Versatile Cleave/AoE: Horizon Stride Set
 This is a versatile combinations, slightly oriented toward Cleave and AoE. This is my personal recommendation as Haste feels good to play.
 - {{ site.data.gear.wind_spirits_lasso }}
 - {{ site.data.gear.scale_rein_grips }}
 
-#### Dracothyst Armguards and one Shadowpatch
+#### Versatile Single Target: Dracothyst Armguards and Shadowflame Patch
 This is a versatile combinations, slightly oriented toward Single Target.
 - {{ site.data.gear.shadowflame_tempered_armor_patch }}
 - {{ site.data.gear.adaptive_dracothyst_armguards }}
 
-#### Pure ST, Double Shadowpatch
-This is just as much ST as possible, losing decent Cleave and AoE potential.
+#### Safe Single Target: Double Shadowflame Patch
+This is the "safest" Single target combination.
 - {{ site.data.gear.shadowflame_tempered_armor_patch }}
 - {{ site.data.gear.shadowflame_tempered_armor_patch }}
 
+#### Pushing and progress: Undulating Sporecloak and a second choice
+Undulating Sporecloak is a life-saver on many pulls and hard keys. This should be your safest combo in hard content. It can almost any other embellishments with similar results.
+- {{ site.data.gear.undulating_sporecloak }}
+- Second choices:
+  - {{ site.data.gear.elemental_lariat }} is very good if you have 8 sockets,
+  - {{ site.data.gear.shadowflame_tempered_armor_patch }} is slightly ST oriented,
+  - {{ site.data.gear.adaptive_dracothyst_armguards }} is slightly AoE oriented,
+  - {{ site.data.gear.acidic_hailstone_treads }} is overall more damage but costs 10% speed which can be costly in pushing/progress.
+
+#### Dangerous Single Target
+You will be permanently slowed by 20% when using this set but this is the best ST damage possible. Be ready to face the consequences.
+- {{ site.data.gear.acidic_hailstone_treads }}
+- {{ site.data.gear.toxified_armor_patch }}
 
 <hr>
 
@@ -88,7 +103,7 @@ Back | {{ site.data.gear.voice_of_the_silent_star }} | |
 Chest | {{ site.data.gear.adornments_of_the_cinderwolf }} | {{ site.data.gear.tunic_of_screaming_earth }} | {{ site.data.gear.tunic_of_screaming_earth }}
 Wrist | {{ site.data.gear.obsidian_hardened_wraps }} | {{ site.data.gear.adaptive_dracothyst_armguards }} | {{ site.data.gear.shadowflame_wrist }}
 Hands | {{ site.data.gear.scale_rein_grips }} | {{ site.data.gear.knuckles_of_the_cinderwolf }} | {{ site.data.gear.knuckles_of_the_cinderwolf }}
-Waist | {{ site.data.gear.wind_spirits_lasso }} | {{ site.data.gear.swollen_bark_clasp }} | {{ site.data.gear.shadowflame_waist }}
+Waist | {{ site.data.gear.wind_spirits_lasso }} | {{ site.data.gear.shadowflame_waist }} | {{ site.data.gear.shadowflame_waist }}
 Legs | {{ site.data.gear.braies_of_the_cinderwolf }} | |
 Feet | {{ site.data.gear.crechebound_soldiers_boots }} | |
 Finger 1 | {{ site.data.gear.onyx_impostors_birthright }} | |
