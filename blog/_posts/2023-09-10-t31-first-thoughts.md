@@ -8,6 +8,10 @@ author: Bloodmallet
 toc: true
 ---
 
+Find this blogpost also on the official forums:
+- US: [Elemental Shaman T31 Feedback](https://us.forums.blizzard.com/en/wow/t/elemental-shaman-t31-feedback/1668430)
+- EU: [Elemental Shaman T31 Feedback](https://eu.forums.blizzard.com/en/wow/t/elemental-shaman-t31-feedback/466702)
+
 ## T31 effects
 > (2) Set Bonus: {{ site.data.talent.primordial_wave }} also casts an {{ site.data.talent.eb }} at the target at 100% effectiveness, and grants you all three {{ site.data.talent.eb }} bonus effects for 15.0 seconds.
 
@@ -56,7 +60,7 @@ This value is driven by the free {{ site.data.spell.lvb }}s and {{ site.data.spe
 while {{ site.data.talent.pw }} also refreshes {{ site.data.spell.fs }} between {{ site.data.talent.dre }} procs and also extends {{ site.data.talent.asc }} thanks to {{ site.data.talent.fb }}.
 
 This might sounds cool, but it deteriorates the gameplay loop to pure spam-casting {{ site.data.spell.lvb }} into {{ site.data.talent.eb }} with the occasional (once every ~30s) {{ site.data.talent.pw }}.
-Any talent points invested in e.g. Ligthning or {{ site.data.talent.icefury }} are wasted while {{ site.data.talent.asc }} is active.
+Any talent points invested in e.g. Lightning or {{ site.data.talent.icefury }} are wasted while {{ site.data.talent.asc }} is active.
 
 And in case the above didn't hint at it yet: the 4p bonus is absolutely useless while in {{ site.data.talent.asc }}. Making this build essentially play with only one tier bonus.
 
