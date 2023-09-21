@@ -16,10 +16,19 @@ Also, as a fairly new Elemental Shaman who only picked up the spec in Saison 4 o
 The goal of this post is by no mean to give solutions but rather to point out the different pain points that you currently encounter while playing Elemental Shaman.
 
 ## Storm Elemental and Fire Elemental
+- Storm Elemental and Fire Elemental are the primary offensive CD. They are the equivalent of Retribution's Avenging Wrath, Demonology's Summon Tyrant or Balance's Eclipse.
+- Yet their power are massively underwhelming. At the moment, they are a button you press every 2 minutes and a half that almost do not interact with our gameplay and rotation, and passively deal 5% of our damage.
+- Actually, fire Elemental has the real good upside of doubling FS duration, making it possible for us to focus on CL and EQ, instead of permanently refreshing FS. But in my opinion, the only reason Fire Ele feels good, is because FS usually feels bad and is better during this CD.
 
 ## Raid Utility
 - Wind rush is weaker than Roar
--
+- Shaman doesn't bring a raid buff
+- AG which was the only "raid CD" was recently nerfed
+- This leaves ele with nothing noteworthy compared to its cousin enh with WFT and resto with SLT.
+- Why do you have an ele in your raid?
+  - Because the person playing it is an ele enjoyer
+  - Because it does the most damage
+- You've never gone out of your way since Crucible of Storms to get an ele into the raid.
 
 ## Dungeon utility
 - Chain Heal with Maelstrom Weapon
