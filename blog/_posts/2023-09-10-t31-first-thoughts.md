@@ -8,6 +8,8 @@ author: Bloodmallet
 toc: true
 ---
 
+# THE 4P IN THIS ARTICLE IS OUTDATED AND DOESN'T REFLECT WHAT'S CURRENTLY ON THE PTR
+
 Find this blogpost also on the official forums:
 - US: [Elemental Shaman T31 Feedback](https://us.forums.blizzard.com/en/wow/t/elemental-shaman-t31-feedback/1668430)
 - EU: [Elemental Shaman T31 Feedback](https://eu.forums.blizzard.com/en/wow/t/elemental-shaman-t31-feedback/466702)
