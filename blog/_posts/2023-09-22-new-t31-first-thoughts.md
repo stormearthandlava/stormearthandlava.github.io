@@ -3,7 +3,7 @@ layout: post
 title: T31 redesign first thoughts
 #            dd/mm/yyyy
 last_update: 22/09/2023
-excerpt: What does the redesign mean T31 affect us?
+excerpt: How is the new 4p looking?
 author: Elivrio
 toc: true
 ---
@@ -18,6 +18,7 @@ This post will have some overlapping sections with the [previous T31 post](https
 First things first. Without being talented into {{ site.data.talent.primordial_wave }} these bonuses do nothing.
 Which means, we're forced into taking this talent for the next tier.
 
+<hr>
 
 ## 2p
 The additional damage from {{ site.data.talent.eb }} on {{ site.data.talent.primordial_wave }} is a great way to improve the immediate value and feel of the talent.
@@ -36,10 +37,11 @@ Talent | 2p can trigger it
 {{ site.data.talent.fb }} | ✅ yes
 {{ site.data.talent.wlr }} | ✅ yes
 
-## Redesigned 4p
+<hr>
+
+## The new 4p
 
 The redesigned 4p kind of keeps the idea of weaving different spell schools but weirdly doesn't include {{ site.data.spell.lb }}.
-
 
 At the moment, using {{ site.data.spell.cl }} in Single Target makes it so your next {{ site.data.spell.lvb }} will echo on your main target, which doesn't seem to be the goal, at least from the wording of the tier.
 We'll have to wait and see if that's what they want us to do, because we might be using {{ site.data.spell.cl }} in Single Target during the 4p duration in that case. (*emphasis on might, this is highly unlikely*)
@@ -51,6 +53,8 @@ In AoE, the 4p seems strong enough to warrant overcapping resources, simply alte
 It is also worth mentioning that the 4p works with {{ site.data.spell.lvbm }} during {{ site.data.talent.asc }}.
 
 This bonus seems both very strong and riddled with design issues, but we'll see how it turns out.
+
+<hr>
 
 ## Further Beyond in Single Target
 Currently, {{ site.data.talent.fb }} is still a huge issue in Single Target build. For those that didn't follow, here is why:
@@ -68,6 +72,8 @@ With the redesign, this build is further pushed to the front scene since {{ site
 
 The problem? It looks like these builds are going to be the strongest by far. With a similar distinction in power as current Lightning versus everything else.
 
+<hr>
+
 ## Overcapping and skipping Spenders in AoE
 
 With the current tuning of our spenders, it's currently a damage loss to use {{ site.data.spell.eq }} in AoE.
@@ -77,6 +83,8 @@ Overcapping allows us to only use {{ site.data.talent.pw }}, {{ site.data.spell.
 However this has been historically very disliked by Blizzard so we don't expect it to stay.
 
 
+<hr>
+
 ## Issues
 - The 2p {{ site.data.talent.eb }} starts to fly at our target once the {{ site.data.talent.primordial_wave }} bullet hits. This delay is noticeable and slightly disconnecting.
 
@@ -85,6 +93,8 @@ However this has been historically very disliked by Blizzard so we don't expect 
 - During the 4p duration, {{ site.data.spell.cl }} acts a {{ site.data.talent.primordial_wave }} and overrides/refreshes your {{ site.data.talent.splinter }} stacks. Let's say you have 6 {{ site.data.spell.fs }} active, and you use {{ site.data.talent.primordial_wave }} > {{ site.data.spell.lvb }} > {{ site.data.spell.cl }} > {{ site.data.spell.lvb }}.
     - The first {{ site.data.spell.lvb }} will activate {{ site.data.talent.primordial_wave }} on 6 targets and you will gain 60% haste from {{ site.data.talent.splinter }}.
     - The second {{ site.data.spell.lvb }} will activate the 4p thanks to {{ site.data.spell.cl }} being cast, casting {{ site.data.spell.lvb }} on 3 targets, giving you 30% haste from {{ site.data.talent.splinter }} and overriding your current 60% buff.  
+
+<br>
 
 - In case the permanent {{ site.data.talent.asc }} stays, we'll get tuned around being in it at all times.
 But mechanics will force us out of it, and while we wait for the next proc, we'll quickly fall off the expected target dps.
@@ -98,7 +108,10 @@ Lightning on the other hand isn't facing this issue at all, because all Lightnin
 This might be somewhat lessened since the 4p changes, since we will now "cleave" by combining {{ site.data.spell.cl }} and {{ site.data.spell.lvb }}
 
 
+<hr>
+
 ## Conclusion
+
 This new 4p definetely brings the heat to 10.2, but further deeps into the glaring issues of the spec.
 Infinite {{ site.data.talent.asc }} needs to get removed and spenders shouldn't be skipped. It deteriorates the gameplay and invalidates many talents.
 This way I hope multiple different flavors of weaving talent combinations will emerge.
