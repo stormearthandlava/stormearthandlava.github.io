@@ -8,6 +8,8 @@ author: Bloodmallet
 toc: true
 ---
 
+# THE 4P IN THIS ARTICLE IS OUTDATED AND DOESN'T REFLECT WHAT'S CURRENTLY ON THE PTR
+
 Find this blogpost also on the official forums:
 - US: [Elemental Shaman T31 Feedback](https://us.forums.blizzard.com/en/wow/t/elemental-shaman-t31-feedback/1668430)
 - EU: [Elemental Shaman T31 Feedback](https://eu.forums.blizzard.com/en/wow/t/elemental-shaman-t31-feedback/466702)
@@ -87,7 +89,7 @@ But mechanics will force us out of it, and while we wait for the next proc, we'l
 I imagine this to be a balancing nightmare, so I hope this won't go live as is.
 
 As a broad scale issue, returning to a Fire build means we'll once again have to chose between single target damage and AoE damage.
-This is due to the way the Fire focused talents are setup and their effects. 
+This is due to the way the Fire focused talents are setup and their effects.
 Lightning on the other hand isn't facing this issue at all, because all Lightning talents combine single target and AoE.
 
 
