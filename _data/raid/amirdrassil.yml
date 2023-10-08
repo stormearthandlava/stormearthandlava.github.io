@@ -1,0 +1,89 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Gnarlroot
+tainted_lasher: <a href="https://www.wowhead.com/ptr-2/npc=210231/tainted-lasher" target="blank">Tainted Lasher</a>
+tainted_treant: <a href="https://www.wowhead.com/ptr-2/npc=211904/tainted-treant" target="blank">Tainted Treant</a>
+controlled_burn: <a href="https://www.wowhead.com/ptr-2/spell=421971/controlled-burn" target="blank">Controlled Burn</a>
+potent_fertilization: <a href="https://www.wowhead.com/ptr-2/spell=421013/potent-fertilization" target="blank">Potent Fertilization</a>
+splintering_charcoal: <a href="https://www.wowhead.com/ptr-2/spell=421350/splintering-charcoal" target="blank">Splintering Charcoal</a>
+uprooted_agony: <a href="https://www.wowhead.com/ptr-2/spell=421840/uprooted-agony" target="blank">Uprooted Agony</a>
+shadowflame_cleave: <a href="https://www.wowhead.com/ptr-2/spell=422039/shadowflame-cleave" target="blank">Shadowflame Cleave</a>
+ember-charred: <a href="https://www.wowhead.com/ptr-2/spell=425002/ember-charred" target="blank">Ember-Charred</a>
+doom_roots: <a href="https://www.wowhead.com/ptr-2/spell=425648/doom-roots" target="blank">Doom Roots</a>
+
+# Igira the Cruel
+blistering_spear: <a href="https://www.wowhead.com/ptr-2/spell=414425/blistering-spear" target="blank">Blistering Spear</a>
+piercing_torment: <a href="https://www.wowhead.com/ptr-2/spell=414777/piercing-torment" target="blank">Piercing Torment</a>
+heart_stopper: <a href="https://www.wowhead.com/ptr-2/spell=415624/heart-stopper" target="blank">Heart Stopper</a>
+gathering_torment: <a href="https://www.wowhead.com/ptr-2/spell=414367/gathering-torment" target="blank">Gathering Torment</a>
+searing_sparks: <a href="https://www.wowhead.com/ptr-2/spell=423715/searing-sparks" target="blank">Searing Sparks</a>
+marked_for_torment: <a href="https://www.wowhead.com/ptr-2/spell=422776/marked-for-torment" target="blank">Marked for Torment</a>
+
+# Volcoross
+serpents_fury: <a href="https://www.wowhead.com/ptr-2/spell=421671/serpents-fury" target="blank">Serpent's Fury</a>
+coiling_flames: <a href="https://www.wowhead.com/ptr-2/spell=421228/coiling-flames" target="blank">Coiling Flames</a>
+flood_of_the_firelands: <a href="https://www.wowhead.com/ptr-2/spell=420929/flood-of-the-firelands" target="blank">Flood of the Firelands</a>
+scorchtail_crash: <a href="https://www.wowhead.com/ptr-2/spell=420421/scorchtail-crash" target="blank">Scorchtail Crash</a>
+tidal_blaze: <a href="https://www.wowhead.com/ptr-2/spell=423494/tidal-blaze" target="blank">Tidal Blaze</a>
+
+# Council of Dreams
+polymorph_bomb: <a href="https://www.wowhead.com/ptr-2/spell=418720/polymorph-bomb" target="blank">Polymorph Bomb</a>
+barreling_charge: <a href="https://www.wowhead.com/ptr-2/spell=422052/barreling-charge" target="blank">Barreling Charge</a>
+poisonous_javelin: <a href="https://www.wowhead.com/ptr-2/spell=420859/poisonous-javelin" target="blank">Poisonous Javelin</a>
+emerald_winds: <a href="https://www.wowhead.com/ptr-2/spell=421024/emerald-winds" target="blank">Emerald Winds</a>
+unstable_venom: <a href="https://www.wowhead.com/ptr-2/spell=423522/unstable-venom" target="blank">Unstable Venom</a>
+rebirth: <a href="https://www.wowhead.com/ptr-2/spell=418187/rebirth" target="blank">Rebirth</a>
+noxious_blossom: <a href="https://www.wowhead.com/ptr-2/spell=420671/noxious-blossom" target="blank">Noxious Blossom</a>
+
+# Larodar, Keeper of the Flame
+fiery_treant: <a href="https://www.wowhead.com/ptr-2/npc=208459/fiery-treant" target="blank">Fiery Treant</a>
+fiery_flourish: <a href="https://www.wowhead.com/ptr-2/spell=426524/fiery-flourish" target="blank">Fiery Flourish</a>
+dream_blossom: <a href="https://www.wowhead.com/ptr-2/spell=425468/dream-blossom" target="blank">Dream Blossom</a>
+scorching_bramblethorn: <a href="https://www.wowhead.com/ptr-2/spell=426387/scorching-bramblethorn" target="blank">Scorching Bramblethorn</a>
+scorching_roots: <a href="https://www.wowhead.com/ptr-2/npc=208461/scorching-roots" target="blank">Scorching Roots</a>
+raging_inferno: <a href="https://www.wowhead.com/ptr-2/spell=417634/raging-inferno" target="blank">Raging Inferno</a>
+ashen_devastation: <a href="https://www.wowhead.com/ptr-2/spell=428896/ashen-devastation" target="blank">Ashen Devastation</a>
+flash_fire: <a href="https://www.wowhead.com/ptr-2/spell=421326/flash-fire" target="blank">Flash Fire</a>
+ashen_treant: <a href="https://www.wowhead.com/ptr-2/npc=210512/ashen-treant" target="blank">Ashen Treant</a>
+burning_ground: <a href="https://www.wowhead.com/ptr-2/spell=417610/burning-ground" target="blank">Burning Ground</a>
+
+# Nymue, Weaver of the Cycle
+threads_of_life: <a href="https://www.wowhead.com/ptr-2/spell=418490/threads-of-life" target="blank">Threads of Life</a>
+continuum: <a href="https://www.wowhead.com/ptr-2/spell=420846/continuum" target="blank">Continuum</a>
+viridian_rain: <a href="https://www.wowhead.com/ptr-2/spell=420911/viridian-rain" target="blank">Viridian Rain</a>
+cycle_warden: <a href="https://www.wowhead.com/ptr-2/npc=209800/cycle-warden" target="blank">Cycle Warden</a>
+nature_volley: <a href="https://www.wowhead.com/ptr-2/spell=426854/nature-volley" target="blank">Nature Volley</a>
+manifested_dream: <a href="https://www.wowhead.com/ptr-2/npc=213143/manifested-dream" target="blank">Manifested Dream</a>
+lucid_miasma: <a href="https://www.wowhead.com/ptr-2/spell=428012/lucid-miasma" target="blank">Lucid Miasma</a>
+lucid_exhaust: <a href="https://www.wowhead.com/ptr-2/spell=423993/lucid-exhaust" target="blank">Lucid Exhaust</a>
+
+# Smolderon
+world_in_flames: <a href="https://www.wowhead.com/ptr-2/spell=422172/world-in-flames" target="blank">World In Flames</a>
+brand_of_damnation: <a href="https://www.wowhead.com/ptr-2/spell=421450/brand-of-damnation" target="blank">Brand of Damnation</a>
+ignited_essence: <a href="https://www.wowhead.com/ptr-2/spell=421858/ignited-essence" target="blank">Ignited Essence</a>
+flame_waves:  <a href="https://www.wowhead.com/ptr-2/spell=421961/flame-waves" target="blank">Flame Waves</a>
+cauterizing_wound:  <a href="https://www.wowhead.com/ptr-2/spell=421656/cauterizing-wound" target="blank">Cauterizing Wound</a>
+seeking_inferno:  <a href="https://www.wowhead.com/ptr-2/spell=426018/seeking-inferno" target="blank">Seeking Inferno</a>
+
+# Tindral Sageswift, Seer of the Flame
+mass_entanglement: <a href="https://www.wowhead.com/ptr-2/spell=424495/mass-entanglement" target="blank">Mass Entanglement</a>
+fiery_vines: <a href="https://www.wowhead.com/ptr-2/npc=211306/fiery-vines" target="blank">Fiery Vines</a>
+scorched_treant: <a href="PLACEHOLDER" target="blank">Scorched Treant</a>
+fiery_growth: <a href="https://www.wowhead.com/ptr-2/spell=424581/fiery-growth" target="blank">Fiery Growth</a>
+fire_beam: <a href="https://www.wowhead.com/ptr-2/spell=421398/fire-beam" target="blank">Fire Beam</a>
+supernova: <a href="https://www.wowhead.com/ptr-2/spell=424140/supernova" target="blank">Supernova</a>
+astral_heat: <a href="https://www.wowhead.com/ptr-2/spell=429166/astral-heat" target="blank">Astral Heat</a>
+
+# Fyrakk the Blazing
