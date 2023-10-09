@@ -6,44 +6,99 @@ last_update: 13/09/2023
 excerpt: The state of Elemental Shaman
 # author: Bloodmallet(EU)
 toc: true
+big_article: true
 ---
 
-Hello Shaman Community,
+Hello Shamans,
 
-As a recent addition the Earthshrine MVP and Mod team, I always wanted to create some sort of Open Letter that would summarize my different takes on the spec.
-Also, as a fairly new Elemental Shaman who only picked up the spec in Saison 4 of Shadowlands, I might see thing somewhat differently from my peers.
+As a recent addition to the Earthshrine MVP and Mod team, I always wanted to create some sort of Open Letter that would summarize my different takes on the spec.
+Also, as a fairly new Elemental Shaman who only picked up the spec in Season 4 of Shadowlands, I might see thing somewhat differently from my peers.
 
 The goal of this post is by no mean to give solutions but rather to point out the different pain points that you currently encounter while playing Elemental Shaman.
+
+<hr>
 
 ## Talent tree construction
 
 ### Class Tree
 
-I will talk more in depth about Shaman's utility and its class tree later in this later. I just wanted to point out that I **love** the class tree of Shamans, and mostly the fact that it has almost no damage tied to it. It gives Shamans a huge flexibility in how they can spend their points in the class tree which I find truly enjoyable. If you look at most Class tree, you notice that the points below the third gate are heavily tied to DPS or to Major defensive CDs. This removes most of their choices sadly. Once you arrive at 20 points in the class tree, the remaining 11 are more often not locked by what your sim tells you and you lose the Class Tree's essence.
+I will talk more in depth about Shaman's utility and its class tree later in this letter. I just wanted to point out that I **love** the class tree of Shamans. Mostly because it has almost no damage tied in it. It gives Shamans a huge flexibility in how they can spend their Class tree's points which I find truly enjoyable. If you look at most other Class tree, you notice that the points below the third gate are heavily tied to DPS or to Major defensive CDs. This removes most of their choices sadly. Once you arrive at 20 points in the class tree, the remaining 11 are more often than not locked by what your sim tells you and you lose the Class Tree's essence.
 
 Whatever happens to Shaman in the future, please, don't bring player power into the Class tree.
 
 <hr>
 
-### Spec Tree
+### Elemental Spec Tree, Pathing and Limitaions
 
 With the small side note about the class tree out of the way, let's talk about the Elemental Spec Tree.
 
-### Fire and lighning cannot coexist
+<img src="/assets/img/blog/Spec_Tree_Fire_Vs_Lightning.png" alt="Lightning vs Fire in the Spec Tree" class="center">
 
-### Most of the stuff we want is in the later third, the middle is either a drag or non-accessible
-- 23 possible points below the 3rd gate, 25
+In this image, we can see in blue the talents that are really strong for lightning builds and in red the talents for fire builds. What's immediately apparent is the separation between the two. Left side is Lightning, Right Side is Fire. This makes Hybrid build hard to create since you are going in opposite directions and can hardly move between the "columns" as I like to call them .
+
+The Major issue comes from the top section that doesn't easily allow us to move around in the second part of the tree. Since the third row of the tree is mostly Utility based, it "forces" us to choose two paths out of three and stick with them all the way down to the third gate, essentially creating 3 "columns" in the spec Tree. The flexibility dies early and it's hard to grab everything you need for your builds to function properly.
+
+<img src="/assets/img/blog/Spec_Tree_Fire_Vs_Lightning_Columns.png" alt="The Columns" class="center">
+
+It's now worth mentioning that above the 20 points gate, there are 28 available nodes. Meaning you can get almost all the things in the columns you choose to engage into, including stuff you often don't really want. As an example, during S1, Fire builds talented into {{ site.data.talent.if }} and {{ site.data.talent.flux_melting }} only for pathing and the goal of that build was to never use them. This creates a frustration because we cannot access stuff we want without wasting points on utility or minor damage gain.
+
+This frustration is further amplified by the power of the later third of the tree. Our Capstone Section of the tree contains most of the things we want but doesn't allow us to get most of it. With the second to Last Row containing all two pointer nodes, you can only pick 10 out of the 23 possible nodes, with 14 of them being average value two pointers. There's almost as many points below the second gate as above it, with half as much points to spend in it.
+
+Being forced into Fire or Lightning Builds wouldn't be a major issue if they didn't have their own problems. Sadly, they do have their own problems.
 
 <hr>
 
 ## The Woes of Fire
+
+### The Power Creeping of Lava Burst
+
+Let start with biggest of them all. We have too many {{ site.data.talent.lvb }}s, turning the button into a mindless spam.
+
+Right now, there are 3 ways to get {{ site.data.talent.lvs }}s from the spec tree:
+- {{ site.data.talent.lvs }} (obviously), giving you random proc on {{ site.data.spell.fs }}'s ticks,
+- {{ site.data.talent.wlr }}, giving you a proc after each spender you use,
+- {{ site.data.talent.ps }}, giving you a proc every 3 seconds for 12 seconds after using {{ site.data.talent.pw }}.
+
+On their own, they don't give an absurd amount of {{ site.data.spell.lvb }}s. The current 10.1 Lightning Build uses {{ site.data.talent.wlr }} as an enabler and has on average 8.3 casts per minute in Single Target.
+
+However, as soon as you combine two of them and factor in {{ site.data.talent.rolling_magma }}, you become a {{ site.data.spell.lvb }} Turret. You want to only cast {{ site.data.spell.lvb }} to reduce {{ site.data.talent.pw }} and get more {{ site.data.talent.lvs }} from {{ site.data.talent.ps }}. Casting anything else becomes
+
+But it's not over! We can now add {{ site.data.talent.dre }} into this whole mess! Being able to proc {{ site.data.talent.ascendance }} means the priority of casting {{ site.data.spell.lvb }} goes even further beyond, and you now want to be pressing it almost all the time if it doesn't make you waste resources. Being able to proc {{ site.data.talent.asc }} also helps cover "drought" period where you are low on {{ site.data.talent.lvs }} procs, so you can cast {{ site.data.spell.lvb }} a bit more. The 10.1 change to {{ site.data.talent.dre }} giving it an ever increasing chance to proc further incentivise us to almost always be casting {{ site.data.spell.lvb }}.
+
+Now remember when I said *"if it doesn't make you waste resources"*? What if I told you the power creeping of {{ site.data.spell.lvb }} wasn't over, and that might influence that previous statement. With the newly added 4p, we gain more free {{ site.data.spell.lvb }} after {{ site.data.talent.pw }} and {{ site.data.spell.t31_4 }} further increases the possible damage of {{ site.data.spell.lvb }} thanks to the added burn.
+
+So yeah. With the T31 2P casting and refreshing {{ site.data.talent.eb }}'s stat buff for us, we don't really need to spend anymore. {{ site.data.spell.lvb }} is the only thing you want to press outside of {{ site.data.talent.pw }}, {{ site.data.talent.fe }} and {{ site.data.spell.fs }}. You only spend when {{ site.data.spell.lvb }} isn't available. Side note but {{ site.data.talent.fe }} has lower priority than {{ site.data.spell.lvb }} in that build. You also pick {{ site.data.talent.sk }} and {{ site.data.talent.sop }} mostly for pathing and only use {{ site.data.spell.lb }} with both buffs actives if you get bad {{ site.data.talent.lvs }} and {{ site.data.talent.dre }} RNG.
+
+With the multiple way to get {{ site.data.spell.lvb }} feeding off of each other, it's no wonder that we end up with 40 manual Cast Per Minute of {{ site.data.spell.lvb }} and over 100 Cast per Minute if you count overloads, free casts from {{ site.data.talent.asc }}, and duplication both from {{ site.data.talent.pw }} and {{ site.data.spell.t31_4 }}. Over two thirds of our casts are {{ site.data.spell.lvb }} and close to 75% of our damage breakdown is tied to it as well. You waste close to 50% of the maelstrom generated by it and lose 1.5% to 10% damage by spending, depending on the build you're running.
+
+<hr>
+
 ### FS spreading
-- LMT / FS with SoP. That's it.
 
-### Target Cleave
+Enough talk about the Meatballs, let's discuss the other parts of fire build. Let's start with {{ site.data.spell.fs }} and spreading it.
 
-### The low accessibility of ST with AoE in fire builds
-- It's impossible to talent both ST and AoE as fire when PSurge/SpE are a choice node and SFD is so down to the side
+Having a high count of {{ site.data.spell.fs }} active gives us more {{ site.data.talent.lvs }} procs, more stats from {{ site.data.talent.splinter }} and more damage overall thanks to {{ site.data.talent.fe }}, {{ site.data.talent.sfd }} and {{ site.data.talent.flames_of_the_cauldron }}.
+
+In AoE situations, you want to get to 6 active {{ site.data.spell.fs }} as quickly as possible. To do that, you have three methods:
+- Use {{ site.data.spell.fs }},
+- Use {{ site.data.talent.pw }},
+- Use {{ site.data.talent.lmt }}.
+
+It's worth to note that all of these methods will benefit from {{ site.data.talent.sop }} and generate another {{ site.data.spell.fs }} smartly on hit. The problem lies in the Cooldown of those buttons. Even with {{ site.data.talent.flames_of_the_cauldron }}, {{ site.data.spell.fs }} has a 4.5s cd, preventing us from spreading it quickly. {{ site.data.talent.lmt }} has 1 minute cd and might not be ready from pack to pack in m+ or you will need to save it for an add wave on a boss. Lastly, {{ site.data.talent.pw }} is a false ally to spread {{ site.data.spell.fs }}. Since you want to benefit from {{ site.data.talent.splinter }} with as many stacks as possible, you want to cast it at the end of your spreading when you can ensure you will have 6 {{ site.data.spell.fs }} out before using {{ site.data.spell.lvb }}.
+
+All of those sound like minor setbacks but they accumulate in a non negligible fashion, especially when Enhancement can easily and instantly spread {{ site.data.spell.fs }} thanks to [Molten Assault](https://www.wowhead.com/spell=334033/molten-assault?def=106863&rank=2). It just begs the question "why not us?". It's even more hard to swallow when we know we used to have a similar tool with [Path of Flame](https://www.wowhead.com/spell=201909).
+
+<hr>
+
+### Single Target in AoE and AoE in Single Target
+
+Let's now talk about the versatility of Fire build and their possibilities to do AoE while talented into ST and vice versa. Even if the this problem was decently fixed with the recent changes and the new tier set, it still exists.
+
+The problem mostly came from the {{ site.data.talent.splinter }} and {{ site.data.talent.ps }} choice node. {{ site.data.talent.splinter }} gave up to 60% haste in AoE, down to 10% in AoE. On the flip side, {{ site.data.talent.ps }} only gives a few {{ site.data.talent.lvs }} which is almost entirely useless in AoE. In a similar fashion, the {{ site.data.talent.wlr }} and {{ site.data.talent.sfd }} choice node was typical AoE vs ST node.
+
+Both of those actually really improve their respective damage profile and having to choose between them, without any sort of compensation in the other profile was pretty damning.
+
+The reason I'm mostly using past tense here is the newly added tier set and the recent changes to {{ site.data.talent.splinter }}. {{ site.data.talent.splinter }} will now grant more haste in ST (24%) but less in AoE (44%). This is a really good change as it really boosts the ST of the builds using it without harming their AoE too much. In addition, the new 4p and the massive amount of {{ site.data.spell.lvb }} duplicated it will create will generate decent cleave potential, finally giving us some much need 2-5 targets damage. In S1, we used to talent into {{ site.data.talent.if }} just to benefit from its cleave.
 
 <hr>
 
@@ -54,6 +109,11 @@ With the small side note about the class tree out of the way, let's talk about t
 ### EShocks gameplay
 
 ### buffs that imply button that imply buff that imply button.
+Bug that sometimes makes you EShocks not affect your current target => Change Eshocks into a buff instead, better target scaling and less annoyance to monitor the debuff.
+
+
+
+With Fire and Lightning each having their own design flaws, and the impossibility to really mix the Lightning and Fire builds to complement each other, we just have to pick one and roll with it, as it is.
 
 <hr>
 
