@@ -52,7 +52,7 @@ Being forced into Fire or Lightning Builds wouldn't be a major issue if they did
 
 ### The Power Creeping of Lava Burst
 
-Let start with biggest of them all. We have too many {{ site.data.talent.lvb }}s, turning the button into a mindless spam.
+Let's start with biggest woe of them all. We have too many {{ site.data.talent.lvb }}s, turning the button into a mindless spam.
 
 Right now, there are 3 ways to get {{ site.data.talent.lvs }}s from the spec tree:
 - {{ site.data.talent.lvs }} (obviously), giving you random proc on {{ site.data.spell.fs }}'s ticks,
