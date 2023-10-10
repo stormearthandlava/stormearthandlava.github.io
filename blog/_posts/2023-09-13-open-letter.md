@@ -317,30 +317,29 @@ It's also worth mentioning that giving all Shamans a raid buff and leaving {{ si
 
 <hr>
 
-## Tankyness
+## Defensive CDs
 
-Almost done but not quite, we still have a small section to talk about: Tankyness.
-
-Tankyness is a mix of many things that I would classify as:
+Almost done but not quite! We still have to talk about Shaman's defensiveness. Tankyness is a mix of many things that I would classify as:
 - How many defensive CDs do you have?
 - How tanky are you with your defensive CDs?
 - How tanky are you without your defensive CDs?
 - Do you defensive CDs have a direct impact on your DPS?
 
-Lets answer those questions in order. Shaman has:
+Lets answer those questions in order. Shaman has the following defensive CDs:
 - A major defensive CD, {{ site.data.talent.as }},
 - A very situational defensive with {{ site.data.talent.ee }},
 - A horrendous defensive with {{ site.data.talent.spirit_wolf }},
-- A few sustain defensives with {{ site.data.talent.ng }} and {{ site.data.talent.earth_shield }}.
+- A few sustain options with notably {{ site.data.talent.natures_guardian }} and {{ site.data.talent.earth_shield }}.
 
+Looking at this list, the first thing that comes into view is the single reliable defensive CD. {{ site.data.talent.as }} is really strong and you will almost never die when it's active. Problem is, what do you do once you used it.
 
-Shaman has a very strong defensive CD with {{ site.data.talent.as }}
+In Mythic Sarkareth P1, there are two massive damage events that occur around 0:50 and at 1:35. Not having a defensive for each of them will often result in you dying during progression. As a Shaman, how do you achieve that? If you don't have a priest using {{ site.data.externals.symbol_of_hope }}, you have no way to protect yourself outside of using your 5 min CD {{ site.data.talent.ee }}, turning into {{ site.data.spell.ghost_wolf }} 4 seconds in advance and wait while doing nothing, or ask for an external.
 
-- 1 CD
-- Spirit Wolf is a problem
-- EE is locked behind kick for some reason
-- NG is good but not good
-- ES has charges?
+During Sarkareth progression, P2 didn't have many threats, meaning I ended up using {{ site.data.talent.ee }} during P1 to cover both damage events. But some fight (Echo of Neltharion comes to mind) will have huge damage event every 40s during the whole fight. Shaman does not have enough tools to deal with that. It lacks a second reliable defensive CD.
+
+Without a Defensive CD, Shaman can be decently tanky thanks to {{ site.data.talent.earth_shield }} which really stabilizes us. The only thing I don't understand is why {{ site.data.talent.earth_shield }} has stacks and needs to be re-applied during combat. I would either make it similar to Mage's barrier and make it a 30s buff that you can press when you need it, or a permanent buff on yourself. The charge system is, in my opinion, a relic of the past that hasn't been updated to modern gameplay. It might makes sense for Restoration Shaman to have to monitor their {{ site.data.talent.earth_shield }} but it makes no sense for Elemental to have to do it.
+
+Also I don't know if you picked up on it earlier but I was a bit sarcastic concerning {{ site.data.talent.spirit_wolf }}. While the mobility portion of this talent feels great, the defensive part feels **AWFUL** to play. During S1, high key pushers had to prepare for some damage events by going into {{ site.data.spell.ghost_wolf }} 4 seconds in advance and just... sit there while waiting for the damage event to pass. And it happened multiple times per key too. This is an awful design and the Damage Reduction portion needs to be instant or just ditch it. This talents promotes idle gameplay and I truly hate it. Thankfully, this is mostly a non-issue in Season 2 thanks to Augmentation.
 
 <hr>
 
