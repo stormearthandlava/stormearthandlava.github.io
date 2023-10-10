@@ -52,7 +52,7 @@ Being forced into Fire or Lightning Builds wouldn't be a major issue if they did
 
 ### The Power Creeping of Lava Burst
 
-Let's start with biggest woe of them all. We have too much access to {{ site.data.talent.lvb }}s, turning the button into a mindless spam.
+Let's start with biggest woe of them all. We have too much access to {{ site.data.spell.lvb }}s, turning the button into a mindless spam.
 
 Right now, there are 3 ways to get {{ site.data.talent.lvs }}s:
 - {{ site.data.talent.lvs }} (obviously), giving you random proc on {{ site.data.spell.fs }}'s ticks,
@@ -166,7 +166,9 @@ I'm not going to detail this section too much because Bloodmallet already did an
 
 <hr>
 
-### The underwhelming spenders and their gameplay issues
+## More broad Design issues
+
+### The Underwhelming Spenders
 
 One of the things that became more and more apparent as I wrote the previous sections is how underwhelming {{ site.data.talent.es }}, {{ site.data.spell.eq }} and to a lesser extend {{ site.data.spell.eb }} feel.
 
@@ -181,7 +183,7 @@ Spell | DPET
 {{ site.data.spell.lvb }} | 350
 {{ site.data.spell.lb }} | 193
 
-Of course, DPET is a very bad metric of actual damage contribution. For example, {{ site.data.talent.eb }} also gives a 6% stat buff and since it's more efficient at spending maelstrom than {{ site.data.talent.es}} is, it will also allow you cast different spells in same time period. Still, this table shows that our spenders are almost equal to our generator, all things considered. And we often consider just not pressing them. It is rarely the correct behavior, but it is correct in 10.2 builds currently and to me, that shows a flaw in either their design or their tuning.
+Of course, DPET is a very bad metric of actual damage contribution. For example, {{ site.data.talent.eb }} also gives a 6% stat buff and since it's more efficient at spending maelstrom than {{ site.data.spell.es}} is, it will also allow you to cast more efficiently in the same time frame. Still, this table shows that our spenders are almost equal to our builders, all things considered. We often think about just not pressing them. It is rarely the correct behavior, but it is correct in 10.2 builds currently. To me, that shows a major flaw in either their design or their tuning.
 
 Second, I personally dislike the idea of dumping Maelstrom and spamming spenders just to avoid overcapping. In AoE builds, you are often in a situation where you quickly need to empty your maelstrom bar before filling it up again thanks to {{ site.data.talent.sk }} and {{ site.data.spell.cl }}. This leads to dumping 2 or 3 {{ site.data.spell.eq }} in quick succession, using {{ site.data.spell.cl }}, then dumping again before continuing the rotation.
 
@@ -191,35 +193,37 @@ Lastly, many people dislike the gameplay of {{ site.data.talent.eogs }}. Again, 
 
 <hr>
 
-### Elemental's Offensive Cooldowns
+### The Underwhelming Offensive CDs
 
-While we are on the topic of disappointing, let's talk about our offensive Cooldowns. {{ site.data.talent.se }} and {{ site.data.talent.fe }} are our primary offensive CD. They are the equivalent of Retribution's [Avenging Wrath](https://www.wowhead.com/spell=31884), Demonology's [Summon Demonic Tyrant](https://www.wowhead.com/spell=265187) or Balance's [Eclipse](https://www.wowhead.com/spell=79577), yet their power are massively underwhelming.
+Let's continue about the disappointing talk and move on to our offensive Cooldowns. {{ site.data.talent.se }} and {{ site.data.talent.fe }} are our primary offensive CD. They are the equivalent of Retribution's [Avenging Wrath](https://www.wowhead.com/spell=31884), Demonology's [Summon Demonic Tyrant](https://www.wowhead.com/spell=265187) or Balance's [Eclipse](https://www.wowhead.com/spell=79577), yet their power are massively underwhelming.
 
-At the moment, they are mutually exclusive buttons that you press every 2min30. They don't really interact with our gameplay or rotation, and passively deal 5% of our damage. {{ site.data.talent.fe }} has the clear upside of making {{ site.data.spell.fs }} longer duration so we can focus on our rotation instead of {{ site.data.spell.fs }}'s Management. But as we've seen before, {{ site.data.spell.fs }} usually feels bad because its spreading isn't smooth. {{ site.data.talent.fe }} shines by making it feel less bad, but that doesn't really make it a good button all things considered.
+At the moment, they are mutually exclusive buttons on a 2min30 CD. They don't really interact with our gameplay or rotation, and passively deal around 3% of our damage. {{ site.data.talent.fe }} has the clear upside of making {{ site.data.spell.fs }} longer duration so we can focus on our rotation instead of {{ site.data.spell.fs }}'s Management. But as we've seen before, {{ site.data.spell.fs }} usually feels bad because its spreading isn't smooth. {{ site.data.talent.fe }} shines by making it feel less bad, but that doesn't really make it a good button all things considered.
 
-In 10.2, we'll get {{ site.data.talent.sop }} in a Fire build and pay close to no attention to it. Meaning a lot of them will buff {{ site.data.talent.lvb }}, reducing {{ site.data.talent.fe }}'s cooldown. But even then, pressing {{ site.data.talent.fe }} currently has a lower priority than {{ site.data.spell.lvb }}.
+In 10.2, we'll pick {{ site.data.talent.sop }} in a Fire build and pay close to no attention to it. Meaning that a lot of them will buff {{ site.data.spell.lvb }}, reducing {{ site.data.talent.fe }}'s cooldown. But even then, pressing {{ site.data.talent.fe }} currently has a lower priority than {{ site.data.spell.lvb }}.
 
-The lack of power of our Elementals is also felt in our damage profile, which is very flat. The only burst we have is tied to {{ site.data.talent.sk }}. But since it's a 1 minutes CD, it's not a big button either.
+The lack of power of our Elementals is also felt in our damage profile, which is very flat. The only "damage window" we have is tied to {{ site.data.talent.sk }}. But since it's a 1 minutes CD, it's not a big button either.
 
 You might think that {{ site.data.talent.asc }} is Elemental's offensive CD, but if the Fire builds in season 1 taught me anything, it's that spamming one button just isn't fun. It might be a cool idea to imagine {{ site.data.talent.asc }} as a window where your builders aren't lightning based but lava based instead. I think that was the spell original's design.
 
-But with the insane access to {{ site.data.spell.lvb }} we currently have, {{ site.data.talent.asc }} just becomes an afterthought that further fuels the one button gameplay. With our spenders feeling as weak as they feel, you just don't really want to press them during {{ site.data.talent.asc }}. If the spenders were buffed to let the gameplay be globally the same but slightly different and lava imbued during {{ site.data.talent.asc }}, I think it might be fine.
+But with the insane access to {{ site.data.spell.lvb }} we currently have, {{ site.data.talent.asc }} just becomes an afterthought that further fuels the one button gameplay. With our spenders feeling as weak as they feel, you just don't really want to press them during {{ site.data.talent.asc }}. If the spenders were buffed to let the gameplay be globally the same, but slightly altering the rotation and design to lava imbued spells, I think that would be neat.
 
-But that could also end up creating a problematic situation with {{ site.data.talent.fb }}. Currently, {{ site.data.talent.fb }} feels bad because it extends a CD that feels bad. But if {{ site.data.talent.asc }} was changed to be something else than just a single button mash, {{ site.data.talent.fb }} would again become a problem if done incorrectly.
+But that could also end up creating a problematic situation with {{ site.data.talent.fb }} again. Currently, {{ site.data.talent.fb }} feels bad because it extends a CD that feels bad. But if {{ site.data.talent.asc }} was changed to be something else than just a single button mash, {{ site.data.talent.fb }} could have a very fulfilling gameplay tied to it. After all, extending a damage window by playing correctly is one of the most fun gameplay in wow. Extending it by mashing two buttons isn't.
 
-I also would like to rapidly touch upon {{ site.data.talent.dre }} and it's design that again, further fuel the one button gameplay. Since it has an ever increasing chance to proc, you pressing something else than {{ site.data.talent.lvb }} decreases the chances to get a much needed proc. When compared to a controlled talent like [Sun King's Blessing](https://www.wowhead.com/spell=383886), it really pales. {{ site.data.talent.dre }} could be changed to proc after consuming a certain amount of {{ site.data.talent.lvs }}, making the player in control of their fate. You could potentially line the proc with an incoming {{ site.data.talent.sk }} to have insane burst with {{ site.data.spell.lvbm }}.
+I also would like to rapidly touch upon {{ site.data.talent.dre }} and it's design that again, further fuel the one button gameplay. Since it has an ever increasing chance to proc, you pressing something else than {{ site.data.spell.lvb }} decreases the chances to get a much needed proc. When compared to a controlled talent like [Sun King's Blessing](https://www.wowhead.com/spell=383886), it really pales. {{ site.data.talent.dre }} could be changed to proc after consuming a certain amount of {{ site.data.talent.lvs }}, making the player in control of their fate. You could potentially line the proc with an incoming {{ site.data.talent.sk }} to have insane burst with {{ site.data.spell.lvbm }}.
 
 When combined, those 3 offensive CDs, {{ site.data.talent.fe }}/{{ site.data.talent.se }}, {{ site.data.talent.sk }} and {{ site.data.talent.asc }} don't really complement each other. They are just historical button that were added at one point because they were cool, didn't receive many updates and now feel thrown together for no real purposes. You don't really care if you get {{ site.data.talent.asc }} while the other are one CD, and vice versa. They don't really interact with our gameplay or with each other in any cool way, and that's really disappointing for me.
 
-### Gameplay Conclusion
+### Gameplay's Conclusion
 
-In my opinion, one of the strongest point of Elemental shaman is the diversity of builds playstyles. It truly is enjoyable for me to have a different gameplay from one season to the next, and that the gameplay can really change just by changing a few talent points.
+In my opinion, one of the strongest point of Elemental shaman is the diversity of builds and playstyles. It truly is enjoyable for me to have a different gameplay from one season to the next, and that the gameplay can really change just by changing a few talent points.
 
 But with Fire and Lightning each having their own design flaws, all the while considering the impossibility to really mix Lightning and Fire builds to complement each other, we just have to pick one and roll with it, as it is.
 
+The various underwhelming aspects of the Core of the spec's design can also be pretty damning and feel unrewarding in many situations. Before 10.2, Elemental's damage profile was mostly flat and we had no real damage niche. With 10.2, spread cleave will be our forte, but will it stay after the patch is over?
+
 The build diversity can also turn down many players that do not want to re-learn the spec every patch. I have seen way too many peoples ask on Discord "Are we still playing {{ site.data.talent.eb}}/{{ site.data.talent.if}}/Fire/Lightning/{{ site.data.talent.eogs}} this patch?", then never coming back to the spec for the whole patch because of a non-satisfying answer.
 
-While I know that it's impossible to please everyone, I think a decent amount of work could be done to make the different parts of the spec more coherent as a whole.
+While I know that it's impossible to please everyone, I think a decent amount of work could be done to make the different parts of the spec more coherent as a whole, and give us some gameplay identity to go along our super cool elemental master identity.
 
 <hr>
 
@@ -290,7 +294,7 @@ Does that mean all of them are completely useless? No. Some of those definitivel
 
 <hr>
 
-#### Enhancement and Restoration
+### Enhancement and Restoration
 
 So Shaman's utility has ups and downs. It's really good in Dungeon and really underwhelming in raid. But this is a post that focuses on Elemental Shaman. The question I'm now asking is: Are other Shaman specs better equipped than us? Short answer, yes in both raid and dungeons. They bring all that Elemental has to offer and add an additional layer on top.
 
@@ -313,9 +317,40 @@ It's also worth mentioning that giving all Shamans a raid buff and leaving {{ si
 
 <hr>
 
-### Tankyness
+## Tankyness
+
+Almost done but not quite, we still have a small section to talk about: Tankyness.
+
+Tankyness is a mix of many things that I would classify as:
+- How many defensive CDs do you have?
+- How tanky are you with your defensive CDs?
+- How tanky are you without your defensive CDs?
+- Do you defensive CDs have a direct impact on your DPS?
+
+Lets answer those questions in order. Shaman has:
+- A major defensive CD, {{ site.data.talent.as }},
+- A very situational defensive with {{ site.data.talent.ee }},
+- A horrendous defensive with {{ site.data.talent.spirit_wolf }},
+- A few sustain defensives with {{ site.data.talent.ng }} and {{ site.data.talent.earth_shield }}.
 
 
+Shaman has a very strong defensive CD with {{ site.data.talent.as }}
+
+- 1 CD
+- Spirit Wolf is a problem
+- EE is locked behind kick for some reason
+- NG is good but not good
+- ES has charges?
+
+<hr>
 
 ## Conclusion
-- Spirit Wolf is a problem
+
+Elemental Shaman deserves more love. It has a sick lore behind. Most of us initially came to the spec because they thought that lightning was cool. It's animations, it's mobility, it's utility, it's design, what's not to love? I really enjoy this spec and I hope I helped you pick up the different problems the spec currently has.
+
+To give a quick summary to people jumping to the end: Restrict {{ site.data.spell.lvb }} access, remove/rework/fuse a few of our buffs to avoid promoting a static gameplay, buff spenders, give us an offensive CD to play around, give us clear raid utility, throw out {{ site.data.externals.wft }} or rework it, and give us another defensive tool.
+
+To all of you who read till the end, thank you so much. I'm pretty new to guide writing and putting all of my thoughts about the spec onto one letter was pretty hard. I hope I stayed coherent and easy to read throughout the whole article.
+
+Thanks for your time,<br>
+Elivrio.
