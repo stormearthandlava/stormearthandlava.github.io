@@ -267,7 +267,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Utilities:
 * Use {{ site.data.talent.wrt }} to help players affected by {{ site.data.raid.amirdrassil.dream_blossom }} dousing {{ site.data.raid.amirdrassil.burning_ground }} as fast as possible.
 * Use {{ site.data.talent.spirit_walk }} or {{ site.data.talent.thunderous_paws }} to free yourself from {{ site.data.raid.amirdrassil.scorching_bramblethorn }}.
-* Use {{ site.data.spell.wind_shear }} or {{ site.data.spell.capacitor_totem }} to interrupt {{ site.data.raid.amirdrassil.fiery_flourish }} from {{ site.data.raid.amirdrassil.fiery_treant }}.
+* Use {{ site.data.spell.wind_shear }} or {{ site.data.talent.capacitor_totem }} to interrupt {{ site.data.raid.amirdrassil.fiery_flourish }} from {{ site.data.raid.amirdrassil.fiery_treant }}.
 
 </div>
 </div>
