@@ -80,7 +80,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.amirdrassil.controlled_burn }} and {{ site.data.raid.amirdrassil.shadowflame_cleave }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables during {{ site.data.raid.amirdrassil.potent_fertilization }} before soaking {{ site.data.raid.amirdrassil.splintering_charcoal }} to minimize the damage income of {{ site.data.raid.amirdrassil.ember-charred }}.
+* Use {{ site.data.talent.as }} or healing consumables during {{ site.data.raid.amirdrassil.potent_fertilization }} before soaking {{ site.data.raid.amirdrassil.splintering_charcoal }} to minimize the damage income of {{ site.data.raid.amirdrassil.ember_charred }}.
 * Use {{ site.data.talent.ag }} during {{ site.data.raid.amirdrassil.uprooted_agony }} to maximize its value and give healers more options to deal damage during this damage amplification.
 * If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
