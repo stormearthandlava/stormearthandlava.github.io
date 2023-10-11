@@ -20,7 +20,7 @@ potent_fertilization: <a href="https://www.wowhead.com/ptr-2/spell=421013/potent
 splintering_charcoal: <a href="https://www.wowhead.com/ptr-2/spell=421350/splintering-charcoal" target="blank">Splintering Charcoal</a>
 uprooted_agony: <a href="https://www.wowhead.com/ptr-2/spell=421840/uprooted-agony" target="blank">Uprooted Agony</a>
 shadowflame_cleave: <a href="https://www.wowhead.com/ptr-2/spell=422039/shadowflame-cleave" target="blank">Shadowflame Cleave</a>
-ember-charred: <a href="https://www.wowhead.com/ptr-2/spell=425002/ember-charred" target="blank">Ember-Charred</a>
+ember_charred: <a href="https://www.wowhead.com/ptr-2/spell=425002/ember-charred" target="blank">Ember-Charred</a>
 doom_roots: <a href="https://www.wowhead.com/ptr-2/spell=425648/doom-roots" target="blank">Doom Roots</a>
 
 # Igira the Cruel
@@ -46,6 +46,8 @@ emerald_winds: <a href="https://www.wowhead.com/ptr-2/spell=421024/emerald-winds
 unstable_venom: <a href="https://www.wowhead.com/ptr-2/spell=423522/unstable-venom" target="blank">Unstable Venom</a>
 rebirth: <a href="https://www.wowhead.com/ptr-2/spell=418187/rebirth" target="blank">Rebirth</a>
 noxious_blossom: <a href="https://www.wowhead.com/ptr-2/spell=420671/noxious-blossom" target="blank">Noxious Blossom</a>
+aerwynn: <a href="https://www.wowhead.com/ptr-2/npc=208365/aerwynn" target="blank">Aerwynn</a>
+pip: <a href="https://www.wowhead.com/ptr-2/npc=213390/pip" target="blank">Pip</a>
 
 # Larodar, Keeper of the Flame
 fiery_treant: <a href="https://www.wowhead.com/ptr-2/npc=208459/fiery-treant" target="blank">Fiery Treant</a>
