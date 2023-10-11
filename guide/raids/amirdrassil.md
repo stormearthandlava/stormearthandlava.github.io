@@ -391,7 +391,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-* Focus down {{ site.data.raid.amirdrassil.fiery_vines }} and {{ site.data.raid.amirdrassil.scorched_treant }} whenever they are active.
+* Use {{ site.data.talent.sk }} and {{ site.data.talent.lmt }} to focus down {{ site.data.raid.amirdrassil.fiery_vines }} and {{ site.data.raid.amirdrassil.scorched_treant }} whenever they are active.
 * Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with {{ site.data.raid.amirdrassil.fiery_growth }} and {{ site.data.raid.amirdrassil.fire_beam }}.
 
 #### Defensives:
