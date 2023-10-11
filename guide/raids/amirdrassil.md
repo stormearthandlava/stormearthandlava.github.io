@@ -346,7 +346,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-* Ensure to maximize your output while benefiting from {{ site.data.raid.amirdrassil.ignited_essence }}.
+* Use {{ site.data.talent.pw }} and {{ site.data.talent.sk }} whilst benefiting from {{ site.data.raid.amirdrassil.ignited_essence }}.
 * Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.amirdrassil.world_in_flames }} and {{ site.data.raid.amirdrassil.flame_waves }}.
 
 #### Defensives:
@@ -392,7 +392,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * Focus down {{ site.data.raid.amirdrassil.fiery_vines }} and {{ site.data.raid.amirdrassil.scorched_treant }} whenever they are active.
-* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with {{ site.data.raid.amirdrassil.fiery_growth }} and {{ site.data.raid.amirdrassil.firebeam }}.
+* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with {{ site.data.raid.amirdrassil.fiery_growth }} and {{ site.data.raid.amirdrassil.fire_beam }}.
 
 #### Defensives:
 * Use {{ site.data.talent.as }} or healing consumables when targeted by {{ site.data.raid.amirdrassil.fiery_growth }} or during {{ site.data.raid.amirdrassil.supernova }} especially whenever you accumulate multiple stacks of {{ site.data.raid.amirdrassil.astral_heat }} (Mythic-only).
@@ -401,8 +401,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players repositioning to either soak {{ site.data.raid.amirdrassil.fiery_growth }} or dodge {{ site.data.raid.amirdrassil.firebeam }}.
-* Use {{ site.data.talent.spirit_walk }} to free yourself from {{ site.data.raid.amirdrassil.mass_entanglement }}.
+* Use {{ site.data.talent.wrt }} to help players repositioning to either soak {{ site.data.raid.amirdrassil.fiery_growth }} or dodge {{ site.data.raid.amirdrassil.fire_beam }}.
+* Use {{ site.data.talent.spirit_walk }} or {{ site.data.talent.thunderous_paws }} to free yourself from {{ site.data.raid.amirdrassil.mass_entanglement }}.
 
 #### Additional Notes:
 * Having access to both {{ site.data.talent.go_with_the_flow }} and {{ site.data.externals.blessing_of_the_bronze }} provides the option of having {{ site.data.talent.spirit_walk }} ready for every single {{ site.data.raid.amirdrassil.mass_entanglement }}. Minimize usages in Mythic since using this will cause {{ site.data.raid.amirdrassil.scorched_treant }} to spawn!
