@@ -2,7 +2,7 @@
 layout: post
 title: The woes of Chain Lightning
 #            dd/mm/yyyy
-last_update: 06/02/2023 
+last_update: 06/02/2023
 excerpt: Quadratic scaling is nice and bad
 author: Bloodmallet(EU)
 ---
@@ -55,7 +55,7 @@ Overload on all targets |  `(overload_chance / 3) ^ target_count`
 Average Overloads | `(overload_chance / 3) * target_count`
 
 
-So let's add this knowledge to the first table (ignoring Echo Chamber).
+So let's add this knowledge to the first table (ignoring {{ site.data.talent.echo_chamber }}).
 
 
 ## Effects with Overloads
@@ -87,9 +87,9 @@ A drawback of this approach would be that {{ site.data.spell.cl }} and {{ site.d
 One with slightly more single target damage, and one that hits multiple enemies and has a hidden Overload multiplier.
 
 Alternatively, overloading {{ site.data.spell.cl }} could be changed to {{ site.data.spell.cl }} being allowed to only overload once.
-This would also reduce the amount of Maelstrom generated, but would keep the noticable ramp from 1 to 5 targets.
-This change would have a smaller impact on resource generation than the former, but it would be a noticable visual cut.
-Such a change would allow other sources to "unlock" Chain Lightning to once more overload multiple times. E.g. Stormkeeper, Power of the Maelstrom or Surge of Power come to mind.
+This would also reduce the amount of Maelstrom generated, but would keep the noticeable ramp from 1 to 5 targets.
+This change would have a smaller impact on resource generation than the former, but it would be a noticeable visual cut.
+Such a change would allow other sources to "unlock" Chain Lightning to once more overload multiple times. E.g. {{ site.data.talent.sk }}, {{ site.data.talent.potm }} or {{ site.data.talent.sop }} come to mind.
 
 
 ## Conclusion

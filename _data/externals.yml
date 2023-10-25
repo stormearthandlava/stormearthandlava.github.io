@@ -70,6 +70,7 @@ power_word_fortitude: <a href="https://www.wowhead.com/spell=21562/power-word-fo
 guardian_spirit: <a href="https://www.wowhead.com/spell=47788/guardian-spirit" target="blank">Guardian Spirit</a>
 pain_suppression: <a href="https://www.wowhead.com/spell=33206/pain-suppression" target="blank">Pain Suppression</a>
 power_word_barrier: <a href="https://www.wowhead.com/spell=62618/power-word-barrier" target="blank">Power Word Barrier</a>
+symbol_of_hope: <a href="https://www.wowhead.com/spell=64901" target="blank">Symbol of Hope</a>
 
 # Rogue
 rogue: <a href="https://www.wowhead.com/class=4/rogue#" target="blank">Rogue</a>
@@ -78,7 +79,10 @@ shroud_of_concealment: <a href="https://www.wowhead.com/spell=114018/shroud-of-c
 # Shaman (enh & resto)
 shaman: <a href="https://www.wowhead.com/class=7/shaman#" target="blank">Shaman</a>
 windfury_totem: <a href="https://www.wowhead.com/spell=8512/windfury-totem" target="blank">Windfury Totem</a>
+wft: <a href="https://www.wowhead.com/spell=8512/windfury-totem" target="blank">Windfury Totem</a>
 spirit_link_totem: <a href="https://www.wowhead.com/spell=98008/spirit-link-totem" target="blank">Spirit Link Totem</a>
+slt: <a href="https://www.wowhead.com/spell=98008/spirit-link-totem" target="blank">Spirit Link Totem</a>
+apt: <a href="https://www.wowhead.com/spell=207399/ancestral-protection-totem" target="blank">Ancestral Protection Totem</a>
 
 # Warlock Utilities
 warlock: <a href="https://www.wowhead.com/class=9/warlock#" target="blank">Warlock</a>
