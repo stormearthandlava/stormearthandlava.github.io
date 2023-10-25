@@ -168,11 +168,24 @@ I'm not going to detail this section too much because Bloodmallet already did an
 
 ## More broad Design issues
 
-### The Underwhelming Spenders
+### Mastery and Critical Strike
+
+Because of our spec's design, Mastery and Critical Strike are often mutually exclusive for Elemental Shaman.
+
+Bloodmallet's article just above explains in depth why {{ site.data.spell.cl }} isn't very effective at utilizing {{ site.data.spell.overload }}. But it's also the case for most of our kit. {{ site.data.talent.lmt }}, {{ site.data.spell.frs }} and {{ site.data.spell.fs }} do not trigger with our mastery, nor do spenders without {{ site.data.talent.mwf }}. This means that any build that doesn't talent into {{ site.data.talent.mwf }} and heavely relies on those spells often ignores mastery. For example, it was the case of Wildfire builds during season 1.
+
+If you count, mastery is effective for 3 spells in ST ({{ site.data.spell.lb }}, {{ site.data.spell.lvb }} and {{ site.data.talent.if }}), and a single one in AoE ({{ site.data.spell.cl }}). To make it work with our spenders, you have to invest 3 points in our capstone section which is already overloaded with things we really want to take.
+
+Meanwhile, because of {{ site.data.talent.rolling_magma }}, any single Target build that relies on {{ site.data.talent.pw }} will heavily lean into mastery to further reduce its CD thanks to the additional {{ site.data.spell.lvb }} overloads.
+
+Critical Strike is works almost in a mirror fashion. It is often not wanted by build centered around {{ site.data.spell.lvb }} since a guaranteed crit is baked into its effect. Unless you find a way to get into {{ site.data.talent.asc }}, Crit is completely useless for {{ site.data.spell.lvb }} builds.
+And that's really annoying, mostly because of {{ site.data.spell.elemental_fury }} which you are forced to talent into in the first gate of our spec tree ! Meaning we actually scale really good with Crit when playing any other type of build.
+
+### Spenders
 
 One of the things that became more and more apparent as I wrote the previous sections is how underwhelming {{ site.data.talent.es }}, {{ site.data.spell.eq }} and to a lesser extend {{ site.data.spell.eb }} feel.
 
-First, our spenders hit like wet noodles. Here are a few numbers (DPET = Damage per Effective Time):
+First, our spenders hit like wet noodles. Here are a few numbers (DPET = Damage per Execute Time):
 
 Spell | DPET
 :---: | :---:
@@ -193,7 +206,7 @@ Lastly, many people dislike the gameplay of {{ site.data.talent.eogs }}. Again, 
 
 <hr>
 
-### The Underwhelming Offensive CDs
+### Offensive CDs
 
 Let's continue about the disappointing talk and move on to our offensive Cooldowns. {{ site.data.talent.se }} and {{ site.data.talent.fe }} are our primary offensive CD. They are the equivalent of Retribution's [Avenging Wrath](https://www.wowhead.com/spell=31884), Demonology's [Summon Demonic Tyrant](https://www.wowhead.com/spell=265187) or Balance's [Eclipse](https://www.wowhead.com/spell=79577), yet their power are massively underwhelming.
 
