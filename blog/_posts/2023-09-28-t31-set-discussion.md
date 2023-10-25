@@ -2,7 +2,7 @@
 layout: post
 title: T31 Set Discussion
 #            dd/mm/yyyy
-last_update: 29/09/2023
+last_update: 09/10/2023
 excerpt: What does the new tier set do and how does it work?
 author: Elivrio
 toc: true
@@ -11,7 +11,7 @@ toc: true
 ## T31 effects
 > (2) Set Bonus: {{ site.data.talent.primordial_wave }} also casts an {{ site.data.talent.eb }} at the target at 100% effectiveness, and grants you all three {{ site.data.talent.eb }} bonus effects for 15.0 seconds.
 
-> (4) Set Bonus: {{ site.data.spell.lvb }} burns your target for 15% additional damage over 4 seconds, and after consuming {{ site.data.talent.primordial_wave }}, your next 3 casts of {{ site.data.spell.lvb }} also hit up to 3 additional targets affected by your {{ site.data.spell.fs }} for 100% of normal damage.
+> (4) Set Bonus: {{ site.data.spell.lvb }} burns your target for 15% additional damage over 4 seconds, and after consuming {{ site.data.talent.primordial_wave }}, your next 2 casts of {{ site.data.spell.lvb }} also hit up to 3 additional targets affected by your {{ site.data.spell.fs }} for 100% of normal damage.
 
 First things first. Without being talented into {{ site.data.talent.primordial_wave }} these bonuses do nothing.
 Which means, we're forced into taking this talent for the next tier.
@@ -31,7 +31,7 @@ Here is a table of them and whether they are triggered by the 2p effect.
 
 Talent | 2p can trigger it
 --- | ---
-{{ site.data.talent.sop }} | ❌ no
+{{ site.data.talent.sop }} | ✅ yes
 {{ site.data.talent.lr }} | ✅ yes
 {{ site.data.talent.mwf }} | ✅ yes
 {{ site.data.talent.fb }} | ✅ yes
@@ -56,7 +56,6 @@ The recent changes to the 4p make {{ site.data.spell.lvb }} strong enough to war
 
 #### 2p Bugs
 1. The 15s {{ site.data.talent.eb }} buff you get from 2p gets overrides by any new {{ site.data.talent.eb }} cast.
-2. The free {{ site.data.talent.eb }} from {{ site.data.talent.pw }} does not trigger {{ site.data.talent.sop }}.
 
 <br>
 #### 4p Bugs
