@@ -34,7 +34,7 @@ With the small side note about the class tree out of the way, let's talk about t
 
 <img src="/assets/img/blog/Spec_Tree_Fire_Vs_Lightning.png" alt="Lightning vs Fire in the Spec Tree" class="center">
 
-In this image, we can see in blue the talents that are really strong for lightning builds and in red the talents for fire builds. What's immediately apparent is the separation between the two. Left side is Lightning, Right Side is Fire. This makes Hybrid build hard to create since you are going in opposite directions and can hardly move between the "columns" as I like to call them .
+To function properly, Lightning builds require most of the Blue Talents. Similarly, Fire Builds require the Red Talents. What's immediately apparent is the separation between the two. Left side is Lightning, Right Side is Fire. This makes Hybrid build hard to create since you are going in opposite directions and can hardly move between the "columns" as I like to call them .
 
 The Major issue comes from the top section that doesn't easily allow us to move around in the second part of the tree. Since the third row of the tree is mostly Utility based, it "forces" us to choose two paths out of three and stick with them all the way down to the third gate, essentially creating 3 "columns" in the spec Tree. The flexibility dies early and it's hard to grab everything you need for your builds to function properly.
 
@@ -167,9 +167,11 @@ Meanwhile, because of {{ site.data.talent.rolling_magma }}, any single Target bu
 Critical Strike is works almost in a mirror fashion. It is often not wanted by build centered around {{ site.data.spell.lvb }} since a guaranteed crit is baked into its effect. Unless you find a way to get into {{ site.data.talent.asc }}, Crit is completely useless for {{ site.data.spell.lvb }} builds.
 And that's really annoying, mostly because of {{ site.data.spell.elemental_fury }} which you are forced to talent into in the first gate of our spec tree ! Meaning we actually scale really good with Crit when playing any other type of build.
 
+<hr>
+
 ### Spenders
 
-One of the things that became more and more apparent as I wrote the previous sections is how underwhelming {{ site.data.talent.es }}, {{ site.data.spell.eq }} and to a lesser extend {{ site.data.spell.eb }} feel.
+One of the things that became more and more apparent as I wrote the previous sections is how underwhelming {{ site.data.spell.es }}, {{ site.data.spell.eq }} and to a lesser extend {{ site.data.talent.eb }} feel.
 
 First, our spenders hit like wet noodles. Here are a few numbers (DPET = Damage per Execute Time):
 
@@ -194,7 +196,7 @@ Lastly, many people dislike the gameplay of {{ site.data.talent.eogs }}. Again, 
 
 ### Offensive CDs
 
-Let's continue about the disappointing talk and move on to our offensive Cooldowns. {{ site.data.talent.se }} and {{ site.data.talent.fe }} are our primary offensive CD. They are the equivalent of Retribution's [Avenging Wrath](https://www.wowhead.com/spell=31884), Demonology's [Summon Demonic Tyrant](https://www.wowhead.com/spell=265187) or Balance's [Eclipse](https://www.wowhead.com/spell=79577), yet their power are massively underwhelming.
+Let's continue about the disappointing talk and move on to our offensive Cooldowns. {{ site.data.talent.se }} and {{ site.data.talent.fe }} are our primary offensive CD. They are the equivalent of Retribution's [Avenging Wrath](https://www.wowhead.com/spell=31884), Demonology's [Summon Demonic Tyrant](https://www.wowhead.com/spell=265187) or Balance's [Celestial Alignment](https://www.wowhead.com/spell=194223), yet their power are massively underwhelming.
 
 At the moment, they are mutually exclusive buttons on a 2min30 CD. They don't really interact with our gameplay or rotation, and passively deal around 3% of our damage. {{ site.data.talent.fe }} has the clear upside of making {{ site.data.spell.fs }} longer duration so we can focus on our rotation instead of {{ site.data.spell.fs }}'s Management. But as we've seen before, {{ site.data.spell.fs }} usually feels bad because its spreading isn't smooth. {{ site.data.talent.fe }} shines by making it feel less bad, but that doesn't really make it a good button all things considered.
 
@@ -288,8 +290,27 @@ Shaman is so good utility wise that some of its abilities are borderline useless
 - {{ site.data.talent.earthgrab_totem }}: Even if it is not a bad utility totem and has very decent uses in a variety of cases, its place in tree really holds {{ site.data.talent.earthgrab_totem }} back. The fact that you have to spec out of {{ site.data.talent.wrt }} for it is just horrendous. A few memorable uses are the small adds on Mythic Raszageth, the Golems on Zskarn and to handle the Spiteful Affix.
 - With it's current tuning, unless you're playing a full fire build that throws a lot of {{ site.data.spell.lvb }}, and even then it's mid, {{ site.data.talent.mana_spring }} stands out as really bad, giving around 1% mana per minute to 4 healer in range. Outside of a fire build, this is completely useless.
 - {{ site.data.talent.lightning_lasso }}: In PvE, this is almost never used outside of dungeons. And even then, it's very niche. You would much rather go into melee and get off a quick {{ site.data.talent.thundershock }} to interrupt a target rather than channeling this.
+- {{ site.data.spell.wind_shear }}: Yes. This is sometimes useless. More often than not even. In Aberrus, there's a kickable mechanic in 3 out of the 9 bosses. In 10.0, you could skip {{ site.data.spell.wind_shear }} easily but at some point {{ site.data.talent.ee }} was moved behind it. I was no idea why. This forces us into playing {{ site.data.spell.wind_shear }} all the time AND restrict access to the left side of the tree. If anything, moving {{ site.data.talent.ee }} back to its previous position would negate this problem.
 
-Does that mean all of them are completely useless? No. Some of those definitively have their places but some other are really out of touch with modern wow and could be replaced or updated to better match modern gameplay.
+Does that mean all of them are completely useless? No. Some of those definitively have their places but some other are either really out of touch with modern wow and could be updated to better match modern gameplay or just non-choices that we never think about.
+
+<hr>
+
+### Ankh of Reincarnation
+
+On the topic of out of touch utility, let's talk about {{ site.data.spell.ankh }}. This is one of the most notorious spell of Shaman but I firmly believe it's history is holding it back. Mechanically, it's similar to a Cheat Death. It negates a death. But it does so with many non-enjoyable flaws.
+
+First and foremost, It has a 17 minutes CD at best thanks to {{ site.data.talent.brimming_with_life }} and 30 minutes at worse. I think the next worse CDs are {{ site.data.spell.bloodlust }} and battle reses with 10 minute timers. There are some fight where you can cast {{ site.data.spell.bloodlust }} twice or even proc [Cauterize](https://www.wowhead.com/spell=86949) as a Mage three times before {{ site.data.spell.ankh }} comes off CD from the previous pull.
+
+Because yes, it does not reset on raid pull. It's the longest combat CD of the game and one of the only spell with more than 3 minutes CD that doesn't reset on raid pull. It feels awkward to press in raid when close to a boss kill or close to a wipe. If you don't kill the boss, next pull you've wasted that valuable resource for a potential kill. You could not press it for a whole raid night because the pulls are close, but not close enough.
+
+Similarly, it does not reset when a m+ key starts. You might want to use {{ site.data.spell.ankh }} early, but it might be on CD from your last dungeon. The long CD also gives a singular use for most keys, still gives the 5 sec penalty for a death. On tournament realm Blizzard even removed the CD so they could practice/play with Ankh for every key. Meanwhile cheat Deaths classes don't inflict a penalty and can "die" more often.
+
+And since you use {{ site.data.spell.ankh }} by actually dying and not by "cheating" death, you also lose your food buff, your raid buffs, your active DPS CDs if you had any, and so on and so forth. But you also resurrect with 20% HP meaning you can easily die from any damage or lingering AoE under your corpse. This also means that you often have to wait to use {{ site.data.spell.ankh }} until you can do it safely, losing even more uptime in the process.
+
+Of course huge overkill hits will pass through cheats death and kill the player anyway, while you can {{ site.data.spell.ankh }} after those same hits. So technically you could cheese soak mechanics with {{ site.data.spell.ankh }}. But even then, those mechanics are often designed with immunities or battle reses in mind. Sometimes you get a debuff that stays when revived, or you will need x amount of players to soak otherwise the boss will get a buff, etc.
+
+All in all, {{ site.data.spell.ankh }} feels outdated. It's a bad version of a cheat death that is unreliable and often not available. I don't think bringing it up to speed or just making it reset on pull would make it overpower. You could even work around the possible cheese by disabling {{ site.data.spell.ankh }} if the overkill on the player was too large.
 
 <hr>
 
@@ -301,7 +322,7 @@ Let's talk about raid first. Enhancement brings {{ site.data.externals.wft }}, a
 
 One of the recurring answer when talking about Elemental Shaman Utility and how to "fix" it compared to the other specs is "just give them {{ site.data.talent.skyfury_totem }}". In my opinion, that's a terrible take. Party wide buffs that need to be refreshed every 2 minutes are a thing of the past. Having to reposition your {{ site.data.externals.wft }} with each movement is not particularly fun gameplay. If Warrior's {{ site.data.externals.battle_shout }} was 2 minutes and needed to be reapplied during the encounter, as it is in Vanilla WoW, it would be weird and feel out of date. Again, in my opinion, {{ site.data.externals.wft }} and the plausible {{ site.data.talent.skyfury_totem }} are just as outdated and need an update to match with today's gameplay.
 
-In dungeon, Enhancement Shaman benefit more from {{ site.data.talent.chain_heal }} and {{ site.data.talent.thundershock }} than us. Thanks to {{ site.data.talent.maelstrom_weapon }}, their {{ site.data.talent.chain_heal }} provide instant group-wide burst healing which is invaluable during healing checks, and they are already in a prime position to use {{ site.data.talent.thundershock }} since it requires to be in melee. They have also more Class tree point since they can skip {{ site.data.talent.swg }} and {{ site.data.talent.ns }} as they don't spend as much time casting, giving them even more utility flexibility.
+In dungeon, Enhancement Shaman benefit more from {{ site.data.talent.chain_heal }} and {{ site.data.talent.thundershock }} than us. Thanks to {{ site.data.talent.maelstrom_weapon }}, their {{ site.data.talent.chain_heal }} provide instant group-wide burst healing which is invaluable during healing checks, and they are already in a prime position to use {{ site.data.talent.thundershock }} since it requires to be in melee.
 
 <hr>
 
@@ -338,13 +359,15 @@ During Sarkareth progression, P2 didn't have many threats, meaning I ended up us
 
 Without a Defensive CD, Shaman can be decently tanky thanks to {{ site.data.talent.earth_shield }} which really stabilizes us. The only thing I don't understand is why {{ site.data.talent.earth_shield }} has stacks and needs to be re-applied during combat. I would either make it similar to Mage's barrier and make it a 30s buff that you can press when you need it, or a permanent buff on yourself. The charge system is, in my opinion, a relic of the past that hasn't been updated to modern gameplay. It might makes sense for Restoration Shaman to have to monitor their {{ site.data.talent.earth_shield }} but it makes no sense for Elemental to have to do it.
 
+It's also worth mentioning {{ site.data.spell.healing_surge }} and the sustain it provides if you put the cast time into it. Losing a few globals to top yourself can save you in high pressure moments such as Sarkareth's {{ site.data.raid.aberrus.glittering_surge }}. I'm still a bit sad that they reworked {{ site.data.talent.swirling_currents }}. During S1, you knew that you could drop {{ site.data.talent.hst }} to further enhance that hybrid healing. Trading reliable self-heal for a marginal increase on a raid healing was a very bad trade-off in my opinion.
+
 Also I don't know if you picked up on it earlier but I was a bit sarcastic concerning {{ site.data.talent.spirit_wolf }}. While the mobility portion of this talent feels great, the defensive part feels **AWFUL** to play. During S1, high key pushers had to prepare for some damage events by going into {{ site.data.spell.ghost_wolf }} 4 seconds in advance and just... sit there while waiting for the damage event to pass. And it happened multiple times per key too. This is an awful design and the Damage Reduction portion needs to be instant or just ditch it. This talents promotes idle gameplay and I truly hate it. Thankfully, this is mostly a non-issue in Season 2 thanks to Augmentation.
 
 <hr>
 
 ## Conclusion
 
-Elemental Shaman deserves more love. It has a sick lore behind. Most of us initially came to the spec because they thought that lightning was cool. It's animations, it's mobility, it's utility, it's design, what's not to love? I really enjoy this spec and I hope I helped you pick up the different problems the spec currently has.
+Elemental Shaman deserves more love. It has a sick lore behind it. Most of us initially came to the spec because we thought that lightning was cool. Its animations, its mobility, its utility, its design, what's not to love? I really enjoy this spec and I hope I helped you pick up the different problems the spec currently has.
 
 To give a quick summary to people jumping to the end: Restrict {{ site.data.spell.lvb }} access, remove/rework/fuse a few of our buffs to avoid promoting a static gameplay, buff spenders, give us an offensive CD to play around, give us clear raid utility, throw out {{ site.data.externals.wft }} or rework it, and give us another defensive tool.
 
