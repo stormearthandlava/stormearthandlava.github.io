@@ -73,7 +73,7 @@ With the multiple way to get {{ site.data.spell.lvb }} feeding off of each other
 
 <hr>
 
-### FS spreading
+### Flame Shock Management
 
 Enough talk about the Meatballs, let's discuss the other parts of fire build. Let's start with {{ site.data.spell.fs }} and spreading it.
 
@@ -92,46 +92,46 @@ Side note but even {{ site.data.spell.path_of_flame }} used to be way worse than
 
 <hr>
 
-### Single Target in AoE and AoE in Single Target
+### Single Target or AoE
 
-Let's now talk about the versatility of Fire build and their possibilities to do AoE while talented into ST and vice versa. Even if the this problem was decently fixed with the recent changes and the new tier set, it still exists.
+Let's now talk about the versatility of Fire build and their possibilities to do AoE while talented into ST and vice versa.
 
-The problem mostly came from two choice nodes:
-- {{ site.data.spell.splinter }} VS {{ site.data.spell.ps }},
-- {{ site.data.spell.wlr }} VS {{ site.data.spell.sfd }}.
+The problem mostly comes from two choice nodes:
+- {{ site.data.spell.ps }} (ST) VS {{ site.data.spell.splinter }} (AoE),
+- {{ site.data.spell.wlr }} (ST) VS {{ site.data.spell.sfd }} (AoE).
 
-Each of them actually really improved their respective damage profile and having to choose between them, without any sort of compensation in the other profile was pretty damning.
+Each of them actually really improve their respective damage profile and having to choose between them, without any sort of compensation in the other profile, is really pretty damning.
 
-Before the recent change, {{ site.data.spell.splinter }} gave up to 60% haste in AoE, down to 10% in ST. On the other hand, {{ site.data.spell.ps }} only gives a few {{ site.data.spell.lvs }} which used to almost be entirely useless in AoE. But now, {{ site.data.spell.splinter }} will grant more haste in ST (20%) but less in AoE (40%). This is a really good change as it really boosts the ST of the builds using {{ site.data.spell.splinter }} without harming their AoE too much. {{ site.data.spell.ps }} becomes THE single target talent and {{ site.data.spell.splinter }} covers all of the other damage profiles.
+Before the recent change, {{ site.data.spell.splinter }} gave up to 60% haste in AoE, down to 10% in ST. It will now, {{ site.data.spell.splinter }} will grant more haste in ST (20%) but less in AoE (40%). Meanwhile, {{ site.data.spell.ps }} gives a decent number of {{ site.data.spell.lvs }} which is almost be useless in AoE. This change will boosts the ST of the builds using {{ site.data.spell.splinter }} without harming their AoE too much. {{ site.data.spell.ps }} stays the single target talent while {{ site.data.spell.splinter }} covers all of the other damage profiles. This choice node is now way less of a problem than it used to be.
 
-Also, even if {{ site.data.spell.wlr }} and {{ site.data.spell.sfd }} saw no changes and are still fairly exclusive in their profile, this choice node also got better in Season 3 thanks to the new tier set. {{ site.data.spell.fs }}'s damage became secondary and {{ site.data.spell.lvb }} picked up the stage thanks to the amount of duplicated ones we can throw out on multiple targets. Also, since we spec out of {{ site.data.spell.ps }} in cleave/AoE situations, we could be relying on random {{ site.data.spell.lvs }} procs. Getting {{ site.data.spell.wlr }} gives us a very reliable way to get {{ site.data.spell.lvb }} when we need it. So yeah, the choice node became better because {{ site.data.spell.sfd }} isn't really an option anymore.
+On the other hand, {{ site.data.spell.wlr }} and {{ site.data.spell.sfd }} are still an issue, only alleviated by the new tier set. Similarly to {{ site.data.spell.ps }}, {{ site.data.spell.wlr }} gives a decent number of {{ site.data.spell.lvs }} which is bad in AoE. On the flip side {{ site.data.spell.sfd }} scales quadratically as you add more target, which is real good at 6 targets and real bad with a single one.
 
-The tier set fixes problems that are very bad and omnipresent when it's not there. It could be a good idea to consider incorporating some of the things done by the tier into talents when the next expansion starts rolling in.
+Thanks to the new tier set, {{ site.data.spell.fs }}'s damage became secondary and {{ site.data.spell.lvb }} picked up the stage thanks to the amount of duplicated ones we can throw out on multiple targets. It became quite easy to skip {{ site.data.spell.sfd }} in favor of {{ site.data.spell.wlr }}. In fact, since we spec out of {{ site.data.spell.ps }} in AoE situations, we would be relying on random {{ site.data.spell.lvs }} procs if it weren't for {{ site.data.spell.wlr }}. Having a reliable way to get {{ site.data.spell.lvb }} when we need it is very important. So yeah, the choice node became "better" because {{ site.data.spell.sfd }} isn't really an option anymore.
+
+It's very important to understand that the 31 tier set fixes problems that are bad and omnipresent when it's not there. It could be a good idea to consider incorporating some of the things done by the tier into talents when the next expansion starts rolling in.
 
 <hr>
 
-## The Woes of Lightning
+## Lightning's Struggles
 
-### The buff rotation in Single Target
+### Chain buffing to victory
 
 Lightning ST builds center around {{ site.data.spell.lb }} and empowering for the weak maelstrom builder spell all the way to be our main source of damage.
 This is achieved via a combination of buffs and debuffs that you can stack on top of each other, making {{ site.data.spell.lb }} hit like a truck. Those auras are {{ site.data.spell.sop }}, {{ site.data.spell.sk }}, {{ site.data.spell.potm }} and {{ site.data.spell.e_shocks }}.
 
-Among them, {{ site.data.spell.sk }} is probably the most predictable and fun to play around. It was decently annoying to play around the T30 2P since you couldn't control its proc, but {{ site.data.spell.sk }} as a cast is something that I find enjoyable to play around correctly. It requires resource planning and timing to make it work perfectly.
+Among them, {{ site.data.spell.sk }} is probably the most predictable, fun to play around and rewarding to play around correctly. It requires resource planning and timing to make it work perfectly. It should still be noted that the T30 tier set giving us a free {{ site.data.spell.sk }} was a nightmare to play around and to track. There was no in game visual or mechanic to prepare for an incoming proc. It procced on a static timer that we had no access to, and we had to relly on a Weakaura that just started a clock whenever it thought the tier had procced and you just had to pray it was correct. Awful times.
 
-It's now worth to mention that every overloads generated by a {{ site.data.spell.lb }} will fully benefit from the buffs applied to the original cast. Meaning you want to pair {{ site.data.spell.sk }} with as many reliable overloads proc as possible. This makes {{ site.data.spell.sop }} a borderline required buff when using {{ site.data.spell.sk }}. With it, you add two guaranteed overloads on top of your next {{ site.data.spell.lb }}. Pairing {{ site.data.spell.sk }} with {{ site.data.spell.sop }} is a condition *Sine qua non* to do good DPS in lightning build. It's also worth to note that it's very easily to consume {{ site.data.spell.sop }} with another spell, losing a lot of potential damage in the process.
+Back to the subject at hand, I should now mention that every overloads generated by a {{ site.data.spell.lb }} will fully benefit from the buffs applied to the original cast. Meaning you want to pair {{ site.data.spell.sk }} with as many reliable overloads proc as possible to buff every single one of them. This makes {{ site.data.spell.sop }} a borderline required buff when using {{ site.data.spell.sk }}. With it, you add two guaranteed overloads on top of your next {{ site.data.spell.lb }}. Pairing {{ site.data.spell.sk }} with {{ site.data.spell.sop }} is a condition *Sine qua non* to do good DPS in lightning build. It's also worth to note that it's very easily to consume {{ site.data.spell.sop }} with another spell, losing a lot of potential damage in the process.
 
 Similarly, any {{ site.data.spell.potm }} proc that happen before a {{ site.data.spell.sk }} window will add a lot of damage. Sadly, there's no real way to control {{ site.data.spell.potm }} and you can't wait for it to proc or you might lose a potential {{ site.data.spell.sk }} cast by delaying it.
 
 Very differently, you also want to debuff your target with {{ site.data.spell.e_shocks }} to amplify your {{ site.data.spell.lb }}'s damage. And since {{ site.data.spell.e_shocks }} is a debuff and not a buff, it's possible for the damage amp to fall off while the overloads events are still being casted. This transforms {{ site.data.spell.frs }} into a spell you need to press every 9s to maintain the debuff on your target, which does turn off a lot of players.
 
-Among those 4 auras, 3 of them need to be actively played around, and 1 among those 3 require permanent sustain. Combining them all together certainly isn't hard but gets more annoying because need to track more buffs than just the ones that enhance {{ site.data.spell.lb }}.
+Among those 4 auras, 3 of them need to be actively played around, and 1 among those 3 require permanent sustain. Combining them all together certainly isn't hard but gets more and more annoying. Especially since you have to play around another aura in that build.
 
-In fact, since you get {{ site.data.spell.sop }} by using {{ site.data.spell.eb }}, you also want to buff it whenever possible. That's where {{ site.data.spell.mote }} comes into play. {{ site.data.spell.mote }} cannot be used to buff {{ site.data.spell.lb }} since {{ site.data.spell.sop }} is a more valuable buff and you cannot get {{ site.data.spell.sop }} without consuming {{ site.data.spell.mote }}.
+{{ site.data.spell.lvb }} on its own isn't very good for Lightning build. But it's very valuable to cast it nonetheless to fish for {{ site.data.spell.potm }} procs. The best way to include it in the rotation is to use it to buff {{ site.data.spell.eb }} with {{ site.data.spell.mote }}. If we could, we would probably use it to further buff {{ site.data.spell.lb }} but you cannot get {{ site.data.spell.sop }} without consuming {{ site.data.spell.mote }}. In the end, to get reliable {{ site.data.spell.lvs }}, we use {{ site.data.spell.wlr }} and hold {{ site.data.spell.lvs }} until your next {{ site.data.spell.eb }} cast. That way, you maximize {{ site.data.spell.eb }}'s damage while efficiently fishing for {{ site.data.spell.potm }} procs. You can also guarantee that your {{ site.data.spell.potm }} will be used alongside {{ site.data.spell.sop }} each time.
 
-That's why{{ site.data.spell.lvb }} on its own isn't very good, but it's very valuable to cast it nonetheless to fish for {{ site.data.spell.potm }} procs. The best way to include it in the rotation is to use it to buff {{ site.data.spell.eb }} with {{ site.data.spell.mote }}. By getting free instant casts with {{ site.data.spell.wlr }} and holding {{ site.data.spell.lvs }} until your next {{ site.data.spell.eb }} cast, you maximise {{ site.data.spell.eb }}'s damage while efficiently fishing for {{ site.data.spell.potm }} procs. You can also guarantee that your {{ site.data.spell.potm }} will be used alongside {{ site.data.spell.sop }} each time.
-
-I'm sorry did I lose you somewhere? Let me do a small recap then:
+All of this was a lot of information, let me do a small recap:
 - You want {{ site.data.spell.e_shocks }} to be active on your target as much as possible,
 - You want {{ site.data.spell.fs }} to be always be active on your target (for {{ site.data.spell.lvb }} crits and {{ site.data.spell.magma_chamber }} stacks),
 - You never want to cast {{ site.data.spell.lvb }} except before {{ site.data.spell.eb }},
@@ -169,11 +169,28 @@ And that's really annoying, mostly because of {{ site.data.spell.elemental_fury 
 
 <hr>
 
+### The missing Cleave
+
+In the previous fire section, I touched upon ST vs AoE without really touch on Cleave and low target situation. In his article, Bloodmallet also explains why {{ site.data.spell.cl }} feels really bad in low target situation. This was really apparent during Season 1, notably on Kurog Grimtotem Mythic and in Mythic +.
+
+Kurog Grimtotem was mostly a 2 target fight in Mythic. You had the boss and a big elemental up for 60 to 80% of the fight. Elemental was one of the classes that did the least damage on that fight simply because we don't really gain anything from a second target. You gain a second {{ site.data.spell.fs }} target, more {{ site.data.spell.lvs }} procs and double the stacking of {{ site.data.spell.magma_chamber }}, and additional duplicated {{ site.data.spell.lvb }} from {{ site.data.spell.pw }}. That's it. In lightning builds you use {{ site.data.spell.cl }} instead of {{ site.data.spell.lb }} at two targets unless you have {{ site.data.spell.sop }}, but since {{ site.data.spell.cl }} scales quadratically, it sucks at 2/3 targets.
+
+The only good spell at that target range is {{ site.data.spell.frs }} when it's buffed by {{ site.data.spell.if }} and {{ site.data.spell.els }}. But since you want to use it as a debuff most of the time, and you cannot spam it anyway, it's not even that good.
+
+To be completely honest, I know the cleave is a problem for Elemental but I'm not sure how to describe the problem. Elemental simply doesn't really have cleave. If you look at the damage scaling of Elemental vs Enhancement in 10.1, it's just aberrant.
+I know some classes have different damage profiles and you cannot be good at everything. But there's just nothing to say about Elemental's cleave. It's just bad, especially at 2 targets.
+
+<img src="/assets/img/blog/low_target_ele_enh.jpg" alt="Lightning vs Fire in the Spec Tree">
+
+It's now a good time to mention the new T31 set. With it, we get an increase access to {{ site.data.spell.pw }} on top of additional duplicated {{ site.data.spell.lvb }} on targets affected by {{ site.data.spell.fs }}. This tier set provides a 75% damage increase on 3 targets. 75%. I think it's safe to say it should be reintroduced in some shape or form after this tier is over because it colmates a hole in our design. Or that cleave should be given to the spec in some other form.
+
+<hr>
+
 ### Spenders
 
-One of the things that became more and more apparent as I wrote the previous sections is how underwhelming {{ site.data.spell.es }}, {{ site.data.spell.eq }} and to a lesser extend {{ site.data.spell.eb }} feel.
+One of the things that became more and more apparent as I wrote the previous sections is how underwhelming {{ site.data.spell.es }}, {{ site.data.spell.eq }} and to a lesser extend {{ site.data.spell.eb }} feel. Which is a shame for a builder/spender design, where the expected outcome would be that spenders should feel good to press.
 
-First, our spenders hit like wet noodles. Here are a few numbers (DPET = Damage per Execute Time):
+Currently, our spenders hit like wet noodles. Here are a few numbers (DPET = Damage per Execute Time):
 
 Spell | DPET
 :---: | :---:
@@ -184,13 +201,33 @@ Spell | DPET
 {{ site.data.spell.lvb }} | 350
 {{ site.data.spell.lb }} | 193
 
-Of course, DPET is a very bad metric of actual damage contribution. For example, {{ site.data.spell.eb }} also gives a 6% stat buff and since it's more efficient at spending maelstrom than {{ site.data.spell.es}} is, it will also allow you to cast more efficiently in the same time frame. Still, this table shows that our spenders are almost equal to our builders, all things considered. We often think about just not pressing them. It is rarely the correct behavior, but it is correct in 10.2 builds currently. To me, that shows a major flaw in either their design or their tuning.
+Of course, DPET is a very bad metric of actual damage contribution. For example, {{ site.data.spell.eb }} also gives a 6% stat buff and since it's more efficient at spending maelstrom than {{ site.data.spell.es}} is, it will also allow you to cast more efficiently in the same time frame. Still, this table shows that our spenders are almost equal to our builders, all things considered. We often think about just not pressing them. It is rarely the correct behavior, but it is sometimes correct in 10.2 builds currently. To me, that shows a major flaw in either their design or their tuning.
 
-Second, I personally dislike the idea of dumping Maelstrom and spamming spenders just to avoid overcapping. In AoE builds, you are often in a situation where you quickly need to empty your maelstrom bar before filling it up again thanks to {{ site.data.spell.sk }} and {{ site.data.spell.cl }}. This leads to dumping 2 or 3 {{ site.data.spell.eq }} in quick succession, using {{ site.data.spell.cl }}, then dumping again before continuing the rotation.
+Additionally, I personally dislike the idea of dumping Maelstrom and spamming spenders just to avoid overcapping. In AoE builds, you are often in a situation where you quickly need to empty your maelstrom bar before filling it up again thanks to {{ site.data.spell.sk }} and {{ site.data.spell.cl }}. This leads to dumping 2 or 3 {{ site.data.spell.eq }} in quick succession, using {{ site.data.spell.cl }}, then dumping again before continuing the rotation.
 
-Third, many people dislike the gameplay of {{ site.data.spell.eb }}. I personally enjoy it decently, I like having a big spell that crits for 450k every once in a while. But it's also true that the casted gameplay of {{ site.data.spell.eb }} compared to the freedom of movement that was {{ site.data.spell.es }} for many years can feel weird for long time Elemental Shaman players.
+More generally, the usual complaints of the community often center around three things: {{ site.data.spell.eb }}, {{ site.data.spell.eq }} and {{ site.data.spell.eogs }}.
 
-Lastly, many people dislike the gameplay of {{ site.data.spell.eogs }}. Again, I cannot say that I agree. I think it's mostly fine to alternate between your spenders. What I personally dislike are the different target count at which it becomes a gain. With {{ site.data.spell.eb }} and {{ site.data.spell.eogs }}, you alternate at 2+ targets and only {{ site.data.spell.eb }} in ST. I prefer having to always alternate, even in ST. It makes the spec passively cleave while also not creating different use cases.
+Firstly, the gameplay of {{ site.data.spell.eb }} is often disliked. I personally enjoy it. I like having a big spell that can crits for 450k every once in a while. But it's also true that the casted gameplay of {{ site.data.spell.eb }} compared to the freedom of movement that was {{ site.data.spell.es }} for many years can feel weird for long time Elemental Shaman players.
+
+Secondly, {{ site.data.spell.eq }} is always a contention point in the community. It does low damage per tick and you need mobs to stay in it for the full duration. Since {{ site.data.spell.eq }} visual isn't great, tanks are prone to often kite out of it, essentially negating our AoE spender. The problem is further amplified with {{ site.data.spell.eogs }}. A tank kiting out of a buff {{ site.data.spell.eq }} just fells even worse. In my opinion, there are a lot of ways to make it less painful, but I will list a few:
+- Increase the width of the effect,
+- Reduce the duration of the effect for the same amount of damage.
+- Mostly frontload the damage of the spell, then do residual damage while in the effect (like 80/20 split),
+- Transform {{ site.data.spell.eq }} into a debuff on a target that deals damage on mobs around it (of course the debuff would need to be stackable),
+- Make a choice node between normal {{ site.data.spell.eq }} and a version that deals less damage but applies a debuff on all targets in range (that way you can choose to play for more damage if you know you have a good tank).
+
+Lastly, many people also dislike {{ site.data.spell.eogs }}, finding it non-intuive and problematic. Alas, I cannot say that I agree. I think it's mostly fine to alternate between your spenders. What I personally dislike are the different target count at which it becomes a gain and that you can make a table to illustrate it.
+
+{{ site.data.spell.eb }} | {{ site.data.spell.eogs }} | Expected gameplay
+:---: | :---: | :---:
+❌ No | ❌ No | Use {{ site.data.spell.es }} in single target and {{ site.data.spell.eq }} at 2 and more.
+❌ No | ✅ Yes | Always alternate.
+✅ Yes | ❌ No | Use {{ site.data.spell.eb }} up to 3 targets and {{ site.data.spell.eq }} at 4 and more.
+✅ Yes | ✅ Yes | Use {{ site.data.spell.eb }} in single target and always alternate at 2 and more.
+
+In my opinion, it would make much more sense if the correct play was always to alternate when talented into {{ site.data.spell.eogs }}, or switch to {{ site.data.spell.eq }} as soon as you get to two targets without it. It would also improve the spec's passive cleave, which as we just saw, really needs it.
+
+If you think about it, our talents mostly buff builders, and it starts to muddy the waters of what the intended purpose of our spec is. Is Maelstrom only a resource we want to dump as a last resort? Is it something we want to play around? Are our spenders actually enablers that cost resources? At the moment, I cannot confidently say what the intention actually is.
 
 <hr>
 
@@ -210,9 +247,11 @@ But with the insane access to {{ site.data.spell.lvb }} we currently have, {{ si
 
 But that could also end up creating a problematic situation with {{ site.data.spell.fb }} again. Currently, {{ site.data.spell.fb }} feels bad because it extends a CD that feels bad. But if {{ site.data.spell.asc }} was changed to be something else than just a single button mash, {{ site.data.spell.fb }} could have a very fulfilling gameplay tied to it. After all, extending a damage window by playing correctly is one of the most fun gameplay in wow. Extending it by mashing two buttons isn't.
 
-I also would like to rapidly touch upon {{ site.data.spell.dre }} and it's design that again, further fuel the one button gameplay. Since it has an ever increasing chance to proc, you pressing something else than {{ site.data.spell.lvb }} decreases the chances to get a much needed proc. When compared to a controlled talent like [Sun King's Blessing](https://www.wowhead.com/spell=383886), it really pales. {{ site.data.spell.dre }} could be changed to proc after consuming a certain amount of {{ site.data.spell.lvs }}, making the player in control of their fate. You could potentially line the proc with an incoming {{ site.data.spell.sk }} to have insane burst with {{ site.data.spell.lvbm }}.
+I also would like to rapidly touch upon {{ site.data.spell.dre }} and it's design that again, further fuel the one button gameplay. Since it has an ever increasing chance to proc, you pressing something else than {{ site.data.spell.lvb }} decreases the chances to get a much needed proc. When compared to a controlled talent like [Sun King's Blessing](https://www.wowhead.com/spell=383886), it really pales. {{ site.data.spell.dre }} could be changed to proc after consuming a certain amount of {{ site.data.spell.lvb }}, making the player in control of their fate. You could potentially line the proc with an incoming {{ site.data.spell.sk }} to have insane burst with {{ site.data.spell.lvbm }} for example.
 
 When combined, those 3 offensive CDs, {{ site.data.spell.fe }}/{{ site.data.spell.se }}, {{ site.data.spell.sk }} and {{ site.data.spell.asc }} don't really complement each other. They are just historical button that were added at one point because they were cool, didn't receive many updates and now feel thrown together for no real purposes. You don't really care if you get {{ site.data.spell.asc }} while the other are one CD, and vice versa. They don't really interact with our gameplay or with each other in any cool way, and that's really disappointing for me.
+
+<hr>
 
 ### Gameplay's Conclusion
 
@@ -292,25 +331,23 @@ Shaman is so good utility wise that some of its abilities are borderline useless
 - {{ site.data.spell.lightning_lasso }}: In PvE, this is almost never used outside of dungeons. And even then, it's very niche. You would much rather go into melee and get off a quick {{ site.data.spell.thundershock }} to interrupt a target rather than channeling this.
 - {{ site.data.spell.wind_shear }}: Yes. This is sometimes useless. More often than not even. In Aberrus, there's a kickable mechanic in 3 out of the 9 bosses. In 10.0, you could skip {{ site.data.spell.wind_shear }} easily but at some point {{ site.data.spell.ee }} was moved behind it. I was no idea why. This forces us into playing {{ site.data.spell.wind_shear }} all the time AND restrict access to the left side of the tree. If anything, moving {{ site.data.spell.ee }} back to its previous position would negate this problem.
 
-Does that mean all of them are completely useless? No. Some of those definitively have their places but some other are either really out of touch with modern wow and could be updated to better match modern gameplay or just non-choices that we never think about.
+Does that mean all of the abilities in this list are completely useless? Of course not. Some definitively have their places but while some others are either non-choices that we never think really think about or out of touch abilities that could be updated to better match modern gameplay.
 
 <hr>
 
 ### Ankh of Reincarnation
 
-On the topic of out of touch utility, let's talk about {{ site.data.spell.ankh }}. This is one of the most notorious spell of Shaman but I firmly believe it's history is holding it back. Mechanically, it's similar to a Cheat Death. It negates a death. But it does so with many non-enjoyable flaws.
+On the topic of out of touch utility, let's talk about {{ site.data.spell.ankh }}. This is one of the most notorious spell of Shaman but I firmly believe its history is holding it back. Mechanically, it's similar to a Cheat Death. It negates a death. But it does so with many non-enjoyable flaws, and very few upsides.
 
-First and foremost, It has a 17 minutes CD at best thanks to {{ site.data.spell.brimming_with_life }} and 30 minutes at worse. I think the next worse CDs are {{ site.data.spell.bloodlust }} and battle reses with 10 minute timers. There are some fight where you can cast {{ site.data.spell.bloodlust }} twice or even proc [Cauterize](https://www.wowhead.com/spell=86949) as a Mage three times before {{ site.data.spell.ankh }} comes off CD from the previous pull.
+First and foremost, it has a 17 minutes CD at best with 100% uptime on {{ site.data.spell.brimming_with_life }} and 30 minutes at worse. On a boss like Rashok, it's usually available once every 5 pulls at best. Because yes, it does not reset on raid pull. It's the longest combat CD of the game and one of the only spell with more than 3 minutes CD that doesn't reset on raid pull. It feels awkward to press in raid when close to a boss kill or close to a wipe. If you don't kill the boss, next pull you've wasted that valuable resource for a potential kill. You could not press it for a whole raid night because the pulls are close, but not close enough. There are some fight where you can cast {{ site.data.spell.bloodlust }} twice or even proc [Cauterize](https://www.wowhead.com/spell=86949) as a Mage two or even three times before {{ site.data.spell.ankh }} comes off CD from the previous pull.
 
-Because yes, it does not reset on raid pull. It's the longest combat CD of the game and one of the only spell with more than 3 minutes CD that doesn't reset on raid pull. It feels awkward to press in raid when close to a boss kill or close to a wipe. If you don't kill the boss, next pull you've wasted that valuable resource for a potential kill. You could not press it for a whole raid night because the pulls are close, but not close enough.
+Similarly, it does not reset when a m+ key starts. You might want to use {{ site.data.spell.ankh }} early, but it might be on CD from your last dungeon. The long CD often means you get a singular use for most keys, and you still get the 5 sec penalty for a death. Meanwhile, Cheat Deaths don't inflict a penalty and can "die" 5 to 6 times more often in a single key.
 
-Similarly, it does not reset when a m+ key starts. You might want to use {{ site.data.spell.ankh }} early, but it might be on CD from your last dungeon. The long CD also gives a singular use for most keys, still gives the 5 sec penalty for a death. On tournament realm Blizzard even removed the CD so they could practice/play with Ankh for every key. Meanwhile cheat Deaths classes don't inflict a penalty and can "die" more often.
+And since you use {{ site.data.spell.ankh }} by actually dying and not by "cheating" death, you also lose your food buff, your raid buffs, your active DPS CDs if you had any, and so on and so forth. But it's not over! You also resurrect with 20% HP meaning you can easily die from any damage or lingering AoE under your corpse. This often means that you have to wait to use {{ site.data.spell.ankh }} until you can do it safely, losing even more uptime in the process.
 
-And since you use {{ site.data.spell.ankh }} by actually dying and not by "cheating" death, you also lose your food buff, your raid buffs, your active DPS CDs if you had any, and so on and so forth. But you also resurrect with 20% HP meaning you can easily die from any damage or lingering AoE under your corpse. This also means that you often have to wait to use {{ site.data.spell.ankh }} until you can do it safely, losing even more uptime in the process.
+Of course, huge overkill hits will pass through cheats death and kill the player anyway, while you can still {{ site.data.spell.ankh }} after those same hits. So technically you could cheese soak mechanics with {{ site.data.spell.ankh }}. But even then, those mechanics are often designed with immunities or battle reses in mind. Sometimes you get a debuff that stays when revived, or you will need x amount of players to soak otherwise the boss will get a buff, etc.
 
-Of course huge overkill hits will pass through cheats death and kill the player anyway, while you can {{ site.data.spell.ankh }} after those same hits. So technically you could cheese soak mechanics with {{ site.data.spell.ankh }}. But even then, those mechanics are often designed with immunities or battle reses in mind. Sometimes you get a debuff that stays when revived, or you will need x amount of players to soak otherwise the boss will get a buff, etc.
-
-All in all, {{ site.data.spell.ankh }} feels outdated. It's a bad version of a cheat death that is unreliable and often not available. I don't think bringing it up to speed or just making it reset on pull would make it overpower. You could even work around the possible cheese by disabling {{ site.data.spell.ankh }} if the overkill on the player was too large.
+All in all, {{ site.data.spell.ankh }} feels outdated. It's a bad version of a cheat death that is unreliable and often not available. I don't think bringing it up to speed or just making it reset on pull would make it overpower. The drawback of wasting active CDs and buffs is already a huge loss more often than not. You could even work around the possible cheese by disabling {{ site.data.spell.ankh }} if the overkill on the player was too large.
 
 <hr>
 
@@ -369,7 +406,7 @@ Also I don't know if you picked up on it earlier but I was a bit sarcastic conce
 
 Elemental Shaman deserves more love. It has a sick lore behind it. Most of us initially came to the spec because we thought that lightning was cool. Its animations, its mobility, its utility, its design, what's not to love? I really enjoy this spec and I hope I helped you pick up the different problems the spec currently has.
 
-To give a quick summary to people jumping to the end: Restrict {{ site.data.spell.lvb }} access, remove/rework/fuse a few of our buffs to avoid promoting a static gameplay, buff spenders, give us an offensive CD to play around, give us clear raid utility, throw out {{ site.data.externals.wft }} or rework it, and give us another defensive tool.
+To give a quick summary to people jumping to the end: Restrict {{ site.data.spell.lvb }} access, remove/rework/fuse a few of our buffs to avoid promoting a static gameplay, buff spenders, give us an offensive CD to play around, give use some form of cleave, give us clear raid utility, throw out {{ site.data.externals.wft }} or rework it, and give us another defensive tool.
 
 To all of you who read till the end, thank you so much. I'm pretty new to guide writing and putting all of my thoughts about the spec onto one letter was pretty hard. I hope I stayed coherent and easy to read throughout the whole article.
 
