@@ -39,7 +39,7 @@ This macro will cast {{ site.data.spell.frs }} at your current Mouseover target 
 
 ## Primordial Wave
 
-This macro will cast {{ site.data.talent.pw }} at your current Mouseover target if it is an enemy, otherwise will cast it on your current target.
+This macro will cast {{ site.data.spell.pw }} at your current Mouseover target if it is an enemy, otherwise will cast it on your current target.
 
 ```
 #showtooltip
@@ -64,7 +64,7 @@ This macro will cast {{ site.data.spell.eq }} at the current location of your cu
 
 ## Primordial Elementalist or Liquid Magma Totem
 
-This macro will use either {{ site.data.spell.tempest }} or {{ site.data.spell.meteor }} when {{ site.data.talent.pe }} is talented, or {{ site.data.talent.lmt }} at your Cursor location if it is talented.
+This macro will use either {{ site.data.spell.tempest }} or {{ site.data.spell.meteor }} when {{ site.data.spell.pe }} is talented, or {{ site.data.spell.lmt }} at your Cursor location if it is talented.
 
 ```
 #showtooltip
@@ -75,21 +75,21 @@ This macro will use either {{ site.data.spell.tempest }} or {{ site.data.spell.m
 
 ## Elemental and Primordial Elementalist
 
-This macro will summon your currently talented Elemental, and when pressed again the associated {{ site.data.talent.pe }} spell for them.
+This macro will summon your currently talented Elemental, and when pressed again the associated {{ site.data.spell.pe }} spell for them.
 
 ```
 #showtooltip
 /use [pet:Primal Storm Elemental]Tempest;[pet:Primal Fire Elemental]Meteor
 /use [known:Storm Elemental]Storm Elemental;[known:Fire Elemental]Fire Elemental
 ```
-*Note: This macro does not include {{ site.data.talent.lmt }}.*
+*Note: This macro does not include {{ site.data.spell.lmt }}.*
 
 <hr>
 
 # Utility
 
 ## Dismiss pet
-This macro requires the [following Weakaura](https://wago.io/3fH2MR2PA) to work, and will dismiss your currently summoned elementals whenever you use it. This is mostly used on {{ site.data.talent.ee }}.
+This macro requires the [following Weakaura](https://wago.io/3fH2MR2PA) to work, and will dismiss your currently summoned elementals whenever you use it. This is mostly used on {{ site.data.spell.ee }}.
 
 ```
 /click MyTotemFrame1
@@ -146,7 +146,7 @@ This macro works for specific interrupt uses, if you dislike using Focus or Mous
 
 ## Hex
 
-This macro will use {{ site.data.talent.hex }} at your Focus if you have one, try on your current Mouseover target if it is an enemy, otherwise will {{ site.data.talent.hex }} your current target.
+This macro will use {{ site.data.spell.hex }} at your Focus if you have one, try on your current Mouseover target if it is an enemy, otherwise will {{ site.data.spell.hex }} your current target.
 
 ```
 #showtooltip
@@ -158,10 +158,10 @@ This macro will use {{ site.data.talent.hex }} at your Focus if you have one, tr
 ## Purge/Decurse single macro
 
 This macro will use in that order:
- - {{ site.data.talent.purge }} or {{ site.data.talent.greater_purge }} on your Mouseover target if it is an enemy,
- - {{ site.data.talent.cleanse_spirit }} on your Mouseover target if it is an enemy,
- - {{ site.data.talent.purge }} or {{ site.data.talent.greater_purge }} on current target if it is an enemy,
- - {{ site.data.talent.cleanse_spirit }} on your current target if it is an ally.
+ - {{ site.data.spell.purge }} or {{ site.data.spell.greater_purge }} on your Mouseover target if it is an enemy,
+ - {{ site.data.spell.cleanse_spirit }} on your Mouseover target if it is an enemy,
+ - {{ site.data.spell.purge }} or {{ site.data.spell.greater_purge }} on current target if it is an enemy,
+ - {{ site.data.spell.cleanse_spirit }} on your current target if it is an ally.
 
 ```
 #showtooltip
@@ -175,9 +175,9 @@ This macro will use in that order:
 
 This macro will use in that order:
  - {{ site.data.spell.cl }} on your Mouseover target if it is an enemy,
- - {{ site.data.talent.chain_heal }} on your Mouseover target if it is an enemy,
+ - {{ site.data.spell.chain_heal }} on your Mouseover target if it is an enemy,
  - {{ site.data.spell.cl }} on current target if it is an enemy,
- - {{ site.data.talent.chain_heal }} on your current target if it is an ally.
+ - {{ site.data.spell.chain_heal }} on your current target if it is an ally.
 
 ```
 #showtooltip
@@ -198,7 +198,7 @@ This macro will cast {{ site.data.spell.healing_surge }} at your current Mouseov
 <br>
 
 ## Elemental Shields
-This macro will cast {{ site.data.talent.earth_shield }} on yourself if you press Shift while using it, otherwise it will cast {{ site.data.spell.lightning_shield }} on yourself.
+This macro will cast {{ site.data.spell.earth_shield }} on yourself if you press Shift while using it, otherwise it will cast {{ site.data.spell.lightning_shield }} on yourself.
 
 ```
 #showtooltip
@@ -244,7 +244,7 @@ This macro will cast {{ site.data.spell.totemic_projection }} at the current loc
 
 ## Fire Elemental and Storm Elemental
 
-This macro will cast either {{ site.data.talent.fe }} or {{ site.data.talent.se }} depending on your talent choice.
+This macro will cast either {{ site.data.spell.fe }} or {{ site.data.spell.se }} depending on your talent choice.
 
 ```
 #showtooltip
@@ -255,7 +255,7 @@ This macro will cast either {{ site.data.talent.fe }} or {{ site.data.talent.se 
 
 ## Spirit Walk / Gust of Wind
 
-This macro will cast either {{ site.data.talent.spirit_walk }} or {{ site.data.talent.gow }} depending on your talent choices.
+This macro will cast either {{ site.data.spell.spirit_walk }} or {{ site.data.spell.gow }} depending on your talent choices.
 
 ```
 #showtooltip
@@ -266,7 +266,7 @@ This macro will cast either {{ site.data.talent.spirit_walk }} or {{ site.data.t
 
 ## Stoneskin Totem / Tranquil Air Totem
 
-This macro will cast either {{ site.data.talent.stoneskin_totem }} or {{ site.data.talent.tranquil_air_totem }} depending on your talent choices.
+This macro will cast either {{ site.data.spell.stoneskin_totem }} or {{ site.data.spell.tranquil_air_totem }} depending on your talent choices.
 
 ```
 #showtooltip

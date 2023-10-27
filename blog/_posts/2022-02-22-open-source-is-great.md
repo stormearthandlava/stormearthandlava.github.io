@@ -53,7 +53,7 @@ Each body has a story. Reconstructing it is necessary to figure out how to fix t
 Now. Are you aware about spell ranks? E.g.:
 - {{ site.data.spell.lvb }} autocrit effect is the result of {{ site.data.spell.lvb_2 }}. Introduced in 7.2.0.
 - {{ site.data.spell.cl }} hitting 5 targets instead of its baseline 3 is the result of {{ site.data.spell.cl_2 }}. Introduced in 7.2.0.
-- {{ site.data.talent.fe }} doubling the duration of freshly applied {{ site.data.spell.fs }} is the result of {{ site.data.spell.fe_2 }}. Introduced in 9.0.1.
+- {{ site.data.spell.fe }} doubling the duration of freshly applied {{ site.data.spell.fs }} is the result of {{ site.data.spell.fe_2 }}. Introduced in 9.0.1.
 
 What if I told you {{ site.data.spell.lb }} has a Rank 2, too?
 - It does. {{ site.data.spell.lb_2 }}. Introduced in 9.0.1.
@@ -68,20 +68,20 @@ But...during the transition to Shadowlands we forgot to implement its existence.
 
 What does this mean?
 - All Shadowlands simulations up to this point used {{ site.data.spell.lb }} with a base casttime of 2.5 seconds.
-- {{ site.data.talent.eote }} was slightly overvalued. 
+- {{ site.data.spell.eote }} was slightly overvalued. 
 This talent thrives off the DPET difference between {{ site.data.spell.lb }} and {{ site.data.spell.lvb }}. The higher the difference the better this talent.
-- {{ site.data.talent.afs }} was slightly undervalued in single target, 
+- {{ site.data.spell.afs }} was slightly undervalued in single target, 
 because our baseline Maelstrom generation was slightly better than the simulation knew. 
 The more Maelstrom we generate the more powerful this talent becomes.
-- {{ site.data.talent.eb }} was slightly overvalued. 
+- {{ site.data.spell.eb }} was slightly overvalued. 
 It's worth is a combination of having a higher DPET than {{ site.data.spell.lb }}, 
 generating more Maelstrom, and generating buffs. The DPET difference was slightly overvalued.
-- {{ site.data.talent.se }} was undervalued in single target. 
+- {{ site.data.spell.se }} was undervalued in single target. 
 A higher {{ site.data.spell.lb }} DPET value makes {{ site.data.spell.wind_gust }} buffs stronger.
-- {{ site.data.talent.sop }} was slightly undervaluing its {{ site.data.spell.lb }} part.
-- {{site.data.talent.up }} was slightly undervalued because if our base cast finished quicker,
+- {{ site.data.spell.sop }} was slightly undervaluing its {{ site.data.spell.lb }} part.
+- {{ site.data.spell.up }} was slightly undervalued because if our base cast finished quicker,
 on average we can get more casts into the 10 seconds buff window gaining more benefit from it and stacking is ever so slightly higher.
-- {{ site.data.talent.sk }} was slightly overvalued. 
+- {{ site.data.spell.sk }} was slightly overvalued. 
 This talent grants a damage increase and a casttime decrease by making {{ site.data.spell.lb }} instant. 
 The difference between a 2.5s cast becoming instant (twice) and a 2.0s cast becoming instant is noticeable.
 
@@ -89,8 +89,8 @@ While this oversight is bothering it's probably nothing major for the last two t
 
 But buckle up. 9.2.0 is coming.
 
-{{ site.data.talent.se }} will thrive even more. 
-{{ site.data.talent.sop }} focusing solely on the {{ site.data.spell.lb }} part comes surprisingly close to {{ site.data.talent.pe }}.
+{{ site.data.spell.se }} will thrive even more. 
+{{ site.data.spell.sop }} focusing solely on the {{ site.data.spell.lb }} part comes surprisingly close to {{ site.data.spell.pe }}.
 `MACHINE GUN` gains a casual 6% in simulations that were already present in the game.
 
 Wrapping up, SimulationCraft has the base casttime now fixed.
