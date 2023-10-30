@@ -46,7 +46,7 @@ Question:
 - can overload
 - Overloads generate 3 Maelstrom
 
-{{site.data.spell.es }}
+{{ site.data.spell.es }}
 - SP: 210%
 - casttime: 1.5 sec
 - cost: 60 Maelstrom
@@ -161,9 +161,9 @@ The linked spreadsheet has the old, new, and a calculation with added mastery in
 
 ## Lightning Bolt during Storm Elemental vs baseline haste
 
-To tackle this question we first need to know how {{ site.data.talent.se }} stacks work differently than haste.
+To tackle this question we first need to know how {{ site.data.spell.se }} stacks work differently than haste.
 Haste reduces the casttime of a spell by division. `new_casttime = base_casttime / ( 1.0 + haste )`
-{{ site.data.talent.se }} stacks on the other hand reduce the casttime directly.
+{{ site.data.spell.se }} stacks on the other hand reduce the casttime directly.
 
 Type | Value
 --- | ---
@@ -173,9 +173,9 @@ Base casttime | 2 seconds
 Hasted casttime | 1.538 seconds
 SEed casttime | 1.4 seconds
 
-Additionally we need to know, that the GCD during {{ site.data.talent.se }} uptime is locked at 0.5 seconds for {{ site.data.spell.lb }} and {{ site.data.spell.cl }}. So once we have a shorter cast time than 0.5 seconds we found this haste break point.
+Additionally we need to know, that the GCD during {{ site.data.spell.se }} uptime is locked at 0.5 seconds for {{ site.data.spell.lb }} and {{ site.data.spell.cl }}. So once we have a shorter cast time than 0.5 seconds we found this haste break point.
 
-After getting this out of the way, let's head into this fairly easy calculation. First we calculate the new casttime with {{ site.data.talent.se }} 20 stacks.
+After getting this out of the way, let's head into this fairly easy calculation. First we calculate the new casttime with {{ site.data.spell.se }} 20 stacks.
 
 ```python
 LB = base_casttime * ( 1.0 - se_stacks * 0.03 )

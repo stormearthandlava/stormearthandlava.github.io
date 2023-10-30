@@ -28,7 +28,7 @@ big_article: false
 * {{ site.data.item.potion_rhp }} will be the best choice.
 
 ## Rune
-* {{ site.data.item.rune_haste }} when you do not use {{ site.data.talent.imp_ftw }}.
+* {{ site.data.item.rune_haste }} when you do not use {{ site.data.spell.imp_ftw }}.
 
 ## Gems
 Sim for your best stat where choices are available.

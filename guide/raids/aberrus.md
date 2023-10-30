@@ -25,15 +25,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <hr>
 
 # Miscellaneous Tips
-- Recommendations that include {{ site.data.talent.if }} are written with the assumption that you have access to {{ site.data.spell.frs }}, the same applies to {{ site.data.talent.lmt }}, {{ site.data.talent.totemic_recall }} and {{ site.data.talent.call_of_the_elements }}.
+- Recommendations that include {{ site.data.spell.if }} are written with the assumption that you have access to {{ site.data.spell.frs }}, the same applies to {{ site.data.spell.lmt }}, {{ site.data.spell.totemic_recall }} and {{ site.data.spell.call_of_the_elements }}.
 
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
-- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.talent.spiritwalkers_grace }}, {{ site.data.talent.gust_of_wind }} and instant casts as much as you can for movement heavy encounters.
+- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.spell.spiritwalkers_grace }}, {{ site.data.spell.gust_of_wind }} and instant casts as much as you can for movement heavy encounters.
 
-- Planning and using {{ site.data.talent.ee }} on a particular phase can alleviate the difficulty of whole parts of a fight. It will increase your maximum health by an additional 15 % and can give you {{ site.data.talent.primordial_bond }} for the whole duration. Be careful and remember that it could interfere with your Primal Fire/Storm Elemental usage when {{ site.data.talent.pe }} is talented.
+- Planning and using {{ site.data.spell.ee }} on a particular phase can alleviate the difficulty of whole parts of a fight. It will increase your maximum health by an additional 15 % and can give you {{ site.data.spell.primordial_bond }} for the whole duration. Be careful and remember that it could interfere with your Primal Fire/Storm Elemental usage when {{ site.data.spell.pe }} is talented.
 
-- Recall that {{ site.data.externals.stampeding_roar }} is now more potent than {{ site.data.talent.wind_rush_totem }}. Depending on your raid comp, it may be better to spend that talent point somewhere else.
+- Recall that {{ site.data.externals.stampeding_roar }} is now more potent than {{ site.data.spell.wind_rush_totem }}. Depending on your raid comp, it may be better to spend that talent point somewhere else.
 
 - Remember to buy {{ site.data.externals.gateway_control_shard }} in Valdrakken. It will allow you to use {{ site.data.externals.demonic_gateway }} easily.
 
@@ -76,15 +76,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * There are no phases / add spawns that require you to plan your cooldowns around.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.hellbeam }}, {{ site.data.raid.aberrus.dread_rift }} and {{ site.data.raid.aberrus.rays_of_anguish }}.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.hellbeam }}, {{ site.data.raid.aberrus.dread_rift }} and {{ site.data.raid.aberrus.rays_of_anguish }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.infernal_fusion }} (Mythic-only) and {{ site.data.raid.aberrus.dread_rift }}, especially in later stages of the fight when {{ site.data.raid.aberrus.infernal_heart }} becomes more potent.
-* If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.as }} or healing consumables for {{ site.data.raid.aberrus.infernal_fusion }} (Mythic-only) and {{ site.data.raid.aberrus.dread_rift }}, especially in later stages of the fight when {{ site.data.raid.aberrus.infernal_heart }} becomes more potent.
+* If talented, use {{ site.data.spell.earth_shield }} and {{ site.data.spell.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players that are targeted by {{ site.data.raid.aberrus.rays_of_anguish }} repositioning.
+* Use {{ site.data.spell.wrt }} to help players that are targeted by {{ site.data.raid.aberrus.rays_of_anguish }} repositioning.
 
 </div>
 </div>
@@ -119,17 +119,17 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * Keep {{ site.data.spell.fs }} up on both {{ site.data.raid.aberrus.essence_of_shadow }} and {{ site.data.raid.aberrus.eternal_blaze }} during Phase 1 as long as you don't accumulate too many stacks of {{ site.data.raid.aberrus.corrupting_shadow }} and {{ site.data.raid.aberrus.blazing_heat }}.
-* Ensure to have {{ site.data.talent.fe }} / {{ site.data.talent.se }} ready for Phase 2.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.umbral_detonation }}, {{ site.data.raid.aberrus.blistering_twilight }} and {{ site.data.raid.aberrus.coalescing_void }}.
+* Ensure to have {{ site.data.spell.fe }} / {{ site.data.spell.se }} ready for Phase 2.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.umbral_detonation }}, {{ site.data.raid.aberrus.blistering_twilight }} and {{ site.data.raid.aberrus.coalescing_void }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables whenever you accumulate high stacks of {{ site.data.raid.aberrus.corrupting_shadow }}, {{ site.data.raid.aberrus.blazing_heat }} or {{ site.data.raid.aberrus.shadowflame_contamination }}, especially when affected by {{ site.data.raid.aberrus.lingering_shadows }} (Mythic-only) or {{ site.data.raid.aberrus.lingering_flames }} (Mythic-only).
-* If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.as }} or healing consumables whenever you accumulate high stacks of {{ site.data.raid.aberrus.corrupting_shadow }}, {{ site.data.raid.aberrus.blazing_heat }} or {{ site.data.raid.aberrus.shadowflame_contamination }}, especially when affected by {{ site.data.raid.aberrus.lingering_shadows }} (Mythic-only) or {{ site.data.raid.aberrus.lingering_flames }} (Mythic-only).
+* If talented, use {{ site.data.spell.earth_shield }} and {{ site.data.spell.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players that are targeted by {{ site.data.raid.aberrus.blistering_twilight }} during Phase 1.
-* If available, use {{ site.data.externals.demonic_gateway }} and {{ site.data.talent.wrt }} to deal with {{ site.data.raid.aberrus.coalescing_void }} during Phase 2.
+* Use {{ site.data.spell.wrt }} to help players that are targeted by {{ site.data.raid.aberrus.blistering_twilight }} during Phase 1.
+* If available, use {{ site.data.externals.demonic_gateway }} and {{ site.data.spell.wrt }} to deal with {{ site.data.raid.aberrus.coalescing_void }} during Phase 2.
 
 </div>
 </div>
@@ -164,18 +164,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * Focus down {{ site.data.raid.aberrus.erratic_remnant }} whenever they are active to prevent damage from {{ site.data.raid.aberrus.erratic_burst }}.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.massive_slam }}, {{ site.data.raid.aberrus.rending_charge }} and {{ site.data.raid.aberrus.deep_breath }}.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.massive_slam }}, {{ site.data.raid.aberrus.rending_charge }} and {{ site.data.raid.aberrus.deep_breath }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} and {{ site.data.talent.stoneskin_totem }} or healing consumables when targeted by {{ site.data.raid.aberrus.rending_charge }}.
-* If talented, use {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.as }} and {{ site.data.spell.stoneskin_totem }} or healing consumables when targeted by {{ site.data.raid.aberrus.rending_charge }}.
+* If talented, use {{ site.data.spell.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players dodging {{ site.data.raid.aberrus.massive_slam }} in Phase 1, {{ site.data.raid.aberrus.unstable_essence }} upon removal in Phase 2 and {{ site.data.raid.aberrus.deep_breath }} in Phase 3.
+* Use {{ site.data.spell.wrt }} to help players dodging {{ site.data.raid.aberrus.massive_slam }} in Phase 1, {{ site.data.raid.aberrus.unstable_essence }} upon removal in Phase 2 and {{ site.data.raid.aberrus.deep_breath }} in Phase 3.
 
 #### Additional Notes:
-* Having access to both {{ site.data.talent.go_with_the_flow }} and {{ site.data.externals.blessing_of_the_bronze }} provides the option of having {{ site.data.talent.gow }} ready for every single {{ site.data.raid.aberrus.massive_slam }}.
+* Having access to both {{ site.data.spell.go_with_the_flow }} and {{ site.data.externals.blessing_of_the_bronze }} provides the option of having {{ site.data.spell.gow }} ready for every single {{ site.data.raid.aberrus.massive_slam }}.
 
 </div>
 </div>
@@ -203,19 +203,19 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * Always focus down {{ site.data.raid.aberrus.magma_mystic }} as fast as possible to limit the damage income of {{ site.data.raid.aberrus.molten_barrier }}.
-* Ensure to have {{ site.data.talent.sk }} ready and preferably prepare an {{ site.data.talent.eogs }} buff when {{ site.data.raid.aberrus.zaqali_wallclimber }} are about to spawn.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.vigorous_gale }}, {{ site.data.raid.aberrus.cave_rubble }} and {{ site.data.raid.aberrus.renewed_hatchling }} (Mythic-only).
+* Ensure to have {{ site.data.spell.sk }} ready and preferably prepare an {{ site.data.spell.eogs }} buff when {{ site.data.raid.aberrus.zaqali_wallclimber }} are about to spawn.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.vigorous_gale }}, {{ site.data.raid.aberrus.cave_rubble }} and {{ site.data.raid.aberrus.renewed_hatchling }} (Mythic-only).
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.flaming_cudgel }} and while {{ site.data.raid.aberrus.molten_barrier }} is up.
+* Use {{ site.data.spell.as }} or healing consumables for {{ site.data.raid.aberrus.flaming_cudgel }} and while {{ site.data.raid.aberrus.molten_barrier }} is up.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.capacitor_totem }}, {{ site.data.spell.earthbind_totem }} and {{ site.data.talent.thunderstorm }} to gather and stun as many adds as possible, but especially to keep {{ site.data.raid.aberrus.renewed_hatchling }} (Mythic-only) away from players.
-* Use {{ site.data.talent.wrt }} to help players dealing with {{ site.data.raid.aberrus.cave_rubble }}.
+* Use {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.thunderstorm }} to gather and stun as many adds as possible, but especially to keep {{ site.data.raid.aberrus.renewed_hatchling }} (Mythic-only) away from players.
+* Use {{ site.data.spell.wrt }} to help players dealing with {{ site.data.raid.aberrus.cave_rubble }}.
 
 #### Additional Notes:
-- {{ site.data.raid.aberrus.renewed_hatchling }} (Mythic-only) are CC-able. There's potential for a strategy where you would perma CC them, which would make {{ site.data.talent.earthgrab_totem }} and {{ site.data.talent.hex }} viable options. It's unlikely since the boss is one of the first ones, which means it probably won't require this level of micro management (logs seem to indicate this as well)
+- {{ site.data.raid.aberrus.renewed_hatchling }} (Mythic-only) are CC-able. There's potential for a strategy where you would perma CC them, which would make {{ site.data.spell.earthgrab_totem }} and {{ site.data.spell.hex }} viable options. It's unlikely since the boss is one of the first ones, which means it probably won't require this level of micro management (logs seem to indicate this as well)
 
 </div>
 </div>
@@ -250,15 +250,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * There are no phases / add spawns that require you to plan your cooldowns around.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.doom_flames }} or {{ site.data.raid.aberrus.searing_slam }}.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.doom_flames }} or {{ site.data.raid.aberrus.searing_slam }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.scorching_heatwave }} or overlaps of {{ site.data.raid.aberrus.charged_smash }}, {{ site.data.raid.aberrus.overcharged }} (Mythic-only) and {{ site.data.raid.aberrus.conduit_flare }} (Mythic-only).
-* If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.as }} or healing consumables for {{ site.data.raid.aberrus.scorching_heatwave }} or overlaps of {{ site.data.raid.aberrus.charged_smash }}, {{ site.data.raid.aberrus.overcharged }} (Mythic-only) and {{ site.data.raid.aberrus.conduit_flare }} (Mythic-only).
+* If talented, use {{ site.data.spell.earth_shield }} and {{ site.data.spell.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players dealing with {{ site.data.raid.aberrus.searing_slam }} or {{ site.data.raid.aberrus.doom_flames }}.
+* Use {{ site.data.spell.wrt }} to help players dealing with {{ site.data.raid.aberrus.searing_slam }} or {{ site.data.raid.aberrus.doom_flames }}.
 
 </div>
 </div>
@@ -292,17 +292,17 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-* Ensure to have {{ site.data.talent.sk }} ready and preferably prepare an {{ site.data.talent.eogs }} buff when {{ site.data.raid.aberrus.dragonfire_golem }} are about to spawn.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.blast_wave }} or {{ site.data.raid.aberrus.tactical_destruction }}.
+* Ensure to have {{ site.data.spell.sk }} ready and preferably prepare an {{ site.data.spell.eogs }} buff when {{ site.data.raid.aberrus.dragonfire_golem }} are about to spawn.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.blast_wave }} or {{ site.data.raid.aberrus.tactical_destruction }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for overlaps of {{ site.data.raid.aberrus.blast_wave }} and {{ site.data.raid.aberrus.unstable_embers }} or whenever targeted by {{ site.data.raid.aberrus.elimination_protocol }} (Mythic-only).
-* If talented, use {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.as }} or healing consumables for overlaps of {{ site.data.raid.aberrus.blast_wave }} and {{ site.data.raid.aberrus.unstable_embers }} or whenever targeted by {{ site.data.raid.aberrus.elimination_protocol }} (Mythic-only).
+* If talented, use {{ site.data.spell.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.capacitor_totem }} and {{ site.data.talent.earthgrab_totem }} if talented to gather and stun as many {{ site.data.raid.aberrus.dragonfire_golem }} as possible but keep in mind that {{ site.data.raid.aberrus.reinforced_defenses }} (Mythic-only) will prevent you from applying those CCs.
-* Use {{ site.data.talent.wrt }} to help players repositioning during {{ site.data.raid.aberrus.tactical_destruction }}.
+* Use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.earthgrab_totem }} if talented to gather and stun as many {{ site.data.raid.aberrus.dragonfire_golem }} as possible but keep in mind that {{ site.data.raid.aberrus.reinforced_defenses }} (Mythic-only) will prevent you from applying those CCs.
+* Use {{ site.data.spell.wrt }} to help players repositioning during {{ site.data.raid.aberrus.tactical_destruction }}.
 </div>
 </div>
 </div>
@@ -336,18 +336,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * There are no phases / add spawns that require you to plan your cooldowns around.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.blazing_breath }}, {{ site.data.raid.aberrus.molten_spittle }} and {{ site.data.raid.aberrus.overpowering_stomp }}.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.blazing_breath }}, {{ site.data.raid.aberrus.molten_spittle }} and {{ site.data.raid.aberrus.overpowering_stomp }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for whenever you accumulate high stacks of {{ site.data.raid.aberrus.searing_heat }} but especially for overlaps with {{ site.data.raid.aberrus.igniting_roar }}.
-* If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.as }} or healing consumables for whenever you accumulate high stacks of {{ site.data.raid.aberrus.searing_heat }} but especially for overlaps with {{ site.data.raid.aberrus.igniting_roar }}.
+* If talented, use {{ site.data.spell.earth_shield }} and {{ site.data.spell.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by {{ site.data.raid.aberrus.molten_spittle }}.
+* Use {{ site.data.spell.wrt }} to help players repositioning that are targeted by {{ site.data.raid.aberrus.molten_spittle }}.
 
 #### Optional Notes:
-* You can currently use {{ site.data.externals.demonic_gateway }} to handle every {{ site.data.raid.aberrus.overpowering_stomp }} (except Mythic). Both {{ site.data.talent.swg }} and {{ site.data.talent.gow }} can then be used to handle other mechanics.
+* You can currently use {{ site.data.externals.demonic_gateway }} to handle every {{ site.data.raid.aberrus.overpowering_stomp }} (except Mythic). Both {{ site.data.spell.swg }} and {{ site.data.spell.gow }} can then be used to handle other mechanics.
 
 </div>
 </div>
@@ -381,17 +381,17 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-* Use {{ site.data.talent.sk }} and  {{ site.data.talent.fe }} / {{ site.data.talent.se }} to burst down {{ site.data.raid.aberrus.voice_from_beyond }}.
-* If talented, prepare an {{ site.data.talent.eogs }} buff when {{ site.data.raid.aberrus.twisted_aberration }} are about to spawn.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.rushing_darkness }} and {{ site.data.raid.aberrus.volcanic_heart }}.
+* Use {{ site.data.spell.sk }} and  {{ site.data.spell.fe }} / {{ site.data.spell.se }} to burst down {{ site.data.raid.aberrus.voice_from_beyond }}.
+* If talented, prepare an {{ site.data.spell.eogs }} buff when {{ site.data.raid.aberrus.twisted_aberration }} are about to spawn.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.rushing_darkness }} and {{ site.data.raid.aberrus.volcanic_heart }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for {{ site.data.raid.aberrus.surrender_to_corruption }}, high stacks of {{ site.data.raid.aberrus.umbral_annihilation }} and whenever targeted by {{ site.data.raid.aberrus.volcanic_heart }}.
-* If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.as }} or healing consumables for {{ site.data.raid.aberrus.surrender_to_corruption }}, high stacks of {{ site.data.raid.aberrus.umbral_annihilation }} and whenever targeted by {{ site.data.raid.aberrus.volcanic_heart }}.
+* If talented, use {{ site.data.spell.earth_shield }} and {{ site.data.spell.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.wrt }} to help players repositioning that are targeted by either {{ site.data.raid.aberrus.rushing_darkness }} or {{ site.data.raid.aberrus.volcanic_heart }}.
+* Use {{ site.data.spell.wrt }} to help players repositioning that are targeted by either {{ site.data.raid.aberrus.rushing_darkness }} or {{ site.data.raid.aberrus.volcanic_heart }}.
 
 </div>
 </div>
@@ -426,19 +426,19 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-* Use {{ site.data.talent.sk }} to burst down {{ site.data.raid.aberrus.null_glimmer }}.
+* Use {{ site.data.spell.sk }} to burst down {{ site.data.raid.aberrus.null_glimmer }}.
 * Focus down {{ site.data.raid.aberrus.empty_recollection }} whenever they are active (Mythic-only).
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.scorching_bomb }} and {{ site.data.raid.aberrus.drifting_embers }}.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.aberrus.scorching_bomb }} and {{ site.data.raid.aberrus.drifting_embers }}.
 
 #### Defensives:
-* Use {{ site.data.talent.as }} or healing consumables for whenever you accumulate high stacks of {{ site.data.raid.aberrus.oblivion }} but especially during overlaps of {{ site.data.raid.aberrus.echoing_howl }} and {{ site.data.raid.aberrus.glittering_surge }}.
-* If talented, use {{ site.data.talent.earth_shield }} and {{ site.data.talent.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.as }} or healing consumables for whenever you accumulate high stacks of {{ site.data.raid.aberrus.oblivion }} but especially during overlaps of {{ site.data.raid.aberrus.echoing_howl }} and {{ site.data.raid.aberrus.glittering_surge }}.
+* If talented, use {{ site.data.spell.earth_shield }} and {{ site.data.spell.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
 #### Utilities:
-* Use {{ site.data.talent.capacitor_totem }} and {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.aberrus.blasting_scream }} from {{ site.data.raid.aberrus.null_glimmer }}.
+* Use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.aberrus.blasting_scream }} from {{ site.data.raid.aberrus.null_glimmer }}.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.aberrus.cosmic_volley }} from {{ site.data.raid.aberrus.empty_recollection }} (Mythic-only).
-* Use {{ site.data.talent.wrt }} to help players collect {{ site.data.raid.aberrus.astral_flare }} and {{ site.data.raid.aberrus.mind_fragment }} during {{ site.data.raid.aberrus.emptiness_between_stars }}.
+* Use {{ site.data.spell.wrt }} to help players collect {{ site.data.raid.aberrus.astral_flare }} and {{ site.data.raid.aberrus.mind_fragment }} during {{ site.data.raid.aberrus.emptiness_between_stars }}.
 </div>
 </div>
 </div>
