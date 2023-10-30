@@ -35,49 +35,49 @@ Kyrian | Venthyr | Night Fae | Necrolords
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
-        <li class="pe-apl" style="display: none;"> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.tempest }} if no multi-target will happen soon. Make sure {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.tempest }}.</li>
-        <li> Cast {{ site.data.talent.fe }} / {{ site.data.talent.se }} on cooldown.</li>
+        <li class="pe-apl" style="display: none;"> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.tempest }} if no multi-target will happen soon. Make sure {{ site.data.spell.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.tempest }}.</li>
+        <li> Cast {{ site.data.spell.fe }} / {{ site.data.spell.se }} on cooldown.</li>
         <li> Cast {{ site.data.spell.fs }} when any of the following are true:
             <ul>
                 <li>It is not active on the target.</li>
-                <li class="asc-apl" style="display:none;">You are about to enter {{site.data.talent.asc}}.</li>
+                <li class="asc-apl" style="display:none;">You are about to enter {{ site.data.spell.asc }}.</li>
                 <li>The debuff's duration is at or below 6 seconds remaining.</li>
             </ul>
-        <li> Cast {{ site.data.spell.lvb }} with {{ site.data.talent.lvs }} active.</li>
+        <li> Cast {{ site.data.spell.lvb }} with {{ site.data.spell.lvs }} active.</li>
         <li> Cast {{ site.data.spell.eq }} if you're fighting 2 or more enemies and your next cast would take you above 100 Maelstrom.</li>
-        <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} with {{ site.data.talent.asc }} active. </li>
-        <li> Cast {{ site.data.spell.es }} if your next cast would take you above 100 Maelstrom and fighting 1 target.  Note: if {{ site.data.expansion_feature.sl.legendary.ws }} is equipped and {{ site.data.talent.asc }} is active, you should avoid overcapping Maelstrom. </li>
+        <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} with {{ site.data.spell.asc }} active. </li>
+        <li> Cast {{ site.data.spell.es }} if your next cast would take you above 100 Maelstrom and fighting 1 target.  Note: if {{ site.data.expansion_feature.sl.legendary.ws }} is equipped and {{ site.data.spell.asc }} is active, you should avoid overcapping Maelstrom. </li>
         </li>
         <!-- covenant abilities -->
-        <li class="pw-apl" style="display: list-item;">Cast {{ site.data.talent.primordial_wave}} on a target without {{ site.data.spell.fs }} or the target with the lowest duration remaining. Delay it if adds are gonna spawn, if it doesn't lead to you losing a use.</li>
-        <li class="vt-apl" style="display: none;">Cast {{ site.data.spell.vesper_totem}} on cooldown. </li>
-        <li class="ft-apl" style="display: none;">Cast {{ site.data.spell.fae_transfusion}} on cooldown (buff it with {{site.data.talent.master_of_the_elements}} if talented into that). </li>
+        <li class="pw-apl" style="display: list-item;">Cast {{ site.data.spell.primordial_wave }} on a target without {{ site.data.spell.fs }} or the target with the lowest duration remaining. Delay it if adds are gonna spawn, if it doesn't lead to you losing a use.</li>
+        <li class="vt-apl" style="display: none;">Cast {{ site.data.spell.vesper_totem }} on cooldown. </li>
+        <li class="ft-apl" style="display: none;">Cast {{ site.data.spell.fae_transfusion }} on cooldown (buff it with {{ site.data.spell.master_of_the_elements }} if talented into that). </li>
         <!-- covenant abilities end -->
-        <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.es }} while affected by {{site.data.talent.ecs}}.</li>
-        <li class="ecs-apl" style="display:none;">Cast {{ site.data.talent.ecs }}.</li>
-        <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} if {{site.data.talent.if}} buffs would run out.</li>
-        <li class="eb-apl" style="display: list-item;">Cast {{ site.data.talent.eb }} on cooldown, if {{ site.data.talent.asc }} is not active and ideally with less than 70 maelstrom.</li>
-        <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.talent.sk }} on cooldown.</li>
-        <li class="lmt-apl" style="display:none;" >Cast {{ site.data.talent.lmt }} on cooldown.</li>
-        <li class="asc-apl" style="display:none;">Cast {{ site.data.talent.asc }} on cooldown, if neither {{ site.data.talent.se }} is active, nor {{ site.data.spell.lvb }} is available, nor {{ site.data.talent.if }} is active.</li>
-        <li class="sk-apl" style="display: list-item;">Cast {{ site.data.spell.lb }} if {{ site.data.talent.sk }} is active and when any of the following are true (if you don't see any following conditions, ignore this line):
+        <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.es }} while affected by {{ site.data.spell.ecs }}.</li>
+        <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.ecs }}.</li>
+        <li class="if-apl" style="display:none;">Cast {{ site.data.spell.frs }} if {{ site.data.spell.if }} buffs would run out.</li>
+        <li class="eb-apl" style="display: list-item;">Cast {{ site.data.spell.eb }} on cooldown, if {{ site.data.spell.asc }} is not active and ideally with less than 70 maelstrom.</li>
+        <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.spell.sk }} on cooldown.</li>
+        <li class="lmt-apl" style="display:none;" >Cast {{ site.data.spell.lmt }} on cooldown.</li>
+        <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.asc }} on cooldown, if neither {{ site.data.spell.se }} is active, nor {{ site.data.spell.lvb }} is available, nor {{ site.data.spell.if }} is active.</li>
+        <li class="sk-apl" style="display: list-item;">Cast {{ site.data.spell.lb }} if {{ site.data.spell.sk }} is active and when any of the following are true (if you don't see any following conditions, ignore this line):
             <ul>
-                <li class="mote-apl" style="display: list-item;">{{ site.data.talent.mote }} is active and {{ site.data.talent.sop }} is NOT selected.</li>
-                <li class="sop-apl" style="display: none;">{{ site.data.talent.sop }} is active.</li>
+                <li class="mote-apl" style="display: list-item;">{{ site.data.spell.mote }} is active and {{ site.data.spell.sop }} is NOT selected.</li>
+                <li class="sop-apl" style="display: none;">{{ site.data.spell.sop }} is active.</li>
             </ul>
         </li>
-        <li>Cast {{ site.data.spell.es }}. But read the <a href="#master-of-the-elements">special cases about delaying</a> {{ site.data.spell.es }} casts because of {{ site.data.talent.mote }}.</li>
-        <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff and {{ site.data.talent.mote }} buff active.</li>
-        <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.talent.asc }} is active.</li>
-        <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lvb }} with {{ site.data.talent.sop }} if you could get another use out of {{ site.data.talent.se }}/{{ site.data.talent.fe }} or lengthen its last possible duration within the fight.</li>
-        <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lb }} with {{ site.data.talent.sop }} buff active.</li>
-        <li>Cast {{site.data.spell.lvb }}.</li>
-        <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.talent.if }} buff active.</li>
-        <li class="if-apl" style="display: list-item;">Cast {{ site.data.talent.if }} on cooldown.</li>
-        <li class="ch-apl" style="display: none;">Cast {{ site.data.spell.chain_harvest}}.</li>
-        <li class="sd-apl" style="display: none;">Cast {{ site.data.talent.sk}}.</li>
+        <li>Cast {{ site.data.spell.es }}. But read the <a href="#master-of-the-elements">special cases about delaying</a> {{ site.data.spell.es }} casts because of {{ site.data.spell.mote }}.</li>
+        <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.spell.if }} buff and {{ site.data.spell.mote }} buff active.</li>
+        <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.spell.asc }} is active.</li>
+        <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lvb }} with {{ site.data.spell.sop }} if you could get another use out of {{ site.data.spell.se }}/{{ site.data.spell.fe }} or lengthen its last possible duration within the fight.</li>
+        <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lb }} with {{ site.data.spell.sop }} buff active.</li>
+        <li>Cast {{ site.data.spell.lvb }}.</li>
+        <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.spell.if }} buff active.</li>
+        <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.if }} on cooldown.</li>
+        <li class="ch-apl" style="display: none;">Cast {{ site.data.spell.chain_harvest }}.</li>
+        <li class="sd-apl" style="display: none;">Cast {{ site.data.spell.sk }}.</li>
         <li>Cast {{ site.data.spell.lb }} versus one target and {{ site.data.spell.cl }} versus two and more targets as a filler.</li>
-        <li>Cast {{ site.data.spell.frs }} while moving, if you don't have any other instants, even if you do not have {{ site.data.talent.if }}.</li>
+        <li>Cast {{ site.data.spell.frs }} while moving, if you don't have any other instants, even if you do not have {{ site.data.spell.if }}.</li>
     </ol>
 </div>
 
@@ -89,26 +89,26 @@ Kyrian | Venthyr | Night Fae | Necrolords
     <ol>
         <li class="ch-apl" style="display:none;">Cast {{ site.data.spell.chain_harvest }} on cooldown.</li>
         <li class="vt-apl" style="display:none;">Cast {{ site.data.spell.vesper_totem }} on cooldown.</li>
-        <li class="pw-apl">Cast {{ site.data.talent.primordial_wave }} on cooldown. Making sure to apply a fresh {{ site.data.spell.fs }} to a target if possible. See Special Mention below for furher information. </li>
-        <li> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.tempest }} against as many targets as possible. Make sure {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.tempest }}.</li>
-        <li>Cast {{ site.data.talent.fe }} / {{ site.data.talent.se }} on cooldown.</li>
+        <li class="pw-apl">Cast {{ site.data.spell.primordial_wave }} on cooldown. Making sure to apply a fresh {{ site.data.spell.fs }} to a target if possible. See Special Mention below for furher information. </li>
+        <li> Cast {{ site.data.spell.meteor }} / {{ site.data.spell.tempest }} against as many targets as possible. Make sure {{ site.data.spell.se }} buffs itself with {{ site.data.spell.call_lightning }} before you activate {{ site.data.spell.tempest }}.</li>
+        <li>Cast {{ site.data.spell.fe }} / {{ site.data.spell.se }} on cooldown.</li>
         <li class="ft-apl" style="display:none;">Cast {{ site.data.spell.fae_transfusion }} on any number of targets when {{ site.data.expansion_feature.sl.legendary.night_fae }} is equipped.</li>
-        <li class="sk-apl">Cast {{ site.data.talent.sk }} on cooldown.</li>
-        <li class="lmt-apl" style="display:none;">Cast {{ site.data.talent.lmt }} on cooldown.</li>
+        <li class="sk-apl">Cast {{ site.data.spell.sk }} on cooldown.</li>
+        <li class="lmt-apl" style="display:none;">Cast {{ site.data.spell.lmt }} on cooldown.</li>
         <li>Maintain 3 {{ site.data.spell.fs }}s if there are 3 targets, maintain 1 if there are 4 or more and you're forced to move.</li>
-        <li>Cast {{ site.data.spell.eq }} when available. (On less than 5 targets try gaming {{ site.data.talent.mote }}.)</li>
-        <li>Cast {{ site.data.spell.lvb }} to consume {{ site.data.talent.lava_surge }} procs when either less than 3 targets present, or when moving and more than 4 targets present</li>
-        <li class="eb-apl" style="display:none;">Cast {{ site.data.talent.eb }} if there are 3 targets.</li>
+        <li>Cast {{ site.data.spell.eq }} when available. (On less than 5 targets try gaming {{ site.data.spell.mote }}.)</li>
+        <li>Cast {{ site.data.spell.lvb }} to consume {{ site.data.spell.lava_surge }} procs when either less than 3 targets present, or when moving and more than 4 targets present</li>
+        <li class="eb-apl" style="display:none;">Cast {{ site.data.spell.eb }} if there are 3 targets.</li>
         <li class="ft-apl" style="display:none;">Cast {{ site.data.spell.fae_transfusion }} on 2 targets or less when {{ site.data.expansion_feature.sl.legendary.night_fae }} is not equipped.</li>
         <li>Cast {{ site.data.spell.cl }}.</li>
     </ol>
 </div>
 
-**Special mention** When playing **Necrolord** in AoE scenarios with {{ site.data.expansion_feature.sl.legendary.necrolord }} active, you should attempt to increase the number of {{ site.data.spell.fs }} active shortly before {{ site.data.talent.primordial_wave }} is available and for the duration of the {{ site.data.talent.primordial_wave }} buff ensuring to cast {{ site.data.spell.lvb }} before it runs out! This is not maintained otherwise.
+**Special mention** When playing **Necrolord** in AoE scenarios with {{ site.data.expansion_feature.sl.legendary.necrolord }} active, you should attempt to increase the number of {{ site.data.spell.fs }} active shortly before {{ site.data.spell.primordial_wave }} is available and for the duration of the {{ site.data.spell.primordial_wave }} buff ensuring to cast {{ site.data.spell.lvb }} before it runs out! This is not maintained otherwise.
 
-**Special mention** There are many caveats with {{ site.data.talent.mote }} when in AoE situations. It is generally worth using {{ site.data.talent.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply {{ site.data.spell.fs }} to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.talent.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier.
+**Special mention** There are many caveats with {{ site.data.spell.mote }} when in AoE situations. It is generally worth using {{ site.data.spell.lava_surge }} procs to empower {{ site.data.spell.eq }}s, even on 4+ targets. On more than 4 targets, only apply {{ site.data.spell.fs }} to one of the targets, ideally a target with higher health than the rest. Use {{ site.data.spell.lava_surge }} procs on the afflicted target in order to empower {{ site.data.spell.eq }}. With this in mind, be careful not to overdo it; it will very likely result in a loss of DPS if enemies die before your {{ site.data.spell.eq }} finishes ticking when you could have used the spell earlier.
 
-**Special mention** When {{ site.data.item.t28_4 }} is active using {{ site.data.talent.lvs }} procs in AoE becomes DPS neutral, this does assume that you will benefit from the extra duration provided however so the default behaviour remains the same as above - use {{ site.data.talent.lvs }} when you are forced to move, no active {{ site.data.spell.fs }} is required but it remains an excellent movement global when no {{ site.data.talent.lvs }} is active!
+**Special mention** When {{ site.data.item.t28_4 }} is active using {{ site.data.spell.lvs }} procs in AoE becomes DPS neutral, this does assume that you will benefit from the extra duration provided however so the default behaviour remains the same as above - use {{ site.data.spell.lvs }} when you are forced to move, no active {{ site.data.spell.fs }} is required but it remains an excellent movement global when no {{ site.data.spell.lvs }} is active!
 ## Openers
 ---
 
@@ -184,7 +184,7 @@ Night Fae with Standard talents:
     <div class="arrow"></div>...
  </div>
 
-If you are using {{ site.data.talent.eb }}:
+If you are using {{ site.data.spell.eb }}:
 <div class="opener">
     <div class="skill sk"><span>SK</span></div>
     <div class="arrow"></div>
@@ -200,7 +200,7 @@ If you are using {{ site.data.talent.eb }}:
     <div class="arrow"></div>...
 </div>
 
-If you are using {{ site.data.talent.eb }} and {{ site.data.talent.primordial_wave }}:
+If you are using {{ site.data.spell.eb }} and {{ site.data.spell.primordial_wave }}:
 
 <div class="opener">
     <div class="skill sk"><span>SK</span></div>
@@ -222,72 +222,72 @@ If you are using {{ site.data.talent.eb }} and {{ site.data.talent.primordial_wa
 
 ## Special cases
 ---
-### {{ site.data.talent.asc }} on varying target counts.
-- On single target the only part of the {{ site.data.talent.asc }} priority that changes is whether to spend Maelstrom or not and that depends on which legendary you are using:
+### {{ site.data.spell.asc }} on varying target counts.
+- On single target the only part of the {{ site.data.spell.asc }} priority that changes is whether to spend Maelstrom or not and that depends on which legendary you are using:
      * With {{ site.data.expansion_feature.sl.legendary.wlr }} equipped you always avoid overcapping.
      * With {{ site.data.expansion_feature.sl.legendary.dre }} equipped you will prefer to cast {{ site.data.spell.lvb }} instead of {{ site.data.spell.es }} if you do not have to move, regardless of Maelstrom.
-- As targets increase there are some changes to what you would do **with {{ site.data.talent.asc }} active** which are not related to legendary choice - the nature of {{ site.data.expansion_feature.sl.legendary.dre }} is that of a gambler however this advice will provide the best results on average, if you choose to commit to gambling may the RNG forever be in your favour.
+- As targets increase there are some changes to what you would do **with {{ site.data.spell.asc }} active** which are not related to legendary choice - the nature of {{ site.data.expansion_feature.sl.legendary.dre }} is that of a gambler however this advice will provide the best results on average, if you choose to commit to gambling may the RNG forever be in your favour.
      * 2 targets: {{ site.data.spell.eq }} `>` {{ site.data.spell.lvb }} `>` {{ site.data.spell.lvbm }}
      * 3 targets: {{ site.data.spell.eq }} `>` {{ site.data.spell.lvb }} `>` {{ site.data.spell.lvbm }}
-     * 4 targets: {{ site.data.spell.eq }} `>` {{ site.data.talent.lvs }} `>` {{ site.data.spell.lvbm }} `>` {{ site.data.spell.lvb }}
-     * 5+ targets: {{ site.data.spell.eq }} `>` {{ site.data.spell.lvbm }} `>` {{ site.data.talent.lvs }}
+     * 4 targets: {{ site.data.spell.eq }} `>` {{ site.data.spell.lvs }} `>` {{ site.data.spell.lvbm }} `>` {{ site.data.spell.lvb }}
+     * 5+ targets: {{ site.data.spell.eq }} `>` {{ site.data.spell.lvbm }} `>` {{ site.data.spell.lvs }}
 - Note: the above priority includes spells that do not have cooldowns in order to show that one spell is clearly favoured over the other i.e. {{ site.data.spell.lvbm }} is included in the 2 and 3 target lists only to show that it is **weaker** than casting a {{ site.data.spell.lvb }}.
 
-### {{ site.data.talent.sop }} with {{ site.data.item.t28_2 }} active.
-- When you are able to equip {{ site.data.item.t28_2 }}, it can be a dps increase to use {{ site.data.talent.sop }} instead of {{ site.data.talent.pe }} or {{ site.data.talent.if }}. You should sim your character to determine if this is a choice **you** should make at this specific gearing stage, and note that it is only applicable to Single Target scenarios and Covenant choice may impact this.
-- You need to have {{ site.data.expansion_feature.sl.legendary.wlr }} equipped and the playstyle from there is straightforward. Use the {{ site.data.talent.sop }} buff on {{ site.data.spell.lvb }} after every {{ site.data.spell.es }}, which is essentially typical gameplay. Note: there is potential to increase the effectiveness of this build further by incorporating some {{ site.data.spell.lb }} usage on very strict conditions
+### {{ site.data.spell.sop }} with {{ site.data.item.t28_2 }} active.
+- When you are able to equip {{ site.data.item.t28_2 }}, it can be a dps increase to use {{ site.data.spell.sop }} instead of {{ site.data.spell.pe }} or {{ site.data.spell.if }}. You should sim your character to determine if this is a choice **you** should make at this specific gearing stage, and note that it is only applicable to Single Target scenarios and Covenant choice may impact this.
+- You need to have {{ site.data.expansion_feature.sl.legendary.wlr }} equipped and the playstyle from there is straightforward. Use the {{ site.data.spell.sop }} buff on {{ site.data.spell.lvb }} after every {{ site.data.spell.es }}, which is essentially typical gameplay. Note: there is potential to increase the effectiveness of this build further by incorporating some {{ site.data.spell.lb }} usage on very strict conditions
      * When you **know** you would not get another {{ site.data.spell.fe }} usage in the current fight
-     * When you have both {{ site.data.talent.sk }} and {{ site.data.talent.sop }} active - careful trying to micro-manage this beyond natural alignment
-- When Double Legendary is  equipped this small niche for {{ site.data.talent.sop }} becomes neutral for Night Fae, potentially still valuable for other Covenants - consult your sims!
-- When {{ site.data.item.t28_4 }} is active {{ site.data.talent.sop }} becomes useless once more, until next time!
+     * When you have both {{ site.data.spell.sk }} and {{ site.data.spell.sop }} active - careful trying to micro-manage this beyond natural alignment
+- When Double Legendary is  equipped this small niche for {{ site.data.spell.sop }} becomes neutral for Night Fae, potentially still valuable for other Covenants - consult your sims!
+- When {{ site.data.item.t28_4 }} is active {{ site.data.spell.sop }} becomes useless once more, until next time!
 
-### {{ site.data.spell.vesper_totem }} with {{site.data.expansion_feature.sl.legendary.kyrian}} equipped.
-- During PTR testing it was potentially a DPS increase to cast Healing Spells in order to trigger the Healing Charge explosion of {{ site.data.expansion_feature.sl.legendary.kyrian }} when used in conjunction with {{ site.data.talent.ag }}.
-- On live servers, casting {{ site.data.talent.ag }} is not triggering a Healing Charge of {{ site.data.spell.vesper_totem }} and so cannot be used to trigger the explosion of {{ site.data.expansion_feature.sl.legendary.kyrian }} more efficiently.
+### {{ site.data.spell.vesper_totem }} with {{ site.data.expansion_feature.sl.legendary.kyrian }} equipped.
+- During PTR testing it was potentially a DPS increase to cast Healing Spells in order to trigger the Healing Charge explosion of {{ site.data.expansion_feature.sl.legendary.kyrian }} when used in conjunction with {{ site.data.spell.ag }}.
+- On live servers, casting {{ site.data.spell.ag }} is not triggering a Healing Charge of {{ site.data.spell.vesper_totem }} and so cannot be used to trigger the explosion of {{ site.data.expansion_feature.sl.legendary.kyrian }} more efficiently.
 - As a result, on live servers this behaviour is no longer a strict increase in DPS but you can trigger the {{ site.data.spell.kyrian }} charges with {{ site.data.spell.healing_surge }} if your group needs additional healing value. Otherwise you should ignore the second charge of {{ site.data.expansion_feature.sl.legendary.kyrian }} as an Elemental shaman.
 
 
-### {{ site.data.talent.mote }}
-- Change: Delay {{ site.data.spell.es }} without wasting Maelstrom to cast it with {{ site.data.talent.mote }} instead.
-- Priority of casts you want to empower with {{ site.data.talent.mote }} from best to worst:
+### {{ site.data.spell.mote }}
+- Change: Delay {{ site.data.spell.es }} without wasting Maelstrom to cast it with {{ site.data.spell.mote }} instead.
+- Priority of casts you want to empower with {{ site.data.spell.mote }} from best to worst:
     1. {{ site.data.spell.eq }} if four or more targets are in its effect
     1. {{ site.data.spell.fae_transfusion }} if Night Fae
     1. {{ site.data.spell.eq }} if two or more targets are in its effect
-    1. {{ site.data.spell.lb }} with {{ site.data.talent.sk }}
+    1. {{ site.data.spell.lb }} with {{ site.data.spell.sk }}
     1. {{ site.data.spell.es }}
-    1. {{ site.data.spell.frs }} with {{ site.data.talent.if }}
-    1. {{ site.data.talent.eb }}
+    1. {{ site.data.spell.frs }} with {{ site.data.spell.if }}
+    1. {{ site.data.spell.eb }}
     1. {{ site.data.spell.lb }}
-    1. {{ site.data.talent.if }}
+    1. {{ site.data.spell.if }}
     1. {{ site.data.spell.frs }}
-- don't stress too much over gaming {{ site.data.talent.mote }}. It mostly happens naturally.
+- don't stress too much over gaming {{ site.data.spell.mote }}. It mostly happens naturally.
 
-### {{ site.data.talent.if }} with {{site.data.expansion_feature.sl.legendary.windspeaker}} equipped and {{site.data.talent.eb}} talented.
+### {{ site.data.spell.if }} with {{ site.data.expansion_feature.sl.legendary.windspeaker }} equipped and {{ site.data.spell.eb }} talented.
 - The priority with these conditions met is a little complex so this section can be used to help players learn and become more familiar with the setup.
-- Use {{site.data.talent.if}} on cooldown, or as higher priority if a mechanic will force you to move in the next 5 seconds.
-- {{site.data.talent.if}} charges should aim to be consumed before they expire, subject to the following priority:
-    - {{site.data.spell.lvb}} (without {{site.data.talent.mote}} active), {{site.data.talent.eb}} and {{site.data.spell.es}} have higher priority when {{site.data.talent.if}} buff duration is higher than the GCDs required to spend the remaining stacks.
-    - {{site.data.spell.fs}} has the highest priority when {{site.data.talent.if}} buff duration is approaching the GCDs required to spend the remaining stacks.
-    - It can be helpful to stagger use of {{site.data.talent.sk}} to avoid conflict with {{site.data.talent.if}}
-    - Avoid overthinking {{site.data.talent.mote}}, the buff is worth 20% of the spell it effects but losing an {{site.data.talent.if}} charge is losing 100%.
-    - GCDs: Mentioned above is duration as measured by GCDs required, to clarify each {{site.data.talent.if}} charge requires one GCD to spend which is a base of 1.5s and is reduced by Haste. This means if you have three stacks of {{site.data.talent.if}} remaining you will need `3 x 1.5 = 4.5` seconds *minimum* to spend the charges, and haste will reduce this amount however for learning purposes using the base amounts is advised.
+- Use {{ site.data.spell.if }} on cooldown, or as higher priority if a mechanic will force you to move in the next 5 seconds.
+- {{ site.data.spell.if }} charges should aim to be consumed before they expire, subject to the following priority:
+    - {{ site.data.spell.lvb }} (without {{ site.data.spell.mote }} active), {{ site.data.spell.eb }} and {{ site.data.spell.es }} have higher priority when {{ site.data.spell.if }} buff duration is higher than the GCDs required to spend the remaining stacks.
+    - {{ site.data.spell.fs }} has the highest priority when {{ site.data.spell.if }} buff duration is approaching the GCDs required to spend the remaining stacks.
+    - It can be helpful to stagger use of {{ site.data.spell.sk }} to avoid conflict with {{ site.data.spell.if }}
+    - Avoid overthinking {{ site.data.spell.mote }}, the buff is worth 20% of the spell it effects but losing an {{ site.data.spell.if }} charge is losing 100%.
+    - GCDs: Mentioned above is duration as measured by GCDs required, to clarify each {{ site.data.spell.if }} charge requires one GCD to spend which is a base of 1.5s and is reduced by Haste. This means if you have three stacks of {{ site.data.spell.if }} remaining you will need `3 x 1.5 = 4.5` seconds *minimum* to spend the charges, and haste will reduce this amount however for learning purposes using the base amounts is advised.
 
-### {{ site.data.talent.sk }} + {{ site.data.talent.sop }}
-- Change: You pool Maelstrom before casting {{ site.data.talent.sk }} to combo both empowered {{ site.data.spell.lb }} with {{ site.data.talent.sop }}
+### {{ site.data.spell.sk }} + {{ site.data.spell.sop }}
+- Change: You pool Maelstrom before casting {{ site.data.spell.sk }} to combo both empowered {{ site.data.spell.lb }} with {{ site.data.spell.sop }}
 - Example cast sequence:
     - Pool to 96+ Maelstrom
     - {{ site.data.spell.es }}
-    - {{ site.data.talent.sk }}
+    - {{ site.data.spell.sk }}
     - {{ site.data.spell.lb }}
     - {{ site.data.spell.lvb }}
     - {{ site.data.spell.es }}
     - {{ site.data.spell.lb }}
 
-### {{ site.data.talent.se }} in Single Target
-In 9.2 after the changes to {{ site.data.talent.se }} reducing {{ site.data.spell.wind_gust }} from 20 to 10 stacks, {{ site.data.talent.se }} no longer changes the single target rotation meaningfully. This means you continue to follow the basic rotational priority regardless of {{ site.data.talent.se }} being active or not. Check the priority list above for this.
+### {{ site.data.spell.se }} in Single Target
+In 9.2 after the changes to {{ site.data.spell.se }} reducing {{ site.data.spell.wind_gust }} from 20 to 10 stacks, {{ site.data.spell.se }} no longer changes the single target rotation meaningfully. This means you continue to follow the basic rotational priority regardless of {{ site.data.spell.se }} being active or not. Check the priority list above for this.
 
-### {{ site.data.talent.se }} + {{ site.data.talent.pe }}
-Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables access to {{ site.data.spell.tempest }}. This powerful ability needs to be activated manually. Make sure to use it regardless of target count shortly after your {{ site.data.talent.se }} buffs itself with {{ site.data.spell.call_lightning }}.
+### {{ site.data.spell.se }} + {{ site.data.spell.pe }}
+Combining {{ site.data.spell.se }} with {{ site.data.spell.pe }} enables access to {{ site.data.spell.tempest }}. This powerful ability needs to be activated manually. Make sure to use it regardless of target count shortly after your {{ site.data.spell.se }} buffs itself with {{ site.data.spell.call_lightning }}.
 
 ```
 #showtooltip
@@ -295,32 +295,32 @@ Combining {{ site.data.talent.se }} with {{ site.data.talent.pe }} enables acces
 ```
 
 
-### {{ site.data.talent.sop }} and 2 targets
-- Change: as long as both targets don't have {{ site.data.spell.fs }} or are in refreshable duration and spread range, use {{ site.data.spell.es }} once to spread {{ site.data.spell.fs }} to both with {{ site.data.talent.sop }}.
+### {{ site.data.spell.sop }} and 2 targets
+- Change: as long as both targets don't have {{ site.data.spell.fs }} or are in refreshable duration and spread range, use {{ site.data.spell.es }} once to spread {{ site.data.spell.fs }} to both with {{ site.data.spell.sop }}.
 
 
 ## Common misconceptions and mistakes
 ---
 
-> "I should try and play around {{site.data.talent.mote}}!"
+> "I should try and play around {{ site.data.spell.mote }}!"
 
-The only time you should adjust your gameplay for {{site.data.talent.mote}} is when you have the liberty to cast a spell *later* with a {{site.data.talent.mote}} buff versus *now* -- this means for a spell like {{site.data.spell.es}}, you can make the decision to wait until you have the {{site.data.talent.mote}} buff active before casting it (this is reflected in the priority above). This is thanks to the low urgency of {{site.data.spell.es}} casts, as you are not constrained by a cooldown or Maelstrom cost, since you can cast it at any point between 60 and 100 Maelstrom.
+The only time you should adjust your gameplay for {{ site.data.spell.mote }} is when you have the liberty to cast a spell *later* with a {{ site.data.spell.mote }} buff versus *now* -- this means for a spell like {{ site.data.spell.es }}, you can make the decision to wait until you have the {{ site.data.spell.mote }} buff active before casting it (this is reflected in the priority above). This is thanks to the low urgency of {{ site.data.spell.es }} casts, as you are not constrained by a cooldown or Maelstrom cost, since you can cast it at any point between 60 and 100 Maelstrom.
 
-> "I should only cast {{ site.data.spell.lvb }} during {{ site.data.talent.asc }}!"
+> "I should only cast {{ site.data.spell.lvb }} during {{ site.data.spell.asc }}!"
 
-During {{ site.data.talent.asc }} with {{ site.data.expansion_feature.sl.legendary.wlr }} equipped you should continue spending maelstrom on {{ site.data.spell.es }} to trigger its effect.
+During {{ site.data.spell.asc }} with {{ site.data.expansion_feature.sl.legendary.wlr }} equipped you should continue spending maelstrom on {{ site.data.spell.es }} to trigger its effect.
 
-> "I should cast {{ site.data.talent.eb }} during {{ site.data.talent.asc }}!"
+> "I should cast {{ site.data.spell.eb }} during {{ site.data.spell.asc }}!"
 
-No. {{ site.data.talent.eb }} doesn't deal enough damage by quite a significant margin.
+No. {{ site.data.spell.eb }} doesn't deal enough damage by quite a significant margin.
 
-> "I should cast {{ site.data.talent.if }} with {{ site.data.talent.mote }} during {{ site.data.talent.asc }}!"
+> "I should cast {{ site.data.spell.if }} with {{ site.data.spell.mote }} during {{ site.data.spell.asc }}!"
 
-No. Your {{ site.data.talent.asc }} is ideally used when {{ site.data.talent.if }} is on cooldown and won't get ready while you're casting {{ site.data.spell.lvb }}.
+No. Your {{ site.data.spell.asc }} is ideally used when {{ site.data.spell.if }} is on cooldown and won't get ready while you're casting {{ site.data.spell.lvb }}.
 
-> "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.talent.se }}!"
+> "I should only cast {{ site.data.spell.lb }} / {{ site.data.spell.cl }} during {{ site.data.spell.se }}!"
 
-The change to {{ site.data.spell.wind_gust }} stacks means {{ site.data.spell.lvb }} is always stronger than {{ site.data.spell.lb }}, this means {{ site.data.talent.se }} does not interfere with the standard rotational priority at all in Single Target. In AoE with active {{ site.data.item.t28_4 }} using {{ site.data.talent.lvs }} procs even without an {{ site.data.spell.fs }} active is dps neutral so is an excellent movement global. See priority list and Special mentions above for more information.
+The change to {{ site.data.spell.wind_gust }} stacks means {{ site.data.spell.lvb }} is always stronger than {{ site.data.spell.lb }}, this means {{ site.data.spell.se }} does not interfere with the standard rotational priority at all in Single Target. In AoE with active {{ site.data.item.t28_4 }} using {{ site.data.spell.lvs }} procs even without an {{ site.data.spell.fs }} active is dps neutral so is an excellent movement global. See priority list and Special mentions above for more information.
 
 > "I should only cast {{ site.data.spell.es }} in single target or {{ site.data.spell.eq }} in high aoe counts even with  {{ site.data.expansion_feature.sl.legendary.eogs }} equipped!"
 

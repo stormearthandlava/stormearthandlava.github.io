@@ -22,19 +22,19 @@ This guide was made possible by:
 The tips and recommendations listed here are based on educated opinions from PTR raid testing and reviewing logs and videos, so strategies can change as we develop a better understanding of each fight or as the spec and bosses are tuned. If you have any disagreements, feedback, or questions, please feel welcome to reach out to the team.
 
 # Miscellaneous Tips
-- Recommendations on Single-Target profile bosses may include {{ site.data.talent.icefury }}, this only applies **if you do not have an active 4-piece bonus** so will impact your choices on early progression only.
+- Recommendations on Single-Target profile bosses may include {{ site.data.spell.icefury }}, this only applies **if you do not have an active 4-piece bonus** so will impact your choices on early progression only.
 
-- Talent recommendations cover either with or without {{ site.data.item.t28_4 }}, for advice specific to {{ site.data.item.t28_2 }} see {{ site.data.talent.sop }} indepth discussion on our [Talents page](https://stormearthandlava.com/guide/general/talents.html).
+- Talent recommendations cover either with or without {{ site.data.item.t28_4 }}, for advice specific to {{ site.data.item.t28_2 }} see {{ site.data.spell.sop }} indepth discussion on our [Talents page](https://stormearthandlava.com/guide/general/talents.html).
 
 - The final three bosses (Lords of Dread, Rygelon, and The Jailer, Zovaal) were not tested on PTR so no footage for those bosses exists.
 
 - GCDs spent on healing and utilities are GCDs not spent on damage, but both are necessary to down a raid boss. Find the balance to optimize your contributions to your raid team.
 
-- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.talent.swg }} and instant casts as much as you can for movement heavy encounters.
+- Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.spell.swg }} and instant casts as much as you can for movement heavy encounters.
 
-- When talenting {{ site.data.talent.pe }}, always remember that you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.talent.earth_elemental }}.
+- When talenting {{ site.data.spell.pe }}, always remember that you have an additional defensive ({{ site.data.spell.harden_skin }}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.spell.earth_elemental }}.
 
-- Recall that [Stampeding Roar](https://www.wowhead.com/spell=106898/stampeding-roar) is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.talent.wind_rush_totem }}.
+- Recall that [Stampeding Roar](https://www.wowhead.com/spell=106898/stampeding-roar) is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.spell.wind_rush_totem }}.
 
 - Additional Resources:
        - [Warcraft Logs](https://www.warcraftlogs.com/)
@@ -57,27 +57,27 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
-* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.ancestral_guidance }}
-* **45:** {{ site.data.talent.icefury }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.elemental_blast }} or {{ site.data.spell.afs }}
+* **30:** {{ site.data.spell.spirit_wolf }} or {{ site.data.spell.earth_shield }}
+* **35:** {{ site.data.spell.master_of_the_elements }}
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wind_rush_totem }} or {{ site.data.spell.ancestral_guidance }}
+* **45:** {{ site.data.spell.icefury }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo }}       
-* **25:** {{ site.data.talent.eb }} or {{ site.data.talent.afs }}
-* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35:** {{ site.data.talent.mote }} or {{ site.data.talent.se }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }} or {{ site.data.talent.ancestral_guidance }}
-* **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }}     
+* **15:** {{ site.data.spell.echo }}       
+* **25:** {{ site.data.spell.eb }} or {{ site.data.spell.afs }}
+* **30:** {{ site.data.spell.spirit_wolf }} or {{ site.data.spell.earth_shield }}
+* **35:** {{ site.data.spell.mote }} or {{ site.data.spell.se }}
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wrt }} or {{ site.data.spell.ancestral_guidance }}
+* **45:** {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.sk }}     
 
 **Recommended Covenant:**
 
-* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.expansion_feature.sl.soulbinds.first_strike}}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{ site.data.expansion_feature.sl.soulbinds.first_strike }}
 
 **Recommended Legendaries:**
 
@@ -87,21 +87,21 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Damage**
 
 * Maintain {{ site.data.spell.flame_shock }} on multiple targets
-* Use {{ site.data.talent.stormkeeper }} when [Volatile Materium](https://ptr.wowhead.com/npc=181859/volatile-materium) are spawning, consider having a {{ site.data.expansion_feature.sl.legendary.eogs }} buff active!
-* Use {{ site.data.talent.swg }} to help reposition before [Exposed Core!](https://ptr.wowhead.com/spell=360412/exposed-core)
+* Use {{ site.data.spell.stormkeeper }} when [Volatile Materium](https://ptr.wowhead.com/npc=181859/volatile-materium) are spawning, consider having a {{ site.data.expansion_feature.sl.legendary.eogs }} buff active!
+* Use {{ site.data.spell.swg }} to help reposition before [Exposed Core!](https://ptr.wowhead.com/spell=360412/exposed-core)
 
 **Defensives:**
 
-* Use cooldowns as necessary throughout the fight, ensuring at least {{ site.data.talent.as }} is available for [Core Overload](https://ptr.wowhead.com/spell=364962/core-overload) once the boss reaches 15%.
-* If required, consider using {{ site.data.talent.ee }} with {{ site.data.spell.harden_skin }}. This may feel worse with an active 4-piece bonus but **dying is worse**.
-* Depending on your group composition and positioning your group may not need {{ site.data.talent.wrt }}, in which case take {{ site.data.talent.natures_guardian }}.
+* Use cooldowns as necessary throughout the fight, ensuring at least {{ site.data.spell.as }} is available for [Core Overload](https://ptr.wowhead.com/spell=364962/core-overload) once the boss reaches 15%.
+* If required, consider using {{ site.data.spell.ee }} with {{ site.data.spell.harden_skin }}. This may feel worse with an active 4-piece bonus but **dying is worse**.
+* Depending on your group composition and positioning your group may not need {{ site.data.spell.wrt }}, in which case take {{ site.data.spell.natures_guardian }}.
 
 **Utilities:**
 
 * Using {{ site.data.spell.wind_shear }} to interrupt [Point Defense Drone](https://ptr.wowhead.com/npc=181856/point-defense-drone)
-* Using {{ site.data.talent.thunderstorm }} to help position Adds when necessary
-* If talented, use {{ site.data.talent.wrt }} to help your raid reposition before [Exposed Core](https://ptr.wowhead.com/spell=360412/exposed-core)
-* If talented, use {{ site.data.talent.ancestral_guidance }} to help with incoming damage during Add spawns
+* Using {{ site.data.spell.thunderstorm }} to help position Adds when necessary
+* If talented, use {{ site.data.spell.wrt }} to help your raid reposition before [Exposed Core](https://ptr.wowhead.com/spell=360412/exposed-core)
+* If talented, use {{ site.data.spell.ancestral_guidance }} to help with incoming damage during Add spawns
 
 **PTR PoVs:**
 
@@ -122,23 +122,23 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.icefury }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.elemental_blast }}
+* **30:** {{ site.data.spell.spirit_wolf }} or {{ site.data.spell.earth_shield }}
+* **35:** {{ site.data.spell.master_of_the_elements }}
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wind_rush_totem }}
+* **45:** {{ site.data.spell.icefury }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo }}       
-* **25:** {{ site.data.talent.eb }}
-* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35:** {{ site.data.talent.mote }}       
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
-* **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
+* **15:** {{ site.data.spell.echo }}       
+* **25:** {{ site.data.spell.eb }}
+* **30:** {{ site.data.spell.spirit_wolf }} or {{ site.data.spell.earth_shield }}
+* **35:** {{ site.data.spell.mote }}       
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wrt }}
+* **45:** {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.sk }} or {{ site.data.spell.asc }}
 
 **Recommended Covenant:**
 
@@ -151,17 +151,17 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Damage**
 
-* Use {{ site.data.talent.swg }} to maintain uptime while avoiding [Retch](https://ptr.wowhead.com/spell=360448/retch) or when repositioning for [Ravening Burrow](https://ptr.wowhead.com/spell=359770/ravening-burrow)
+* Use {{ site.data.spell.swg }} to maintain uptime while avoiding [Retch](https://ptr.wowhead.com/spell=360448/retch) or when repositioning for [Ravening Burrow](https://ptr.wowhead.com/spell=359770/ravening-burrow)
 * You can continue using instant-cast abilities whilst airborne from [Ravening Burrow!](https://ptr.wowhead.com/spell=359770/ravening-burrow)
 
 **Defensives:**
 
-* Use {{ site.data.talent.as }} and healing consumables as required to deal with additional stacks of [Ephemera Dust](https://ptr.wowhead.com/spell=359778/ephemera-dust).
-* Consider using {{ site.data.talent.ee }} as an additional defensive with {{ site.data.talent.icefury }} talented, or as required if using {{ site.data.talent.pe }} talented when 4-piece is active.
+* Use {{ site.data.spell.as }} and healing consumables as required to deal with additional stacks of [Ephemera Dust](https://ptr.wowhead.com/spell=359778/ephemera-dust).
+* Consider using {{ site.data.spell.ee }} as an additional defensive with {{ site.data.spell.icefury }} talented, or as required if using {{ site.data.spell.pe }} talented when 4-piece is active.
 
 **Utilities:**
 
-* If talented, use {{ site.data.talent.wrt }} to help your raid avoid [Retch](https://ptr.wowhead.com/spell=360448/retch)
+* If talented, use {{ site.data.spell.wrt }} to help your raid avoid [Retch](https://ptr.wowhead.com/spell=360448/retch)
 
 **PTR PoVs:**
 
@@ -182,27 +182,27 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.eb }} ( or {{ site.data.talent.afs }} for Add damage )
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }} (or {{ site.data.talent.se }} for Add damage )
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.icefury }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.eb }} ( or {{ site.data.spell.afs }} for Add damage )
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.master_of_the_elements }} (or {{ site.data.spell.se }} for Add damage )
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wind_rush_totem }}
+* **45:** {{ site.data.spell.icefury }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo }}       
-* **25:** {{ site.data.talent.eb }} ( or {{ site.data.talent.afs }} for Add damage )
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.mote }}      
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
-* **45:** {{ site.data.talent.pe }} (or {{ site.data.talent.se }} for Add damage )
-* **50:** {{ site.data.talent.sk }}     
+* **15:** {{ site.data.spell.echo }}       
+* **25:** {{ site.data.spell.eb }} ( or {{ site.data.spell.afs }} for Add damage )
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.mote }}      
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wrt }}
+* **45:** {{ site.data.spell.pe }} (or {{ site.data.spell.se }} for Add damage )
+* **50:** {{ site.data.spell.sk }}     
 
 **Recommended Covenant:**   
 
-* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.expansion_feature.sl.soulbinds.first_strike}}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{ site.data.expansion_feature.sl.soulbinds.first_strike }}
 
 **Recommended Legendaries:**
 
@@ -212,20 +212,20 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Damage**
 
 * Focus down [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) as fast as possible to prevent [Hyperlight Ascension](https://ptr.wowhead.com/spell=364040/hyperlight-ascension)
-* Use {{ site.data.talent.sk }} when [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger) are spawning, consider having a {{ site.data.expansion_feature.sl.legendary.eogs }} buff active!
-* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Genesis Rings!](https://ptr.wowhead.com/spell=363413/genesis-rings)
+* Use {{ site.data.spell.sk }} when [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger) are spawning, consider having a {{ site.data.expansion_feature.sl.legendary.eogs }} buff active!
+* Use {{ site.data.spell.swg }} to maintain uptime whilst dealing with [Genesis Rings!](https://ptr.wowhead.com/spell=363413/genesis-rings)
 
 **Defensives:**
 
-* Use {{ site.data.talent.as }} as needed when [Gylph of Relocation](https://ptr.wowhead.com/spell=362801/glyph-of-relocation) is about to explode
-* Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
+* Use {{ site.data.spell.as }} as needed when [Gylph of Relocation](https://ptr.wowhead.com/spell=362801/glyph-of-relocation) is about to explode
+* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
 
 **Utilities:**
 
 * Use {{ site.data.spell.wind_shear }} to interrupt [Debilitating Ray](https://ptr.wowhead.com/spell=364030/debilitating-ray) from [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger)
-* Use {{ site.data.talent.thunderstorm }} to position [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger) if necessary
-* Use {{ site.data.talent.capacitor_totem }} to stun [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger)
-* If talented, use {{ site.data.talent.wrt }} to help your raid avoid [Genesis Rings](https://ptr.wowhead.com/spell=363413/genesis-rings)
+* Use {{ site.data.spell.thunderstorm }} to position [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger) if necessary
+* Use {{ site.data.spell.capacitor_totem }} to stun [Xy Acolytes](https://ptr.wowhead.com/npc=184140/xy-acolyte) and [Xy Spellslingers](https://ptr.wowhead.com/npc=183707/xy-spellslinger)
+* If talented, use {{ site.data.spell.wrt }} to help your raid avoid [Genesis Rings](https://ptr.wowhead.com/spell=363413/genesis-rings)
 
 **Added Notes:**
 
@@ -250,23 +250,23 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.icefury }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.elemental_blast }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.master_of_the_elements }}
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wind_rush_totem }}
+* **45:** {{ site.data.spell.icefury }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo }}       
-* **25:** {{ site.data.talent.eb }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.mote }}       
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
-* **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}   
+* **15:** {{ site.data.spell.echo }}       
+* **25:** {{ site.data.spell.eb }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.mote }}       
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wrt }}
+* **45:** {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.sk }} or {{ site.data.spell.asc }}   
 
 **Recommended Covenant:**   
 
@@ -283,19 +283,19 @@ The tips and recommendations listed here are based on educated opinions from PTR
        - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core), focus single-target damage into Dausegne
        - Maintain {{ site.data.spell.flame_shock }} on both Dausegne and [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core), use {{ site.data.spell.eq }} instead of {{ site.data.spell.es }} and focus either [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core) or Dausegne
        - Recommendation? Be sensible. For progression purposes it is important that [Domination Cores](https://ptr.wowhead.com/npc=181244/domination-core) die quickly because of [Encroaching Dominion](https://ptr.wowhead.com/spell=361214/encroaching-dominion) pools they spawn every 6 seconds whilst still alive, every group is different so your needs may vary but the priority should be to do what is necessary to kill the [Domination Cores](https://ptr.wowhead.com/npc=181244/domination-core) quickly and efficiently.  
-* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo)
+* Use {{ site.data.spell.swg }} to maintain uptime whilst dealing with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo)
 * Pool resources when Dausegne is about to cast [Siphon Reservoir!](https://ptr.wowhead.com/spell=361643/siphon-reservoir)       
 
 **Defensives:**
 
-* Use {{ site.data.talent.as }} as needed when [Staggering Barrage](https://ptr.wowhead.com/spell=360959/staggering-barrage), [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) or [Inevitable Dominion](https://ptr.wowhead.com/spell=361722/inevitable-dominion) happen
-* Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
+* Use {{ site.data.spell.as }} as needed when [Staggering Barrage](https://ptr.wowhead.com/spell=360959/staggering-barrage), [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) or [Inevitable Dominion](https://ptr.wowhead.com/spell=361722/inevitable-dominion) happen
+* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
 * {{ site.data.spell.soulshape }} is useful for dealing with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) overlaps when playing as Night Fae
 
 **Utilities:**
 
 * Use {{ site.data.spell.wind_shear }} to interrupt [Domination Bolt](https://ptr.wowhead.com/spell=363607/domination-bolt) from [Domination Core](https://ptr.wowhead.com/npc=181244/domination-core)  
-* If talented, use {{ site.data.talent.wrt }} to help your raid deal with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) overlaps.  
+* If talented, use {{ site.data.spell.wrt }} to help your raid deal with [Disintegration Halo](https://ptr.wowhead.com/spell=365373/disintegration-halo) overlaps.  
 
 **PTR PoVs:**
 
@@ -316,23 +316,23 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
-* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35:** {{ site.data.talent.master_of_the_elements }} or {{ site.data.talent.se }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.elemental_blast }} or {{ site.data.spell.afs }}
+* **30:** {{ site.data.spell.spirit_wolf }} or {{ site.data.spell.earth_shield }}
+* **35:** {{ site.data.spell.master_of_the_elements }} or {{ site.data.spell.se }}
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wind_rush_totem }}
+* **45:** {{ site.data.spell.icefury }} or {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.eote }}
-* **25:** {{ site.data.talent.eb }} or {{ site.data.talent.afs }}
-* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35:** {{ site.data.talent.se }} or {{ site.data.talent.mote }}   
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
-* **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
+* **15:** {{ site.data.spell.eote }}
+* **25:** {{ site.data.spell.eb }} or {{ site.data.spell.afs }}
+* **30:** {{ site.data.spell.spirit_wolf }} or {{ site.data.spell.earth_shield }}
+* **35:** {{ site.data.spell.se }} or {{ site.data.spell.mote }}   
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wrt }}
+* **45:** {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.sk }} or {{ site.data.spell.asc }}
 
 **Recommended Covenant:**   
 
@@ -347,17 +347,17 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Damage**
 
 * Focusing [Necrotic Rituatlists](https://ptr.wowhead.com/spell=360295/necrotic-ritual#used-by-npc) is very important, maintain {{ site.data.spell.flame_shock }} on as many targets whilst focusing one [Necrotic Ritualist](https://ptr.wowhead.com/spell=360295/necrotic-ritual#used-by-npc) down (consider positioning for this purpose)
-* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings) and [Hand of Destruction](https://ptr.wowhead.com/spell=361788/hand-of-destruction)
+* Use {{ site.data.spell.swg }} to maintain uptime whilst dealing with [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings) and [Hand of Destruction](https://ptr.wowhead.com/spell=361788/hand-of-destruction)
 
 **Defensives:**
 
-* Use {{ site.data.talent.as }} (and {{ site.data.spell.fleshcraft }} if Necrolord) as needed for [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings)
-* Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
+* Use {{ site.data.spell.as }} (and {{ site.data.spell.fleshcraft }} if Necrolord) as needed for [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings)
+* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
 
 **Utilities:**
 
 * Use {{ site.data.spell.wind_shear }} to interrupt [Gloom Bolt](https://ptr.wowhead.com/spell=360259/gloom-bolt) from [Prototype of War](https://ptr.wowhead.com/npc=181549/prototype-of-war) and [Anima Bolt](https://ptr.wowhead.com/spell=362383/anima-bolt) from [Protoype of Renewal](https://ptr.wowhead.com/npc=181546/prototype-of-renewal)  
-* If talented, use {{ site.data.talent.wrt }} to help your raid deal with [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings) and [Hand of Destruction](https://ptr.wowhead.com/spell=361788/hand-of-destruction)
+* If talented, use {{ site.data.spell.wrt }} to help your raid deal with [Windswept Wings](https://ptr.wowhead.com/spell=365041/windswept-wings) and [Hand of Destruction](https://ptr.wowhead.com/spell=361788/hand-of-destruction)
 
 **PTR PoVs:**
 
@@ -378,27 +378,27 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.icefury }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.elemental_blast }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.master_of_the_elements }}
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wind_rush_totem }}
+* **45:** {{ site.data.spell.icefury }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.eote }}
-* **25:** {{ site.data.talent.eb }} ( or {{ site.data.talent.afs }} for Add damage }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.mote }} ( or {{ site.data.talent.se }} for Add damage }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
-* **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }}     
+* **15:** {{ site.data.spell.eote }}
+* **25:** {{ site.data.spell.eb }} ( or {{ site.data.spell.afs }} for Add damage }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.mote }} ( or {{ site.data.spell.se }} for Add damage }}
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wrt }}
+* **45:** {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.sk }}     
 
 **Recommended Covenant:**   
 
-* Night Fae with Korayn for {{site.data.expansion_feature.sl.soulbinds.first_strike}}
+* Night Fae with Korayn for {{ site.data.expansion_feature.sl.soulbinds.first_strike }}
 * Necrolord with Plague-Deviser Marileth
 
 **Recommended Legendaries:**
@@ -410,16 +410,16 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 * Pool resources when Lihuvim is close to 100 energy to prepare for [Synthesize](https://ptr.wowhead.com/spell=363130/synthesize)
 * Focusing down [Degeneration Automa](https://ptr.wowhead.com/npc=182053/degeneration-automa), [Acquisitions Automa](https://ptr.wowhead.com/npc=184737/acquisitions-automa), [Guardian Automa](https://ptr.wowhead.com/npc=184738/guardian-automa), [Defense Matrix Automa](https://ptr.wowhead.com/npc=184126/defense-matrix-automa) is the highest priority when they are active
-* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Manifest Mote](https://ptr.wowhead.com/spell=362624/manifest-mote) and [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
+* Use {{ site.data.spell.swg }} to maintain uptime whilst dealing with [Manifest Mote](https://ptr.wowhead.com/spell=362624/manifest-mote) and [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
 
 **Defensives:**
 
-* Use {{ site.data.talent.as }} as needed for [Cosmic Shift](https://ptr.wowhead.com/spell=363088/cosmic-shift) or [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
-* Consider using {{ site.data.talent.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
+* Use {{ site.data.spell.as }} as needed for [Cosmic Shift](https://ptr.wowhead.com/spell=363088/cosmic-shift) or [Deconstruction Blast](https://ptr.wowhead.com/spell=363681/deconstructing-blast)
+* Consider using {{ site.data.spell.ee }} as necessary for [Vital Accretion](https://ptr.wowhead.com/spell=337981/vital-accretion) or {{ site.data.spell.harden_skin }}
 
 **Utilities:**
 
-* If talented, use {{ site.data.talent.wrt }} to help your raid reposition quickly for [Synthesize](https://ptr.wowhead.com/spell=363130/synthesize)
+* If talented, use {{ site.data.spell.wrt }} to help your raid reposition quickly for [Synthesize](https://ptr.wowhead.com/spell=363130/synthesize)
 
 **PTR PoVs:**
 
@@ -440,23 +440,23 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wind_rush_totem }}
-* **45:** {{ site.data.talent.icefury }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.elemental_blast }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.master_of_the_elements }}
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wind_rush_totem }}
+* **45:** {{ site.data.spell.icefury }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo }}
-* **25:** {{ site.data.talent.eb }}
-* **30:** {{ site.data.talent.spirit_wolf }} or {{ site.data.talent.earth_shield }}
-* **35:** {{ site.data.talent.mote }}  
-* **40:** {{ site.data.talent.natures_guardian }} or {{ site.data.talent.wrt }}
-* **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
+* **15:** {{ site.data.spell.echo }}
+* **25:** {{ site.data.spell.eb }}
+* **30:** {{ site.data.spell.spirit_wolf }} or {{ site.data.spell.earth_shield }}
+* **35:** {{ site.data.spell.mote }}  
+* **40:** {{ site.data.spell.natures_guardian }} or {{ site.data.spell.wrt }}
+* **45:** {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.sk }} or {{ site.data.spell.asc }}
 
 **Recommended Covenant:**   
 
@@ -470,16 +470,16 @@ The tips and recommendations listed here are based on educated opinions from PTR
 **Damage**
 
 * Make use of Elemental's frequent instant cast abilities to deal with movement caused by [Earthbreaker Missiles](https://www.wowhead.com/spell=361676/earthbreaker-missiles) and [Aftershock](https://www.wowhead.com/spell=362025/aftershock)
-* {{ site.data.talent.swg }} is important to use during Intermissions, and if time allows, during Phase 3.
+* {{ site.data.spell.swg }} is important to use during Intermissions, and if time allows, during Phase 3.
 
 **Defensives:**
 
-* Using {{ site.data.talent.as }} during [Reclaim](https://www.wowhead.com/spell=360115/reclaim), and during Phase 3.
-* {{ site.data.talent.earth_shield }} does a lot of healing on this fight, and is no issue to recast due to movement required in all phases.
+* Using {{ site.data.spell.as }} during [Reclaim](https://www.wowhead.com/spell=360115/reclaim), and during Phase 3.
+* {{ site.data.spell.earth_shield }} does a lot of healing on this fight, and is no issue to recast due to movement required in all phases.
 
 **Utilities:**
 
-* {{ site.data.talent.wrt }} is exceptionally useful when placed going into Intermission phases  
+* {{ site.data.spell.wrt }} is exceptionally useful when placed going into Intermission phases  
 
 **PTR PoVs:**
 
@@ -501,23 +501,23 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }} or {{ site.data.talent.afs }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.se }} or {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.ancestral_guidance }}
-* **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.elemental_blast }} or {{ site.data.spell.afs }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.se }} or {{ site.data.spell.master_of_the_elements }}
+* **40:** {{ site.data.spell.wind_rush_totem }} or {{ site.data.spell.ancestral_guidance }}
+* **45:** {{ site.data.spell.icefury }} or {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.eote }}
-* **25:** {{ site.data.talent.eb }} (or {{ site.data.talent.afs }} for Add damage / you plan to use {{ site.data.talent.se }})
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.se }} or {{ site.data.talent.mote }}
-* **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.ancestral_guidance }}
-* **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }}  
+* **15:** {{ site.data.spell.eote }}
+* **25:** {{ site.data.spell.eb }} (or {{ site.data.spell.afs }} for Add damage / you plan to use {{ site.data.spell.se }})
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.se }} or {{ site.data.spell.mote }}
+* **40:** {{ site.data.spell.wrt }} or {{ site.data.spell.ancestral_guidance }}
+* **45:** {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.sk }}  
 
 **Recommended Covenant:**   
 
@@ -529,20 +529,20 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Damage**
 
-* Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with [Blasphemy](https://ptr.wowhead.com/spell=361989/blasphemy)
-* Pool resources, including {{ site.data.talent.sk }}, for the Intermission phase       
+* Use {{ site.data.spell.swg }} to maintain uptime whilst dealing with [Blasphemy](https://ptr.wowhead.com/spell=361989/blasphemy)
+* Pool resources, including {{ site.data.spell.sk }}, for the Intermission phase       
 
 **Defensives:**
 
-* Use {{ site.data.talent.as }} as needed for [Befouled Barrier](https://ptr.wowhead.com/spell=365293/befouled-barrier) or [Hopebreaker](https://ptr.wowhead.com/spell=361815/hopebreaker)
+* Use {{ site.data.spell.as }} as needed for [Befouled Barrier](https://ptr.wowhead.com/spell=365293/befouled-barrier) or [Hopebreaker](https://ptr.wowhead.com/spell=361815/hopebreaker)
 
 **Utilities:**
 
 * Use {{ site.data.spell.wind_shear }} to interrupt [Psychic Terror](https://ptr.wowhead.com/spell=365008/psychic-terror) from [Grim Reflections](https://ptr.wowhead.com/spell=365120/grim-reflections)        
-* Use {{ site.data.talent.tremor_totem }} before [Psychic Terror](https://ptr.wowhead.com/spell=365008/psychic-terror) cast finishes if it would finish
+* Use {{ site.data.spell.tremor_totem }} before [Psychic Terror](https://ptr.wowhead.com/spell=365008/psychic-terror) cast finishes if it would finish
 * Use {{ site.data.spell.fae_transfusion }} to assist with breaking [Befouled Barrier](https://ptr.wowhead.com/spell=365293/befouled-barrier)
-* Use {{ site.data.talent.capacitor_totem }} to assist with controlling Adds       
-* If talented, use {{ site.data.talent.ancestral_guidance }} with {{ site.data.talent.sk }} for maximum effect        
+* Use {{ site.data.spell.capacitor_totem }} to assist with controlling Adds       
+* If talented, use {{ site.data.spell.ancestral_guidance }} with {{ site.data.spell.sk }} for maximum effect        
 
 **PTR PoVs:**
 
@@ -563,23 +563,23 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.se }} or {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.natures_guardian }}
-* **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.elemental_blast }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.se }} or {{ site.data.spell.master_of_the_elements }}
+* **40:** {{ site.data.spell.wind_rush_totem }} or {{ site.data.spell.natures_guardian }}
+* **45:** {{ site.data.spell.icefury }} or {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.eote }}
-* **25:** {{ site.data.talent.eb }} or {{ site.data.talent.afs }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.mote }}
-* **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.natures_guardian }}
-* **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
+* **15:** {{ site.data.spell.eote }}
+* **25:** {{ site.data.spell.eb }} or {{ site.data.spell.afs }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.mote }}
+* **40:** {{ site.data.spell.wrt }} or {{ site.data.spell.natures_guardian }}
+* **45:** {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.sk }} or {{ site.data.spell.asc }}
 
 **Recommended Covenant:**   
 
@@ -599,13 +599,13 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Use {{ site.data.talent.as }} during [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness), it should not be necessary to use defensives to deal with [Cloud of Carrion](https://www.wowhead.com/spell=360006/cloud-of-carrion) if stacks are spread appropriately
+* Use {{ site.data.spell.as }} during [Unto Darkness](https://www.wowhead.com/spell=360319/unto-darkness), it should not be necessary to use defensives to deal with [Cloud of Carrion](https://www.wowhead.com/spell=360006/cloud-of-carrion) if stacks are spread appropriately
 
 **Utilities:**
 
-* {{ site.data.talent.tremor_totem }} can be used to remove [Bursting Dread Fears](https://www.wowhead.com/spell=360148/bursting-dread) in the event of a mistake. Be particularly mindful if your healers make this mistake, as it will typically be healers that dispel the fear from others! Can also be useful to clear [Unsettling Dreams](https://www.wowhead.com/spell=360241/unsettling-dreams)
+* {{ site.data.spell.tremor_totem }} can be used to remove [Bursting Dread Fears](https://www.wowhead.com/spell=360148/bursting-dread) in the event of a mistake. Be particularly mindful if your healers make this mistake, as it will typically be healers that dispel the fear from others! Can also be useful to clear [Unsettling Dreams](https://www.wowhead.com/spell=360241/unsettling-dreams)
 * {{ site.data.spell.wind_shear }} is excellent for the [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) but remember **do not interrupt the casts until the Add has reached 100% hp and their buff is removed**, doing so will cause more raid damage overall via  [Ravenous Hunger](https://www.wowhead.com/spell=361923/ravenous-hunger)
-* {{ site.data.talent.thunderstorm }} can be used to knock the [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) into the bosses to more efficiently cleave it down.
+* {{ site.data.spell.thunderstorm }} can be used to knock the [Inchoate Shadow Add](https://www.wowhead.com/npc=183138/inchoate-shadow) into the bosses to more efficiently cleave it down.
 
 </div>
 </div>
@@ -624,23 +624,23 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.se }} or {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.natures_guardian }}
-* **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.elemental_blast }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.se }} or {{ site.data.spell.master_of_the_elements }}
+* **40:** {{ site.data.spell.wind_rush_totem }} or {{ site.data.spell.natures_guardian }}
+* **45:** {{ site.data.spell.icefury }} or {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.eote }}
-* **25:** {{ site.data.talent.eb }} or {{ site.data.talent.afs }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.mote }}
-* **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.natures_guardian }}
-* **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
+* **15:** {{ site.data.spell.eote }}
+* **25:** {{ site.data.spell.eb }} or {{ site.data.spell.afs }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.mote }}
+* **40:** {{ site.data.spell.wrt }} or {{ site.data.spell.natures_guardian }}
+* **45:** {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.sk }} or {{ site.data.spell.asc }}
 
 **Recommended Covenant:**   
 
@@ -659,12 +659,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Use {{ site.data.talent.as }} as needed with [Dark Eclipse](https://www.wowhead.com/spell=361548/dark-eclipse), ideally use it before stepping into a [Collapsing Quasar Field](https://www.wowhead.com/spell=361462/collapsing-quasar-field) so it also covers the [Dark Collapse](https://www.wowhead.com/spell=361463/dark-collapse). Don't forget you need to move **out** of the raid before this goes off!
+* Use {{ site.data.spell.as }} as needed with [Dark Eclipse](https://www.wowhead.com/spell=361548/dark-eclipse), ideally use it before stepping into a [Collapsing Quasar Field](https://www.wowhead.com/spell=361462/collapsing-quasar-field) so it also covers the [Dark Collapse](https://www.wowhead.com/spell=361463/dark-collapse). Don't forget you need to move **out** of the raid before this goes off!
 
 
 **Utilities:**
 
-* {{ site.data.talent.wrt }} is very useful to help your group position for [Massive Bang](https://www.wowhead.com/spell=363533/massive-bang), as you need to be stood in the zones left by [Burned Out Unstable Matter](https://www.wowhead.com/spell=363518/unstable-matter) in order to avoid lethal damage.
+* {{ site.data.spell.wrt }} is very useful to help your group position for [Massive Bang](https://www.wowhead.com/spell=363533/massive-bang), as you need to be stood in the zones left by [Burned Out Unstable Matter](https://www.wowhead.com/spell=363518/unstable-matter) in order to avoid lethal damage.
 * {{ site.data.spell.earthbind_totem }} is very useful to slow [Collapsing Quasar Orbs](https://www.wowhead.com/npc=182778/collapsing-quasar).    
 
 </div>
@@ -684,23 +684,23 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Talents without {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.echo_of_the_elements }}
-* **25:** {{ site.data.talent.elemental_blast }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.se }} or {{ site.data.talent.master_of_the_elements }}
-* **40:** {{ site.data.talent.wind_rush_totem }} or {{ site.data.talent.natures_guardian }}
-* **45:** {{ site.data.talent.icefury }} or {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.stormkeeper }}
+* **15:** {{ site.data.spell.echo_of_the_elements }}
+* **25:** {{ site.data.spell.elemental_blast }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.se }} or {{ site.data.spell.master_of_the_elements }}
+* **40:** {{ site.data.spell.wind_rush_totem }} or {{ site.data.spell.natures_guardian }}
+* **45:** {{ site.data.spell.icefury }} or {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.stormkeeper }}
 
 **Talents with {{ site.data.item.t28_4 }}:**
 
-* **15:** {{ site.data.talent.eote }}
-* **25:** {{ site.data.talent.eb }}
-* **30:** {{ site.data.talent.spirit_wolf }}
-* **35:** {{ site.data.talent.mote }}
-* **40:** {{ site.data.talent.wrt }} or {{ site.data.talent.natures_guardian }}
-* **45:** {{ site.data.talent.pe }}
-* **50:** {{ site.data.talent.sk }} or {{ site.data.talent.asc }}
+* **15:** {{ site.data.spell.eote }}
+* **25:** {{ site.data.spell.eb }}
+* **30:** {{ site.data.spell.spirit_wolf }}
+* **35:** {{ site.data.spell.mote }}
+* **40:** {{ site.data.spell.wrt }} or {{ site.data.spell.natures_guardian }}
+* **45:** {{ site.data.spell.pe }}
+* **50:** {{ site.data.spell.sk }} or {{ site.data.spell.asc }}
 
 **Recommended Covenant:**   
 
@@ -717,12 +717,12 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Defensives:**
 
-* Use {{ site.data.talent.as }} as needed for soaking [Martyrdom's](https://www.wowhead.com/spell=363893/martyrdom) final blow with your tank or [Desolation](https://www.wowhead.com/spell=365033/desolation)
+* Use {{ site.data.spell.as }} as needed for soaking [Martyrdom's](https://www.wowhead.com/spell=363893/martyrdom) final blow with your tank or [Desolation](https://www.wowhead.com/spell=365033/desolation)
 
 **Utilities:**
 
-* {{ site.data.talent.wrt }} is very useful to help your group avoid [Oppression](https://www.wowhead.com/spell=362617/oppression)
-* {{ site.data.talent.tremor_totem }} can be used to break your own Mind Control by placing {{ site.data.talent.tremor_totem }} when you are targeted by [Rune of Compulsion](https://www.wowhead.com/spell=366285/rune-of-compulsion), it does not remove Mind Control from your allies and you cannot cast {{ site.data.talent.tremor_totem }} during the Mind Control itself.
+* {{ site.data.spell.wrt }} is very useful to help your group avoid [Oppression](https://www.wowhead.com/spell=362617/oppression)
+* {{ site.data.spell.tremor_totem }} can be used to break your own Mind Control by placing {{ site.data.spell.tremor_totem }} when you are targeted by [Rune of Compulsion](https://www.wowhead.com/spell=366285/rune-of-compulsion), it does not remove Mind Control from your allies and you cannot cast {{ site.data.spell.tremor_totem }} during the Mind Control itself.
 
 **Additional Notes:**
 
