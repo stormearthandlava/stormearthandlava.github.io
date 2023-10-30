@@ -66,7 +66,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Fire T31:
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkgDIINKRJtkQOAAAAAAgSAJlkgmASLJppEgEJRgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSCAJtkUoE0SSSEAAAAAgSAJlkgmASLJppEgEJRgA?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
@@ -75,7 +75,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown:
 
 #### Damage:
-* Use {{ site.data.talent.pw }} and {{ site.data.talent.sk }} whilst {{ site.data.raid.amirdrassil.uprooted_agony }} is active.
+* If talented, use {{ site.data.talent.sk }} whilst {{ site.data.raid.amirdrassil.uprooted_agony }} is active.
 * Cleave down {{ site.data.raid.amirdrassil.tainted_lasher }} and {{ site.data.raid.amirdrassil.tainted_treant }} (Mythic-only) whenever they are active.
 * Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.amirdrassil.controlled_burn }} and {{ site.data.raid.amirdrassil.shadowflame_cleave }}.
 
@@ -112,7 +112,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkgDIINKRJtkQOAAAAAAgSAJlkgmASLJppEgEJRgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSCAJtkUoE0SSSEAAAAAgSAJlkgmASLJppEgEJRgA?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
@@ -156,7 +156,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrUSCgDIlk0oElUSCRAAAAAAKBkUSCaASLJpdACIJJEI?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSCgDk0SShSgkkEBAAAAAoEQSJJoBItkk2BIgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
@@ -200,7 +200,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrUSCgDIlk0oElUSCRAAAAAAKBkUSCaCItkkmSEIkEBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSCAJtkUoEOgkkEBAAAAAoEQSJJoJg0SSaHAJIRCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
@@ -246,7 +246,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrUSCgDIlk0oEl0SCRAAAAAAKBkUSCaCItkkSKBIRCBC?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCAJtkUoE0SSSEAAAAAgSAJlkgmASLJpkSASkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
@@ -292,7 +292,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrUSCgDIlk0oElUSCRAAAAAAKBkUSCaCItkkGCIJJEI?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCgDk0SShSgkkEBAAAAAoEQSJJoJg0SSaIgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
@@ -302,7 +302,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * Focus down {{ site.data.raid.amirdrassil.cycle_warden }} and {{ site.data.raid.amirdrassil.manifested_dream }} (Mythic-only) whenever they are active.
-* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst being targeted by {{ site.data.raid.amirdrassil.threads_of_life }} or dodging {{ site.data.raid.amirdrassil.lucid_exhaust }} (Mythic-only).
+* Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dodging {{ site.data.raid.amirdrassil.impending_loom }}, {{ site.data.raid.amirdrassil.lumbering_slam }} or {{ site.data.raid.amirdrassil.dream_exhaust }} (Mythic-only).
 
 #### Defensives:
 * Use {{ site.data.talent.as }} or healing consumables for overlaps of {{ site.data.raid.amirdrassil.continuum }} and {{ site.data.raid.amirdrassil.lucid_miasma }} (Mythic-only) or when accumulating high stacks of {{ site.data.raid.amirdrassil.verdant_matrix }}.
@@ -312,7 +312,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Utilities:
 * Use {{ site.data.talent.wrt }} to help players repositioning to kill {{ site.data.raid.amirdrassil.cycle_warden }} or {{ site.data.raid.amirdrassil.manifested_dream }} (Mythic-only) as fast as possible.
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.amirdrassil.nature_volley }} from {{ site.data.raid.amirdrassil.cycle_warden }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.amirdrassil.life_ward }} from {{ site.data.raid.amirdrassil.cycle_warden }}.
 
 </div>
 </div>
@@ -337,7 +337,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrUSCgDIlk0oElUSCRAAAAAAKBkUSCaASLJpdACIJJEI?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCgDk0SShSgkkEBAAAAAoEQSJJoBItkk2BIgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
@@ -382,7 +382,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SrIJtkgDIINKRJtkQOAAAAAAgSAJlkgmASLJpkSASkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAoEQSJJoJg0SSKKBIRSEI?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
