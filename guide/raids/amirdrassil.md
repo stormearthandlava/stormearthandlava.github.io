@@ -255,7 +255,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-* Focus down {{ site.data.raid.amirdrassil.fiery_treant }} and {{ site.data.raid.amirdrassil.ashen_treant }} whenever they are active.
+* Use {{ site.data.talent.lmt }} and {{ site.data.talent.pw }} whenever {{ site.data.raid.amirdrassil.fiery_treant }} and {{ site.data.raid.amirdrassil.ashen_treant }} are active.
 * Use {{ site.data.talent.swg }} to maintain uptime whilst dealing with {{ site.data.raid.amirdrassil.dream_blossom }}, {{ site.data.raid.amirdrassil.ashen_devastation }} (Mythic-only) or whilst kiting {{ site.data.raid.amirdrassil.scorching_roots }}.
 
 #### Defensives:
@@ -346,7 +346,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-* Use {{ site.data.talent.pw }} and {{ site.data.talent.sk }} whilst benefiting from {{ site.data.raid.amirdrassil.ignited_essence }}.
+* Maximize your output whilst benefiting from {{ site.data.raid.amirdrassil.ignited_essence }}.
 * Use {{ site.data.talent.swg }} and {{ site.data.talent.gow }} to maintain uptime whilst dealing with {{ site.data.raid.amirdrassil.world_in_flames }} and {{ site.data.raid.amirdrassil.flame_waves }}.
 
 #### Defensives:
