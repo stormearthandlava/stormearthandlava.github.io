@@ -32,7 +32,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 - Time spent in {{ site.data.spell.ghost_wolf }} is time spent not doing damage. Practice proactive movement and utilize {{ site.data.spell.swg }} and instant casts as much as you can for movement heavy encounters.
 
-- When talenting {{ site.data.spell.pe }}, always remember that you have an additional defensive ({{ site.data.spell.harden_skin}}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.spell.earth_elemental }}.
+- When talenting {{ site.data.spell.pe }}, always remember that you have an additional defensive ({{ site.data.spell.harden_skin }}) and single target stun ({{ site.data.spell.pulverize }}) through {{ site.data.spell.earth_elemental }}.
 
 - Recall that [Stampeding Roar](https://www.wowhead.com/spell=106898/stampeding-roar) is now a baseline Druid ability. Depending on your raid comp, it may not be necessary to talent {{ site.data.spell.wind_rush_totem }}.
 
@@ -77,7 +77,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:**
 
-* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.expansion_feature.sl.soulbinds.first_strike}}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{ site.data.expansion_feature.sl.soulbinds.first_strike }}
 
 **Recommended Legendaries:**
 
@@ -202,7 +202,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:**   
 
-* Night Fae with Dreamweaver or Korayn to capitalise on {{site.data.expansion_feature.sl.soulbinds.first_strike}}
+* Night Fae with Dreamweaver or Korayn to capitalise on {{ site.data.expansion_feature.sl.soulbinds.first_strike }}
 
 **Recommended Legendaries:**
 
@@ -398,7 +398,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 **Recommended Covenant:**   
 
-* Night Fae with Korayn for {{site.data.expansion_feature.sl.soulbinds.first_strike}}
+* Night Fae with Korayn for {{ site.data.expansion_feature.sl.soulbinds.first_strike }}
 * Necrolord with Plague-Deviser Marileth
 
 **Recommended Legendaries:**

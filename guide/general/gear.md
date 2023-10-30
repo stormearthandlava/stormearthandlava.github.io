@@ -399,8 +399,8 @@ Its primary use will be as catch-up gear on a new character, or as a somewhat de
 ## Raiding:
 
 1. {{ site.data.gear.freezing_ice_stone }}
-1. {{ site.data.gear.prophetic_twilight_stone }} (with {{ site.data.gear.desirous_blood_stone}})
-1. {{ site.data.gear.desirous_blood_stone }} (with {{ site.data.gear.prophetic_twilight_stone}})
+1. {{ site.data.gear.prophetic_twilight_stone }} (with {{ site.data.gear.desirous_blood_stone }})
+1. {{ site.data.gear.desirous_blood_stone }} (with {{ site.data.gear.prophetic_twilight_stone }})
 1. {{ site.data.gear.storm_infused_stone }}
 
 <br>
@@ -408,8 +408,8 @@ Its primary use will be as catch-up gear on a new character, or as a somewhat de
 ## Mythic+
 
 1. {{ site.data.gear.storm_infused_stone }}
-1. {{ site.data.gear.prophetic_twilight_stone }} (with {{ site.data.gear.desirous_blood_stone}})
-1. {{ site.data.gear.desirous_blood_stone }} (with {{ site.data.gear.prophetic_twilight_stone}})
+1. {{ site.data.gear.prophetic_twilight_stone }} (with {{ site.data.gear.desirous_blood_stone }})
+1. {{ site.data.gear.desirous_blood_stone }} (with {{ site.data.gear.prophetic_twilight_stone }})
 1. {{ site.data.gear.pestilent_plague_stone }}
 
 <br>

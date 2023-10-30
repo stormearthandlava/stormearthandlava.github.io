@@ -40,7 +40,7 @@ Kyrian | Venthyr | Night Fae | Necrolords
         <li> Cast {{ site.data.spell.fs }} when any of the following are true:
             <ul>
                 <li>It is not active on the target.</li>
-                <li class="asc-apl" style="display:none;">You are about to enter {{ site.data.spell.asc}}.</li>
+                <li class="asc-apl" style="display:none;">You are about to enter {{ site.data.spell.asc }}.</li>
                 <li>The debuff's duration is at or below 6 seconds remaining.</li>
             </ul>
         <li> Cast {{ site.data.spell.lvb }} with {{ site.data.spell.lvs }} active.</li>
@@ -49,13 +49,13 @@ Kyrian | Venthyr | Night Fae | Necrolords
         <li> Cast {{ site.data.spell.es }} if your next cast would take you above 100 Maelstrom and fighting 1 target.  Note: if {{ site.data.expansion_feature.sl.legendary.ws }} is equipped and {{ site.data.spell.asc }} is active, you should avoid overcapping Maelstrom. </li>
         </li>
         <!-- covenant abilities -->
-        <li class="pw-apl" style="display: list-item;">Cast {{ site.data.spell.primordial_wave}} on a target without {{ site.data.spell.fs }} or the target with the lowest duration remaining. Delay it if adds are gonna spawn, if it doesn't lead to you losing a use.</li>
-        <li class="vt-apl" style="display: none;">Cast {{ site.data.spell.vesper_totem}} on cooldown. </li>
-        <li class="ft-apl" style="display: none;">Cast {{ site.data.spell.fae_transfusion}} on cooldown (buff it with {{ site.data.spell.master_of_the_elements}} if talented into that). </li>
+        <li class="pw-apl" style="display: list-item;">Cast {{ site.data.spell.primordial_wave }} on a target without {{ site.data.spell.fs }} or the target with the lowest duration remaining. Delay it if adds are gonna spawn, if it doesn't lead to you losing a use.</li>
+        <li class="vt-apl" style="display: none;">Cast {{ site.data.spell.vesper_totem }} on cooldown. </li>
+        <li class="ft-apl" style="display: none;">Cast {{ site.data.spell.fae_transfusion }} on cooldown (buff it with {{ site.data.spell.master_of_the_elements }} if talented into that). </li>
         <!-- covenant abilities end -->
-        <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.es }} while affected by {{ site.data.spell.ecs}}.</li>
+        <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.es }} while affected by {{ site.data.spell.ecs }}.</li>
         <li class="ecs-apl" style="display:none;">Cast {{ site.data.spell.ecs }}.</li>
-        <li class="if-apl" style="display:none;">Cast {{site.data.spell.frs}} if {{ site.data.spell.if}} buffs would run out.</li>
+        <li class="if-apl" style="display:none;">Cast {{ site.data.spell.frs }} if {{ site.data.spell.if }} buffs would run out.</li>
         <li class="eb-apl" style="display: list-item;">Cast {{ site.data.spell.eb }} on cooldown, if {{ site.data.spell.asc }} is not active and ideally with less than 70 maelstrom.</li>
         <li class="sk-apl" style="display: list-item;"> Cast {{ site.data.spell.sk }} on cooldown.</li>
         <li class="lmt-apl" style="display:none;" >Cast {{ site.data.spell.lmt }} on cooldown.</li>
@@ -71,11 +71,11 @@ Kyrian | Venthyr | Night Fae | Necrolords
         <li class="asc-apl" style="display:none;">Cast {{ site.data.spell.lvb }} if {{ site.data.spell.asc }} is active.</li>
         <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lvb }} with {{ site.data.spell.sop }} if you could get another use out of {{ site.data.spell.se }}/{{ site.data.spell.fe }} or lengthen its last possible duration within the fight.</li>
         <li class="sop-apl" style="display: none;">Cast {{ site.data.spell.lb }} with {{ site.data.spell.sop }} buff active.</li>
-        <li>Cast {{site.data.spell.lvb }}.</li>
+        <li>Cast {{ site.data.spell.lvb }}.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.frs }} with the {{ site.data.spell.if }} buff active.</li>
         <li class="if-apl" style="display: list-item;">Cast {{ site.data.spell.if }} on cooldown.</li>
-        <li class="ch-apl" style="display: none;">Cast {{ site.data.spell.chain_harvest}}.</li>
-        <li class="sd-apl" style="display: none;">Cast {{ site.data.spell.sk}}.</li>
+        <li class="ch-apl" style="display: none;">Cast {{ site.data.spell.chain_harvest }}.</li>
+        <li class="sd-apl" style="display: none;">Cast {{ site.data.spell.sk }}.</li>
         <li>Cast {{ site.data.spell.lb }} versus one target and {{ site.data.spell.cl }} versus two and more targets as a filler.</li>
         <li>Cast {{ site.data.spell.frs }} while moving, if you don't have any other instants, even if you do not have {{ site.data.spell.if }}.</li>
     </ol>
@@ -241,7 +241,7 @@ If you are using {{ site.data.spell.eb }} and {{ site.data.spell.primordial_wave
 - When Double Legendary is  equipped this small niche for {{ site.data.spell.sop }} becomes neutral for Night Fae, potentially still valuable for other Covenants - consult your sims!
 - When {{ site.data.item.t28_4 }} is active {{ site.data.spell.sop }} becomes useless once more, until next time!
 
-### {{ site.data.spell.vesper_totem }} with {{site.data.expansion_feature.sl.legendary.kyrian}} equipped.
+### {{ site.data.spell.vesper_totem }} with {{ site.data.expansion_feature.sl.legendary.kyrian }} equipped.
 - During PTR testing it was potentially a DPS increase to cast Healing Spells in order to trigger the Healing Charge explosion of {{ site.data.expansion_feature.sl.legendary.kyrian }} when used in conjunction with {{ site.data.spell.ag }}.
 - On live servers, casting {{ site.data.spell.ag }} is not triggering a Healing Charge of {{ site.data.spell.vesper_totem }} and so cannot be used to trigger the explosion of {{ site.data.expansion_feature.sl.legendary.kyrian }} more efficiently.
 - As a result, on live servers this behaviour is no longer a strict increase in DPS but you can trigger the {{ site.data.spell.kyrian }} charges with {{ site.data.spell.healing_surge }} if your group needs additional healing value. Otherwise you should ignore the second charge of {{ site.data.expansion_feature.sl.legendary.kyrian }} as an Elemental shaman.
@@ -262,15 +262,15 @@ If you are using {{ site.data.spell.eb }} and {{ site.data.spell.primordial_wave
     1. {{ site.data.spell.frs }}
 - don't stress too much over gaming {{ site.data.spell.mote }}. It mostly happens naturally.
 
-### {{ site.data.spell.if }} with {{site.data.expansion_feature.sl.legendary.windspeaker}} equipped and {{ site.data.spell.eb}} talented.
+### {{ site.data.spell.if }} with {{ site.data.expansion_feature.sl.legendary.windspeaker }} equipped and {{ site.data.spell.eb }} talented.
 - The priority with these conditions met is a little complex so this section can be used to help players learn and become more familiar with the setup.
-- Use {{ site.data.spell.if}} on cooldown, or as higher priority if a mechanic will force you to move in the next 5 seconds.
-- {{ site.data.spell.if}} charges should aim to be consumed before they expire, subject to the following priority:
-    - {{site.data.spell.lvb}} (without {{ site.data.spell.mote}} active), {{ site.data.spell.eb}} and {{site.data.spell.es}} have higher priority when {{ site.data.spell.if}} buff duration is higher than the GCDs required to spend the remaining stacks.
-    - {{site.data.spell.fs}} has the highest priority when {{ site.data.spell.if}} buff duration is approaching the GCDs required to spend the remaining stacks.
-    - It can be helpful to stagger use of {{ site.data.spell.sk}} to avoid conflict with {{ site.data.spell.if}}
-    - Avoid overthinking {{ site.data.spell.mote}}, the buff is worth 20% of the spell it effects but losing an {{ site.data.spell.if}} charge is losing 100%.
-    - GCDs: Mentioned above is duration as measured by GCDs required, to clarify each {{ site.data.spell.if}} charge requires one GCD to spend which is a base of 1.5s and is reduced by Haste. This means if you have three stacks of {{ site.data.spell.if}} remaining you will need `3 x 1.5 = 4.5` seconds *minimum* to spend the charges, and haste will reduce this amount however for learning purposes using the base amounts is advised.
+- Use {{ site.data.spell.if }} on cooldown, or as higher priority if a mechanic will force you to move in the next 5 seconds.
+- {{ site.data.spell.if }} charges should aim to be consumed before they expire, subject to the following priority:
+    - {{ site.data.spell.lvb }} (without {{ site.data.spell.mote }} active), {{ site.data.spell.eb }} and {{ site.data.spell.es }} have higher priority when {{ site.data.spell.if }} buff duration is higher than the GCDs required to spend the remaining stacks.
+    - {{ site.data.spell.fs }} has the highest priority when {{ site.data.spell.if }} buff duration is approaching the GCDs required to spend the remaining stacks.
+    - It can be helpful to stagger use of {{ site.data.spell.sk }} to avoid conflict with {{ site.data.spell.if }}
+    - Avoid overthinking {{ site.data.spell.mote }}, the buff is worth 20% of the spell it effects but losing an {{ site.data.spell.if }} charge is losing 100%.
+    - GCDs: Mentioned above is duration as measured by GCDs required, to clarify each {{ site.data.spell.if }} charge requires one GCD to spend which is a base of 1.5s and is reduced by Haste. This means if you have three stacks of {{ site.data.spell.if }} remaining you will need `3 x 1.5 = 4.5` seconds *minimum* to spend the charges, and haste will reduce this amount however for learning purposes using the base amounts is advised.
 
 ### {{ site.data.spell.sk }} + {{ site.data.spell.sop }}
 - Change: You pool Maelstrom before casting {{ site.data.spell.sk }} to combo both empowered {{ site.data.spell.lb }} with {{ site.data.spell.sop }}
@@ -302,9 +302,9 @@ Combining {{ site.data.spell.se }} with {{ site.data.spell.pe }} enables access 
 ## Common misconceptions and mistakes
 ---
 
-> "I should try and play around {{ site.data.spell.mote}}!"
+> "I should try and play around {{ site.data.spell.mote }}!"
 
-The only time you should adjust your gameplay for {{ site.data.spell.mote}} is when you have the liberty to cast a spell *later* with a {{ site.data.spell.mote}} buff versus *now* -- this means for a spell like {{site.data.spell.es}}, you can make the decision to wait until you have the {{ site.data.spell.mote}} buff active before casting it (this is reflected in the priority above). This is thanks to the low urgency of {{site.data.spell.es}} casts, as you are not constrained by a cooldown or Maelstrom cost, since you can cast it at any point between 60 and 100 Maelstrom.
+The only time you should adjust your gameplay for {{ site.data.spell.mote }} is when you have the liberty to cast a spell *later* with a {{ site.data.spell.mote }} buff versus *now* -- this means for a spell like {{ site.data.spell.es }}, you can make the decision to wait until you have the {{ site.data.spell.mote }} buff active before casting it (this is reflected in the priority above). This is thanks to the low urgency of {{ site.data.spell.es }} casts, as you are not constrained by a cooldown or Maelstrom cost, since you can cast it at any point between 60 and 100 Maelstrom.
 
 > "I should only cast {{ site.data.spell.lvb }} during {{ site.data.spell.asc }}!"
 

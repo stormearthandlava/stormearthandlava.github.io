@@ -67,7 +67,7 @@ Depending on the dungeon you are running and the group you're in, here is a list
 - {{ site.data.spell.tremor_totem }} has a lot of minor uses this season but nothing... groundbreaking.
 - {{ site.data.spell.cleanse_spirit }} is used only in Temple of the Jade Serpent this season, you can spend that point elsewhere when you're not in it. Note that the healers that cannot remove Curses are: {{ site.data.externals.monk }}, {{ site.data.externals.paladin }} and {{ site.data.externals.priest }}
 - {{ site.data.spell.totemic_focus }} is a nice passive that will make it less likely for your tank to kite out of {{ site.data.spell.lmt }}'s range. The duration and width on {{ site.data.spell.wrt }} can also be nice.
-- {{ site.data.spell.mana_spring}} is less potent in dungeon than it is in raid. It's nice to have but doesn't really provide a lot either.
+- {{ site.data.spell.mana_spring }} is less potent in dungeon than it is in raid. It's nice to have but doesn't really provide a lot either.
 - {{ site.data.spell.poison_cleansing_totem }} has a lot of minor uses this season but nothing... incurable.
 
 
@@ -203,7 +203,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 * Move out of {{ site.data.dungeon.bh.toxic_trap }}.
 
 **{{ site.data.dungeon.bh.trickclaw_mystic }}**
-* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.earth_bolt }} and {{ site.data.dungeon.bh.witherbolt}}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.earth_bolt }} and {{ site.data.dungeon.bh.witherbolt }}.
 * Use {{ site.data.spell.purge }} to dispel {{ site.data.dungeon.bh.focus_earth }}.
 
 **{{ site.data.dungeon.bh.decay_speaker }}**
@@ -277,7 +277,7 @@ Multiple {{ site.data.dungeon.bh.decaying_cauldron }} are located throughout the
 * It will {{ site.data.dungeon.bh.burst }} on death, leaving a puddle on the ground. Move out of it.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.gushing_ooze }}.
 
-**{{ site.data.dungeon.bh.monstrous_decay}}**
+**{{ site.data.dungeon.bh.monstrous_decay }}**
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.dungeon.bh.gushing_ooze }}.
 * At 20% hp, it will cast {{ site.data.dungeon.bh.burst_monstrous }}. Quickly kill it before the cast completes or it will summon 3 {{ site.data.dungeon.bh.decaying_slime }}. Stay farther than 10 yds away to ignore the AoE.
 
@@ -963,7 +963,7 @@ Going to the last boss, the whole bridge is a gauntlet where {{ site.data.dungeo
 **{{ site.data.dungeon.ntr.forgewrought_monstrosity }}**
 * This mob can be skipped by staying by the anvil in the boss' room.
 * {{ site.data.dungeon.ntr.forgewrought_fury }} will deal ramping party wide damage. Use {{ site.data.spell.as }} as needed and {{ site.data.spell.ag }} to support your healer.
-* It will explode on death using {{ site.data.dungeon.ntr.blazing_detonation}}, dealing moderate damage to whole party.
+* It will explode on death using {{ site.data.dungeon.ntr.blazing_detonation }}, dealing moderate damage to whole party.
 
 <hr>
 

@@ -153,18 +153,18 @@ If you have suggestions to improve the information in this guide please contact 
 - Utilize {{ site.data.spell.swg }} or instant casts as needed for {{ site.data.nathria.ember_blast }}.
 
 **Defensives:**
-- Use {{ site.data.spell.as }} for {{ site.data.nathria.crimson_flurry }} (from {{ site.data.nathria.bleakwing_assassin }}) and {{ site.data.nathria.ember_blast }} (from {{site.data.nathria.shade_of_kaelthas}}) as needed.
-- If talented, {{ site.data.spell.spirit_wolf}} allows you to mitigate damage from {{ site.data.nathria.soul_pedestal }}.
+- Use {{ site.data.spell.as }} for {{ site.data.nathria.crimson_flurry }} (from {{ site.data.nathria.bleakwing_assassin }}) and {{ site.data.nathria.ember_blast }} (from {{ site.data.nathria.shade_of_kaelthas }}) as needed.
+- If talented, {{ site.data.spell.spirit_wolf }} allows you to mitigate damage from {{ site.data.nathria.soul_pedestal }}.
 
 **Healing:**
 - If there is any downtime between add phases, support your raid with off-healing through {{ site.data.spell.healing_stream_totem }}, {{ site.data.spell.chain_heal }}, and {{ site.data.spell.healing_surge }}. You can heal {{ site.data.nathria.essence_font }} as well.
-- If talented, you can use {{ site.data.spell.earth_shield}} on {{ site.data.nathria.kaelthas_sunstrider }} for additional healing.
+- If talented, you can use {{ site.data.spell.earth_shield }} on {{ site.data.nathria.kaelthas_sunstrider }} for additional healing.
 - On Mythic difficulty, support healing through {{ site.data.nathria.cloak_of_flames }} with {{ site.data.spell.healing_surge }} as needed.
 
 **Utilities:**
 - Interrupt {{ site.data.nathria.vulgar_brand }} and {{ site.data.nathria.scornful_blast }} from {{ site.data.nathria.vile_occultist }} as assigned.
 - Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.thunderstorm }} on {{ site.data.nathria.reborn_phoenix }} as needed.
-- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.capacitor_totem}} on {{ site.data.nathria.soul_infuser }} as needed.
+- Use {{ site.data.spell.earthbind_totem }} and {{ site.data.spell.capacitor_totem }} on {{ site.data.nathria.soul_infuser }} as needed.
 - If talented, use {{ site.data.spell.wind_rush_totem }} as needed to help kite away from {{ site.data.nathria.reborn_phoenix }}.
 
 **Notes:**
@@ -204,7 +204,7 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Defensives:**
 - Use {{ site.data.spell.as }} as needed for {{ site.data.nathria.withering_touch }}.
-- {{ site.data.spell.spirit_wolf}} allows you to better navigate the mechanics from each relic. {{ site.data.spell.earth_shield}} can offer HPS against constant damage (i.e. {{ site.data.nathria.hyperlight_spark }}, {{ site.data.nathria.glyph_of_destruction }}, {{ site.data.nathria.withering_touch }}, and {{ site.data.nathria.aura_of_dread }}).
+- {{ site.data.spell.spirit_wolf }} allows you to better navigate the mechanics from each relic. {{ site.data.spell.earth_shield }} can offer HPS against constant damage (i.e. {{ site.data.nathria.hyperlight_spark }}, {{ site.data.nathria.glyph_of_destruction }}, {{ site.data.nathria.withering_touch }}, and {{ site.data.nathria.aura_of_dread }}).
 
 **Utilities:**
 - If talented, use {{ site.data.spell.wind_rush_totem }} as needed to help raid members place {{ site.data.nathria.dimensional_tear }}, move {{ site.data.nathria.seed_of_extinction }}, and avoid {{ site.data.nathria.edge_of_annihilation }}.
@@ -255,7 +255,7 @@ If you have suggestions to improve the information in this guide please contact 
 - If talented, use {{ site.data.spell.wind_rush_totem }} as needed to help raid members position run away from {{ site.data.nathria.consume }}.
 
 **Notes:**
-- Remember that when you are affected by {{ site.data.nathria.gluttonous_miasma }}, {{ site.data.spell.earth_shield}} and {{ site.data.spell.natures_guardian }} will not be useful if talented.
+- Remember that when you are affected by {{ site.data.nathria.gluttonous_miasma }}, {{ site.data.spell.earth_shield }} and {{ site.data.spell.natures_guardian }} will not be useful if talented.
 
 </div>
 </div>
@@ -295,7 +295,7 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Defensives:**
 - Use {{ site.data.spell.as }} as needed for {{ site.data.nathria.change_of_heart }} and {{ site.data.nathria.bottled_anima }} vials.
-- {{ site.data.spell.spirit_wolf}} can be used to mitigate damage from {{ site.data.nathria.loose_anima }} (if channeling) or to run out and soak far away {{ site.data.nathria.bottled_anima }} vials. {{ site.data.spell.earth_shield}} can offer you HPS because of the constant damage from {{ site.data.nathria.loose_anima }}.
+- {{ site.data.spell.spirit_wolf }} can be used to mitigate damage from {{ site.data.nathria.loose_anima }} (if channeling) or to run out and soak far away {{ site.data.nathria.bottled_anima }} vials. {{ site.data.spell.earth_shield }} can offer you HPS because of the constant damage from {{ site.data.nathria.loose_anima }}.
 
 **Utilities:**
 - Interrupt {{ site.data.nathria.condemn }} as assigned.
@@ -329,7 +329,7 @@ If you have suggestions to improve the information in this guide please contact 
 - Necrolord with Plague-Deviser Marileth
 
 **Recommended Legendaries:**
-- {{ site.data.expansion_feature.sl.legendary.dre}} (Note: with the high uptime of {{ site.data.spell.fs }} on multiple targets, using {{ site.data.spell.afs }} can be preferable to enable the most available GCDs for casting {{ site.data.spell.lvb }}).
+- {{ site.data.expansion_feature.sl.legendary.dre }} (Note: with the high uptime of {{ site.data.spell.fs }} on multiple targets, using {{ site.data.spell.afs }} can be preferable to enable the most available GCDs for casting {{ site.data.spell.lvb }}).
 - {{ site.data.expansion_feature.sl.legendary.windspeaker }}
 - {{ site.data.expansion_feature.sl.legendary.sfd }} (Note: this should only be picked if you do not have an active {{ site.data.item.t28_4 }} bonus.
 
@@ -340,7 +340,7 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Defensives:**
 - Use {{ site.data.spell.as }} as needed for {{ site.data.nathria.dark_recital }} or as mechanics become overwhelming with increasing damage from {{ site.data.nathria.oppressive_atmosphere }}.
-- {{ site.data.spell.spirit_wolf}} can help you move quickly or mitigate damage from {{ site.data.nathria.scarlet_letter }}, {{ site.data.nathria.unstoppable_charge }}, {{ site.data.nathria.castellans_cadre }}, and {{ site.data.nathria.dancing_fools }}. {{ site.data.spell.earth_shield}} can offer you HPS against the constant damage from {{ site.data.nathria.oppressive_atmosphere }} alone.
+- {{ site.data.spell.spirit_wolf }} can help you move quickly or mitigate damage from {{ site.data.nathria.scarlet_letter }}, {{ site.data.nathria.unstoppable_charge }}, {{ site.data.nathria.castellans_cadre }}, and {{ site.data.nathria.dancing_fools }}. {{ site.data.spell.earth_shield }} can offer you HPS against the constant damage from {{ site.data.nathria.oppressive_atmosphere }} alone.
 
 **Utilities:**
 - Interrupt {{ site.data.nathria.dreadbolt_volley }} from {{ site.data.nathria.baroness_frieda }} as assigned. The use of `Focus` or targeting macros can make this assignment easier to manage.
@@ -383,7 +383,7 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Defensives:**
 - Use {{ site.data.spell.as }} as needed for {{ site.data.nathria.colossal_roar }} and {{ site.data.nathria.destructive_impact }}.
-- Because you will take constant damage from {{ site.data.nathria.chain_link }} and {{ site.data.nathria.collapsing_foundation }}, {{ site.data.spell.earth_shield}} is a good talent option for HPS.
+- Because you will take constant damage from {{ site.data.nathria.chain_link }} and {{ site.data.nathria.collapsing_foundation }}, {{ site.data.spell.earth_shield }} is a good talent option for HPS.
 
 **Utilities:**
 - If talented, use {{ site.data.spell.wind_rush_totem }} as needed to help raid members position out of {{ site.data.nathria.destructive_stomp }} or {{ site.data.nathria.falling_rubble }}.
@@ -428,7 +428,7 @@ If you have suggestions to improve the information in this guide please contact 
 
 **Defensives:**
 - Use {{ site.data.spell.as }} as needed for {{ site.data.nathria.heart_hemorrhage }} and {{ site.data.nathria.pulverizing_meteor }}.
-- Because you may take constant damage from {{ site.data.nathria.wicked_laceration }} and {{ site.data.nathria.heart_rend }}, {{ site.data.spell.earth_shield}} is a good talent option for HPS.
+- Because you may take constant damage from {{ site.data.nathria.wicked_laceration }} and {{ site.data.nathria.heart_rend }}, {{ site.data.spell.earth_shield }} is a good talent option for HPS.
 
 **Utilities:**
 - If talented, use {{ site.data.spell.wind_rush_totem }} as needed to help raid members running for {{ site.data.nathria.stonegale_effigy }} or {{ site.data.nathria.shattering_blast }}.

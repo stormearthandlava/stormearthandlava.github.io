@@ -101,9 +101,9 @@ This is quick and dirty, your sims will take priority in your gearing process.
 ## Rotation
 
 ### Key Notes
- - Straightforward loop: cast your cooldowns, use {{ site.data.spell.lvb }}, use {{ site.data.spell.eb }}, {{ site.data.spell.if }} and {{ site.data.spell.frs}} become improved filler spells.
+ - Straightforward loop: cast your cooldowns, use {{ site.data.spell.lvb }}, use {{ site.data.spell.eb }}, {{ site.data.spell.if }} and {{ site.data.spell.frs }} become improved filler spells.
  - Don't forget that {{ site.data.spell.wlr }} provides a {{ site.data.spell.lvs }} proc after each {{ site.data.spell.eb }}! Use these immediately afterwards in all cases!
- - {{ site.data.spell.if }} and {{ site.data.spell.frs}} become movement-enabling globals when more than one target is present.
+ - {{ site.data.spell.if }} and {{ site.data.spell.frs }} become movement-enabling globals when more than one target is present.
  - Due to elements like {{ site.data.spell.ps }} and its supporting talents you should continue to utilize {{ site.data.spell.lvs }} procs even if you end up facing multiple targets.
  - {{ site.data.spell.eq }} replaces {{ site.data.spell.eb }} at 4 or more targets.
  - {{ site.data.spell.dre }} procs do not impact rotation priority and should be read the same regardless. In practice this means 'filler' spells like {{ site.data.spell.if }} and buffed {{ site.data.spell.frs }} are eliminated when {{ site.data.spell.dre }} procs happen *unless you have to move* because {{ site.data.spell.lvb }} will always be available during them. You will also continue to spend maelstrom on {{ site.data.spell.eb }} as usual.
@@ -223,8 +223,8 @@ This is quick and dirty, your sims will take priority in your gearing process.
 
 ### Key Notes
  - This variant includes {{ site.data.spell.fb }} which will inevitably increase the pull-to-pull variance in your damage that you see in-game *and* is not simulated with movement in mind when using default Patchwerk sims, this means it may not be the proper choice in real raid scenarios if you're looking to do the most damage and more importantly if you need to do that damage consistently and reliably! It is however extremely fun to manage procs and highroll, best of luck to you!
- - Straightforward loop: cast your cooldowns, use {{ site.data.spell.lvb }}, use {{ site.data.spell.eb }}, {{ site.data.spell.if }} and {{ site.data.spell.frs}} become improved filler spells.
- - {{ site.data.spell.if }} and {{ site.data.spell.frs}} become movement-enabling globals when more than one target is present.
+ - Straightforward loop: cast your cooldowns, use {{ site.data.spell.lvb }}, use {{ site.data.spell.eb }}, {{ site.data.spell.if }} and {{ site.data.spell.frs }} become improved filler spells.
+ - {{ site.data.spell.if }} and {{ site.data.spell.frs }} become movement-enabling globals when more than one target is present.
  - Due to elements like {{ site.data.spell.ps }} and {{ site.data.spell.dre }} with its supporting talents you should continue to utilize {{ site.data.spell.lvs }} procs even if you end up facing multiple targets.
  - {{ site.data.spell.eq }} replaces {{ site.data.spell.eb }} at 4 or more targets.
  - {{ site.data.spell.lvbm }} replaces {{ site.data.spell.lvb }} at 4 or more targets.
@@ -350,8 +350,8 @@ This is quick and dirty, your sims will take priority in your gearing process.
 ## Rotation
 
 ### Key Notes
- - Straightforward loop: cast your cooldowns, use {{ site.data.spell.lvb }}, use {{ site.data.spell.eb }}, {{ site.data.spell.if }} and {{ site.data.spell.frs}} become improved filler spells.
- - {{ site.data.spell.if }} and {{ site.data.spell.frs}} become movement-enabling globals when more than one target is present.
+ - Straightforward loop: cast your cooldowns, use {{ site.data.spell.lvb }}, use {{ site.data.spell.eb }}, {{ site.data.spell.if }} and {{ site.data.spell.frs }} become improved filler spells.
+ - {{ site.data.spell.if }} and {{ site.data.spell.frs }} become movement-enabling globals when more than one target is present.
  - Due to elements like {{ site.data.spell.ps }} and {{ site.data.spell.dre }} with its supporting talents you should continue to utilize {{ site.data.spell.lvs }} procs even if you end up facing multiple targets.
  - {{ site.data.spell.eq }} replaces {{ site.data.spell.eb }} at 4 or more targets.
  - {{ site.data.spell.dre }} procs do not impact rotation priority and should be read the same regardless. In practice this means 'filler' spells like {{ site.data.spell.if }} and buffed {{ site.data.spell.frs }} are eliminated when {{ site.data.spell.dre }} procs happen *unless you have to move* because {{ site.data.spell.lvb }} will always be available during them. You will also continue to spend maelstrom on {{ site.data.spell.eb }} as usual.
@@ -468,7 +468,7 @@ This is quick and dirty, your sims will take priority in your gearing process.
 ### Key Notes
 - This build is best used on single target fights with regular Adds spawns or burst windows.
 - {{ site.data.spell.sop }} is there to amplify what you're already aiming to do at different target counts which can be quite handy, whilst it is appreciable that {{ site.data.spell.eb }} reduces the value gained from {{ site.data.spell.sop }} due to being more expensive and producing less buffs overall - this is only true for the 1-4 target range and the value added is still positive, AoE value from {{ site.data.spell.sop }} is unaffected at 6+ targets.
-    * 1-2 Targets = {{ site.data.spell.lb }} (or {{site.data.spell.lvb}} on {{ site.data.spell.dre }} procs)
+    * 1-2 Targets = {{ site.data.spell.lb }} (or {{ site.data.spell.lvb }} on {{ site.data.spell.dre }} procs)
     * 3-5 Targets = {{ site.data.spell.fs }} if and only if you need to move and {{ site.data.spell.sop }} buff happens to be up and no {{ site.data.spell.if }} buffs remain
     * 6+ Targets = {{ site.data.spell.cl }} whenever possible
     * {{ site.data.spell.sop }} will also make you want to delay casting {{ site.data.spell.sk }} on 1-2 targets or 6+ targets in order to benefit from their combined effects.
@@ -505,7 +505,7 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
  - {{ site.data.spell.lvb }}
  - {{ site.data.spell.eb }}, preferably with {{ site.data.spell.mote }} buff active
  - {{ site.data.spell.lb }} if {{ site.data.spell.sk }} is active
- - {{ site.data.spell.lb}}
+ - {{ site.data.spell.lb }}
 
 ### 2 Targets Priority
  - {{ site.data.spell.fe }} if it is available and there is no reason to hold its use.
@@ -1013,7 +1013,7 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
 
 This cast-sequence will be your main way of dealing damage. You want:
 - at least 63 maelstrom at the start to be able to cast {{ site.data.spell.eb }}.
-- {{ site.data.spell.fs }} and {{ site.data.spell.e_shocks}} to both be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.spell.e_shocks }} is active.
+- {{ site.data.spell.fs }} and {{ site.data.spell.e_shocks }} to both be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.spell.e_shocks }} is active.
 
 <div class="opener">
     <div class="skill lvb"><span>LvB</span></div>
@@ -1037,7 +1037,7 @@ The idea is simple:
 You want these pre-requisite before doing this cast-sequence:
 - {{ site.data.spell.sk }} active
 - {{ site.data.spell.fs }} will be active for the next 10 seconds.
-- {{ site.data.spell.e_shocks}} to be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.spell.e_shocks }} is active.
+- {{ site.data.spell.e_shocks }} to be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.spell.e_shocks }} is active.
 - You have at least 90 Maelstrom.
 - if {{ site.data.spell.e_shocks }} is active and has more than 5 seconds remaining, you have {{ site.data.spell.if }} active with at least 1 charges and at least 5 seconds remaining.
 
@@ -1204,7 +1204,7 @@ Follow the cast sequence below for your opener. A <span style="color:red">red ar
 
 This cast-sequence will be your main way of dealing damage. You want:
 - at least 63 maelstrom at the start to be able to cast {{ site.data.spell.eb }}.
-- {{ site.data.spell.fs }} and {{ site.data.spell.e_shocks}} to both be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.spell.e_shocks }} is active.
+- {{ site.data.spell.fs }} and {{ site.data.spell.e_shocks }} to both be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.spell.e_shocks }} is active.
 
 *Note: For two targets, you need only 38 maelstrom to be able to cast {{ site.data.spell.eq }} but you want the {{ site.data.spell.eogs }} buff to be active.*
 
@@ -1230,7 +1230,7 @@ The idea is simple:
 You want these pre-requisite before doing this cast-sequence:
 - {{ site.data.spell.sk }} active
 - {{ site.data.spell.fs }} will be active for the next 10 seconds.
-- {{ site.data.spell.e_shocks}} to be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.spell.e_shocks }} is active.
+- {{ site.data.spell.e_shocks }} to be active on your target for the next 5 seconds. Those 5 seconds ensure that all the overloads you generate will hit the target while {{ site.data.spell.e_shocks }} is active.
 - You have at least 90 Maelstrom.
 - if {{ site.data.spell.e_shocks }} is active and has more than 5 seconds remaining, you have {{ site.data.spell.if }} active with at least 1 charges and at least 5 seconds remaining.
 

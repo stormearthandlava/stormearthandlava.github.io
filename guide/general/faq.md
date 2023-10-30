@@ -38,7 +38,7 @@ This page has the answers to some frequently asked questions for Elemental Shama
 - Casting {{ site.data.spell.fs }} on multiple targets in order to generate {{ site.data.spell.lvs }} procs or {{ site.data.spell.magma_chamber }} Stacks.
 - Casting {{ site.data.spell.cl }} to generate more Maelstrom in cleave situation then use this maelstrom with {{ site.data.spell.eb }} and {{ site.data.spell.sop }} {{ site.data.spell.lb }}.
 
-### Q: "Is there a point where I don't cast {{site.data.spell.es}} with {{ site.data.spell.eogs}} talented?"
+### Q: "Is there a point where I don't cast {{ site.data.spell.es }} with {{ site.data.spell.eogs }} talented?"
 * **No**, unless you have {{ site.data.spell.eb }} talented, you always alternate {{ site.data.spell.es }} and {{ site.data.spell.eq }}.
 
 ### Q: "Okay, so what about {{ site.data.spell.eb }} and/or {{ site.data.spell.eogs }} then?!"

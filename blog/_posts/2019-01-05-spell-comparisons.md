@@ -46,7 +46,7 @@ Question:
 - can overload
 - Overloads generate 3 Maelstrom
 
-{{site.data.spell.es }}
+{{ site.data.spell.es }}
 - SP: 210%
 - casttime: 1.5 sec
 - cost: 60 Maelstrom

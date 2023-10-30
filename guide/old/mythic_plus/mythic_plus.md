@@ -83,7 +83,7 @@ Don't forget to check out Additional Resources at the bottom of this page!
 
 * Although strategies are listed for mobs and bosses, communicating with your group how each pull should be executed is more important. Some suggestions may not be applicable depending on your group's strategy.
 
-* {{ site.data.spell.earth_elemental }} is a potent ability best used to soak damage away from the tank or as an emergency button to avoid a party wipe. Communicate with your tank on using {{ site.data.spell.earth_elemental }} for challenging trash packs as well as remind your healer to keep the {{ site.data.spell.earth_elemental }} healthy as needed. Remember that with {{ site.data.spell.primal_elementalist }}, you can manually move the pet, and you have access to an additional defensive with {{ site.data.spell.harden_skin}} and single-target stun with {{ site.data.spell.pulverize }}. However, keep in mind that you cannot have {{ site.data.spell.earth_elemental }} and {{ site.data.spell.fire_elemental }} summoned at the same time with {{ site.data.spell.primal_elementalist }}.
+* {{ site.data.spell.earth_elemental }} is a potent ability best used to soak damage away from the tank or as an emergency button to avoid a party wipe. Communicate with your tank on using {{ site.data.spell.earth_elemental }} for challenging trash packs as well as remind your healer to keep the {{ site.data.spell.earth_elemental }} healthy as needed. Remember that with {{ site.data.spell.primal_elementalist }}, you can manually move the pet, and you have access to an additional defensive with {{ site.data.spell.harden_skin }} and single-target stun with {{ site.data.spell.pulverize }}. However, keep in mind that you cannot have {{ site.data.spell.earth_elemental }} and {{ site.data.spell.fire_elemental }} summoned at the same time with {{ site.data.spell.primal_elementalist }}.
 
 * Often times, your tank may need to kite. Remember the kiting tools at your disposal ({{ site.data.spell.earthbind_totem }}, {{ site.data.spell.frost_shock }}, {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.thunderstorm }}) to distance trash packs away from your tank.
 
@@ -451,7 +451,7 @@ When Millificent is active:
 
 **Stoneborn Reaver**
 
-* Interrupt {{ site.data.dungeon.hoa.turn_to_stone}}. If a cast goes off, {{ site.data.spell.purge }} it.
+* Interrupt {{ site.data.dungeon.hoa.turn_to_stone }}. If a cast goes off, {{ site.data.spell.purge }} it.
 
 ## Echelon
 
@@ -463,7 +463,7 @@ When Millificent is active:
 
 ## High Adjudicator Aleez
 
-* Rotate interrupts between {{ site.data.dungeon.hoa.volley_of_power}} and {{ site.data.dungeon.hoa.bolt_of_power}}.
+* Rotate interrupts between {{ site.data.dungeon.hoa.volley_of_power }} and {{ site.data.dungeon.hoa.bolt_of_power }}.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed for {{ site.data.dungeon.hoa.anima_fountain }}.
 * Use {{ site.data.spell.astral_shift }} as needed for {{ site.data.dungeon.hoa.pulse_from_beyond }} from Ghastly Parishioner.
 
@@ -475,7 +475,7 @@ When Millificent is active:
 
 ## Lord Chamberlain
 
-* Use {{ site.data.spell.astral_shift }} for {{ site.data.dungeon.hoa.ritual_of_woe}} as needed.
+* Use {{ site.data.spell.astral_shift }} for {{ site.data.dungeon.hoa.ritual_of_woe }} as needed.
 * Use {{ site.data.spell.spiritwalkers_grace }} as needed to avoid {{ site.data.dungeon.hoa.telekinetic_toss }}, {{ site.data.dungeon.hoa.telekinetic_onslaught }}, and {{ site.data.dungeon.hoa.telekinetic_repulsion }}.
 
 </div>
