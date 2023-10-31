@@ -2,7 +2,7 @@
 layout: post
 title: Open Letter from Elivrio
 #            dd/mm/yyyy
-last_update: 30/10/2023
+last_update: 31/10/2023
 excerpt: The state of Elemental Shaman
 # author: Elivrio
 toc: true
@@ -211,7 +211,7 @@ More generally, the usual complaints of the community often center around three 
 
 Firstly, the gameplay of {{ site.data.spell.eb }} is often disliked. I personally enjoy it. I like having a big spell that can crits for 450k every once in a while. But it's also true that the casted gameplay of {{ site.data.spell.eb }} compared to the freedom of movement that was {{ site.data.spell.es }} for many years can feel weird for long time Elemental Shaman players.
 
-Secondly, {{ site.data.spell.eq }} is always a contention point in the community. It does low damage per tick and you need mobs to stay in it for the full duration. Since {{ site.data.spell.eq }} visual isn't great, tanks are prone to often kite out of it, essentially negating our AoE spender. The problem is further amplified with {{ site.data.spell.eogs }}. A tank kiting out of a buff {{ site.data.spell.eq }} just fells even worse. In my opinion, there are a lot of ways to make it less painful, but I will list a few:
+Secondly, {{ site.data.spell.eq }} is always a contention point in the community. It does low damage per tick and you need mobs to stay in it for the full duration. Since {{ site.data.spell.eq }} visual isn't great, tanks are prone to often kite out of it, essentially negating our AoE spender. The problem is further amplified with {{ site.data.spell.eogs }}. A tank kiting out of a buffed {{ site.data.spell.eq }} just feels even worse. In my opinion, there are a lot of ways to make it less painful, but I will list a few:
 - Increase the width of the effect,
 - Reduce the duration of the effect for the same amount of damage.
 - Mostly frontload the damage of the spell, then do residual damage while in the effect (like 80/20 split),
