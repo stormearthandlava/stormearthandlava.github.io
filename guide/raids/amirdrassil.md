@@ -305,8 +305,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dodging {{ site.data.raid.amirdrassil.impending_loom }}, {{ site.data.raid.amirdrassil.lumbering_slam }} or {{ site.data.raid.amirdrassil.dream_exhaust }} (Mythic-only).
 
 #### Defensives:
-* Use {{ site.data.spell.as }} or healing consumables for overlaps of {{ site.data.raid.amirdrassil.continuum }} and {{ site.data.raid.amirdrassil.lucid_miasma }} (Mythic-only) or when accumulating high stacks of {{ site.data.raid.amirdrassil.verdant_matrix }}.
-* Use {{ site.data.spell.ag }} during {{ site.data.raid.amirdrassil.continuum }}.
+* Use {{ site.data.spell.as }} or healing consumables when accumulating high stacks of {{ site.data.raid.amirdrassil.verdant_matrix }} or {{ site.data.raid.amirdrassil.unravel }} but especially during overlaps with {{ site.data.raid.amirdrassil.lucid_miasma }} (Mythic-only).
+* Use {{ site.data.spell.ag }} during {{ site.data.raid.amirdrassil.continuum }} or {{ site.data.raid.amirdrassil.unravel }}.
 * If talented, use {{ site.data.spell.earth_shield }} and {{ site.data.spell.healing_stream_totem }} as a movement filler throughout the fight.
 * Use {{ site.data.spell.healing_surge }} if necessary.
 
