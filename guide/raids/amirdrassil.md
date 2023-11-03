@@ -346,7 +346,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown
 
 #### Damage:
-* Maximize your output whilst benefiting from {{ site.data.raid.amirdrassil.ignited_essence }}.
+* If talented, use {{ site.data.spell.sk }} whilst benefiting from {{ site.data.raid.amirdrassil.ignited_essence }}.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.amirdrassil.world_in_flames }} and {{ site.data.raid.amirdrassil.flame_waves }}.
 
 #### Defensives:
