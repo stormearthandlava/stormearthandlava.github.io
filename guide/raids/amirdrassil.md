@@ -13,7 +13,7 @@ This guide was made possible by:
 - Altenna (Discord: JudgeJames#0001 \| [Twitch](https://www.twitch.tv/judgejames) \| [Twitter](https://twitter.com/_judgejames_))
 - Amani (Discord: Amani#0001 \| [Discord Server (RU)](https://discord.gg/vodovorot) \| [Twitch](https://www.twitch.tv/amanizandalari))
 - Bloodmallet (Discord: Bloodmallet(EU)#8246 \| [Website](https://bloodmallet.com/))
-- Elivrio (Discord: Elivrio#1450, in-game : Tyrindra-Ysondre)
+- Elivrio (Discord: Elivrio#1450, in-game: Tyrindra-Ysondre)
 - Eokira (Discord: Eokira#7823)
 - Gaka (Discord: Gaka#7410)
 - HawkCorrigan (Discord: HawkCorrigan#1811)
