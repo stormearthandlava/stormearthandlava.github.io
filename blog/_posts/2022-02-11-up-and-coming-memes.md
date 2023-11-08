@@ -95,21 +95,21 @@ Your Covenant ability will spread {{ site.data.spell.fs }}.
 
 ![Ticking Hotness Synergy Flowchart](/assets/img/blog/9_2_memes/ticking_hotness_flowchart.png)
 
-**How to improve**: Use {{ site.data.talent.se }}. It'll serve your AoE needs better, but costs you some theme-points.
+**How to improve**: Use {{ site.data.spell.se }}. It'll serve your AoE needs better, but costs you some theme-points.
 
 During **AoE** this build will add many critically hitting numbers to your screen.
-You'll provide some off-healing and have a permanent {{ site.data.talent.se }} up even without T28 and without casting any {{ site.data.spell.lvb }}.
+You'll provide some off-healing and have a permanent {{ site.data.spell.se }} up even without T28 and without casting any {{ site.data.spell.lvb }}.
 
 **Low target counts** let this build crumble.
 Not having enough targets with active {{ site.data.spell.fs }} results in a long effective CD on {{ site.data.spell.chain_harvest }}.
-Ignoring our Covenant ability for a second, when fighting only a few enemies T28 comes in clutch to make sure we keep {{ site.data.talent.se }} active, or get it back quickly.
+Ignoring our Covenant ability for a second, when fighting only a few enemies T28 comes in clutch to make sure we keep {{ site.data.spell.se }} active, or get it back quickly.
 
 **Talents**:
-- {{ site.data.talent.er }}
-- {{ site.data.talent.afs }}
-- {{ site.data.talent.lmt }} ({{ site.data.talent.se }})
-- {{ site.data.talent.pe }}
-- {{ site.data.talent.asc }} ({{ site.data.talent.sk }})
+- {{ site.data.spell.er }}
+- {{ site.data.spell.afs }}
+- {{ site.data.spell.lmt }} ({{ site.data.spell.se }})
+- {{ site.data.spell.pe }}
+- {{ site.data.spell.asc }} ({{ site.data.spell.sk }})
 
 **Stats**: haste >= crit > vers > mastery
 
@@ -126,7 +126,7 @@ The best part? You'll be 100% mobile because everything you do are instant casts
 You come in two flavors. One is explosive and the other has even more chains!
 
 {{ site.data.expansion_feature.sl.legendary.chains_of_devastation }} are the name of the game.
-Alternate between {{ site.data.spell.cl }} and {{ site.data.talent.chain_heal }}.
+Alternate between {{ site.data.spell.cl }} and {{ site.data.spell.chain_heal }}.
 As a Kyrian alternating between these casts will ensure you're using all charges of your {{ site.data.spell.vesper_totem }} and trigger both potential explosions of {{ site.data.expansion_feature.sl.legendary.kyrian }}.
 As a Venthyr you'll incorporate {{ site.data.spell.chain_harvest }} as the ultimate chaining spell into your repertoire.
 
@@ -141,13 +141,13 @@ During **AoE** this build is still worse than just straight up ignoring its core
 T28 is ignored in this build and has no effect.
 
 **Talents**:
-- {{ site.data.talent.er }}
-- {{ site.data.talent.afs }}
-- {{ site.data.talent.earth_shield }}
-- {{ site.data.talent.se }}
-- {{ site.data.talent.ancestral_guidance }}
-- {{ site.data.talent.pe }}
-- {{ site.data.talent.up }} ({{ site.data.talent.sk }})
+- {{ site.data.spell.er }}
+- {{ site.data.spell.afs }}
+- {{ site.data.spell.earth_shield }}
+- {{ site.data.spell.se }}
+- {{ site.data.spell.ancestral_guidance }}
+- {{ site.data.spell.pe }}
+- {{ site.data.spell.up }} ({{ site.data.spell.sk }})
 
 **Stats**: haste >= crit > vers > mastery
 
@@ -164,18 +164,18 @@ just to coming to a full stop when dumping your accumulated resources.
 Until you lose all reason and ignore Maelstrom entirely. Which might happen. *Soon*.
 
 The goal is pretty straight forward.
-Permanent {{ site.data.talent.se }} and therefore almost 100% uptime of 20 stacks of {{ site.data.spell.wind_gust }} and benefitting from it as much as possible.
+Permanent {{ site.data.spell.se }} and therefore almost 100% uptime of 20 stacks of {{ site.data.spell.wind_gust }} and benefitting from it as much as possible.
 How can we benefit more than usual from {{ site.data.spell.wind_gust }}? Glad you ask.
 By stacking {{ site.data.spell.mastery }} and haste. Because this implies we won't be stacking crit.
 Which has a curious result: {{ site.data.spell.lb }} can deal more damage than {{ site.data.spell.es }}.
-As Night Fae your Legendary {{ site.data.expansion_feature.sl.legendary.night_fae }} helps with {{ site.data.talent.se }} uptime and still provides crit.
+As Night Fae your Legendary {{ site.data.expansion_feature.sl.legendary.night_fae }} helps with {{ site.data.spell.se }} uptime and still provides crit.
 Even though this build ignores this stat for gearing it's still a powerful stat and a great addition.
 As Necrolord you have access to an empowered {{ site.data.spell.fs }} in the form of {{ site.data.spell.primordial_wave }} and {{ site.data.expansion_feature.sl.legendary.necrolord }} provides even more haste.
-But you'll struggle with {{ site.data.talent.se }} uptime if you're not using {{ site.data.expansion_feature.sl.legendary.skybreakers_fiery_demise }}.
+But you'll struggle with {{ site.data.spell.se }} uptime if you're not using {{ site.data.expansion_feature.sl.legendary.skybreakers_fiery_demise }}.
 So what happens if this build reaches its goal of 20 {{ site.data.spell.wind_gust }} stacks?
 {{ site.data.spell.lb }} casttime is 0.5 seconds and deals more damage per second than {{ site.data.spell.es }}.
 Do you remember what else has a 0.5 seconds CD? Let me tell you: {{ site.data.expansion_feature.sl.legendary.norgannon }}.
-Therefore in its climax this build will only cast {{ site.data.spell.fs }}, {{ site.data.spell.lvb }} with {{ site.data.talent.lava_surge }}, and {{ site.data.spell.lb }}.
+Therefore in its climax this build will only cast {{ site.data.spell.fs }}, {{ site.data.spell.lvb }} with {{ site.data.spell.lava_surge }}, and {{ site.data.spell.lb }}.
 Which are either instants or take 0.5 seconds to cast, which means that we can move 100% while casting.
 Welcome back `Mists of Pandaria` and {{ site.data.spell.lb }} on the move glyph.
 Another cool thing about this build: against 5 enemies, with enough {{ site.data.spell.mastery }} {{ site.data.spell.cl }} deals as much damage as {{ site.data.spell.eq }}. Nice, only one button to spam during AoE!
@@ -184,21 +184,21 @@ Another cool thing about this build: against 5 enemies, with enough {{ site.data
 
 **How to improve**: Diverting from stacking {{ site.data.spell.mastery }} and haste and thus returning to normal priority lists would improve the performance, but this would no longer be a meme at this point.
 
-This build deals with **AoE** worse than with single target, because while {{ site.data.spell.fs }} and {{ site.data.spell.lvb }} are required for {{ site.data.talent.se }} uptime, they are a downgrade for actual AoE damage.
+This build deals with **AoE** worse than with single target, because while {{ site.data.spell.fs }} and {{ site.data.spell.lvb }} are required for {{ site.data.spell.se }} uptime, they are a downgrade for actual AoE damage.
 
 T28 helps to recover from screw-up and downtimes faster.
 
 **Legendaries**:
 - {{ site.data.expansion_feature.sl.legendary.norgannon }} for free movement
-- {{ site.data.expansion_feature.sl.legendary.skybreakers_fiery_demise }} to reach 100% {{ site.data.talent.se }} uptime for Necrolord
-- ({{ site.data.expansion_feature.sl.legendary.elemental_equilibrium }} trigger it using {{ site.data.talent.eb }} every 30 seconds)
+- {{ site.data.expansion_feature.sl.legendary.skybreakers_fiery_demise }} to reach 100% {{ site.data.spell.se }} uptime for Necrolord
+- ({{ site.data.expansion_feature.sl.legendary.elemental_equilibrium }} trigger it using {{ site.data.spell.eb }} every 30 seconds)
 
 **Talents**:
-- {{ site.data.talent.er }}
-- {{ site.data.talent.eb }} (mostly ignored, except on ramp-up)
-- {{ site.data.talent.se }}
-- {{ site.data.talent.pe }}
-- {{ site.data.talent.up }}
+- {{ site.data.spell.er }}
+- {{ site.data.spell.eb }} (mostly ignored, except on ramp-up)
+- {{ site.data.spell.se }}
+- {{ site.data.spell.pe }}
+- {{ site.data.spell.up }}
 
 **Stats**: mastery = haste > vers > crit
 
@@ -217,9 +217,9 @@ You're barely able to hold it together.
 This build is all about meatballs. The more, the merrier.
 With a sprinkled in chance of getting even more meatballs.
 Necrolord provide some solid additional {{ site.data.spell.lvb }} via {{ site.data.spell.primordial_wave }}.
-Their temporary haste increase from {{ site.data.expansion_feature.sl.legendary.necrolord }} comes in handy for quicker {{ site.data.spell.fs }} ticks, resulting in a few more {{ site.data.talent.lava_surge }} procs.
+Their temporary haste increase from {{ site.data.expansion_feature.sl.legendary.necrolord }} comes in handy for quicker {{ site.data.spell.fs }} ticks, resulting in a few more {{ site.data.spell.lava_surge }} procs.
 The ultimate goal for this build is to be more efficient when waiting for {{ site.data.spell.lvb }} than to cast {{ site.data.spell.lb }}.
-Very frequent {{ site.data.talent.lava_surge }} procs make it possible.
+Very frequent {{ site.data.spell.lava_surge }} procs make it possible.
 The usage of {{ site.data.expansion_feature.sl.legendary.deeply_rooted_elements }} is the core of our build.
 We're rewarded for every {{ site.data.spell.lvb }} with a chance to cast even more {{ site.data.spell.lvb }}.
 
@@ -234,11 +234,11 @@ During **AoE** this build is useless. We generally don't want to cast {{ site.da
 T28 makes our meatballs juicier.
 
 **Talents**:
-- {{ site.data.talent.eote }}
-- {{ site.data.talent.eb }} (squint hard enough and it's a triple meatball)
-- {{ site.data.talent.mote }}
-- {{ site.data.talent.pe }}
-- {{ site.data.talent.asc }}
+- {{ site.data.spell.eote }}
+- {{ site.data.spell.eb }} (squint hard enough and it's a triple meatball)
+- {{ site.data.spell.mote }}
+- {{ site.data.spell.pe }}
+- {{ site.data.spell.asc }}
 
 **Stats**: vers > haste >= mastery > crit
 

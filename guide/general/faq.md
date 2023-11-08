@@ -21,7 +21,7 @@ This page has the answers to some frequently asked questions for Elemental Shama
 ### Q: "What do all these abbreviations mean? I can't understand other Elemental Shaman!"
 * It can be tough trying to learn all of them at once but there is a handy resource to help you! See [Elemental Abbreviations]({{ site.baseurl }}{% link blog/_posts/2023-01-23-ele101.md %}).
 
-### Q: "What does {{ site.data.talent.fol }} actually reduce?"
+### Q: "What does {{ site.data.spell.fol }} actually reduce?"
 * For a complete list, see the [Flash of Lightning]({{ site.baseurl }}{%link blog/_posts/2023-01-23-fol.md %}) post.
 
 ### Q: "Do you have any recommendation on how to sim and profiles to use while simming?"
@@ -35,16 +35,16 @@ This page has the answers to some frequently asked questions for Elemental Shama
 
 ### Q: "What is funnelling?"
 * Funnel means you are utilizing multiple targets to put more damage into a priority target or a boss. In Elemental Shaman's case, it can either refer to:
-- Casting {{ site.data.spell.fs }} on multiple targets in order to generate {{ site.data.talent.lvs }} procs or {{ site.data.talent.magma_chamber }} Stacks.
-- Casting {{ site.data.spell.cl }} to generate more Maelstrom in cleave situation then use this maelstrom with {{ site.data.talent.eb }} and {{ site.data.talent.sop }} {{ site.data.spell.lb }}.
+- Casting {{ site.data.spell.fs }} on multiple targets in order to generate {{ site.data.spell.lvs }} procs or {{ site.data.spell.magma_chamber }} Stacks.
+- Casting {{ site.data.spell.cl }} to generate more Maelstrom in cleave situation then use this maelstrom with {{ site.data.spell.eb }} and {{ site.data.spell.sop }} {{ site.data.spell.lb }}.
 
-### Q: "Is there a point where I don't cast {{site.data.spell.es}} with {{site.data.talent.eogs}} talented?"
-* **No**, unless you have {{ site.data.talent.eb }} talented, you always alternate {{ site.data.spell.es }} and {{ site.data.spell.eq }}.
+### Q: "Is there a point where I don't cast {{ site.data.spell.es }} with {{ site.data.spell.eogs }} talented?"
+* **No**, unless you have {{ site.data.spell.eb }} talented, you always alternate {{ site.data.spell.es }} and {{ site.data.spell.eq }}.
 
-### Q: "Okay, so what about {{ site.data.talent.eb }} and/or {{ site.data.talent.eogs }} then?!"
+### Q: "Okay, so what about {{ site.data.spell.eb }} and/or {{ site.data.spell.eogs }} then?!"
 * **Yes**, these talent choices do impact your spender use:
-   - If you have taken {{ site.data.talent.eb }} and *not* {{ site.data.talent.eogs }} then you will use {{ site.data.talent.eb }} at 3 and less targets, {{ site.data.spell.eq }} at 4 targets and more.
-   - If you have taken {{ site.data.talent.eb }} *and* {{ site.data.talent.eogs }} then you will use {{ site.data.talent.eb }} at 1 target, then alternate {{ site.data.talent.eb }} and {{ site.data.spell.eq }} at 2 targets and more.
+   - If you have taken {{ site.data.spell.eb }} and *not* {{ site.data.spell.eogs }} then you will use {{ site.data.spell.eb }} at 3 and less targets, {{ site.data.spell.eq }} at 4 targets and more.
+   - If you have taken {{ site.data.spell.eb }} *and* {{ site.data.spell.eogs }} then you will use {{ site.data.spell.eb }} at 1 target, then alternate {{ site.data.spell.eb }} and {{ site.data.spell.eq }} at 2 targets and more.
 
 ### Q: "How many targets should I cast {{ site.data.spell.fs }} on?"
 * See the Priority List for each build in the [Build]({{ site.baseurl }}{% link guide/general/builds.md %}) section of the guide.
@@ -52,21 +52,21 @@ This page has the answers to some frequently asked questions for Elemental Shama
 ### Q: "When do I cast {{ site.data.spell.cl }}?"
 * {{ site.data.spell.cl }} replaces {{ site.data.spell.lb }} as a filler from 2 or more targets.
 
-### Q: "What about with {{ site.data.talent.sk }}?"
-* With {{ site.data.talent.sop }} talented:
-  - 1-2 targets = {{ site.data.spell.lb }} with {{ site.data.talent.sop }} buff active.
-  - 3-5 targets = {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} with {{ site.data.talent.mote }} buff active.
-  - 6+ targets = {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} with {{ site.data.talent.sop }} buff active.
-* Without {{ site.data.talent.sop }}:
-  - 1 target = {{ site.data.spell.lb }} with {{ site.data.talent.mote }} buff active.
-  - 2+ targets {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} with {{ site.data.talent.mote }} buff active.
+### Q: "What about with {{ site.data.spell.sk }}?"
+* With {{ site.data.spell.sop }} talented:
+  - 1-2 targets = {{ site.data.spell.lb }} with {{ site.data.spell.sop }} buff active.
+  - 3-5 targets = {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} with {{ site.data.spell.mote }} buff active.
+  - 6+ targets = {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} with {{ site.data.spell.sop }} buff active.
+* Without {{ site.data.spell.sop }}:
+  - 1 target = {{ site.data.spell.lb }} with {{ site.data.spell.mote }} buff active.
+  - 2+ targets {{ site.data.spell.cl }} or {{ site.data.spell.lvbm }} with {{ site.data.spell.mote }} buff active.
 
 ### Q: "When is the best time to use Primal Fire Elemental's {{ site.data.spell.meteor }} and Primal Storm Elemental's {{ site.data.spell.tempest }}?"
 * When they would hit the most targets. For {{ site.data.spell.tempest }} specifically, you need to ensure it is also fully buffed by {{ site.data.spell.call_lightning }}.  
-*Note: This only applies when talented into {{ site.data.talent.pe }}. Both abilities can be macro'd. See useful macros further down.*
+*Note: This only applies when talented into {{ site.data.spell.pe }}. Both abilities can be macro'd. See useful macros further down.*
 
-### Q: "Do I use {{ site.data.spell.lvb }} during {{ site.data.talent.se }}?"
-* {{ site.data.talent.se }} does not alter the rotation for the builds that use it. During its duration, you will typically behave the same regardless of it being active.
+### Q: "Do I use {{ site.data.spell.lvb }} during {{ site.data.spell.se }}?"
+* {{ site.data.spell.se }} does not alter the rotation for the builds that use it. During its duration, you will typically behave the same regardless of it being active.
 
 ### Q: "What trinkets should I aim for as an Elemental Shaman?"
 * For a complete guide about Elemental's trinket, see [Trinket]({{ site.baseurl }}{% link guide/general/trinkets.md %}) section of the guide.

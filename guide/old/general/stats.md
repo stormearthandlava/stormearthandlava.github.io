@@ -37,7 +37,7 @@ Expand the section below if you want more information on what these ratios are a
 
 In Patch 7.1.5 we introduced the concept of stat ratios, a distribution of secondary stats in a ratio that will provide, fairly generally, the highest DPS. This metric differs from stat weights as it does not directly let you assess the value of an item, but instead serves as a tool for long term gearing strategy.
 
-![chart example image]({{ "assets/img/guide/chart_example.PNG" | absolute_url}})
+![chart example image]({{ "assets/img/guide/chart_example.PNG" | absolute_url }})
 
 The above figure shows a rough example of a stat ratio — it’s a relationship between the four secondary stats, but not the inherent value of these stats. This doesn’t simply say Critical Strike is the best stat since there’s more of it, but that this particular distribution of secondaries is best, so you should do your best at balancing stats accordingly. When we release stat ratios, we give them as a simple ‘algebraic equation’ but it’s much more digestible with a visualization like the ones above and below.
 

@@ -73,7 +73,7 @@ Again, **this is not a ranking guide**. Check the trinket overview section below
 * Very Strong single-target proc trinket.
 
 #### {{ site.data.gear.call_to_dominance }} (rare drop from Echo of Neltharion):
-* Medium passive trinket. It will give you a huge amount of intel after using {{ site.data.talent.fe }} or {{ site.data.talent.se }} for a very low duration. It has a lot of potential in Wildfire builds
+* Medium passive trinket. It will give you a huge amount of intel after using {{ site.data.spell.fe }} or {{ site.data.spell.se }} for a very low duration. It has a lot of potential in Wildfire builds
 
 #### {{ site.data.gear.ominous_chromatic_essence }} (from the Forgotten Experiments):
 * Strong stat stick that gives a lot of secondaries if your whole group has it. Since its good for most spec, it will be very good in raid and a bit worse in dungeons.
@@ -94,7 +94,7 @@ Again, **this is not a ranking guide**. Check the trinket overview section below
 * Strong AoE trinket, dealing damage and giving you crit depending on target count. Really good during burst on adds.
 
 #### {{ site.data.gear.irideus_fragment }} (from Halls of Infusions):
-* Strong burst trinket, giving you a lot of int that decreases with each casts. This should be used before {{ site.data.talent.sk }} empowered spells for maximum output. It works especially well in AoE.
+* Strong burst trinket, giving you a lot of int that decreases with each casts. This should be used before {{ site.data.spell.sk }} empowered spells for maximum output. It works especially well in AoE.
 
 #### {{ site.data.gear.rotcrusted_voodoo_doll }} (from the Underrot):
 * Very Strong On use single-target trinket.

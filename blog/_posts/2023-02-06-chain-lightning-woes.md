@@ -2,7 +2,7 @@
 layout: post
 title: The woes of Chain Lightning
 #            dd/mm/yyyy
-last_update: 06/02/2023 
+last_update: 06/02/2023
 excerpt: Quadratic scaling is nice and bad
 author: Bloodmallet(EU)
 ---
@@ -55,7 +55,7 @@ Overload on all targets |  `(overload_chance / 3) ^ target_count`
 Average Overloads | `(overload_chance / 3) * target_count`
 
 
-So let's add this knowledge to the first table (ignoring Echo Chamber).
+So let's add this knowledge to the first table (ignoring {{ site.data.spell.echo_chamber }}).
 
 
 ## Effects with Overloads
@@ -87,20 +87,20 @@ A drawback of this approach would be that {{ site.data.spell.cl }} and {{ site.d
 One with slightly more single target damage, and one that hits multiple enemies and has a hidden Overload multiplier.
 
 Alternatively, overloading {{ site.data.spell.cl }} could be changed to {{ site.data.spell.cl }} being allowed to only overload once.
-This would also reduce the amount of Maelstrom generated, but would keep the noticable ramp from 1 to 5 targets.
-This change would have a smaller impact on resource generation than the former, but it would be a noticable visual cut.
-Such a change would allow other sources to "unlock" Chain Lightning to once more overload multiple times. E.g. Stormkeeper, Power of the Maelstrom or Surge of Power come to mind.
+This would also reduce the amount of Maelstrom generated, but would keep the noticeable ramp from 1 to 5 targets.
+This change would have a smaller impact on resource generation than the former, but it would be a noticeable visual cut.
+Such a change would allow other sources to "unlock" Chain Lightning to once more overload multiple times. E.g. {{ site.data.spell.sk }}, {{ site.data.spell.potm }} or {{ site.data.spell.sop }} come to mind.
 
 
 ## Conclusion
 
 {{ site.data.spell.cl }} is one of the reasons why our damage against 2-4 targets isn't great.
 Considering that a lot of time in M+ is spent fighting smaller groups now, this weakness is sorely felt.
-{{ site.data.talent.if }} with {{ site.data.talent.electrified_shocks }} could be a way to handle this problematic target count.
-However, {{ site.data.talent.if }} is a single target cast which is terrible by itself, and {{ site.data.spell.frost_shock }} doesn't generate enough Maelstrom against multiple enemies.
+{{ site.data.spell.if }} with {{ site.data.spell.electrified_shocks }} could be a way to handle this problematic target count.
+However, {{ site.data.spell.if }} is a single target cast which is terrible by itself, and {{ site.data.spell.frost_shock }} doesn't generate enough Maelstrom against multiple enemies.
 Additionally, the debuff suggests you should use {{ site.data.spell.cl }} which doesn't fit the {{ site.data.spell.lvb }} playstyle, which makes this talent combination uninteresting for at least half the builds.
-The alternative {{ site.data.talent.flux_melting }} is only good enough as a fall-back cast during movement, or in the rare occurances of no {{ site.data.spell.lvb }}s being available.
-Furthermore, using either {{ site.data.talent.electrified_shocks }} or {{ site.data.talent.flux_melting }} introduces two additional buttons and therefore complexity to the playstyle, which many don't enjoy.
+The alternative {{ site.data.spell.flux_melting }} is only good enough as a fall-back cast during movement, or in the rare occurances of no {{ site.data.spell.lvb }}s being available.
+Furthermore, using either {{ site.data.spell.electrified_shocks }} or {{ site.data.spell.flux_melting }} introduces two additional buttons and therefore complexity to the playstyle, which many don't enjoy.
 But I digress.
 
 Yours sincerely,<br/>
