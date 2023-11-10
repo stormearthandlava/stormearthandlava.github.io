@@ -459,7 +459,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 # Additional Resources
 
-* [Wowhead Elemental Shaman Aberrus Guide](https://www.wowhead.com/guide/classes/shaman/elemental/aberrus-the-shadowed-crucible-raid-tips) by HawkCorrigan
+* [Wowhead Elemental Shaman Aberrus Guide](https://www.wowhead.com/guide/classes/shaman/elemental/aberrus-raid-tips) by HawkCorrigan
 * [Icy-Veins Elemental Shaman Aberrus Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-aberrus-the-shadowed-crucible-raid-guide) by Stormy
 - [Warcraft Logs](https://www.warcraftlogs.com/)
 - [Aberrus, the Shadowed Crucible Loot Overview](https://www.wowhead.com/guide/raids/aberrus-the-shadowed-crucible/loot)
