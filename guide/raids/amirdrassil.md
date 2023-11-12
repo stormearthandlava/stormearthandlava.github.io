@@ -188,13 +188,13 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="council_of_dreams-collapse" class="collapse" aria-labelledby="council_of_dreams" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Boss Fight Profile: Spread Cleave
+## Boss Fight Profile: (Spread) Cleave
 
 ### Talents:
 
 #### Lightning T30:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkgmAJtkk2BQgkEEI?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSAJlkgmAJtkk2BQgkEEI?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
