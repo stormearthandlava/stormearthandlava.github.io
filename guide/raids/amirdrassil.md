@@ -439,7 +439,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 # Additional Resources
 
 * [Wowhead Elemental Shaman Amirdrassil Guide](https://www.wowhead.com/guide/classes/shaman/elemental/amirdrassil-raid-tips) by HawkCorrigan
-* [Icy-Veins Elemental Shaman Amirdrassil Tips](www.icy-veins.com/wow/elemental-shaman-pve-dps-amidrassil-the-dreams-hope-raid-guide) by Stormy
+* [Icy-Veins Elemental Shaman Amirdrassil Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-amirdrassil-raid-guide) by Stormy
 * [Warcraft Logs](https://www.warcraftlogs.com/)
 * [Amirdrassil, the Dream’s Hope Loot Overview](https://www.wowhead.com/guide/raids/amirdrassil-the-dreams-hope/loot)
 * [Raid Subcreation](raid.subcreation.net/amirdrassil-elemental-shaman.html)
