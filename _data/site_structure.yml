@@ -24,7 +24,9 @@ categories:
       url : /guide/mythic_plus/DF_season_1.html
 - title: Raids
   subcategories:
-    - title: Aberrus
+    - title: Amirdrassil, the Dream's Hope
+      url: /guide/raids/amirdrassil.html
+    - title: Aberrus, the Shadowed Crucible
       url: /guide/raids/aberrus.html
     - title: Vault of the Incarnates
       url: /guide/raids/vault.html
