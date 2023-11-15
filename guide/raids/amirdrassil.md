@@ -424,6 +424,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
 </div>
 </div>
 </div>
+</div>
+</div>
 
 <br>
 
