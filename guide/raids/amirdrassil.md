@@ -156,7 +156,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAg0SpUSCgDk0SShSgkkEBAAAAAoEQSJJoBItkk2BIgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCgDk0SShSgkkEBAAAAAoEQSJJoBItkk2BIgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
