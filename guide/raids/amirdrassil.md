@@ -156,7 +156,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCgDk0SShSgkkEBAAAAAoEQSJJoBItkk2BIgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAzii1bx6MdXWQl8y/78bs6CAAAAAg0SpUSCgDk0SShSgkkEBAAAAAoEQSJJoJg0SSaBgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
@@ -192,9 +192,9 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 ### Talents:
 
-#### Lightning T30:
+#### Fire T30:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJSRSLRDRJQiEAAAAAgSAJlkgmAJtkk2BQgkEEI?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAzii1bx6MdXWQl8y/78bs6CAAAAAg0SrUSCAJtk0oEtUSCRAAAAAAKBkUSCaCItkkWQCCJEI?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
@@ -292,7 +292,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCgDk0SShSgkkEBAAAAAoEQSJJoJg0SSaIgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAzii1bx6MdXWQl8y/78bs6CAAAAAg0SpUSCgDk0SShSgkkEBAAAAAoEQSJJoJg0SSaBgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
@@ -337,7 +337,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Fire T31:
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSpUSCgDk0SShSgkkEBAAAAAoEQSJJoBItkk2BIgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAzii1bx6MdXWQl8y/78bs6CAAAAAg0SpUSCgDk0SShSgkkEBAAAAAoEQSJJoJg0SSaBgkkQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
 </iframe>
 </div>
 
