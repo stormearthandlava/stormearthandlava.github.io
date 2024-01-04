@@ -402,7 +402,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Utilities:
 * Use {{ site.data.spell.wrt }} to help players repositioning to either soak {{ site.data.raid.amirdrassil.fiery_growth }} or dodge {{ site.data.raid.amirdrassil.fire_beam }}.
-* Use {{ site.data.spell.spirit_walk }} or {{ site.data.spell.thunderous_paws }} to free yourself from {{ site.data.raid.amirdrassil.mass_entanglement }}.
+* Use {{ site.data.spell.spirit_walk }} to free yourself from {{ site.data.raid.amirdrassil.mass_entanglement }}.
 
 #### Additional Notes:
 * Having access to both {{ site.data.spell.go_with_the_flow }} and {{ site.data.externals.blessing_of_the_bronze }} provides the option of having {{ site.data.spell.spirit_walk }} ready for every single {{ site.data.raid.amirdrassil.mass_entanglement }}. Minimize usages in Mythic since using this will cause {{ site.data.raid.amirdrassil.scorched_treant }} to spawn!
