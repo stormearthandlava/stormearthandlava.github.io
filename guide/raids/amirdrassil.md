@@ -419,8 +419,40 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="fyrakk-collapse" class="collapse" aria-labelledby="fyrakk" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Soon™ 
+## Boss Fight Profile: Single Target / AoE
 
+### Talents:
+
+#### Lightning T30:
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoVSSLJUSSLRDRJQiEAAAAAgSAJlkolmASLJpFAJRQgA?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
+</div>
+
+#### Fire T31:
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrUSCgDk0SShSgkkEBAAAAAoEQSJJapJg0SSaBQCJEIA?width=530&level=70" frameborder="0" width="530px" height="100%">
+</iframe>
+</div>
+
+<hr>
+
+## Fight Breakdown
+
+#### Damage:
+* Use {{ site.data.spell.pw }} to focus down {{ site.data.raid.amirdrassil.burning_colossus }}.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.amirdrassil.dream_rend }} or {{ site.data.raid.amirdrassil.darkflame_cleave }}.
+
+#### Defensives:
+* Use {{ site.data.spell.as }} or healing consumables when targeted by {{ site.data.raid.amirdrassil.blaze }} but especially during overlaps with various other abilities like {{ site.data.raid.amirdrassil.dream_rend }}.
+* Use {{ site.data.spell.ag }} during {{ site.data.raid.amirdrassil.dream_rend }} or {{ site.data.raid.amirdrassil.corrupt }}.
+* If talented, use {{ site.data.spell.earth_shield }} and {{ site.data.spell.healing_stream_totem }} as a movement filler throughout the fight.
+* Use {{ site.data.spell.healing_surge }} if necessary.
+
+#### Utilities:
+* Use {{ site.data.spell.wrt }} to help players dealing with {{ site.data.raid.amirdrassil.dream_rend }}.
+* Use {{ site.data.spell.thunderstorm }} to gather {{ site.data.raid.amirdrassil.screaming_soul }} as needed.
+* Use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.amirdrassil.searing_scream }} from {{ site.data.raid.amirdrassil.screaming_soul }}.
 </div>
 </div>
 </div>
@@ -444,4 +476,4 @@ The tips and recommendations listed here are based on educated opinions from PTR
 * [Icy-Veins Elemental Shaman Amirdrassil Tips](https://www.icy-veins.com/wow/elemental-shaman-pve-dps-amirdrassil-raid-guide) by Stormy
 * [Warcraft Logs](https://www.warcraftlogs.com/)
 * [Amirdrassil, the Dream’s Hope Loot Overview](https://www.wowhead.com/guide/raids/amirdrassil-the-dreams-hope/loot)
-* [Raid Subcreation](raid.subcreation.net/amirdrassil-elemental-shaman.html)
+* [Raid Subcreation](https://raid.subcreation.net/amirdrassil-elemental-shaman.html)
