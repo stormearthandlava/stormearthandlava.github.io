@@ -452,7 +452,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Utilities:
 * Use {{ site.data.spell.wrt }} to help players dealing with {{ site.data.raid.amirdrassil.dream_rend }}.
 * Use {{ site.data.spell.thunderstorm }} to gather {{ site.data.raid.amirdrassil.screaming_soul }} as needed.
-* Use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.amirdrassil.searing_scream }} from {{ site.data.raid.amirdrassil.screaming_soul }}.
+* Use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.amirdrassil.searing_screams }} from {{ site.data.raid.amirdrassil.screaming_soul }}.
 </div>
 </div>
 </div>
