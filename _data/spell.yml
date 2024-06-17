@@ -182,9 +182,11 @@ primordial_fury: <a href="https://www.wowhead.com/spell=378193/primordial-fury" 
 
 primordial_surge: <a href="https://www.wowhead.com/spell=386474/primordial-surge" target="blank">Primordial Surge</a>
 ps: <a href="https://www.wowhead.com/spell=386474/primordial-surge" target="blank">Primordial Surge</a>
+psurge: <a href="https://www.wowhead.com/spell=386474/primordial-surge" target="blank">Primordial Surge</a>
 
-primordial_wave: <a href="https://www.wowhead.com/spell=375982/primordial-wave" target="blank">Primordial Wave</a>
-pw: <a href="https://www.wowhead.com/spell=375982/primordial-wave" target="blank">Primordial Wave</a>
+primordial_wave: <a href="https://www.wowhead.com/beta/spell=375982/primordial-wave?spellModifier=137040" target="blank">Primordial Wave</a>
+pw: <a href="https://www.wowhead.com/beta/spell=375982/primordial-wave?spellModifier=137040" target="blank">Primordial Wave</a>
+pwave: <a href="https://www.wowhead.com/beta/spell=375982/primordial-wave?spellModifier=137040" target="blank">Primordial Wave</a>
 
 refreshing_waters: <a href="https://www.wowhead.com/spell=378211/refreshing-waters" target="blank">Refreshing Waters</a>
 
@@ -433,3 +435,35 @@ t30_4: <a href="https://www.wowhead.com/spell=410018/primal-fracture" target="bl
 
 # T31
 t31_4: <a href="https://www.wowhead.com/ptr-2/spell=427729/molten-slag" target="blank">Molten Slag</a>
+
+# The War Within / Hero Talents
+# Farseer
+call_of_the_ancestor: <a href="https://www.wowhead.com/beta/spell=443450/call-of-the-ancestors?spellModifier=137040" target="blank">Call of the Ancestors</a>
+latent_wisdom: <a href="https://www.wowhead.com/beta/spell=443449/latent-wisdom" target="blank">Latent Wisdom</a>
+ancient_fellowship: <a href="https://www.wowhead.com/beta/spell=443423/ancient-fellowship" target="blank">Ancient Fellowship</a>
+heed_my_call: <a href="https://www.wowhead.com/beta/spell=443444/heed-my-call" target="blank">Heed My Call</a>
+routine_communication: <a href="https://www.wowhead.com/beta/spell=443445/routine-communication?spellModifier=137040" target="blank">Routine Communication</a>
+elemental_reverb: <a href="https://www.wowhead.com/beta/spell=443418/elemental-reverb?spellModifier=137040" target="blank">Elemental Reverb</a>
+offering_from_beyond: <a href="https://www.wowhead.com/beta/spell=443451/offering-from-beyond?spellModifier=137040" target="blank">Offering from Beyond</a>
+primordial_capacity: <a href="https://www.wowhead.com/beta/spell=443448/primordial-capacity?spellModifier=137040" target="blank">Primordial Capacity</a>
+spiritwalkers_momentum: <a href="https://www.wowhead.com/beta/spell=443425/spiritwalkers-momentum" target="blank">Spiritwalker's Momentum</a>
+natural_harmony: <a href="https://www.wowhead.com/beta/spell=443442/natural-harmony" target="blank">Natural Harmony</a>
+earthen_communion: <a href="https://www.wowhead.com/beta/spell=443441/earthen-communion" target="blank">Earthen Communion</a>
+maelstrom_supremacy: <a href="https://www.wowhead.com/beta/spell=443447/maelstrom-supremacy?spellModifier=137040" target="blank">Maelstrom Supremacy</a>
+final_calling: <a href="https://www.wowhead.com/beta/spell=443446/final-calling?spellModifier=137040" target="blank">Final Calling</a>
+ancestral_swiftness: <a href="https://www.wowhead.com/beta/spell=443454/ancestral-swiftness" target="blank">Ancestral Swiftness</a>
+
+# Stormbringer
+tempest_spell: <a href="https://www.wowhead.com/beta/spell=454009/tempest?spellModifier=137040" target="blank">Tempest</a>
+unlimited_power: <a href="https://www.wowhead.com/beta/spell=454391/unlimited-power?spellModifier=137040" target="blank">Unlimited Power</a>
+tempest_passive: <a href="https://www.wowhead.com/beta/spell=454021/tempest" target="blank">Tempest</a>
+shocking_grasp: <a href="https://www.wowhead.com/beta/spell=454022/shocking-grasp" target="blank">Shocking Grasp</a>
+supercharge: <a href="https://www.wowhead.com/beta/spell=455110/supercharge?spellModifier=137040" target="blank">Supercharge</a>
+storm_swell: <a href="https://www.wowhead.com/beta/spell=455088/storm-swell?spellModifier=137040" target="blank">Storm Swell</a>
+arc_discharge: <a href="https://www.wowhead.com/beta/spell=455096/arc-discharge" target="blank">Arc Discharge</a>
+rolling_thunder: <a href="https://www.wowhead.com/beta/spell=454026/rolling-thunder?spellModifier=137040" target="blank">Rolling Thunder</a>
+voltaic_surge: <a href="https://www.wowhead.com/beta/spell=454919/voltaic-surge" target="blank">Voltaic Surge</a>
+conductive_energy: <a href="https://www.wowhead.com/beta/spell=455123/conductive-energy-nyi?spellModifier=137040" target="blank">Conductive Energy (NYI)</a>
+natures_protection: <a href="https://www.wowhead.com/beta/spell=454027/natures-protection" target="blank">Nature's Protection</a>
+surging_currents: <a href="https://www.wowhead.com/beta/spell=454372/surging-currents" target="blank">Surging Currents</a>
+awakening_storms: <a href="https://www.wowhead.com/beta/spell=455129/awakening-storms?spellModifier=137040" target="blank">Awakening Storms</a>
