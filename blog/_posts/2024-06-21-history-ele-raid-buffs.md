@@ -45,7 +45,7 @@ Name | 🔥Benefits
 [Nature Resistance Totem](https://www.wowhead.com/classic/spell=10601/nature-resistance-totem) | +60 Nature Resistance
 
 # The Burning Crusade
-The Burning Crusade doubled down on Shaman buff utility, retaining all of the original buff totems from Vanilla while adding two new powerful totem options, with [Totem of Wrath](https://www.wowhead.com/tbc/spell=30706/totem-of-wrath) given to Elemental as a new capstone ability.
+The Burning Crusade doubled down on Shaman buff utility, retaining all of the original buff totems from Vanilla while adding two new powerful totem options, with [Totem of Wrath](https://www.wowhead.com/tbc/spell=30706/totem-of-wrath) given to Elemental as a new capstone ability, and [Unleashed Rage](https://www.wowhead.com/tbc/spell=30811/unleashed-rage) given to Enhancement.
 In addition, Shamans were given a new keynote ability - [Bloodlust](https://www.wowhead.com/tbc/spell=2825/bloodlust) for Horde, and [Heroism](https://www.wowhead.com/tbc/spell=32182/heroism) for Alliance.
 The original iteration of Bloodlust and Heroism applied only to the Shaman's party and didn't cause the [Sated](https://www.wowhead.com/wotlk/spell=57724/sated) debuff, so it could be chain cast by multiple shamans on the same group of players.
 As a result, most raids stacked 4-5 Shamans whose primary responsibility was maintaining totem buffs and providing lust to the strongest DPS group.
@@ -61,7 +61,7 @@ Name | 🔥Benefits
 [Stoneskin Totem](https://www.wowhead.com/tbc/spell=25509/stoneskin-totem) | -43 Melee Damage Taken
 [Tremor Totem](https://www.wowhead.com/tbc/spell=8143/tremor-totem) | Removed 1 Fear, Charm, and Sleep <br/> effect from the party / 5 sec
 **Fire Totems** |
-[Totem of Wrath](https://www.wowhead.com/tbc/spell=30706/totem-of-wrath) | +3% Spell Hit Chance <br/> +3% Spell Crit Chance
+[Totem of Wrath](https://www.wowhead.com/tbc/spell=30706/totem-of-wrath) | +3% Spell Hit Chance <br/> +3% Spell Crit Chance <br/> (Elemental Only)
 [Frost Resistance Totem](https://www.wowhead.com/tbc/spell=25560/frost-resistance-totem) | +70 Frost Resistance
 **Water Totems** |
 [Healing Stream Totem](https://www.wowhead.com/tbc/spell=25567/healing-stream-totem) | 18 Healing / 2 sec
@@ -76,6 +76,7 @@ Name | 🔥Benefits
 [Nature Resistance Totem](https://www.wowhead.com/tbc/spell=25574/nature-resistance-totem) | +70 Nature Resistance
 **Other Buffs** |
 [Bloodlust](https://www.wowhead.com/tbc/spell=2825/bloodlust) / [Heroism](https://www.wowhead.com/tbc/spell=32182/heroism) | +30% melee, ranged, and spell <br/> casting speed for 40 sec
+[Unleashed Rage](https://www.wowhead.com/tbc/spell=30811/unleashed-rage) | +10% Melee Attack Power <br/> (Enhancement Only)
 [Heroic Presence](https://www.wowhead.com/tbc/spell=6562/heroic-presence) | 1% Hit Chance (Alliance only)
 
 # Wrath of the Lich King
@@ -92,7 +93,7 @@ Name | 🔥Benefits
 [Stoneskin Totem](https://www.wowhead.com/wotlk/spell=58753/stoneskin-totem) | +1150 Armor
 [Tremor Totem](https://www.wowhead.com/wotlk/spell=8143/tremor-totem) | Removed 1 Fear, Charm, and Sleep <br/> effect from the party / 5 sec
 **Fire Totems** |
-[Totem of Wrath](https://www.wowhead.com/wotlk/spell=57722/totem-of-wrath) | +280 Spell Power / <br/> +3% Hit Chance
+[Totem of Wrath](https://www.wowhead.com/wotlk/spell=57722/totem-of-wrath) | +280 Spell Power / <br/> +3% Hit Chance <br/> (Elemental Only)
 [Frost Resistance Totem](https://www.wowhead.com/wotlk/spell=58745/frost-resistance-totem) | +130 Frost Resistance
 **Water Totems** |
 [Healing Stream Totem](https://www.wowhead.com/wotlk/spell=58757/healing-stream-totem) | 25 Healing / 2 sec
@@ -107,13 +108,14 @@ Name | 🔥Benefits
 **Other Buffs** |
 [Bloodlust](https://www.wowhead.com/wotlk/spell=2825/bloodlust) / [Heroism](https://www.wowhead.com/wotlk/spell=32182/heroism) | +30% melee, ranged, and spell <br/> casting speed for 40 sec
 [Elemental Oath](https://www.wowhead.com/wotlk/spell=51470/elemental-oath) | +5% Spell Crit Chance
+[Unleashed Rage](https://www.wowhead.com/wotlk/spell=30809/unleashed-rage) | +10% Melee Attack Power <br/> (Enhancement Only)
 [Heroic Presence](https://www.wowhead.com/tbc/spell=6562/heroic-presence) | 1% Hit Chance (Alliance only)
 
 # Cataclysm
 With the awakening of the Earth-Warder, Deathwing, Blizzard realized that the number of raid buffs had gotten out of control, opting to drastically reduce the number of buffs but allowing most buffs to be brought in some form by two or more different specs and/or classes.
 It was at this point that I personally feel Elemental peaked in terms of raid utility.
 While we had many buff options in the past, the changes in Cataclysm made us the greatest buff provider with up to a whopping 7 raid buffs that could be active at once including Bloodlust and Heroism.
-Totem of Wrath was changed to [Totemic Wrath](https://www.wowhead.com/cata/spell=77746/totemic-wrath), allowing Elemental Shamans to provide another powerful Spell Power buff without sacrificing fire totem damage.
+Totem of Wrath was changed to [Totemic Wrath](https://www.wowhead.com/cata/spell=77746/totemic-wrath), allowing Elemental Shamans to provide another powerful Spell Power buff without sacrificing fire totem damage, while Restoration received [Ancestral Healing](https://www.wowhead.com/cata/spell=16235/ancestral-healing) to increase their healing targets' Max HP by up to 10%.
 Heroism/Bloodlust-type effects were also given to both Mages ([Time Warp](https://www.wowhead.com/cata/spell=80353/time-warp)) and Hunters ([Primal Rage](https://www.wowhead.com/cata/spell=90355/primal-rage)) for the first time, removing one of Shaman's niche roles in a raid group for the first time.
 
 Name | 🔥Benefits
@@ -133,14 +135,45 @@ Name | 🔥Benefits
 [Windfury Totem](https://www.wowhead.com/cata/spell=8512/windfury-totem) | +10% Melee and Ranged <br/> Attack Speed
 **Other Buffs** |
 [Bloodlust](https://www.wowhead.com/cata/spell=2825/bloodlust) / [Heroism](https://www.wowhead.com/cata/spell=32182/heroism) | +30% melee, ranged, and spell <br/> casting speed for 40 sec
-[Totemic Wrath](https://www.wowhead.com/cata/spell=77746/totemic-wrath) | +10% Spell Power
-[Elemental Oath](https://www.wowhead.com/cata/spell=51470/elemental-oath) | +5% Spell Crit Chance
+[Totemic Wrath](https://www.wowhead.com/cata/spell=77746/totemic-wrath) | +10% Spell Power <br/> (Elemental Only)
+[Elemental Oath](https://www.wowhead.com/cata/spell=51470/elemental-oath) | +5% Spell Crit Chance <br/> (Elemental Only)
+[Unleashed Rage](https://www.wowhead.com/cata/spell=30808/unleashed-rage) | +10% Melee Attack Power <br/> (Enhancement Only)
+[Ancestral Healing](https://www.wowhead.com/cata/spell=16235/ancestral-healing) | Up to +10% Bonus HP <br/> on healed targets <br/> (Restoration Only)
 [Glyph of Healing Stream Totem](https://www.wowhead.com/cata/item=41533/glyph-of-healing-stream-totem) | Added the effects of [Resistance Totem](https://www.wowhead.com/cata/spell=8184/elemental-resistance-totem) <br/> to [Healing Stream Totem](https://www.wowhead.com/cata/spell=5394/healing-stream-totem)
 
 # Mists of Pandaria
-Mists of Pandaria is where I would consider the start of the decline of Shaman's (and Elemental and Restoration's in particular) decline in raid utility.
+Mists of Pandaria is the expansion many Shaman players consider the start of the decline of Shaman's (and Elemental and Restoration's in particular) decline in raid utility.
+Mists brought with it a massive pruning of Shaman totems and therefore raid buffs in particular.
+Totems like [Strength of Earth Totem](https://wowpedia.fandom.com/wiki/Strength_of_Earth_Totem), [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem), and [Wrath of Air Totem](https://wowpedia.fandom.com/wiki/Wrath_of_Air_Totem) were removed entirely, while other like [Healing Stream Totem](https://wowpedia.fandom.com/wiki/Healing_Stream_Totem) were nerfed to only heal one party/raid member at a time and on a shorter duration with a cooldown.
+Despite this however, things weren't all.
+Shamans still retained several raid buffs at this point while also gaining a powerful new raid healing cooldown, [Ancestral Guidance](https://wowpedia.fandom.com/wiki/Ancestral_Guidance).
+In its origina incarnation, Ancestral Guidance healed all nearby allies for 40% of all direct damage/healing dealt split between them (later changed to 40% of damage and 60% of healing during MoP), similar to [Vampiric Embrace](https://wowpedia.fandom.com/wiki/Vampiric_Embrace) and a far cry from what we have today.
+
+Name | 🔥Benefits
+--- | :---:
+[Bloodlust](https://wowpedia.fandom.com/wiki/Bloodlust) / [Heroism](https://wowpedia.fandom.com/wiki/Heroism) | +30% melee, ranged, and spell <br/> casting speed for 40 sec
+[Burning Wrath](https://wowpedia.fandom.com/wiki/Burning_Wrath) | +10% Spell Power
+[Grace of Air](https://wowpedia.fandom.com/wiki/Grace_of_Air) | +3000 Mastery
+[Elemental Oath](https://wowpedia.fandom.com/wiki/Elemental_Oath) | +5% Spell Crit Chance <br/> (Elemental Only)
+[Unleashed Rage](https://wowpedia.fandom.com/wiki/Unleashed_Rage) | +10% Melee Attack Power <br/> (Enhancement Only)
+[Ancestral Vigor](https://wowpedia.fandom.com/wiki/Restorative_Waves) | Up to +10% Bonus HP <br/> on healed targets <br/> (Restoration Only)
 
 # Warlords of Draenor
+The orcish invasion from Draenor brought with it significant ability pruning throughout WoW.
+I remember this being quite controversial at the time, with many feeling classes were losing key parts of their class identity as iconic abilities that had been around for years were removed left and right.
+Along the same vein, Blizzard continued to drastically simplify raid buffs and debuffs.
+[Elemental Oath](https://wowpedia.fandom.com/wiki/Elemental_Oath) and [Unleashed Rage](https://wowpedia.fandom.com/wiki/Unleashed_Rage) were removed and the effects combined with [Grace of Air](https://wowpedia.fandom.com/wiki/Grace_of_Air).
+[Burning Wrath](https://wowpedia.fandom.com/wiki/Burning_Wrath) was similarly removed without a replacement, and the +bonus HP effect of Ancestral Vigor (renamed [Purification]([Purification](https://wowpedia.fandom.com/wiki/Restorative_Waves))) was removed as well.
+
+> All specializations provide some common buffs and debuffs.
+> These are important to the game because they encourage cooperation, make you stronger when you work together with others, and promote Raid composition diversity.
+> However, we saw room to revise these buffs and debuffs.
+> We also spread around some of the harder-to-find Raid buffs/debuffs, especially for specializations that brought relatively few.
+[Source](http://wow.joystiq.com/2014/04/03/warlords-of-draenor-patch-6-0-patch-notes/)
+
+Name | 🔥Benefits
+--- | :---:
+[Bloodlust](https://wowpedia.fandom.com/wiki/Bloodlust) / [Heroism](https://wowpedia.fandom.com/wiki/Heroism) | +30% melee, ranged, and spell <br/> casting speed for 40 sec
+[Grace of Air](https://wowpedia.fandom.com/wiki/Grace_of_Air) | +X Mastery <br/> +5% melee, ranged, <br/> and spell casting speed
 
 # Legion and Beyond
-
