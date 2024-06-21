@@ -142,7 +142,7 @@ Name | 🔥Benefits
 [Glyph of Healing Stream Totem](https://www.wowhead.com/cata/item=41533/glyph-of-healing-stream-totem) | Added the effects of [Resistance Totem](https://www.wowhead.com/cata/spell=8184/elemental-resistance-totem) <br/> to [Healing Stream Totem](https://www.wowhead.com/cata/spell=5394/healing-stream-totem)
 
 # Mists of Pandaria
-Mists of Pandaria is the expansion many Shaman players consider the start of the decline of Shaman's (and Elemental and Restoration's in particular) decline in raid utility.
+Mists of Pandaria is the expansion many Shaman players consider to be the start of the decline of Shaman's raid utility (and Elemental and Restoration's in particular).
 Mists brought with it a massive pruning of Shaman totems and therefore raid buffs in particular.
 Totems like [Strength of Earth Totem](https://wowpedia.fandom.com/wiki/Strength_of_Earth_Totem), [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem), and [Wrath of Air Totem](https://wowpedia.fandom.com/wiki/Wrath_of_Air_Totem) were removed entirely, while other like [Healing Stream Totem](https://wowpedia.fandom.com/wiki/Healing_Stream_Totem) were nerfed to only heal one party/raid member at a time and on a shorter duration with a cooldown.
 Despite this however, things weren't all.
@@ -180,5 +180,6 @@ Name | 🔥Benefits
 The invasion of The Burning Legion brought about the great raid buff purge.
 I remember this decision being relatively popular at the time, as both players and Blizzard alike took a strong stance for "Bring the player, not the class/spec".
 Classic raid buffs like [Mark of the Wild](https://wowpedia.fandom.com/wiki/Mark_of_the_Wild), [Power Word: Fortitude](https://wowpedia.fandom.com/wiki/Power_Word:_Fortitude), [Commanding Shout](https://wowpedia.fandom.com/wiki/Commanding_Shout), etc. were either removed or reworked into cooldowns or effects that applied to only a few players at a time.
-[Skyfury Totem](https://wowpedia.fandom.com/wiki/Skyfury_Totem) was added as a PVP talent in legion, while melee players' beloved [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem) also made a return in Shadowlands.
+[Skyfury Totem](https://wowpedia.fandom.com/wiki/Skyfury_Totem) was added as an Elemental PVP talent in legion, while melee players' beloved [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem) also made a return in Shadowlands.
+In Battle for Azeroth several "raid buffs" began to trickle back, such as Monk's [Mystic Touch](https://wowpedia.fandom.com/wiki/Mystic_Touch) and Demon Hunter's [Chaos Brand](https://wowpedia.fandom.com/wiki/Chaos_Brand).
 But it wasn't until Dragonflight that raid buffs would come back in full force.
