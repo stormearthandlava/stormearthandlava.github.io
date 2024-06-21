@@ -135,10 +135,10 @@ Name | 🔥Benefits
 [Bloodlust](https://www.wowhead.com/cata/spell=2825/bloodlust) / [Heroism](https://www.wowhead.com/cata/spell=32182/heroism) | +30% melee, ranged, and spell <br/> casting speed for 40 sec
 [Totemic Wrath](https://www.wowhead.com/cata/spell=77746/totemic-wrath) | +10% Spell Power
 [Elemental Oath](https://www.wowhead.com/cata/spell=51470/elemental-oath) | +5% Spell Crit Chance
-[Glyph of Healing Stream Totem](https://www.wowhead.com/cata/item=41533/glyph-of-healing-stream-totem) | Added the effects of <br/> [Resistance Totem](https://www.wowhead.com/cata/spell=8184/elemental-resistance-totem) to [Healing Stream Totem]
+[Glyph of Healing Stream Totem](https://www.wowhead.com/cata/item=41533/glyph-of-healing-stream-totem) | Added the effects of [Resistance Totem](https://www.wowhead.com/cata/spell=8184/elemental-resistance-totem) <br/> to [Healing Stream Totem](https://www.wowhead.com/cata/spell=5394/healing-stream-totem)
 
 # Mists of Pandaria
-
+Mists of Pandaria is where I would consider the start of the decline of Shaman's (and Elemental and Restoration's in particular) decline in raid utility.
 
 # Warlords of Draenor
 
