@@ -179,7 +179,9 @@ Name | 🔥Benefits
 # Legion and Beyond
 The invasion of The Burning Legion brought about the great raid buff purge.
 I remember this decision being relatively popular at the time, as both players and Blizzard alike took a strong stance for "Bring the player, not the class/spec".
-Classic raid buffs like [Mark of the Wild](https://wowpedia.fandom.com/wiki/Mark_of_the_Wild), [Power Word: Fortitude](https://wowpedia.fandom.com/wiki/Power_Word:_Fortitude), [Commanding Shout](https://wowpedia.fandom.com/wiki/Commanding_Shout), etc. were either removed or reworked into cooldowns or effects that applied to only a few players at a time.
-[Skyfury Totem](https://wowpedia.fandom.com/wiki/Skyfury_Totem) was added as an Elemental PVP talent in legion, while melee players' beloved [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem) also made a return in Shadowlands.
-In Battle for Azeroth several "raid buffs" began to trickle back, such as Monk's [Mystic Touch](https://wowpedia.fandom.com/wiki/Mystic_Touch) and Demon Hunter's [Chaos Brand](https://wowpedia.fandom.com/wiki/Chaos_Brand).
-But it wasn't until Dragonflight that raid buffs would come back in full force.
+Classic raid buffs like Druid's [Mark of the Wild](https://wowpedia.fandom.com/wiki/Mark_of_the_Wild), Priest's [Power Word: Fortitude](https://wowpedia.fandom.com/wiki/Power_Word:_Fortitude), Warrior's [Commanding Shout](https://wowpedia.fandom.com/wiki/Commanding_Shout), etc. were either removed or reworked into cooldowns or effects that applied to only a few players at a time.
+Blizzard quickly backtracked on the anti-raid buff sentiment in Battle for Azeroth, bringing back some classic buffs like Warrior's [Battle Shout](https://wowpedia.fandom.com/wiki/Battle_Shout) and [Power Word: Fortitude](https://wowpedia.fandom.com/wiki/Power_Word:_Fortitude), and adding new debuffs such as Monk's [Mystic Touch](https://wowpedia.fandom.com/wiki/Mystic_Touch) and Demon Hunter's [Chaos Brand](https://wowpedia.fandom.com/wiki/Chaos_Brand).
+Not all buffs returned - such as [Mark of the Wild](https://wowpedia.fandom.com/wiki/Mark_of_the_Wild) which would have to wait until Dragonflight - but we started creeping back to a state where multiple classes were required in raids.
+
+For Shamans, Restoration's [Ancestral Vigor](https://wowpedia.fandom.com/wiki/Ancestral_Vigor) actually made its return in Legion, bucking the trend at the time.
+Elemental Shamans also received [Skyfury Totem](https://wowpedia.fandom.com/wiki/Skyfury_Totem) as a PVP talent in Legion, while melee players' beloved [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem) also made a return in Shadowlands along with fairly significant batch of Enhancement changes.
