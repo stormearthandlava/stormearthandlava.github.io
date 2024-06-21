@@ -177,3 +177,8 @@ Name | 🔥Benefits
 [Grace of Air](https://wowpedia.fandom.com/wiki/Grace_of_Air) | +X Mastery <br/> +5% melee, ranged, <br/> and spell casting speed
 
 # Legion and Beyond
+The invasion of The Burning Legion brought about the great raid buff purge.
+I remember this decision being relatively popular at the time, as both players and Blizzard alike took a strong stance for "Bring the player, not the class/spec".
+Classic raid buffs like [Mark of the Wild](https://wowpedia.fandom.com/wiki/Mark_of_the_Wild), [Power Word: Fortitude](https://wowpedia.fandom.com/wiki/Power_Word:_Fortitude), [Commanding Shout](https://wowpedia.fandom.com/wiki/Commanding_Shout), etc. were either removed or reworked into cooldowns or effects that applied to only a few players at a time.
+[Skyfury Totem](https://wowpedia.fandom.com/wiki/Skyfury_Totem) was added as a PVP talent in legion, while melee players' beloved [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem) also made a return in Shadowlands.
+But it wasn't until Dragonflight that raid buffs would come back in full force.
