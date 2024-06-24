@@ -14,12 +14,12 @@ She also produces sims, guides, and other content for Elemental Shaman in Catacl
 
 Greetings fellow Shamans,
 
-TODO: It's no question that one of the most controversial - and often memed about - aspects of Elemental Shaman in retail World of Warcraft is its lack of a raid buff or unique raid utility.
-With the recent addition of {{Hunter's Mark}} to the game, Elemental Shaman stands as the lone specialization that lacks a raid buff or unique group utility 
-Today I want to discuss Elemental's long history as a raid buff provider
+It's no question that one of the most controversial - and often memed about - aspects of Elemental Shaman in retail World of Warcraft is its lack of a raid buff or unique raid utility.
+With the recent addition of a Hunter's Mark](https://wowpedia.fandom.com/wiki/Hunter's_Mark) raid buff and the potential for Restoration Shamans to provide powerful utility with their Totemic hero tree in combination with [Ancestral Vigor](https://wowpedia.fandom.com/wiki/Ancestral_Vigor) Elemental now stands as the lone specialization that lacks a raid buff or unique utility.
+Today I'll be discussing Elemental's long history as a raid buff provider in order to show how - for much of the game's life - we were an important and often required member of a raid team.
 
 # Vanilla WoW
-At its inception Shaman was a Horde-only hybrid class intended to do a mix of damage, healing, and providing buffs to a group.
+At its inception Shaman was a Horde-only hybrid class intended to bring a mix of damage, healing, and utility to a group.
 Shamans provided buffs in the form of totems represented by the 4 major Elements - Earth, Fire, Water, and Air.
 They could have 1 totem of each element active, and totem buffs didn't stack if multiple Shamans used the same totem.
 These buffs only applied to party members however, so many groups opted to bring multiple shamans per raid in order to buff multiple parties of players.
@@ -45,11 +45,11 @@ Name | 🔥Benefits
 [Nature Resistance Totem](https://www.wowhead.com/classic/spell=10601/nature-resistance-totem) | +60 Nature Resistance
 
 # The Burning Crusade
-The Burning Crusade doubled down on Shaman buff utility, retaining all of the original buff totems from Vanilla while adding two new powerful totem options, with [Totem of Wrath](https://www.wowhead.com/tbc/spell=30706/totem-of-wrath) given to Elemental as a new capstone ability, and [Unleashed Rage](https://www.wowhead.com/tbc/spell=30811/unleashed-rage) given to Enhancement.
+The Burning Crusade doubled down on Shaman raid utility, retaining all of the original buff totems from Vanilla while adding two new powerful buff options, with [Totem of Wrath](https://www.wowhead.com/tbc/spell=30706/totem-of-wrath) given to Elemental as a new capstone ability, and [Unleashed Rage](https://www.wowhead.com/tbc/spell=30811/unleashed-rage) given to Enhancement.
 In addition, Shamans were given a new keynote ability - [Bloodlust](https://www.wowhead.com/tbc/spell=2825/bloodlust) for Horde, and [Heroism](https://www.wowhead.com/tbc/spell=32182/heroism) for Alliance.
 The original iteration of Bloodlust and Heroism applied only to the Shaman's party and didn't cause the [Sated](https://www.wowhead.com/wotlk/spell=57724/sated) debuff, so it could be chain cast by multiple shamans on the same group of players.
 As a result, most raids stacked 4-5 Shamans whose primary responsibility was maintaining totem buffs and providing lust to the strongest DPS group.
-Despite low damage numbers, Elemental was considered an essential part of any raid team to provide its new totem buffs to a group of caster DPS.
+Despite low damage numbers, Elemental was considered an essential part of any raid team in order buff a group of caster DPS.
 
 As the only Shaman option for Alliance players, Draenei Shamans also provided [Heroic Presence](https://www.wowhead.com/tbc/spell=6562/heroic-presence) to their party.
 While this wasn't a Shaman-only ability, most Alliance players already had established characters and didn't want to re-roll, so Shamans frequently filled the role as the provider of this buff in their party.
@@ -77,11 +77,11 @@ Name | 🔥Benefits
 **Other Buffs** |
 [Bloodlust](https://www.wowhead.com/tbc/spell=2825/bloodlust) / [Heroism](https://www.wowhead.com/tbc/spell=32182/heroism) | +30% melee, ranged, and spell <br/> casting speed for 40 sec
 [Unleashed Rage](https://www.wowhead.com/tbc/spell=30811/unleashed-rage) | +10% Melee Attack Power <br/> (Enhancement Only)
-[Heroic Presence](https://www.wowhead.com/tbc/spell=6562/heroic-presence) | 1% Hit Chance (Alliance only)
+[Heroic Presence](https://www.wowhead.com/tbc/spell=6562/heroic-presence) | 1% Hit Chance (Alliance only) <br/> Not Shaman-specific
 
 # Wrath of the Lich King
-Wrath of the Lich King overhauled many classes and specs, bringing new abilities, better balance, and overall more streamlined gameplay compared to its predecessors.
-Most buffs were changed from party to raid-wide, along with many new buffs added to allow multiple classes and/or specs to bring the same "type" of buff that didn't stack, enabling greater group diversity.
+Wrath of the Lich King overhauled many classes and specs, bringing new abilities, better balance, and overall more-streamlined gameplay compared to its predecessors.
+In order to promote greater group diversity, most buffs were changed from party to raid-wide and many new versions of the same buffs were added that allowed multiple classes and/or specs to provide it.
 Shaman remained the sole provider of Heroism/Bloodlust which now also applied to the entire raid at the cost of causing the [Sated](https://www.wowhead.com/wotlk/spell=57724/sated) debuff.
 As a result it was still considered mandatory to have at least one Shaman in any raid group.
 Wrath also brought a plethora of improvements to Elemental and Shaman as a whole, improving our damage to make us more competitive and providing new buffs, including a new Elemental-only raid buff, [Elemental Oath](https://www.wowhead.com/wotlk/spell=51470/elemental-oath).
@@ -109,13 +109,13 @@ Name | 🔥Benefits
 [Bloodlust](https://www.wowhead.com/wotlk/spell=2825/bloodlust) / [Heroism](https://www.wowhead.com/wotlk/spell=32182/heroism) | +30% melee, ranged, and spell <br/> casting speed for 40 sec
 [Elemental Oath](https://www.wowhead.com/wotlk/spell=51470/elemental-oath) | +5% Spell Crit Chance
 [Unleashed Rage](https://www.wowhead.com/wotlk/spell=30809/unleashed-rage) | +10% Melee Attack Power <br/> (Enhancement Only)
-[Heroic Presence](https://www.wowhead.com/tbc/spell=6562/heroic-presence) | 1% Hit Chance (Alliance only)
+[Heroic Presence](https://www.wowhead.com/wotlk/spell=6562/heroic-presence) | 1% Hit Chance (Alliance only)
 
 # Cataclysm
-With the awakening of the Earth-Warder, Deathwing, Blizzard realized that the number of raid buffs had gotten out of control, opting to drastically reduce the number of buffs but allowing most buffs to be brought in some form by two or more different specs and/or classes.
-It was at this point that I personally feel Elemental peaked in terms of raid utility.
+With the onslaught of Deathwing, Blizzard realized that the number of unique raid buffs had gotten out of control, opting to drastically reduce the number of buffs but allowing most buffs to be brought in some form by two or more different specs and/or classes.
+It was at this point that many consider Elemental at its prime in terms of raid utility.
 While we had many buff options in the past, the changes in Cataclysm made us the greatest buff provider with up to a whopping 7 raid buffs that could be active at once including Bloodlust and Heroism.
-Totem of Wrath was changed to [Totemic Wrath](https://www.wowhead.com/cata/spell=77746/totemic-wrath), allowing Elemental Shamans to provide another powerful Spell Power buff without sacrificing fire totem damage, while Restoration received [Ancestral Healing](https://www.wowhead.com/cata/spell=16235/ancestral-healing) to increase their healing targets' Max HP by up to 10%.
+Totem of Wrath was changed to [Totemic Wrath](https://www.wowhead.com/cata/spell=77746/totemic-wrath), allowing Elemental Shamans to provide another powerful Spell Power buff without sacrificing fire totem damage, while Restoration received [Ancestral Healing](https://www.wowhead.com/cata/spell=16235/ancestral-healing) to increase their healing targets' max HP by up to 10%.
 Heroism/Bloodlust-type effects were also given to both Mages ([Time Warp](https://www.wowhead.com/cata/spell=80353/time-warp)) and Hunters ([Primal Rage](https://www.wowhead.com/cata/spell=90355/primal-rage)) for the first time, removing one of Shaman's niche roles in a raid group for the first time.
 
 Name | 🔥Benefits
@@ -142,12 +142,12 @@ Name | 🔥Benefits
 [Glyph of Healing Stream Totem](https://www.wowhead.com/cata/item=41533/glyph-of-healing-stream-totem) | Added the effects of [Resistance Totem](https://www.wowhead.com/cata/spell=8184/elemental-resistance-totem) <br/> to [Healing Stream Totem](https://www.wowhead.com/cata/spell=5394/healing-stream-totem)
 
 # Mists of Pandaria
-Mists of Pandaria is the expansion many Shaman players consider to be the start of the decline of Shaman's raid utility (and Elemental and Restoration's in particular).
-Mists brought with it a massive pruning of Shaman totems and therefore raid buffs in particular.
+Mists of Pandaria is the expansion where we started to see a decline in Shaman raid utility, with Elemental and Restoration hit particularly hard.
+Mists brought with it a massive pruning of Shaman totems that had historically provided a number of buffs to raids.
 Totems like [Strength of Earth Totem](https://wowpedia.fandom.com/wiki/Strength_of_Earth_Totem), [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem), and [Wrath of Air Totem](https://wowpedia.fandom.com/wiki/Wrath_of_Air_Totem) were removed entirely, while other like [Healing Stream Totem](https://wowpedia.fandom.com/wiki/Healing_Stream_Totem) were nerfed to only heal one party/raid member at a time and on a shorter duration with a cooldown.
 Despite this however, things weren't all.
 Shamans still retained several raid buffs at this point while also gaining a powerful new raid healing cooldown, [Ancestral Guidance](https://wowpedia.fandom.com/wiki/Ancestral_Guidance).
-In its origina incarnation, Ancestral Guidance healed all nearby allies for 40% of all direct damage/healing dealt split between them (later changed to 40% of damage and 60% of healing during MoP), similar to [Vampiric Embrace](https://wowpedia.fandom.com/wiki/Vampiric_Embrace) and a far cry from what we have today.
+In its origina incarnation, Ancestral Guidance healed all nearby allies for 40% of all direct damage/healing dealt split between them (later changed to 40% of damage and 60% of healing), similar to [Vampiric Embrace](https://wowpedia.fandom.com/wiki/Vampiric_Embrace) and a far cry from what we have today.
 
 Name | 🔥Benefits
 --- | :---:
@@ -162,7 +162,7 @@ Name | 🔥Benefits
 The orcish invasion from Draenor brought with it significant ability pruning throughout WoW.
 I remember this being quite controversial at the time, with many feeling classes were losing key parts of their class identity as iconic abilities that had been around for years were removed left and right.
 Along the same vein, Blizzard continued to drastically simplify raid buffs and debuffs.
-[Elemental Oath](https://wowpedia.fandom.com/wiki/Elemental_Oath) and [Unleashed Rage](https://wowpedia.fandom.com/wiki/Unleashed_Rage) were removed and the effects combined with [Grace of Air](https://wowpedia.fandom.com/wiki/Grace_of_Air).
+[Elemental Oath](https://wowpedia.fandom.com/wiki/Elemental_Oath) and [Unleashed Rage](https://wowpedia.fandom.com/wiki/Unleashed_Rage) were removed and the effects merged into [Grace of Air](https://wowpedia.fandom.com/wiki/Grace_of_Air).
 [Burning Wrath](https://wowpedia.fandom.com/wiki/Burning_Wrath) was similarly removed without a replacement, and the +bonus HP effect of Ancestral Vigor (renamed [Purification]([Purification](https://wowpedia.fandom.com/wiki/Restorative_Waves))) was removed as well.
 
 > All specializations provide some common buffs and debuffs.
@@ -178,10 +178,23 @@ Name | 🔥Benefits
 
 # Legion and Beyond
 The invasion of The Burning Legion brought about the great raid buff purge.
-I remember this decision being relatively popular at the time, as both players and Blizzard alike took a strong stance for "Bring the player, not the class/spec".
+This decision was relatively popular at the time, as both players and Blizzard alike took a strong stance in favor of _"Bring the player, not the class/spec"_.
 Classic raid buffs like Druid's [Mark of the Wild](https://wowpedia.fandom.com/wiki/Mark_of_the_Wild), Priest's [Power Word: Fortitude](https://wowpedia.fandom.com/wiki/Power_Word:_Fortitude), Warrior's [Commanding Shout](https://wowpedia.fandom.com/wiki/Commanding_Shout), etc. were either removed or reworked into cooldowns or effects that applied to only a few players at a time.
 Blizzard quickly backtracked on the anti-raid buff sentiment in Battle for Azeroth, bringing back some classic buffs like Warrior's [Battle Shout](https://wowpedia.fandom.com/wiki/Battle_Shout) and [Power Word: Fortitude](https://wowpedia.fandom.com/wiki/Power_Word:_Fortitude), and adding new debuffs such as Monk's [Mystic Touch](https://wowpedia.fandom.com/wiki/Mystic_Touch) and Demon Hunter's [Chaos Brand](https://wowpedia.fandom.com/wiki/Chaos_Brand).
-Not all buffs returned - such as [Mark of the Wild](https://wowpedia.fandom.com/wiki/Mark_of_the_Wild) which would have to wait until Dragonflight - but we started creeping back to a state where multiple classes were required in raids.
+Not all buffs returned - such as [Mark of the Wild](https://wowpedia.fandom.com/wiki/Mark_of_the_Wild) which would have to wait until Dragonflight, but in Shadowlands we very quickly saw a return to having mandatory raid spots filled by specs with raid buffs or utility so powerful it was deemed mandatory.
+In Shadowlands Death Knights received [Abomination Limb](https://wowpedia.fandom.com/wiki/Abomination_Limb) and we started to see them become mandatory in order to provide grips on the inevitable 1-2 bosses per raid tier where they made a fight significantly easier.
+Dragonflight then doubled down by adding Evokers.
+With powerful group utility like [Time Spiral](https://wowpedia.fandom.com/wiki/Time_Spiral) and later the controversial Augmentation spec; often considered mandatory for the highest-end content, Evokers once again added to the list of "mandatory" raid spots.
+Finally in 10.2 after much outcry over their lack of raid utility, Hunters received a buff to [Hunter's Mark](https://wowpedia.fandom.com/wiki/Hunter's_Mark) that caused it to increase damage by 5% on a target when above 80% health.
 
 For Shamans, Restoration's [Ancestral Vigor](https://wowpedia.fandom.com/wiki/Ancestral_Vigor) actually made its return in Legion, bucking the trend at the time.
 Elemental Shamans also received [Skyfury Totem](https://wowpedia.fandom.com/wiki/Skyfury_Totem) as a PVP talent in Legion, while melee players' beloved [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem) also made a return in Shadowlands along with fairly significant batch of Enhancement changes.
+Shamans also received [Wind Rush Totem](https://wowpedia.fandom.com/wiki/Wind_Rush_Totem) in Legion.
+This new utility spell provided a movement speed buff to the group similar to Druid's [Stampeding Roar](https://wowpedia.fandom.com/wiki/Stampeding_Roar) but with positional limitations.
+In Dragonflight we once again received [Mana Spring](https://wowpedia.fandom.com/wiki/Mana_Spring) (first as a totem, then as a buff), but its effectiveness was severely dampened to the point where most don't consider it a valuable.
+Dragonflight also brought several changes to Ancestral Guidance - which was at first a powerful group heal, especially in AOE situations - but it was heavily nerfed in 10.1.5 and left a shell of its former self.
+
+Going into [The War Within](https://thewarwithin.blizzard.com/en-us/), we now live in a world where "open" or "flex" raid spots are few and far between.
+Most groups are lucky to have 1-2 open spots at this point, so fitting in an Elemental Shaman - who provides redundant raid utility and no explicit raid buff - is usually a tough decision to make.
+Only time will tell what will happen with Shaman utility, and whether Elemental in particular will be able to remain competitive enough to be brought in most raid groups.
+As of the time of writing this we're still waiting to see what the future will hold.
