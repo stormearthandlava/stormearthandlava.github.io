@@ -2,7 +2,7 @@
 layout: post
 title: The Historical Precedent for an Elemental Raid Buff
 #            dd/mm/yyyy
-last_update: 21/06/2024
+last_update: 25/06/2024
 excerpt: Elemental Shaman's place as a raid buff provider.
 # author: Lucenia
 toc: true
