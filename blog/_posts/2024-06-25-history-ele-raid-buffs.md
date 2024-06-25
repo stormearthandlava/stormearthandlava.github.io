@@ -196,7 +196,7 @@ Dragonflight also brought several changes to Ancestral Guidance - which was at f
 
 Going into [The War Within](https://thewarwithin.blizzard.com/en-us/), we now live in a world where "open" or "flex" raid spots are few and far between.
 Most groups are lucky to have 1-2 open spots at this point, so fitting in an Elemental Shaman - who provides redundant raid utility and no explicit raid buff - is usually a tough decision to make.
-[In a recent Wowhead interview](), WoW's Game Director Ion Hazzikostas had this to say when asked about the situation:
+[In a recent Wowhead interview](https://www.wowhead.com/news/wowhead-exclusive-interview-with-ion-hazzikostas-and-morgan-day-private-auras-343147), WoW's Game Director Ion Hazzikostas had this to say when asked about the situation:
 > Q: Raid Buffs incentivizes class diversity and the feeling of being more powerful when you are in a group. We’ve seen more classes get raid buffs in Dragonflight with Paladin getting a second and Hunter’s Mark, leaving just DK and Shaman. Is there a reason that these classes don’t bring anything specific buff to the raid? 
 >
 > A: Ultimately our goal is broad spec representation and class representation across the different roles. I think we're hesitant to add still more raid buffs that might risk feeling redundant and yet another thing to manage or that might too heavily force less choice in composition forming. Ideally though, if you're a PUG leader, if you're putting a raid or Mythic raid group, you should want one of every class and then once you have that covered, you should look at who's available and how you want to fill out the rest of your roster based on your people and the content that you're facing. 
