@@ -9,13 +9,13 @@ toc: true
 big_article: true
 ---
 
-> Lucenia is a 15-year veteran of Elemental Shaman currently Cutting-Edge raiding in [\<Noted\>](https://raider.io/guilds/us/akama/Noted) on US-Akama. She streams mythic raiding, mythic+, and PTR/beta testing content at https://twitch.tv/Lucenia.
-She also produces sims, guides, and other content for Elemental Shaman in Cataclysm Classic and Season of Discovery.
+> Lucenia, also known as Lucy, is a 15-year veteran of Elemental Shaman currently Cutting-Edge raiding in [\<Noted\>](https://raider.io/guilds/us/akama/Noted) on her Shaman [Lucellis-Dragonmaw (US)](https://www.warcraftlogs.com/character/us/dragonmaw/lucellis). She streams mythic raiding, mythic+, and PTR/beta testing content at [https://twitch.tv/Lucenia](https://twitch.tv/Lucenia).
+> She also produces sims, guides, and other content for Elemental Shaman in Cataclysm Classic and Season of Discovery.
 
 Greetings fellow Shamans,
 
 It's no question that one of the most controversial - and often memed about - aspects of Elemental Shaman in retail World of Warcraft is its lack of a raid buff or unique raid utility.
-With the recent addition of a Hunter's Mark](https://wowpedia.fandom.com/wiki/Hunter's_Mark) raid buff and the potential for Restoration Shamans to provide powerful utility with their Totemic hero tree in combination with [Ancestral Vigor](https://wowpedia.fandom.com/wiki/Ancestral_Vigor) Elemental now stands as the lone specialization that lacks a raid buff or unique utility.
+With the recent addition of a [Hunter's Mark](https://www.wowhead.com/spell=257284/hunters-mark) raid buff and the potential for Restoration Shamans to provide powerful utility with their Totemic hero tree in combination with [Ancestral Vigor](https://www.wowhead.com/spell=207400/ancestral-vigor) Elemental now stands as the lone specialization that lacks a raid buff or unique utility.
 Today I'll be discussing Elemental's long history as a raid buff provider in order to show how - for much of the game's life - we were an important and often required member of a raid team.
 
 # Vanilla WoW
@@ -147,7 +147,7 @@ Mists brought with it a massive pruning of Shaman totems that had historically p
 Totems like [Strength of Earth Totem](https://wowpedia.fandom.com/wiki/Strength_of_Earth_Totem), [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem), and [Wrath of Air Totem](https://wowpedia.fandom.com/wiki/Wrath_of_Air_Totem) were removed entirely, while other like [Healing Stream Totem](https://wowpedia.fandom.com/wiki/Healing_Stream_Totem) were nerfed to only heal one party/raid member at a time and on a shorter duration with a cooldown.
 Despite this however, things weren't all.
 Shamans still retained several raid buffs at this point while also gaining a powerful new raid healing cooldown, [Ancestral Guidance](https://wowpedia.fandom.com/wiki/Ancestral_Guidance).
-In its origina incarnation, Ancestral Guidance healed all nearby allies for 40% of all direct damage/healing dealt split between them (later changed to 40% of damage and 60% of healing), similar to [Vampiric Embrace](https://wowpedia.fandom.com/wiki/Vampiric_Embrace) and a far cry from what we have today.
+In its original incarnation, Ancestral Guidance healed all nearby allies for 40% of all direct damage/healing dealt split between them (later changed to 40% of damage and 60% of healing), similar to [Vampiric Embrace](https://wowpedia.fandom.com/wiki/Vampiric_Embrace) and a far cry from what we have today.
 
 Name | 🔥Benefits
 --- | :---:
@@ -196,5 +196,12 @@ Dragonflight also brought several changes to Ancestral Guidance - which was at f
 
 Going into [The War Within](https://thewarwithin.blizzard.com/en-us/), we now live in a world where "open" or "flex" raid spots are few and far between.
 Most groups are lucky to have 1-2 open spots at this point, so fitting in an Elemental Shaman - who provides redundant raid utility and no explicit raid buff - is usually a tough decision to make.
-Only time will tell what will happen with Shaman utility, and whether Elemental in particular will be able to remain competitive enough to be brought in most raid groups.
+[In a recent Wowhead interview](), WoW's Game Director Ion Hazzikostas had this to say when asked about the situation:
+> Q: Raid Buffs incentivizes class diversity and the feeling of being more powerful when you are in a group. We’ve seen more classes get raid buffs in Dragonflight with Paladin getting a second and Hunter’s Mark, leaving just DK and Shaman. Is there a reason that these classes don’t bring anything specific buff to the raid? 
+>
+> A: Ultimately our goal is broad spec representation and class representation across the different roles. I think we're hesitant to add still more raid buffs that might risk feeling redundant and yet another thing to manage or that might too heavily force less choice in composition forming. Ideally though, if you're a PUG leader, if you're putting a raid or Mythic raid group, you should want one of every class and then once you have that covered, you should look at who's available and how you want to fill out the rest of your roster based on your people and the content that you're facing. 
+>
+> We need to look at diversity and want to make sure that classes like Shaman and Death Knight are bringing tools to the raid that make them valued members of a raid group or valued in dungeon groups. That's not to completely close the door on a new raid buff ever coming to them, but our hope continues to be to use the other knobs that the team has at its disposal to get them to a place where they feel equally valuable without just needing a raid buff.
+
 As of the time of writing this we're still waiting to see what the future will hold.
+Only time will tell what will happen with Shaman utility, and whether Elemental in particular will be able to remain competitive enough to be brought in most raid groups.
