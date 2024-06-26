@@ -49,7 +49,7 @@ The Burning Crusade doubled down on Shaman raid utility, retaining all of the or
 In addition, Shamans were given a new keynote ability - [Bloodlust](https://www.wowhead.com/tbc/spell=2825/bloodlust) for Horde, and [Heroism](https://www.wowhead.com/tbc/spell=32182/heroism) for Alliance.
 The original iteration of Bloodlust and Heroism applied only to the Shaman's party and didn't cause the [Sated](https://www.wowhead.com/wotlk/spell=57724/sated) debuff, so it could be chain cast by multiple shamans on the same group of players.
 As a result, most raids stacked 4-5 Shamans whose primary responsibility was maintaining totem buffs and providing lust to the strongest DPS group.
-Despite low damage numbers, Elemental was considered an essential part of any raid team in order buff a group of caster DPS.
+Despite low damage numbers, Elemental was considered an essential part of any raid team in order to buff a group of caster DPS.
 
 As the only Shaman option for Alliance players, Draenei Shamans also provided [Heroic Presence](https://www.wowhead.com/tbc/spell=6562/heroic-presence) to their party.
 While this wasn't a Shaman-only ability, most Alliance players already had established characters and didn't want to re-roll, so Shamans frequently filled the role as the provider of this buff in their party.
@@ -145,18 +145,21 @@ Name | 🔥Benefits
 Mists of Pandaria is the expansion where we started to see a decline in Shaman raid utility, with Elemental and Restoration hit particularly hard.
 Mists brought with it a massive pruning of Shaman totems that had historically provided a number of buffs to raids.
 Totems like [Strength of Earth Totem](https://wowpedia.fandom.com/wiki/Strength_of_Earth_Totem), [Windfury Totem](https://wowpedia.fandom.com/wiki/Windfury_Totem), and [Wrath of Air Totem](https://wowpedia.fandom.com/wiki/Wrath_of_Air_Totem) were removed entirely, while other like [Healing Stream Totem](https://wowpedia.fandom.com/wiki/Healing_Stream_Totem) were nerfed to only heal one party/raid member at a time and on a shorter duration with a cooldown.
-Despite this however, things weren't all.
+Despite this however, things weren't all bad.
 Shamans still retained several raid buffs at this point while also gaining a powerful new raid healing cooldown, [Ancestral Guidance](https://wowpedia.fandom.com/wiki/Ancestral_Guidance).
 In its original incarnation, Ancestral Guidance healed all nearby allies for 40% of all direct damage/healing dealt split between them (later changed to 40% of damage and 60% of healing), similar to [Vampiric Embrace](https://wowpedia.fandom.com/wiki/Vampiric_Embrace) and a far cry from what we have today.
 
 Name | 🔥Benefits
 --- | :---:
 [Bloodlust](https://wowpedia.fandom.com/wiki/Bloodlust) / [Heroism](https://wowpedia.fandom.com/wiki/Heroism) | +30% melee, ranged, and spell <br/> casting speed for 40 sec
+[Ancestral Guidance](https://wowpedia.fandom.com/wiki/Ancestral_Guidance) | Damage to Group Healing
 [Burning Wrath](https://wowpedia.fandom.com/wiki/Burning_Wrath) | +10% Spell Power
 [Grace of Air](https://wowpedia.fandom.com/wiki/Grace_of_Air) | +3000 Mastery
 [Elemental Oath](https://wowpedia.fandom.com/wiki/Elemental_Oath) | +5% Spell Crit Chance <br/> (Elemental Only)
 [Unleashed Rage](https://wowpedia.fandom.com/wiki/Unleashed_Rage) | +10% Melee Attack Power <br/> (Enhancement Only)
 [Ancestral Vigor](https://wowpedia.fandom.com/wiki/Restorative_Waves) | Up to +10% Bonus HP <br/> on healed targets <br/> (Restoration Only)
+[Tremor Totem](https://www.wowhead.com/spell=8143/tremor-totem) | Removed 1 Fear, Charm, and Sleep <br/> effect from the raid / 5 sec
+[Healing Stream Totem](https://wowpedia.fandom.com/wiki/Healing_Stream_Totem) | Heals 1 party member <br/> at a time
 
 # Warlords of Draenor
 The orcish invasion from Draenor brought with it significant ability pruning throughout WoW.
@@ -173,8 +176,11 @@ Along the same vein, Blizzard continued to drastically simplify raid buffs and d
 
 Name | 🔥Benefits
 --- | :---:
+[Ancestral Guidance](https://wowpedia.fandom.com/wiki/Ancestral_Guidance) | Damage to Group Healing
 [Bloodlust](https://wowpedia.fandom.com/wiki/Bloodlust) / [Heroism](https://wowpedia.fandom.com/wiki/Heroism) | +30% melee, ranged, and spell <br/> casting speed for 40 sec
 [Grace of Air](https://wowpedia.fandom.com/wiki/Grace_of_Air) | +X Mastery <br/> +5% melee, ranged, <br/> and spell casting speed
+[Tremor Totem](https://www.wowhead.com/spell=8143/tremor-totem) | Removed 1 Fear, Charm, and Sleep <br/> effect from the raid / 5 sec
+[Healing Stream Totem](https://wowpedia.fandom.com/wiki/Healing_Stream_Totem) | Heals 1 party member <br/> at a time
 
 # Legion and Beyond
 The invasion of The Burning Legion brought about the great raid buff purge.
@@ -192,7 +198,8 @@ Elemental Shamans also received [Skyfury Totem](https://wowpedia.fandom.com/wiki
 Shamans also received [Wind Rush Totem](https://wowpedia.fandom.com/wiki/Wind_Rush_Totem) in Legion.
 This new utility spell provided a movement speed buff to the group similar to Druid's [Stampeding Roar](https://wowpedia.fandom.com/wiki/Stampeding_Roar) but with positional limitations.
 In Dragonflight we once again received [Mana Spring](https://wowpedia.fandom.com/wiki/Mana_Spring) (first as a totem, then as a buff), but its effectiveness was severely dampened to the point where most don't consider it a valuable.
-Dragonflight also brought several changes to Ancestral Guidance - which was at first a powerful group heal, especially in AOE situations - but it was heavily nerfed in 10.1.5 and left a shell of its former self.
+Less notably, Dragonflight brought back several other totems with minor usefulness: [Tremor Totem](https://www.wowhead.com/spell=8143/tremor-totem), [Stoneskin Totem](https://www.wowhead.com/spell=78222/stoneskin-totem), [Tranquil Air Totem](https://www.wowhead.com/spell=383019/tranquil-air-totem) (mainly a PVP ability), and [Poison Cleansing Totem](https://www.wowhead.com/spell=383015/poison-cleansing).
+We also saw several changes to Ancestral Guidance - which was at first a powerful group heal, especially in AOE situations - but it was heavily nerfed in 10.1.5 and left a shell of its former self.
 
 Going into [The War Within](https://thewarwithin.blizzard.com/en-us/), we now live in a world where "open" or "flex" raid spots are few and far between.
 Most groups are lucky to have 1-2 open spots at this point, so fitting in an Elemental Shaman - who provides redundant raid utility and no explicit raid buff - is usually a tough decision to make.
