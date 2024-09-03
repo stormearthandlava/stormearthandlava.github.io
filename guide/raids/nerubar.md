@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nerub'ar Palace"
-last_update: 16/07/2024
+last_update: 10/09/2024
 game_version: 11.0.0 The War Within
 toc: true
 big_article: true
@@ -58,17 +58,10 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 ### Talents
 
-#### Farseer:
+#### Farseer - Lightning:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YGGzMLbzMjZmxYAAAAAwmZ2ADYAzGTIzCAY2mmZwstYmZaMjZmNsMDDGDzyYmBMzYM?width=630&level=80" frameborder="0" width="630px" height="100%">
-</iframe>
-</div>
-
-#### Stormbringer:
-
-<div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb22mZmZGzMbMGDzYGAAAAAAGmxwALw2ohGbAgZbamBz2iZmpxMmZ2wyMMYMMLjZmhZMzwA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYwMzAAAAAgNzsBDYAzCTIzCAY2mmZwstYmZaMjZmNsMDDGDzyYmZmxMmhB?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -78,7 +71,7 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 #### Damage:
 * Focus down {{ site.data.raid.nerubar.ravenous_spawn }} and {{ site.data.raid.nerubar.bile_soaked_spawn }} [Mythic-only] whenever they are active.
-* If talented, ensure to have cooldowns like {{ site.data.spell.lmt }} and {{ site.data.spell.pw }} or {{ site.data.spell.sk }} ready and preferably prepare an {{ site.data.spell.eogs }} buff when {{ site.data.raid.nerubar.ravenous_spawn }} and {{ site.data.raid.nerubar.bile_soaked_spawn }} [Mythic-only] are about to spawn.
+* Ensure to have {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} ready when {{ site.data.raid.nerubar.ravenous_spawn }} and {{ site.data.raid.nerubar.bile_soaked_spawn }} [Mythic-only] are about to spawn.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst soaking {{ site.data.raid.nerubar.carnivorous_contest }} and to dodge {{ site.data.raid.nerubar.juggernaut_charge }}.
 
 #### Defensives:
@@ -107,17 +100,10 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 ### Talents
 
-#### Farseer:
+#### Farseer - Lightning:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YGGzMLbzMjZmxYAAAAAwmZ2ADYAzGTIzCAY2mmZwstwMTMjZmNsMjZwYYWmZmBMzYM?width=630&level=80" frameborder="0" width="630px" height="100%">
-</iframe>
-</div>
-
-#### Stormbringer:
-
-<div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb22mZmZGzMbMGDzYGAAAAAAGmxwALwyohGbAgZbamBz2CzMxMmZ2wyMmBjhZZmZmhZMzwA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYwMzAAAAAgNzsBDYAzCTIzCAY2mmZwstYmZaMjZGYZGzgxwsMmZmZMjZYA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -156,17 +142,10 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 ### Talents
 
-#### Farseer:
+#### Farseer - Lightning:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YYGzMLbzMzMzMGDAAAAA2MzGYADY2YCZWAA2mmZGmtFzMTjZMzshlZYwYYWGzMAzYM?width=630&level=80" frameborder="0" width="630px" height="100%">
-</iframe>
-</div>
-
-#### Stormbringer:
-
-<div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb22mZMzYmZjZGDzYGAAAAAAGmxwALwyohGbAAbTzMY2WMzMNmxMzGWmZMYMMLjZmhZMzwA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYwMzAAAAAgNzsBDYAzCTIzCAw20MDmtFzMTjZMzshlZGDGDzyYmZmZGmhB?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -204,17 +183,10 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 ### Talents
 
-#### Farseer:
+#### Farseer - Lightning:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YGGzMLbzMjZmxYAAAAAwmZ2ADYAzGTIzCAY2mmZwstwMTjZMzsglZMDGDzyYmBMzYM?width=630&level=80" frameborder="0" width="630px" height="100%">
-</iframe>
-</div>
-
-#### Stormbringer:
-
-<div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb22mZmZGzMbMGDzYGAAAAAAGmxwALwyohGbAgZbamBz2CzMNmxMzCWmxMYMMLjZmhZMzwA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYwMzAAAAAgNzsBDYAzCTIzCAY2mmZwstwMTjZMzshlZMDGDzyYmZmxMmhB?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -224,7 +196,7 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 #### Damage:
 * Focus down {{ site.data.raid.nerubar.infested_spawn_npc }} whenever they are active.
-* If talented, ensure to have {{ site.data.spell.lmt }} and {{ site.data.spell.pw }} or {{ site.data.spell.sk }} ready and preferably prepare an {{ site.data.spell.eogs }} buff when {{ site.data.raid.nerubar.infested_spawn_npc }} are about to spawn.
+* Ensure to have {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} ready when {{ site.data.raid.nerubar.infested_spawn_npc }} are about to spawn.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst dealing with {{ site.data.raid.nerubar.rolling_acid }}, {{ site.data.raid.nerubar.spinnerets_strands }} or {{ site.data.raid.nerubar.infested_spawn }}.
 
 #### Defensives:
@@ -234,7 +206,7 @@ The tips and recommendations listed here are based on educated opinions from Bet
 * Use {{ site.data.spell.healing_surge }} if necessary and keep up {{ site.data.spell.earth_shield }} as much as possible.
 
 #### Utilities:
-* Use {{ site.data.spell.wrt }} to help players to follow {{ site.data.raid.nerubar.rashanan }} whenever she repositions herself. {{ site.data.spell.wrt }} will be ready for every "intermission" if you talent into {{ site.data.spell.ascending_air }}.
+* Use {{ site.data.spell.wrt }} to help players to follow {{ site.data.raid.nerubar.rashanan }} whenever she repositions herself. {{ site.data.spell.wrt }} will be ready for every "intermission" in builds that utilize {{ site.data.spell.fol }} or if you talent into {{ site.data.spell.ascending_air }}.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.nerubar.acidic_eruption }} from {{ site.data.raid.nerubar.rashanan }}.
 * Use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.earthbind_totem }} to control {{ site.data.raid.nerubar.infested_spawn_npc }} as much as possible.
 
@@ -258,17 +230,10 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 ### Talents
 
-#### Farseer:
+#### Farseer - Lightning:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YGGzMLbzMjZmxYAAAAAwmZ2ADYAzGTIzCAY2mmZwstwMTMjZmNsMjZwYYWmZmBMzYM?width=630&level=80" frameborder="0" width="630px" height="100%">
-</iframe>
-</div>
-
-#### Stormbringer:
-
-<div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb22mZmZGzMbMGDzYGAAAAAAGmxwALw2ohGbAgZbamBz2CzMxMmZ2wyMmBjhZZmZmhZMzwA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYMmZGAAAAAsZmNYADYWYCZWAAz20MDmtFmZaMjZmNsMjZwYYWGzMzwMmhB?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -278,7 +243,7 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 #### Damage:
 * Focus down {{ site.data.raid.nerubar.blood_parasite }}, {{ site.data.raid.nerubar.voracious_worm }} and {{ site.data.raid.nerubar.colossal_spider }} whenever they are active.
-* If talented, ensure to have {{ site.data.spell.lmt }} and {{ site.data.spell.pw }} or {{ site.data.spell.sk }} ready and preferably prepare an {{ site.data.spell.eogs }} buff when {{ site.data.raid.nerubar.blood_parasite }} are about to spawn.
+* Ensure to have {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} ready when {{ site.data.raid.nerubar.blood_parasite }} are about to spawn.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst repositioning for {{ site.data.raid.nerubar.experimental_dosage }}, spreading for {{ site.data.raid.nerubar.sticky_web }} or when targeted by {{ site.data.raid.nerubar.fixate }}.
 
 #### Defensives:
@@ -312,17 +277,10 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 ### Talents
 
-#### Farseer:
+#### Farseer - Lightning:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YYGzMLbzMzMzMGDAAAAA2MzGYADY2YCZWAA2mmZGmtFzMTjZMzshlZYwYYWGzMAzYM?width=630&level=80" frameborder="0" width="630px" height="100%">
-</iframe>
-</div>
-
-#### Stormbringer:
-
-<div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb22mZMzYmZjZGDzYGAAAAAAGmxwALwyohGbAAbTzMY2WMzMNmxMzGWmZMYMMLjZmhZMzwA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYwMzAAAAAgNzsBDYAzCTIzCAw20MDmtFzMTjZMzshlZGDGDzyYmZmZGmhB?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -361,17 +319,10 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 ### Talents
 
-#### Farseer:
+#### Farseer - Fire:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMLz22YGGzMLbzMjZmxYAAAAAwmZ2ADYAzGTIzCAY2mmZwstwMTjZMzsZsMDDGDzyYmBMzYM?width=630&level=80" frameborder="0" width="630px" height="100%">
-</iframe>
-</div>
-
-#### Stormbringer:
-
-<div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAYb22mZmZGzMbMGDzYGAAAAAAGmxwALwyohGbAgZbamBz2CzMNmxMzmxyMMYMMLjZmhZMzwA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYwMzAAAAAgNzsBDYAzCTIzCAY2mmBmtFzMTjZMzsZsMDDGDzyYmZmxMmhB?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -381,7 +332,7 @@ The tips and recommendations listed here are based on educated opinions from Bet
 
 #### Damage:
 * Try to pool as much damage as possible for when {{ site.data.raid.nerubar.anubarash }} is affected by {{ site.data.raid.nerubar.entangled }}.
-* If talented, ensure to have {{ site.data.spell.lmt }} and {{ site.data.spell.pw }} or {{ site.data.spell.sk }} ready and preferably prepare an {{ site.data.spell.eogs }} buff when {{ site.data.raid.nerubar.shattershell_scarab }} are about to spawn, but keep in mind that {{ site.data.raid.nerubar.harden_carapace }} will force you to delay most of that damage.
+* Ensure to have {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} ready when {{ site.data.raid.nerubar.shattershell_scarab }} are about to spawn, but keep in mind that {{ site.data.raid.nerubar.harden_carapace }} will force you to delay most of that damage.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst repositioning for {{ site.data.raid.nerubar.binding_webs }}, spreading for {{ site.data.raid.nerubar.venomous_rain }} or dodging {{ site.data.raid.nerubar.impaling_eruption }}.
 
 #### Defensives:
