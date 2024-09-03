@@ -61,7 +61,7 @@ The tips and recommendations listed here are based on educated opinions from Bet
 #### Farseer - Lightning:
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYwMzAAAAAgNzsBDYAzCTIzCAY2mmZwstYmZaMjZmNsMDDGDzyYmZmxMmhB?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYwMzAAAAAgNzsBDYAzCTIzCAY2mmZwstYmZaMjZmNsMDDGDzyYmZmZGmhB?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -70,12 +70,11 @@ The tips and recommendations listed here are based on educated opinions from Bet
 ## Fight Breakdown:
 
 #### Damage:
-* Focus down {{ site.data.raid.nerubar.ravenous_spawn }} and {{ site.data.raid.nerubar.bile_soaked_spawn }} [Mythic-only] whenever they are active.
-* Ensure to have {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} ready when {{ site.data.raid.nerubar.ravenous_spawn }} and {{ site.data.raid.nerubar.bile_soaked_spawn }} [Mythic-only] are about to spawn.
+* Use {{ site.data.spell.pw }} and {{ site.data.spell.sk }} to focus down {{ site.data.raid.nerubar.ravenous_spawn }} and {{ site.data.raid.nerubar.bile_soaked_spawn }} [Mythic-only] whenever they are active.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime whilst soaking {{ site.data.raid.nerubar.carnivorous_contest }} and to dodge {{ site.data.raid.nerubar.juggernaut_charge }}.
 
 #### Defensives:
-* Use {{ site.data.spell.as }} or healing consumables for {{ site.data.raid.nerubar.hungering_bellows }}.
+* Use {{ site.data.spell.as }} or healing consumables during {{ site.data.raid.nerubar.hungering_bellows }} or when targeted by {{ site.data.raid.nerubar.digestive_acid }}.
 * Use {{ site.data.spell.sbt }} and {{ site.data.spell.ag }} for {{ site.data.raid.nerubar.juggernaut_charge }}.
 * Use {{ site.data.spell.healing_surge }} if necessary and keep up {{ site.data.spell.earth_shield }} as much as possible.
 
@@ -233,7 +232,7 @@ The tips and recommendations listed here are based on educated opinions from Bet
 #### Farseer - Lightning:
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYMmZGAAAAAsZmNYADYWYCZWAAz20MDmtFmZaMjZmNsMjZwYYWGzMzwMmhB?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGmZjxYwMzAAAAAgNzsBDYAzCTIzCAY2mmZwstwMTjZMzshlZMDGDzyYmZmxMmhB?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
