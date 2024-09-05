@@ -16,7 +16,6 @@ This guide was made possible by:
 - Eokira (Discord: eokira)
 - Gaka (Discord: gakamoment)
 - HawkCorrigan (Discord: hawkcorrigan)
-- James⚡ (Discord: james.phr \| [Twitch](https://www.twitch.tv/judgejames) \| [Twitter](https://twitter.com/_judgejames_))
 - Kaldeak (Discord: kaldeak)
 - Sheffy (Discord: sheffy \| [Twitch](https://www.twitch.tv/sheffywow) \| [Twitter](https://twitter.com/SheffyWoW))
 
