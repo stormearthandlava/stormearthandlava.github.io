@@ -1,0 +1,93 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Ul'grax the Devourer
+devour: <a href="https://www.wowhead.com/spell=440904/devour" target="blank">Devour</a>
+carnivorous_contest: <a href="https://www.wowhead.com/spell=434776/carnivorous-contest" target="blank">Carnivorous Contest</a>
+juggernaut_charge: <a href="https://www.wowhead.com/spell=436255/juggernaut-charge" target="blank">Juggernaut Charge</a>
+stalkers_webbing: <a href="https://www.wowhead.com/spell=439502/stalkers-webbing" target="blank">Stalkers Webbing</a>
+hungering_bellows: <a href="https://www.wowhead.com/spell=438012/hungering-bellows" target="blank">Hungering Bellows</a>
+ravenous_spawn: <a href="https://www.wowhead.com/npc=216205/ravenous-spawn" target="blank">Ravenous Spawns</a>
+bile_soaked_spawn: <a href="https://www.wowhead.com/npc=227300/bile-soaked-spawn" target="blank">Bile-Soaked Spawns</a>
+digestive_acid: <a href="https://www.wowhead.com/spell=435138/digestive-acid" target="blank">Digestive Acid</a>
+
+# The Bloodbound Horror
+lost_watcher: <a href="https://www.wowhead.com/npc=221667/lost-watcher" target="blank">Lost Watchers</a>
+forgotten_harbinger: <a href="https://www.wowhead.com/npc=221945/forgotten-harbinger" target="blank">Forgotten Harbingers</a>
+blood_horror: <a href="https://www.wowhead.com/npc=221986/blood-horror" target="blank">Blood Horrors</a>
+black_bulwark: <a href="https://www.wowhead.com/spell=451288/black-bulwark" target="blank">Black Bulwark</a>
+grasp_from_beyond: <a href="https://www.wowhead.com/spell=443053/grasp-from-beyond" target="blank">Grasp From Beyond</a>
+the_unseeming: <a href="https://www.wowhead.com/spell=462306/the-unseeming" target="blank">The Unseeming</a>
+gruesome_disgorge: <a href="https://www.wowhead.com/spell=444363/gruesome-disgorge" target="blank">Gruesome Disgorge</a>
+goresplatter: <a href="https://www.wowhead.com/spell=442530/goresplatter" target="blank">Goresplatter</a>
+spewing_hemorrhage: <a href="https://www.wowhead.com/spell=445936/spewing-hemorrhage" target="blank">Spewing Hemorrhage</a>
+crimson_rain: <a href="https://www.wowhead.com/spell=443203/crimson-rain" target="blank">Crimson Rain</a>
+bloodcurdle: <a href="https://www.wowhead.com/spell=452313/bloodcurdle" target="blank">Blood Curdle</a>
+
+# Sikran, Captain of the Sureki
+cosmic_shards: <a href="https://www.wowhead.com/spell=459273/cosmic-shards" target="blank">Cosmic Shards</a>
+shattering_sweep: <a href="https://www.wowhead.com/spell=458277/shattering-sweep" target="blank">Shattering Sweep</a>
+rain_of_arrows: <a href="https://www.wowhead.com/spell=432353/rain-of-arrows" target="blank">Rain of Arrows</a>
+decimate: <a href="https://www.wowhead.com/spell=459350/decimate" target="blank">Decimate</a>
+phase_blades_dot: <a href="https://www.wowhead.com/spell=434860/phase-blades" target="blank">Phase Blades</a>
+phase_blades: <a href="https://www.wowhead.com/spell=434155/phase-blades" target="blank">Phase Blades</a>
+
+# Rasha'nan
+acidic_eruption: <a href="https://www.wowhead.com/spell=452806/acidic-eruption" target="blank">Acidic Eruption</a>
+infested_spawn_npc: <a href="https://www.wowhead.com/npc=219739/infested-spawn" target="blank">Infested Spawns</a>
+infested_spawn: <a href="https://www.wowhead.com/spell=439817/infested-spawn" target="blank">Infested Spawn</a>
+infested_bite: <a href="https://www.wowhead.com/spell=455287/infested-bite" target="blank">Infested Bite</a>
+spinnerets_websnap: <a href="https://www.wowhead.com/spell=439778/spinnerets-websnap" target="blank">Spinneret's Websnap</a>
+spinnerets_strands: <a href="https://www.wowhead.com/spell=439781/spinnerets-strands" target="blank">Spinneret's Strands</a>
+tacky_threads: <a href="https://www.wowhead.com/spell=460808/tacky-threads" target="blank">Tacky Threads</a>
+rolling_acid: <a href="https://www.wowhead.com/spell=439790/rolling-acid" target="blank">Rolling Acid</a>
+rashanan: <a href="https://www.wowhead.com/npc=224552/rashanan" target="blank">Rasha'nan</a>
+
+# Bloodtwister Ovi'nax
+experimental_dosage: <a href="https://www.wowhead.com/spell=442660/experimental-dosage" target="blank">Experimental Dosage</a>
+blood_parasite: <a href="https://www.wowhead.com/npc=220626/blood-parasite" target="blank">Blood Parasites</a>
+sticky_web: <a href="https://www.wowhead.com/spell=446349/sticky-web" target="blank">Sticky Web</a>
+voracious_worm: <a href="https://www.wowhead.com/npc=219046/voracious-worm" target="blank">Voracious Worms</a>
+poison_burst: <a href="https://www.wowhead.com/spell=446700/poison-burst" target="blank">Poison Burst</a>
+colossal_spider: <a href="https://www.wowhead.com/npc=219045/colossal-spider" target="blank">Colossal Spiders</a>
+fixate: <a href="https://www.wowhead.com/spell=442251/fixate" target="blank">Fixate</a>
+ingest_black_blood: <a href="https://www.wowhead.com/spell=442437/ingest-black-blood" target="blank">Ingest Black Blood</a>
+web_eruption: <a href="https://www.wowhead.com/spell=446351/web-eruption" target="blank">Web Eruption</a>
+
+# Nexus-Princess Ky'veza
+eclipse: <a href="https://www.wowhead.com/spell=434645/eclipse" target="blank">Eclipse</a>
+assassination: <a href="https://www.wowhead.com/spell=436870/assassination" target="blank">Assassination</a>
+queensbane: <a href="https://www.wowhead.com/spell=437343/queensbane" target="blank">Queensbane</a>
+nether_rift: <a href="https://www.wowhead.com/spell=437620/nether-rift" target="blank">Nether Rift</a>
+death_cloak: <a href="https://www.wowhead.com/spell=447174/death-cloak" target="blank">Death Cloak</a>
+twilight_massacre: <a href="https://www.wowhead.com/spell=438245/twilight-massacre" target="blank">Twilight Massacre</a>
+reaper: <a href="https://www.wowhead.com/spell=436749/reaper" target="blank">Reaper</a>
+
+# The Silken Court
+shattershell_scarab: <a href="https://www.wowhead.com/npc=218884/shattershell-scarab" target="blank">Shattershell Scarabs</a>
+harden_carapace: <a href="https://www.wowhead.com/spell=438706/harden-carapace" target="blank">Harden Carapace</a>
+entangled: <a href="https://www.wowhead.com/spell=440179/entangled" target="blank">Entangled</a>
+poison_bolt: <a href="https://www.wowhead.com/spell=438200/poison-bolt" target="blank">Poison Bolt</a>
+venomous_rain: <a href="https://www.wowhead.com/spell=438656/venomous-rain" target="blank">Venomous Rain</a>
+burrowed_eruption: <a href="https://www.wowhead.com/spell=460360/burrowed-eruption" target="blank">Burrowed Eruption</a>
+web_bomb: <a href="https://www.wowhead.com/spell=439992/web-bomb" target="blank">Web Bomb</a>
+binding_webs: <a href="https://www.wowhead.com/spell=440001/binding-webs" target="blank">Binding Webs</a>
+anubarash: <a href="https://www.wowhead.com/npc=223779/anubarash" target="blank">Anub'arash</a>
+impaling_eruption: <a href="https://www.wowhead.com/spell=440504/impaling-eruption" target=blank>Impaling Eruption</a>
+void_degeneration: <a href="https://www.wowhead.com/spell=460359/void-degeneration" target=blank>Void Degeneration</a>
+burning_rage: <a href="https://www.wowhead.com/spell=460281/burning-rage" target="blank">Burning Rage</a>
+mote_of_overwrought_paranoia: <a href="https://www.wowhead.com/spell=460357/mote-of-overwrought-paranoia" target="blank">Mote of Overwrought Paranoia</a>
+mote_of_unreleting_rage: <a href="https://www.wowhead.com/spell=460263/mote-of-unrelenting-rage" target="blank">Mote of Unrelenting Rage</a>
+
+# Queen Ansurek
