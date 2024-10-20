@@ -16,3 +16,9 @@
 [Discord](https://discord.me/stormearthandlava)
 
 [back to web-page](https://stormearthandlava.com/)
+
+
+## How to run locally
+```bash
+bundle exec jekyll server
+```
