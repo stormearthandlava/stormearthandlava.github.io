@@ -449,7 +449,8 @@ harden_skin: <a href="https://www.wowhead.com/spell=118337/harden-skin" target="
 ## Storm Ele
 call_lightning: <a href="https://www.wowhead.com/spell=157348/call-lightning" target="blank">Call Lightning</a>
 wind_gust: <a href="https://www.wowhead.com/spell=263806/wind-gust" target="blank">Wind Gust</a>
-tempest: <a href="https://www.wowhead.com/spell=157375/tempest" target="blank">Tempest</a>
+tempest: <a href="https://www.wowhead.com/spell=157375/stormfury" target="blank">Stormfury</a>
+stormfury: <a href="https://www.wowhead.com/spell=157375/stormfury" target="blank">Stormfury</a>
 
 ## SL Covenants
 door_of_shadows: <a href="https://www.wowhead.com/spell=300728" target="blank">Door Of Shadows</a>
