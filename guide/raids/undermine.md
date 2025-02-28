@@ -60,7 +60,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbaGY2WYMNGzMzCWmxMzmZbYWGzMzMjZmNA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbaGY2WYmpxMzMDsMjZmNz2glxMzMzYmZBA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -69,17 +69,18 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown:
 
 #### Damage:
-* Use {{ site.data.spell.lmt }}, {{ site.data.spell.pw }}, and {{ site.data.spell.sk }} to cleave down {{ site.data.raid.undermine.geargrinder_biker }} and {{ site.data.raid.undermine.pit_mechanic }} whenever they are active.
-* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while dodging {{ site.data.raid.undermine.incendiary_fire }} or targeted by {{ site.data.raid.undermine.spew_oil }}.
++ Use {{ site.data.spell.asc }} preferably during {{ site.data.raid.undermine.mechanical_breakdown }} - both {{ site.data.spell.preeminence }} and {{ site.data.spell.first_ascendant }} are valid options depending on intermission timings.
+* Use {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} to cleave down {{ site.data.raid.undermine.geargrinder_biker }} and {{ site.data.raid.undermine.pit_mechanic }} whenever they are active.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while dodging {{ site.data.raid.undermine.incendiary_fire }} or when targeted by {{ site.data.raid.undermine.spew_oil }}.
 
 #### Defensives:
 * Use {{ site.data.spell.as }} when targeted by {{ site.data.raid.undermine.spew_oil }} but especially during overlaps of {{ site.data.raid.undermine.incendiary_fire }} and {{ site.data.raid.undermine.oil_slick }}.
 * Use {{ site.data.spell.sbt }} or healing consumables for {{ site.data.raid.undermine.backfire }} during {{ site.data.raid.undermine.mechanical_breakdown }}.
-* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler, and keep {{ site.data.spell.earth_shield }} up as much as possible.
+* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler and keep {{ site.data.spell.earth_shield }} up as much as possible.
 
 #### Utilities:
 * Use {{ site.data.spell.wrt }} and potentially {{ site.data.externals.demonic_gateway }} to drop {{ site.data.raid.undermine.oil_slick }} at desirable locations.
-* Use {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.earthgrab_totem }}, and {{ site.data.spell.thunderstorm }} to minimize the uptime of {{ site.data.raid.undermine.repair }} from {{ site.data.raid.undermine.pit_mechanic }} and {{ site.data.raid.undermine.high_maintenance }} from {{ site.data.raid.undermine.support_rig }} [Mythic-only] as much as possible.
+* Use {{ site.data.spell.capacitor_totem }}, {{ site.data.spell.earthgrab_totem }} and {{ site.data.spell.thunderstorm }} to minimize the uptime of {{ site.data.raid.undermine.repair }} from {{ site.data.raid.undermine.pit_mechanic }} and {{ site.data.raid.undermine.high_maintenance }} from {{ site.data.raid.undermine.support_rig }} [Mythic-only] as much as possible.
 
 </div>
 </div>
@@ -110,16 +111,16 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown:
 
 #### Damage:
-* There are no phases or add spawns that require you to plan your offensive cooldowns for.
+* There are no phases or add spawns that require you to plan your offensive cooldowns around.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while dodging {{ site.data.raid.undermine.fiery_wave }}, {{ site.data.raid.undermine.zapbolt }} and {{ site.data.raid.undermine.thunderdrum_salvo }}.
 
 #### Defensives:
-* Use {{ site.data.spell.as }} during {{ site.data.raid.undermine.colossal_clash }}.
+* Use {{ site.data.spell.as }} during {{ site.data.raid.undermine.colossal_clash }} especially during consecutive ones as the damage increases with each instance.
 * Use {{ site.data.spell.sbt }} or healing consumables for {{ site.data.raid.undermine.molten_phlegm }}, especially when accumulating high stacks of {{ site.data.raid.undermine.blistering_spite }}.
-* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler, and keep {{ site.data.spell.earth_shield }} up as much as possible.
+* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler and keep {{ site.data.spell.earth_shield }} up as much as possible.
 
 #### Utilities:
-* Use {{ site.data.spell.wrt }} to assist players to dodge {{ site.data.raid.undermine.fiery_wave }} and {{ site.data.raid.undermine.zapbolt }}.
+* Use {{ site.data.spell.wrt }} to assist players dodge {{ site.data.raid.undermine.fiery_wave }} and {{ site.data.raid.undermine.zapbolt }} during {{ site.data.raid.undermine.colossal_clash }}.
 * Use {{ site.data.spell.earthgrab_totem }} and {{ site.data.spell.capacitor_totem }} to immobilize {{ site.data.raid.undermine.voltaic_image }}.
 
 </div>
@@ -151,13 +152,13 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown:
 
 #### Damage:
-* Use {{ site.data.spell.lmt }}, {{ site.data.spell.pw }}, and {{ site.data.spell.sk }} to burst down {{ site.data.raid.undermine.pyrotechnics }} whenever they are active.
+* Use {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} to burst down {{ site.data.raid.undermine.pyrotechnics }} whenever they are active.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while dodging {{ site.data.raid.undermine.resonant_echoes }} or when affected by {{ site.data.raid.undermine.faulty_zap }}.
 
 #### Defensives:
 * Use {{ site.data.spell.as }} for {{ site.data.raid.undermine.static_jolt }} and {{ site.data.raid.undermine.faulty_zap }}.
 * Use {{ site.data.spell.sbt }} or healing consumables when accumulating high stacks of {{ site.data.raid.undermine.lingering_voltage }}.
-* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler, and keep {{ site.data.spell.earth_shield }} up as much as possible.
+* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler and keep {{ site.data.spell.earth_shield }} up as much as possible.
 
 #### Utilities:
 * Use {{ site.data.spell.wrt }} to assist players dodge {{ site.data.raid.undermine.resonant_echoes }} and during Stage Two: Hype Hustle.
@@ -195,16 +196,16 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * Focus down {{ site.data.raid.undermine.territorial_bombshell }} whenever they are active.
-* Use {{ site.data.spell.lmt }}, {{ site.data.spell.pw }}, and {{ site.data.spell.sk }} whenever adds are affected by {{ site.data.raid.undermine.messed_up }}.
+* Use {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} whenever adds are affected by {{ site.data.raid.undermine.messed_up }}.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while repositioning optimally whenever adds are about to spawn.
 
 #### Defensives:
 * Use {{ site.data.spell.as }} while soaking {{ site.data.raid.undermine.prototype_powercoil }} especially when accumulating high stacks of {{ site.data.raid.undermine.hypercharged }} [Mythic-only].
 * Use {{ site.data.spell.sbt }} or healing consumables when accumulating high stacks of {{ site.data.raid.undermine.toxic_fumes }}.
-* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler, and keep {{ site.data.spell.earth_shield }} up as much as possible.
+* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler and keep {{ site.data.spell.earth_shield }} up as much as possible.
 
 #### Utilities:
-* Use {{ site.data.spell.wrt }} to assist players in repositioning for {{ site.data.raid.undermine.rolling_rubbish }}.
+* Use {{ site.data.spell.wrt }} to assist players reposition for {{ site.data.raid.undermine.rolling_rubbish }}.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.undermine.scrap_rockets }} from {{ site.data.raid.undermine.scrapmaster }}.
 * Use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.earthgrab_totem }} to immobilize {{ site.data.raid.undermine.junkyard_hyena }} making it easier for players effected by {{ site.data.raid.undermine.rolling_rubbish }} to absorb them.
 * Use {{ site.data.spell.thunderstorm }} to knock {{ site.data.raid.undermine.territorial_bombshell }} into the boss once {{ site.data.raid.undermine.territorial }} has been removed.
@@ -238,16 +239,16 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown:
 
 #### Damage:
-* There are no phases or add spawns that require you to plan your offensive cooldowns for.
+* There are no phases or add spawns that require you to plan your offensive cooldowns around.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to avoid {{ site.data.raid.undermine.wire_transfer }} or when targeted by {{ site.data.raid.undermine.screw_up }}.
 
 #### Defensives:
-* Use {{ site.data.spell.as }} during overlaps of {{ site.data.raid.undermine.sonic_ba_boom }}, {{ site.data.raid.undermine.unstable_explosion }}, and {{ site.data.raid.undermine.pyro_party_pack }}.
+* Use {{ site.data.spell.as }} during overlaps of {{ site.data.raid.undermine.sonic_ba_boom }}, {{ site.data.raid.undermine.unstable_explosion }} and {{ site.data.raid.undermine.pyro_party_pack }}.
 * Use {{ site.data.spell.sbt }} or healing consumables whenever you take other, mostly avoidable damage due to the hectic nature of the fight.
-* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler, and keep {{ site.data.spell.earth_shield }} up as much as possible.
+* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler and keep {{ site.data.spell.earth_shield }} up as much as possible.
 
 #### Utilities:
-* Use {{ site.data.spell.wrt }} to assist players in repositioning during {{ site.data.raid.undermine.wire_transfer }}.
+* Use {{ site.data.spell.wrt }} to assist players reposition during {{ site.data.raid.undermine.wire_transfer }}.
 
 </div>
 </div>
@@ -285,7 +286,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Defensives:
 * Use {{ site.data.spell.as }} for overlaps of {{ site.data.raid.undermine.flame_and_coin }} and {{ site.data.raid.undermine.foul_exhaust }}.
 * Use {{ site.data.spell.sbt }} or healing consumables for overlaps of {{ site.data.raid.undermine.electric_blast }} and {{ site.data.raid.undermine.foul_exhaust }}.
-* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler, and keep {{ site.data.spell.earth_shield }} up as much as possible.
+* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler and keep {{ site.data.spell.earth_shield }} up as much as possible.
 
 #### Utilities:
 * Use {{ site.data.spell.wrt }} to assist players run away from {{ site.data.raid.undermine.coin_magnet }}.
@@ -332,7 +333,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Defensives:
 * Use {{ site.data.spell.as }} for overlaps of {{ site.data.raid.undermine.uncontrolled_destruction }} and {{ site.data.raid.undermine.elemental_calamity }} but especially whenever {{ site.data.raid.undermine.mug_zee }} accumulates multiple stacks of {{ site.data.raid.undermine.uncontrolled_burn }}.
 * Use {{ site.data.spell.sbt }} when targeted by {{ site.data.raid.undermine.stormfury_finger_gun }}.
-* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler, and keep {{ site.data.spell.earth_shield }} up as much as possible.
+* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler and keep {{ site.data.spell.earth_shield }} up as much as possible.
 
 #### Utilities:
 * Use {{ site.data.spell.wrt }} to assist players affected by {{ site.data.raid.undermine.goblin_guided_rocket }}.
