@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Liberation of Undermine"
-last_update: 16/02/2025
+last_update: 02/03/2025
 game_version: 11.1 The War Within
 toc: true
 big_article: true
