@@ -23,10 +23,10 @@ categories:
   #       url : /guide/mythic_plus/DF_season_1.html
   # - title: Raids
   #   subcategories:
-  #     - title: Nerub'ar Palace
-  #       url: /guide/raids/nerubar.html
-  - title: "Guide: Nerub'ar Palace"
-    url: /guide/raids/nerubar.html
+  #     - title: Liberation of Undermine
+  #       url: /guide/raids/undermine.html
+  - title: "Guide: Liberation of Undermine"
+    url: /guide/raids/undermine.html
 
 #- title: Mythic+
 # activate this v line if you don't want child elements in the top menu

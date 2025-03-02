@@ -1,0 +1,92 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Vexie and the Geargrinders
+geargrinder_biker: <a href="https://www.wowhead.com/npc=237599/geargrinder-biker" target="blank">Geargrinder Bikers</a>
+pit_mechanic: <a href="https://www.wowhead.com/npc=228514/pit-mechanic" target="blank">Pit Mechanics</a>
+incendiary_fire: <a href="https://www.wowhead.com/spell=468207/incendiary-fire" target="blank">Incendiary Fire</a>
+spew_oil: <a href="https://www.wowhead.com/spell=459666/spew-oil" target="blank">Spew Oil</a>
+oil_slick: <a href="https://www.wowhead.com/spell=459679/oil-slick" target="blank">Oil Slick</a>
+backfire: <a href="https://www.wowhead.com/spell=460386/backfire" target="blank">Backfire</a>
+mechanical_breakdown: <a href="https://www.wowhead.com/spell=460603/mechanical-breakdown" target="blank">Mechanical Breakdown</a>
+repair: <a href="https://www.wowhead.com/spell=460153/repair" target="blank">Repair</a>
+high_maintenance: <a href="https://www.wowhead.com/spell=473636/high-maintenance" target="blank">High Maintenance</a>
+support_rig: <a href="https://www.wowhead.com/npc=234557/support-rig" target="blank">Support Rigs</a>
+
+# Cauldron of Carnage
+fiery_wave: <a href="https://www.wowhead.com/spell=465446/fiery-wave" target="blank">Fiery Wave</a>
+blastburn_roarcannon: <a href="https://www.wowhead.com/spell=472231/blastburn-roarcannon" target="blank">Blastburn Roarcannon</a>
+molten_phlegm: <a href="https://www.wowhead.com/spell=1214035/molten-phlegm" target="blank">Molten Phlegm</a>
+blistering_spite: <a href="https://www.wowhead.com/spell=472222/blistering-spite" target="blank">Blistering Spite</a>
+thunderdrum_salvo: <a href="https://www.wowhead.com/spell=463840/thunderdrum-salvo" target="blank">Thunderdrum Salvo</a>
+voltaic_image: <a href="https://www.wowhead.com/spell=1213994/voltaic-image" target="blank">Voltaic Images</a>
+zapbolt: <a href="https://www.wowhead.com/spell=463803/zapbolt" target="blank">Zapbolt</a>
+colossal_clash: <a href="https://www.wowhead.com/spell=470032/colossal-clash" target="blank">Colossal Clash</a>
+
+# Rik Reverb
+pyrotechnics: <a href="https://www.wowhead.com/npc=232612/pyrotechnics" target="blank">Pyrotechnics</a>
+resonant_echoes: <a href="https://www.wowhead.com/spell=468119/resonant-echoes" target="blank">Resonant Echoes</a>
+entranced: <a href="https://www.wowhead.com/spell=1214598/entranced" target="blank">Entranced</a>
+static_jolt: <a href="https://www.wowhead.com/spell=467297/static-jolt" target="blank">Static Jolt</a>
+faulty_zap: <a href="https://www.wowhead.com/spell=466961/faulty-zap" target="blank">Faulty Zap</a>
+haywire: <a href="https://www.wowhead.com/spell=472990/haywire" target="blank">Haywire</a>
+lingering_voltage: <a href="https://www.wowhead.com/spell=1217126/lingering-voltage" target="blank">Lingering Voltage</a>
+
+# Stix Bunkjunker
+rolling_rubbish: <a href="https://www.wowhead.com/spell=461536/rolling-rubbish" target="blank">Rolling Rubbish</a>
+territorial_bombshell: <a href="https://www.wowhead.com/npc=231531/territorial-bombshell" target="blank">Territorial Bombshells</a>
+prototype_powercoil: <a href="https://www.wowhead.com/spell=1218706/prototype-powercoil" target="blank">Prototype Powercoil</a>
+hypercharged: <a href="https://www.wowhead.com/spell=1218708/hypercharged" target="blank">Hypercharged</a>
+scrap_rockets: <a href="https://www.wowhead.com/spell=1219384/scrap-rockets" target="blank">Scrap Rockets</a>
+scrapmaster: <a href="https://www.wowhead.com/npc=231839/scrapmaster" target="blank">Scrapmasters</a>
+junkyard_hyena: <a href="https://www.wowhead.com/npc=231935/junkyard-hyena" target="blank">Junkyard Hyenas</a>
+messed_up: <a href="https://www.wowhead.com/spell=1217685/messed-up" target="blank">Messed Up</a>
+territorial: <a href="https://www.wowhead.com/spell=473066/territorial" target="blank">Territorial</a>
+toxic_fumes: <a href="https://www.wowhead.com/spell=1218343/toxic-fumes" target="blank">Toxic Fumes</a>
+
+# Sprocketmonger Lockenstock
+pyro_party_pack: <a href="https://www.wowhead.com/spell=1214910/pyro-party-pack" target="blank">Pyro Party Pack</a>
+sonic_ba_boom: <a href="https://www.wowhead.com/spell=465232/sonic-ba-boom" target="blank">Sonic Ba-Boom</a>
+screw_up: <a href="https://www.wowhead.com/spell=1216509/screw-up" target="blank">Screw Up</a>
+unstable_explosion: <a href="https://www.wowhead.com/spell=1216406/unstable-explosion" target="blank">Unstable Explosion</a>
+wire_transfer: <a href="https://www.wowhead.com/spell=466235/wire-transfer" target="blank">Wire Transfer</a>
+
+# The One-Armed Bandit
+dynamite_booty: <a href="https://www.wowhead.com/npc=228502/dynamite-booty" target="blank">Dynamite Booties</a>
+explosive_gaze: <a href="https://www.wowhead.com/spell=465009/explosive-gaze" target="blank">Explosive Gaze</a>
+reel_assistant: <a href="https://www.wowhead.com/npc=234211/reel-assistant" target="blank">Reel Assistants</a>
+withering_flames: <a href="https://www.wowhead.com/spell=472197/withering-flames" target="blank">Withering Flames</a>
+overload: <a href="https://www.wowhead.com/spell=460582/overload" target="blank">Overload!</a>
+shocking_field: <a href="https://www.wowhead.com/spell=460576/shocking-field" target="blank">Shocking Field</a>
+flame_and_coin: <a href="https://www.wowhead.com/spell=461390/flame-and-coin" target="blank">Flame and Coin</a>
+foul_exhaust: <a href="https://www.wowhead.com/spell=460164/foul-exhaust" target="blank">Foul Exhaust</a>
+electric_blast: <a href="https://www.wowhead.com/spell=460847/electric-blast" target="blank">Electric Blast</a>
+coin_magnet: <a href="https://www.wowhead.com/spell=474665/coin-magnet" target="blank">Coin Magnet</a>
+
+# Mug'Zee, Heads of Security
+pay_respects: <a href="https://www.wowhead.com/spell=472782/pay-respects" target="blank">Pay Respects</a>
+gallagio_goon: <a href="https://www.wowhead.com/npc=233474/gallagio-goon" target="blank">Gallagio Goon</a>
+unstable_crawler_mine: <a href="https://www.wowhead.com/npc=231788/unstable-crawler-mine" target="blank">Unstable Crawler Mines</a>
+stormfury_finger_gun: <a href="https://www.wowhead.com/spell=466509/stormfury-finger-gun" target="blank">Stormfury Finger Gun</a>
+uncontrolled_destruction: <a href="https://www.wowhead.com/spell=469708/uncontrolled-destruction" target="blank">Uncontrolled Destruction</a>
+uncontrolled_burn: <a href="https://www.wowhead.com/spell=469719/uncontrolled-burn" target="blank">Uncontrolled Burn</a>
+searing_shrapnel: <a href="https://www.wowhead.com/spell=469043/searing-shrapnel" target="blank">Searing Shrapnel</a>
+elemental_calamity: <a href="https://www.wowhead.com/spell=468665/elemental-calamity" target="blank">Elemental Calamity</a>
+goblin_guided_rocket: <a href="https://www.wowhead.com/spell=467380/goblin-guided-rocket" target="blank">Goblin-guided Rocket</a>
+mug_zee: <a href="https://www.wowhead.com/npc=229953/mugzee" target="blank">Mug'Zee</a>
+volunteer_rocketeer: <a href="https://www.wowhead.com/npc=230312/volunteer-rocketeer" target="blank">Volunteer Rocketeer</a>
+mk_ii_electro_shocker: <a href="https://www.wowhead.com/npc=230316/mk-ii-electro-shocker" target="blank">Mk II Electro Shockers</a>
+faulty_wiring: <a href="https://www.wowhead.com/spell=1215591/faulty-wiring" target="blank">Faulty Wiring</a>
+
+# Chrome King Gallywix
