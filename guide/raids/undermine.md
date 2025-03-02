@@ -60,7 +60,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbaGY2WYmpxMzMDsMjZmNz2glxMzMzYmZBA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbaGY2WYmpxMzMDsMjZmNz2glxMzMzYmZBA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -102,7 +102,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJkZBAMbTzMDzGjZaMjZmFsMzYGGDzyYmZmZYmNA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJkZBAMbTzMDzGjZaMjZmFsMzYGGDzyYmZmZYmNA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -143,7 +143,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAAbTzMDz2iZmpxMmZWwyMjBjhZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAAbTzMDz2iZmpxMmZWwyMjBjhZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -186,7 +186,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbaGY2WYmpxMzMDsMjZGmthZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbaGY2WYmpxMzMDsMjZGmthZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -230,7 +230,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJkZBAYbamZY2WMzMNmxMzCWmZMYMMLjZmZmhZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJkZBAYbamZY2WMzMNmxMzCWmZMYMMLjZmZmhZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -270,7 +270,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbamBz2iZmpxMmZglZMjNjhZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbamBz2iZmpxMmZglZMjNjhZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -317,7 +317,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://mimiron.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbamBz2CzMNmxMzCWmxMDjhZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbamBz2CzMNmxMzCWmxMDjhZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
