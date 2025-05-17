@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Liberation of Undermine"
-last_update: 02/03/2025
-game_version: 11.1 The War Within
+last_update: 17/05/2025
+game_version: 11.1.5 The War Within
 toc: true
 big_article: true
 ---
@@ -60,7 +60,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbaGY2WYmpxMzMDsMjZmNz2glxMzMzYmZBA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJkZBAMbTzAz2CzMNmZmZglZMzsZ2GsMmZmZGmZDA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -69,8 +69,8 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown:
 
 #### Damage:
-+ Use {{ site.data.spell.asc }} preferably during {{ site.data.raid.undermine.mechanical_breakdown }} - both {{ site.data.spell.preeminence }} and {{ site.data.spell.first_ascendant }} are valid options depending on intermission timings.
-* Use {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} to cleave down {{ site.data.raid.undermine.geargrinder_biker }} and {{ site.data.raid.undermine.pit_mechanic }} whenever they are active.
+* Use {{ site.data.spell.asc }} during {{ site.data.raid.undermine.mechanical_breakdown }} - both {{ site.data.spell.preeminence }} and {{ site.data.spell.first_ascendant }} are valid options depending on intermission timings.
+* Use {{ site.data.spell.pw }} and {{ site.data.spell.sk }} to cleave down {{ site.data.raid.undermine.geargrinder_biker }} and {{ site.data.raid.undermine.pit_mechanic }} whenever they are active.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while dodging {{ site.data.raid.undermine.incendiary_fire }} or when targeted by {{ site.data.raid.undermine.spew_oil }}.
 
 #### Defensives:
@@ -143,7 +143,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAAbTzMDz2iZmpxMmZWwyMjBjhZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJkZBAYbamZY2WMzMNmxMzCWmZMYMMLjZmZmhZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -152,7 +152,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown:
 
 #### Damage:
-* Use {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} to burst down {{ site.data.raid.undermine.pyrotechnics }} whenever they are active.
+* Use {{ site.data.spell.pw }} and {{ site.data.spell.sk }} to burst down {{ site.data.raid.undermine.pyrotechnics }} whenever they are active.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while dodging {{ site.data.raid.undermine.resonant_echoes }} or when affected by {{ site.data.raid.undermine.faulty_zap }}.
 
 #### Defensives:
@@ -162,9 +162,6 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Utilities:
 * Use {{ site.data.spell.wrt }} to assist players dodge {{ site.data.raid.undermine.resonant_echoes }} and during Stage Two: Hype Hustle.
-
-#### Additional Notes:
-* After initial testing it seems like {{ site.data.spell.tremor_totem }} does not remove {{ site.data.raid.undermine.entranced }} anymore.
 
 </div>
 </div>
@@ -186,7 +183,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbaGY2WYmpxMzMDsMjZGmthZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJkZBAMbTzAz2CzMNmZmZglZMzwsNMLjZmZmhZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -196,7 +193,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * Focus down {{ site.data.raid.undermine.territorial_bombshell }} whenever they are active.
-* Use {{ site.data.spell.lmt }}, {{ site.data.spell.pw }} and {{ site.data.spell.sk }} whenever adds are affected by {{ site.data.raid.undermine.messed_up }}.
+* Use {{ site.data.spell.pw }} and {{ site.data.spell.sk }} whenever adds are present but especially when they are affected by {{ site.data.raid.undermine.messed_up }}.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while repositioning optimally whenever adds are about to spawn.
 
 #### Defensives:
@@ -270,7 +267,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbamBz2iZmpxMmZglZMjNjhZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzAAAAAwiZ2gBMgZjJkZBAMbTzMY2WMzMNmxMDsMjZsZMMLjZmZmxMz2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -317,7 +314,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjxYWmlxgBzMAAAAAWMzGMgBMbMhMLAgZbamBz2CzMNmxMzCWmxMDjhZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZ2gBMgZjJkZBAMbTzMY2YMTjZMzsglZmZGGDzyYmZmZYmNA?width=630&level=80" frameborder="0" width="630px" height="100%">
 </iframe>
 </div>
 
@@ -327,16 +324,15 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 #### Damage:
 * Focus down {{ site.data.raid.undermine.volunteer_rocketeer }} and {{ site.data.raid.undermine.mk_ii_electro_shocker }} once {{ site.data.raid.undermine.faulty_wiring }} has been applied to them.
-* Ensure that {{ site.data.spell.lmt }} and {{ site.data.spell.pw }} are ready when {{ site.data.raid.undermine.unstable_crawler_mine }} are about to spawn.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while dealing with {{ site.data.raid.undermine.goblin_guided_rocket }}.
 
 #### Defensives:
-* Use {{ site.data.spell.as }} for overlaps of {{ site.data.raid.undermine.uncontrolled_destruction }} and {{ site.data.raid.undermine.elemental_calamity }} but especially whenever {{ site.data.raid.undermine.mug_zee }} accumulates multiple stacks of {{ site.data.raid.undermine.uncontrolled_burn }}.
+* Use {{ site.data.spell.as }} for {{ site.data.raid.undermine.searing_shrapnel }} from {{ site.data.raid.undermine.unstable_crawler_mine }} but especially whenever {{ site.data.raid.undermine.mug_zee }} accumulates multiple stacks of {{ site.data.raid.undermine.uncontrolled_burn }} and {{ site.data.raid.undermine.elemental_calamity }}.
 * Use {{ site.data.spell.sbt }} when targeted by {{ site.data.raid.undermine.stormfury_finger_gun }}.
 * Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler and keep {{ site.data.spell.earth_shield }} up as much as possible.
 
 #### Utilities:
-* Use {{ site.data.spell.wrt }} to assist players affected by {{ site.data.raid.undermine.goblin_guided_rocket }}.
+* Use {{ site.data.spell.wrt }} to assist players dodging {{ site.data.raid.undermine.bulletstorm }}.
 * Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.undermine.pay_respects }} from {{ site.data.raid.undermine.gallagio_goon }}.
 * Use {{ site.data.spell.capacitor_totem }} and {{ site.data.spell.earthgrab_totem }} to control {{ site.data.raid.undermine.unstable_crawler_mine }} as needed.
 
@@ -353,7 +349,35 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="gallywix-collapse" class="collapse" aria-labelledby="gallywix" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Soon™
+## Boss Fight Profile: Single Target / AoE
+
+### Talents
+
+#### Farseer:
+
+<div class="iframe-holder">
+<iframe src="https://www.raidbots.com/simbot/render/talents/CYQAL+iDLHPJSLC+6fqMJ8tubCAAAAAMbzy2MjZGzysMGMYGAAAAAWMzGMgBMbMAzCAY2GzMDzGjZMmxMzGWmZmBjhZZMzMzMmZ2AA?width=630&level=80" frameborder="0" width="630px" height="100%">
+</iframe>
+</div>
+
+<hr>
+
+## Fight Breakdown:
+
+#### Damage:
+* Use {{ site.data.spell.lmt }} and {{ site.data.spell.pw }} whenever {{ site.data.raid.undermine.giga_juiced_technician }} and {{ site.data.raid.undermine.darkfuse_wrenchmonger }} are present.
+* Use {{ site.data.spell.asc }} and {{ site.data.spell.sk }} to focus down {{ site.data.raid.undermine.sharpshot_sentry }}.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while dealing with {{ site.data.raid.undermine.big_bad_buncha_bombs }} and {{ site.data.raid.undermine.gallybux_finale_blast }}.
+
+#### Defensives:
+* Use {{ site.data.spell.as }} for overlaps of {{ site.data.raid.undermine.mechengineers_canisters }} and {{ site.data.raid.undermine.gallybux_finale_blast }} or when soaking {{ site.data.raid.undermine.scatterbomb_canisters }}.
+* Use {{ site.data.spell.sbt }} when targeted by {{ site.data.raid.undermine.biggest_baddest_bomb_barrage }}.
+* Use {{ site.data.spell.healing_surge }} if necessary, utilize {{ site.data.spell.hst }} as a movement filler and keep {{ site.data.spell.earth_shield }} up as much as possible.
+
+#### Utilities:
+* Use {{ site.data.spell.wrt }} to assist players running away from {{ site.data.raid.undermine.suppression }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.undermine.static_zap }} from {{ site.data.raid.undermine.giga_juiced_technician }} and {{ site.data.raid.undermine.shock_barrage }} from {{ site.data.raid.undermine.sharpshot_sentry }}.
+* Use {{ site.data.spell.capacitor_totem }} to interrupt {{ site.data.raid.undermine.juice_it }} from {{ site.data.raid.undermine.darkfuse_technician }}.
 
 </div>
 </div>
