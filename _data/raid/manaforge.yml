@@ -1,0 +1,86 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Plexus Sentinel
+eradicating_salvo: <a href="https://www.wowhead.com/ptr-2/spell=1219607/eradicating-salvo" target="blank">Eradicating Salvo</a>
+protocol_purge: <a href="https://www.wowhead.com/ptr-2/spell=1220489/protocol-purge" target="blank">Protocol Purge</a>
+manifest_matrices: <a href="https://www.wowhead.com/ptr-2/spell=1219450/manifest-matrices" target="blank">Manifest Matrices</a>
+overloading_attendant: <a href="https://www.wowhead.com/ptr-2/npc=243241/overloading-attendant" target="blank">Overloading Attendant</a>
+energy_overload: <a href="https://www.wowhead.com/ptr-2/spell=1235816/energy-overload" target="blank">Energy Overload</a>
+purging_lightning: <a href="https://www.wowhead.com/ptr-2/spell=1233110/purging-lightning" target="blank">Purging Lightning</a>
+energy_cutter: <a href="https://www.wowhead.com/ptr-2/spell=1218668/energy-cutter" target="blank">Energy Cutter</a>
+
+# Loom'ithar
+unbound_rage: <a href="https://www.wowhead.com/ptr-2/spell=1228070/unbound-rage" target="blank">Unbound Rage</a>
+writhing_wave: <a href="https://www.wowhead.com/ptr-2/spell=1227227/writhing-wave" target="blank">Writhing Wave</a>
+infusion_tether: <a href="https://www.wowhead.com/ptr-2/spell=1238197/infusion-tether" target="blank">Infusion Tether</a>
+infusion_pylons: <a href="https://www.wowhead.com/ptr-2/spell=1250103/infusion-pylons" target="blank">Infusion Pylons</a>
+infused_tangle: <a href="https://www.wowhead.com/ptr-2/npc=245173/infused-tangle" target="blank">Infused Tangle</a>
+arcane_outrage: <a href="https://www.wowhead.com/ptr-2/spell=1227784/arcane-outrage" target="blank">Arcane Outrage</a>
+hyper_infusion: <a href="https://www.wowhead.com/ptr-2/spell=1247045/hyper-infusion" target="blank">Hyper Infusion</a>
+
+# Soulbinder Naazindhri
+shadowguard_phaseblade: <a href="https://www.wowhead.com/ptr-2/npc=244922/shadowguard-phaseblade" target="blank">Shadowguard Phaseblade</a>
+shadowguard_mage: <a href="https://www.wowhead.com/ptr-2/npc=237981/shadowguard-mage" target="blank">Shadowguard Mage</a>
+shadowguard_assassin: <a href="https://www.wowhead.com/ptr-2/npc=237897/shadowguard-assassin" target="blank">Shadowguard Assassin</a>
+soulfray_annihilation: <a href="https://www.wowhead.com/ptr-2/spell=1227276/soulfray-annihilation" target="blank">Soulfray Annihilation</a>
+shatterpulse: <a href="https://www.wowhead.com/ptr-2/spell=1250008/shatterpulse" target="blank">Shatterpulse</a>
+arcane_expulsion: <a href="https://www.wowhead.com/ptr-2/spell=1242071/arcane-expulsion" target="blank">Arcane Expulsion</a>
+voidblade_ambush: <a href="https://www.wowhead.com/ptr-2/spell=1227048/voidblade-ambush" target="blank">Voidblade Ambush</a>
+void_burst: <a href="https://www.wowhead.com/ptr-2/spell=1227052/void-burst" target="blank">Void Burst</a>
+soulfire_convergence: <a href="https://www.wowhead.com/ptr-2/spell=1225616/soulfire-convergence" target="blank">Soulfire Convergence</a>
+phase_blades: <a href="https://www.wowhead.com/ptr-2/spell=1235576/phase-blades" target="blank">Phase Blades</a>
+
+# Forgeweaver Araz
+astral_harvest: <a href="https://www.wowhead.com/ptr-2/spell=1228214/astral-harvest" target="blank">Astral Harvest</a>
+containment_breach: <a href="https://www.wowhead.com/ptr-2/spell=1243272/containment-breach" target="blank">Containment Breach</a>
+arcane_manifestation: <a href="https://www.wowhead.com/ptr-2/npc=242586/arcane-manifestation" target="blank">Arcane Manifestation</a>
+arcane_obliteration: <a href="https://www.wowhead.com/ptr-2/spell=1228218/arcane-obliteration" target="blank">Arcane Obliteration</a>
+mana_splinter: <a href="https://www.wowhead.com/ptr-2/spell=1233415/mana-splinter" target="blank">Mana Splinter</a>
+unbound_assassin: <a href="https://www.wowhead.com/ptr-2/npc=237871/unbound-assassin" target="blank">Unbound Assassin</a>
+unbound_mage: <a href="https://www.wowhead.com/ptr-2/npc=237872/unbound-mage" target="blank">Unbound Mage</a>
+unbound_phaseblade: <a href="https://www.wowhead.com/ptr-2/npc=245008/unbound-phaseblade" target="blank">Unbound Phaseblade</a>
+dark_singularity: <a href="https://www.wowhead.com/ptr-2/spell=1233301/dark-singularity" target="blank">Dark Singularity</a>
+
+# The Soul Hunters
+dark_residue: <a href="https://www.wowhead.com/ptr-2/spell=1233105/dark-residue" target="blank">Dark Residue</a>
+the_hunt: <a href="https://www.wowhead.com/ptr-2/spell=1227823/the-hunt" target="blank">The Hunt</a>
+collapsing_star: <a href="https://www.wowhead.com/ptr-2/spell=1233103/collapsing-star" target="blank">Collapsing Star</a>
+encroaching_oblivion: <a href="https://www.wowhead.com/ptr-2/spell=1235045/encroaching-oblivion" target="blank">Encroaching Oblivion</a>
+devourers_ire: <a href="https://www.wowhead.com/ptr-2/spell=1226539/devourers-ire" target="blank">Devourer's Ire</a>
+sigil_of_chains: <a href="https://www.wowhead.com/ptr-2/spell=1223624/sigil-of-chains" target="blank">Sigil of Chains</a>
+
+# Fractillus
+crystalline_shockwave: <a href="https://www.wowhead.com/ptr-2/spell=1224414/crystalline-shockwave" target="blank">Crystalline Shockwave</a>
+null_explosion: <a href="https://www.wowhead.com/ptr-2/spell=1247495/null-explosion" target="blank">Null Explosion</a>
+crystal_lacerations: <a href="https://www.wowhead.com/ptr-2/spell=1232760/crystal-lacerations" target="blank">Crystal Lacerations</a>
+null_consumption: <a href="https://www.wowhead.com/ptr-2/spell=1247424/null-consumption" target="blank">Null Consumption</a>
+
+# Nexus-King Salhadaar
+kings_hunger: <a href="https://www.wowhead.com/ptr-2/spell=1228293/kings-hunger" target="blank">King's Hunger</a>
+twilight_scar: <a href="https://www.wowhead.com/ptr-2/spell=1226362/twilight-scar" target="blank">Twilight Scar</a>
+self_destruct: <a href="https://www.wowhead.com/ptr-2/spell=1230302/self-destruct" target="blank">Self-Destruct</a>
+netherblast: <a href="https://www.wowhead.com/ptr-2/spell=1230261/netherblast" target="blank">Netherblast</a>
+nexus_prince_kyvor: <a href="https://www.wowhead.com/ptr-2/npc=241803/nexus-prince-kyvor" target="blank">Nexus-Prince Ky'vor</a>
+nexus_prince_xevvos: <a href="https://www.wowhead.com/ptr-2/npc=241798/nexus-prince-xevvos" target="blank">Nexus-Prince Xevvos</a>
+manaforged_titan: <a href="https://www.wowhead.com/ptr-2/npc=241800/manaforged-titan" target="blank">Manaforged Titan</a>
+nexus_beams: <a href="https://www.wowhead.com/ptr-2/spell=1228075/nexus-beams" target="blank">Nexus Beams</a>
+reap: <a href="https://www.wowhead.com/ptr-2/spell=1228053/reap" target="blank">Reap</a>
+banishment: <a href="https://www.wowhead.com/ptr-2/spell=1227554/banishment" target="blank">Banishment</a>
+behead: <a href="https://www.wowhead.com/ptr-2/spell=1224840/behead" target="blank">Behead</a>
+twilight_massacre: <a href="https://www.wowhead.com/ptr-2/spell=1237107/twilight-massacre" target="blank">Twilight Massacre</a>
+netherbreaker: <a href="https://www.wowhead.com/ptr-2/spell=1228113/netherbreaker" target="blank">Netherbreaker</a>
+twilight_spikes: <a href="https://www.wowhead.com/ptr-2/spell=1225645/twilight-spikes" target="blank">Twilight Spikes</a>
+
+# Dimensius, the All-Devouring
