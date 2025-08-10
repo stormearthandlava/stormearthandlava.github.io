@@ -76,7 +76,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 ## Fight Breakdown:
 
 #### Damage:
-* Focus down {{ site.data.raid.manaforge.overloading_attendant }} whenever they are active.
+* Focus down {{ site.data.raid.manaforge.volatile_manifestation }} whenever they are active.
 * Slightly delay your second use of {{ site.data.spell.asc }} for {{ site.data.raid.manaforge.protocol_purge }} to minimize damage income from {{ site.data.raid.manaforge.purging_lightning }}.
 * Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime when targeted by {{ site.data.raid.manaforge.manifest_matrices }} or during Phase 2.
 
