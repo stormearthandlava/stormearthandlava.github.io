@@ -1,6 +1,6 @@
 # Note: If a catagory has an url, its children won't be shown in the top menu
 
-categories: []
+categories:
   # - title: Guide
   #   subcategories:
   #     - title: Builds
@@ -21,12 +21,14 @@ categories: []
   #       url: /guide/mythic_plus/DF_season_2.html
   #     - title : DF Season 1
   #       url : /guide/mythic_plus/DF_season_1.html
-  # - title: Raids
-  #   subcategories:
-  #     - title: Liberation of Undermine
-  #       url: /guide/raids/undermine.html
-  # - title: "Guide: Manaforge Omega"
-  #   url: /guide/raids/manaforge.html
+   - title: Raids
+     subcategories:
+       - title: The Dreamrift
+         url: /guide/raids/dreamrift.html
+       - title: The Voidspire
+         url: /guide/raids/voidspire.html
+       - title: March on Quel'Danas
+         url: /guide/raids/MQD.html
 
 #- title: Mythic+
 # activate this v line if you don't want child elements in the top menu

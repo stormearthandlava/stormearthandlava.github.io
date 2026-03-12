@@ -1,0 +1,62 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Imperator Averzian
+abyssal_voidshaper: <a href="https://www.wowhead.com/npc=252918/abyssal-voidshaper" target="blank">Abyssal Voidshapers</a>
+shadowguard_stalwart: <a href="https://www.wowhead.com/npc=255304/shadowguard-stalwart" target="blank">Shadowguard Stalwarts</a>
+voidbound_annihilator: <a href="https://www.wowhead.com/beta/npc=256757/voidbound-annihilator" target="blank">Voidbound Annihilators</a>
+abyssal_malus: <a href="https://www.wowhead.com/beta/npc=257950/abyssal-malus" target="blank">Abyssal Maluses</a>
+void_rupture: <a href="https://www.wowhead.com/spell=1262036/void-rupture" target="blank">Void Rupture</a>
+pitch_bulwark: <a href="https://www.wowhead.com/spell=1255702/pitch-bulwark" target="blank">Pitch Bulwark</a>
+black_miasma: <a href="https://www.wowhead.com/spell=1275059/black-miasma" target="blank">Black Miasma</a>
+lingering_darkness: <a href="https://www.wowhead.com/spell=1280075/lingering-darkness" target="blank">Lingering Darkness</a>
+umbral_collapse: <a href="https://www.wowhead.com/spell=1249262/umbral-collapse" target="blank">Umbral Collapse</a>
+void_fall: <a href="https://www.wowhead.com/spell=1258883/void-fall" target="blank">Void Fall</a>
+
+# Vorasius
+blistercreep: <a href="https://www.wowhead.com/npc=255418/blistercreep" target="blank">Blistercreeps</a>
+blisterburst: <a href="https://www.wowhead.com/spell=1259184/blisterburst" target="blank">Blisterburst</a>
+parasite_expulsion: <a href="https://www.wowhead.com/spell=1254199/parasite-expulsion" target="blank">Parasite Expulsion</a>
+aftershock: <a href="https://www.wowhead.com/spell=1273067/aftershock" target="blank">Aftershock</a>
+
+# Fallen-King Salhadaar
+concentrated_void: <a href="https://www.wowhead.com/npc=246665/concentrated-void" target="blank">Concentrated Voids</a>
+enduring_void: <a href="https://www.wowhead.com/npc=255280/enduring-void" target="blank">Enduring Voids</a>
+entropic_unraveling: <a href="https://www.wowhead.com/spell=1246175/entropic-unraveling" target="blank">Entropic Unraveling</a>
+shadow_fracture: <a href="https://www.wowhead.com/spell=1254088/shadow-fracture" target="blank">Shadow Fracture</a>
+nexus_shield: <a href="https://www.wowhead.com/spell=1275056/nexus-shield" target="blank">Nexus Shield</a>
+despotic_command: <a href="https://www.wowhead.com/spell=1248697/despotic-command" target="blank">Despotic Command</a>
+fractured_image: <a href="https://www.wowhead.com/npc=251791/fractured-image" target="blank">Fractured Images</a>
+
+# Vaelgor & Ezzorak
+voidorb: <a href="https://www.wowhead.com/npc=248143/voidorb" target="blank">Voidorbs</a>
+manifestation_of_midnight: <a href="https://www.wowhead.com/npc=249313/manifestation-of-midnight" target="blank">Manifestations of Midnight</a>
+dread_breath: <a href="https://www.wowhead.com/spell=1255979/dread-breath" target="blank">Dread Breath</a>
+nullzone: <a href="https://www.wowhead.com/spell=1244672/nullzone" target="blank">Nullzone</a>
+voidbolt: <a href="https://www.wowhead.com/spell=1245175/voidbolt" target="blank">Voidbolt</a>
+nullbeam: <a href="https://www.wowhead.com/beta/spell=1262676/nullbeam" target="blank">Nullbeam</a>
+nullscatter: <a href="https://www.wowhead.com/spell=1266570/nullscatter" target="blank">Nullscatter</a>
+
+# Lightblinded Vanguard
+war_chaplain_senn: <a href="https://www.wowhead.com/npc=250589/war-chaplain-senn" target="blank">War Chaplain Senn</a>
+commander_venel_lightblood: <a href="https://www.wowhead.com/npc=250588/commander-venel-lightblood" target="blank">Commander Venel Lightblood</a>
+execution_sentence: <a href="https://www.wowhead.com/spell=1248983/execution-sentence" target="blank">Execution Sentence</a>
+sacred_shield: <a href="https://www.wowhead.com/spell=1248674/sacred-shield" target="blank">Sacred Shield</a>
+avenging_wrath: <a href="https://www.wowhead.com/spell=1246385/avenging-wrath" target="blank">Avenging Wrath</a>
+blinding_light: <a href="httphttps://www.wowhead.com/spell=1258514/blinding-light" target="blank">Blinding Light</a>
+tyrs_wrath: <a href="https://www.wowhead.com/spell=1248710/tyrs-wrath" target="blank">Tyr's Wrath</a>
+avenging_wrath: <a href="https://www.wowhead.com/spell=1246385/avenging-wrath" target="blank">Avenging Wrath</a>
+divine_hammer: <a href="https://www.wowhead.com/spell=1249047/divine-hammer" target="blank">Divine Hammers</a>
+
+# Crown of the Cosmos

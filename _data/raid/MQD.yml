@@ -1,0 +1,25 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Belo'ren, Child of Al'ar
+light_ember: <a href="https://www.wowhead.com/npc=246729/light-ember" target="blank">Light Embers</a>
+void_ember: <a href="https://www.wowhead.com/npc=246728/void-ember" target="blank">Void Embers</a>
+light_eruption: <a href="https://www.wowhead.com/spell=1243852/light-eruption" target="blank">Light Eruption</a>
+void_eruption: <a href="https://www.wowhead.com/spell=1243854/void-eruption" target="blank">Void Eruption</a>
+rebirth: <a href="https://www.wowhead.com/spell=1263412/rebirth" target="blank">Rebirth</a>
+light_flames: <a href="https://www.wowhead.com/spell=1242803/light-flames" target="blank">Light Flames</a>
+void_flames: <a href="https://www.wowhead.com/spell=1242815/void-flames" target="blank">Void Flames</a>
+death_drop: <a href="https://www.wowhead.com/beta/spell=1246709/death-drop" target="blank">Death Drop</a>
+
+# Midnight Falls

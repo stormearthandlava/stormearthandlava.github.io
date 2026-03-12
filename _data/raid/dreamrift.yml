@@ -1,0 +1,23 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Chimaerus the Undreamt God
+colossal_horror: <a href="https://www.wowhead.com/npc=257691/colossal-horror" target="blank">Colossal Horrors</a>
+haunting_essence: <a href="https://www.wowhead.com/npc=256803/haunting-essence" target="blank">Haunting Essences</a>
+alndust_upheaval: <a href="https://www.wowhead.com/spell=1262305/alndust-upheaval" target="blank">Alndust Upheaval</a>
+fearsome_cry: <a href="https://www.wowhead.com/spell=1249017/fearsome-cry" target="blank">Fearsome Cry</a>
+essence_bolt: <a href="https://www.wowhead.com/spell=1261997/essence-bolt" target="blank">Essence Bolt</a>
+rift_madness: <a href="https://www.wowhead.com/spell=1264756/rift-madness" target="blank">Rift Madness</a>
+consuming_miasma: <a href="https://www.wowhead.com/spell=1257087/consuming-miasma" target="blank">Consuming Miasma</a>
+corrupted_devastation: <a href="https://www.wowhead.com/spell=1245486/corrupted-devastation" target="blank">Corrupted Devastation</a>

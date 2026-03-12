@@ -297,7 +297,7 @@ planes_traveler: <a href="https://www.wowhead.com/spell=381647/planes-traveler" 
 poison_cleansing_totem: <a href="https://www.wowhead.com/spell=383013/poison-cleansing-totem" target="blank">Poison Cleansing Totem</a>
 pct: <a href="https://www.wowhead.com/spell=383013/poison-cleansing-totem" target="blank">Poison Cleansing Totem</a>
 
-primordial_bond: <a href="https://www.wowhead.com/spell=381764/primordial-bond" target="blank">Primordial Bond</a>
+primordial_bond: <a href="https://www.wowhead.com/spell=1279819/primordial-bond" target="blank">Primordial Bond</a>
 
 purge: <a href="https://www.wowhead.com/spell=370" target="blank">Purge</a>
 
@@ -319,6 +319,8 @@ spiritwalkers_aegis: <a href="https://www.wowhead.com/spell=378077/spiritwalkers
 
 spiritwalkers_grace: <a href="https://www.wowhead.com/spell=79206" target="blank">Spiritwalker's Grace</a>
 swg: <a href="https://www.wowhead.com/spell=79206" target="blank">Spiritwalker's Grace</a>
+
+therazanes_resilience: <a href="https://www.wowhead.com/spell=1217622/therazanes-resilience?spellModifier=137040" target="blank">Therazane's Resilience</a>
 
 thunderous_paws: <a href="https://www.wowhead.com/spell=378075/thunderous-paws" target="blank">Thunderous Paws</a>
 
@@ -344,6 +346,8 @@ wind_rush_totem: <a href="https://www.wowhead.com/spell=192077" target="blank">W
 wrt: <a href="https://www.wowhead.com/spell=192077" target="blank">Wind Rush Totem</a>
 
 wind_shear: <a href="https://www.wowhead.com/spell=57994" target="blank">Wind Shear</a>
+
+windveil: <a href="https://www.wowhead.com/spell=355630/windveil" target="blank">Windveil</a>
 
 winds_of_alakir: <a href="https://www.wowhead.com/spell=382215/winds-of-alakir" target="blank">Winds of Al'Alkir</a>
 
@@ -475,37 +479,44 @@ t30_4: <a href="https://www.wowhead.com/spell=410018/primal-fracture" target="bl
 # T31
 t31_4: <a href="https://www.wowhead.com/ptr-2/spell=427729/molten-slag" target="blank">Molten Slag</a>
 
-# The War Within / Hero Talents
+# Midnight / Hero Talents
 # Farseer
-call_of_the_ancestor: <a href="https://www.wowhead.com/beta/spell=443450/call-of-the-ancestors?spellModifier=137040" target="blank">Call of the Ancestors</a>
-latent_wisdom: <a href="https://www.wowhead.com/beta/spell=443449/latent-wisdom" target="blank">Latent Wisdom</a>
-ancient_fellowship: <a href="https://www.wowhead.com/beta/spell=443423/ancient-fellowship" target="blank">Ancient Fellowship</a>
-heed_my_call: <a href="https://www.wowhead.com/beta/spell=443444/heed-my-call" target="blank">Heed My Call</a>
-routine_communication: <a href="https://www.wowhead.com/beta/spell=443445/routine-communication?spellModifier=137040" target="blank">Routine Communication</a>
-elemental_reverb: <a href="https://www.wowhead.com/beta/spell=443418/elemental-reverb?spellModifier=137040" target="blank">Elemental Reverb</a>
-offering_from_beyond: <a href="https://www.wowhead.com/beta/spell=443451/offering-from-beyond?spellModifier=137040" target="blank">Offering from Beyond</a>
-primordial_capacity: <a href="https://www.wowhead.com/beta/spell=443448/primordial-capacity?spellModifier=137040" target="blank">Primordial Capacity</a>
-spiritwalkers_momentum: <a href="https://www.wowhead.com/beta/spell=443425/spiritwalkers-momentum" target="blank">Spiritwalker's Momentum</a>
-natural_harmony: <a href="https://www.wowhead.com/beta/spell=443442/natural-harmony" target="blank">Natural Harmony</a>
-earthen_communion: <a href="https://www.wowhead.com/beta/spell=443441/earthen-communion" target="blank">Earthen Communion</a>
-maelstrom_supremacy: <a href="https://www.wowhead.com/beta/spell=443447/maelstrom-supremacy?spellModifier=137040" target="blank">Maelstrom Supremacy</a>
-final_calling: <a href="https://www.wowhead.com/beta/spell=443446/final-calling?spellModifier=137040" target="blank">Final Calling</a>
-ancestral_swiftness: <a href="https://www.wowhead.com/beta/spell=443454/ancestral-swiftness" target="blank">Ancestral Swiftness</a>
+call_of_the_ancestor: <a href="https://www.wowhead.com/spell=443450/call-of-the-ancestors?spellModifier=137040" target="blank">Call of the Ancestors</a>
+latent_wisdom: <a href="https://www.wowhead.com/spell=443449/latent-wisdom" target="blank">Latent Wisdom</a>
+ancient_fellowship: <a href="https://www.wowhead.com/spell=443423/ancient-fellowship" target="blank">Ancient Fellowship</a>
+heed_my_call: <a href="https://www.wowhead.com/spell=443444/heed-my-call" target="blank">Heed My Call</a>
+routine_communication: <a href="https://www.wowhead.com/spell=443445/routine-communication?spellModifier=137040" target="blank">Routine Communication</a>
+elemental_reverb: <a href="https://www.wowhead.com/spell=443418/elemental-reverb?spellModifier=137040" target="blank">Elemental Reverb</a>
+ancestral_influence: <a href="https://www.wowhead.com/spell=1270446/ancestral-influence" target="blank">Ancestral Influence</a>
+offering_from_beyond: <a href="https://www.wowhead.com/spell=443451/offering-from-beyond?spellModifier=137040" target="blank">Offering from Beyond</a>
+primordial_capacity: <a href="https://www.wowhead.com/spell=443448/primordial-capacity?spellModifier=137040" target="blank">Primordial Capacity</a>
+spiritwalkers_momentum: <a href="https://www.wowhead.com/spell=443425/spiritwalkers-momentum" target="blank">Spiritwalker's Momentum</a
+windspeaker: <a href="https://www.wowhead.com/spell=1270447/windspeaker?spellModifier=137040" target="blank">Windspeaker</a
+natural_harmony: <a href="https://www.wowhead.com/spell=443442/natural-harmony" target="blank">Natural Harmony</a>
+earthen_communion: <a href="https://www.wowhead.com/spell=443441/earthen-communion" target="blank">Earthen Communion</a>
+maelstrom_supremacy: <a href="https://www.wowhead.com/spell=443447/maelstrom-supremacy?spellModifier=137040" target="blank">Maelstrom Supremacy</a>
+final_calling: <a href="https://www.wowhead.com/spell=443446/final-calling?spellModifier=137040" target="blank">Final Calling</a>
+mystic_knowledge: <a href="https://www.wowhead.com/spell=1270450/mystic-knowledge?spellModifier=137040" target="blank">Mystic Knowledge</a>
+ancestral_swiftness: <a href="https://www.wowhead.com/spell=443454/ancestral-swiftness" target="blank">Ancestral Swiftness</a>
 
 # Stormbringer
-tempest_spell: <a href="https://www.wowhead.com/beta/spell=454009/tempest?spellModifier=137040" target="blank">Tempest</a>
-unlimited_power: <a href="https://www.wowhead.com/beta/spell=454391/unlimited-power?spellModifier=137040" target="blank">Unlimited Power</a>
-tempest_passive: <a href="https://www.wowhead.com/beta/spell=454021/tempest" target="blank">Tempest</a>
-shocking_grasp: <a href="https://www.wowhead.com/beta/spell=454022/shocking-grasp" target="blank">Shocking Grasp</a>
-supercharge: <a href="https://www.wowhead.com/beta/spell=455110/supercharge?spellModifier=137040" target="blank">Supercharge</a>
-storm_swell: <a href="https://www.wowhead.com/beta/spell=455088/storm-swell?spellModifier=137040" target="blank">Storm Swell</a>
-arc_discharge: <a href="https://www.wowhead.com/beta/spell=455096/arc-discharge" target="blank">Arc Discharge</a>
-rolling_thunder: <a href="https://www.wowhead.com/beta/spell=454026/rolling-thunder?spellModifier=137040" target="blank">Rolling Thunder</a>
-voltaic_surge: <a href="https://www.wowhead.com/beta/spell=454919/voltaic-surge" target="blank">Voltaic Surge</a>
-conductive_energy: <a href="https://www.wowhead.com/beta/spell=455123/conductive-energy-nyi?spellModifier=137040" target="blank">Conductive Energy (NYI)</a>
-natures_protection: <a href="https://www.wowhead.com/beta/spell=454027/natures-protection" target="blank">Nature's Protection</a>
-surging_currents: <a href="https://www.wowhead.com/beta/spell=454372/surging-currents" target="blank">Surging Currents</a>
-awakening_storms: <a href="https://www.wowhead.com/beta/spell=455129/awakening-storms?spellModifier=137040" target="blank">Awakening Storms</a>
+tempest_spell: <a href="https://www.wowhead.com/spell=454009/tempest?spellModifier=137040" target="blank">Tempest</a>
+unlimited_power: <a href="https://www.wowhead.com/spell=454391/unlimited-power?spellModifier=137040" target="blank">Unlimited Power</a>
+stormcaller: <a href="https://www.wowhead.com/spell=454021/stormcaller?spellModifier=137040" target="blank">Stormcaller</a>
+lightning_conduit: <a href="https://www.wowhead.com/spell=467778/lightning-conduit" target="blank">Lightning Conduit</a>
+electroshock: <a href="https://www.wowhead.com/spell=454022/electroshock" target="blank">Electroshock</a>
+stormwell: <a href="https://www.wowhead.com/spell=1264762/stormwell?spellModifier=137040" target="blank">Stormwell</a>
+storm_swell: <a href="https://www.wowhead.com/spell=455088/storm-swell?spellModifier=137040" target="blank">Storm Swell</a>
+supercharge: <a href="https://www.wowhead.com/spell=455110/supercharge?spellModifier=137040" target="blank">Supercharge</a>
+arc_discharge: <a href="https://www.wowhead.com/spell=455096/arc-discharge?spellModifier=137040" target="blank">Arc Discharge</a>
+rolling_thunder: <a href="https://www.wowhead.com/spell=454026/rolling-thunder?spellModifier=137040" target="blank">Rolling Thunder</a>
+natural_gift: <a href="https://www.wowhead.com/spell=1264691/natural-gift" target="blank">Natural Gift</a>
+voltaic_surge: <a href="https://www.wowhead.com/spell=454919/voltaic-surge?spellModifier=137040" target="blank">Voltaic Surge</a>
+conductive_energy: <a href="https://www.wowhead.com/spell=455123/conductive-energy-nyi?spellModifier=137040" target="blank">Conductive Energy (NYI)</a>
+natures_protection: <a href="https://www.wowhead.com/spell=454027/natures-protection" target="blank">Nature's Protection</a>
+surging_currents: <a href="https://www.wowhead.com/spell=454372/surging-currents" target="blank">Surging Currents</a>
+descending_skies: <a href="https://www.wowhead.com/spell=1264688/descending-skies?spellModifier=137040" target="blank">Descending Skies</a>
+awakening_storms: <a href="https://www.wowhead.com/spell=455129/awakening-storms?spellModifier=137040" target="blank">Awakening Storms</a>
 
 # Racials
 stoneform: <a href="https://www.wowhead.com/spell=20594/stoneform" target="blank">Stoneform</a>
