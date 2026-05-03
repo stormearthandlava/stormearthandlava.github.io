@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "The Voidspire"
-last_update: 12/03/2026
-game_version: 12.0.1 Midnight
+last_update: 04/05/2026
+game_version: 12.0.5 Midnight
 toc: true
 big_article: true
 ---
@@ -220,10 +220,10 @@ The tips and recommendations listed here are based on educated opinions from PTR
 
 ### Talents
 
-#### Stormbringer:
+#### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZ0QjNAw2MzMmZbZmYmxCLzMzMGMLDLmZYmFAwMMwMDMMMA?width=575&hideHeader=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLbzMGjZZZZwMjBAAAAYxMbwAGwsxEysAA2mZmxMbLzEzMWYZmZmxgZZGLPwMjZmlBAMMAmZMMMA?width=575&hideHeader=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
 </iframe>
 </div>
 
@@ -257,7 +257,33 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="crown_of_the_cosmos-collapse" class="collapse" aria-labelledby="crown_of_the_cosmos" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Soon™
+## Boss Fight Profile: Single Target / Cleave
+
+### Talents
+
+#### Stormbringer:
+
+<div class="iframe-holder">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZ0QjNAwyMzMmZbZmYmBWmZmZMYWmxiZGmZBAMDDMzADDD?width=575&hideHeader=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+</iframe>
+</div>
+
+<hr>
+
+
+## Fight Breakdown:
+
+#### Damage:
+* Focus {{ site.data.raid.voidspire.rift_simulacrum }} while {{ site.data.raid.voidspire.cosmic_barrier }} is active.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while repositioning for {{ site.data.raid.voidspire.silverstrike_arrow }} or baiting {{ site.data.raid.voidspire.void_expulsion }}.
+
+#### Defensives:
+* Use {{ site.data.spell.as }} when targeted by {{ site.data.raid.voidspire.silverstrike_arrow }} or whenever multiple instances of {{ site.data.raid.voidspire.void_expulsion }} are about to explode but especially during overlaps with {{ site.data.raid.voidspire.aspect_of_the_end }} [Mythic-only].
+* Use {{ site.data.spell.healing_surge }} as needed and utilize {{ site.data.spell.hst }} as a movement filler.
+
+#### Utilities:
+* Use {{ site.data.spell.wrt }} to help players reposition during intermissions.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.voidspire.void_barrage }} from {{ site.data.raid.voidspire.undying_voidspawn }}.
 
 </div>
 </div>
