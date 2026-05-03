@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "March on Quel'Danas"
-last_update: 12/03/2026
-game_version: 12.0.1 Midnight
+last_update: 04/05/2026
+game_version: 12.0.5 Midnight
 toc: true
 big_article: true
 ---
@@ -58,7 +58,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Stormbringer:
 
 <div class="iframe-holder">
-<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZ0QjNAw2MzMmZbZmYmxCLzMzMGMLDLmZYmNAwMMwMDMMMA?width=575&hideHeader=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZ0QjNAw2MzMmZbZmYmxCLzMzMGMLDLmZYmFAwMMwMDMMMA?width=575&hideHeader=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
 </iframe>
 </div>
 
@@ -94,7 +94,34 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="midnight_falls-collapse" class="collapse" aria-labelledby="midnight_falls" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Soon™
+## Boss Fight Profile: Single Target / AoE
+
+### Talents
+
+#### Stormbringer:
+
+<div class="iframe-holder">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZ0QjNAw2MzMmZbZmwMWYZmZmxMMLzYxMDzsAAMMwMDMMMA?width=575&hideHeader=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+</iframe>
+</div>
+
+<hr>
+
+## Fight Breakdown:
+
+#### Damage:
+* Use {{ site.data.spell.sk }} and {{ site.data.spell.ascendance }} to prevent {{ site.data.raid.MQD.midnight_crystal }} from casting {{ site.data.raid.MQD.cosmic_fracture }}.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while dodging {{ site.data.raid.MQD.heavens_glaives }} and {{ site.data.raid.MQD.dark_quasar }}.
+
+#### Defensives:
+* Use {{ site.data.spell.as }} for {{ site.data.raid.MQD.starsplinter }} and {{ site.data.raid.MQD.dark_meltdown }}.
+* Use {{ site.data.spell.healing_surge }} as needed and utilize {{ site.data.spell.hst }} as a movement filler.
+
+#### Utilities:
+* Use {{ site.data.spell.wrt }} to help players dodge {{ site.data.raid.MQD.dark_quasar }} and {{ site.data.raid.MQD.heaven_hell }} [Mythic-only].
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.MQD.safeguard }} from {{ site.data.raid.MQD.safeguard_matrix }} and {{ site.data.raid.MQD.terminate }} from {{ site.data.raid.MQD.termination_matrix }} [Mythic-only].
+* Use {{ site.data.spell.thunderstorm }} to knock {{ site.data.raid.MQD.midnight_crystal }} into the boss.
+
 
 </div>
 </div>

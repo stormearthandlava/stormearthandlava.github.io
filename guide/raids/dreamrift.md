@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "The Dreamrift"
-last_update: 12/03/2026
-game_version: 12.0.1 Midnight
+last_update: 04/05/2026
+game_version: 12.0.5 Midnight
 toc: true
 big_article: true
 ---
@@ -58,7 +58,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Stormbringer:
 
 <div class="iframe-holder">
-<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZ0QjNAYWmZmxMbLzEmBWmZmZMDzywiZGmZDAMDDMzADDD?width=575&hideHeader=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZ0QjNAYWmZmxMbLzEmBWmZmZMDzywiZGmZBAMDDMzADDD?width=575&hideHeader=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
 </iframe>
 </div>
 
