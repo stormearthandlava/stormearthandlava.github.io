@@ -21,14 +21,8 @@ categories:
   #       url: /guide/mythic_plus/DF_season_2.html
   #     - title : DF Season 1
   #       url : /guide/mythic_plus/DF_season_1.html
-   - title: Raids
-     subcategories:
-       - title: The Dreamrift
-         url: /guide/raids/dreamrift.html
-       - title: The Voidspire
-         url: /guide/raids/voidspire.html
-       - title: March on Quel'Danas
-         url: /guide/raids/MQD.html
+- title: Raid Guides
+  url: /guide/raids/overview.html
 
 #- title: Mythic+
 # activate this v line if you don't want child elements in the top menu
