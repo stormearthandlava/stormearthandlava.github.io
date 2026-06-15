@@ -1,0 +1,23 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Rotmire
+bursting_shroom_npc: <a href="https://www.wowhead.com/ptr-2/npc=238853/bursting-shroom" target="blank">Bursting Shrooms</a>
+festering_vines: <a href="https://www.wowhead.com/ptr-2/spell=1222088/festering-vines" target="blank">Festering Vines</a>
+fungal_bloom: <a href="https://www.wowhead.com/ptr-2/spell=1221637/fungal-bloom" target="blank">Fungal Bloom</a>
+bursting_shroom: <a href="https://www.wowhead.com/ptr-2/spell=1221965/bursting-shroom" target="blank">Bursting Shroom</a>
+poison_burst: <a href="https://www.wowhead.com/ptr-2/spell=1221714/poison-burst" target="blank">Poison Burst</a>
+sporecap: <a href="https://www.wowhead.com/ptr-2/npc=238699/sporecap" target="blank">Sporecap</a>
+shroomling: <a href="https://www.wowhead.com/ptr-2/spell=1221639/shroomling" target="blank">Shroomling</a>
+fungling: <a href="https://www.wowhead.com/ptr-2/spell=1299508/fungling" target="blank">Fungling</a>
