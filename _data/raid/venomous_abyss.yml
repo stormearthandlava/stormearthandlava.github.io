@@ -1,0 +1,81 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Nekzali the Soulcoiler
+restless_amani: <a href="https://www.wowhead.com/npc=263974/restless-amani" target="blank">Restless Amani</a>
+echo_of_jawae: <a href="https://www.wowhead.com/npc=263685/echo-of-jawae" target="blank">Echo of Jawae</a>
+drowned_echo: <a href="https://www.wowhead.com/npc=268204/drowned-echo" target="blank">Drowned Echo</a>
+swirling_spirit: <a href="https://www.wowhead.com/spell=1300239/swirling-spirit" target="blank">Swirling Spirits</a>
+soulcoilers_curse: <a href="https://www.wowhead.com/spell=1300238/soulcoilers-curse" target="blank">Soulcoiler's Curse</a>
+essence_rend: <a href="https://www.wowhead.com/spell=1287426/essence-rend" target="blank">Essence Rend</a>
+corpse_blight: <a href="https://www.wowhead.com/spell=1307939/corpse-blight" target="blank">Corpse Blight</a>
+soulcoil_rite: <a href="https://www.wowhead.com/spell=1288772/soulcoil-rite" target="blank">Soulcoil Rite</a>
+
+# Entombed Sentinels
+helical_toxins: <a href="https://www.wowhead.com/spell=1284590/helical-toxins" target="blank">Helical Toxins</a>
+toxic_droplets: <a href="https://www.wowhead.com/spell=1284434/toxic-droplets" target="blank">Toxic Droplets</a>
+unstable_miasma: <a href="https://www.wowhead.com/spell=1288282/unstable-miasma" target="blank">Unstable Miasma</a>
+
+# The Lost Explorers
+scrollsage_iku: <a href="https://www.wowhead.com/npc=262173/scrollsage-iku" target="blank">Scrollsage Iku</a>
+frostfire_volley: <a href="https://www.wowhead.com/spell=1295886/frostfire-volley" target="blank">Frostfire Volley</a>
+blink_nova: <a href="https://www.wowhead.com/spell=1296021/blink-nova" target="blank">Blink Nova</a>
+icebound_flames: <a href="https://www.wowhead.com/spell=1286922/icebound-flames" target="blank">Icebound Flames</a>
+mushroom_toss: <a href="https://www.wowhead.com/spell=1292104/mushroom-toss" target="blank">Mushroom Toss</a>
+fungal_burst: <a href="https://www.wowhead.com/spell=1292177/fungal-burst" target="blank">Fungal Burst</a>
+throw_junk: <a href="https://www.wowhead.com/spell=1291933/throw-junk" target="blank">Throw Junk</a>
+splinters: <a href="https://www.wowhead.com/spell=1308853/splinters" target="blank">Splinters</a>
+
+# Vashnik the Malignant
+burning_venom: <a href="https://www.wowhead.com/npc=260905/burning-venom" target="blank">Burning Venom</a>
+plague_froth: <a href="https://www.wowhead.com/spell=1281907/plague-froth" target="blank">Plague Froth</a>
+caustic_surge: <a href="https://www.wowhead.com/spell=1285979/caustic-surge" target="blank">Caustic Surge</a>
+siphoning_infection: <a href="https://www.wowhead.com/spell=1295224/siphoning-infection" target="blank">Siphoning Infection</a>
+catalytic_bile: <a href="https://www.wowhead.com/spell=1282601/catalytic-bile" target="blank">Catalytic Bile</a>
+exploding_infection: <a href="https://www.wowhead.com/spell=1299949/exploding-infection" target="blank">Exploding Infection</a>
+malignant_tumor: <a href="https://www.wowhead.com/npc=269430/malignant-totem" target="blank">Malignant Tumor</a>
+
+# Sszorak
+tempest: <a href="https://www.wowhead.com/spell=1287072/tempest" target="blank">Tempest</a>
+raging_crosswinds: <a href="https://www.wowhead.com/spell=1285419/raging-crosswinds" target="blank">Raging Crosswinds</a>
+howling_maelstrom: <a href="https://www.wowhead.com/spell=1285732/howling-maelstrom" target="blank">Howling Maelstrom</a>
+venomous_surge: <a href="https://www.wowhead.com/spell=1305959/venomous-surge" target="blank">Venomous Surge</a>
+dig_in: <a href="https://www.wowhead.com/spell=1286033/dig-in" target="blank">Dig In</a>
+
+# The Twin Fangs
+barbed_bulwark: <a href="https://www.wowhead.com/spell=1303378/barbed-bulwark" target="blank">Barbed Bulwarks</a>
+visceral_burst: <a href="https://www.wowhead.com/spell=1308385/visceral-burst" target="blank">Visceral Burst</a>
+bloodcurdled_mass: <a href="https://www.wowhead.com/npc=268668/bloodcurdled-mass" target="blank">Bloodcurdled Mass</a>
+stir_the_depths: <a href="https://www.wowhead.com/spell=1290956/stir-the-depths" target="blank">Stir the Depths</a>
+spawn_of_vexhul: <a href="https://www.wowhead.com/npc=264023/spawn-of-vexhul" target="blank">Spawns of Vexhul</a>
+caustic_globule: <a href="https://www.wowhead.com/spell=1289993/caustic-globule" target="blank">Caustic Globules</a>
+ravenous_feast: <a href="https://www.wowhead.com/spell=1290516/ravenous-feast" target="blank">Ravenous Feast</a>
+corrosive_spit: <a href="https://www.wowhead.com/spell=1293295/corrosive-spit" target="blank">Corrosive Spit</a>
+coiling_ichor: <a href="https://www.wowhead.com/spell=1290809/coiling-ichor" target="blank">Coiling Ichor</a>
+vile_flood: <a href="https://www.wowhead.com/spell=1294293/vile-flood" target="blank">Vile Flood</a>
+broodling_of_ithraz: <a href="https://www.wowhead.com/npc=270898/broodling-of-ithraz" target="blank">Broodlings of Ithraz</a>
+
+# The Coiled Altar
+venomfang: <a href="https://www.wowhead.com/spell=1282287/venomfang" target="blank">Venomfang</a>
+dreadmarch: <a href="https://www.wowhead.com/spell=1285643/dreadmarch" target="blank">Dreadmarch</a>
+manifestation_of_dread: <a href="https://www.wowhead.com/npc=261218/manifestation-of-dread" target="blank">Manifestation of Dread</a>
+unnerving_fixation: <a href="https://www.wowhead.com/spell=1285911/unnerving-fixation" target="blank">Unnerving Fixation</a>
+guillotine: <a href="https://www.wowhead.com/spell=1283489/guillotine" target="blank">Guillotine</a>
+eternal_nightfall: <a href="https://www.wowhead.com/spell=1286918/eternal-nightfall" target="blank">Eternal Nightfall</a>
+wail_of_terror: <a href="https://www.wowhead.com/spell=1286399/wail-of-terror" target="blank">Wail of Terror</a>
+spiteful_soulcoiler: <a href="https://www.wowhead.com/npc=261521/spiteful-soulcoiler" target="blank">Spiteful Soulcoiler</a>
+venom_rupture: <a href="https://www.wowhead.com/spell=1299838/venom-rupture" target="blank">Venom Rupture</a>
+ghastly_regeneration: <a href="https://www.wowhead.com/spell=1304033/ghastly-regeneration" target="blank">Ghastly Regeneration</a>
+widows_kiss: <a href="https://www.wowhead.com/spell=1283623/widows-kiss" target="blank">Widow's Kiss</a>
+hex_lord_malacrass: <a href="https://www.wowhead.com/npc=259854/hex-lord-malacrass" target="blank">Hex Lord Malacrass</a>

@@ -1,0 +1,23 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Nymrissa Wavecaller
+bubblefin_shorerunner: <a href="https://www.wowhead.com/npc=253032/bubblefin-shorerunner" target="blank">Bubblefin Shorerunners</a>
+bubblefin_frostscale: <a href="https://www.wowhead.com/npc=257892/bubblefin-frostscale" target="blank">Bubblefin Frostscales</a>
+drifting_globules: <a href="https://www.wowhead.com/spell=1281393/drifting-globules" target="blank">Drifting Globules</a>
+alluring_bubble: <a href="https://www.wowhead.com/spell=1257717/alluring-bubble" target="blank">Alluring Bubble</a>
+drenched: <a href="https://www.wowhead.com/spell=1282404/drenched" target="blank">Drenched</a>
+abyssal_rain: <a href="https://www.wowhead.com/spell=1260843/abyssal-rain" target="blank">Abyssal Rain</a>
+water_jet: <a href="https://www.wowhead.com/spell=1258901/water-jet" target="blank">Water Jet</a>
+unending_tides: <a href="https://www.wowhead.com/spell=1294867/unending-tides" target="blank">Unending Tides</a>

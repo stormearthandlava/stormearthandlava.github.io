@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Raid Guides"
-last_update: 14/06/2026
-game_version: 12.0.7 Midnight
+last_update: 25/07/2026
+game_version: 12.1.0 Midnight
 toc: true
 big_article: true
 ---
@@ -85,6 +85,18 @@ h1[id^="12"] {
     height: 305px;
 }
 </style>
+
+# Patch 12.1.0
+<div class="raid-grid tight">
+<a class="raid-card" href="/guide/raids/venomous_abyss">
+    <img src="/assets/img/guide/raids/venomous_abyss/venomous_abyss.png" alt="Venomous Abyss">
+    <div class="raid-title">The Venomous Abyss</div>
+</a>
+<a class="raid-card" href="/guide/raids/tidebound_grotto">
+    <img src="/assets/img/guide/raids/tidebound_grotto/tidebound_grotto.png" alt="Tidebound Grotto">
+    <div class="raid-title">The Tidebound Grotto</div>
+</a>
+</div>
 
 # Patch 12.0.7
 <div class="raid-grid">
