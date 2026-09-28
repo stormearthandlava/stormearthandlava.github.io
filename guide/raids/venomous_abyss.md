@@ -58,7 +58,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://raidbots.com/simbot/render/talents/CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZZZMmhBAAAAsYmNYADY2YCZWAgZbmZGzstMTYmBLzMzMmBLzMLDzMzsAAMMAmZMMMA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMmZmZZbZMMjBAAAAsYmNYADY2YCZWAgZbmZGzstMTYmBLzMzMmBLzMLGDzsMAghBwMjhhB?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
 </iframe>
 </div>
 
@@ -102,7 +102,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://raidbots.com/simbot/render/talents/CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMmZmZZbZMMjBAAAAsYmNYADY2YCZWAAbzMzYmtlZiZmZhlZGzYwsMsYmhZWGAYGGAzMGGGA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMmZmZZbZMMjBAAAAsYmNYADY2YCZWAAbzMzYmtlZiZmZhlZGzYwsMsYmhZ2GAYGGAzMGGGA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
 </iframe>
 </div>
 
@@ -141,7 +141,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://raidbots.com/simbot/render/talents/CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZbZMmhBAAAAsYmNYADY2YCZWAAbzMzYmtlZiZmBLzMzMGMLzMLzYMzsAAMMAmZMMMA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMGjZZZZMmhBAAAAsYmNYADY2YCZWAAbzMzYmtlZiZmBLzMzMGMLzMLDjZmlBAMMAmZMMjPA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
 </iframe>
 </div>
 
@@ -184,7 +184,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://raidbots.com/simbot/render/talents/CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMmZmZZbZMMjBAAAAsYmNYADY2YCZWAgZbmZGzstMTMzMYZmxMmhZZYxMDzsMAghBwMjhhB?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMbzMzYmtlZiZmBLzMmxMMLjZZYMzsAAMMAmZMMMA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
 </iframe>
 </div>
 
@@ -268,7 +268,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://raidbots.com/simbot/render/talents/CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZZZMmhBAAAAsYmNYADY2YCZWAgZbmZGzstMTMzMYZmZmxALzMLDzMzsAAMMAmZMMMA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMGjZZbZMmhBAAAAsYmNYADY2YCZWAgZbmZGzstMTMzMYZmZmxALzMLDjZmtBAMMAmZMMjPA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
 </iframe>
 </div>
 
@@ -310,7 +310,7 @@ The tips and recommendations listed here are based on educated opinions from PTR
 #### Farseer:
 
 <div class="iframe-holder">
-<iframe src="https://raidbots.com/simbot/render/talents/CYQALMl7AwW51MWzGneuHE3tPCAAAAzMbbzMGjZZZZMmhBAAAAsYmNYADY2YCZWAgZbmZGzstMTbmZGsMzMzYglxsMMzMzCAwwAYmxwwA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMmZmZZbZMMjBAAAAsYmNYADY2YCZWAgZbmZGzstMTLmZGsMzMzYglhFzMMz2AAGGAzMGGGA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
 </iframe>
 </div>
 
@@ -349,7 +349,35 @@ The tips and recommendations listed here are based on educated opinions from PTR
 <div id="ulatek-collapse" class="collapse" aria-labelledby="ulatek" data-parent="#accordion">
 <div class="card-body" markdown="1">
 
-## Soon™
+## Boss Fight Profile: Single Target / AoE
+
+### Talents
+
+#### Farseer:
+
+<div class="iframe-holder">
+<iframe src="https://raidbots.com/simbot/render/talents/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMGjZZbZMmhZAAAAgFzsBDYAzGTIzCAMLzMzYmtlZazMzgtZmZGDsMmlhxMzCAwwAYmxwwA?width=575&hideHeader=1&flush=1" frameborder="0" width="575px" height="100%" style="margin-left: 30px;">
+</iframe>
+</div>
+
+<hr>
+
+
+## Fight Breakdown:
+
+#### Damage:
+* Ensure to have {{ site.data.spell.asc }} and {{ site.data.spell.sk }} ready while {{ site.data.raid.venomous_abyss.venomous_heart }} is active.
+* Focus down {{ site.data.raid.venomous_abyss.doomscale_warden }} whenever they are active.
+* Use {{ site.data.spell.swg }} and {{ site.data.spell.gow }} to maintain uptime while dodging {{ site.data.raid.venomous_abyss.caustic_waves }} and {{ site.data.raid.venomous_abyss.falling_debris }}.
+
+#### Defensives:
+* Use {{ site.data.spell.as }} when accumulating multiple stacks of {{ site.data.raid.venomous_abyss.blight_vein }}.
+* Use {{ site.data.spell.healing_surge }} as needed and utilize {{ site.data.spell.hst }} as a movement filler.
+
+#### Utilities:
+* Use {{ site.data.spell.wrt }} to help players carrying eggs towards the {{ site.data.raid.venomous_abyss.doomscale_cauldron }}.
+* Use {{ site.data.spell.wind_shear }} to interrupt {{ site.data.raid.venomous_abyss.malice }} from {{ site.data.raid.venomous_abyss.doomscale_warden }}, {{ site.data.raid.venomous_abyss.vicious_echoes }} from {{ site.data.raid.venomous_abyss.blightscale_shrieker }} and {{ site.data.raid.venomous_abyss.anguished_cry }} from {{ site.data.raid.venomous_abyss.weakened_doomscale }}.
+* Use {{ site.data.spell.pct }} to remove {{ site.data.raid.venomous_abyss.poisonous_bite }}.
 
 </div>
 </div>
