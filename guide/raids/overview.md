@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Raid Guides"
-last_update: 25/07/2026
-game_version: 12.1.0 Midnight
+last_update: 12/10/2026
+game_version: 12.1.5 Midnight
 toc: true
 big_article: true
 ---
@@ -85,6 +85,14 @@ h1[id^="12"] {
     height: 305px;
 }
 </style>
+
+# Patch 12.1.5
+<div class="raid-grid">
+<a class="raid-card" href="/guide/raids/unbinding_of_kithix">
+    <img src="/assets/img/guide/raids/unbinding_of_kithix/unbinding_of_kithix.png" alt="Unbinding of Kith'ix">
+    <div class="raid-title">The Unbinding of Kith'ix</div>
+</a>
+</div>
 
 # Patch 12.1.0
 <div class="raid-grid tight">

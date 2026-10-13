@@ -1,0 +1,24 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://shadowlands.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+# Kith'ix
+overwhelming_fear: <a href="https://www.wowhead.com/spell=1304046/overwhelming-fear" target="blank">Overwhelming Fear</a>
+luminous_grace: <a href="https://www.wowhead.com/spell=1305428/luminous-grace" target="blank">Luminous Grace</a>
+venomous_hulk: <a href="https://www.wowhead.com/npc=268190/venomous-hulk" target="blank">Venomous Hulks</a>
+voidweaver: <a href="https://www.wowhead.com/npc=268192/voidweaver" target="blank">Voidweavers</a>
+bomber_beetle: <a href="https://www.wowhead.com/npc=268194/bomber-beetle" target="blank">Bomber Beetles</a>
+mindstinger_egg: <a href="https://www.wowhead.com/npc=268201/mindstinger-egg" target="blank">Mindstinger Eggs</a>
+lights_embrace: <a href="https://www.wowhead.com/spell=1304508/lights-embrace" target="blank">Light's Embrace</a>
+suffocating_darkness: <a href="https://www.wowhead.com/spell=1302951/suffocating-darkness" target="blank">Suffocating Darkness</a>
+eclipse_fragment: <a href="https://www.wowhead.com/spell=1308674/eclipse-fragment" target="blank">Eclipse Fragments</a>
